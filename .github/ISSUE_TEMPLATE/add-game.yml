@@ -1,0 +1,100 @@
+name: Add or correct a game
+description: Add a new game entry, or correct data on an existing one.
+title: "[data] "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! This template covers most data changes.
+        Please read the [schema spec](https://retronian.github.io/native-game-db/docs/schema.html)
+        first if you have not.
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which platform does this game belong to?
+      options:
+        - fc  (Famicom / NES)
+        - sfc (Super Famicom / SNES)
+        - gb  (Game Boy)
+        - gbc (Game Boy Color)
+        - gba (Game Boy Advance)
+        - md  (Mega Drive / Genesis)
+        - pce (PC Engine / TurboGrafx-16)
+        - n64 (Nintendo 64)
+        - nds (Nintendo DS)
+    validations:
+      required: true
+
+  - type: input
+    id: slug
+    attributes:
+      label: Game slug (if it already exists)
+      description: The `id` field of an existing entry, e.g. `hoshi-no-kirby`. Leave blank to propose a new game.
+      placeholder: hoshi-no-kirby
+    validations:
+      required: false
+
+  - type: input
+    id: canonical_en
+    attributes:
+      label: Canonical English title
+      description: The English or romaji form, used to find or create the slug.
+      placeholder: Kirby's Dream Land
+    validations:
+      required: true
+
+  - type: textarea
+    id: native_titles
+    attributes:
+      label: Native-script titles
+      description: |
+        One per line. Format each line as:
+          `text | lang | script | region | form`
+        Example:
+          `星のカービィ | ja | Jpan | jp | boxart`
+          `ほしのカービィ | ja | Kana | jp | ingame_logo`
+        Valid scripts: Jpan, Hira, Kana, Hans, Hant, Hang, Latn, Cyrl, Arab, Hebr, Thai.
+        Valid forms: official, boxart, ingame_logo, manual, romaji_transliteration, alternate.
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: release_date
+    attributes:
+      label: First release date (optional)
+      description: ISO 8601, partial dates OK (e.g. `1992`, `1992-04`, `1992-04-27`).
+      placeholder: 1992-04-27
+    validations:
+      required: false
+
+  - type: input
+    id: external_ids
+    attributes:
+      label: External IDs (optional)
+      description: "Paste any known IDs, e.g. `wikidata=Q1064715, igdb=1063, mobygames=6610`."
+      placeholder: wikidata=Q1064715, igdb=1063
+    validations:
+      required: false
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source of the information
+      description: |
+        Where did you get this data? If you have verified a title against
+        a primary source (title screen, original boxart, printed manual),
+        say so explicitly. Photos or links to reference scans are welcome.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: verified
+    attributes:
+      label: Verification
+      options:
+        - label: I have verified these titles against a primary source (title screen, boxart, or manual).
+          required: false

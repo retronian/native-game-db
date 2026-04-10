@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a bug in the scrapers, the build pipeline, or the published site.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For data corrections, use the "Add or correct a game" template instead.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to reproduce
+      description: Exact commands, URLs, or file paths we can use to observe the issue.
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Commit / deploy
+      description: Git SHA or a URL to the deployed page where you saw the problem.
+    validations:
+      required: false
