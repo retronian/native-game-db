@@ -166,14 +166,16 @@ def write_landing_page(stats)
         body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
         code { background: #f4f4f4; padding: 0.1em 0.4em; border-radius: 3px; }
         h1 { border-bottom: 2px solid #222; padding-bottom: 0.3em; }
+        h2 { margin-top: 1.6em; }
         ul { padding-left: 1.4em; }
         a { color: #0366d6; }
+        .lead { color: #555; }
       </style>
     </head>
     <body>
       <h1>Native Game DB</h1>
-      <p>レトロゲームのネイティブスクリプト（日本語等）対応ゲームデータベース。</p>
-      <p><strong>Total: #{stats['total_games']} games</strong></p>
+      <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in Japanese, Korean, Chinese, and other non-Latin writing systems.</p>
+      <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
 
       <h2>Platforms</h2>
       <ul>
@@ -187,14 +189,14 @@ def write_landing_page(stats)
 
       <h2>API endpoints</h2>
       <ul>
-        <li><a href="api/v1/platforms.json"><code>/api/v1/platforms.json</code></a></li>
-        <li><a href="api/v1/stats.json"><code>/api/v1/stats.json</code></a></li>
-        <li><code>/api/v1/{platform}.json</code> — プラットフォーム別ゲーム一覧</li>
-        <li><code>/api/v1/games/{platform}/{id}.json</code> — 個別ゲーム</li>
-        <li><a href="search-index/all.json"><code>/search-index/all.json</code></a> — 検索用</li>
+        <li><a href="api/v1/platforms.json"><code>/api/v1/platforms.json</code></a> &mdash; list of platforms</li>
+        <li><a href="api/v1/stats.json"><code>/api/v1/stats.json</code></a> &mdash; aggregate statistics</li>
+        <li><code>/api/v1/{platform}.json</code> &mdash; all games for a platform</li>
+        <li><code>/api/v1/games/{platform}/{id}.json</code> &mdash; single game entry</li>
+        <li><a href="search-index/all.json"><code>/search-index/all.json</code></a> &mdash; index for client-side search</li>
       </ul>
 
-      <p><a href="https://github.com/retronian/native-game-db">GitHub</a></p>
+      <p><a href="https://github.com/retronian/native-game-db">Source on GitHub</a></p>
     </body>
     </html>
   HTML
