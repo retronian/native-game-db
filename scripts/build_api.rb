@@ -98,10 +98,9 @@ def main
       write_json(File.join(API, 'games', platform_id, "#{g['id']}.json"), g)
     end
 
-    # 統計
+    # 統計: 全 titles の ISO 15924 script 分布
     games.each do |g|
-      ja = primary_title(g, 'ja')
-      script_totals[ja['script']] += 1 if ja
+      g['titles'].each { |t| script_totals[t['script']] += 1 if t['script'] }
     end
 
     platforms_meta << {
@@ -125,7 +124,7 @@ def main
     'version'      => API_VERSION,
     'total_games'  => all_games.size,
     'platforms'    => platforms_meta.map { |p| [p['id'], p['count']] }.to_h,
-    'ja_scripts'   => script_totals.sort_by { |_, v| -v }.to_h,
+    'scripts'      => script_totals.sort_by { |_, v| -v }.to_h,
     'generated_at' => Time.now.utc.iso8601
   }
   write_pretty_json(File.join(API, 'stats.json'), stats)
@@ -138,13 +137,14 @@ def main
   write_landing_page(stats)
 
   puts
-  puts "=== 出力サマリー ==="
-  puts "  合計ゲーム: #{stats['total_games']}"
-  puts "  scripts: #{stats['ja_scripts']}"
+  puts "=== Build summary ==="
+  puts "  total games: #{stats['total_games']}"
+  puts "  scripts: #{stats['scripts']}"
 
-  total_size = Dir.glob(File.join(DIST, '**', '*')).select { |f| File.file?(f) }.sum { |f| File.size(f) }
-  puts "  dist 総サイズ: #{(total_size / 1024.0 / 1024.0).round(2)} MB"
-  puts "  ファイル数: #{Dir.glob(File.join(DIST, '**', '*')).count { |f| File.file?(f) }}"
+  files = Dir.glob(File.join(DIST, '**', '*')).select { |f| File.file?(f) }
+  total_size = files.sum { |f| File.size(f) }
+  puts "  total size: #{(total_size / 1024.0 / 1024.0).round(2)} MB"
+  puts "  files: #{files.size}"
 end
 
 def write_landing_page(stats)
@@ -153,7 +153,7 @@ def write_landing_page(stats)
     %(<li><a href="api/v1/#{id}.json"><code>#{id}</code></a> #{name} — #{count} games</li>)
   }.join("\n")
 
-  scripts = stats['ja_scripts'].map { |k, v| "<li><code>#{k}</code>: #{v}</li>" }.join("\n")
+  scripts = stats['scripts'].map { |k, v| "<li><code>#{k}</code>: #{v}</li>" }.join("\n")
 
   html = <<~HTML
     <!DOCTYPE html>
@@ -182,7 +182,7 @@ def write_landing_page(stats)
         #{rows}
       </ul>
 
-      <h2>Japanese title scripts (ISO 15924)</h2>
+      <h2>Title scripts (ISO 15924)</h2>
       <ul>
         #{scripts}
       </ul>
