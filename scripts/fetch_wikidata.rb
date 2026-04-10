@@ -1,10 +1,11 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Wikidata SPARQL から指定プラットフォームのゲームデータを取得し、
-# native-game-db スキーマの JSON ファイルを data/games/{platform}/ に出力する。
+# Fetch retro game metadata for a given platform from Wikidata SPARQL
+# and emit native-game-db schema-compliant JSON files into
+# data/games/{platform}/.
 #
-# 使用方法:
+# Usage:
 #   ruby scripts/fetch_wikidata.rb gb
 #   ruby scripts/fetch_wikidata.rb fc --limit 50
 #   ruby scripts/fetch_wikidata.rb sfc --dry-run
@@ -16,10 +17,10 @@ require 'optparse'
 require_relative 'lib/script_detector'
 
 WIKIDATA_ENDPOINT = 'https://query.wikidata.org/sparql'
-ROOT = File.expand_path('..', __dir__)
+ROOT       = File.expand_path('..', __dir__)
 USER_AGENT = 'native-game-db/0.1 (https://github.com/retronian/native-game-db)'
 
-# プラットフォーム識別子 → Wikidata QID
+# Platform identifier -> Wikidata QID
 PLATFORMS = {
   'fc'  => { qid: 'Q172742',  name: 'Famicom / NES' },
   'sfc' => { qid: 'Q183259',  name: 'Super Famicom / SNES' },
@@ -32,49 +33,110 @@ PLATFORMS = {
   'nds' => { qid: 'Q170323',  name: 'Nintendo DS' }
 }.freeze
 
+# Languages we ask Wikidata for. Each entry maps the SPARQL variable name
+# to the BCP 47 language tag and a default region code (ISO 3166 alpha-2).
+#
+# script:
+#   nil  -> use ScriptDetector (e.g. Japanese can be Jpan/Hira/Kana)
+#   else -> fixed ISO 15924 code
+LANGUAGES = [
+  { var: 'jaLabel',     lang: 'ja', tag: 'ja',      region: 'jp', script: nil    },
+  { var: 'enLabel',     lang: 'en', tag: 'en',      region: 'us', script: 'Latn' },
+  { var: 'koLabel',     lang: 'ko', tag: 'ko',      region: 'kr', script: 'Hang' },
+  { var: 'zhHansLabel', lang: 'zh', tag: 'zh-hans', region: 'cn', script: 'Hans' },
+  { var: 'zhHantLabel', lang: 'zh', tag: 'zh-hant', region: 'tw', script: 'Hant' },
+  { var: 'esLabel',     lang: 'es', tag: 'es',      region: 'es', script: 'Latn' },
+  { var: 'frLabel',     lang: 'fr', tag: 'fr',      region: 'fr', script: 'Latn' },
+  { var: 'deLabel',     lang: 'de', tag: 'de',      region: 'de', script: 'Latn' },
+  { var: 'itLabel',     lang: 'it', tag: 'it',      region: 'it', script: 'Latn' }
+].freeze
+
 def build_query(platform_qid)
-  <<~SPARQL
-    SELECT DISTINCT ?item ?jaLabel ?enLabel ?pubDate ?igdbId ?mobyId WHERE {
-      ?item wdt:P31 wd:Q7889 .
-      ?item wdt:P400 wd:#{platform_qid} .
-
-      ?item rdfs:label ?jaLabel .
-      FILTER(LANG(?jaLabel) = "ja")
-
+  optional_labels = LANGUAGES.map do |lang|
+    raw = "#{lang[:var]}Raw"
+    <<~SPARQL_FRAG
       OPTIONAL {
-        ?item rdfs:label ?enLabel .
-        FILTER(LANG(?enLabel) = "en")
+        ?item rdfs:label ?#{raw} .
+        FILTER(LANG(?#{raw}) = "#{lang[:tag]}")
       }
-      OPTIONAL { ?item wdt:P577  ?pubDate . }
-      OPTIONAL { ?item wdt:P5794 ?igdbId . }
-      OPTIONAL { ?item wdt:P11688 ?mobyId . }
+    SPARQL_FRAG
+  end.join
+
+  sampled_labels = LANGUAGES.map do |lang|
+    raw = "#{lang[:var]}Raw"
+    "(SAMPLE(?#{raw}) AS ?#{lang[:var]})"
+  end.join(' ')
+
+  # 1) Use a subquery to constrain the item set first.
+  # 2) GROUP BY ?item with SAMPLE(...) so multiple OPTIONAL bindings
+  #    (e.g. several release dates) collapse into a single row instead
+  #    of cartesian-multiplying.
+  <<~SPARQL
+    SELECT ?item
+           #{sampled_labels}
+           (SAMPLE(?pubDateRaw) AS ?pubDate)
+           (SAMPLE(?igdbIdRaw)  AS ?igdbId)
+           (SAMPLE(?mobyIdRaw)  AS ?mobyId)
+    WHERE {
+      {
+        SELECT DISTINCT ?item WHERE {
+          ?item wdt:P31 wd:Q7889 ;
+                wdt:P400 wd:#{platform_qid} .
+        }
+      }
+      #{optional_labels}
+      OPTIONAL { ?item wdt:P577   ?pubDateRaw . }
+      OPTIONAL { ?item wdt:P5794  ?igdbIdRaw . }
+      OPTIONAL { ?item wdt:P11688 ?mobyIdRaw . }
     }
-    ORDER BY ?jaLabel
+    GROUP BY ?item
   SPARQL
 end
 
-def fetch(query)
+def fetch(query, max_retries: 4)
   Tempfile.create(['sparql', '.rq']) do |f|
     f.write(query)
     f.flush
 
     url = "#{WIKIDATA_ENDPOINT}?format=json"
-    result = `curl -s -X POST "#{url}" \
-      -H "Content-Type: application/sparql-query" \
-      -H "Accept: application/sparql-results+json" \
-      -H "User-Agent: #{USER_AGENT}" \
-      --data-binary @#{f.path}`
 
-    abort "SPARQL クエリ失敗" unless $?.success? && !result.empty?
-    JSON.parse(result)
+    attempt = 0
+    loop do
+      attempt += 1
+
+      # -w '%{http_code}' appends status code to stdout so we can detect
+      # silent failures (HTML error pages from the SPARQL endpoint).
+      raw = `curl -s -X POST "#{url}" \
+        --max-time 90 \
+        -w '\\n%{http_code}' \
+        -H "Content-Type: application/sparql-query" \
+        -H "Accept: application/sparql-results+json" \
+        -H "User-Agent: #{USER_AGENT}" \
+        --data-binary @#{f.path}`
+
+      curl_ok = $?.success?
+      body, status = raw.rpartition("\n").then { |b, _, s| [b, s.strip] }
+
+      if curl_ok && status == '200' && body.start_with?('{')
+        return JSON.parse(body)
+      end
+
+      reason = curl_ok ? "HTTP #{status}" : "curl exit #{$?.exitstatus}"
+      if attempt >= max_retries
+        warn "SPARQL query failed after #{attempt} attempts (#{reason})"
+        return nil
+      end
+      backoff = 2**attempt
+      warn "  attempt #{attempt} failed (#{reason}); retrying in #{backoff}s..."
+      sleep backoff
+    end
   end
 end
 
-# 英語ラベルから slug を生成（ASCII のみ）
-# 例: "Kirby's Dream Land" -> "kirbys-dream-land"
+# Build a slug from arbitrary text. ASCII-only output.
+# e.g. "Kirby's Dream Land" -> "kirbys-dream-land"
 def slugify(text)
   return nil if text.nil? || text.empty?
-  # Latin Extended を ASCII 近似にフォールバック
   ascii = text.unicode_normalize(:nfkd).encode('ASCII', invalid: :replace, undef: :replace, replace: '')
   ascii.downcase
        .gsub(/[^a-z0-9\s-]+/, '')
@@ -84,53 +146,63 @@ def slugify(text)
        .gsub(/^-+|-+$/, '')
 end
 
-# Wikidata の ja ラベルから曖昧さ回避 suffix を除去
-# 例: "Centipede (ゲーム)" -> "Centipede"
-# 例: "F-1 Race (ゲームボーイ)" -> "F-1 Race"
-DISAMBIG_RE = /\s*[(（](?:ゲーム|ビデオゲーム|コンピュータゲーム|ゲームボーイ|ファミリーコンピュータ|スーパーファミコン|任天堂|[0-9]{4}年のゲーム)[^)）]*[)）]\s*\z/.freeze
+# Strip Wikipedia-style disambiguation suffixes from a Japanese label.
+# e.g. "Centipede (ゲーム)"        -> "Centipede"
+#      "F-1 Race (ゲームボーイ)"   -> "F-1 Race"
+DISAMBIG_RE_JA = /\s*[(（](?:ゲーム|ビデオゲーム|コンピュータゲーム|ゲームボーイ|ファミリーコンピュータ|スーパーファミコン|任天堂|[0-9]{4}年のゲーム)[^)）]*[)）]\s*\z/.freeze
+# Same for English Wikipedia disambiguators.
+DISAMBIG_RE_EN = /\s*\((?:video game|game|[0-9]{4}\s*video\s*game)[^)]*\)\s*\z/i.freeze
 
-def clean_ja_label(text)
+def clean_label(text, lang)
   return text if text.nil?
-  text.sub(DISAMBIG_RE, '').strip
+  case lang
+  when 'ja' then text.sub(DISAMBIG_RE_JA, '').strip
+  when 'en' then text.sub(DISAMBIG_RE_EN, '').strip
+  else           text.strip
+  end
 end
 
-# 1 SPARQL binding -> スキーマ形式の Ruby ハッシュ（1 ゲーム分）
+# Pull all available labels out of a SPARQL binding.
+# Returns an array of {text, lang, script, region, tag}.
+def collect_labels(binding)
+  LANGUAGES.filter_map do |lang|
+    raw = binding.dig(lang[:var], 'value')
+    next nil if raw.nil? || raw.empty?
+
+    text = clean_label(raw, lang[:lang])
+    next nil if text.empty?
+
+    {
+      'text'   => text,
+      'lang'   => lang[:lang],
+      'script' => lang[:script] || ScriptDetector.detect(text),
+      'region' => lang[:region]
+    }
+  end
+end
+
+# Build one schema-compliant entry from a single SPARQL binding.
 def build_entry(binding, platform_id)
   wikidata_id = binding.dig('item', 'value')&.split('/')&.last
-  ja_label    = clean_ja_label(binding.dig('jaLabel', 'value'))
-  en_label    = binding.dig('enLabel', 'value')
   pub_date    = binding.dig('pubDate', 'value')&.split('T')&.first
   igdb_id     = binding.dig('igdbId',  'value')
   moby_id     = binding.dig('mobyId',  'value')
 
-  return nil if ja_label.nil? || ja_label.empty?
+  raw_labels = collect_labels(binding)
+  return nil if raw_labels.empty?
 
-  # slug: 英語ラベル優先、無ければ wikidata QID
-  id = slugify(en_label) || wikidata_id&.downcase
+  # Slug preference: English first, then any other Latin label, then the QID.
+  en_text   = raw_labels.find { |t| t['lang'] == 'en' }&.dig('text')
+  latn_text = raw_labels.find { |t| t['script'] == 'Latn' }&.dig('text')
+  id = slugify(en_text) || slugify(latn_text) || wikidata_id&.downcase
   return nil if id.nil? || id.empty?
 
-  titles = []
-
-  titles << {
-    'text'     => ja_label,
-    'lang'     => 'ja',
-    'script'   => ScriptDetector.detect(ja_label),
-    'region'   => 'jp',
-    'form'     => 'official',
-    'source'   => 'wikidata',
-    'verified' => false
-  }
-
-  if en_label && en_label != ja_label
-    titles << {
-      'text'     => en_label,
-      'lang'     => 'en',
-      'script'   => ScriptDetector.detect(en_label),
-      'region'   => 'us',
+  titles = raw_labels.map do |t|
+    t.merge(
       'form'     => 'official',
       'source'   => 'wikidata',
       'verified' => false
-    }
+    )
   end
 
   entry = {
@@ -157,7 +229,6 @@ def write_entry(entry, platform_id, dry_run: false)
   path = File.join(dir, "#{entry['id']}.json")
 
   if File.exist?(path) && !dry_run
-    # 既存ファイルは上書きしない（手動編集保護）
     return :skipped
   end
 
@@ -174,8 +245,8 @@ def main
   parser = OptionParser.new do |opts|
     opts.banner = "Usage: ruby scripts/fetch_wikidata.rb PLATFORM [options]\n" \
                   "  PLATFORM: #{PLATFORMS.keys.join(', ')}"
-    opts.on('--limit N', Integer, '処理件数を制限（デバッグ用）') { |n| options[:limit] = n }
-    opts.on('--dry-run', 'ファイルを書き込まずに件数のみ表示') { options[:dry_run] = true }
+    opts.on('--limit N', Integer, 'limit the number of results (debug)') { |n| options[:limit] = n }
+    opts.on('--dry-run', 'do not write files; only print stats')         { options[:dry_run] = true }
   end
   parser.parse!
 
@@ -191,8 +262,12 @@ def main
 
   query = build_query(meta[:qid])
   data  = fetch(query)
+  if data.nil?
+    warn "ABORT: could not fetch #{platform_id} from Wikidata"
+    exit 2
+  end
   bindings = data.dig('results', 'bindings') || []
-  puts "SPARQL 返却件数: #{bindings.size}"
+  puts "SPARQL bindings returned: #{bindings.size}"
   puts
 
   bindings = bindings.first(options[:limit]) if options[:limit]
@@ -200,6 +275,7 @@ def main
   stats = Hash.new(0)
   seen_ids = {}
   script_stats = Hash.new(0)
+  lang_stats   = Hash.new(0)
 
   bindings.each do |b|
     entry = build_entry(b, platform_id)
@@ -209,23 +285,27 @@ def main
     end
 
     if seen_ids[entry['id']]
-      # 同一 id 衝突 → wikidata QID を suffix
       qid = entry.dig('external_ids', 'wikidata')
       entry['id'] = "#{entry['id']}-#{qid.downcase}" if qid
     end
     seen_ids[entry['id']] = true
 
-    ja_title = entry['titles'].find { |t| t['lang'] == 'ja' }
-    script_stats[ja_title['script']] += 1 if ja_title
+    entry['titles'].each do |t|
+      script_stats[t['script']] += 1
+      lang_stats[t['lang']] += 1
+    end
 
     result = write_entry(entry, platform_id, dry_run: options[:dry_run])
     stats[result] += 1
   end
 
-  puts "=== 結果 ==="
+  puts "=== Result ==="
   stats.each { |k, v| puts "  #{k}: #{v}" }
   puts
-  puts "=== 日本語タイトルの script 分布 ==="
+  puts "=== Title languages ==="
+  lang_stats.sort_by { |_, v| -v }.each { |k, v| puts "  #{k}: #{v}" }
+  puts
+  puts "=== Title scripts (ISO 15924) ==="
   script_stats.sort_by { |_, v| -v }.each { |k, v| puts "  #{k}: #{v}" }
 end
 
