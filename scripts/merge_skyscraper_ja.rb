@@ -18,6 +18,7 @@ require 'csv'
 require 'fileutils'
 require 'optparse'
 require_relative 'lib/script_detector'
+require_relative 'lib/slug'
 
 $stdout.sync = true
 
@@ -37,28 +38,16 @@ PLATFORM_MAP = {
   'n64'       => 'n64'
 }.freeze
 
-def slugify(text)
-  return nil if text.nil? || text.empty?
-  ascii = text.unicode_normalize(:nfkd).encode('ASCII', invalid: :replace, undef: :replace, replace: '')
-  ascii.downcase
-       .gsub(/[^a-z0-9\s-]+/, '')
-       .strip
-       .gsub(/\s+/, '-')
-       .gsub(/-+/, '-')
-       .gsub(/^-+|-+$/, '')
-end
-
 def normalize(text)
   text.to_s.unicode_normalize(:nfkc).strip.downcase.gsub(/\s+/, ' ')
 end
 
-# Turn a ROM filename into the canonical title slug for matching.
-# "Hoshi no Kirby Super Deluxe (Japan).zip" -> "hoshi-no-kirby-super-deluxe"
-def filename_to_slug(filename)
-  base = filename.sub(/\.(zip|7z|rar|smc|sfc|nes|gb|gbc|gba|md|gen|bin|iso|cue|pce)\z/i, '')
-                 .gsub(/\s*\([^)]*\)/, '')
-                 .strip
-  slugify(base)
+# Turn a ROM filename into the canonical title text for matching.
+# "Hoshi no Kirby Super Deluxe (Japan).zip" -> "Hoshi no Kirby Super Deluxe"
+def filename_to_text(filename)
+  filename.sub(/\.(zip|7z|rar|smc|sfc|nes|gb|gbc|gba|md|gen|bin|iso|cue|pce)\z/i, '')
+          .gsub(/\s*\([^)]*\)/, '')
+          .strip
 end
 
 def index_db_games(platform_id)
@@ -69,15 +58,22 @@ def index_db_games(platform_id)
   Dir.glob(File.join(dir, '*.json')).sort.each do |path|
     game = JSON.parse(File.read(path))
     record = { path: path, game: game }
-    index[game['id']] ||= record
+    [game['id'], Slug.normalize_numerals(game['id']), Slug.canonical(game['id'])].compact.uniq.each do |k|
+      index[k] ||= record
+    end
     game['titles'].each do |t|
       next unless t['script'] == 'Latn'
-      slug = slugify(t['text'])
-      next if slug.nil? || slug.empty?
-      index[slug] ||= record
+      Slug.aliases_for(t['text']).each { |k| index[k] ||= record }
     end
   end
   index
+end
+
+def lookup_record(index, text)
+  Slug.aliases_for(text).each do |key|
+    return index[key] if index.key?(key)
+  end
+  nil
 end
 
 def add_title_if_new(titles, incoming)
@@ -126,10 +122,8 @@ def process_csv(csv_path, platform_id, dry_run:)
     next unless row['status'] == 'matched'
     per[:sha1_matched] += 1
 
-    slug = filename_to_slug(row['filename'] || '')
-    next if slug.nil? || slug.empty?
-
-    record = db_index[slug]
+    text = filename_to_text(row['filename'] || '')
+    record = lookup_record(db_index, text)
     if record.nil?
       per[:unmatched_slug] += 1
       next

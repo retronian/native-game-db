@@ -20,6 +20,7 @@ require 'json'
 require 'fileutils'
 require 'optparse'
 require_relative 'lib/script_detector'
+require_relative 'lib/slug'
 
 $stdout.sync = true
 
@@ -43,21 +44,12 @@ PLATFORM_MAP = {
   # currently build data for those platforms.
 }.freeze
 
-# Strip No-Intro region and revision suffixes from a title.
-# "Kirby's Dream Land (USA, Europe) (Rev A)" -> "Kirby's Dream Land"
 def strip_no_intro_suffixes(name)
-  name.gsub(/\s*\([^)]*\)\s*/, ' ').strip
+  Slug.strip_no_intro_suffixes(name)
 end
 
 def slugify(text)
-  return nil if text.nil? || text.empty?
-  ascii = text.unicode_normalize(:nfkd).encode('ASCII', invalid: :replace, undef: :replace, replace: '')
-  ascii.downcase
-       .gsub(/[^a-z0-9\s-]+/, '')
-       .strip
-       .gsub(/\s+/, '-')
-       .gsub(/-+/, '-')
-       .gsub(/^-+|-+$/, '')
+  Slug.slugify(text)
 end
 
 # Convert romu's compact release_date ("19940805T000000") to ISO 8601.
@@ -94,18 +86,25 @@ def index_db_games(platform_id)
     game = JSON.parse(File.read(path))
     record = { path: path, game: game }
 
-    # Primary key: the file's own id.
-    index[game['id']] ||= record
+    # Primary key: the file's own id plus numeric-normalized variants.
+    [game['id'], Slug.normalize_numerals(game['id']), Slug.canonical(game['id'])].compact.uniq.each do |k|
+      index[k] ||= record
+    end
 
     # Secondary keys: every Latin title the entry already has.
     game['titles'].each do |t|
       next unless t['script'] == 'Latn'
-      slug = slugify(t['text'])
-      next if slug.nil? || slug.empty?
-      index[slug] ||= record
+      Slug.aliases_for(t['text']).each { |k| index[k] ||= record }
     end
   end
   index
+end
+
+def lookup_record(index, text)
+  Slug.aliases_for(text).each do |key|
+    return index[key] if index.key?(key)
+  end
+  nil
 end
 
 def add_title_if_new(titles, incoming)
@@ -211,10 +210,7 @@ def main
 
     romu.each do |no_intro_name, entry|
       clean = strip_no_intro_suffixes(no_intro_name)
-      slug = slugify(clean)
-      next if slug.nil? || slug.empty?
-
-      record = db_index[slug]
+      record = lookup_record(db_index, clean)
       if record.nil?
         per[:unmatched] += 1
         next

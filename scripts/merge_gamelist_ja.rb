@@ -21,6 +21,7 @@ require 'json'
 require 'fileutils'
 require 'optparse'
 require_relative 'lib/script_detector'
+require_relative 'lib/slug'
 
 $stdout.sync = true
 
@@ -42,21 +43,6 @@ PLATFORM_MAP = {
   # neogeo, wonderswan, wonderswancolor are skipped (no matching db platform)
 }.freeze
 
-def slugify(text)
-  return nil if text.nil? || text.empty?
-  ascii = text.unicode_normalize(:nfkd).encode('ASCII', invalid: :replace, undef: :replace, replace: '')
-  ascii.downcase
-       .gsub(/[^a-z0-9\s-]+/, '')
-       .strip
-       .gsub(/\s+/, '-')
-       .gsub(/-+/, '-')
-       .gsub(/^-+|-+$/, '')
-end
-
-def strip_no_intro_suffixes(name)
-  name.gsub(/\s*\([^)]*\)\s*/, ' ').strip
-end
-
 def normalize(text)
   text.to_s.unicode_normalize(:nfkc).strip.downcase.gsub(/\s+/, ' ')
 end
@@ -69,15 +55,22 @@ def index_db_games(platform_id)
   Dir.glob(File.join(dir, '*.json')).sort.each do |path|
     game = JSON.parse(File.read(path))
     record = { path: path, game: game }
-    index[game['id']] ||= record
+    [game['id'], Slug.normalize_numerals(game['id']), Slug.canonical(game['id'])].compact.uniq.each do |k|
+      index[k] ||= record
+    end
     game['titles'].each do |t|
       next unless t['script'] == 'Latn'
-      slug = slugify(t['text'])
-      next if slug.nil? || slug.empty?
-      index[slug] ||= record
+      Slug.aliases_for(t['text']).each { |k| index[k] ||= record }
     end
   end
   index
+end
+
+def lookup_record(index, text)
+  Slug.aliases_for(text).each do |key|
+    return index[key] if index.key?(key)
+  end
+  nil
 end
 
 def add_title_if_new(titles, incoming)
@@ -92,22 +85,20 @@ def add_title_if_new(titles, incoming)
   end
 end
 
-# Walk the title_db indices and produce a stream of {slug => entry} pairs
-# we can try to merge against native-game-db.
+# Walk the title_db indices and produce a stream of {text => entry} pairs
+# we can try to merge against native-game-db using slug aliases.
 def collect_candidates(title_db)
   candidates = {}
 
   (title_db['by_filename'] || {}).each do |filename, entry|
-    clean = strip_no_intro_suffixes(filename)
-    slug = slugify(clean)
-    next if slug.nil? || slug.empty?
-    candidates[slug] ||= entry
+    text = Slug.strip_no_intro_suffixes(filename)
+    next if text.empty?
+    candidates[text] ||= entry
   end
 
   (title_db['by_en_title'] || {}).each do |en_title, entry|
-    slug = slugify(en_title)
-    next if slug.nil? || slug.empty?
-    candidates[slug] ||= entry
+    next if en_title.nil? || en_title.empty?
+    candidates[en_title] ||= entry
   end
 
   candidates
@@ -164,8 +155,8 @@ def main
 
     per = Hash.new(0)
     touched = {}
-    candidates.each do |slug, entry|
-      record = db_index[slug]
+    candidates.each do |text, entry|
+      record = lookup_record(db_index, text)
       if record.nil?
         per[:unmatched] += 1
         next

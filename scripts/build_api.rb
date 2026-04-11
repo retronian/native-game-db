@@ -140,6 +140,35 @@ CSS = <<~CSS
     --line: #e6e6e6;
     --code-bg: #f5f5f7;
   }
+  .media-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.8em;
+    margin: 1em 0;
+  }
+  .media-grid figure {
+    margin: 0;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 0.5em;
+    background: var(--bg);
+  }
+  .media-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    image-rendering: pixelated;
+  }
+  .media-grid figcaption {
+    font-size: 0.8em;
+    color: var(--muted);
+    margin-top: 0.3em;
+    text-align: center;
+  }
+  .game-list-item { display: flex; gap: 0.8em; }
+  .game-list-item .thumb { flex: 0 0 80px; }
+  .game-list-item .thumb img { width: 80px; height: auto; border-radius: 3px; }
+  .game-list-item .info { flex: 1; min-width: 0; }
   * { box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
@@ -299,14 +328,21 @@ def render_platform_page(platform_id, name, games)
     ja       = primary_title(g, 'ja')
     en       = primary_title(g, 'en')
     date     = g['first_release_date']
+    boxart   = (g['media'] || []).find { |m| m['kind'] == 'boxart' }
     extra    = []
     extra << %(<span class="badge">#{h(ja['script'])}</span> #{h(ja['text'])}) if ja
     extra << %(EN: #{h(en['text'])}) if en && en['text'] != title
     extra << %(#{h(date)}) if date
+
+    thumb = boxart ? %(<div class="thumb"><img src="#{h(boxart['url'])}" alt="" loading="lazy"></div>) : ''
+
     <<~LI
-      <li>
-        <a href="../../games/#{platform_id}/#{g['id']}.html"><strong>#{h(title)}</strong></a>
-        <div class="meta">#{extra.join(' &middot; ')}</div>
+      <li class="game-list-item">
+        #{thumb}
+        <div class="info">
+          <a href="../../games/#{platform_id}/#{g['id']}.html"><strong>#{h(title)}</strong></a>
+          <div class="meta">#{extra.join(' &middot; ')}</div>
+        </div>
       </li>
     LI
   }.join
@@ -318,6 +354,57 @@ def render_platform_page(platform_id, name, games)
   HTML
 
   layout(title: name, body: body, root_rel: '../../')
+end
+
+def render_media_section(game)
+  media = game['media'] || []
+  return '' if media.empty?
+
+  # Pick at most one thumbnail per kind to keep the page tidy.
+  picks = {}
+  media.each { |m| picks[m['kind']] ||= m }
+
+  # Order: boxart, titlescreen, screenshot
+  order = %w[boxart titlescreen screenshot cartridge disc logo]
+  sorted = order.map { |k| picks[k] }.compact + picks.reject { |k, _| order.include?(k) }.values
+
+  figs = sorted.map { |m|
+    label = m['kind'].sub('_', ' ')
+    %(<figure><img src="#{h(m['url'])}" alt="#{h(label)}" loading="lazy"><figcaption>#{h(label)}</figcaption></figure>)
+  }.join
+
+  %(<h2>Media</h2><div class="media-grid">#{figs}</div>)
+end
+
+def render_rom_section(game)
+  roms = game['roms'] || []
+  return '' if roms.empty?
+
+  rows = roms.map { |r|
+    hashes = %w[crc32 md5 sha1 sha256]
+              .map { |h| r[h] ? "<code>#{h}: #{r[h][0, 16]}#{r[h].size > 16 ? '…' : ''}</code>" : nil }
+              .compact.join('<br>')
+    <<~TR
+      <tr>
+        <td><code>#{h(r['name'])}</code></td>
+        <td>#{h(r['region'] || '')}</td>
+        <td><code>#{h(r['serial'] || '')}</code></td>
+        <td>#{r['size'] ? "#{r['size']} B" : ''}</td>
+        <td>#{hashes}</td>
+      </tr>
+    TR
+  }.join
+
+  <<~HTML
+    <h2>ROMs (#{roms.size})</h2>
+    <details>
+    <summary>Show No-Intro ROM metadata</summary>
+    <table>
+      <thead><tr><th>Name</th><th>Region</th><th>Serial</th><th>Size</th><th>Hashes</th></tr></thead>
+      <tbody>#{rows}</tbody>
+    </table>
+    </details>
+  HTML
 end
 
 def render_game_page(game)
@@ -376,6 +463,8 @@ def render_game_page(game)
     <p><a href="../../platforms/#{platform_id}/">&laquo; #{h(platform_name)}</a></p>
     <h1 lang="#{h(primary_title(game, 'ja')&.dig('lang') || 'en')}">#{h(title)}</h1>
 
+    #{render_media_section(game)}
+
     <h2>Titles</h2>
     <table>
       <thead>
@@ -390,6 +479,8 @@ def render_game_page(game)
     <table>#{meta_rows.join}</table>
 
     #{external_rows.empty? ? '' : "<h2>External IDs</h2><table>#{external_rows}</table>"}
+
+    #{render_rom_section(game)}
 
     <h2>Raw JSON</h2>
     <p><a href="../../api/v1/games/#{platform_id}/#{game['id']}.json">/api/v1/games/#{platform_id}/#{game['id']}.json</a></p>

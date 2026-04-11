@@ -159,6 +159,86 @@
           "description": "OpenVGDB release ID"
         }
       }
+    },
+    "roms": {
+      "type": "array",
+      "description": "ROM層: 個別のROMファイルのハッシュとメタデータ",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "No-Intro標準名（リージョン・リビジョン付き）"
+          },
+          "region": {
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 国コード（小文字）"
+          },
+          "serial": {
+            "type": "string",
+            "description": "カートリッジ/ディスクの型番"
+          },
+          "size": {
+            "type": "integer",
+            "description": "ROMファイルのバイト数"
+          },
+          "crc32": {
+            "type": "string",
+            "description": "CRC32ハッシュ（小文字16進）",
+            "pattern": "^[0-9a-f]{8}$"
+          },
+          "md5": {
+            "type": "string",
+            "description": "MD5ハッシュ（小文字16進）",
+            "pattern": "^[0-9a-f]{32}$"
+          },
+          "sha1": {
+            "type": "string",
+            "description": "SHA1ハッシュ（小文字16進）",
+            "pattern": "^[0-9a-f]{40}$"
+          },
+          "sha256": {
+            "type": "string",
+            "description": "SHA256ハッシュ（小文字16進）",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "source": {
+            "type": "string",
+            "enum": ["no_intro", "redump", "tosec", "manual"]
+          }
+        }
+      }
+    },
+    "media": {
+      "type": "array",
+      "description": "画像・動画メディア: カバーアート、タイトル画面、スクリーンショット等",
+      "items": {
+        "type": "object",
+        "required": ["kind", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "kind": {
+            "type": "string",
+            "description": "メディアの種別",
+            "enum": ["boxart", "boxart_back", "titlescreen", "screenshot", "cartridge", "disc", "logo", "video"]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "メディアへのURL（通常はGitHubのrawコンテンツURL）"
+          },
+          "region": {
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 国コード（版別パッケージ等）"
+          },
+          "source": {
+            "type": "string",
+            "enum": ["libretro_thumbnails", "wikidata", "igdb", "community", "manual"]
+          }
+        }
+      }
     }
   }
 }
