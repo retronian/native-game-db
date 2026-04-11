@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Battle Clash",
@@ -56,11 +56,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Space Bazooka",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1993-03-18",
   "external_ids": {
     "wikidata": "Q2471373",
-    "mobygames": 18632
+    "mobygames": 18632,
+    "igdb": 42735
   }
 }

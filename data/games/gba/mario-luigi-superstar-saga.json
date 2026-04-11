@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mario & Luigi: Superstar Saga",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "馬里奧與路易吉RPG",
@@ -74,11 +74,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mario & Luigi RPG",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2003-11-17",
   "external_ids": {
     "wikidata": "Q1797550",
-    "mobygames": 12026
+    "mobygames": 12026,
+    "igdb": 3351
   }
 }

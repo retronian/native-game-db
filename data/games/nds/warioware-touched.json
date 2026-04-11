@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "摸摸瓦里奥制造",
@@ -83,11 +83,37 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "さわる メイドインワリオ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Sawaru made in Wario",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Manjyeora Meideu in Wario",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2004-12-02",
   "external_ids": {
     "wikidata": "Q1154907",
-    "mobygames": 16475
+    "mobygames": 16475,
+    "igdb": 1705
   }
 }

@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Yoshi's Island DS",
@@ -65,11 +65,21 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ヨッシーアイランド DS",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2006-11-13",
   "external_ids": {
     "wikidata": "Q1193556",
-    "mobygames": 25175
+    "mobygames": 25175,
+    "igdb": 20601
   }
 }

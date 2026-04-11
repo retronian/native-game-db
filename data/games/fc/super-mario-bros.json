@@ -21,6 +21,23 @@
       "form": "official",
       "source": "wikidata",
       "verified": true
+    },
+    {
+      "text": "슈퍼 마리오브라더스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Super Mario Brothers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "descriptions": [
@@ -30,9 +47,15 @@
       "source": "manual"
     }
   ],
-  "developers": ["nintendo-r-and-d4"],
-  "publishers": ["nintendo"],
-  "genres": ["platformer"],
+  "developers": [
+    "nintendo-r-and-d4"
+  ],
+  "publishers": [
+    "nintendo"
+  ],
+  "genres": [
+    "platformer"
+  ],
   "external_ids": {
     "wikidata": "Q221686",
     "igdb": 358

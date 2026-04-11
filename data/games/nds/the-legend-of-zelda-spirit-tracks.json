@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Legend of Zelda: Spirit Tracks",
@@ -83,11 +83,29 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "젤다의 전설: 대지의 기적",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Zelda no Densetsu: Taiyou no Kiteki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2009-12-07",
   "external_ids": {
     "wikidata": "Q868545",
-    "mobygames": 44059
+    "mobygames": 44059,
+    "igdb": 1038
   }
 }

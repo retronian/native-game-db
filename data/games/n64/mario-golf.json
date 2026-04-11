@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mario Golf",
@@ -56,11 +56,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mario Golf 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1999-06-11",
   "external_ids": {
     "wikidata": "Q1758447",
-    "mobygames": 3538
+    "mobygames": 3538,
+    "igdb": 3401
   }
 }

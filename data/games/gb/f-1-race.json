@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "F-1 Race",
@@ -65,11 +65,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "F1 Race",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1984-11-02",
   "external_ids": {
     "wikidata": "Q1090190",
-    "mobygames": 45423
+    "mobygames": 45423,
+    "igdb": 240167
   }
 }

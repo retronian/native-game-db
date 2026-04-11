@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Legend of Zelda: Oracle of Ages",
@@ -56,11 +56,29 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "더 레전드 오브 젤다: 오라클 오브 시즌스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Zelda no Densetsu: Fushigi no Kinomi - Jikuu no Shou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2001-02-27",
   "external_ids": {
     "wikidata": "Q2078596",
-    "mobygames": 4270
+    "mobygames": 4270,
+    "igdb": 1041
   }
 }

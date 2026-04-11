@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Kid Icarus",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "光神話",
@@ -74,11 +74,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Hikari Shinwa: Palutena no Kagami",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1986-12-19",
   "external_ids": {
     "wikidata": "Q1142493",
-    "mobygames": 10072
+    "mobygames": 10072,
+    "igdb": 3663
   }
 }

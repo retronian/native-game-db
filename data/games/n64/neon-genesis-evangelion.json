@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Neon Genesis Evangelion",
@@ -56,11 +56,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Shinseiki Evangelion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1999-06-25",
   "external_ids": {
     "wikidata": "Q796132",
-    "mobygames": 36170
+    "mobygames": 36170,
+    "igdb": 3555
   }
 }

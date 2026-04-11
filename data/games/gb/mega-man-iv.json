@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mega Man IV",
@@ -65,11 +65,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Rockman World 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1993-10-29",
   "external_ids": {
     "wikidata": "Q605032",
-    "mobygames": 12899
+    "mobygames": 12899,
+    "igdb": 1736
   }
 }

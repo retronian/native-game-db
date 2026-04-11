@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Art of Fighting",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Art of Fighting",
@@ -65,11 +65,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Ryuuko no Ken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1992-01-01",
   "external_ids": {
     "wikidata": "Q4156284",
-    "mobygames": 13035
+    "mobygames": 13035,
+    "igdb": 4514
   }
 }

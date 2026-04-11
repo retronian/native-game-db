@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "WarioWare D.I.Y.",
@@ -83,11 +83,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Made in Ore",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2009-04-29",
   "external_ids": {
     "wikidata": "Q1755601",
-    "mobygames": 46236
+    "mobygames": 46236,
+    "igdb": 1708
   }
 }

@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mario's Super Picross",
@@ -47,11 +47,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Mario no Super Picross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1995-09-14",
   "external_ids": {
     "wikidata": "Q1026590",
-    "mobygames": 23723
+    "mobygames": 23723,
+    "igdb": 80174
   }
 }

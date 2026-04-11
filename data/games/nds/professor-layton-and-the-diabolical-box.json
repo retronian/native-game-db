@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Professor Layton and the Diabolical Box",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "雷顿教授与恶魔之箱",
@@ -83,11 +83,29 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Professor Layton and Pandora's Box",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Layton Kyouju to Akuma no Hako",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2007-11-29",
   "external_ids": {
     "wikidata": "Q1193816",
-    "mobygames": 42715
+    "mobygames": 42715,
+    "igdb": 1398
   }
 }

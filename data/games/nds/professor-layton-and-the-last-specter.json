@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Professor Layton and the Last Specter",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "雷顿教授与魔神之笛",
@@ -83,11 +83,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Layton Kyouju to Majin no Fue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2009-11-26",
   "external_ids": {
     "wikidata": "Q1345124",
-    "mobygames": 53342
+    "mobygames": 53342,
+    "igdb": 1400
   }
 }

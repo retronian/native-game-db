@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mario Tennis",
@@ -65,11 +65,37 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "マリオテニス 64",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Mario Tennis 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Mǎlì'ōu Wǎngqiú 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2000-07-21",
   "external_ids": {
     "wikidata": "Q2397985",
-    "mobygames": 3548
+    "mobygames": 3548,
+    "igdb": 3406
   }
 }

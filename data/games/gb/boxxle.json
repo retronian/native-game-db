@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Boxxle",
@@ -56,11 +56,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Soukoban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1989-09-01",
   "external_ids": {
     "wikidata": "Q4952015",
-    "mobygames": 16328
+    "mobygames": 16328,
+    "igdb": 7799
   }
 }

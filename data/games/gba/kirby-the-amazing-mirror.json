@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Kirby & the Amazing Mirror",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "星之卡比 镜之大迷宫",
@@ -83,11 +83,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Hoshi no Kirby: Kagami no Daimeikyū",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2004-04-15",
   "external_ids": {
     "wikidata": "Q2306443",
-    "mobygames": 20570
+    "mobygames": 20570,
+    "igdb": 3721
   }
 }

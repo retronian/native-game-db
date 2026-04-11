@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Mario Party 3",
@@ -65,11 +65,21 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "マリオパーティ 3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2000-12-07",
   "external_ids": {
     "wikidata": "Q743187",
-    "mobygames": 5337
+    "mobygames": 5337,
+    "igdb": 2329
   }
 }

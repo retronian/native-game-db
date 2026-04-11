@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Professor Layton and the Unwound Future",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "El profesor Layton y el futuro perdido",
@@ -65,11 +65,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Layton Kyouju to Saigo no Jikan Ryokou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2008-11-27",
   "external_ids": {
     "wikidata": "Q225861",
-    "mobygames": 47849
+    "mobygames": 47849,
+    "igdb": 1399
   }
 }

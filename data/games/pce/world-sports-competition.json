@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "World Sports Competition",
@@ -38,11 +38,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Power Sports",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1992-01-01",
   "external_ids": {
     "wikidata": "Q16267077",
-    "mobygames": 51762
+    "mobygames": 51762,
+    "igdb": 37731
   }
 }

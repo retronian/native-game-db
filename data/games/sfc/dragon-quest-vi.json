@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Dragon Quest VI",
@@ -83,11 +83,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Dragon Quest VI: Maboroshi no Daichi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1995-12-09",
   "external_ids": {
     "wikidata": "Q2301014",
-    "mobygames": 9104
+    "mobygames": 9104,
+    "igdb": 145497
   }
 }

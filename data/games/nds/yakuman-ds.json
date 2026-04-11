@@ -19,7 +19,7 @@
       "region": "us",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Yakuman DS",
@@ -29,11 +29,21 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "役満 DS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2005-03-31",
   "external_ids": {
     "wikidata": "Q8047230",
-    "mobygames": 60761
+    "mobygames": 60761,
+    "igdb": 18596
   }
 }

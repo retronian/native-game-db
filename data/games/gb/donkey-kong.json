@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Donkey Kong",
@@ -65,11 +65,21 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "동키 콩",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1994-06-14",
   "external_ids": {
     "wikidata": "Q2564684",
-    "mobygames": 5547
+    "mobygames": 5547,
+    "igdb": 1089
   }
 }

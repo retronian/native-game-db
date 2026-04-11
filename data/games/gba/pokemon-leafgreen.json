@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Pokémon edición verde hoja",
@@ -65,11 +65,29 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ポケットモンスターリーフグリーン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Pocket Monsters LeafGreen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2004-01-29",
   "external_ids": {
     "wikidata": "Q26910884",
-    "mobygames": 14757
+    "mobygames": 14757,
+    "igdb": 1516
   }
 }

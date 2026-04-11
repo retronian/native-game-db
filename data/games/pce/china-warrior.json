@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "China Warrior",
@@ -29,11 +29,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "The Kung Fu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1987-11-21",
   "external_ids": {
     "wikidata": "Q5099961",
-    "mobygames": 34756
+    "mobygames": 34756,
+    "igdb": 42127
   }
 }

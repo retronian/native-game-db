@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Legend of Zelda: Ocarina of Time",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "萨尔达传说 时之笛",
@@ -83,11 +83,28 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Zelda Chuanshuo Shiguang Zhi Di",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Zelda no Densetsu: Toki no Ocarina",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1998-11-21",
   "external_ids": {
     "wikidata": "Q213911",
-    "mobygames": 3549
+    "mobygames": 3549,
+    "igdb": 1029
   }
 }

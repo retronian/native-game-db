@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Doraemon: Nobita to Mittsu no Seireiseki",
@@ -19,7 +19,7 @@
       "region": "us",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Doraemon: Nobita to 3ttsu no Seirei Ishi",
@@ -47,11 +47,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Doraemon: Nobita to 3tsu no Seireiseki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1997-03-21",
   "external_ids": {
     "wikidata": "Q1309618",
-    "mobygames": 16435
+    "mobygames": 16435,
+    "igdb": 70797
   }
 }

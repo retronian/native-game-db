@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Legend of Zelda: Phantom Hourglass",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "薩爾達傳說 夢幻沙漏",
@@ -74,11 +74,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Zelda no Densetsu: Mugen no Sunadokei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2007-06-23",
   "external_ids": {
     "wikidata": "Q657710",
-    "mobygames": 30522
+    "mobygames": 30522,
+    "igdb": 1037
   }
 }

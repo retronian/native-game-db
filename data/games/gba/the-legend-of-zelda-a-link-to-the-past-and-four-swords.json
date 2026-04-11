@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "The Legend of Zelda: A Link to the Past and Four Swords",
@@ -28,7 +28,7 @@
       "region": "kr",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "薩爾達傳說 眾神的三角神力與四人之劍",
@@ -65,11 +65,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Zelda no Densetsu: Kamigami no Triforce & Yottsu no Tsurugi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "2002-12-02",
   "external_ids": {
     "wikidata": "Q1358804",
-    "mobygames": 51646
+    "mobygames": 51646,
+    "igdb": 77336
   }
 }

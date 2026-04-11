@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Phantasy Star II",
@@ -65,11 +65,37 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "판타지 스타 Ⅱ",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Phantasy Star II: Kaerazaru Toki no Owari ni ",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Fantashii Sutaa Tou Kaerazaru Toki no Owari ni ",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1989-03-21",
   "external_ids": {
     "wikidata": "Q721001",
-    "mobygames": 7748
+    "mobygames": 7748,
+    "igdb": 1232
   }
 }

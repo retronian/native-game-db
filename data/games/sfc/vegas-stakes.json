@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Vegas Stakes",
@@ -38,11 +38,20 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Las Vegas Dream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1993-09-10",
   "external_ids": {
     "wikidata": "Q4009249",
-    "mobygames": 18611
+    "mobygames": 18611,
+    "igdb": 38410
   }
 }
