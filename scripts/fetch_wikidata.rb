@@ -20,17 +20,26 @@ WIKIDATA_ENDPOINT = 'https://query.wikidata.org/sparql'
 ROOT       = File.expand_path('..', __dir__)
 USER_AGENT = 'native-game-db/0.1 (https://github.com/retronian/native-game-db)'
 
-# Platform identifier -> Wikidata QID
+# Platform identifier -> Wikidata platform QIDs (one or more).
+# Platforms that have multiple distinct Wikidata entities (e.g. the
+# Neo Geo Pocket vs its Color variant) list them all, because Wikidata
+# tags games with P400 against whichever specific hardware revision the
+# editor remembered.
 PLATFORMS = {
-  'fc'  => { qid: 'Q172742',  name: 'Famicom / NES' },
-  'sfc' => { qid: 'Q183259',  name: 'Super Famicom / SNES' },
-  'gb'  => { qid: 'Q186437',  name: 'Game Boy' },
-  'gbc' => { qid: 'Q203992',  name: 'Game Boy Color' },
-  'gba' => { qid: 'Q188642',  name: 'Game Boy Advance' },
-  'md'  => { qid: 'Q10676',   name: 'Mega Drive / Genesis' },
-  'pce' => { qid: 'Q1057377', name: 'PC Engine / TurboGrafx-16' },
-  'n64' => { qid: 'Q184839',  name: 'Nintendo 64' },
-  'nds' => { qid: 'Q170323',  name: 'Nintendo DS' }
+  'fc'  => { qids: %w[Q172742],            name: 'Famicom / NES' },
+  'sfc' => { qids: %w[Q183259],            name: 'Super Famicom / SNES' },
+  'gb'  => { qids: %w[Q186437],            name: 'Game Boy' },
+  'gbc' => { qids: %w[Q203992],            name: 'Game Boy Color' },
+  'gba' => { qids: %w[Q188642],            name: 'Game Boy Advance' },
+  'md'  => { qids: %w[Q10676],             name: 'Mega Drive / Genesis' },
+  'pce' => { qids: %w[Q1057377],           name: 'PC Engine / TurboGrafx-16' },
+  'n64' => { qids: %w[Q184839],            name: 'Nintendo 64' },
+  'nds' => { qids: %w[Q170323],            name: 'Nintendo DS' },
+  'ps1' => { qids: %w[Q10677],             name: 'PlayStation' },
+  'vb'  => { qids: %w[Q164651],            name: 'Virtual Boy' },
+  'ngp' => { qids: %w[Q939881 Q1977455],   name: 'Neo Geo Pocket / Color' },
+  'gg'  => { qids: %w[Q751719],            name: 'Game Gear' },
+  'ms'  => { qids: %w[Q209868],            name: 'Sega Master System' }
 }.freeze
 
 # Languages we ask Wikidata for. Each entry maps the SPARQL variable name
@@ -51,7 +60,7 @@ LANGUAGES = [
   { var: 'itLabel',     lang: 'it', tag: 'it',      region: 'it', script: 'Latn' }
 ].freeze
 
-def build_query(platform_qid)
+def build_query(platform_qids)
   optional_labels = LANGUAGES.map do |lang|
     raw = "#{lang[:var]}Raw"
     <<~SPARQL_FRAG
@@ -67,6 +76,8 @@ def build_query(platform_qid)
     "(SAMPLE(?#{raw}) AS ?#{lang[:var]})"
   end.join(' ')
 
+  values_clause = "VALUES ?platformWD { #{platform_qids.map { |q| "wd:#{q}" }.join(' ')} }"
+
   # 1) Use a subquery to constrain the item set first.
   # 2) GROUP BY ?item with SAMPLE(...) so multiple OPTIONAL bindings
   #    (e.g. several release dates) collapse into a single row instead
@@ -80,8 +91,9 @@ def build_query(platform_qid)
     WHERE {
       {
         SELECT DISTINCT ?item WHERE {
+          #{values_clause}
           ?item wdt:P31 wd:Q7889 ;
-                wdt:P400 wd:#{platform_qid} .
+                wdt:P400 ?platformWD .
         }
       }
       #{optional_labels}
@@ -257,10 +269,10 @@ def main
   end
 
   meta = PLATFORMS[platform_id]
-  puts "=== Wikidata fetch: #{meta[:name]} (#{meta[:qid]}) ==="
+  puts "=== Wikidata fetch: #{meta[:name]} (#{meta[:qids].join(', ')}) ==="
   puts
 
-  query = build_query(meta[:qid])
+  query = build_query(meta[:qids])
   data  = fetch(query)
   if data.nil?
     warn "ABORT: could not fetch #{platform_id} from Wikidata"

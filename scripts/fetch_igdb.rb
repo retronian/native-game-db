@@ -35,6 +35,8 @@ require 'fileutils'
 require 'optparse'
 require_relative 'lib/script_detector'
 
+$stdout.sync = true
+
 ROOT        = File.expand_path('..', __dir__)
 SRC         = File.join(ROOT, 'data', 'games')
 TOKEN_CACHE = File.join(ROOT, '.igdb_token.json')
@@ -63,15 +65,20 @@ REGION_DEFAULTS = {
 # Several platforms have both a regional (JP) and a western (US/EU) IGDB
 # entry; we include both so search results match either edition.
 IGDB_PLATFORMS = {
-  'fc'  => [18, 99],   # NES + Family Computer
-  'sfc' => [19, 58],   # SNES + Super Famicom
+  'fc'  => [18, 99],    # NES + Family Computer
+  'sfc' => [19, 58],    # SNES + Super Famicom
   'gb'  => [33],
   'gbc' => [22],
   'gba' => [24],
-  'md'  => [29],       # Sega Mega Drive / Genesis
-  'pce' => [86],       # TurboGrafx-16 / PC Engine
+  'md'  => [29],        # Sega Mega Drive / Genesis
+  'pce' => [86],        # TurboGrafx-16 / PC Engine
   'n64' => [4],
-  'nds' => [20]
+  'nds' => [20],
+  'ps1' => [7],         # PlayStation
+  'vb'  => [87],        # Virtual Boy
+  'ngp' => [119, 120],  # Neo Geo Pocket + Neo Geo Pocket Color
+  'gg'  => [35],        # Sega Game Gear
+  'ms'  => [64]         # Sega Master System/Mark III
 }.freeze
 
 # ---------------------------------------------------------------------------
