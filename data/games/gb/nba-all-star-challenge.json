@@ -1,0 +1,51 @@
+{
+  "id": "nba-all-star-challenge",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NBA All-Star Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "NBA All-Star Challenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "f25ba8bf",
+      "md5": "709726eb6de8d45e63a88063529605bc",
+      "sha1": "ff2eddbb7fc60efdcab60bad53d404768afc9f40",
+      "sha256": "2ba24f2c5b692caff2d2fd09e0ee75e2b843d96f676ce7288b2ec3aacb62a1e2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49011
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/NBA%20All-Star%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/NBA%20All-Star%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/NBA%20All-Star%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

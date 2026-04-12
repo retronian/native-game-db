@@ -1,0 +1,39 @@
+{
+  "id": "workboy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Workboy",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 297549
+  },
+  "roms": [
+    {
+      "name": "WorkBoy (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e81ec588",
+      "md5": "9cbd5ff8ff720dfdf4580338626d353b",
+      "sha1": "5b20683d09bc3bb57dfdd0ea8b9fa5eda620014f",
+      "sha256": "8c365c5bc213dc002eb28f016d6c7c546dceb05b51e3a8bf5703e586db5bc45e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WorkBoy%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

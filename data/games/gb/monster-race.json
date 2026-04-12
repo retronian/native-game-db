@@ -1,0 +1,65 @@
+{
+  "id": "monster-race",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Race",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "もんすたあ★レース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Race (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c191bd66",
+      "md5": "3029c962c483df174fc6f5c9202326e3",
+      "sha1": "bb305ec61ec272a7a2fada1c03ba6784c5168f86",
+      "sha256": "bbd3fd0f6bfea6ea050daf3f8ad79d1cc875a6d125b07060b059ebf04edbf24d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "目的は、「ベリー・ベスト・カップ」を勝ち取ることです。これはモンスターを集めて競い合うレーストーナメントです。野生のモンスターを捕まえて進化させ、モンスターを組み合わせて新しい種を作り、強力なチームを築きましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Monster%20Race%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Monster%20Race%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Monster%20Race%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

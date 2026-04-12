@@ -1,0 +1,65 @@
+{
+  "id": "sumou-fighter-toukaidou-basho",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sumou Fighter - Toukaidou Basho",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "相撲ファイター 東海道場所",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sumou Fighter - Toukaidou Basho (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a6905fb2",
+      "md5": "173896fb9f93fb39ed87a58981e82e36",
+      "sha1": "de575df6a3752fe3a2013a752054b7b76975e367",
+      "sha256": "c0626fe12f24f299161f42245e5b9a93a2abd415bdbdebe83cbcb3be6f099aa7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "タイトルが示す通りではありませんが、『相撲ファイター 東海道場所』はスポーツゲームではなく、横スクロールのプラットフォーマーです。プレイヤーは、誘拐された彼女を救うために五つのレベル（それぞれに三つのステージとボスがいます）をクリアしなければならない相撲レスラーの役割を担います。\n\n主人公は、拳とスタンプ攻撃の二つの攻撃手段を持っています。スタンプ攻撃はダメージを与えるだけでなく、敵をスタンさせることもできます。敵を倒したり、隠されたミニゲームを解いたり、健康回復アイテムや一時的な無敵などのパワーアップを集めることで経験値が得られます。最終的にはレベルアップし、プレイヤーは二つの攻撃のうちの一つを強化するか、最大健康を増加させることができます。ミニゲームは相撲、アームレスリング、サムタッチです。\n\nすべては反応テストで、ボタンを押してカーソルが左右に動く中、正しい位置で止める必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sumou%20Fighter%20-%20Toukaidou%20Basho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sumou%20Fighter%20-%20Toukaidou%20Basho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sumou%20Fighter%20-%20Toukaidou%20Basho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

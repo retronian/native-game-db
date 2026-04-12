@@ -1,0 +1,68 @@
+{
+  "id": "ganso-yancha-maru",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ganso!! Yancha Maru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "元祖!! ヤンチャ丸",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ganso!! Yancha Maru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "004443e6",
+      "md5": "a60df6aeb6820683805be1717097fca8",
+      "sha1": "76be351eac00749553c942b6f8002e65d8a35986",
+      "sha256": "af4fda51b28e426f6cab8b48037cf2cbc18ad6c1f02311ad901365aa52c918b7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 186733
+  },
+  "descriptions": [
+    {
+      "text": "ある日、封建時代の日本で、最も過激な忍者キッド・ニキは忍者学校で修行をしていました。突然、通りかかった鳥が矢に射抜かれ、ニキの足元に落ちてきます。そこには、ニキのガールフレンドであるマルゴ姫が邪悪なストーンウィザードにさらわれたという内容のメモが添えられていました。「助けに行くぞ！」と叫びながら、ニキは学校の壁を突き破り、マルゴを救うための冒険に出発します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ganso%21%21%20Yancha%20Maru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ganso%21%21%20Yancha%20Maru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ganso%21%21%20Yancha%20Maru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

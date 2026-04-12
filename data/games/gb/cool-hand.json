@@ -1,0 +1,76 @@
+{
+  "id": "cool-hand",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cool Hand",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cool Hand (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "0d430d1a",
+      "md5": "0397dd31e902a4a04f04b847ad21317d",
+      "sha1": "a6fe59bcc29b6d9ae6712d99822a123d2434f3b3",
+      "sha256": "c8f7bb7b1223b833917bb85702b94f08ec27ff9811a19c2837e6eb94ba5baeb2"
+    },
+    {
+      "name": "Cool Hand (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "a2f01695",
+      "md5": "c2bd6566d434e175c308d99803922e3d",
+      "sha1": "b26441e13b9dc806b182999ff8784cef46961010",
+      "sha256": "b6a7ef31dc451f989607e87b824917b053a71d7b12f62382035d26ead1b4e0a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cool%20Hand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cool%20Hand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cool%20Hand%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cool%20Hand%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cool%20Hand%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cool%20Hand%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

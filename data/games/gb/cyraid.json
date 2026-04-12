@@ -1,0 +1,51 @@
+{
+  "id": "cyraid",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cyraid",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cyraid (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "9d00da55",
+      "md5": "e55ecbd33d5813fe6e9a4ca1d04e9f15",
+      "sha1": "e295fce5531be0df7f5a10628608e0dcf54da71b",
+      "sha256": "d5a1c0e7af970859449c47fcc80a5f4dfa4f456b20fdfcd49e753ce46f2dc3da"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48953
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cyraid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cyraid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cyraid%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

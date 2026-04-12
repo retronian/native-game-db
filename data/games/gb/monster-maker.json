@@ -1,0 +1,65 @@
+{
+  "id": "monster-maker",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Maker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターメーカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Maker (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "725ee86c",
+      "md5": "51dff0233c9d348ab59341d8afbb6275",
+      "sha1": "70d99059ef780033cd0844ab724cb0c1b4b3c839",
+      "sha256": "f14705cd3e11436f94e4df4ac113c1d2ddc5fb2e7d921e25c7a889becffe4925"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "四人のヒーローの中から一人を選び、カードでできたワンダーランドを探検しよう。城下町で情報を集め、クエストダンジョンマップを探索しよう。自分のカードでバトルを繰り広げよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Monster%20Maker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Monster%20Maker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Monster%20Maker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

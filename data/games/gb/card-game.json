@@ -1,0 +1,65 @@
+{
+  "id": "card-game",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Card Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カード・ゲーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Card Game (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "d05f4c90",
+      "md5": "e46274f5c7a7e2f7816174e32da48fdb",
+      "sha1": "9ac64030c1e1ca89828ea54ac1fb0d884d6d92bb",
+      "sha256": "d503761effa6003f5e287f742791b8ba1afc284af56cba4ba16eab5dae58b6b9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98613
+  },
+  "descriptions": [
+    {
+      "text": "ゲームボーイ用のカードゲームのコレクションで、ポーカー、ブラックジャック、アメリカ（クレイジーエイトやウノのようなゲーム）、そして占いゲームが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Card%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Card%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Card%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

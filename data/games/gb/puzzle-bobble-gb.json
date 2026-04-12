@@ -1,0 +1,65 @@
+{
+  "id": "puzzle-bobble-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Bobble GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルボブルGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Bobble GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "10235e38",
+      "md5": "37c69c73c81e221189a672938b5f30ab",
+      "sha1": "203a39b937e1900fa272f93830d3c6f825e67821",
+      "sha256": "649355eddea559d8472dd83cee5e2a9637c613faf38727eeea7b9b6f16d201c3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "簡単です：あなたを壊す前に、多色のボールを壊しましょう！\n\nバスト・ア・ムーブ 2は、超高速で、超ハイテンション、100%中毒性のあるアーケードパズルゲームです。あなたをつかんで離さない！ボールが降りてくる中、3つ以上のボールを揃えて素早く弾き飛ばすためには、鋭い目と素早い反射神経が必要です。壊すか壊されるかの全力レースに挑みましょう！\n\n揃えて！積んで！弾いて！これは、誰もがバスト・ア・ムーブできる世紀のパズルゲームです！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-04-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Puzzle%20Bobble%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Puzzle%20Bobble%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Puzzle%20Bobble%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

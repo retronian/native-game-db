@@ -1,0 +1,77 @@
+{
+  "id": "noobow",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Noobow",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぬ〜ぼ〜",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ぬ～ぼ～",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Noobow (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8bbcc8bb",
+      "md5": "ccd0cf7cc240714a9694e1fe296afb7c",
+      "sha1": "b571d9051e3a9f1a55533b4f43941cae907aedff",
+      "sha256": "94bdf80f22a63b67dced3237aafaad58623e52341bb353cbf9a8ab74be3164f4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 62598
+  },
+  "descriptions": [
+    {
+      "text": "ぬ〜ぼ〜は、日本のチョコレートマスコットをフィーチャーしたパズルプラットフォーマーです。ゲームの目的は、物を拾い、それを必要な場所で使って太陽と雨が戦うのを止めることです。物を正しい場所で使うと、それらは消えてプレイヤーが正しい選択をしたことを確認します。\n\nゲームには7つのレベルがあり、ぬ〜ぼ〜は常に自分の命を危険にさらすことを拒みます。各レベルをクリアするには、ゴールに到達し、そこで待っているキャラクターを助ける必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Noobow%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Noobow%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Noobow%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

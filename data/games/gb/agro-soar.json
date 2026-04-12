@@ -1,0 +1,50 @@
+{
+  "id": "agro-soar",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Agro Soar",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Agro Soar (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 131072,
+      "crc32": "9b7945ea",
+      "md5": "c8bab3886324f6aec60b65d8584453a1",
+      "sha1": "d635761f247301fe6bae4d71ee67ceef384ca53a",
+      "sha256": "e02087b64ad5247aa05ea96facfb193b7ec7d65156dcf6858e12e0aba950e7a6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49115
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Agro%20Soar%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Agro%20Soar%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Agro%20Soar%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    }
+  ]
+}

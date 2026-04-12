@@ -1,0 +1,68 @@
+{
+  "id": "little-master-raikuban-no-densetsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Master - Raikuban no Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リトルマスター ライクバーンの伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Master - Raikuban no Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "31cd9670",
+      "md5": "de95d425f6a2836960f4ee2a9aa2f6f7",
+      "sha1": "7c83b3c6cd9571c422e66e64e522a0416fa477b2",
+      "sha256": "fd6edeec30256152846fb0bf00af65d74e3e523b621ae8d575a391202da61cdb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 176002
+  },
+  "descriptions": [
+    {
+      "text": "キャラクターを育成し、戦闘を行い、シナリオをクリアするシミュレーションゲームです。バトルシーンのアニメーションは滑らかです。また、仲間のユニットを組み合わせて強力なコンパニオンを作成することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Little%20Master%20-%20Raikuban%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Little%20Master%20-%20Raikuban%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Little%20Master%20-%20Raikuban%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "bakenou-v3",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakenou V3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "馬券王V3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakenou V3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "4e2fffe5",
+      "md5": "614c8e744c8f07c6e3b29480478600d4",
+      "sha1": "b1bf86f4ffb9af9c5f1c592f0cabedb95b405437",
+      "sha256": "f667ca884e9de0420bad44a27e55e1b762eaf7317d6c8aadac3b48a4d658f9f7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 123669
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bakenou%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bakenou%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bakenou%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "game-boy-gallery-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Gallery 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Gallery 2 (Australia) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 262144,
+      "crc32": "6b09508f",
+      "md5": "5c63962225ae9f8738305dc281ebbfb0",
+      "sha1": "f002564f9cd9edb704b9c64f889aea3e7836a712",
+      "sha256": "059b0acf47cd7c2245bfd38fe102178fb7605438789d30b4ed1012515857b7ff"
+    },
+    {
+      "name": "Game Boy Gallery 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9359a183",
+      "md5": "3e35ece810eaa26bb027a18f58cf6dba",
+      "sha1": "021c47f89fa975e4dc5cc32c61bf87b120a25c09",
+      "sha256": "67e059d5e270c692250f0a69bd2f4d171b0d238ee0e6d7d28e139ef2ef9ffde0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20Boy%20Gallery%202%20%28Australia%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Gallery%202%20%28Australia%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Gallery%202%20%28Australia%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20Boy%20Gallery%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Gallery%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Gallery%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

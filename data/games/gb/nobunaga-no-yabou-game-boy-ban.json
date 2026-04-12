@@ -1,0 +1,65 @@
+{
+  "id": "nobunaga-no-yabou-game-boy-ban",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga no Yabou - Game Boy Ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "信長の野望 ゲームボーイ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga no Yabou - Game Boy Ban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8803186a",
+      "md5": "e821ec4fe25c679efeb9676a129c2130",
+      "sha1": "b86474be139be4c7bd7aa8ad01c50d2c49f4b78b",
+      "sha256": "44d026ad7c479815408ac3e05fec4f19507f1384627543298a0667d4a4944e39"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "16世紀、日本の戦国時代は国を数多くの封建国家に分割し、それぞれが大名によって支配されていました。多くの者が土地を征服し、将軍となって国全体を治めることを夢見ていました。その中の一人が、冷酷な支配者であり著名な戦略家でもある野望に満ちた織田信長です。プレイヤーは織田信長または他の多くの大名の役割を担い、日本を征服しようとします。\n\n「信長の野望」はターン制の戦略ゲームで、異なるモードでプレイすることができます。プレイヤーはまず、17地域のシナリオまたはより大きな50地域のシナリオを選択します。その後、プレイヤーは大名を選ぶ必要があり、それぞれの大名は年齢、健康、野望、運、魅力、IQなどのいくつかのカテゴリーで評価されています。ゲームが進行するにつれて、これらの値はゲーム内のイベントに応じて変化します。年齢の値は一種の時間制限を表しており、高齢の大名は老衰や病気で死ぬ可能性が高まります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

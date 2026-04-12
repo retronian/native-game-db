@@ -1,0 +1,65 @@
+{
+  "id": "yomihon-yumegoyomi-tenjin-kaisen-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yomihon Yumegoyomi - Tenjin Kaisen 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "読本 夢五誉身 天神怪戦2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yomihon Yumegoyomi - Tenjin Kaisen 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "211c4611",
+      "md5": "71d7c219ed1cc63bfc6d77e62f6e2227",
+      "sha1": "781bb266b4c9aa59a2db4c278d2d2fe41a60ebb2",
+      "sha256": "d0e6da26cf1638a81a5f4d7521ad873bcdea01a18cc335ad84e47c6f3b4fb1a2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "前作のシューティングから変更され、イラストとテキストが4分割画面に表示されるアドベンチャーゲームのようなシステムになりました。デザインもコミカルで、最初にはカードバトルが採用されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yomihon%20Yumegoyomi%20-%20Tenjin%20Kaisen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yomihon%20Yumegoyomi%20-%20Tenjin%20Kaisen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yomihon%20Yumegoyomi%20-%20Tenjin%20Kaisen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

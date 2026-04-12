@@ -1,0 +1,59 @@
+{
+  "id": "magic-knight-rayearth-2nd-the-missing-colors",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magic Knight Rayearth 2nd. - The Missing Colors",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マジックナイト 魔法騎士 レイアース 2nd. The Missing Colors ミッシングカラーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "00202dfa",
+      "md5": "522c139d757a5f5aef530c60ef3c5502",
+      "sha1": "afe76c2d6f796813f1803e8c542107bf0827f966",
+      "sha256": "ffeb6c8433f8d2bacceb833ec33d146ca0c2ddcd5980c2839a9c5416516c2c71"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「マジックナイト 魔法騎士 レイアース 2nd. ミッシングカラーズ」は、パンドラボックスによって開発され、トミー株式会社によって1995年に日本で発売されたロールプレイングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-10-27",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Magic%20Knight%20Rayearth%202nd.%20-%20The%20Missing%20Colors%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Magic%20Knight%20Rayearth%202nd.%20-%20The%20Missing%20Colors%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

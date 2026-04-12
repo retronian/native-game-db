@@ -1,0 +1,65 @@
+{
+  "id": "honoo-no-toukyuuji-dodge-danpei",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honoo no Toukyuuji - Dodge Danpei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "炎の闘球児 ドッジ弾平",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ba595897",
+      "md5": "588b4e9ee2cbf179734c6e71379cd144",
+      "sha1": "417c22bfd8dba5da00c207da7866d8d8e8b292d1",
+      "sha256": "ae9a8b1c890fe1aba92fab4532ea946b76f047d030e8dba13f23637498f80746"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同名の漫画を原作としたゲームで、ドッジボールの人気を引き起こしました。プレイヤーがアクション画面でパスやシュートを選択すると、そのシーンが力強くアニメーションされます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

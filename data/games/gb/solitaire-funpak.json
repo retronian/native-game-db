@@ -1,0 +1,51 @@
+{
+  "id": "solitaire-funpak",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solitaire FunPak",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solitaire FunPak (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "35a5234a",
+      "md5": "78da1015ca2b5b4e83f7aea41214e779",
+      "sha1": "185b95313d437b9e4bed2d10a346d16c4640325c",
+      "sha256": "3d6fd2f730d66266215b06c7d40ebd060aca9a48f8117d25a4411fa5d644ff57"
+    }
+  ],
+  "external_ids": {
+    "igdb": 265003
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Solitaire%20FunPak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Solitaire%20FunPak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Solitaire%20FunPak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

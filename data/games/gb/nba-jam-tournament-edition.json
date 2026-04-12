@@ -1,0 +1,70 @@
+{
+  "id": "nba-jam-tournament-edition",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NBA Jam - Tournament Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "NBAジャム トーナメントエディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "NBA Jam - Tournament Edition (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "32909f62",
+      "md5": "4668b13913dfb14e43c263a7015eb9ab",
+      "sha1": "ed3de869011ccf636a7be0949ca08d029c7873e2",
+      "sha256": "74c0dd3b93ea3150968017feef588b4f6f268be0049ff0a00087df7192344459"
+    },
+    {
+      "name": "NBA Jam - Tournament Edition (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "27d74c50",
+      "md5": "802cfbc386bb79b0889d7dd2b6abdc13",
+      "sha1": "981de2c70a2dfb5ae829d39cc5f302815780e771",
+      "sha256": "a5f14484ff4b1d91f287d38f7b0dba0a686368fc3cfbefaf24e83cc711a6dc2b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 259876
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/NBA%20Jam%20-%20Tournament%20Edition%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/NBA%20Jam%20-%20Tournament%20Edition%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/NBA%20Jam%20-%20Tournament%20Edition%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

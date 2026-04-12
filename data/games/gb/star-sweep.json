@@ -1,0 +1,77 @@
+{
+  "id": "star-sweep",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Sweep",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スタースイープ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スタースィープ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Star Sweep (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d6fd967c",
+      "md5": "05c256d964e31bd02a23f27e812cfd78",
+      "sha1": "caabaa2e9cbab27859db80ef6b0e90e7b94b3bd0",
+      "sha256": "bb3e8ff09097b213f10283099dfd131aade9d6818f139d2dfb1ca351a7959040"
+    }
+  ],
+  "external_ids": {
+    "igdb": 200367
+  },
+  "descriptions": [
+    {
+      "text": "ブロックを消す落下パズルです。ゲームの目的は、同じシンボルをブロック内に配置し、それらが隣接するようにしてブロックをクリアすることです。「プロブレムモード」では、プレイヤーは各パズルを順番に解かなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Sweep%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Sweep%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Sweep%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

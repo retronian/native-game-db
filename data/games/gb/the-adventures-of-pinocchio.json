@@ -1,0 +1,45 @@
+{
+  "id": "the-adventures-of-pinocchio",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "The Adventures of Pinocchio",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 49100
+  },
+  "roms": [
+    {
+      "name": "Adventures of Pinocchio, The (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "0b9de1dc",
+      "md5": "ba78ac0638f36a89386b690d619f13b1",
+      "sha1": "6808d5a5fba9b58d67e91f22a2860e4e72f6eec1",
+      "sha256": "50c3a2193005c9134699ab00de16510fb946db10cdbc33bfacd8a3132926b72e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Adventures%20of%20Pinocchio%2C%20The%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Adventures%20of%20Pinocchio%2C%20The%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

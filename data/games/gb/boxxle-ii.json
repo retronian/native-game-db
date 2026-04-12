@@ -1,0 +1,68 @@
+{
+  "id": "boxxle-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Boxxle II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "倉庫番 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Sokoban 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Boxxle II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "c08e9756",
+      "md5": "308abd707a48ee9d69c287d818469fd6",
+      "sha1": "36315dab12915d2d2fad7a37fcb5ce6809118c8a",
+      "sha256": "f08dc5b17223b36ce108b18a80822e2b4a5354e2ea60e8003ca5095e069fccea"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48961
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boxxle%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boxxle%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boxxle%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

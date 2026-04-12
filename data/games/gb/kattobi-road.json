@@ -1,0 +1,68 @@
+{
+  "id": "kattobi-road",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kattobi Road",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カットビロード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kattobi Road (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "efbc23fc",
+      "md5": "db93fedeee04d4a18fd4251cdc93620d",
+      "sha1": "7ac064a877ecc8247dfb7213722dbd0f4be665f0",
+      "sha256": "e231dacb818e3d1f9cb0e4e79c5679848be73d59b4c3f7b6ee09d50c58a32abb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 340328
+  },
+  "descriptions": [
+    {
+      "text": "バーコードを読み取る周辺機器を使ったレーシングゲーム「カットビロード」。バーコードボーイを使って車をチューニングし、軽自動車からF1カーまでさまざまな車が登場します。さらに、バーコードを使ったもっと多くのタイプの車もあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kattobi%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kattobi%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kattobi%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

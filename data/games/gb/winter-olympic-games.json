@@ -1,0 +1,82 @@
+{
+  "id": "winter-olympic-games",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Winter Olympic Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Winter Gold",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Winter Olympic Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "1a98f0a4",
+      "md5": "c593b63cbd4b151a2fd1861c73634b0a",
+      "sha1": "95d664a8a0b74d6993501847d4ce065913bd1e08",
+      "sha256": "7e59acb2d958a6b0bc6d1e35b54de84c2971c4a0a4f9f1745d408d60390a4b50"
+    },
+    {
+      "name": "Winter Olympic Games (USA) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "1510305e",
+      "md5": "8b7cd9501263bff7ea31389d78df8ca4",
+      "sha1": "6f66dc2ab6f302251591a1252be12367a8e8dfe4",
+      "sha256": "6dc4d388390e3ecdbf37e84566ba5213b29a527f6dd55e32111cd04b4cf25986"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365673
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Winter%20Olympic%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Winter%20Olympic%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Winter%20Olympic%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Winter%20Olympic%20Games%20%28USA%29%20%28Rev%201%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Winter%20Olympic%20Games%20%28USA%29%20%28Rev%201%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

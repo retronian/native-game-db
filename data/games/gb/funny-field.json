@@ -1,0 +1,65 @@
+{
+  "id": "funny-field",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Funny Field",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファニーフィールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Funny Field (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "bfd87aa4",
+      "md5": "87f730d486bdc4685bcc6e91a7124c35",
+      "sha1": "0b74e84ce50454057f78e4178be2599e57c91855",
+      "sha256": "2912647e2a1265a51a6c0f98c7e300aee6e211260a67b13fbf4aac446c1c7322"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "デクスタリティは、7x8のグリッドで構成されたパズルゲームで、各マスにはタイルや他のアイテムが配置されています。目標は、制限時間内にすべてのタイルをひっくり返すことです。これはボタンを押して手動でトリガーする必要がありますが、フィールド上に別のひっくり返されたタイルがある場合、プレイヤーの位置とそのタイルの間にあるすべてのタイルもひっくり返ります。一部のグリッドには、動かないブロック、動かせるブロック（通常の押し方や強いキックで飛ばすことができます）、および穴が配置されています。\n\nまた、避けなければならないモンスターも存在します。5種類のモンスターはそれぞれ異なる行動パターンを持ち、すでにひっくり返されたタイルを元に戻す能力があります。中にはブロックを押したり、タイルを破壊することができるものもいます。モンスターはブロックを使って倒すことができ、プレイフィールドの境界や穴に押し込むことで排除できます。また、モンスターを閉じ込めることも可能です。倒されたモンスターは、あらかじめ定められたスポーンポイントで徐々に再出現します。これは数段階にわたって行われます。「卵」フェーズでは、他の敵を倒すために拾うことができます。もう一つの武器としては、複数のタイルがひっくり返った列に立っている敵を利用することができます。\n\nブロックを隅に押し込むと、それらは消えてパワーアップに変わります。例えば、ボーナスポイント、追加時間、またはすべての敵を一時的にスタンさせる効果などです。敵に触れたり、時間切れになるとライフが失われます。その際、すべてのひっくり返されたタイルはそのままの状態を保ちます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Funny%20Field%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Funny%20Field%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Funny%20Field%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

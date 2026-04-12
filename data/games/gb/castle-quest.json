@@ -1,0 +1,67 @@
+{
+  "id": "castle-quest",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Castle Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Castle Quest (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2f8aaf6f",
+      "md5": "03ce24437224ff296a71f402663a0ee9",
+      "sha1": "45b38a334481f620bb7165fee81391036a54a748",
+      "sha256": "49049b9e39327ec27a79374835c50700b8dac9359e1f2cec435816690b04483d"
+    },
+    {
+      "name": "Castle Quest (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "8a5636ea",
+      "md5": "779dce075e652bea5bbecf89bb5b04df",
+      "sha1": "356c8510b0647e56a558aba9d5dc4cc9d3ccd94c",
+      "sha256": "70461027df27a08698b33bea2a724a6415578340d29dafc84545cd7f156de7ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307104
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Castle%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Castle%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Castle%20Quest%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Castle%20Quest%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

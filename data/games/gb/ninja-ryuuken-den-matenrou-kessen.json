@@ -1,0 +1,65 @@
+{
+  "id": "ninja-ryuuken-den-matenrou-kessen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Ryuuken Den - Matenrou Kessen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者龍剣伝GB 摩天楼決戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Ryuuken Den - Matenrou Kessen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "d2be3397",
+      "md5": "7f896b5e5e27eda1b08251ebe581c885",
+      "sha1": "7200ac959877b4e4e423997d699a0e5c144f5b0b",
+      "sha256": "5732404e1eedc553a3c2fc04c527f497b74cd6567232cb3dcc1342633d5bc1d8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「忍者龍剣伝GB 摩天楼決戦」は「忍者龍剣伝」の前日譚です。1985年、NES版のゲームの3年前で、ジャキオはまだ目覚めていません。しかし、悪の独裁者ガルーダ皇帝がニューヨーク市を脅かしており、リュウ・ハヤブサが彼と戦う運命にあります。\n\nこのゲームはアクションサイドスクロール型です。リュウは走り、ジャンプし、剣を使って敵を倒すことができます。また、グラップリングフック装置を持っており、高いプラットフォームに到達するために使用できます。プラットフォームを手で登ることも可能です。パワーアップを集めることで、リュウは「火輪の術」と呼ばれる魔法の技を使用でき、通常の剣よりも多くのダメージを与える上昇し回転する炎の輪を発生させます。この技は最大で5回まで使用可能です。リュウには6つのユニットを持つライフメーターがあり、容器の中にある適切なパワーアップを見つけることで回復できます。\n\nゲームは5つのステージに分かれています。各ステージにはサブスクリーンがあり、主な目的は画面の左から右へ進み、道中の敵を倒しながら画面の端まで到達することです。リュウは人間、サイボーグ、機械などの敵と遭遇します。各ステージの最後にはボス戦が待ち受けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ninja%20Ryuuken%20Den%20-%20Matenrou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ninja%20Ryuuken%20Den%20-%20Matenrou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ninja%20Ryuuken%20Den%20-%20Matenrou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

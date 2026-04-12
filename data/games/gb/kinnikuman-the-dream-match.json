@@ -1,0 +1,77 @@
+{
+  "id": "kinnikuman-the-dream-match",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kinnikuman - The Dream Match",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キン肉マン ザ★ドリームマッチ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "キン肉マン ザ☆ドリームマッチ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kinnikuman - The Dream Match (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "48c2cd38",
+      "md5": "16a03da1364c683b73742dc3e6c0e788",
+      "sha1": "cc55e811024f60c0097efdff5962d85830626ab0",
+      "sha256": "afbdffbc47be7d12d853996068102c1d056672a5a660a9e9e2ba09c2939dbb09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65728
+  },
+  "descriptions": [
+    {
+      "text": "6人の超人が戦う格闘ゲームです。打撃技、組み技、蓄積ゲージを使った必殺技で敵の体力を奪いましょう。勝負は敵の体力が0になるまで続きます。超人同士の駆け引きが鍵となるゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kinnikuman%20-%20The%20Dream%20Match%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kinnikuman%20-%20The%20Dream%20Match%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kinnikuman%20-%20The%20Dream%20Match%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

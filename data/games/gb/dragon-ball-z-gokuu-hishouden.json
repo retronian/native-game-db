@@ -1,0 +1,74 @@
+{
+  "id": "dragon-ball-z-gokuu-hishouden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball Z - Gokuu Hishouden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボール 悟空飛翔伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボールZ 悟空飛翔伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Gokuu Hishouden (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "38da46d7",
+      "md5": "3d4537f6a0542f781e408bd5440d23dd",
+      "sha1": "6bf8f3400bf323edecc2152c4a86f6b0cae628fe",
+      "sha256": "f63b95b5b03c399b8546e5f72004a2ebaf2e2826fa83a76705b2629bd4da817f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンボールZ 悟空飛翔伝は、1994年11月25日に日本でゲームボーイ用にリリースされたロールプレイングゲームです。悟空RPGシリーズの第一作目であり、ゲームボーイ向けの初のドラゴンボールゲームです。タイトルとは裏腹に、悟空飛翔伝はドラゴンボールの終わり、すなわち第23回天下一武道会での悟空とピッコロの戦いから始まり、ドラゴンボールZのサイヤ人編でのベジータとの戦いで終わります（2009年のゲーム「ドラゴンボールZ: サイヤ人の襲撃」に似ています）。\n\nこのゲームはスーパーファミコン用のスーパーニンテンドーゲームボーイにも対応しています。続編はドラゴンボールZ 悟空激闘伝です。\n\nゲームモード：\n\nストーリー - 第23回天下一武道会から始まり、サイヤ人編でのベジータとの戦いまで進行します。\n\n天下一武道会 - 8人のファイターによるトーナメントモードです。\n\nプレイ - スーパーニンテンドーゲームボーイ専用のモードで、悟空や他のキャラクターでプレイできます。\n\nトレーニング - トレーニングエクササイズです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Gokuu%20Hishouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dragon%20Ball%20Z%20-%20Gokuu%20Hishouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Gokuu%20Hishouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "mickey-mouse-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey Mouse II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミッキーマウスII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey Mouse II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "dfee8bcc",
+      "md5": "9f5ddc6ee110a6843b1d9d9a08514c71",
+      "sha1": "2d44566d2d74f573d2faf23988a3070abb47555d",
+      "sha256": "1dce8c46377219979672b54769c8d855d6708dfc263f142f61ddb97cdc78cc93"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームでは、ミッキーマウスをいくつかのダンジョンに導き、主に敵を避けることが目的です。\n\nこのゲームはプラットフォーマーよりもパズルゲームに近いです。出口に到達するためにいくつかの鍵を集める必要があり、道は常に敵を騙して撃たせたり、あなたが通り過ぎるために離れさせたりすることで進むことができます。弾薬は常に非常に限られており、矢と爆弾で構成されています。レベルによっては矢を使ったり、爆弾を使ったりします。\n\nストーリーはシンプルで、ミッキーマウスとしてあなたが邪悪な魔法使いからミニーを救うという内容です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%20Mouse%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%20Mouse%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%20Mouse%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

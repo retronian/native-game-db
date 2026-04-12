@@ -1,0 +1,102 @@
+{
+  "id": "kinin-koumaroku-oni",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kinin Koumaroku Oni",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鬼忍降魔録 Oni おに",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "鬼忍降魔録 ONI",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kinin Koumaroku Oni (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b7f48649",
+      "md5": "a7594d0b4362a7e4325dd8ea913c4bf1",
+      "sha1": "7c6c71b52c62b814945ee102054a7a3210b1ecf3",
+      "sha256": "c878283a03f126545646bd03be6821fbd9f81542e59dbb739ea9bb34e2845cfa"
+    },
+    {
+      "name": "Kinin Koumaroku Oni (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "aaf6366c",
+      "md5": "0e837cca81c48f18671751491b9c4c29",
+      "sha1": "298965bc2b99e49339618914114abfd0962560c1",
+      "sha256": "03792dc5acd714c59377ac0188edb1d4b67c37d492db9063cb3cbcf5afcf6aec"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは封建時代の日本を舞台にしたRPGです。主人公は、悪魔の神々から血を引き出し、いつでも悪魔「マホウドウジ」に変身できる忍者です。主な目標は、謎に包まれた彼の誕生の秘密を明らかにすることです。敵はすべて日本の民間伝承に登場するキャラクターで、幽霊やその他のモンスターが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kinin%20Koumaroku%20Oni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kinin%20Koumaroku%20Oni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kinin%20Koumaroku%20Oni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kinin%20Koumaroku%20Oni%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kinin%20Koumaroku%20Oni%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kinin%20Koumaroku%20Oni%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

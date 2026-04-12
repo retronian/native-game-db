@@ -1,0 +1,57 @@
+{
+  "id": "pachinko-saiyuuki",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Saiyuuki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチンコ西遊記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Saiyuuki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8f931831",
+      "md5": "4ab6bd9d417355938a5197941863d98f",
+      "sha1": "8bbc798eb5b531f513ffa56f105983f19f9caa1e",
+      "sha256": "5b759ed3c33d2bccd80f5f32f395aaddd9885eef77ff7912c118cbb1c8d752af"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachinko%20Saiyuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachinko%20Saiyuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachinko%20Saiyuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

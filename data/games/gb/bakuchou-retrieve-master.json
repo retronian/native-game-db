@@ -1,0 +1,77 @@
+{
+  "id": "bakuchou-retrieve-master",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakuchou Retrieve Master",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆釣リトリーブマスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "爆釣 リトリーブマスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakuchou Retrieve Master (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8a546dec",
+      "md5": "7d775680308fc232d1c6547124bab089",
+      "sha1": "bfea17b22b3ac91366156d8db1a7dc619c7b5a28",
+      "sha256": "ead03c064b8592297772c999e8538b8b1e90b5909a7fe567c238b947c9f71a74"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228490
+  },
+  "descriptions": [
+    {
+      "text": "爆釣リトリーブマスターは、TOSEが開発し、コナミが出版したロールプレイングゲームで、1998年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-10-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bakuchou%20Retrieve%20Master%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bakuchou%20Retrieve%20Master%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bakuchou%20Retrieve%20Master%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

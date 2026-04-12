@@ -1,0 +1,54 @@
+{
+  "id": "ferrari",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ferrari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フェラーリ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ferrari (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a7bdfec8",
+      "md5": "a1b98dad8650552a7133e786d319c95d",
+      "sha1": "f9883af35e5f49736f9dc073ce00f3779e93cf3f",
+      "sha256": "b4d1005861f79ea430eb636efefb02cfd26e2a686179a92fec6afe530258104a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ferrari%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ferrari%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ferrari%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

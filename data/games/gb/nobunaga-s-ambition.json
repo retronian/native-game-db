@@ -1,0 +1,68 @@
+{
+  "id": "nobunaga-s-ambition",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga's Ambition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "信長の野望ゲームボーイ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nobunaga no Yabou: Game Boy-ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga's Ambition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5a843008",
+      "md5": "7cc78ea5dbc099e8f89849a11a08c38e",
+      "sha1": "d4dd65535d2a15f177289b53a49f1bc9e9b739f3",
+      "sha256": "79b35e46b8258cccf8a858b6d66caf16855399fdc54bb1c0a5342e409908363f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307116
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

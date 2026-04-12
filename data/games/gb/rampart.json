@@ -1,0 +1,96 @@
+{
+  "id": "rampart",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rampart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ランパート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rampart (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "96a4c720",
+      "md5": "7172c397cb5d45e28b615c26e518a107",
+      "sha1": "0e196236a21fc4558f3eab92ba38a574a1fde918",
+      "sha256": "37dc7b326e8879de3cecb0214ed51f937d46e104d6f33872abc04ba220473459"
+    },
+    {
+      "name": "Rampart (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "6d347812",
+      "md5": "aba4c0670730f413d4946d88aab28629",
+      "sha1": "51e5408e5e8243c762f4218fd4138c849ee7d625",
+      "sha256": "ad5d681fa599b6cf9dae135c304317ac41f33bee0a5a583d7fa2a178ca66506f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 341390
+  },
+  "descriptions": [
+    {
+      "text": "テトリスとシューティングゲームが融合した「ランパート」は、戦略と砲撃アクションを組み合わせたゲームです。テトリススタイルのパーツで城を築き、砲台を配置し、敵を bombard（爆撃）し、修理を試み、再びすべてを繰り返します。オリジナルのアーケード版にはシングルプレイヤーとツープレイヤーモードがあり、後の改訂版ではスリープレイヤーのゲームプレイも追加されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rampart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rampart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rampart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rampart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rampart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rampart%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

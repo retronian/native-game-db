@@ -1,0 +1,68 @@
+{
+  "id": "gekitou-power-modeller",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gekitou Power Modeller",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "激闘パワーモデラー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gekitou Power Modeller (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "48c1ee22",
+      "md5": "255bca32093336ccbacdd185951c8727",
+      "sha1": "22d6bf37eb3a29aeb1f9969ec51537eca8036a4c",
+      "sha256": "4bbf52ae46599bed5e08c6ea97f05220a4a5244f35519003d9b66e9d77328fe1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49126
+  },
+  "descriptions": [
+    {
+      "text": "RPG要素とファンタジーの設定。パワーアーマーを着た他の敵と、鉄拳スタイルで戦おう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gekitou%20Power%20Modeller%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gekitou%20Power%20Modeller%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gekitou%20Power%20Modeller%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

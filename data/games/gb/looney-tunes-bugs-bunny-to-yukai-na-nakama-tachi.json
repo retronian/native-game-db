@@ -1,0 +1,74 @@
+{
+  "id": "looney-tunes-bugs-bunny-to-yukai-na-nakama-tachi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes - Bugs Bunny to Yukai na Nakama-tachi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バッグスバニー と ゆかいな仲間たち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ルーニー・テューンズ バッグスバニーとゆかいな仲間たち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes - Bugs Bunny to Yukai na Nakama-tachi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "40e47da3",
+      "md5": "beeb3092aec6da08f5a86630207ae87c",
+      "sha1": "ed26fd9d4011c286e2e6109967cad2564c17900b",
+      "sha256": "2e56e5f1448bbad9118205ea7cbdec1de2e3a4eed53afa0d5b1121a5d886352c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この横スクロールゲームでは、プレイヤーはさまざまな「ルーニー・テューンズ」のキャラクターを操作し、それぞれの能力を駆使して全7レベルを進んでいきます。プレイヤーはダフィー・ダック（フリスビーを投げて敵を倒す、マリオスタイルのゲームプレイ）、ツイーティー・バード（レベル内でシルベスターから逃げる）、ポーキー・ピッグ（双発機を操縦して敵を撃墜する）、タズ（60秒以内にできるだけ多くのステーキを集めるボーナスゲーム）、スピーディ・ゴンザレス（幽霊やゴーストから逃げるホーンテッドマンション）、ロードランナー（宿敵ワイリー・コヨーテから逃げる）、そして最後にバッグス・バニー（ダフィーに似たゲームプレイ）を使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Looney%20Tunes%20-%20Bugs%20Bunny%20to%20Yukai%20na%20Nakama-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Looney%20Tunes%20-%20Bugs%20Bunny%20to%20Yukai%20na%20Nakama-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Looney%20Tunes%20-%20Bugs%20Bunny%20to%20Yukai%20na%20Nakama-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

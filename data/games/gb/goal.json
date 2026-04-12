@@ -1,0 +1,96 @@
+{
+  "id": "goal",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Goal!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "武田修宏のエースストライカー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Takeda Nobuhiro no Ace Striker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Goal! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "533fa979",
+      "md5": "613c2336e19ea8f958f66c3e7dfef3c5",
+      "sha1": "24fffa3db4153895546a346a38971b6946011679",
+      "sha256": "cdefc4f74b21b32b5400ebaeb3c8e29ee01a2479493d4ba57eba51484b5e95cd"
+    },
+    {
+      "name": "Goal! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "00d4caf2",
+      "md5": "009aea0ac7f214ff6f3c8c070d4a6421",
+      "sha1": "9bb15769b2674d41075b45256dbfffc18483fd84",
+      "sha256": "dc898d66af6c2ada73946f1cb68f1539c16240060f72e31da5bee2ba2655fcbc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 348225
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Goal%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Goal%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Goal%21%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Goal%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Goal%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Goal%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

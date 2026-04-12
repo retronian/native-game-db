@@ -1,0 +1,65 @@
+{
+  "id": "koro-dice",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koro Dice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ころダイス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koro Dice (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "39608c31",
+      "md5": "dd846c4e076dd2f02fc3a4e2ecb6c940",
+      "sha1": "17d51f459b854d1911c48418ff1592b11981cc84",
+      "sha256": "c1dd87ce5ecc0b1c77b0be65cc681f1e09daf19e3088f5af1908d42c1fa62e59"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130558
+  },
+  "descriptions": [
+    {
+      "text": "ころダイスは、四角いボード上でサイコロを動かすポインターを操作するパズルゲームです。あなたのミッションは、固定ブロックで道を塞がないようにしながら、サイコロを正しい位置に移動させて最終のマスに到達させることです。また、サイコロの向きを変えるマスをうまく利用することも求められます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Koro%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Koro%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Koro%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sagaia",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sagaia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サーガイア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Daraiasu Tsuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Saagaia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sagaia (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e43da090",
+      "md5": "70a9ef90ad443881ca90cdd8d910ae66",
+      "sha1": "79600f8602ca33f2b39a9b8d9824dff55dfc1ef0",
+      "sha256": "7ddb7a972c2aee5af6240f6f4cd46fcef68bfaebd5d68216c6712a42ebfa147b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 145878
+  },
+  "descriptions": [
+    {
+      "text": "昔々、ダリウスの惑星は荒廃しましたが、ダリウスのプロコとティアットは新しい惑星を誕生させ、それにオルガと名付けました。何世紀もの時が経った後、プロコ・ジュニアとティアット・ヤングは銀河からの奇妙なラジオ放送を受信します。その放送は、ダリウスの別の子孫からのメイデイ信号であることが判明します。彼らはシルバーホークに乗り込み、邪悪な力を打倒する準備をし、銀河への旅に出発します。\n\nダリウスII、または西洋ではサーガイアとして知られるこの作品は、タイトーのシューティングゲームシリーズの第二作目です。その主な特徴は、非線形のレベルシステムと、さまざまな種類の海産物で構成された敵キャラクターです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sagaia%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sagaia%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sagaia%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

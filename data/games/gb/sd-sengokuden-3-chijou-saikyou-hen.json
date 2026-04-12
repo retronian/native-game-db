@@ -1,0 +1,65 @@
+{
+  "id": "sd-sengokuden-3-chijou-saikyou-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Sengokuden 3 - Chijou Saikyou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SDガンダム SD戦国伝3 地上最強編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Sengokuden 3 - Chijou Saikyou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "7c61426c",
+      "md5": "9832ab77352fd51d2c38fb6c75d1c4a4",
+      "sha1": "2cb0368452033029ef8b8d92698d95ed41114a73",
+      "sha256": "9b60cd580b7bf2e694bf70ec7320d14e1dbc79fbd6a1cdd88e5d3bd173879bc6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは「SD戦国伝」の第3弾で、SDガンダムを基にしたシミュレーションゲームです。マップや地形がより強力になっています。ボスとの戦闘シーンはアクションゲームに変化します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/SD%20Sengokuden%203%20-%20Chijou%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/SD%20Sengokuden%203%20-%20Chijou%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/SD%20Sengokuden%203%20-%20Chijou%20Saikyou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

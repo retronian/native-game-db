@@ -1,0 +1,78 @@
+{
+  "id": "klax",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Klax",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "クラックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Klax (Japan) (En) (Hudson Soft)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "b4955889",
+      "md5": "bd456f73ba9cf33058d5a32f9f149e89",
+      "sha1": "0bc9af06d21b01bbecbe616c57e9a22f51da3eff",
+      "sha256": "422952721d20ef004b76de2c9e3928c23c2ddc04db637e9fc6b395bff750046c"
+    },
+    {
+      "name": "Klax (USA) (Mindscape)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "72660774",
+      "md5": "7d4f3bf92bbff701583eb74f36951bb9",
+      "sha1": "85f6b02815e7131fdd96f3802eb0a17d93277e75",
+      "sha256": "6257eaa23f493943eb15ba1f8e36022cb2c0b0e066384f374bb9416e09e217c2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 285752
+  },
+  "descriptions": [
+    {
+      "text": "アクションパズルゲーム「クラックス」では、さまざまな色の落ちてくるタイルをキャッチし、同じ色の行、列、または対角線を作ることが目的です。各レベルでは異なるパターンを作成する必要があり、ゲームが進むにつれてタイルはより速く、より多く同時に落下し、色の数も増えていきます。\n\nこれは、オリジナルのアーケードゲームの3Dコンベヤーベルトの代わりに、簡略化された2Dビューを使用した「クラックス」の日本版です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Klax%20%28USA%29%20%28Mindscape%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Klax%20%28USA%29%20%28Mindscape%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Klax%20%28USA%29%20%28Mindscape%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

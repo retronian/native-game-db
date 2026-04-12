@@ -1,0 +1,65 @@
+{
+  "id": "versus-hero-kakutou-ou-e-no-michi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Versus Hero - Kakutou Ou e no Michi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーサスヒーロー 格闘王への道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Versus Hero - Kakutou Ou e no Michi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "449cf2e4",
+      "md5": "80bc594310a940feb9512cf3233bed71",
+      "sha1": "ac60beecccea7537ad6c6779176d92056c1436fe",
+      "sha256": "4724f610ac49ee33e36ef033d722cea63d933c8794174cdb6b61c9a468cf94c8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バーサスヒーロー 格闘王への道は、バンプレストによって出版されたアクションゲームで、1992年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-08-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Versus%20Hero%20-%20Kakutou%20Ou%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Versus%20Hero%20-%20Kakutou%20Ou%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Versus%20Hero%20-%20Kakutou%20Ou%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

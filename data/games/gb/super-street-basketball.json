@@ -1,0 +1,57 @@
+{
+  "id": "super-street-basketball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Street Basketball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーストリート・バスケットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Street Basketball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a269559f",
+      "md5": "b8ea135492ac908dda8bb695ffbbc813",
+      "sha1": "4180a7a7f7e1f8de07875246a3079a6d1507fa06",
+      "sha256": "bd620a9ef60cab6b679c67fdfac266c8008572327a0b4e62f8cd93c754fb9cb5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61358
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Street%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Street%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Street%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "battle-crusher",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle Crusher",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルクラッシャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle Crusher (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ea4eb1a1",
+      "md5": "c2ab034ceb1dc42c96a7a9301c382d20",
+      "sha1": "ae07172c69a7bdece4392016c6a6dd253623f5f8",
+      "sha256": "2eb0708771791f2e126bd97e672a365c70c3d7064ecc391433545352133dad60"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66069
+  },
+  "descriptions": [
+    {
+      "text": "「コンパチヒーローシリーズ」の一部として知られるクロスオーバー格闘ゲーム「バトルクラッシャー」。このゲームには、ガンダムやウルトラマンのキャラクターを含む12人の異なるプレイアブルキャラクターが登場します。キャラクターの多様な技を駆使して、CPUや友達と戦うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battle%20Crusher%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battle%20Crusher%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Battle%20Crusher%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "tamagotchi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tamagotchi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ゲームで発見！！たまごっち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tamagotchi (France) (SGB Enhanced)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "084c2401",
+      "md5": "79ede10e81d8697137f6fff7bb322a30",
+      "sha1": "0f4e508f90e52a869efb245894a362e5f677c2ed",
+      "sha256": "be0104732afb2ea5e59715ffba34cc3628c89a402e6aa8ca324fabefb648c58a"
+    },
+    {
+      "name": "Tamagotchi (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "dbf1bd20",
+      "md5": "c7920eb4b478c4d7513f2f43b7dbb9cf",
+      "sha1": "7368ec190bed39429812a26e18b2d3e153cf4e81",
+      "sha256": "4465bc27fa63411864e607cf7d3753792691d28c21ce818cd813ae3005cacdc5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 11284
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tamagotchi%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tamagotchi%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tamagotchi%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tamagotchi%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tamagotchi%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tamagotchi%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

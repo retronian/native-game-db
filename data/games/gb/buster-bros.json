@@ -1,0 +1,60 @@
+{
+  "id": "buster-bros",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Buster Bros.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Pang",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Buster Bros. (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b4245ca3",
+      "md5": "d97f34c22a179fb4094acbc05616f565",
+      "sha1": "0d1692ff60ef1f6a97bbfd2bf8c1548f1f7439ed",
+      "sha256": "2223993b7a91a5f2ccca1f43652df0062528e3fb37128f61a0ec8a779bcf65a1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 242347
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Buster%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Buster%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Buster%20Bros.%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

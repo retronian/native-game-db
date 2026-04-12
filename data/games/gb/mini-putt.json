@@ -1,0 +1,81 @@
+{
+  "id": "mini-putt",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini-Putt",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミニ・パット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini-Putt (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "33cd7550",
+      "md5": "872b8eb18385ed6b1937b42436af56fd",
+      "sha1": "e2a75fc09d8f9e56325449ca91cda9a68d058c1f",
+      "sha256": "62117fdda58ad1ac0cbacf57caa2a54dc0fd32dea931e30a8c7c502816b34244"
+    },
+    {
+      "name": "Mini Putt (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "ecc1eac1",
+      "md5": "db9e4e9d4a4b9f4e282448284ddea155",
+      "sha1": "a8fbb8b189ad2b0e16cf3c950f1f50640679c3ea"
+    },
+    {
+      "name": "Mini Putt (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "80dca360",
+      "md5": "d21322204e66c5f40ab3a86cbb63fccf",
+      "sha1": "819ada15faa7b5641285ed28ff3f9df549f384e4",
+      "sha256": "2663e38b70b831ecec2bb74cdb8e7ed0fae48ec28ba66675a9c1be7697cd3c2b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44151
+  },
+  "descriptions": [
+    {
+      "text": "ミニ・パットは、デラックス、クラシック、トラディショナル、チャレンジの4つのコースを提供するミニチュアゴルフゲームです。最大4人のプレイヤーがゲームをプレイしたり、任意のコースの任意のホールで練習したりできます。各コースはそれぞれ異なる難易度を持っています。デラックスとチャレンジは難しい丘やコースレイアウトがあり、チャレンジが最も難しいコースです。クラシックはアニメーションの橋やその他の障害物を提供します。トラディショナルは標準的なミニチュアゴルフコースで、うまくバンクショットを決める必要があります。\n\nショットを打つためには、ジョイスティックを使って、ボールを打ちたい方向と距離にクロスヘアを移動させます。準備ができたら、ファイアボタンを押します。パワーバーのレベルが上がるのがわかります。バーが希望の距離に達したら、再度ファイアボタンを押します。ファイアボタンを離すと、バーは下に戻り始めます。バーを止めた位置が、ボールを打つ際のパワーを示します。パワーバーの底に達すると、精度バー上で横に動きます。精度バーの中央にはセンターラインがあります。センターの左側に寄りすぎると左に引っ張られ、右側に寄りすぎると右に引っ張られます。ボールを打つために適切なタイミングでファイアボタンを押してください。コースが難しすぎる場合は、練習コースオプションを訪れてみてください。プロになれる人はそう多くありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-26",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mini%20Putt%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mini%20Putt%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

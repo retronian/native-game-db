@@ -1,0 +1,65 @@
+{
+  "id": "kakomunja",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kakomunja",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "かこむん蛇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kakomunja (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "bef1fe2b",
+      "md5": "73377222a76829e02c9a32b569862bde",
+      "sha1": "560d174d34b32a35e302297d1667cf67c3d4e8b8",
+      "sha256": "3c5384a68e386d0539670a63f35f703b53e5dc4dc9da6fd33c4f4fc23a75bf25"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "遠い未来、最も人気のある1対1のスポーツは「サーペント」です。この2人用ゲームでは、両方のプレイヤーが蛇の形をした乗り物を操作します。勝つためには、相手を尾で囲んで切り離さなければなりません。\n\nこのゲームは古典的なゲーム「スネーク」の要素を取り入れつつ、マルチプレイヤーゲームに変換されています。プレイヤーが尾で囲まれたエリアを形成すると、相手に発射できるロケットなどのパワーアップが出現します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kakomunja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kakomunja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kakomunja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

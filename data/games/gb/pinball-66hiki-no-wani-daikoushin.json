@@ -1,0 +1,74 @@
+{
+  "id": "pinball-66hiki-no-wani-daikoushin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pinball - 66hiki no Wani Daikoushin!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピンボール 66匹のワニ大行進",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピンボール66匹のワニ大行進",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pinball - 66hiki no Wani Daikoushin! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "1b3a89c6",
+      "md5": "c03abc409b442aa42864cb2ac2ba89b9",
+      "sha1": "3671335514b388ee08322416abd873f11a5e0b66",
+      "sha256": "6d86dcf9c8529ebfcbdcfcfbbdc4d28ab662599674b7232b8733c5fe1badb1ab"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "それはピンボール…ワニと一緒！このアーケードスタイルのタイトルは、ゲームボーイで持ち運べるピンボールを提供します！できるだけ多くのポイントを獲得しましょうが、ボールを「ゲイター」に食べられないように注意してください！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-10-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pinball%20-%2066hiki%20no%20Wani%20Daikoushin%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pinball%20-%2066hiki%20no%20Wani%20Daikoushin%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pinball%20-%2066hiki%20no%20Wani%20Daikoushin%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

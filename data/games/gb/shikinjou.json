@@ -1,0 +1,74 @@
+{
+  "id": "shikinjou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shikinjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "紫禁城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "紫禁城 SHI KIN JYO",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shikinjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "f8ec3a41",
+      "md5": "6ceb30c99e4642b62533f6f9101d59e5",
+      "sha1": "84cb709a3e66b8b5f8b9415bc3cd34bf8f7e7b12",
+      "sha256": "2ea960dc23af63a82da3a568936874b74dc1d39b0322d5a92eccd5d01e553ef1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "紫禁城（シキンジョウ）は、麻雀ソリティアと倉庫番にインスパイアされたパズルゲームです。ほとんどの麻雀ソリティアのバリエーションと同様に、その名前は中国の地域に由来しています。この場合は、中国のかつての皇帝の宮殿、いわゆる紫禁城です。\n\nゲームの目的は、デフォルトで僵尸（ジャンシー）である主人公を出口まで導くことです。そのためには、麻雀タイルを押しのけて道を開ける必要があります。ほとんどの麻雀タイルは、同じ種類のタイルに触れると消えてしまい、それに伴って消失します。一部のタイル、例えばドラゴンや風のタイルは障害物となり、接触したタイルを別の障害物に変えてしまいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

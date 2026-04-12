@@ -1,0 +1,65 @@
+{
+  "id": "minesweeper-soukaitei",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Minesweeper - Soukaitei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マインスウィーパー 掃海艇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Minesweeper - Soukaitei (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "5532b3d1",
+      "md5": "a36b4c6c13d1dc9a98af66f963858ba9",
+      "sha1": "8538358957b2f6d6c58e2ceb2c83cf82149985fd",
+      "sha256": "b136c40a4ca52d6567e7f71790690b1e71ddad3b9df8d1ee98135ac46a2e7637"
+    }
+  ],
+  "external_ids": {
+    "igdb": 308607
+  },
+  "descriptions": [
+    {
+      "text": "マインスウィーパーは、1人用のパズルゲームです。ゲームの目的は、隠された「地雷」がある長方形のボードを、各マスの隣接する地雷の数に関するヒントをもとに、いずれの地雷も爆発させることなくクリアすることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Minesweeper%20-%20Soukaitei%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Minesweeper%20-%20Soukaitei%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Minesweeper%20-%20Soukaitei%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "aretha-iii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aretha III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アレサIII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アレサ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "アレサ III",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aretha III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "430d3d6b",
+      "md5": "bb0cca048a51ddbae426221bb3d2e508",
+      "sha1": "f57ff26d31283c88cc4c414b18ef6f182d07da9d",
+      "sha256": "f7311a0a392183697b06b72929e480eaf11e856d44b9b218641465cfc4b29942"
+    }
+  ],
+  "external_ids": {
+    "igdb": 71777
+  },
+  "descriptions": [
+    {
+      "text": "ゲームボーイ用の多くの未翻訳の日本のゲームの一つです。これはRPGで、アレサトリロジーの三作目にあたります。あなたは女の子を操作し（アレサやアレサIIのキャラクターよりも年上で可愛らしい）、都市や森、野原などをさまよいながら、無数の敵とターンごとに戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Aretha%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Aretha%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Aretha%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

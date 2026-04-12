@@ -1,0 +1,96 @@
+{
+  "id": "sanrio-uranai-party",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Uranai Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオうらないパーティ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Uranai Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "0d4c02a7",
+      "md5": "9fa5ce9c87d949dfbd5d8ff46ece63eb",
+      "sha1": "0d12280e689eb320df06ceb469c629d93860dc2e",
+      "sha256": "01fdfb53d1346df1a827dd3a82ffb83a3e7144ab4d03c8ea8c7c56cb1ac3cf66"
+    },
+    {
+      "name": "Sanrio Uranai Party (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d0687d9f",
+      "md5": "442c13b1747376782d1dae3f8877f94d",
+      "sha1": "72dfcc83dbd78ad2b5b43014fc9adf05431e230c",
+      "sha256": "fb3ca0a0f548626e076ef4b7443334176ee0140a8eaf58f069b520bcbcece529"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97414
+  },
+  "descriptions": [
+    {
+      "text": "データを入力すると、サンリオキャラクターのハローキティとバッドばつ丸がそれぞれ相性占いと運勢占いを行います。入力するデータは非常に少ないため、簡単に運勢を占うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-12-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sanrio%20Uranai%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sanrio%20Uranai%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sanrio%20Uranai%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sanrio%20Uranai%20Party%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sanrio%20Uranai%20Party%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sanrio%20Uranai%20Party%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

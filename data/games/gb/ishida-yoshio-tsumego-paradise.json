@@ -1,0 +1,65 @@
+{
+  "id": "ishida-yoshio-tsumego-paradise",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ishida Yoshio Tsumego Paradise",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "石田芳夫 詰碁パラダイス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ishida Yoshio Tsumego Paradise (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "c97daaca",
+      "md5": "de12e7c222ca5be9a1b1ea76ddc6c568",
+      "sha1": "dd9fd57dfa72e8818c553db553d9e598edb9d956",
+      "sha256": "dbd5e623e6359ff6d4cdd31c27e222fd27ff3bffb859ded2be475375829e0ab5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "24代本因坊の名誉称号を持つ石田芳夫が監修した詰碁ソフトウェアです。全100題の詰碁が収録されており、正解すると解説が表示されます。また、1問解くごとに実力が評価され、実力の成長を実感することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ishida%20Yoshio%20Tsumego%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ishida%20Yoshio%20Tsumego%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ishida%20Yoshio%20Tsumego%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

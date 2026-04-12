@@ -1,0 +1,65 @@
+{
+  "id": "quiz-nihon-mukashibanashi-athena-no-hatena",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quiz Nihon Mukashibanashi - Athena no Hatena",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クイズ日本昔話 アテナのハテナ?",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Quiz Nihon Mukashibanashi - Athena no Hatena (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "471c237b",
+      "md5": "65ef3652202749d5d281c9c9641e0e19",
+      "sha1": "c91507aa0e17580e8cf8f1901f328432c12ce2dd",
+      "sha256": "95416afcba658d617c0803bf2a047e9292c8ba5141e9f9e110acf0f4cec74f6a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "クイズ日本昔話 アテナのハテナ?は、アテナが発売した雑学ゲームで、1992年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Quiz%20Nihon%20Mukashibanashi%20-%20Athena%20no%20Hatena%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Quiz%20Nihon%20Mukashibanashi%20-%20Athena%20no%20Hatena%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Quiz%20Nihon%20Mukashibanashi%20-%20Athena%20no%20Hatena%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

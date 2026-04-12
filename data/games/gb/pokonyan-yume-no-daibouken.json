@@ -1,0 +1,68 @@
+{
+  "id": "pokonyan-yume-no-daibouken",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokonyan! - Yume no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポコニャン! 夢の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokonyan! - Yume no Daibouken (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "61c34232",
+      "md5": "16d86ec93f9aad85edcec7e6db18b435",
+      "sha1": "c5706e26f1cc591cd1fe762ace097df868703480",
+      "sha256": "451d52a045da3a44bf0d57d4d99213503241bb64b05facde000158f8085cc829"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205705
+  },
+  "descriptions": [
+    {
+      "text": "ポコニャンは、アライグマや猫のように見える不思議な動物で、敵を変身させることができるアクションゲーム「ヘンポコリンパワー」の主人公です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-08-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pokonyan%21%20-%20Yume%20no%20Daibouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pokonyan%21%20-%20Yume%20no%20Daibouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pokonyan%21%20-%20Yume%20no%20Daibouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

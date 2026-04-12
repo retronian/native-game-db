@@ -1,0 +1,77 @@
+{
+  "id": "oni-iii-kuro-no-hakaishin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oni III - Kuro no Hakaishin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "黒の破壊神",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Oni III 黒の破壊神",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oni III - Kuro no Hakaishin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6cd62fdb",
+      "md5": "906e42e643b65ddf4497cea6b0efb0a0",
+      "sha1": "2813cf81a13d5a07a221320ba80da0d3e271d87c",
+      "sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63372
+  },
+  "descriptions": [
+    {
+      "text": "かつて、激しい戦いの時代は伝説とされていた。しかし今、300年の時を迎え、封印が解かれようとしている。村には小さな倉庫があり、その扉は決して開けてはいけないと言われている。古物商を営む祖父に育てられたトコヤマルは、その扉を開けてしまう。これは彼自身が招いた運命なのか、それとも宿命なのか？\n\n悪の源、黒の破壊神がここに現れた。かつて世界が闇に包まれたとき、人々を悪の手から救った伝説の悪魔「マフウドウジ」だけが、彼を打ち倒すことができる。\n\n再び世界が危機に瀕している今、伝説の「マフウドウジ」は果たして蘇るのか？そして、トコヤマルの運命はどうなるのか？",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Oni%20III%20-%20Kuro%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Oni%20III%20-%20Kuro%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Oni%20III%20-%20Kuro%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

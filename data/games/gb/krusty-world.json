@@ -1,0 +1,62 @@
+{
+  "id": "krusty-world",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Krusty World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クリスティーワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Krusty World (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "01fbc9f6",
+      "md5": "91e47c8966a0da555e211be583987a1f",
+      "sha1": "ba64940bce70de459fff84a16222481344749558",
+      "sha256": "fa2d00c5b5565a7d5c246952a0fb320df56404cf3f19154bc7d9d7d8b1cac0ba"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "クリスティーのファンハウスはネズミに占拠されてしまいました。あなたは彼を手助けし、ネズミをトラップマシンに誘導して排除する必要があります。そのためには、クリスティーが環境を操作してネズミが正しい方向に向かうように道を作る必要があります。クリスティーが移動させるオブジェクトには、ブロック、ファン、パイプの部品などがあります。\n\nトラップマシンは、バート、ホーマー、サイドショー・メル、コーポラル・パニッシュメントといった他の有名なシンプソンズのキャラクターによって操作されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-07-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Krusty%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Krusty%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Krusty%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

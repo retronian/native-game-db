@@ -1,0 +1,77 @@
+{
+  "id": "uno-2-small-world",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uno 2 - Small World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "UNO2 スモールワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スモールワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uno 2 - Small World (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a7ad65ef",
+      "md5": "82d3fade3edbdd033752b8c1dd72481b",
+      "sha1": "d2d281da240779a3605356513132687a485c0b39",
+      "sha256": "88773be9e71529b35ce03d39f417e866f48df97cdfb894943f729dab7beefb90"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61392
+  },
+  "descriptions": [
+    {
+      "text": "テーブルゲーム「UNO」の第2作目です。交渉やローカルルールの採用といった要素を保ちながら、ミニゲーム「綱引き」が追加されました。2回勝利した人がプレイでき、勝利すればアイテムを獲得します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Uno%202%20-%20Small%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Uno%202%20-%20Small%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Uno%202%20-%20Small%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

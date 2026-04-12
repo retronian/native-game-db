@@ -1,0 +1,89 @@
+{
+  "id": "xenon-2-megablast",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Xenon 2 - Megablast",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゼノン2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Xenon 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Xenon 2 - Megablast (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2feb70d2",
+      "md5": "1c031ba472ef04cf76dc63b15d96aac2",
+      "sha1": "6b2f009b7a443e5ead48a2864bfb1d29096ed6a0",
+      "sha256": "b576b45b468f055a04a8289698dfd4e5c1cea1ddcc66f08111f39d30b11f9fdf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 370487
+  },
+  "descriptions": [
+    {
+      "text": "ゼノン2: メガブラストは、縦スクロール型のスペースシューターで、敵の波で満たされたいくつかのレベルをクリアしなければなりません。各レベルの最後にはボスクリーチャーが待ち受けています。敵を倒すごとに現金報酬が得られ、時折コリンのバーゲンベースメントに入ることができ、この現金を使って船のアップグレード（より良い武器、スピード、健康アップグレードなど）を購入できます。一部のアップグレードはレベル中に拾うこともできます。\n\nゲームの前半は有機的な雰囲気を持ち、後半は機械的な敵が登場します。また、迷路のようなセクションには行き止まりがあり、下キーを押し続けると宇宙船が後ろにスクロールします。\n\n典型的なビットマップブラザーズの作品であり、イギリスのエレクトロニカグループボム・ザ・ベースによるサウンドトラックでも有名です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Xenon%202%20-%20Megablast%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Xenon%202%20-%20Megablast%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Xenon%202%20-%20Megablast%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Xenon%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Xenon%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Xenon%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

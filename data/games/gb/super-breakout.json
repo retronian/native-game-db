@@ -1,0 +1,51 @@
+{
+  "id": "super-breakout",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Breakout",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Breakout (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "1dc0f813",
+      "md5": "c216547ff3fc2794bb6eab9c84032bea",
+      "sha1": "f98ff68b3004212d09904c5db5ccfcf1d20405c3",
+      "sha256": "f607ad68fdfd8cbaabe554fea2075050a7055f0fafef9a0fd2825a67b2fd038a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 239851
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Breakout%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Breakout%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Breakout%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

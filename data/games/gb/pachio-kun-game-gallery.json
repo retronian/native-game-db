@@ -1,0 +1,68 @@
+{
+  "id": "pachio-kun-game-gallery",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun Game Gallery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチ夫くん ゲームギャラリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun Game Gallery (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "be4718e8",
+      "md5": "4781664e85368b224abfa7c01a421f18",
+      "sha1": "010f512c53a84edbc38c817e7f556eb308834e29",
+      "sha256": "c33ba839d5433335f77148d2b33ba0b437e97d04d22b88a49da0fb3c64f16a79"
+    }
+  ],
+  "external_ids": {
+    "igdb": 86125
+  },
+  "descriptions": [
+    {
+      "text": "「パチ夫くん」シリーズのパチンコゲーム「1」から「3」、そしてパズルゲーム「パチ夫くんキャッスル」が一つのゲームに戻ってきました。合計24種類の異なるパチンコプラットフォームがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachio-kun%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachio-kun%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachio-kun%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

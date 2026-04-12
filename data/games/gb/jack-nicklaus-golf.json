@@ -1,0 +1,75 @@
+{
+  "id": "jack-nicklaus-golf",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jack Nicklaus Golf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jack Nicklaus Golf (France)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "374893d7",
+      "md5": "5add36377363b6e8b38d5f69a33b4ed2",
+      "sha1": "2bc2c3a95a49498347c49d5dd7182a1387ab531e",
+      "sha256": "2b7381a8b74c8ccadc7eeb7b4c40dcb8ffade9a27e0a1cccb4597e2ffd453243"
+    },
+    {
+      "name": "Jack Nicklaus Golf (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "654988b2",
+      "md5": "a126f0ee58e0b47c405c15dd314d279b",
+      "sha1": "bac74527dbd276f395d5c89f14450bb5bc2baab1",
+      "sha256": "0af6387def322559ca5ebc207e85977d3baa18670b3e356465c096528a1349b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49040
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jack%20Nicklaus%20Golf%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jack%20Nicklaus%20Golf%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jack%20Nicklaus%20Golf%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jack%20Nicklaus%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jack%20Nicklaus%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jack%20Nicklaus%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

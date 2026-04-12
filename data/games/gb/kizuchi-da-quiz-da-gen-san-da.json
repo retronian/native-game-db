@@ -1,0 +1,65 @@
+{
+  "id": "kizuchi-da-quiz-da-gen-san-da",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kizuchi da Quiz da Gen-san da!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "木づちだクイズだ源さんだ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kizuchi da Quiz da Gen-san da! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "74a52399",
+      "md5": "bec4b32510f72af2811045a87261aea9",
+      "sha1": "0729da81a62a1c30e34f5c3157de16fc014c52fe",
+      "sha256": "841bb9ea4b253145b2ed2225e6e81d396ddc4260a7ef6b42d54f0a7e25fef90d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "すごろくで区切られた全マップを進み、ボスキャラクターが待つ基地を目指そう。駒を止めることでクイズを始めたり、ボーナスゲームやアイテムを購入したりできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kizuchi%20da%20Quiz%20da%20Gen-san%20da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kizuchi%20da%20Quiz%20da%20Gen-san%20da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kizuchi%20da%20Quiz%20da%20Gen-san%20da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

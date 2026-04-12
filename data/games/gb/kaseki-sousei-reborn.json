@@ -1,0 +1,92 @@
+{
+  "id": "kaseki-sousei-reborn",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaseki Sousei Reborn",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "化石創世リボーン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaseki Sousei Reborn (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "42e8ba89",
+      "md5": "64b18855b9f342ab623bcecbf2865cb8",
+      "sha1": "c61050451f8731e35b1b983c610041cb59509ed2",
+      "sha256": "1094fb8791b7e6a43e1c22c4220e771ecf0f88d2825d9174563133ef4eb520a6"
+    },
+    {
+      "name": "Kaseki Sousei Reborn (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "7c94197c",
+      "md5": "b4b0bea76a491e46c3b1e6e2fd7f0402",
+      "sha1": "5759394e2e8bfd68ccf5519362572daaba003573"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "目的は、潜るたびに変化するダンジョンで化石を集めて合成し、さまざまな古代生物を復活させることです。化石の種類や組み合わせによって、さまざまな生物が誕生します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaseki%20Sousei%20Reborn%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

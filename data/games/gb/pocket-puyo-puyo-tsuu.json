@@ -1,0 +1,90 @@
+{
+  "id": "pocket-puyo-puyo-tsuu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Puyo Puyo Tsuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぽけっとぷよぷよ通",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Puyo Puyo Tsuu (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "43e47a81",
+      "md5": "296cb17655e184bb65c1cd2a3bc68d8a",
+      "sha1": "2ffbff6706047988468a7952de09c2720c3019ed",
+      "sha256": "32ce756a5b9af569fa05bb561a72388914003cd6b1c88fef8d55c6f32b4d3d57"
+    },
+    {
+      "name": "Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "cae8a317",
+      "md5": "8abc199792edadfc3f42822b33c912d8",
+      "sha1": "36b677b76af12287cdbdec9ae06ca3f9dbfc1e67",
+      "sha256": "b162662fdcfefbe6630b60eb8a57b454e361c9f0612b52d18f311744337cacbe"
+    }
+  ],
+  "external_ids": {
+    "igdb": 87198
+  },
+  "descriptions": [
+    {
+      "text": "これはよく知られた「ぷよぷよ通」のゲームボーイ版です。トトンぷよぷよを含む3つの異なるモードに加えて、2台のコンピュータと2人の人間での4人対戦も楽しめます。また、2台のコンピュータと2人の人間で対戦することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

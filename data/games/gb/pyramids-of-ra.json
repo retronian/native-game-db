@@ -1,0 +1,51 @@
+{
+  "id": "pyramids-of-ra",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pyramids of Ra",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pyramids of Ra (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "abef175b",
+      "md5": "1c1619f1caef49132e87160aa20a0a4d",
+      "sha1": "8b75bc3127862c8b38b7992d2560966982bbe2e0",
+      "sha256": "567aef8ea27486a4fa38ef4a4ae6ebae2a9138dc8a6a675d155895936e1318d8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49027
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pyramids%20of%20Ra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pyramids%20of%20Ra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pyramids%20of%20Ra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "vegas-stakes",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vegas Stakes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vegas Stakes (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c8be05d8",
+      "md5": "f597728869d7ca129f507e723d17bca1",
+      "sha1": "93cdf04a473dcfd7f8f4fb06cc0af857d16d00f2",
+      "sha256": "b94143f91edb0c2f4dee7d13448715cd910204e5fdc680d1c2fe3a72be1e3f1c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85469
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Vegas%20Stakes%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Vegas%20Stakes%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Vegas%20Stakes%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

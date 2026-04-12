@@ -1,0 +1,87 @@
+{
+  "id": "r-type",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "R-Type",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アール・タイプ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "R-TYPE",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "R-Type (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e4988910",
+      "md5": "89bdc38fd17a6c969306f756edef8a70",
+      "sha1": "440573ce4ea3bab679e25315cd3f05c5530f6bd1",
+      "sha256": "13ebd7375c8cfb16cdcecd3fe396d2a34e164ca73238f7cd06b49c8baded3bf4"
+    },
+    {
+      "name": "R-Type (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e0f23fc0",
+      "md5": "972dc35b3b2bd0762999b1ae48da94f6",
+      "sha1": "28531a4eb668477df98caf0e87cedc0e5fdfe53b",
+      "sha256": "8cebc4b128b79dd1b53a5b5a99450bb2783b86840ec61b22e70245dd6df8c39b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 263376
+  },
+  "descriptions": [
+    {
+      "text": "アール・タイプは、その非常に難易度が高く戦略的なゲームプレイで知られる横スクロールシューティングゲームです。あなたはR-9宇宙船を操作し、邪悪なバイド帝国に立ち向かう最後の手段を講じます。\n\nR-9は標準装備として小さな銃を搭載しており、最小の敵を倒すには何発も撃たなければなりません。発射ボタンを押し続けることで、大きなエネルギーのバーストを放出し、道にいる最強の敵を除いてすべてを排除することができます。時折、ポッドがあなたの方向に飛んできます。それを撃つとアップグレードが解放されます。最初のポッドは必ず「ザ・フォース」と呼ばれるもので、これはあなたの船の前または後ろにくっつき、敵の弾を吸収したり、正面から敵に突っ込むためのバンパーとして機能します。また、発射して引き戻すことで攻撃武器としても使用できます。フォースを使いこなすことはR-タイプで生き残るために重要で、弾の塊からの防御、リモートコントロールの大砲として、障害物を取り除くために使用しなければなりません。他のアップグレードでは、ターゲットを追尾するミサイルやより大きなメインガンを手に入れることができます。異なる色で区別される異なる銃は、それぞれ異なる目的を持っています。青い銃はレーザービームを画面に反射させ（トンネルに最適）、赤い銃は真っ直ぐ前方に発射し、黄色い銃は遭遇した壁に沿って進みます（砲台に最適）。\n\nアール・タイプのステージは有機的なスタイルで作られており、確かにH・R・ギーガーの『エイリアン』映画のアートワークにインスパイアされています。発売当初は、他のシューティングゲームの典型的なSFの型から脱却したため、トレンドを作る作品と見なされました。部分的には、レベル自体が敵であり、特に第4ステージではクモのような生物が網を織り、画面を覆って道を塞ぎます。また、複雑なトンネルシステムを持つレベルもあります。それでも、レベルは戦略と反射神経の組み合わせで最も効果的に対処でき、R-タイプの同時代のライバルであるグラディウスに必要な記憶力は求められません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/R-Type%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/R-Type%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/R-Type%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

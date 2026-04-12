@@ -1,0 +1,65 @@
+{
+  "id": "tsumego-series-1-fujisawa-hideyuki-meiyo-kisei",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsumego Series 1 - Fujisawa Hideyuki Meiyo Kisei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "詰碁シリーズ1 藤沢秀行名誉棋聖",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsumego Series 1 - Fujisawa Hideyuki Meiyo Kisei (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ceee6a61",
+      "md5": "e01b48974b0dcd4b7de479ac4d3d207c",
+      "sha1": "4c16e7298713de7741ceb6513fa50a8b12432578",
+      "sha256": "182c91b23ff9add954107a97a1aee0df90ced2fddfe411b9d912ee5031ed0415"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "名誉棋聖 藤沢秀行によって作成された100問の詰碁問題を収録しています。藤沢は棋聖戦で6連覇を達成した偉業を持つ棋士です。「テストモード」では、5つのレベルに分かれた詰碁の実力を測ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tsumego%20Series%201%20-%20Fujisawa%20Hideyuki%20Meiyo%20Kisei%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tsumego%20Series%201%20-%20Fujisawa%20Hideyuki%20Meiyo%20Kisei%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tsumego%20Series%201%20-%20Fujisawa%20Hideyuki%20Meiyo%20Kisei%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pachi-slot-kids-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachi-Slot Kids 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチスロKids 2 パチスロキッズ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachi-Slot Kids 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "deace430",
+      "md5": "629275bbcb97ef74b0a9138f70bd6cd7",
+      "sha1": "da6ebc9ad58b427a580f72233cb0364d039342a9",
+      "sha256": "6a1b0273fbb57c4926b5ddd11bcac2fcb734aefdbd31dd810d2dd5db9e872644"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachi-Slot%20Kids%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachi-Slot%20Kids%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachi-Slot%20Kids%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

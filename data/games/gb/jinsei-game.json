@@ -1,0 +1,59 @@
+{
+  "id": "jinsei-game",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jinsei Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "人生ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jinsei Game (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "09f53d55",
+      "md5": "b67196db786a67cdfe50d6d2e902aa11",
+      "sha1": "11f883c0f5f4b62d614fd8662ae56e62ab00450b",
+      "sha256": "718d721890896b348036b6ff20e7411832c8f8a08a359808f02590dda95955e2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本版「人生ゲーム」を基にしたファンタジー要素のデジタルボードゲーム、ゲームボーイ用。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-23",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jinsei%20Game%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jinsei%20Game%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

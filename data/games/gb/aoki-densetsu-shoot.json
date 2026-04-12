@@ -1,0 +1,77 @@
+{
+  "id": "aoki-densetsu-shoot",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aoki Densetsu Shoot!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "蒼き伝説シュート!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "蒼き伝説 シュート！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aoki Densetsu Shoot! (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "08727760",
+      "md5": "6cbaaf40726a834ba7b3d7f179a140fe",
+      "sha1": "95574e1eef5fbebde6f068091bc7298000ea2397",
+      "sha256": "db1e1309cb5be3d89d54fe54bccec9518c67136c26de9ad43dded0d92809e445"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228474
+  },
+  "descriptions": [
+    {
+      "text": "「蒼き伝説シュート！」は、日本限定のサッカー管理シミュレーションゲームです。ゲームにはエキシビジョンモード、アニメスタイルのストーリーモード、さまざまなオプションが用意されています。ゲームが始まると、アクションは横視点で進行します。これは、1993年11月7日から1994年12月25日までフジテレビで放送された東映アニメーション制作の日本のアニメを基にしています。また、スーパーファミコンでもリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-04-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Aoki%20Densetsu%20Shoot%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Aoki%20Densetsu%20Shoot%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Aoki%20Densetsu%20Shoot%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

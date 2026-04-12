@@ -1,0 +1,65 @@
+{
+  "id": "sengoku-ninja-kun",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sengoku Ninja-kun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "戦国忍者くん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sengoku Ninja-kun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "6bae3a41",
+      "md5": "e3b96773c7d55b3ee4c2615d1b9daca7",
+      "sha1": "a60f4f815467298bd3928fe4aee0edd763ebe85d",
+      "sha256": "5e822bb383e9d1a9a7d4cd593e560fd6bc61787ce06c18792b9da705a6d3b679"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "極東の大冒険！\nそれは日本の封建戦争の時代。ある将軍が各地を統一しようと奮闘していますが、助けが必要です。\n彼の悪党の宿敵は死んだという噂がありますが、無慈悲な無政府状態の軍団が田舎を悩ませ続けています。もし彼が死んでいるのなら、一体誰が日本の平和と秩序を妨げる悪の勢力を率いているのでしょうか？\n\nこの混乱を止めなければなりません！\nファントム派の中から将軍の助けに現れたのは忍者タロウ。盗賊のような狡猾さ、達人の技、そして伝説の剣を持って、彼は悪の手先を征服し、帝国を統一する謎を解き明かすために冒険に出なければなりません！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sengoku%20Ninja-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sengoku%20Ninja-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sengoku%20Ninja-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

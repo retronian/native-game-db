@@ -1,0 +1,65 @@
+{
+  "id": "namco-classic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナムコクラシック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Classic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ec3257b3",
+      "md5": "d38d79715b8ec31de8905f5d1312079e",
+      "sha1": "65b91cc77b1971f8229d4caaf4feb89c64856c8b",
+      "sha256": "076d0a6bb0cb237ad394f8c3235284ac08ffcd7c7b3004eece0d1ce709451adf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "19種類のクラブから選べるゴルフ。19ホールのトータルスコアを競うモードや、世界のトッププロと対戦する「ナムコクラシック」モードを楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

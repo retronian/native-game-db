@@ -1,0 +1,65 @@
+{
+  "id": "alien-vs-predator",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Alien vs Predator",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エイリアンVSプレデター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Alien vs Predator (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e884682b",
+      "md5": "ab916e1df69e7b3401cb6ebd3f1798a7",
+      "sha1": "5b21dc4a7b48e75da725657d1ccde868759e5699",
+      "sha256": "2219e71d83d08ac8734e14a8c33316f38256124d4763d2dcbbae3b3319fb6035"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "2593年、アルファ・ケンタウリ3の惑星で、狩り場を求めるプレデターたちがエイリアンの卵を植え付ける。エイリアンはすぐに孵化し、人間の人口を壊滅させる。しかし、プレデターたちが狩りに出ると、彼らは圧倒的な数に対抗できず、同じ運命を辿る。生き残ったのは一人だけだった。彼は、孵化したエイリアンの中に追加の卵を産む女王がいたのではないかと考える。それが大量のエイリアンの理由だ。最後の生存者は女王を倒し、彼の一族の名誉を取り戻すために旅立つ。プレデターは女王の元へ向かう途中、卵から孵化したフェイスハガー、チェストバスターエイリアン、成長した戦士たちなど、あらゆる形のエイリアンを倒しながら、いくつかの横スクロールのレベルを進む。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Alien%20vs%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alien%20vs%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Alien%20vs%20Predator%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

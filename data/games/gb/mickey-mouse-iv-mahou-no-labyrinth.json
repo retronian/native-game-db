@@ -1,0 +1,73 @@
+{
+  "id": "mickey-mouse-iv-mahou-no-labyrinth",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey Mouse IV - Mahou no Labyrinth",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミッキーマウスIV 魔法のラビリンス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ミッキーマウス IV 魔法のラビリンス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey Mouse IV - Mahou no Labyrinth (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "0d30b3a1",
+      "md5": "744dc7e4b03d16b8b6dd35a697c77892",
+      "sha1": "d091d67890103ca97caf2c46d6bf4e2a85c92383",
+      "sha256": "1cead447fed8e01315c5a65961d478e7576e439affe43e5fbcca06e4520a027f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 153451
+  },
+  "descriptions": [
+    {
+      "text": "ミッキーマウスのアクションゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%20Mouse%20IV%20-%20Mahou%20no%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%20Mouse%20IV%20-%20Mahou%20no%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%20Mouse%20IV%20-%20Mahou%20no%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

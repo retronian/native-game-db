@@ -1,0 +1,65 @@
+{
+  "id": "vitamina-oukoku-monogatari",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vitamina Oukoku Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビタミーナ王国物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vitamina Oukoku Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "89a7aeca",
+      "md5": "d3d63bf466e63af0601016f87ffc3ee2",
+      "sha1": "d4195257a2debe78aa4dd433a324aec335ad36d1",
+      "sha256": "2c4fd2c2f08d19f256b836623ca7da8489d36b673d3fbf81fe954b6396b3fad0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ビタミーナ王国物語」では、グレート・グリードが始まると、あなたは「マイクロウェーブ」という名の魔法使いによって別の次元にワープさせられてしまいます。すぐに戻る方法がない中、あなたは「バイオハザード」と呼ばれる悪と破壊に満ちた災厄から人々を守る手助けをします。\n\nあなたが見つけたこの新しい次元は、元の次元とそれほど変わりはありません。ただし、すべての人が食べ物や食べ物に関連するアイテムの名前を持ち、大半のモンスターは変異した野菜などのようです。\n\nこのRPGは、いくつかの点で通常のフォーミュラから逸脱しています。バトルシステムはメニューを使用せず、すべてのコマンドがシンプルなボタン操作に切り替わります。Aボタンで攻撃、Bボタンで回避、スタートボタンでダッシュ、Dパッドは特定の魔法へのショートカットです。また、戦闘はリアルタイムで行われ、ターンを完了するのに時間がかかりすぎると、相手が再度攻撃してきます。\n\nバッテリー内蔵のセーブシステムを使用しており、ゲームは成功したバトルの後に自動的にセーブされます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Vitamina%20Oukoku%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Vitamina%20Oukoku%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Vitamina%20Oukoku%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

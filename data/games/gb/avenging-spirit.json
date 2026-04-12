@@ -1,0 +1,68 @@
+{
+  "id": "avenging-spirit",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Avenging Spirit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファンタズム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Phantasm",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Avenging Spirit (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "cf2ba5f7",
+      "md5": "e88eab57ab4614966748280bf3c97f52",
+      "sha1": "d22cca80a0855d7724539ef71f38e3f8f9656d6b",
+      "sha256": "0d80b2ad776053f50c3eb0e0e32c675f24acf94923bf3ac4c156c7c28bc76a6e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 39747
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Avenging%20Spirit%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Avenging%20Spirit%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Avenging%20Spirit%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

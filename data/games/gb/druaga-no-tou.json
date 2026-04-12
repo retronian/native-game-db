@@ -1,0 +1,71 @@
+{
+  "id": "druaga-no-tou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Druaga no Tou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドルアーガの塔",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドルアーガの塔The Tower of Druaga: Druaga no Tō@The Tower of Druaga ドルアーガの塔",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Druaga no Tou (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f924bdb1",
+      "md5": "c8611861afe5d9b47043150ee2c94389",
+      "sha1": "7701f8c535f612943d736fef342973e9c77011df",
+      "sha256": "64d791cadae2500ddd7dfd3ebedc48a182fdc0e027f9bfd74c8ff65b56371dbf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは英雄的な騎士を操作します。実はその騎士は王子ギルガメッシュで、悪魔ドルアーガから乙女を救出しなければなりません。あなたは剣と盾を持ち、攻撃と防御を行います。フロアからフロアへと移動し、迷路のように構成されたステージを探索しながら、鍵を探します。この鍵がステージの出口を開けます。アイテムは敵を倒すことで手に入れることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Druaga%20no%20Tou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

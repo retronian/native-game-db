@@ -1,0 +1,85 @@
+{
+  "id": "makaimura-gaiden-the-demon-darkness",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Makaimura Gaiden - The Demon Darkness",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔界村外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "レッドアリーマー II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Red Arremer II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Makaimura Gaiden - The Demon Darkness (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "cfa358de",
+      "md5": "de731a5f2f4e7d16bcdc4b5953ddcc12",
+      "sha1": "961d05e91288d7ad1f2e6a1c996059d7ab96fe98",
+      "sha256": "b88c8bdb4f5438b644b371543ebdb42093cb7131cb8378f2f4b81541330fa618"
+    }
+  ],
+  "external_ids": {
+    "igdb": 84640
+  },
+  "descriptions": [
+    {
+      "text": "ファイアブランドは、エトルリアの町出身の若き戦士見習いです。ある日、ファイアブランドが小さな異次元で訓練していると、突然ブラックライトが現れ、彼の故郷を破壊してしまいます。訓練から無事に戻ると、彼は死にゆく別のグールから急いで王のもとへ行くように言われます。ナグスを倒した後、ファイアブランドはモロック王と面会し、彼が死の淵に立たされていることを告げられます。死の前に、モロック王はファイアブランドにスペクトルの爪を渡し、ファイアブランドはブラックライトの謎を解明する旅に出発します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-04-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Makaimura%20Gaiden%20-%20The%20Demon%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Makaimura%20Gaiden%20-%20The%20Demon%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Makaimura%20Gaiden%20-%20The%20Demon%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

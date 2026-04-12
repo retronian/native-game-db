@@ -1,0 +1,51 @@
+{
+  "id": "superman",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Superman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Superman (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "358e0091",
+      "md5": "a55e4143925f5cbe2b929cc5f598bbe9",
+      "sha1": "3a987cb4ba6f33717ea70d7388ec1dfe6ab934e8",
+      "sha256": "dbc0790f597b61f990e410ce9954a652ebd2cf91ca52ec4814982f8dc75d6c54"
+    }
+  ],
+  "external_ids": {
+    "igdb": 81521
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Superman%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Superman%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Superman%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

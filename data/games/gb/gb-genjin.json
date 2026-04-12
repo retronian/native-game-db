@@ -1,0 +1,65 @@
+{
+  "id": "gb-genjin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Genjin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GB原人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Genjin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "690227f6",
+      "md5": "ccb0d2a704c3ec24a0bbd78fcdfad4dd",
+      "sha1": "c2e98c76e49155e7b9815e0c33ae6cf71daaee2c",
+      "sha256": "43a3003404f707b9ebd98b1e6e0d6b98892949854186da7a937671f92f88ad20"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "頭突きで敵を倒す、頭を使った冒険に飛び込もう！原人ボンクとして、コング・ジラやトラクターヘッド、そしてこれまでに見たことのない奇抜な先史時代の敵たちに立ち向かおう。肉や野菜を食べてパワーアップし、邪悪なキング・ドゥルールと戦う準備を整えよう。まさに頭を振るう冒険だ！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/GB%20Genjin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GB%20Genjin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GB%20Genjin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

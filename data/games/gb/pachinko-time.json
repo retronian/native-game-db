@@ -1,0 +1,70 @@
+{
+  "id": "pachinko-time",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Time",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチンコタイム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "パチンコTime パチンコタイム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Time (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "47658ade",
+      "md5": "be99ca18c5b9dbb90b4e08f164855be5",
+      "sha1": "ef0e7c6b39744342397523e31e861ec09246613d",
+      "sha256": "b442ad604ffb9b47ab7c02ea8f29627a55955cea4017ce5de7ad831e285b9c29"
+    }
+  ],
+  "external_ids": {
+    "igdb": 131141
+  },
+  "first_release_date": "1989-12-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachinko%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachinko%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachinko%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

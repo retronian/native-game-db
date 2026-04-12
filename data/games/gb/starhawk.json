@@ -1,0 +1,65 @@
+{
+  "id": "starhawk",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "StarHawk",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "StarHawk (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e032e502",
+      "md5": "c284b8a9019020336c89b680fb6552e4",
+      "sha1": "4c22e06cb98119923126f6500568ce9f136a33c5",
+      "sha256": "3123e4bcd304d84819c589775db3bf4a2b4fa6d23209b3da691ea7eda6045037"
+    },
+    {
+      "name": "StarHawk (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "00da50e2",
+      "md5": "0e197969c69b529ebed89cfb736d1478",
+      "sha1": "bf64c1b1071bd243417b6c29fd8a4dd559d3f63a",
+      "sha256": "119cd7f037d9a1d81ceae400cb54dd0241d8d4322ff0bb2ed69440cb244d2031"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79624
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/StarHawk%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/StarHawk%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/StarHawk%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/StarHawk%20%28World%29%20%28Limited%20Run%20Games%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

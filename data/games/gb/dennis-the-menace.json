@@ -1,0 +1,60 @@
+{
+  "id": "dennis-the-menace",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dennis the Menace",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Dennis",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dennis the Menace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7eb0cd32",
+      "md5": "f064bd662fdcb40a9f6926cc3baee116",
+      "sha1": "4695b50738add92926dc5d4b48568b037df7cdb9",
+      "sha256": "b4c5297168cd1974a4e05d847dc6db1a35d32c4d665238a730089f9a750fab7c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248767
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dennis%20the%20Menace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "uoozu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uoozu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "うおーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uoozu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "f7e1c9c5",
+      "md5": "e0e45a92aaf878544de84ef4867b8595",
+      "sha1": "d1b466b5a46de120d18309efade02d1745760d70",
+      "sha256": "2cbf2197e8bd3231418fc75ccaf9422e9aa2576dbaa4989857689e482de3167e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "フィッシュデュードはアクションゲームです。プレイヤーは「フィッシュデュード」、小さな水域にいる中くらいのサイズの魚です。自然の法則は厳しい：「食べるか、食べられるか」。プレイヤーは他の小さな魚を食べ、より強い敵—大きな魚や鳥—を避けなければなりません。ヒーローであるフィッシュデュードが多くの魚を食べると、彼は強くなり、大きな魚から自分を守ることができるようになります。プレイヤーには3つのライフしかありません。すべてを失うと「ゲームオーバー」となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Uoozu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Uoozu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Uoozu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

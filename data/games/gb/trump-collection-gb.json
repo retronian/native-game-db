@@ -1,0 +1,68 @@
+{
+  "id": "trump-collection-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Trump Collection GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トランプコレクションGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Trump Collection GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8341be0f",
+      "md5": "e2133fc6f1d81ce8aa1c955c616dd1fe",
+      "sha1": "fd8af42fecef8d1c826df7fed7859e2b03d861ba",
+      "sha256": "97e88ffd8228915d03c3f297ec8774d10c72154a1f822cebf44eefd90b6c161c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 82137
+  },
+  "descriptions": [
+    {
+      "text": "多くの馴染みのあるカードゲームを楽しめるソフトウェアです。5種類のカードゲーム「7ライン」、「スピード」、「ポーカー」、「メモリーロス」、「ミリオネア」を楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-11-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Trump%20Collection%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Trump%20Collection%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Trump%20Collection%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

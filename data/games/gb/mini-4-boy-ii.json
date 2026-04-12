@@ -1,0 +1,60 @@
+{
+  "id": "mini-4-boy-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini 4 Boy II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミニ4ボーイII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini 4 Boy II (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "d6962241",
+      "md5": "a58397c62d44a60fa08d3f51cd8385c6",
+      "sha1": "eebcf67ab1455501f1b758ab71a8dc22808b34f1",
+      "sha256": "38742790889a4bd9bf533e09c5bd9aa648fa72a2262e73d4768609effffbde96"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228621
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mini%204%20Boy%20II%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mini%204%20Boy%20II%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mini%204%20Boy%20II%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

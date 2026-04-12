@@ -1,0 +1,68 @@
+{
+  "id": "kyoro-chan-land",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kyoro-chan Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キョロちゃんランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kyoro-chan Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "e158d4db",
+      "md5": "fb8540a7262842083991f4aa2a6330d5",
+      "sha1": "67b9b01fbb58c69aad716bcc0409a9dba3bd92b5",
+      "sha256": "4804741a60591a637103a54a6e3a5611bd775097c457fdf85775d74da93ab600"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206604
+  },
+  "descriptions": [
+    {
+      "text": "ジュリアスという名の彼。破壊が彼の仕事だ。\n\n空を突き破るかのような八つの巨大な塔！あなたとジュリアス - アヌリアンハイブリッド - は、異星の塔を崩壊させる任務を担っています。ジュリアスが各塔の表面を登り、飛び跳ねると、強力で非常に危険な敵が立ちはだかります。動き回るヘキサロン、スキャンするアイボール、軌道を描くスフェロイド、そして溶ける道があなたをあらゆる方向から脅かします。彼らの触れるだけで命を失う危険がある！それでも、あなたは塔の頂上に到達し、強力なDバムを爆発させなければなりません！\n\nあなたの勇気、スキル、そして決意がカステリアンの頂上へと導いてくれるでしょう。カーボノバムを発射し、高速エレベーターをつかまえ、未知の扉へと逃げ込みましょう。この島の未来はあなたとジュリアスにかかっています。彼を見守り、彼の秘密を学べば、破壊があなたのゲームになるでしょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kyoro-chan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kyoro-chan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kyoro-chan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

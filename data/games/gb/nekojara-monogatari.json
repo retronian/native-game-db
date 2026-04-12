@@ -1,0 +1,68 @@
+{
+  "id": "nekojara-monogatari",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nekojara Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネコジャラ物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nekojara Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3d6d309b",
+      "md5": "aca9abfbab8345733456394b516f03e1",
+      "sha1": "f0f320b9170501c762e724e9b22d37cb4d15d0a9",
+      "sha256": "8163258b8b0a5d7f6e421d3582ec209950b40e93a195dae9534952ed473b485a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 213302
+  },
+  "descriptions": [
+    {
+      "text": "このゲームはダンジョン探索型RPGです。プレイヤーは、ある日目覚めると猫に変身してしまった少年を操作します。彼は、キャットランドの王家の宝物が盗まれたことを知ります。元に戻るための唯一の方法として、彼は仕方なくその宝物を取り戻す冒険に出かけます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nekojara%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nekojara%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nekojara%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

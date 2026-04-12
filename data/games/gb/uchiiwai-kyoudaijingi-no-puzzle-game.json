@@ -1,0 +1,65 @@
+{
+  "id": "uchiiwai-kyoudaijingi-no-puzzle-game",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uchiiwai - Kyoudaijingi no Puzzle Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "内祝 兄第神技のパズルゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uchiiwai - Kyoudaijingi no Puzzle Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "8059bc15",
+      "md5": "eb43c1df87041d6b82e789a2b46927be",
+      "sha1": "8992f55380b6ae7da14dcc3b3158c5c160953a1c",
+      "sha256": "77c5986f6713875461028797d192f944cf1a2b3f1d55aecc72e434ab7b98a0f1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "NESショップワンパク小僧のキャンペーンソフト。『兄弟神技』漫画（著：チーメイ・マトウ）のフレームを使用した15ゲームのパズル（ブロックを入れ替えて絵を完成させる）で、店舗が発行する『パックンポッケ』に連載されていました。ストーリーがあるのは10面です。これは「SPLITZ」のキャラクター差し替え版です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Uchiiwai%20-%20Kyoudaijingi%20no%20Puzzle%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Uchiiwai%20-%20Kyoudaijingi%20no%20Puzzle%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Uchiiwai%20-%20Kyoudaijingi%20no%20Puzzle%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

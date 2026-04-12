@@ -1,0 +1,94 @@
+{
+  "id": "castelian",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Castelian",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Castelian (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "2f752404",
+      "md5": "3502be0da5d444ec144aae9ce1409e0d",
+      "sha1": "6720d86d420831a0a4865d4a59c4ba6fe98fa34d",
+      "sha256": "5e3724004631ff91cb53facdd894feb38cb2a67d441389b6ea18882b9a8fc51a"
+    },
+    {
+      "name": "Castelian (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "f2d739e4",
+      "md5": "21cc47b68fc7c9c56ef3393dbe528600",
+      "sha1": "a03982e2ffa9aa368fe11bc09f024207bada45eb",
+      "sha256": "0d1230db8d3a634934cb244d1d6a138865a60956667c539f0fbe583581266db3"
+    },
+    {
+      "name": "Castelian (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "a08cb239",
+      "md5": "1ab4aad28745a9a4c875e8bef7ea3ffa",
+      "sha1": "0c69cee488d7589c6bf0a1b7e2c3d20f2b4d3042"
+    }
+  ],
+  "external_ids": {
+    "igdb": 295029
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Castelian%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Castelian%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Castelian%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Castelian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Castelian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Castelian%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Castelian%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

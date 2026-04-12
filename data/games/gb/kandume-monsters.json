@@ -1,0 +1,68 @@
+{
+  "id": "kandume-monsters",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kandume Monsters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カンヅメモンスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kandume Monsters (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "82e03e10",
+      "md5": "0937c8fc7c7b5470acb80f2462f49d48",
+      "sha1": "9444196c413a13cf326c18c5aa457bcac92114a5",
+      "sha256": "8fa023229111e68670a5d3792d2c3b1b1def55c9983148e19116df72650a3627"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228571
+  },
+  "descriptions": [
+    {
+      "text": "缶詰から生まれたモンスターを育てて戦わせるゲームです。モンスターには「ジェム」と呼ばれる不思議な宝石を装備させ、さまざまな技を使うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kandume%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kandume%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kandume%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

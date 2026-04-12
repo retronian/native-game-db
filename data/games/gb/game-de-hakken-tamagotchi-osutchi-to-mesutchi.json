@@ -1,0 +1,57 @@
+{
+  "id": "game-de-hakken-tamagotchi-osutchi-to-mesutchi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game de Hakken!! Tamagotchi - Osutchi to Mesutchi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームで発見!! たまごっち オスっちとメスっち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game de Hakken!! Tamagotchi - Osutchi to Mesutchi (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9694d69d",
+      "md5": "3488999b749038efa076ea7b2fcc99bc",
+      "sha1": "e61f7faad888e5a1c56ffe66fa3c0330b5ee459b",
+      "sha256": "6bc5e7b909ed439a9cd8586ba5f5ae6e293bca33f7573d1adc57f65d992c20db"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20de%20Hakken%21%21%20Tamagotchi%20-%20Osutchi%20to%20Mesutchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20de%20Hakken%21%21%20Tamagotchi%20-%20Osutchi%20to%20Mesutchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20de%20Hakken%21%21%20Tamagotchi%20-%20Osutchi%20to%20Mesutchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

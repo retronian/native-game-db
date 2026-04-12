@@ -1,0 +1,65 @@
+{
+  "id": "hokuto-no-ken-seizetsu-juuban-shoubu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hokuto no Ken - Seizetsu Juuban Shoubu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "北斗の拳 凄絶十番勝負",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hokuto no Ken - Seizetsu Juuban Shoubu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e4b4febc",
+      "md5": "c9edc6cb63e3c2a91889653af8929ff7",
+      "sha1": "4f8e8d2d079a0e3b76a67411d919297808f3849b",
+      "sha256": "2e11680cabc033a6625a9392af9faed43401cb88ff3c9f7efccc03668b7f6494"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはアニメシリーズ「北斗の拳」を基にしたプラットフォーム型「ビートエムアップ」ゲームです。マニュアルに記載されているストーリーによれば、主人公ケンシロウは邪悪なエンペラー・ヘブンから人々を救わなければなりません。しかし、ゲーム自体にはストーリーはなく、代わりに多くのプラットフォームアクションが展開されます。レベルを素早く駆け抜け（制限時間があります）、敵をパンチやキックで攻撃し、敵を吹き飛ばしたり爆発させたりします。時折ボスと遭遇し、ドアの向こうにある秘密のエリアを訪れたり、さまざまなパワーアップを集めたりします。\n\n実際、これはシリーズの第2作目であり、最初の作品は日本国外ではリリースされていません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hokuto%20no%20Ken%20-%20Seizetsu%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hokuto%20no%20Ken%20-%20Seizetsu%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hokuto%20no%20Ken%20-%20Seizetsu%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

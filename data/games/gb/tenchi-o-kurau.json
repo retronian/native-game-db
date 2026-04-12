@@ -1,0 +1,65 @@
+{
+  "id": "tenchi-o-kurau",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenchi o Kurau",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天地を喰らう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenchi o Kurau (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a9018354",
+      "md5": "8c69230b2e8bbe15cee83e89a7cb19dc",
+      "sha1": "312bc91b1b857cc7ec0cb8bc7cfa80bfe10d7b4b",
+      "sha256": "2884676b3bb261204f480767ba716dfc5266e536b7628fc73f9243c1e0efa8c7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、NES版で人気を博した本宮ひろ志によるRPG「天地を喰らう」の移植版です。目標は、15の中国の省で敵の大名を倒し、中国全土を統一することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

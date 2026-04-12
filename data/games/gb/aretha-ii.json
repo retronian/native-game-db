@@ -1,0 +1,68 @@
+{
+  "id": "aretha-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aretha II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アレサ II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aretha II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "086e4fc5",
+      "md5": "a3059206ef517091a475249ce6c0db4f",
+      "sha1": "5634a05ea8e93af3dd0e41823576bf6295f8df1f",
+      "sha256": "afaf5380f970c2f07ff585a84bab50295fd17888591511cc1d71e8d7ddad7599"
+    }
+  ],
+  "external_ids": {
+    "igdb": 137076
+  },
+  "descriptions": [
+    {
+      "text": "アレサ II: アリエルの不思議な旅は、1994年に日本市場専用でリリースされたマルチプラットフォームのロールプレイングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Aretha%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Aretha%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Aretha%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

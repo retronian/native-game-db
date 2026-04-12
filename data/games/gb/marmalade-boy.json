@@ -1,0 +1,62 @@
+{
+  "id": "marmalade-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marmalade Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ママレード・ボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marmalade Boy (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "0f3ff7da",
+      "md5": "f5155252ff84ea0f708154cfe46a31d7",
+      "sha1": "60125690b7a354ff8e72f497c8a88ecd691e7e4b",
+      "sha256": "1390655ab2cd3fd179afe4a7583653d5bcb2aadd054094f71fe685fe0ba731c7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 202585
+  },
+  "descriptions": [
+    {
+      "text": "ママレード・ボーイは、同名の漫画とアニメを基にしたゲームボーイのアダプテーションです。カレンダーに従って、女子高生の小石川ミキの冒険を再体験します。毎日、新たな展開が彼女の複雑な恋愛や家族の物語を彩ります。ダイアログやアニメーションは、シリーズのファンを喜ばせることでしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-27",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Marmalade%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Marmalade%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

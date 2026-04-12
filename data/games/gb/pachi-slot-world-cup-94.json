@@ -1,0 +1,57 @@
+{
+  "id": "pachi-slot-world-cup-94",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachi-Slot World Cup '94",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチスロ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachi-Slot World Cup '94 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "92c9141f",
+      "md5": "c197d6afc51b6bcf616781a5c32708a4",
+      "sha1": "fac33654dc37c120674a8f9e20019dfcca72ebcd",
+      "sha256": "8edd55fb428fcaf57ef81755ba6ccda104a6624cf8a6f091c780ee1512c92ed5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachi-Slot%20World%20Cup%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachi-Slot%20World%20Cup%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachi-Slot%20World%20Cup%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

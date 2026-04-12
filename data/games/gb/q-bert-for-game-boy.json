@@ -1,0 +1,102 @@
+{
+  "id": "q-bert-for-game-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Q-bert for Game Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キューバート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Q*bert",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Q-bert for Game Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "e9ba4bad",
+      "md5": "1c1911e4a8d299fcc5df4180f33b69e6",
+      "sha1": "44665169fdb96c685646613a82719276e7f07763",
+      "sha256": "618767cfc7483f798ffd42d8a08e294cf62356e0af553fc9a0e470e0538a8a49"
+    },
+    {
+      "name": "Q-bert for Game Boy (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "b0109545",
+      "md5": "514688df17c1f7bcf978a13c83d0c22c",
+      "sha1": "bd56a1e96c3d310b522e25d7b72ceef26af87f2e",
+      "sha256": "d049bdb43d9dc02fec2e8a6e262ae48b877acdefa5010fed984546801df5616f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "キューバートは人気のアーケードゲームの移植版です。目標は、ピラミッド上のすべてのタイルを目標の色に変えることです。そのために、キューバートをピラミッドの周りに導き、彼が飛び乗ったタイルは色が変わります。初期のレベルでは、1回のジャンプでタイルは希望の色に変わりますが、後のレベルではタイルに何度もジャンプする必要がある場合や、逆に何度もジャンプしないように避ける必要があることもあります。キューバートの行く手を阻むのは、ボードをさまようさまざまなクリーチャーたちで、コイリーというヘビやスリックとサム、さらには落ちてくるボールがいます。ボードの端には浮遊するディスクがあり、キューバートがヘビに追われているときにこれらのディスクにジャンプすると、ヘビはボードから落ち、キューバートは安全に上部へと運ばれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Q-bert%20for%20Game%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Q-bert%20for%20Game%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Q-bert%20for%20Game%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Q-bert%20for%20Game%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Q-bert%20for%20Game%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Q-bert%20for%20Game%20Boy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

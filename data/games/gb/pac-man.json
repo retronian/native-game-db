@@ -1,0 +1,106 @@
+{
+  "id": "pac-man",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pac-Man",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パックマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pac-Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "0509069c",
+      "md5": "cd9027e147f4605f26ee261c537441b3",
+      "sha1": "8d9fda32419ca7030ba15f67ff8f857c1a119916",
+      "sha256": "4a43f491e4c5cef282960b06d23133ff3cb234e228fd21fe1e99958eee8c4971"
+    },
+    {
+      "name": "Pac-Man (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "65998f48",
+      "md5": "1a76705a7617c4f2c54ecf60d89bd0ae",
+      "sha1": "ae088bba7147780afaf5cff9e5b296f893db823b",
+      "sha256": "32047bcc3602b27d768c2f4633af58938c8dd7d896c10a3eef92fde7232dd6d9"
+    },
+    {
+      "name": "Pac-Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "b681e243",
+      "md5": "f6b898bfaa367ac1b0782a363cd098c7",
+      "sha1": "a05f50d3571c0572eb0433474a99c966a67a2d1b",
+      "sha256": "d07986785d76db33e96ccbbe840ac962542f1c359e5b896e6478afd5cf9586b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 204387
+  },
+  "descriptions": [
+    {
+      "text": "1980年代の最も人気があり影響力のあるゲームの一つ、パックマンは、小さな黄色いドットを食べるキャラクターが迷路を進んで、ボードに存在する様々なドットやフルーツをクリアしていくゲームです。\n\nパックマンの目標は、4匹のゴーストによって常に挑戦されます。恥ずかしがり屋の青いゴーストバッシュフル（インキー）、後を追う赤いゴーストシャドウ（ブリンキー）、素早いピンクのゴーストスピーディ（ピンキー）、そして忘れっぽいオレンジのゴーストポーキー（クライド）です。これらのゴーストのいずれかに触れると、パックマンはライフを失います。\n\nパックマンは、迷路内にある4つのエナジャイザーを食べることで追跡者に対抗することができます。この間、ゴーストは青くなり、パックマンは彼らを食べることでボーナスポイントを得ることができます。しかし、これは限られた時間しか続かず、ゴーストの目は中央のボックスに戻り、再びパックマンを追いかけるために再生されます。\n\n数ラウンドのゲームプレイを生き延びると、パックマンとゴーストの間でユーモラスなインターミッションが楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "lazlos-leap",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lazlos' Leap",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lazlos' Leap (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "31fb404b",
+      "md5": "68a06792ae4401f9fc09d460120ec2a1",
+      "sha1": "c111470fcdadf191cf843e50c8f3d3dbb995a5c5",
+      "sha256": "96db9c11cff58dd637efbdc11416580d1a05bb6cc119d9efa0b17bfb0d0f80ad"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61363
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lazlos%27%20Leap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lazlos%27%20Leap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lazlos%27%20Leap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

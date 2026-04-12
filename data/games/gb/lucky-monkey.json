@@ -1,0 +1,65 @@
+{
+  "id": "lucky-monkey",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lucky Monkey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラッキーモンキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lucky Monkey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a2234eb1",
+      "md5": "cc111bc1ee3e0ad566b8bc058372b6cd",
+      "sha1": "ab8654013dc574538b815d8b15aa3cae66afc809",
+      "sha256": "2e5c921f71d26f52844db25177b2a4e054ed9a2228c712a86969739468cd376a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "反省ザル ジローくんの大冒険は、ピクニックに出かけることにしたサルの物語です。森の中を進んでいると、空に魔女が現れ、突然その周囲にレンガが積み上げられ始めます。魔女はジローくんに最終の塔に来るよう挑戦し、彼を解放すると言いますが、飛び去る前に彼のリュックサックの果物を生きた果物モンスターに変えてしまいます。知らず知らずのうちに、魔法の玉を落としてしまい、それがジローくんの冒険を手助けすることになります。\n\nゲームの目的は、10レベルとボス戦からなる6つの塔をすべてクリアすることです。次のレベルに進むためには、施錠された扉が必要とする数の鍵を手に入れなければなりません。鍵は周囲に落ちていることがあり、モンスターがそれを拾うと、ジローくんはそのモンスターに玉を使って取り戻さなければなりません。玉には4つの異なる攻撃方法があります：野球、サッカー、バレーボール、バスケットボールです。より強力な玉を手に入れるためには、ジローくんの頭の上で玉をバウンドさせる必要があります。また、ジローくんはさまざまな帽子をかぶることができ、それによって特定の力を得ることができますが、その力は失ったりレベルが終了したりすると消えてしまいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lucky%20Monkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lucky%20Monkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lucky%20Monkey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

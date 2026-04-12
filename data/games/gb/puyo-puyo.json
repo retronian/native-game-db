@@ -1,0 +1,93 @@
+{
+  "id": "puyo-puyo",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puyo Puyo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぷよぷよ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puyo Puyo (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9e372d13",
+      "md5": "1a181f068d715c4ca350fb168fb9dd8a",
+      "sha1": "65c80185c8948e1963509e13c40fb670ad6b64c5",
+      "sha256": "65811e98e336162f3979a8365a747ff9a578f4def5e4e1558bb003614712bd56"
+    },
+    {
+      "name": "Puyo Puyo (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "20e48285",
+      "md5": "300ea2593b2c29c3950fed23d672e11e",
+      "sha1": "ef05ab17131030554e0d820dd0e602af82e1fe54",
+      "sha256": "783e1176c18c0a89393b32596e2c70bb71bd8213d4e4cbd50c009767ccb62b6a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ぷよぷよは、落ち物パズルゲームで、テトリスに基本的な類似点があります。ぷよ（コンパイルのRPGシリーズ「魔導物語」からのモンスター）のペアが上からシリンダーに落ちてきます。ぷよは左右に移動させたり、どちらの方向にも回転させたり、早く落とすことができます。目標は、同じ色のぷよを4つ横または縦に接触させることです。そうすることで、フィールドからぷよが消えます。4つ以上のグループを作ったり、同時に複数消したり、連鎖反応を起こすことで、より多くのポイントを獲得できます。積み上げられたぷよがシリンダーの上部に達するとゲームは終了します。\n\nこのゲームは、無限のシングルプレイヤーモード、2人対戦モード（シリンダーが満杯になったプレイヤーが負け）、そしてミッションモードを提供しています。ミッションモードでは、プレイヤーに事前に設定されたタスクを持ついくつかのプレイフィールドが提示されます。例えば、1回の動きで最低限のぷよを消す、または特定の色のぷよをすべて消すといったタスクです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-07-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Puyo%20Puyo%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Puyo%20Puyo%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Puyo%20Puyo%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

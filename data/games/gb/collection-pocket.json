@@ -1,0 +1,68 @@
+{
+  "id": "collection-pocket",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Collection Pocket",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コレクションポケット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Collection Pocket (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "34e62c8b",
+      "md5": "1c0fab1d2d046bee898372bed404c31a",
+      "sha1": "daad5ec53da0e375cee3962c0a9031d8a67020fd",
+      "sha256": "feb6fd05bd3a5e88bad6f37e78245d0328d3465fd84e15011b2059de59396a08"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228493
+  },
+  "descriptions": [
+    {
+      "text": "このカートリッジには、ポーカー、ブラックジャック、レーシングカー、競馬などのミニゲームが10種類含まれています。しかし、コンパイルには主に2つのシューティングゲームが見られます。日本語の情報が多く、タイトル名を解読することができませんでした。それを除けば、出版社のナクサットソフトという魅力的な名前が、私をこれらの横スクロールアプリに挑戦させました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-11-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Collection%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Collection%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Collection%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

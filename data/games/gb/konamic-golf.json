@@ -1,0 +1,55 @@
+{
+  "id": "konamic-golf",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konamic Golf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コナミックゴルフ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konamic Golf (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "c16d4db2",
+      "md5": "f214ebedb198f539230c4738cc644109",
+      "sha1": "78d014f8feb88cc8b509172c1a6fa48aa5eed67c",
+      "sha256": "a4643bb9827027413ee1d1abaddcb41a55771f43588aeffc3a0633ba61169c39"
+    }
+  ],
+  "first_release_date": "1991-11-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Konamic%20Golf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konamic%20Golf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konamic%20Golf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

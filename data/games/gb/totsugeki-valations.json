@@ -1,0 +1,65 @@
+{
+  "id": "totsugeki-valations",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Totsugeki Valations",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "突撃ばれいしょんず",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Totsugeki Valations (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "f2119a2d",
+      "md5": "98ccedc1e48c22c6f505b6ac79a944ff",
+      "sha1": "cd4317bbf8774370d7c84b216c950d4867342793",
+      "sha256": "755af0c1b7e0d1b1a22c9a5b14cdbc630ab5a1796b5e8d96f24318ca7bc0936c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「突撃ばれいしょんず」では、プレイヤーは王様に誘拐された娘を救うために任務を負ったジャガイモの役割を担います。そのためには、多くの階層からなる塔を登らなければなりません。ゲーム中には、迷路のようなステージで敵を撃ちながら出口を見つけるタイプのゲームプレイと、ソコバンのバリエーションの2種類があります。ここでは、プレイヤーがブロックを特定のマークされた位置に押し込む必要がありますが、引くことはできません。これらのステージでは、レベルをペナルティなしでリセットできます。敵を撃つことで経験値が得られ、最終的には健康がアップグレードされます。主人公は、話しかけることができ、ヒントをくれるさまざまな友好的なスプライトとも出会います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Totsugeki%20Valations%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Totsugeki%20Valations%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Totsugeki%20Valations%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

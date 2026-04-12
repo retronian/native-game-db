@@ -1,0 +1,77 @@
+{
+  "id": "hayaoshi-quiz-ouza-ketteisen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hayaoshi Quiz - Ouza Ketteisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "早押しクイズ The King of Quiz 王座決定戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "早押しクイズ 〜王座決定戦〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hayaoshi Quiz - Ouza Ketteisen (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "60727bf9",
+      "md5": "da7f9623e0d544196747cfd2b79b5e78",
+      "sha1": "7f0010677e3052c6b9caf41714e87d285ad45a91",
+      "sha256": "8546cda2d41870a51dde2d8281e606c2bf7fe27b87324aad2362ad8f44e8e538"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228557
+  },
+  "descriptions": [
+    {
+      "text": "8つのジャンルから選ばれたクイズに素早く答えて、5週間の勝利を目指すクイズゲームです。5週間の勝利を達成すると、条件を満たした場合には最後のボスとのクイズバトルが待っており、かなり厳しい戦いになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hayaoshi%20Quiz%20-%20Ouza%20Ketteisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hayaoshi%20Quiz%20-%20Ouza%20Ketteisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hayaoshi%20Quiz%20-%20Ouza%20Ketteisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

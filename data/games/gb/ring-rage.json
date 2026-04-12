@@ -1,0 +1,78 @@
+{
+  "id": "ring-rage",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ring Rage",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "リングレイジ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ring Rage (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "fd3d5ba7",
+      "md5": "813fc943982d8a24085097d395994ccf",
+      "sha1": "c6689e9df7312ddff14f3e7b483fb02107c7b84b",
+      "sha256": "8d1ea120a823364b50d353d915c743607d27a5cfe602a8e15150264655d0af3e"
+    },
+    {
+      "name": "Ring Rage (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "bce5dfb7",
+      "md5": "6c4d2f2a4aa7029759441d2c16d8c931",
+      "sha1": "eb9509415d08792a29712814a7887824f11624c0",
+      "sha256": "220ed791d1f483668cef33ce2ec10720622176ae411be376df628840bd4376f3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344049
+  },
+  "descriptions": [
+    {
+      "text": "リングレイジは、ライセンスゲームの華やかさはないスタンダードなレスリングゲームです。全体で6人のレスラーが登場しますが、プレイ可能なのは5人です：\n\n1. ガンボート・ロディ、元海軍の水兵\n2. スパイク、ニューヨークの厳しい街から来た巨漢\n3. ヤシャ、マスクをかぶった日本のレスラー\n4. シャダム、中東出身のグラップラー\n5. KOジョー、元ボクサーで今はプロレスに挑戦している選手\n\nカナダ出身の未知のレスラー、キラー・ケインがトーナメントのチャンピオンシップバウトで対戦しますが、彼はプレイ可能なキャラクターではありません。\n\nモードは3つだけで、1P対CPU、1P対2P（ケーブルリンクと追加カートリッジを使用）およびTWF（タイトー・レスリング・フェデレーション）チャンピオンシップを目指すトーナメントがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ring%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ring%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ring%20Rage%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "kenyuu-densetsu-yaiba",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kenyuu Densetsu Yaiba",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "剣勇伝説ヤイバ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kenyuu Densetsu Yaiba (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "cc19768e",
+      "md5": "7d76d2a9eaada93dc846efe1b2a815cc",
+      "sha1": "c2b71ceee21f66f462df18233f7622d8ec95fcca",
+      "sha256": "5ee023292209f2980f84e744258ad53ec7bc127e7f9d56fc17e9b6e75e40fad9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282500
+  },
+  "descriptions": [
+    {
+      "text": "青山剛昌の同名漫画を基にしたアクションゲームです。謎の少女エメラルドの導きのもと、ピラミッドによって引き起こされる神秘的な現象の謎を追いかけます。アニメ化されていないエピソードに主に焦点を当てているため、貴重な作品と言えるでしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

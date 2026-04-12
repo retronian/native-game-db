@@ -1,0 +1,77 @@
+{
+  "id": "yu-gi-oh-duel-monsters",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu-Gi-Oh! Duel Monsters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "遊☆戯☆王 デュエルモンスターズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "遊戯王デュエルモンスターズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8875ec54",
+      "md5": "770a917f18e0aa1f3bb027d0783f548b",
+      "sha1": "07ae4a6437f00f6af462bf84fd0ac1cf345c8365",
+      "sha256": "d3f7abeecd28e53c0633032eb6f84f27a626f683b31821f1894814078eeed32e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 57150
+  },
+  "descriptions": [
+    {
+      "text": "「遊☆戯☆王 デュエルモンスターズ」は、最終的に「遊☆戯☆王 ダークデュエルストーリーズ」を世界中に届けることになるシリーズの最初のゲームです。このゲームは「遊☆戯☆王」マンガのデュエルモンスターズゲームの最初のゲームアダプテーションであり、ゲームボーイ向けのフランチャイズからの2つのゲームのうちの1つです。もう1つは「遊☆戯☆王 カプセルモンスターズ GB」です。\n\nゲームの目的は、プレイヤーが5つのステージのデュエルモンスターのバトルを進んでいき、最終的にダーク・ユーギを倒すことです。次のステージのデュエリストをアンロックするためには、プレイヤーはそのステージのすべてのデュエリストを連続して何度も倒さなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-12-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yu-Gi-Oh%21%20Duel%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yu-Gi-Oh%21%20Duel%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yu-Gi-Oh%21%20Duel%20Monsters%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

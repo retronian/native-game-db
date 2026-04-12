@@ -1,0 +1,94 @@
+{
+  "id": "carpenter-genzo-robot-empire",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Carpenter Genzo: Robot Empire",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "Daiku no Gen-san: Robot Teikoku no Yabou",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "Daiku no Gen-san - Robot Teikoku no Yabou",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "大工の源さん ロボット帝国の野望",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Daiku no Gen-san: Robot Teikoku no Yabou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 55937
+  },
+  "first_release_date": "1994-03-25",
+  "descriptions": [
+    {
+      "text": "「ハンマリン・ハリー」シリーズからの作品です。第二作目のゲームボーイ版では、ヒーローたちが最終フロンティアである宇宙へと旅立ちます。基本的なゲームプレイは前作とほぼ同じですが、少し難易度が上がっています。いくつかのポイントでは、ロボットの助っ人が登場し、各ステージの特定の場所で壁を越えさせたり、追加の火力を提供したりします。また、特にクールな最終バトルがあり、役割が逆転します。巨大な機械に対抗する孤独なキャラクターではなく、存在を消したり現れたりする狡猾な忍者に対抗する巨大な機械を操作します。この作品は日本のみで発売されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daiku no Gen-san - Robot Teikoku no Yabou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "70819e03",
+      "md5": "a46ded16cdf9308ed765e857203a59e7",
+      "sha1": "0c68250aadca89027b05659122c89682ff833298",
+      "sha256": "7277dc76fa75daf249f1257ee98dd86e5289fc801848ed0873032551bc6f59f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Daiku%20no%20Gen-san%20-%20Robot%20Teikoku%20no%20Yabou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Daiku%20no%20Gen-san%20-%20Robot%20Teikoku%20no%20Yabou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Daiku%20no%20Gen-san%20-%20Robot%20Teikoku%20no%20Yabou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

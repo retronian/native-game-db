@@ -1,0 +1,96 @@
+{
+  "id": "4-in-1-fun-pak",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "4-in-1 Fun Pak",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "フォー イン ワン ファン パック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "4-in-1 Fun Pak (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "86f45343",
+      "md5": "f1724349b22aa4f3a3e6c30d97117040",
+      "sha1": "f1cf115df0246f08d4e886cb046ebd2aa431a6c9",
+      "sha256": "9e51c4dfd4ce7eca6715e60afc02ee6fab180530a1a80368b220cb671bb63a97"
+    },
+    {
+      "name": "4-in-1 Fun Pak (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "0e0216e6",
+      "md5": "b8d609b5dbac6a2dae6087fd9feec196",
+      "sha1": "b1443c09ee3f2bee5437111a635b6d84155f600e",
+      "sha256": "da5eb5a56ab97f7b6779fa70b894cb94abf351aaf0c9430bd775156528a334a0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 69787
+  },
+  "descriptions": [
+    {
+      "text": "「フォー イン ワン ファン パック」は、CPUや他のプレイヤーと対戦できる4つのボードゲームを組み合わせています。含まれているタイトルは、チェス、チェック、リバーシ、バックギャモンです。各ゲームには異なる難易度設定があり（1が最も簡単で、6が最も難しい）、シンプルな白黒のビジュアルと挑戦的なCPU対戦相手が用意されています。マルチプレイヤーも可能で、2人のプレイヤーが同じゲームボーイを使うか、システムリンクオプションを利用して2台のゲームボーイで対戦できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/4-in-1%20Fun%20Pak%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/4-in-1%20Fun%20Pak%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/4-in-1%20Fun%20Pak%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/4-in-1%20Fun%20Pak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/4-in-1%20Fun%20Pak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/4-in-1%20Fun%20Pak%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

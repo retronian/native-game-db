@@ -1,0 +1,77 @@
+{
+  "id": "same-game",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Same Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "セームゲーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "SAME GAME",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Same Game (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "70393c0f",
+      "md5": "bdd6f3f98390202800751a4ea2a48c36",
+      "sha1": "9dcb5a95e808423e6bd1149319ca8eda069363c8",
+      "sha256": "31cefe15fdcc59750dfaf1a9fa8bd8a0c649afd94a1de74d84e4814b74f2e760"
+    }
+  ],
+  "external_ids": {
+    "igdb": 366909
+  },
+  "descriptions": [
+    {
+      "text": "「セームゲーム」では、プレイヤーは隣接する同じ色のセルを2つ以上選択して、全てのプレイフィールドをクリアしなければなりません。\n\n難易度設定に応じて、プレイフィールドのサイズや色の数が異なります（3色の5x5から4色の20x15まで）。セットを選択すると、それが削除され、残りのセルは「統合」されます（上のセルが落ちてきたり、横にスペースがあればセルが左に移動します）。これにより、セルが移動する際に新たなセットが消滅することもあります。\n\nプレイヤーが全てのセルを取り除くと、ゲームは終了します。もし1つでもセルが残っていると、ゲームは失敗となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-04-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Same%20Game%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Same%20Game%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Same%20Game%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

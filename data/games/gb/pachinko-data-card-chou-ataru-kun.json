@@ -1,0 +1,67 @@
+{
+  "id": "pachinko-data-card-chou-ataru-kun",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Data Card - Chou Ataru-kun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Pachinko Data Card ちょ〜あたる君",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ちょ〜あたる君",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Data Card - Chou Ataru-kun (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "955b25ba",
+      "md5": "808058b66a16e497aab979ba53bbe37e",
+      "sha1": "b8799e2a7d6df8a41f0e8f8857885f7ccc3397b8",
+      "sha256": "225d53a3517c785b9c3675c534234a1025dc9b1889f7bf14f2da52341c09e01c"
+    }
+  ],
+  "first_release_date": "1999-01-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachinko%20Data%20Card%20-%20Chou%20Ataru-kun%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachinko%20Data%20Card%20-%20Chou%20Ataru-kun%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachinko%20Data%20Card%20-%20Chou%20Ataru-kun%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

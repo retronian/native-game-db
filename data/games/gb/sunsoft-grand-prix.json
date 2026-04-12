@@ -1,0 +1,60 @@
+{
+  "id": "sunsoft-grand-prix",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sunsoft Grand Prix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "F1ボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sunsoft Grand Prix (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "8c5dee4d",
+      "md5": "24d19f1069ac583462713060df18a753",
+      "sha1": "ea2445e062c535f8d8a3129d7016f5e8a7ac82cf",
+      "sha256": "9e059fe2bda5a58ddcd2edc989e74d7d8b6a8450275eb1577373413bc2ad9e84"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48995
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sunsoft%20Grand%20Prix%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sunsoft%20Grand%20Prix%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sunsoft%20Grand%20Prix%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "battleship",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battleship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battleship (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "fef62da5",
+      "md5": "d4f7ade01af0818a79bc809cf96118bb",
+      "sha1": "d3efb4afebcf94b191a66797a6bae2c90ba92c6a",
+      "sha256": "5be274d1557bfc6d43ea42a15f15a6b160d135528c534b5bdc6725ce5e03dd97"
+    },
+    {
+      "name": "Battleship (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "ec382a5d",
+      "md5": "6ae068044245ff7d873111e27ef4ad95",
+      "sha1": "d19343d62ec4a257e496ccb4d57c728cbad51e95",
+      "sha256": "5f329f2fabb81efa610001c393a00498c90c3cc9aed9a232330ae895bc343b62"
+    }
+  ],
+  "external_ids": {
+    "igdb": 285030
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Battleship%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battleship%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Battleship%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Battleship%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

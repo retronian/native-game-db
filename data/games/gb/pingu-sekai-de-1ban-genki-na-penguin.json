@@ -1,0 +1,65 @@
+{
+  "id": "pingu-sekai-de-1ban-genki-na-penguin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pingu - Sekai de 1ban Genki na Penguin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピングー 世界で1番元気なペンギン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pingu - Sekai de 1ban Genki na Penguin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a8dd80c6",
+      "md5": "4202e3486b95ab9a5718830b2aa9b7f6",
+      "sha1": "3ee536ad6cee67db12de648b60e4e71e50a072ac",
+      "sha256": "d9f4d20b6bdd891e8018f1241cfca09c95b5aa9eda5e92d36fc793d2eb4c2b63"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、元気な少年ペンギンのピングーをフィーチャーしたアクションゲームです。物語は4つの章からなり、さまざまなミニゲームを楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pingu%20-%20Sekai%20de%201ban%20Genki%20na%20Penguin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pingu%20-%20Sekai%20de%201ban%20Genki%20na%20Penguin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pingu%20-%20Sekai%20de%201ban%20Genki%20na%20Penguin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

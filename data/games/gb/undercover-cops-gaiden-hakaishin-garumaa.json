@@ -1,0 +1,74 @@
+{
+  "id": "undercover-cops-gaiden-hakaishin-garumaa",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Undercover Cops Gaiden - Hakaishin Garumaa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "破壊神ガルマァ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アンダーカバーコップス 破壊神ガルマァ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Undercover Cops Gaiden - Hakaishin Garumaa (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "b7af37f5",
+      "md5": "5294a5fed7e88a6f76707979c83017d6",
+      "sha1": "e391ea099ce371eef858d57e6c2da63a25944472",
+      "sha256": "7b9c17c0dfb67eeddf7a4895689bbad17db802a7a735c58bcd740668f941b7eb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アンダーカバーコップス外伝 破壊神ガルマァは、アイレムのアーケードゲーム「アンダーカバーコップス」を基にしています。しかし、そのタイトルがベルトスクロールアクションであるのに対し、破壊神ガルマァはターン制のボードゲームRPGとして展開されます。後のマリオパーティシリーズに似たデザインで、プレイヤーは最初に3人のアンダーカバーコップの中から1人を選びます。プレイヤーはボードのスタート地点から始まり、「番号付きタイル」の1つを使用しなければなりません。選んだ番号が1より大きい場合、プレイヤーはスロットマシンでそのタイルに書かれた数値までの値を獲得しようと競います。その後、プレイヤーは獲得した数値分だけボード上を移動することができます。特定のマスでは、キャラクターとの会話、アイテムの購入、戦闘への参加などのイベントが発生します。\n\n敵との戦闘は、各側が自分の持っている番号付きタイルの1つを選ぶことで行われます。高い番号を持つ側が攻撃者となり、低い番号を持つ側が防御者となります。その後、各側は攻撃または防御にかける「努力」の量と攻撃/防御の体の位置を決定するために、別の番号付きタイルを選びます。これが決まると、ターンの順序が進行し、成功した衝撃によってHPが減少します。戦闘で相手を倒すと、プレイヤーは経験値とゴールドを獲得します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Undercover%20Cops%20Gaiden%20-%20Hakaishin%20Garumaa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Undercover%20Cops%20Gaiden%20-%20Hakaishin%20Garumaa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Undercover%20Cops%20Gaiden%20-%20Hakaishin%20Garumaa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

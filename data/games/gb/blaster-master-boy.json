@@ -1,0 +1,75 @@
+{
+  "id": "blaster-master-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blaster Master Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ボンバーキング シナリオ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Blaster Master Boy (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3b2c7118",
+      "md5": "c4868bf46a993b4c33a9a8af5341282a",
+      "sha1": "21b1e574a6f4543651e96de65994e7b0b7a6a0f6",
+      "sha256": "01bb3527ea235380895b8df07a864829b2ad9e399f8cd90bb816110e2bfb1693"
+    },
+    {
+      "name": "Blaster Master Boy (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4ea70173",
+      "md5": "7522878c2206817ec8440d442a65c306",
+      "sha1": "f568f9c7fe9ef9726d602727beca13d6978cd770"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7790
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Blaster%20Master%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Blaster%20Master%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Blaster%20Master%20Boy%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Blaster%20Master%20Boy%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

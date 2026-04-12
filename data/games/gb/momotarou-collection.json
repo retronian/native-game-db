@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎コレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Collection (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ad376905",
+      "md5": "6832c643107d2966e17b3a52cf80a485",
+      "sha1": "cd7088d13f5b80f32c0fae95a57969f6f33a9a02",
+      "sha256": "db3a45363490b8cb56274f260358c7b8dc0ffc0a41517123d6c5d78c2c54dc38"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎コレクションは、ハドソンが発表した雑多なゲームで、1996年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Momotarou%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Momotarou%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Momotarou%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "lemmings",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lemmings",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "レミングス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lemmings (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "23467a35",
+      "md5": "6f72b0b3dd1d0939b1ccf7e9a8b05a04",
+      "sha1": "8edb7e1a1a7289d4c393fba6d27776ab6af441ff",
+      "sha256": "c6450f905541db605a850ad8f9dca66825ac227bf6abb4540b616b6bd8c45f0c"
+    },
+    {
+      "name": "Lemmings (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7d5cc03a",
+      "md5": "6cdea29accd2c7c1b2af1822f142be4d",
+      "sha1": "0a4fef2a6a09bb66b1b34b5294ff737530cff4e1",
+      "sha256": "739f91aa6b6ac1b3a899037be14387b4e8600fea66903e3113640a292160387a"
+    },
+    {
+      "name": "Lemmings (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "f2d1c19d",
+      "md5": "25bc75255fdc90ba6ad00636d968dd2a",
+      "sha1": "1754fde0b1c40752a5716a291e842e38401baf08",
+      "sha256": "6848ff1d8ee2183ea5bd73210b9215f1cf72e8a7caeccf8ed46a4a331ec621bb"
+    },
+    {
+      "name": "Lemmings (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "560d71eb",
+      "md5": "33d428bd17848c4cfa7dc1b7f16644ec",
+      "sha1": "c156d7ee57860a23754e87d42f952b17077994ad",
+      "sha256": "f1f0101e104c7eccba8029c0cee4fb81de7cbb6eae95d7b9c8f6a6802feccb24"
+    },
+    {
+      "name": "Lemmings (Europe) (Beta) (1993-05-19)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e2a65174",
+      "md5": "5ece0017f734e6a813b622b8b455cfe9",
+      "sha1": "4f23d9dcc315f5dbd5ef2350f6623b6cd077b393",
+      "sha256": "9511865f0e025a40bf0967e09e9be51f9636199105374c37748731d9545943cb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 238376
+  },
+  "descriptions": [
+    {
+      "text": "あなたの任務は、120のレベルにわたるスピーディなパズルを通じてレミングスを救出することです。これらの生き物は、レベルの終わりにある安全な場所にたどり着くことを願って、無邪気に世界を歩き続けますが、残念ながらこれらのレベルには急な崖や地面の隙間、障害物、川などの危険が含まれています。\n\nあなたが操作するのは個々のレミングスではなく、レミングスの上を移動できる十字カーソルです。画面の下部には、登る、浮く、叩くなど、レミングスに割り当てることができる機能の選択肢があります。適切な機能を選択するためにクリックし、その後レミングスをクリックしてアクティブにします。各レベルには異なるスキルの範囲、異なる数のレミングス、進行するための異なるパーセンテージ目標があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lemmings%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lemmings%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lemmings%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lemmings%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lemmings%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lemmings%20%28Europe%29%20%28Beta%29%20%281993-05-19%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

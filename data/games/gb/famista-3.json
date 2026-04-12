@@ -1,0 +1,68 @@
+{
+  "id": "famista-3",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "bdc4ccc3",
+      "md5": "c24fab661012d1cf62e030bc31cd1f69",
+      "sha1": "ac4b03e11e2ba135d0427c8b1da7de57c006b4a6",
+      "sha256": "ad8e99fdf0e7b3c7a24c8f4ffe12cd5a0a7730353318583cb7abbc039090241d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 95372
+  },
+  "descriptions": [
+    {
+      "text": "この最後の要素は、間違いなく三つの中で最も成功したもので、ナムコットのバーコードボーイと互換性があります。このアクセサリーを使うことで、バーコードをスキャンしてパフォーマンスが向上したアスリートを獲得することが可能になります。このオプションを除けば、グラフィックがさらに洗練され、少し進化を遂げています。また、複数のステージを選択することもできます。音楽は柴野弘美によるものです。面白い点として、ここにパックマンの小さな登場が見られます…",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Famista%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Famista%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Famista%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

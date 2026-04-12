@@ -1,0 +1,74 @@
+{
+  "id": "navyblue-98",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Navyblue 98",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネイビーブルー 98",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "NAVY BLUE 98",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Navyblue 98 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "2cbe5381",
+      "md5": "8c464aaeb8920878e1b7ec2f0d6bbe4e",
+      "sha1": "fbdf3744335297e64a1578e19d987b9dadb0e2f7",
+      "sha256": "e17baed72da16c02e3bf10f4cfa99ca5ee2dc70e45144588f08d381e22ebfbc9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ネイビーブルー 90」の続編です。アイテムの種類がさらに増え、より過激な演出が行われています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-02-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Navyblue%2098%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Navyblue%2098%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Navyblue%2098%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

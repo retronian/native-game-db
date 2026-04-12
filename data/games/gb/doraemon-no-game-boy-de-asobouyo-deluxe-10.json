@@ -1,0 +1,65 @@
+{
+  "id": "doraemon-no-game-boy-de-asobouyo-deluxe-10",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon no Game Boy de Asobouyo Deluxe 10",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんのGame Boyであそぼうよ デラックス10",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon no Game Boy de Asobouyo Deluxe 10 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "b368e717",
+      "md5": "852c764440f29205099716c4500ce222",
+      "sha1": "7ad70061c8afbbe0890e3d50accd40b2a8cb9790",
+      "sha256": "536537269f260f918d8027f03a6a5ce308604988d656c08728aafdbb9455f928"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このミニゲームのコンピレーションでは、スケートボードやロボット猫の色を使った麻雀、擬似ビンゴなど、常に理解できるとは限らないルールのテストを通じて、ドラえもんの世界のキャラクターたちに挑戦します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Doraemon%20no%20Game%20Boy%20de%20Asobouyo%20Deluxe%2010%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Doraemon%20no%20Game%20Boy%20de%20Asobouyo%20Deluxe%2010%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Doraemon%20no%20Game%20Boy%20de%20Asobouyo%20Deluxe%2010%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

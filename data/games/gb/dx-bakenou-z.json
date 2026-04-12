@@ -1,0 +1,86 @@
+{
+  "id": "dx-bakenou-z",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DX Bakenou Z",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "DX馬券王Z",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "DX Bakenou Z (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3ef2e823",
+      "md5": "f9a6af7c1041424cbcbe79822d7dab0c",
+      "sha1": "346ed92c1f56221d1feda2a008ead2e3940bcbcb",
+      "sha256": "997a9cd7a1d203fba8f7deeb8f013112c8105338e7c338045b4637d2802b8ba0"
+    },
+    {
+      "name": "DX Bakenou Z (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "fadfd0f6",
+      "md5": "6496801345d1597b7dc1c27143e6b9d8",
+      "sha1": "6e2b9b21ea7d8d482be1f17722a579f720f2029d",
+      "sha256": "47d6fd1b8c739e9c4fc38b146389b890781d09e9961095c498ae9a811f97c9e4"
+    }
+  ],
+  "first_release_date": "1992-04-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/DX%20Bakenou%20Z%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/DX%20Bakenou%20Z%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/DX%20Bakenou%20Z%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/DX%20Bakenou%20Z%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/DX%20Bakenou%20Z%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/DX%20Bakenou%20Z%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

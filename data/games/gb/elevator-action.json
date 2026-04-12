@@ -1,0 +1,78 @@
+{
+  "id": "elevator-action",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Elevator Action",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "エレベーターアクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Elevator Action (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "bead8ae4",
+      "md5": "dee2448aa2314e7b3c12849a053ea079",
+      "sha1": "16dbf00df012c1216d9d4abec9abcd5512d053a3",
+      "sha256": "cdc689e3b801f7980e5149b1fbfc6446bcbab7e2f40b9023a05eefb15cc98aad"
+    },
+    {
+      "name": "Elevator Action (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "b749a927",
+      "md5": "7876945a990ea94ac6b1fe5cf01bc00f",
+      "sha1": "c0c9de672a31f314e98392160fc343cf46ee98b9",
+      "sha256": "95aa3f4ea3ed99633394490beac1a5bb2df09aafacb530bf1a26b102853154f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 51241
+  },
+  "descriptions": [
+    {
+      "text": "あなたはエージェント17（コードネーム：「オットー」）です。あなたの任務は、セキュリティビルからすべての極秘文書を確保し、ビルの地下にある逃走車に逃げ込むことです。\n\n敵のスパイは30階建てのビル全体に散らばっており、彼らの唯一の任務は、どんな手段を使ってでもエージェント17を排除することです。エージェント17が彼らを排除する方法はいくつかあります：銃で撃つ、ジャンプして踏みつける、エレベーター内で天井のライトを撃つ、そのライトを敵の上に落として潰す、エレベーターで敵を押しつぶす、などです。\n\nライトが落とされると、廊下は短時間暗くなり、敵のスパイが見えにくくなります。すでに暗い廊下でも同様の効果があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Elevator%20Action%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Elevator%20Action%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Elevator%20Action%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

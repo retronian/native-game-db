@@ -1,0 +1,65 @@
+{
+  "id": "parasol-henbee",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parasol Henbee",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パラソルヘンべえ 虹の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parasol Henbee (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "ae97ec53",
+      "md5": "e0aadd04cf2c955ff60d9446b2b18931",
+      "sha1": "8f319d3d1929d953934e32ce900249ecf6b55fbd",
+      "sha256": "5e3c31f60b09dd31dc957f81bcd5187a771eee65fb58c5586feba0dbe244c3d6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "パラソルヘンべえは、SASサカタが開発し、エポックが発売したアクションゲームで、1990年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Parasol%20Henbee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Parasol%20Henbee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Parasol%20Henbee%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

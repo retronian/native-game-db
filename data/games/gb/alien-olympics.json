@@ -1,0 +1,81 @@
+{
+  "id": "alien-olympics",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Alien Olympics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Alien Olympics (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "303fb7cc",
+      "md5": "6b2da5147d5f362a26be59f4d5286cc9",
+      "sha1": "ab2e4735ec416761fc37fd1471ce9d6cee994513",
+      "sha256": "2a3574872f2b3f95f27d732955ddfc2b1eb652208124ffb38cb9ac247d0663b8"
+    },
+    {
+      "name": "Alien Olympics (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "0b14241c",
+      "md5": "c0f1cd247136a87c6a2f71b54544a8d3",
+      "sha1": "bc620b7d22f7908c340b1bae6d95e821d98188a3",
+      "sha256": "97149359157e99361976e34be9d0dff22fe895f17e264a4491dd361a23e60e10"
+    },
+    {
+      "name": "Alien Olympics (Europe) (Beta 3) (1994-06-14)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "07436316",
+      "md5": "2f24a29e157b1b06f731fb5e63e96168",
+      "sha1": "85f72782f7457e24b54ed6789a12922c21d797ca",
+      "sha256": "917c5d9a47781dcce2725a83727e38296107e0f26aec8a5f600198553cf1dc39"
+    },
+    {
+      "name": "Alien Olympics (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "583c0e4e",
+      "md5": "d300bf9412617a95b00b80fa468a8a04",
+      "sha1": "c6a69416d3f18071942d222d528b1c9d25f980b7",
+      "sha256": "073f82f8bf4ab9d15569b5a7a4aa152351c177b9072a9481563b26562215f55b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 73317
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Alien%20Olympics%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Alien%20Olympics%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Alien%20Olympics%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

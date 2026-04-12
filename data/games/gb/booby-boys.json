@@ -1,0 +1,60 @@
+{
+  "id": "booby-boys",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Booby Boys",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブービーボーイズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Booby Boys (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ec83c0b6",
+      "md5": "d17aa3dd0a52bc3dc03bfe20f27c8b07",
+      "sha1": "61fe27a4ce83bc6d9dba5d4d0652e83dbec45e6e",
+      "sha256": "a1629999c27db470c49482a830135035a98107f9ae081ba666f5ac2d5e4dd152"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49068
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Booby%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Booby%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Booby%20Boys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

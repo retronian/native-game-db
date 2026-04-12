@@ -1,0 +1,65 @@
+{
+  "id": "pocket-densha",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Densha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケット電車",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Densha (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "845bb677",
+      "md5": "e764267d68869ae2e7d6fdb37bb76f45",
+      "sha1": "702981654640fe59c2f6b47c7191a58be0804a4d",
+      "sha256": "2b05c8b04b08b227ae94f150d2bb899c2c9bb1a55f3c02b07675468082e2e49e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "小さなお子様でも楽しめる、電車のシミュレーターとして完璧な「ポケット電車」！あなたは電車の運転手です。これは子供も大人も夢見る職業で、単に線路を走るだけではありません。時間や速度、その他多くのことを管理しなければなりません。あなたのスキルを活かして、電車を思い通りの速さで走らせましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-10-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Densha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Densha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Densha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

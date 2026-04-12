@@ -1,0 +1,68 @@
+{
+  "id": "pocket-kyoro-chan",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Kyoro-chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットキョロちゃん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Kyoro-chan (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "c034ece1",
+      "md5": "9c189413f62b92172b0bb95e81731465",
+      "sha1": "0506deffdf9fee21dda394e272c84fe8df2fbec0",
+      "sha256": "0b870cbf118fe287852e422e78f33c7ff777a48866015ff3504df41575749d34"
+    }
+  ],
+  "external_ids": {
+    "igdb": 354959
+  },
+  "descriptions": [
+    {
+      "text": "これは、テレビコマーシャルでおなじみのキョロちゃんを操作するアドベンチャーゲームです。さまざまな謎を解き、キャラクターたちと友達になりましょう。また、他のプレイヤーと対戦するミニゲームも楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-02-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Kyoro-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Kyoro-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Kyoro-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

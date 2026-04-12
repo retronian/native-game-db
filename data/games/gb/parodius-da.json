@@ -1,0 +1,65 @@
+{
+  "id": "parodius-da",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parodius Da!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パロディウスだ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parodius Da! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1791e952",
+      "md5": "2e3a0305f79b058cc4618565bc2db745",
+      "sha1": "cfe0c6619a28ddd535214c8f8c446081c0ed8194",
+      "sha256": "87d3e8c8f6130730cea82a4a624fa605a899143f44e41d7fadfcf6644021d103"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは主に「グラディウス」（一部のシステムでは「ネメシス」）のパロディであり、他のシューティングゲーム、例えば「ツインビー」からの要素も含まれています。このシリーズは多くのプラットフォームで利用可能です。\n\nゲームは右から左へスクロールするシューティングゲームです。異なる武器を持つ4種類の飛行生物から選ぶことができます。7つのステージをクリアする必要があり、各ステージの最後にはボスが待ち受けています。どのステージからでも始めることができますが、最終ステージに進むためにはすべてのレベルをクリアしなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Parodius%20Da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Parodius%20Da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Parodius%20Da%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

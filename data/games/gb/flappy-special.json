@@ -1,0 +1,66 @@
+{
+  "id": "flappy-special",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Flappy Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フラッピー・スペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Flappy Special (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "3b6cdda4",
+      "md5": "c27ebebee5a53fe6eb857747c0556111",
+      "sha1": "6517aee7caa2fa60750005ef1dacaeaecee7c2f6",
+      "sha256": "b6ab078dd759a96be2914771dd3f30f161cc65696fe0076092134d06aa09d4ee"
+    },
+    {
+      "name": "Flappy Special (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "617d0d9f",
+      "md5": "1695655af0d4320bc657cc5d3b26f4c3",
+      "sha1": "75347d9f708da85487b779ed79b9c1e84954020d",
+      "sha256": "589492be1293d18ba7e707ece28ca59a35c1f7409d193edc8870aaefd8c4a90d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64124
+  },
+  "descriptions": [
+    {
+      "text": "フラッピー・スペシャルは、フラッピーの移植版です。主な違いは、ゲームに80レベルずつの2つのプレイモードがあることです。一つはパズル志向で、もう一つはより多くの敵が登場します。レベル自体は、PC-88版とNES版に登場したレベルのミックスとなっています。\n\nこのゲームはパズルゲームで、プレイヤーはモグラを操作し、青い石を特別にマークされた場所に押し込む必要があります。石は押すことはできますが、引くことはできません。フラッピーは重力を気にしませんが、青い石と赤い石は重力の影響を受けます：端から押し出されると落ちてしまいます。これを利用して青い石の進む道を作り、フラッピーを攻撃しようとする敵を潰す必要があります。敵に触れたり、石に潰されたりすると、ライフを失います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-03-23",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Flappy%20Special%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

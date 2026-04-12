@@ -1,0 +1,68 @@
+{
+  "id": "dragon-slayer-gaiden-nemuri-no-oukan",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Slayer Gaiden - Nemuri no Oukan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンスレイヤー外伝 眠りの王冠",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Slayer Gaiden - Nemuri no Oukan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "10dcbdc3",
+      "md5": "77257c9ea85a0fdf36cba3e2a7fb5270",
+      "sha1": "ef58063d896533398288a4f07245f23efa3aee4a",
+      "sha256": "79570da972d251983be74c73bc472ecead43e3187c743bd9dca9ae4a9529da01"
+    }
+  ],
+  "external_ids": {
+    "igdb": 73347
+  },
+  "descriptions": [
+    {
+      "text": "ファルコムの成功したドラゴンスレイヤーシリーズのスピンオフ、ドラゴンスレイヤー外伝 眠りの王冠では、再び名前のない騎士として、数多くのダンジョンをクリアし、常に存在するドラゴンから土地を救う使命を担います。\n\nゲームプレイはオリジナルのドラゴンスレイヤーとは若干異なり、屋外エリアや特定のクエストを依頼してくるNPCが登場します。戦闘はリアルタイムのままですが、新たな攻撃ボタンが追加され、ゼルダのような他のアクションRPGに近づいています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dragon%20Slayer%20Gaiden%20-%20Nemuri%20no%20Oukan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dragon%20Slayer%20Gaiden%20-%20Nemuri%20no%20Oukan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dragon%20Slayer%20Gaiden%20-%20Nemuri%20no%20Oukan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

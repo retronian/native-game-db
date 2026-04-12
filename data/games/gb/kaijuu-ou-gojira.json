@@ -1,0 +1,65 @@
+{
+  "id": "kaijuu-ou-gojira",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaijuu Ou Gojira",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "怪獣王ゴジラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaijuu Ou Gojira (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "c529a96a",
+      "md5": "deb601b4fadefb13f5e6251c945d10f4",
+      "sha1": "56271383f34a7709668a982df95ebd083831e30f",
+      "sha256": "2072f3ff1101287de486ecee9c0000e8547e2ea3855d784ca55dc33b4168fcc6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「怪獣王ゴジラ」は、ゴジラが右に進み続け、敵の軍隊を押しつぶしながら、ゴジラの世界に登場するさまざまなモンスターたちとのボス戦に挑むアクションゲームです。これは日本専用のゲームボーイ版としてリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaijuu%20Ou%20Gojira%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaijuu%20Ou%20Gojira%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaijuu%20Ou%20Gojira%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

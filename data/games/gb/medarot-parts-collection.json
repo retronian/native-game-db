@@ -1,0 +1,68 @@
+{
+  "id": "medarot-parts-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot - Parts Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット Parts Collection パーツコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot - Parts Collection (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f4cab596",
+      "md5": "a83d745ae8806a04d4a9e3c241f8c8cb",
+      "sha1": "eec1245abb1d97cd2df976fdf179c924a4efa720",
+      "sha256": "590c824ea7db3613258ac5d97b3c32d59691ce9db125c864b19adc044bd4ef89"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92533
+  },
+  "descriptions": [
+    {
+      "text": "メダロット パーツコレクションは、ナツメが開発し、イマジニアが出版したロールプレイングゲームで、1998年に日本で発売されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Medarot%20-%20Parts%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Medarot%20-%20Parts%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Medarot%20-%20Parts%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

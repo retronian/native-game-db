@@ -1,0 +1,77 @@
+{
+  "id": "bonk-s-revenge",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bonk's Revenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "B.C. Kid 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "GB 原人 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "GB Genjin 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bonk's Revenge (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "f1344b78",
+      "md5": "b73d76599e3d7f979a99bba5f1c92add",
+      "sha1": "8d1b81e456b271ad8f49a2c6efc9ca2504a24591",
+      "sha256": "90b0621aa5579f969a61d99a782545aa23381050824e284c527001e7fa9bae57"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228469
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bonk%27s%20Revenge%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bonk%27s%20Revenge%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bonk%27s%20Revenge%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

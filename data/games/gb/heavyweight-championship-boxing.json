@@ -1,0 +1,59 @@
+{
+  "id": "heavyweight-championship-boxing",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heavyweight Championship Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heavyweight Championship Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "1526a96b",
+      "md5": "1f8089ca53d6e9aff6d1907710d28bc8",
+      "sha1": "1d6f1afed7ce7a90a07219449d4d3b679afeda6b",
+      "sha256": "bfbed25beef74dec194a7330e3f4864a4b82f28927121cf03d9b871965553420"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48981
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Heavyweight%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Heavyweight%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Heavyweight%20Championship%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

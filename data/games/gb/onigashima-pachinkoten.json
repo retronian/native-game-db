@@ -1,0 +1,57 @@
+{
+  "id": "onigashima-pachinkoten",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Onigashima Pachinkoten",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鬼ヶ島パチンコ店",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Onigashima Pachinkoten (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f54ec8eb",
+      "md5": "4150508f6882f691dc6dd3f28bc4d48f",
+      "sha1": "ff12ed91aa5cb3216860e7c18ff523b9bcb6a76a",
+      "sha256": "1cb152672888c747ba69c25adae5fc1808329a8000abef1fbf1fc2e48910bc47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Onigashima%20Pachinkoten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Onigashima%20Pachinkoten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Onigashima%20Pachinkoten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

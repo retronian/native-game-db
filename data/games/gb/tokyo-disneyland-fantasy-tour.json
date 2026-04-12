@@ -1,0 +1,68 @@
+{
+  "id": "tokyo-disneyland-fantasy-tour",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tokyo Disneyland - Fantasy Tour",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタジーツアー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tokyo Disneyland - Fantasy Tour (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "28b85584",
+      "md5": "6db7aa2399e9b6723e41e47c73379216",
+      "sha1": "e413b0ab506cb12b68439ccc0a72e4664c112378",
+      "sha256": "2a729aab171d6e17e4390c304a0d4c25781c50da19de7007b0e8539b36883217"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49123
+  },
+  "descriptions": [
+    {
+      "text": "ディズニーランドを舞台に、さまざまなアトラクションをモチーフにしたミニゲームを楽しみます。合計で15種類のミニゲームをプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tokyo%20Disneyland%20-%20Fantasy%20Tour%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tokyo%20Disneyland%20-%20Fantasy%20Tour%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tokyo%20Disneyland%20-%20Fantasy%20Tour%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

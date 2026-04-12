@@ -1,0 +1,51 @@
+{
+  "id": "gear-works",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gear Works",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gear Works (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b2b72056",
+      "md5": "16af858484041d572299b501ead2b788",
+      "sha1": "f064c897da11945287ed793fe041d75c1b536709",
+      "sha256": "04e22ef9999f11186fd71cda0785e4914717383bd54c6e18eb4186a9a234b16e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48999
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gear%20Works%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gear%20Works%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gear%20Works%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "winter-gold",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Winter Gold",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Winter Gold (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "3c4cd245",
+      "md5": "560c9262b03cf479b6ee544e09c161b4",
+      "sha1": "6ab5c2ee2157e81b5584562a5e386fb7434b3f80",
+      "sha256": "7f583c6945298740048cf6c3c55f8068f771125e97edf0d13684e3cab604e0cb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Winter%20Gold%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Winter%20Gold%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Winter%20Gold%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

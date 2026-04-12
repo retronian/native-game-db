@@ -1,0 +1,68 @@
+{
+  "id": "janshirou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Janshirou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀四郎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Janshirou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "0530e1cc",
+      "md5": "5e0703f8fc08728544f4f2594ee93e81",
+      "sha1": "658120ff41a0fd4c2198f5618dd43a799958aa55",
+      "sha256": "180e86bab19badd4bbc43920bed8258fc12410b0b48cb033002867345f949034"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344081
+  },
+  "descriptions": [
+    {
+      "text": "雀四郎は、緊張感あふれる戦略ゲームである麻雀をテーマにした一般的なボードゲームベースのビデオゲームです！あなたの目標は、手札の13枚のタイルと、引くことができる1枚または相手が捨てたタイルを使って、さまざまな役を作ることです。最終的な目標は「麻雀」を達成することです。つまり、これらのタイルを重複させることなく、さまざまな役やメルドに使用することです。これらは明らかに2つの要素に基づいています。まずはタイルの価値です。「1」や「2」などの数字です。円と竹のスーツの場合、これは簡単です - そこにある図の数を数えるだけです！タイトル画面では、いくつかのゲームモードを選ぶことができます：1人用エキシビション：基本的にあなたとAIの、あまり重要ではないマッチです。2人用エキシビション：リンクケーブルで接続された2台のゲームボーイを使ったエキシビションマッチです。？：なぜかこれが機能しません。限られたリソースから推測するに、リンクケーブルベースのオプションです。ストーリーモード：基本的に、徐々に難易度が上がる麻雀マッチのシリーズです。麻雀シミュレーター：これはかなり明白でしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Janshirou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Janshirou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Janshirou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

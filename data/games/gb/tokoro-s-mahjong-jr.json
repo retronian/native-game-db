@@ -1,0 +1,60 @@
+{
+  "id": "tokoro-s-mahjong-jr",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tokoro's Mahjong Jr.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トコロ'sまあじゃんJr.ジュニア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tokoro's Mahjong Jr. (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "56afca4c",
+      "md5": "9e6e3cc5a71ee19204028f13feae395a",
+      "sha1": "bc6ae2ade135ef59aa1a213df004252149937aa8",
+      "sha256": "00baafca1cdc27523d6b2228135525e038573cbdb23dbc233bfb14f729852cc6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 126011
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tokoro%27s%20Mahjong%20Jr.%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tokoro%27s%20Mahjong%20Jr.%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tokoro%27s%20Mahjong%20Jr.%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

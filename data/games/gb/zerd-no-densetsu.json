@@ -1,0 +1,65 @@
+{
+  "id": "zerd-no-densetsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zerd no Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザードの伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zerd no Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "492edb36",
+      "md5": "fd280448ae0f60bae1d10016a87fc1ed",
+      "sha1": "8db8ad90505d9a2b4485e903b9f5d67bb9c0c149",
+      "sha256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "10の異なる大きさの大陸が存在する惑星ウルを舞台にしたRPGアドベンチャー。プレイヤーの使命は、世界を旅し、自らの運命を探求し、任務を果たすことです。世界観は栗本薫のファンタジー小説のように深く、それが良い点です。多くのイベントが用意されており、設定はプレイヤーの興味を引き続けるようにデザインされています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Zerd%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zerd%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zerd%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

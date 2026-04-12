@@ -1,0 +1,78 @@
+{
+  "id": "tumble-pop",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tumble Pop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "タンブルポップ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tumble Pop (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "881afd62",
+      "md5": "b3af8bcd6de27ba829c075affbc9f839",
+      "sha1": "84a97f2db289951cba2eb6f7369bd6629c2687b2",
+      "sha256": "7fde50e81594113f977786ec9e20b70e0746d386a2fd467f53d4296f3b40ea66"
+    },
+    {
+      "name": "Tumble Pop (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "8a3aab31",
+      "md5": "9038a85be1595de2a4f16b6f6db0f3fd",
+      "sha1": "1b5a9b71bc14f9725b37fa0a166253f1047943b1",
+      "sha256": "3990c42543e74387c30ac935eb45067e291b4a5e93702d5520acd0e91d14f34f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 39699
+  },
+  "descriptions": [
+    {
+      "text": "エイリアンを追い詰め、ミュータントを撃退せよ！\n\nエイリアン、ミュータント、ゴーンで溢れた迷路/パズルゲーム「タンブルポップ」で掃除しよう！\n\n- ピエロ、雪だるま、ロボット、ジーニー、ドラゴンなど、子供の頃の不思議に満ちたかわいくて楽しいテーマ！\n- メガパワーのバキュレーターで敵を吸い込み、他の敵に向かって撃ち出そう！\n- 各レベルの最後にはスーパー・ボスが待ち受けている！\n- ゲームリンクを通じて2人プレイ可能！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tumble%20Pop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tumble%20Pop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tumble%20Pop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

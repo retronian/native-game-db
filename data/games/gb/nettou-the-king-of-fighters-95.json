@@ -1,0 +1,74 @@
+{
+  "id": "nettou-the-king-of-fighters-95",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nettou The King of Fighters '95",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "熱闘 Deadhead Fighters ザ・キング・オブ・ファイターズ'95",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "熱闘ザ・キング・オブ・ファイターズ'95",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nettou The King of Fighters '95 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8712f17b",
+      "md5": "3eade561a44103622a0aff7b176d3207",
+      "sha1": "af48f83d5dc319aa1e373b8e91ede45606bd867c",
+      "sha256": "faa9e5b419920f9d7193e10d14278d92067a5b0ca547c80d0506867da67dee24"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ザ・キング・オブ・ファイターズ'95」は、シリーズの最初の続編であり、初代トーナメントの終了から1年後の物語が展開されます。再び、世界中のファイターたちがチームベースの格闘トーナメントへの神秘的な招待状を受け取ります。そして昨年と同様に、悪名高い犯罪者ルガール・バーンシュタインが背後にいるようで、再び死から蘇り混乱を引き起こそうとしているようです...\n\n「ザ・キング・オブ・ファイターズ'95」では、草薙京のライバル八神庵が登場し、草薙京がシリーズのメインキャラクターとして確立されます。ゲームプレイは前作と基本的に変わりませんが、「チームエディット」機能が導入され、シリーズの標準機能として定着します。「チームエディット」機能を使用することで、利用可能なファイターの中から完全にカスタマイズされたチームを作成することができ、希望に応じてデフォルトチームを使用することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20The%20King%20of%20Fighters%20%2795%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20The%20King%20of%20Fighters%20%2795%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20The%20King%20of%20Fighters%20%2795%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

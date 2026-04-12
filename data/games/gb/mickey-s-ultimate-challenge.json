@@ -1,0 +1,66 @@
+{
+  "id": "mickey-s-ultimate-challenge",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey's Ultimate Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey's Ultimate Challenge (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "23e9d625",
+      "md5": "f7d266bc81c150796ae373bddd0a9a84",
+      "sha1": "cebdc7b9f5764aebab116ba0a5d06c67cd4bea84",
+      "sha256": "ff49d2120f59b0ece23893c745d3fe348b7a2eed17b40449c37557bef8476052"
+    },
+    {
+      "name": "Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3fac2661",
+      "md5": "f7094136499601a6e45db03d1edb98b8",
+      "sha1": "e6809004a3af32235e55a300f53b421a00c57b98"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307073
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mickey%27s%20Ultimate%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%27s%20Ultimate%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mickey%27s%20Ultimate%20Challenge%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mickey%27s%20Ultimate%20Challenge%20%28USA%2C%20Europe%29%20%28Beta%29%20%281993-11-12%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

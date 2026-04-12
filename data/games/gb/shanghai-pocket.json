@@ -1,0 +1,86 @@
+{
+  "id": "shanghai-pocket",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shanghai Pocket",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "上海ポケット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "上海Pocket",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "上海",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shanghai Pocket (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6b8eff2c",
+      "md5": "c042681adbbe175b354d0abee3413219",
+      "sha1": "82fe97442aa625fd36cf865d82f78b07108ede7f",
+      "sha256": "d4673edc82269460cb22b4bcae3ceb5127841d0e52c45d02a1f6c7fbd38fcfb2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37487
+  },
+  "descriptions": [
+    {
+      "text": "これはソリティアゲーム「上海」のポータブル版で、伝統的なマージャン牌を使用しています。ゲームの目的は、牌をマッチさせることで、各タイプの牌が4つずつプレイフィールドに置かれます。2つの牌がマッチすると、それらは取り除かれ、すべての牌がなくなると勝利となります。自由に左右に動かせる牌のみがマッチ可能です。誤った動きは、フィールドをクリアできなくなる原因となることがあります。\n\n上海モードでは、わずかなストーリーモードが用意されています。各牌の配置は、力を取り戻す必要がある干支の動物に基づいています。目標は、これら12のステージをすべてクリアして動物の力を復活させることです。\n\nいくつかのバリアントも含まれています：コングコング：コンピュータと対戦しながら牌をクリアします。遅く進むと、相手から牌が送られてきます。このタイプのプレイは「ぷよぷよ」のようなゲームに似ています。コングコングは、リンクケーブルを使用して別のプレイヤーと対戦することも、コンピュータと対戦することも可能です。\n\nチャレンジ（ワンダースワン専用）：大規模な上海ゲームで、最高得点を目指して競い合います。\n\nゴールドラッシュ：このモードでは、相手と競い合いながら「G」とマークされた牌に到達します。Gはゴールドの略です！さあ、頑張りましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-08-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shanghai%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shanghai%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shanghai%20Pocket%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

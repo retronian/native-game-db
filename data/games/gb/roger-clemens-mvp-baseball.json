@@ -1,0 +1,96 @@
+{
+  "id": "roger-clemens-mvp-baseball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Roger Clemens' MVP Baseball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "MVPベースボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "MVP Baseball  ",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Roger Clemens' MVP Baseball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "9da8595b",
+      "md5": "89dae4a6f82d2e603af41a4499a3360b",
+      "sha1": "2b37b40ab05bee2b23b30b898af6197a35278c10",
+      "sha256": "92e8d1acd4d2d3297a961409d4bb0ed49c784be4a6e91cfceabd05ab11894f3d"
+    },
+    {
+      "name": "Roger Clemens' MVP Baseball (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "fa955b39",
+      "md5": "b13d36a2d0244cfa90ca73d1b9794f0a",
+      "sha1": "678ea6ec765c467862be861d2c61fbb3a582c1f2",
+      "sha256": "896af35d822c6f98d1748d16127fe61c9be658f40e8378c317a52a7a07f82182"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365656
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Roger%20Clemens%27%20MVP%20Baseball%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

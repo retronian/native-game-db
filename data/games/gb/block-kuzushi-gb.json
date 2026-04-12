@@ -1,0 +1,68 @@
+{
+  "id": "block-kuzushi-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Block Kuzushi GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブロックくずしGB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Block Kuzushi GB (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "54b67501",
+      "md5": "55ef8421492242c2726e355c41aef000",
+      "sha1": "7540fe9af69d8c7d48f50c2d5fe6d3ce07421f74",
+      "sha256": "a676a5ef60d03b30cf451fc24f52f732e8b9eb86a8226a24a2ca060d12e5fab9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49069
+  },
+  "descriptions": [
+    {
+      "text": "「ブロックくずしGB」をプレイするのは、「アルカノイド」や「ブレイクアウト」、そしてそれらのゲームの多くの模倣作をプレイするのとまったく同じではありません。ゲームは、画面下部のパドルを操作するあなたが主役です。このパドルを使って、飛び回る白いボールを跳ね返します。そうすることで、ボールが画面外に出るのを防ぎ、ライフを失うことを避け、さらにボールを画面上部のブロックに当てることができます。ブロックを壊すことでレベルをクリアし、ポイントを獲得します。特定の機能を持つ特別なブロックもあり、例えば、パワーアップを落とす文字付きのブロックなどがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Block%20Kuzushi%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Block%20Kuzushi%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Block%20Kuzushi%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

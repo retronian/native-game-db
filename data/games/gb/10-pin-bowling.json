@@ -1,0 +1,40 @@
+{
+  "id": "10-pin-bowling",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "10-Pin Bowling",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 92273
+  },
+  "first_release_date": "1999-08-01",
+  "roms": [
+    {
+      "name": "10-Pin Bowling (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "9a024415",
+      "md5": "7616285ddcb0a1834770cacd20c2b2fe",
+      "sha1": "952d154dd2c6189ef4b786ae37bd7887c8ca9037",
+      "sha256": "2920c755dea482c7e465cce62ee54ccdc103181b18a867fac289d0cd68b5d262"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/10-Pin%20Bowling%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

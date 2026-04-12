@@ -1,0 +1,73 @@
+{
+  "id": "soccer-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soccer Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サッカー・ボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soccer Boy (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "23f64e82",
+      "md5": "8c34e1879b4f81a22515d82aa9d0bb68",
+      "sha1": "7554b42d1c38508fd615828c96ab58ea8f41de4d",
+      "sha256": "dfccc5525d7a22de9b789d62336edcf57fdd1bf61893b87593ad4bc3391d8e98"
+    },
+    {
+      "name": "Soccer Boy (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a46f98d1",
+      "md5": "a6e199044dd40de06a7cc7cb1903711c",
+      "sha1": "22db7c6096f285222aefbfe413efa1d21de59731",
+      "sha256": "1456ae8b6468f06ccf5419754c1f46f082eb7fd9d73c58bf84bb85b1ff63bd49"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Soccer%20Boy%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soccer%20Boy%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soccer%20Boy%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soccer%20Boy%20%28Japan%29%20%28En%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

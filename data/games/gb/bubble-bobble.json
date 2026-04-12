@@ -1,0 +1,88 @@
+{
+  "id": "bubble-bobble",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bubble Bobble",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バブルボブル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Bobble (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ad9b300c",
+      "md5": "2ec376fb2b9565f20475d7007134b9e2",
+      "sha1": "3f2e741e0dbdcc65e960f44a322e85748272f3f3",
+      "sha256": "3299fa05b67022aeced58ea16f498d0a006451459c6b30fa263fd224efe6fbea"
+    },
+    {
+      "name": "Bubble Bobble (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d516841d",
+      "md5": "11c49d405eef2174d9c14682204bb458",
+      "sha1": "569881bea21cf5fd542ff3dfc40e1626c6748ceb",
+      "sha256": "c5ddbb08e8509633853346c5f35850cc3abe5afaabb0d0ee294b40e804253b7f"
+    },
+    {
+      "name": "Bubble Bobble (USA, Europe) (Beta) (1990-12-28)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "fdb7e8da",
+      "md5": "7cdf7645bd8116284c4f40b01ce4d088",
+      "sha1": "8ed992b8053303453b4afd078684849015667db2",
+      "sha256": "7952005fadd36007cfe84ead9c1e856fa0b10346d61832995070c4f7cd848bb9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 194443
+  },
+  "descriptions": [
+    {
+      "text": "バブルボブルは、バブとボブという二人の人間が神秘的なモンスターの洞窟に迷い込み、魔法の力で恐竜に変身する物語です。元の姿に戻る唯一の方法は、洞窟の最深部に到達することです...\n\nバブルボブルはプラットフォームゲームで、各レベルは単一の画面で構成されています。次のレベルに進むためには、敵をすべて排除する必要があります。一人のプレイヤーがバブを操作し、もう一人がボブを操作することで、アイテム（果物など）を集めて得点を獲得しながらジャンプすることができます。しかし、バブとボブの本当の力は、泡を吹く能力です。これらの泡は、ジャンプするためのプラットフォームとして使ったり、敵を閉じ込めたりすることができます。泡に閉じ込められた敵は、ジャンプして泡に入ることで弾け、果物に変わります。さらに、時々泡の中にパワーアップが浮かんでいます。それらには、敵に向かって水平に飛ぶ稲妻や、プレイヤーと敵をプラットフォームの上を流れ落ちる水があります。どのレベルもクリアするのに時間がかかりすぎると、バロン・フォン・ブルバが現れ、画面を浮遊しながらプレイヤーを攻撃しようとします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bubble%20Bobble%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubble%20Bobble%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bubble%20Bobble%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "chase-h-q",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chase H.Q.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Taito Chase H.Q.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chase H.Q. (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "67a45d19",
+      "md5": "6884a31366f565ca25935e1fba52efbc",
+      "sha1": "cbcd6254b1b0227ba6aa8d95c979abb7fe8e4d38",
+      "sha256": "4424900339aad0514538250aaea1d407869dad2b0df7310b8ce778de8c35c5c3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 265018
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chase%20H.Q.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chase%20H.Q.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chase%20H.Q.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

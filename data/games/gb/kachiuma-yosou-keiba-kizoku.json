@@ -1,0 +1,57 @@
+{
+  "id": "kachiuma-yosou-keiba-kizoku",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kachiuma Yosou Keiba Kizoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "勝馬予想 競馬貴族",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kachiuma Yosou Keiba Kizoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a57e1ac1",
+      "md5": "3dcbd16d3f9da153dca926f200ca1725",
+      "sha1": "de965fae7d1e744302e6a12656ebb8867ba9cfff",
+      "sha256": "8b31411a8d5d3ca60b0917a9584c160ce15474089b2274ba37507f247603eefe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kachiuma%20Yosou%20Keiba%20Kizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kachiuma%20Yosou%20Keiba%20Kizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kachiuma%20Yosou%20Keiba%20Kizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

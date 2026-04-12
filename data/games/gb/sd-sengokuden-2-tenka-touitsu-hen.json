@@ -1,0 +1,65 @@
+{
+  "id": "sd-sengokuden-2-tenka-touitsu-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Sengokuden 2 - Tenka Touitsu Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SDガンダム SD戦国伝2 天下統一編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Sengokuden 2 - Tenka Touitsu Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "5b7c6faa",
+      "md5": "27b8724d17aaba0ffb4d3b8d79cde2ac",
+      "sha1": "4494a8a9f960c55b056b12d2d2760cc976e36e17",
+      "sha256": "217d12577ff95331768a7eb072e92a76c8718352a58b80605de28e354c073608"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "お馴染みのSDガンダムが登場する戦国シミュレーションゲームの続編です。バトルシーンはトップビューアクションに切り替わります。対戦プレイも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/SD%20Sengokuden%202%20-%20Tenka%20Touitsu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/SD%20Sengokuden%202%20-%20Tenka%20Touitsu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/SD%20Sengokuden%202%20-%20Tenka%20Touitsu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

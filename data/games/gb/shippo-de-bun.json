@@ -1,0 +1,65 @@
+{
+  "id": "shippo-de-bun",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shippo de Bun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "しっぽでブン!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shippo de Bun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "56410442",
+      "md5": "bb5544584f2988490565198c56d81c06",
+      "sha1": "71e605d62c80bd2905a5ed3ce6cc1590638f2f2f",
+      "sha256": "6cf4cd05c0b83d381400c56ea44376c39d98f1e0540f04c0c887f5da2699a4a1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「しっぽでブン！」は、ゲームボーイ用のプラットフォームゲームで、あなたはモンスターで満ちた環境を移動するワニを操作します。敵をジャンプして攻撃したり、しっぽで叩いたりすることができますが、「P」シンボルを十分に集めると、遠距離から攻撃することも可能になります。多くの宝箱が散らばっており、それを開けてスコアを増やすのはあなた次第です！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shippo%20de%20Bun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shippo%20de%20Bun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shippo%20de%20Bun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

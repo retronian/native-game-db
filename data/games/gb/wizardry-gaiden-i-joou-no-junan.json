@@ -1,0 +1,65 @@
+{
+  "id": "wizardry-gaiden-i-joou-no-junan",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry Gaiden I - Joou no Junan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィ外伝I 女王の受難",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry Gaiden I - Joou no Junan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "4d640e73",
+      "md5": "14d6a5e430452dca394bd3e641dc327b",
+      "sha1": "e3d03144e4c15522a1469a87eb07130c1884e225",
+      "sha256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ウィザードリィ外伝I 女王の受難」の説明文：\n\nリルガミンの街を守るアーティファクト、ギルンダの杖の力が衰えてきています。女王アイラスの妹、ソクスは1年前に悪の魔法使いタイラン・ロッサムと共に行方不明になりました。女王は冒険者たちにタイラン・ロッサムを倒し、妹を見つけるよう呼びかけました。あなたの冒険者パーティーはこの呼びかけに応じました。\n\nウィザードリィ外伝は、ゲームボーイ用のサイドストーリーウィザードリィゲームです。これはオリジナルの日本専用タイトルであり、コンピュータ版の移植ではありません。開発元のアスキーは、ファミコンおよびスーパーファミコン用のウィザードリィ1から6のリメイクを手がけた開発者でもあり、ウィザードリィ外伝はシリーズの他のコンソールタイトルと同様の外観や雰囲気を保持しています。ゲームプレイシステムは、長距離武器、強化された魔法、自動マッピングの追加を伴い、ウィザードリィV（翌年にスーパーファミコン用にリリース）に最も近いものとなっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wizardry%20Gaiden%20I%20-%20Joou%20no%20Junan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wizardry%20Gaiden%20I%20-%20Joou%20no%20Junan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Wizardry%20Gaiden%20I%20-%20Joou%20no%20Junan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "momotarou-dengeki-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Dengeki 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電劇2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "桃太郎電劇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Dengeki 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "3c1c5eb4",
+      "md5": "872b72113281dc0a906b033b8f8e4e76",
+      "sha1": "f050cc860e610a07a27c51ff873dd71aca9e23e6",
+      "sha256": "f1bf118bd383a91ecf81f7ee759ce702b85cfee9f8cf11d8365cb243d555c607"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎電劇2は、ハドソンが出版したプラットフォームゲームで、1994年に日本でリリースされました。桃太郎という有名な日本の民話に基づいています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Momotarou%20Dengeki%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Momotarou%20Dengeki%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Momotarou%20Dengeki%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

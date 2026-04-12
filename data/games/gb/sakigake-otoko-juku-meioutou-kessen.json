@@ -1,0 +1,65 @@
+{
+  "id": "sakigake-otoko-juku-meioutou-kessen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sakigake!! Otoko Juku - Meioutou Kessen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魁!!男塾 冥鳳島決戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sakigake!! Otoko Juku - Meioutou Kessen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2f0f7f63",
+      "md5": "7dbd16112ebef871062660808b5a0cd4",
+      "sha1": "c731f8be269d74748ae54fe5ce5faea89a825e0f",
+      "sha256": "011d618175d853a92742867128378c81b35844bc872c31de3a1a66efe118fc9a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "魁!!男塾 冥鳳島決戦は、ユタカから発売されたアクションゲームで、1990年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sakigake%21%21%20Otoko%20Juku%20-%20Meioutou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sakigake%21%21%20Otoko%20Juku%20-%20Meioutou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sakigake%21%21%20Otoko%20Juku%20-%20Meioutou%20Kessen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

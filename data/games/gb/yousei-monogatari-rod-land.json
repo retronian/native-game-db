@@ -1,0 +1,74 @@
+{
+  "id": "yousei-monogatari-rod-land",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yousei Monogatari - Rod Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "妖精物語 Rod・Land ロッド・ランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "妖精物語ロッドランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yousei Monogatari - Rod Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "2355be94",
+      "md5": "7af2043d1766513dc576b549d104fa2a",
+      "sha1": "4710264c4837f44bd58673c53725976950de10e9",
+      "sha256": "8fde0b0eb5104ecda465170f91c4c9c093c0f3007dd8b0f795ff4c2cdc857e26"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「妖精物語 ロッド・ランド」では、「スラップスティック・ユーモア」という言葉を文字通りに捉え、タムとリットという二人の妖精が主人公です。彼女たちの使命は、捕らえられ城に連れ去られた母親を救出することです。\n\nクリアすべきスクリーンは40あり、すべて敵で満ちています。敵は棒でつかみ、左右に振ってダメージを与えることで排除します。攻撃は同時に行う必要はなく、敵を放して移動させることも可能です。\n\n敵を倒すと、ポイントボーナスから他の敵を倒すために使えるさまざまなアイテムまで、何らかの追加アイテムが出現します。\n\n各レベルには一定量のフルーツも含まれています。すべてのフルーツを集めることができれば（敵がまだ生きていても、倒したらすぐに次に進みます）、ボーナスゲームに入ります。このゲームでは、各敵を倒すことでE、X、T、R、Aのいずれかの文字が出現します。すべて集めると、貴重な追加ライフが得られます。\n\nゲームボーイ版では、プレイヤーが梯子を登っている間も杖を使えるため、難易度は少し低めになっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-05-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

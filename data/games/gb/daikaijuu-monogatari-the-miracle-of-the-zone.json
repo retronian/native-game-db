@@ -1,0 +1,68 @@
+{
+  "id": "daikaijuu-monogatari-the-miracle-of-the-zone",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daikaijuu Monogatari - The Miracle of the Zone",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大貝獣物語 ザ・ミラクル オブ ザ・ゾーン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daikaijuu Monogatari - The Miracle of the Zone (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "26d2d5c2",
+      "md5": "d3fce7259e7768c7a6315b32a54cb32d",
+      "sha1": "44cafcb56f470881b67e57c0649afbc638cda136",
+      "sha256": "7cd1a4ce2a8a22d0c19d90e6ed0ac367bf0d05ba4cb4047691d2d3ceb756be1c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 62071
+  },
+  "descriptions": [
+    {
+      "text": "このシリーズの2つのスーパーファミコン版を知っているプレイヤーも多いでしょう。このゲームボーイ版では、ターン制バトルがカードバトルに置き換えられており、明らかに『マジック：ザ・ギャザリング』や『遊戯王』からインスパイアを受けています。このカートリッジは、データ交換のためにGBキスシステムを搭載しているという特性があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

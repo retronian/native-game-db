@@ -1,0 +1,62 @@
+{
+  "id": "kaisen-game-radarmission",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaisen Game - Radarmission",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海戦ゲーム レーダーミッション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaisen Game - Radarmission (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "892fc0af",
+      "md5": "8ca4b92850c06465fa7bacad00314cf0",
+      "sha1": "64a808f582afcbed6a3ce0263f1dae6fde57f30b",
+      "sha256": "6d0e3a5a29680b21caef864c41ad66bcbc92eaf66b8d8a264bf2c6686ce346af"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "レーダーミッションは、主に艦隊戦ボードゲームのクローンで、2つのゲームモードがあります。最初のモードは非常に認識しやすく、マップを選択して艦船を配置します。その後、ゲームはマスを選ぶことで進行します（例：A5）。さまざまな艦船があり、5ヒットの空母から2ヒットの巡洋艦、さらには後のレベルで登場する戦闘機まであります。\n\n2つ目のモードは、横スクロールシューティングゲームに近いです。プレイヤーは潜水艦を操作し、敵艦隊を撃破し、自分の艦船が攻撃される前に敵を倒すことを目指します。プレイヤーが敵の戦艦をすべて撃沈させると、敵の潜水艦が降伏するか、直接敵の潜水艦を破壊してレベルをクリアします。潜水中にはレーダービューが表示され、プレイヤーの艦船と敵艦船が確認でき、攻撃を計画するための戦略的なインターバルが提供されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaisen%20Game%20-%20Radarmission%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaisen%20Game%20-%20Radarmission%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaisen%20Game%20-%20Radarmission%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

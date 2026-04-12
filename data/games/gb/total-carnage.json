@@ -1,0 +1,51 @@
+{
+  "id": "total-carnage",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Total Carnage",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Total Carnage (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3700927f",
+      "md5": "6e8ea043087f4ca441866b03389575e2",
+      "sha1": "a735c8d212c5fcb47a1d25599edb1fb815593dd1",
+      "sha256": "13a6106b5548261764b0f0d676b07265e6ed37b4cf2f85fc763b05dde749eb64"
+    }
+  ],
+  "external_ids": {
+    "igdb": 196441
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Total%20Carnage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Total%20Carnage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Total%20Carnage%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

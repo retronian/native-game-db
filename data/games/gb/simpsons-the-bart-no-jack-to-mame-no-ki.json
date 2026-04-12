@@ -1,0 +1,62 @@
+{
+  "id": "simpsons-the-bart-no-jack-to-mame-no-ki",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Simpsons, The - Bart no Jack to Mame no Ki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バートのジャックと豆の木",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Simpsons, The - Bart no Jack to Mame no Ki (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7aa4e0bb",
+      "md5": "1d5e05159b0ac6a5119bd6f743c7eb9e",
+      "sha1": "f73e5fda698e102d8cad610bd601c73f6ec6e51a",
+      "sha256": "4e5278c2f3cd554b94e01f41af3a890f4ec7fa7d4baf4eabb6ab302bcffa36df"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "昔々、バート・シンプソンは牛を飼っていました。彼はその牛を魔法の豆と交換しました。その豆は巨大な豆の木に成長しました。もし彼がその木を登り、巨大な虫を乗り越え、モンスターのネズミを叩き潰し、巨人の宝を手に入れることができれば、「やってない！」と言うよりも早く、億万長者になれるでしょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Simpsons%2C%20The%20-%20Bart%20no%20Jack%20to%20Mame%20no%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Simpsons%2C%20The%20-%20Bart%20no%20Jack%20to%20Mame%20no%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Simpsons%2C%20The%20-%20Bart%20no%20Jack%20to%20Mame%20no%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

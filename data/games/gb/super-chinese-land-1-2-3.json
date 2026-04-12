@@ -1,0 +1,77 @@
+{
+  "id": "super-chinese-land-1-2-3",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Chinese Land 1-2-3'",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーチャイニーズランド1・2・3' ワン・ツー・スリー ダッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーチャイニーズランド1・2・3'",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Chinese Land 1-2-3' (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7d1d8fdc",
+      "md5": "8bea8cf270169a042bdae88f694c90b4",
+      "sha1": "2c2a1c2de0c2a88bc0a73b44f04f2ca434573d68",
+      "sha256": "a8cee592a37a6a70650200587475789f6ef500890c84c06a4378f43a5ff130de"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63969
+  },
+  "descriptions": [
+    {
+      "text": "3つの「スーパーチャイニーズ」タイトルが1つのカセットに収録されています。最初のゲームはステージクリア型のアクションゲームです。2と3はアクションRPGです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-09-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Chinese%20Land%201-2-3%27%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Chinese%20Land%201-2-3%27%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Chinese%20Land%201-2-3%27%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

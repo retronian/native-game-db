@@ -1,0 +1,32 @@
+{
+  "id": "game-boy-aging-cartridge",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Aging Cartridge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Aging Cartridge (World) (En,Ja) (v1.1)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "4db33858",
+      "md5": "2ba27abe03688caa433e9e3d500db4a0",
+      "sha1": "3f27a044131548d528783f0d43f918f04418519e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Aging%20Cartridge%20%28World%29%20%28En%2CJa%29%20%28v1.1%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

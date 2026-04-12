@@ -1,0 +1,62 @@
+{
+  "id": "track-meet-mezase-barcelona",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Track Meet - Mezase! Barcelona",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トラックミート めざせ!バルセロナ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Track Meet - Mezase! Barcelona (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "48d37cd2",
+      "md5": "2ebbf49d18833d07d6dae4e128ca1136",
+      "sha1": "0f60ced77232215d86b9c4555caf9880cce008b7",
+      "sha256": "6e5c6ad55e635b6c8c8300e85566db03724672f348523ac4614c5595f98aa3e9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「トラックミート めざせ!バルセロナ」では、プレイヤーは7つの異なるオリンピックスタイルの競技に挑戦できます。競技内容は、100メートルスプリント、ハードル、やり投げ、棒高跳び、走り幅跳び、円盤投げ、そしてウエイトリフティングです。プレイヤーは、各競技で5人の異なる競技者と競い合い、世界選手権を制覇する必要があります。各競技者は異なる強みと弱みを持ち、それぞれの競技での競い方も異なります。各競技では、プレイヤーのパフォーマンスに応じてポイントが与えられます。目標は、すべての競技が終了した後に相手よりも多くのポイントを獲得することです。\n\nまた、ゲームでは各競技を練習することができ、ゲームリンクケーブルを通じて2人対戦モードも提供されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Track%20Meet%20-%20Mezase%21%20Barcelona%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Track%20Meet%20-%20Mezase%21%20Barcelona%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Track%20Meet%20-%20Mezase%21%20Barcelona%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "nikkan-berutomo-club",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nikkan Berutomo Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "日刊べるとも倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nikkan Berutomo Club (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ad3f851d",
+      "md5": "d4bf4c5ebec2a496bb6ec062058158c6",
+      "sha1": "4403ddbc2faa6b540893814a7ecaafb218849ee9",
+      "sha256": "fa57f44094a67dfbad57aedafbabbfa03b102f0b8dd8a0772a244eace20523fc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64904
+  },
+  "descriptions": [
+    {
+      "text": "ゲームボーイでページャーを使ったコミュニケーションが再現されています。彼女の最終目標は、友達のベル（彼女のページャー仲間）を通じて、1ヶ月以内に彼女自身を作り上げることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-06-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nikkan%20Berutomo%20Club%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nikkan%20Berutomo%20Club%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nikkan%20Berutomo%20Club%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

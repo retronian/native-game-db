@@ -1,0 +1,62 @@
+{
+  "id": "dragon-tail",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Tail",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンテール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Tail (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "1d1155af",
+      "md5": "92e724d9ae8e6ad79442c95fe434c998",
+      "sha1": "390addf6bb52452dc6370eb54c702972e51968a2",
+      "sha256": "dfbf878dbd04ef9e16538a2a3378fc47f12159a9e849a2a7eec4e3fb15434372"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ネイルン スケール」は、ジャンプアクションとパズルゲームの融合です。プレイヤーキャラクターはジャンプし、敵に釘を投げることができます。敵を倒すだけでなく、釘はブロックに投げることでプラットフォームとしても利用できます。いくつかのブロックは、釘を投げてその上にジャンプすることで破壊できますが、他のブロックは釘を貫通することすらできません。ゲームが進むにつれて、レベルはますます複雑になり、特に頑丈なブロックを取り除く爆発釘などの新しいタイプの釘が登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dragon%20Tail%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dragon%20Tail%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dragon%20Tail%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

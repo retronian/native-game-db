@@ -1,0 +1,68 @@
+{
+  "id": "nintama-rantarou-gb-eawase-challenge-puzzle",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintama Rantarou GB - Eawase Challenge Puzzle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍たま乱太郎GB 絵あわせチャレンジパズル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パズル忍たま乱太郎GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintama Rantarou GB - Eawase Challenge Puzzle (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0e37e462",
+      "md5": "1ff86f10d1104200bf316cdc6612b63c",
+      "sha1": "5642c866711bd5057a2c7de2662d23a4a74d8be9",
+      "sha256": "e2f23cf309eaf7c1c28fcac1bbb3bfb7d648efc3d7b4e4cd5ddbb19b24a33034"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ「忍たま乱太郎」のキャラクターを使ったパズルです。絵に描かれたブロックを動かして、一つの絵を完成させるシンプルなルールです。ステージに隠されたアイテムは、捕獲に有利に働きます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-06-19",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nintama%20Rantarou%20GB%20-%20Eawase%20Challenge%20Puzzle%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nintama%20Rantarou%20GB%20-%20Eawase%20Challenge%20Puzzle%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

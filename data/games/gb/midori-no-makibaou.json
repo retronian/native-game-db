@@ -1,0 +1,65 @@
+{
+  "id": "midori-no-makibaou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Midori no Makibaou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "みどりのマキバオー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Midori no Makibaou (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1dd93d95",
+      "md5": "c29df42ef1237c4392049196d2205ffe",
+      "sha1": "4de380b202e375761f9fe7fb13349f5b02e2dac2",
+      "sha256": "54546e026c8076bba1dad7819c3d41ad8ecb09614137239a6b377124c9e85d01"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "みどりのマキバオーは、TOSEが開発し、タカラトミーが発売したレースゲームで、1996年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Midori%20no%20Makibaou%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Midori%20no%20Makibaou%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Midori%20no%20Makibaou%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

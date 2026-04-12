@@ -1,0 +1,96 @@
+{
+  "id": "ishido-the-way-of-stones",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ishido - The Way of Stones",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "石道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ishido - The Way of Stones (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "ab367915",
+      "md5": "e90254b52fbb54f563697134efe57c15",
+      "sha1": "75768fa6c719b96e6642bca5439a78cd3696761f",
+      "sha256": "38640d20130ea7a55c31274956e6cff13db3a0e0de880bd7a11c1fbeba0d4a9f"
+    },
+    {
+      "name": "Ishido - The Way of Stones (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "85b98a77",
+      "md5": "e904ad95019fad36decd3b8bae8b3f09",
+      "sha1": "41a00b379864cc0be08de75ae0de5bb2c6fbb045",
+      "sha256": "7701d971196a1b20670eb4c1e80098f1ccb76f68efae2d22a6e920ba5a2c1b25"
+    }
+  ],
+  "external_ids": {
+    "igdb": 152385
+  },
+  "descriptions": [
+    {
+      "text": "イシドは、タイルを使ってプレイするソリティアボードゲームです（上海のようなもの）。目的は、すべてのタイルをボードに配置し、特定のルールに従ってできるだけ高いスコアを獲得することです。これはソリティアゲームです。スコアを劇的に増加させる方法があり、ゲームは非常に戦略的な性質を持っています。さらに、プレイヤーが質問をすることでオラクルリーディングを受けることもでき、プレイヤーが非常にエレガントなプレイ（4方向マッチ）を行うと、その質問に答えられます。\n\nまた、プレイヤーが自分自身のタイルや背景を作成できる「コンストラクションセット」もありますが、ゲームには多数のタイルセットと背景が付属しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ishido%20-%20The%20Way%20of%20Stones%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ishido%20-%20The%20Way%20of%20Stones%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ishido%20-%20The%20Way%20of%20Stones%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ishido%20-%20The%20Way%20of%20Stones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

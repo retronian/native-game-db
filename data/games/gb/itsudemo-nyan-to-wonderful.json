@@ -1,0 +1,68 @@
+{
+  "id": "itsudemo-nyan-to-wonderful",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Itsudemo! Nyan to Wonderful",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "いつでも!にゃんとワンダフル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Itsudemo! Nyan to Wonderful (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1c4d3665",
+      "md5": "6a268131029986557c75e559622a3c87",
+      "sha1": "a48d6b68d82b98e775c00366da544402d7c7ac0e",
+      "sha256": "dbbf3416059db5c8c0cec9aaf81df141dd3086015946ad95aa44ffe3bd9621d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228564
+  },
+  "descriptions": [
+    {
+      "text": "ゲームボーイでペットを育てよう。カートリッジには時計が搭載されており、ゲームボーイの電源がオフの時でもペットは成長します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-06-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Itsudemo%21%20Nyan%20to%20Wonderful%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Itsudemo%21%20Nyan%20to%20Wonderful%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Itsudemo%21%20Nyan%20to%20Wonderful%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

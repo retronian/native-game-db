@@ -1,0 +1,65 @@
+{
+  "id": "karamuchou-no-daijiken",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Karamuchou no Daijiken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カラムー町の大事件",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Karamuchou no Daijiken (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "fa7ea8a0",
+      "md5": "a8f87a97f8b5b84282c68d0ce989dd65",
+      "sha1": "d831320bcec612c283afc2b6f194062cf98243dc",
+      "sha256": "db3853c894f118801ef92961d510bbef1df1ab720a241a9ef37477aa5ddd6b6a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはカラムー町、広告のキャラクターが住んでいる場所です。この100ステージの横スクロールゲームでは、さまざまな奇妙な物体や罠が待ち受けています。「ドア」をできるだけ早く集めて、「キャンディーランド」へ戻りましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Karamuchou%20no%20Daijiken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Karamuchou%20no%20Daijiken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Karamuchou%20no%20Daijiken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

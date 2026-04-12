@@ -1,0 +1,65 @@
+{
+  "id": "vattle-giuce",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vattle Giuce",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヴァトルギウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vattle Giuce (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "956b603c",
+      "md5": "813755de3d7338c9442f072ed52f52b3",
+      "sha1": "ca41cd69249a9ee703acfad044759baa42ef2c9a",
+      "sha256": "27dd4ea8685c5fa48ad69d44f8eb980b13dc3074e1b573c542195a777ce4ef9e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 57526
+  },
+  "descriptions": [
+    {
+      "text": "1991年に日本でゲームボーイ用にリリースされた縦スクロールシューティングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Vattle%20Giuce%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Vattle%20Giuce%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Vattle%20Giuce%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

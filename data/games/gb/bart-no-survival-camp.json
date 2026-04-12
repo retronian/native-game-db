@@ -1,0 +1,62 @@
+{
+  "id": "bart-no-survival-camp",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bart no Survival Camp",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バートのサバイバルキャンプ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bart no Survival Camp (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "0fd66b1a",
+      "md5": "0434a1320607ce8e79de69b10c7a1245",
+      "sha1": "f0d855bba656b628c7dd9ed9e586853be75b790f",
+      "sha256": "0ae4f084f69aa0c5506e03542d1812607e95b3d771e8a82925fb0c0afc6e5eeb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バートとリサ・シンプソンは、史上最悪のサマーキャンプ「キャンプ・デッドリー」に送られました。このキャンプは、悪名高いモンティ・バーンズの親族であるアイアンフィスト・バーンズによって運営されています。\n\nバートは、サイドスクロールのレベルをいくつもクリアしながら、キャンパーたちを自由へ導かなければなりません。バートは森やキャンプの食堂を通り抜け、自由を手に入れるために進んでいきます。幸運なことに、彼の武器には唾液弾やブーメランが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bart%20no%20Survival%20Camp%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bart%20no%20Survival%20Camp%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bart%20no%20Survival%20Camp%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

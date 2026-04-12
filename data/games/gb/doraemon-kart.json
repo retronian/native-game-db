@@ -1,0 +1,68 @@
+{
+  "id": "doraemon-kart",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon Kart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんカート",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon Kart (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "dd4e588f",
+      "md5": "20b436fc3c9621eb4ee82bc3ef3687fb",
+      "sha1": "f19734b2cb19de0be2d9e80297f567806ce4cad5",
+      "sha256": "07593e44cfe2d3face9779bcb40bcee4d7f74ee8b3cb0e601abc3a508af13fb4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49127
+  },
+  "descriptions": [
+    {
+      "text": "ドラえもんカートは、エポックによって開発・発売されたレースゲームで、1998年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Doraemon%20Kart%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Doraemon%20Kart%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Doraemon%20Kart%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

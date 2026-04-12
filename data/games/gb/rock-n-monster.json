@@ -1,0 +1,74 @@
+{
+  "id": "rock-n-monster",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rock'n! Monster!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ろっくん! もんすたぁ!!",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ろっくん!もんすたぁ!!",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rock'n! Monster!! (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "630299c1",
+      "md5": "fc89ae96c911ba84a5539bcc180f8f79",
+      "sha1": "338070ed1ced15eaca02198ab32b9e82a92f77ee",
+      "sha256": "a4d68a430c011b0a8a0f845356ab2afa4a1092f9e1555e4e9aeaf6a6075512a6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、プレイヤーが2組の落ちてくるブロックを操作して、同じ色のブロックを4つ揃えて消すパズルゲームです。さまざまな効果を持つブロックが、エキサイティングなバトルを演出します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-07-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rock%27n%21%20Monster%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rock%27n%21%20Monster%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rock%27n%21%20Monster%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "soreyuke-kid",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soreyuke!! Kid",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "それゆけ!!キッド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soreyuke!! Kid (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2a4a2d2b",
+      "md5": "c07063729944ffc4459e006e862df061",
+      "sha1": "b3b46d61c49a22145ce57b881d355b86d5c5ecc1",
+      "sha256": "2cf783fd58eceecfdeebff50ed27a8006896a2f7025c99d2f2db0a715a48f884"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "かわいいクラウンのキッドが活躍するアクションゲームです。敵を避けながらステージ内の8つの鍵を集め、ドアから脱出してステージをクリアしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-07-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Soreyuke%21%21%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soreyuke%21%21%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soreyuke%21%21%20Kid%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

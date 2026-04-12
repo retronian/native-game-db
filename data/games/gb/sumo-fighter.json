@@ -1,0 +1,68 @@
+{
+  "id": "sumo-fighter",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sumo Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "相撲ファイター 東海道場所",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Sumo Fighter: Tōkaidō Basho",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sumo Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "badc7cee",
+      "md5": "e76fb477ef0e8163e83f9fac15fff7e9",
+      "sha1": "48f225f86985d5fb09877e028baad8a6f3ee8d95",
+      "sha256": "201aec9eb615f1434100e0db39d6039e3f80670a680b8af9df15915315c170b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49006
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sumo%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sumo%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sumo%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

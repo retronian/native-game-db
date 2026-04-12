@@ -1,0 +1,65 @@
+{
+  "id": "winner-s-horse",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Winner's Horse",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウイナーズホース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Winner's Horse (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "14e91757",
+      "md5": "c8d156a2d4f38f56ec3aa9e405e540b3",
+      "sha1": "4d3a56c78ede434c55994b0452b74358fadf78fe",
+      "sha256": "fd508815ba403eafd3a8a3be21139df1891f32e4ee26e1673c3d0fe3285b3bec"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、2つの異なるモードを含む競馬ソフトウェアです。実際のレースからのさまざまなデータを入力して勝馬を予測するモードと、馬を育成し、レースに出走させて賞金を獲得するキャリアモードがあります。キャリアモードの最終目標は、アリマ記念に出走するために10億円を獲得することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Winner%27s%20Horse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Winner%27s%20Horse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Winner%27s%20Horse%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "sa-ga-3-jikuu-no-hasha",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sa-Ga 3 - Jikuu no Hasha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サ・ガ 3 時空の覇者 完結編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "時空の覇者 Sa・Ga3 完結編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sa-Ga 3 - Jikuu no Hasha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "575d6d9d",
+      "md5": "fcfa7b01f96b5546defb6b3c739f4008",
+      "sha1": "c8dcbefc0352b0590fd85a683d983b5510a63519",
+      "sha256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596"
+    },
+    {
+      "name": "Sa-Ga 3 - Jikuu no Hasha (World) (Ja) (Collection of SaGa)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "dc4f4e34",
+      "md5": "acc561d478839c1f3e5548355fce9e3b",
+      "sha1": "8125677ee63e9abb4b956ed0bee18fae3e04193b",
+      "sha256": "dabea9295d8cb8854d5b60dbac203a99aedd8f75b3108602388045873c3f953c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームボーイに登場する最後の（冗談ではなく）「ファイナルファンタジーレジェンド」シリーズのタイトルである「サ・ガ 3 時空の覇者 完結編」は、過去、現在、未来の都市を壊滅させる大洪水の物語を描いています。あなたは4人のパーティを操作し、人間やミュータントのクラスから選択しながら、時空を行き来し、敵を倒すために偉大な船タロンのパーツを集めます。\n\n時間旅行のストーリーラインが含まれているため、ある時間枠での行動が別の時間での出来事に影響を与えることがあります。シリーズの前作2作と比較しての他の大きな変更点は、キャラクターをさらにミュータント化できる能力と、アップグレードシステムの変更です。戦闘後に拾ったアイテムは、ミュータントや人間に装着することでモンスターやロボットに変化させ、パーティの力や能力を向上させます。\n\nまた、戦闘後に経験値を得るという元のシステムは削除されましたが、その代わりに各キャラクターが使用できる魔法石を選択できるシステムが導入されており、特定の魔法タイプを習得し、それを失うことはありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28World%29%20%28Ja%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28World%29%20%28Ja%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sa-Ga%203%20-%20Jikuu%20no%20Hasha%20%28World%29%20%28Ja%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

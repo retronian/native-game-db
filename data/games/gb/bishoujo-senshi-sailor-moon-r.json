@@ -1,0 +1,68 @@
+{
+  "id": "bishoujo-senshi-sailor-moon-r",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bishoujo Senshi Sailor Moon R",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "美少女戦士セーラームーンR",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bishoujo Senshi Sailor Moon R (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ea759875",
+      "md5": "84634fb36156bb1b9e54bc62fbaf3525",
+      "sha1": "959f384998c43072ca154e531917e9aaa80a694d",
+      "sha256": "493d372b9bbe9bb10fea0635298f43effc6fa9ecc58b2b97598a07f93a1e83d7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 309013
+  },
+  "descriptions": [
+    {
+      "text": "「美少女戦士セーラームーンR」は、1994年にエンジェルスタジオによって任天堂ゲームボーイ用にリリースされたビデオゲームです。\n\nこのゲームでは、「ストーリーモード」と「アーケードモード」の2つのプレイスタイルが選べます。ストーリーモードでは、プレイヤーは月野うさぎ/セーラームーンから始まり、その後ちびうさ、そして内なる戦士たちを操作します。ゲームプレイは、プレイヤーがマップを歩き回り他のキャラクターと会話するストーリー章と、プラットフォームレベル、ボスルームが交互に進行します。アーケードモードでは、プレイヤーはキャラクターを選択し、戦闘以外の部分はスキップされます。\n\nどちらのモードでも、ゲームは5つのステージをクリアすることで完了しますが、ほとんどのステージは比較的短いです。ボスルームでは、タキシード仮面とのシーンから始まることがあり、プレイヤーがバラのアイテムを拾うことでエクストラライフを得ることができます。プレイヤーが拾える他のアイテムには、健康を回復するハート、より多くの健康を回復するケーキのスライス、キャラクターの攻撃力をアップさせるティアラがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bishoujo%20Senshi%20Sailor%20Moon%20R%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

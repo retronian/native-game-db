@@ -1,0 +1,90 @@
+{
+  "id": "konchuu-hakase",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konchuu Hakase",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "昆虫博士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konchuu Hakase (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f6b3e291",
+      "md5": "0ded2a31627c29a285637aae52b51427",
+      "sha1": "ac792793b43cc8fae098df23e6aeb845f98199cd",
+      "sha256": "1d35391843068f63e185af5bd3b661392402ee6e379b83b8dfb0fa7f2e6d2893"
+    },
+    {
+      "name": "Konchuu Hakase (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "05753790",
+      "md5": "f60fd654e4998e42b1aa53845a584220",
+      "sha1": "3e8e47b36a2171ad93d0e21fe5c22feff17c6d88",
+      "sha256": "67ecc22f8560b55607d400be6a9404b26ea47fd35eeab3ea3580cbb5f4e7b0c8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228602
+  },
+  "descriptions": [
+    {
+      "text": "フィールドを探索して様々な昆虫を捕まえるゲームです。捕まえた昆虫に応じて、シャベルやネットなどの収集アイテムを変更する必要があります。また、捕まえた昆虫を育てることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-08-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Konchuu%20Hakase%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konchuu%20Hakase%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konchuu%20Hakase%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konchuu%20Hakase%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konchuu%20Hakase%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

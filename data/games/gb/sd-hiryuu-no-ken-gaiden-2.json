@@ -1,0 +1,60 @@
+{
+  "id": "sd-hiryuu-no-ken-gaiden-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Hiryuu no Ken Gaiden 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD 飛龍の拳外伝2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Hiryuu no Ken Gaiden 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "10034d19",
+      "md5": "00378c0ae45e106454346d4874c0e041",
+      "sha1": "d3e747b341d76dc3582257fe53111ece385eb399",
+      "sha256": "f1bbcb6be3dd97712be6c22749ab497cf21df3d3cbb2498b720356c58e5df56d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 78523
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/SD%20Hiryuu%20no%20Ken%20Gaiden%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/SD%20Hiryuu%20no%20Ken%20Gaiden%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/SD%20Hiryuu%20no%20Ken%20Gaiden%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

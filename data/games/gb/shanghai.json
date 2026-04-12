@@ -1,0 +1,124 @@
+{
+  "id": "shanghai",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shanghai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "上海",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shanghai (Japan) (HAL Laboratory)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "7c29672b",
+      "md5": "fef106aa1596fe49144b02a837d7d9eb",
+      "sha1": "7756e8c955e3bd4fe9b007c9ea4c83f914a100ae",
+      "sha256": "68b91066568a5ee6edd6777444af20dcb1ed26458891053e7ea606b50d8d5d64"
+    },
+    {
+      "name": "Shanghai (Japan) (Activision)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "6aa684eb",
+      "md5": "72c0a7eb38ffc2ef65c0e2ffb1729aa5",
+      "sha1": "2569352ea796864fcd769cc9b25c6497516134c6",
+      "sha256": "8800e094728037233dc7c1772eef269c1e2e0a47ae2c2f6ac7fb0623f02e4546"
+    },
+    {
+      "name": "Shanghai (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "580fcb18",
+      "md5": "d11777331e12f55ae4bab2f6e0bda918",
+      "sha1": "d5cc81d0379982fe69e8fe30868fdcc621dd1bae",
+      "sha256": "8068158a4868eea9a8148e5d239ede5c97ac0eeba8609327175b998a0c448d3c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64739
+  },
+  "descriptions": [
+    {
+      "text": "「上海」は、中国の麻雀牌を使ったタイルベースのゲームの最初のビデオゲームアダプテーションの一つであり、実際の麻雀ルールとはほとんど関係のないパズルゲームです。\n\nゲームプレイは、異なる画像が描かれた144枚のタイルを使用し、ペアにして取り除くことが求められます。タイルは、中央付近が高くなるようにグリッドパターンで配置されています。タイルは、少なくとも一方の側に隣接するタイルがない場合にのみ取り除くことができます。\n\nこのコンピュータ版は、ランダムなボードレイアウトを生成して挑戦できるほか、5分または10分の制限時間があるプリセットチャレンジが5つ用意されており、マルチプレイヤーモードも搭載しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-07-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shanghai%20%28Japan%29%20%28HAL%20Laboratory%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shanghai%20%28Japan%29%20%28HAL%20Laboratory%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shanghai%20%28Japan%29%20%28HAL%20Laboratory%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shanghai%20%28Japan%29%20%28Activision%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shanghai%20%28Japan%29%20%28Activision%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shanghai%20%28Japan%29%20%28Activision%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shanghai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shanghai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shanghai%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

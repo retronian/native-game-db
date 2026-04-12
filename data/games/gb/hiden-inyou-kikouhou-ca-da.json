@@ -1,0 +1,68 @@
+{
+  "id": "hiden-inyou-kikouhou-ca-da",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hiden Inyou Kikouhou - Ca Da",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "秘伝陰陽気功法 華佗",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hiden Inyou Kikouhou - Ca Da (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "9234eeab",
+      "md5": "7e6c999c8b4bd0e7030977c7fa73c75c",
+      "sha1": "0ba32a4383f1ff89c8838d155cb672ff799f0687",
+      "sha256": "e31e5f1a92c0fa171aec19699ab0932608ae58a799efa8f2bab6802a62be2178"
+    }
+  ],
+  "external_ids": {
+    "igdb": 286595
+  },
+  "descriptions": [
+    {
+      "text": "あなたは、触れたボールに応じて色が変わるキャラクターを操作します。これらの状態により、対応する色の矢印を使って非常に高くジャンプし、すべての小さな風船に届くことができます。そうすることで、次のステージへの扉が開かれます。カダには敵がいますが、死ぬことはありません。敵はただあなたを後ろに押し戻すだけです。カダには10のボードを持ついくつかのマップがあり、セーブワードシステムも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hiden%20Inyou%20Kikouhou%20-%20Ca%20Da%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hiden%20Inyou%20Kikouhou%20-%20Ca%20Da%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hiden%20Inyou%20Kikouhou%20-%20Ca%20Da%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

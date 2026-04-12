@@ -1,0 +1,68 @@
+{
+  "id": "genjin-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genjin Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "原人コレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genjin Collection (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b2eedd36",
+      "md5": "e6e0b97c6a3b80ab2e0a323e3d21a137",
+      "sha1": "a9f953e2a3680078e51cb42fac44edf81991737b",
+      "sha256": "40c3b05b76355d9a4e244cb22c074648f03933571b023f77f667e8b2e4b48513"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64343
+  },
+  "descriptions": [
+    {
+      "text": "1つのカートリッジに、GB原人（ボンクの冒険またはB.C.キッド）1 - 2とGB原人ランドが収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Genjin%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Genjin%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Genjin%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "mach-go-go-go",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mach Go Go Go",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マッハ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mach Go Go Go (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "016d230b",
+      "md5": "d87fdb7009dece416655edf24ee19ede",
+      "sha1": "baea8b49ce2402c5c094ddae0320a382c0d95d86",
+      "sha256": "401c3b1d3bda9ef3e4c202975886d52d2a122fa6c432b49b0d80caad291e1c48"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マッハ ゴー ゴー ゴーは、TOSEが開発し、トミー株式会社が発売したレースゲームで、1997年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-08-08",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mach%20Go%20Go%20Go%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mach%20Go%20Go%20Go%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

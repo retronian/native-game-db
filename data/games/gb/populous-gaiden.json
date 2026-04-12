@@ -1,0 +1,62 @@
+{
+  "id": "populous-gaiden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Populous Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポピュラス外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Populous Gaiden (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f327167e",
+      "md5": "a98f3b3b87d4b8ae3672f518295a8fde",
+      "sha1": "fde1789eb253309cae80faf4fe7241c6f9d72f29",
+      "sha256": "4f26b48ec9739ca0d6bba6537f23a80977be2937f6d420feda28bb56fb0011e8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは神となり、他の神々と共に天界での征服ゲームに挑みます。勝利するためには、選んだ民を助けて世界を支配し、他の神を崇拝する害虫を排除しなければなりません。\n\n各神は、荒野の真ん中に投げ込まれた一人の人間からスタートします。時には居住可能な土地が見えることもあれば、そうでないこともあります。勝つチャンスを得るためには、風景を変え、信者たちが建設できる平坦な土地を作り出さなければなりません。信者が多ければ多いほど、あなたは強力になりますので、彼らを大切にしましょう。できるだけ早く建設を進めてください。他の神も同じように行動しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-05-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Populous%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Populous%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Populous%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

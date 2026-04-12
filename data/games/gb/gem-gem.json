@@ -1,0 +1,65 @@
+{
+  "id": "gem-gem",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gem Gem",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジェムジェム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gem Gem (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "a64a8710",
+      "md5": "75963dd8e91147452bfa88f0d608d554",
+      "sha1": "90a29d7a56f64b596cda1c64c8998b63d12c321e",
+      "sha256": "1113bfe9c6fa8ff7485f706b3669c9e0b99ef87d1a61c696ccdf3998d3e421de"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "魔法使いによって迷路に変わった町を進み、伝説の宝石を探すパズルゲームです。通路は回転させることができ、道をつなぎながら進んでいきます。モンスターと出会うと、じゃんけん勝負が繰り広げられます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gem%20Gem%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gem%20Gem%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gem%20Gem%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

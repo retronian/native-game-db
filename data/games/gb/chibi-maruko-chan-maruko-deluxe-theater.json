@@ -1,0 +1,65 @@
+{
+  "id": "chibi-maruko-chan-maruko-deluxe-theater",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chibi Maruko-chan - Maruko Deluxe Theater",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちびまる子ちゃん まる子デラックス劇場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chibi Maruko-chan - Maruko Deluxe Theater (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "886049f9",
+      "md5": "648770b4fe55dbcd0d834536bb8685b0",
+      "sha1": "0e774a12ed2d99b5a62a5ad3f634f2c32da5929a",
+      "sha256": "676f429693da5250d6dda5eeb0b38c98644bae438873e1c96509bdd9d5b9b056"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ちびまる子ちゃん まる子デラックス劇場は、キッドが開発し、タカラが発売した雑多なゲームで、1995年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chibi%20Maruko-chan%20-%20Maruko%20Deluxe%20Theater%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chibi%20Maruko-chan%20-%20Maruko%20Deluxe%20Theater%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chibi%20Maruko-chan%20-%20Maruko%20Deluxe%20Theater%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

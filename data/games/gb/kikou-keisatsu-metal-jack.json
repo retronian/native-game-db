@@ -1,0 +1,65 @@
+{
+  "id": "kikou-keisatsu-metal-jack",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kikou Keisatsu Metal Jack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "機甲警察メタルジャック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kikou Keisatsu Metal Jack (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "f3cc5e62",
+      "md5": "29d9ba6b3724a8de14f1f66dbe2e4aec",
+      "sha1": "8245f9f91126faad1f30502e1fc8012cc26c43c1",
+      "sha256": "4c8d0f99b640bdf9bb6480f641b20d5590c55305f69ef291f8932fe9adb85369"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "機甲警察メタルジャックは、同名のアニメを基にしたスクロール式のバトルゲームです。ゲームの開始時に、プレイヤーはレッドジャック、シルバージャック、またはブルージャックの中からキャラクターを選ぶことができます。レッドジャックとシルバージャックはそれぞれ、レベル内で弾薬を見つけることができる武器（銃とバトン）を持っており、3人とも複数ヒットのコンボやジャンプ攻撃を行うことができます。レベルの最後には、ジャックは彼の乗り物と出会い、それが彼のアーマーと合体します。この形態では、ジャックの攻撃力が強化され、画面上のすべての敵に当たる攻撃をチャージすることができます。\n\nゲーム内ではストーリーは語られないため、何が起こっているのか知りたい場合はアニメを追いかける必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kikou%20Keisatsu%20Metal%20Jack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kikou%20Keisatsu%20Metal%20Jack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kikou%20Keisatsu%20Metal%20Jack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

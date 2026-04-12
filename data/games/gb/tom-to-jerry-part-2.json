@@ -1,0 +1,62 @@
+{
+  "id": "tom-to-jerry-part-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom to Jerry Part 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トムとジェリー パート2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom to Jerry Part 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "dd19a9ec",
+      "md5": "2d932dc975fc98d294dfab7d70e553ef",
+      "sha1": "adcf89690d0daf0d8e007b6b404305ef4dec689b",
+      "sha256": "ac211d31043f68d3b488e77c1c53fcb460ce1add2473f8e20f398272ec3cbbae"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "トムとジェリー パート2: フランティック アンティクスは、ビームソフトウェアが開発し、ハイテックが出版したアクションゲームで、1993年にリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tom%20to%20Jerry%20Part%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tom%20to%20Jerry%20Part%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tom%20to%20Jerry%20Part%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

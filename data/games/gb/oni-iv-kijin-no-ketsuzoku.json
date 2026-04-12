@@ -1,0 +1,81 @@
+{
+  "id": "oni-iv-kijin-no-ketsuzoku",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oni IV - Kijin no Ketsuzoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鬼神の血族",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oni IV - Kijin no Ketsuzoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "beff4f57",
+      "md5": "399fa899194542c7bd5ba92969795ac5",
+      "sha1": "5af71863e48afe1fb5f16aee6fbe7f4e97ef54ce",
+      "sha256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505"
+    },
+    {
+      "name": "Oni IV - Kijin no Ketsuzoku (Japan) (Rev 1) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "19eba26f",
+      "md5": "cc7b28ea40189a4c0a254c3a7f11e934",
+      "sha1": "43ae621957976657861777378e81176fc9873ab7",
+      "sha256": "af7d5981b42ab63b0d6d622ed88447c9d257acfeab5ed43de0c8bf46dbdaceff"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「鬼神の血族」は「ONI」シリーズの第4作目です。悪魔と人間の血を引く英雄が、妖怪軍団と戦う物語。『ONI II』に登場したキャラクターも再登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Oni%20IV%20-%20Kijin%20no%20Ketsuzoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Oni%20IV%20-%20Kijin%20no%20Ketsuzoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Oni%20IV%20-%20Kijin%20no%20Ketsuzoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Oni%20IV%20-%20Kijin%20no%20Ketsuzoku%20%28Japan%29%20%28Rev%201%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

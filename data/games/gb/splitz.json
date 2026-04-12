@@ -1,0 +1,76 @@
+{
+  "id": "splitz",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Splitz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "スプリッツ 似顔絵15ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Splitz (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "112487c9",
+      "md5": "9ecb13a68c8c58d90dd15157440d5b10",
+      "sha1": "27a8c04bf7126d2b9f564b5f8f709c08817d9692",
+      "sha256": "31b92ae1c10e59372e14fe78cda20556d6ceba86930c60cc2a6bab8100f3a4b5"
+    },
+    {
+      "name": "Splitz (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "5e8f955e",
+      "md5": "6add9bf46fd945f6635419ad60988334",
+      "sha1": "5f36290557f23c48ca7f2f17a1af9b691ede5bff",
+      "sha256": "a330a9f8813894b805fd21a909ab6e3451a9c7fbc7a1ffc528d96e1f07742140"
+    }
+  ],
+  "external_ids": {
+    "igdb": 271376
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Splitz%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Splitz%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Splitz%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Splitz%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

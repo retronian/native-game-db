@@ -1,0 +1,68 @@
+{
+  "id": "welcome-nakayoshi-park",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Welcome Nakayoshi Park",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウェルカムなかよしパーク",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Welcome Nakayoshi Park (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "f6e2baae",
+      "md5": "7d5928376a16252833a1eda86fb65448",
+      "sha1": "8779a1557ba0de3c5c8b770413f30bd31717b2ef",
+      "sha256": "f202c4839a76aeaa72ca60982c0e493b5134e6ace7d5f419b4c5dd55c866cb88"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130496
+  },
+  "descriptions": [
+    {
+      "text": "ゲームでは、プレイヤーはなかよしパークを歩き回り、さまざまなミニゲームを楽しみます。すべてのミニゲームをクリアすると、プレイヤーは公園の中心にある城にアクセスできるようになります。このゲームには、セーラームーンのキャラクターに加えて、なかよしマガジンの他のキャラクターも登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Welcome%20Nakayoshi%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Welcome%20Nakayoshi%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Welcome%20Nakayoshi%20Park%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

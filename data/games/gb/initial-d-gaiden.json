@@ -1,0 +1,77 @@
+{
+  "id": "initial-d-gaiden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Initial D Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "頭文字D外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "頭文字 D 外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Initial D Gaiden (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6cc56612",
+      "md5": "83ef6dc979ee752513a3b2c794d4cbff",
+      "sha1": "1b3c4c1c4dfca46a009eb2e5cd45b343d7ee6681",
+      "sha256": "eb27e1d1dca3dffe17bbf0588fcc87f324a2da2aaf8cbd962da2e9bc665ef392"
+    }
+  ],
+  "external_ids": {
+    "igdb": 62559
+  },
+  "descriptions": [
+    {
+      "text": "人気マンガ「頭文字D」のサポートキャラクター、イツキをフィーチャーしたレーシングゲームです。コミカルなテイストのストーリー展開の中で、プレイヤーはオリジナルストーリーの初期段階に登場するキャラクターたちと山道を使ってバトルを繰り広げます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Initial%20D%20Gaiden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Initial%20D%20Gaiden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Initial%20D%20Gaiden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

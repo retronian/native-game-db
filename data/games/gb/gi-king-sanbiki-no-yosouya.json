@@ -1,0 +1,76 @@
+{
+  "id": "gi-king-sanbiki-no-yosouya",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GI King! - Sanbiki no Yosouya",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GIキング! 三匹の予想屋",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "G1 King! 3 Hitsu no Yosouya",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GI King! - Sanbiki no Yosouya (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "150bc291",
+      "md5": "894dc0498b1527deddf7c6fcc75a6b25",
+      "sha1": "de6109b643a97e7a96e55a6becfd7e61dfdc915e",
+      "sha256": "376475c8f35428b4237f98e4add7695582e31be8391228e4a792014ab774aee9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 277804
+  },
+  "descriptions": [
+    {
+      "text": "競馬新聞の予想データを入力することでレースの勝馬を予測するソフトウェアです。3人のキャラクターがそれぞれお気に入り、中穴、大穴の予想を行います。また、競馬関連の収益を計算するための財布入力モードも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/GI%20King%21%20-%20Sanbiki%20no%20Yosouya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GI%20King%21%20-%20Sanbiki%20no%20Yosouya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GI%20King%21%20-%20Sanbiki%20no%20Yosouya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sea-battle",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sea Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sea Battle (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "ba091b91",
+      "md5": "efe060ea92c1815417d7fc12005d6afd",
+      "sha1": "560d62b96a1b9820e3fd953f76e33b4f5fdc9e2f",
+      "sha256": "239e24bd788b53a365b0394b401b0eb2c12f4aa4fc54db450db964bee990c3c8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344045
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sea%20Battle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sea%20Battle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sea%20Battle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

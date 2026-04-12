@@ -1,0 +1,68 @@
+{
+  "id": "jinsei-game-densetsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jinsei Game Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "人生ゲーム伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jinsei Game Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "590f4afc",
+      "md5": "c7bf23774f3fec0bbe79504a558fbbb6",
+      "sha1": "106f9671e52d15dd06d614d87b4d690ab95d4131",
+      "sha256": "b5cbd57e0789b1c115f35e3bcfa2b336df78fe935c802c7790e05c244d13fab6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97573
+  },
+  "descriptions": [
+    {
+      "text": "「人生ゲーム伝説」は、「人生ゲーム」を基にしたファンタジーボードゲームであり、人生ゲームシリーズの第一作目です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-06-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jinsei%20Game%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jinsei%20Game%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jinsei%20Game%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

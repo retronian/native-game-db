@@ -1,0 +1,68 @@
+{
+  "id": "painter-momopie",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Painter Momopie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ペインターモモピー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Painter Momopie (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "fb79ef58",
+      "md5": "7a1db9950b7fb12499df822b32ef1ed9",
+      "sha1": "193901223ffc89cf4f42a19e57447249affcc843",
+      "sha256": "ddc53ffb8ae1c95cb96c328e4a97205eedfe2ddb19f1a6510df247d18625bf7d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 136613
+  },
+  "descriptions": [
+    {
+      "text": "「ペインターモモピー」では、プレイヤーは城の床をすべて掃除する重要な任務を担っています。城は複数の部屋に分かれており、各部屋は時間制限内に順番にクリアしなければなりません。これらの部屋は、広いスペースや狭い通路、行き止まりなど、さまざまなレイアウトがあり、どのフィールドも汚れています。\n\n掃除はタイルの上を歩くだけで簡単に行え、すべてがきれいになるとレベルクリアとなります。しかし、部屋の中にはプレイヤーに触れると攻撃してくる幽霊も徘徊しています。\n\n主人公は、使用することで利点をもたらすいくつかの魔法を使うことができます。例えば、時間停止や近くの敵を倒す、スピードアップなどです。各魔法には一定量の魔法ポイントが必要です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Painter%20Momopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Painter%20Momopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Painter%20Momopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

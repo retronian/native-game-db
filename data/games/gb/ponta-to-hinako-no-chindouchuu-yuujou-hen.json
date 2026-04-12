@@ -1,0 +1,74 @@
+{
+  "id": "ponta-to-hinako-no-chindouchuu-yuujou-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ponta to Hinako no Chindouchuu - Yuujou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポン太とヒナ子の珍道中 友情編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ポン太とヒナ子の珍道中 〜友情編〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ponta to Hinako no Chindouchuu - Yuujou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "058b3dab",
+      "md5": "2a76ab00f041ec61ea08899021a4c07e",
+      "sha1": "83110ce7b82117069c9f147219fc2efbd1cdd103",
+      "sha256": "8457b468598c4142511e2994f08e80d30a301f788651c1e1bc677ed19f84f150"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ポン太とヒナ子の珍道中 友情編」は、ナクサットソフトから発売されたアクションゲームで、1990年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ponta%20to%20Hinako%20no%20Chindouchuu%20-%20Yuujou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ponta%20to%20Hinako%20no%20Chindouchuu%20-%20Yuujou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ponta%20to%20Hinako%20no%20Chindouchuu%20-%20Yuujou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

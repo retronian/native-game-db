@@ -1,0 +1,126 @@
+{
+  "id": "makai-toushi-sa-ga",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Makai Toushi Sa-Ga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔界塔士 Sa・Ga サ・ガ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔界塔士Sa・Ga",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Makai Toushi Sa-Ga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "131b09f2",
+      "md5": "6ef878ebc023775f09437a2588ac5e7d",
+      "sha1": "7a8f770a34207fee324431c47836f1ab317863f9",
+      "sha256": "c2f40e3ed1dcd4b6682dd19537d93ac4145ad754d1c6fd77581d09826f06f45c"
+    },
+    {
+      "name": "Makai Toushi Sa-Ga (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "1953820f",
+      "md5": "8831343566e891e0176b6781594a1c15",
+      "sha1": "cbf480bc92bd98bae4fb79294b604d341fe58cbe",
+      "sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f"
+    },
+    {
+      "name": "Makai Toushi Sa-Ga (World) (Ja) (Rev 1) (Collection of SaGa)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "0006612d",
+      "md5": "07c383f24c790b204a24c0c0164bbb49",
+      "sha1": "3ce39646bffe38a9c8fd4913f0e950bae061d094",
+      "sha256": "d8fb91ee32c6433ccf63989a8a0d530a1fc414365323b3adec7f52576b2354a9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームボーイ初の「ファイナルファンタジー」タイトルである『レジェンド』では、通常の人間の男性や女性から、ゾンビ、ウェアラット、レッドブル（飲み物ではありません）、クリッパー、ミュータントの男性または女性まで、8種類の異なるキャラクターから選ぶことができます。どのキャラクターを選んでも、目標は同じです：多様な敵を倒して経験値と能力を増やし、広大な土地を冒険しましょう。\n\n古い（そして新しい）FFシリーズと同様に、パーティーに参加するメンバーを選び、これからのクエストに挑むことができます（戦士、ミュータント、またはクリーチャーのいずれか）。すべてのキャラクターには、各バトルで使用できる動きの制限があり、戦闘後には経験値が得られ、スタミナやパワーなどが増加します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Makai%20Toushi%20Sa-Ga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Makai%20Toushi%20Sa-Ga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Makai%20Toushi%20Sa-Ga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Makai%20Toushi%20Sa-Ga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Makai%20Toushi%20Sa-Ga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Makai%20Toushi%20Sa-Ga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Makai%20Toushi%20Sa-Ga%20%28World%29%20%28Ja%29%20%28Rev%201%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Makai%20Toushi%20Sa-Ga%20%28World%29%20%28Ja%29%20%28Rev%201%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Makai%20Toushi%20Sa-Ga%20%28World%29%20%28Ja%29%20%28Rev%201%29%20%28Collection%20of%20SaGa%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

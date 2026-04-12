@@ -1,0 +1,74 @@
+{
+  "id": "fleet-commander-vs",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fleet Commander VS.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フリートコマンダー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "フリートコマンダーVS.",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fleet Commander VS. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "71bf3256",
+      "md5": "6d301bbecadb7d4cd064a97751d642c5",
+      "sha1": "b858d597e5eea575c5baa953785c96459d9be593",
+      "sha256": "a6ac3d3a8c7144a5e1ed8ca9d0283fc34ab134210170297e53504ada4dccb485"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "完全に日本製のこのタイトルは、ターン制ストラテジーゲームの形で海戦に焦点を当てています。プレイヤーは自分の艦船（および航空機）を配置し、ライバルの艦船を打ち負かすことを目指します。いくつかのカードが用意されており、その内容は非常に充実しています。ケーブルリンクは2人用です。日本のゼンプレイヤーにおすすめのタイトルです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Fleet%20Commander%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Fleet%20Commander%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Fleet%20Commander%20VS.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

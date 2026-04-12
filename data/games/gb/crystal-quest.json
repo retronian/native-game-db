@@ -1,0 +1,51 @@
+{
+  "id": "crystal-quest",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crystal Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crystal Quest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "51300cfd",
+      "md5": "e15a6b601c845e425f62ef2b7aed691f",
+      "sha1": "6c3ba1e407ff378dc004ac58d6a16180bd76a1b3",
+      "sha256": "3c86f30b11442c93b011287310dfea0a9c23a182527d8447769226e52ef29d5e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 277142
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Crystal%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Crystal%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Crystal%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

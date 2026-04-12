@@ -1,0 +1,51 @@
+{
+  "id": "double-dragon-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Dragon II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Dragon II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5b96e474",
+      "md5": "4f3b84eb325f9162086fac77ac577e7c",
+      "sha1": "3532462be3ab1a569890261d20a1a37bfe79e1ea",
+      "sha256": "21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878"
+    }
+  ],
+  "external_ids": {
+    "igdb": 136134
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Double%20Dragon%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Double%20Dragon%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Double%20Dragon%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

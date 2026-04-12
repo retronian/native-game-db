@@ -1,0 +1,65 @@
+{
+  "id": "pocket-battle",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットバトル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Battle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "17114316",
+      "md5": "ff22733a091e9d32596fbff8331153c6",
+      "sha1": "9993242a8c9412a88b207a941531c0a5d0e4b8ec",
+      "sha256": "07b7c4b00a99053a0710bb8619341e82bd921825f7229dec0e6af481a9d8bff4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファンタジーの世界を舞台にしたコミカルなシミュレーションゲームです。戦士や僧侶を使って領土を拡大していきます。キャラクターデザインはゲン・サトウによるものです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

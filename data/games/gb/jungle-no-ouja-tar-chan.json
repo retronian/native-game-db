@@ -1,0 +1,68 @@
+{
+  "id": "jungle-no-ouja-tar-chan",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jungle no Ouja Tar-chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジャングルの王者ターちゃん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jungle no Ouja Tar-chan (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "96555e9a",
+      "md5": "17792b7924aa9275a5a4655e8b9bbc27",
+      "sha1": "5312e1804848603c41ac804243e5b2b758c75d0d",
+      "sha256": "df0d676bf640721bc5d1a4feb7796043f210345cf150655d3945077c23b20bfc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228568
+  },
+  "descriptions": [
+    {
+      "text": "同名の漫画が「週刊少年ジャンプ」に連載され、ゲーム化されました。主人公のターちゃんは、超強力なスリム薬を手に入れるための旅に出ます。上から見下ろす画面で情報を集め、横から見る画面で敵と戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-07-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jungle%20no%20Ouja%20Tar-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jungle%20no%20Ouja%20Tar-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jungle%20no%20Ouja%20Tar-chan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

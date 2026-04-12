@@ -1,0 +1,68 @@
+{
+  "id": "loopz",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Loopz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "ループス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Loopz (World)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "531a3e16",
+      "md5": "7e68c061d77a2e8925442a9b6fa0a0ed",
+      "sha1": "dd2ddac2310409287299c287f1959196e0b4d14e",
+      "sha256": "05b4810814dabff10d51d6dbefc8c53f7e344b69273364846307839b0aa924ca"
+    },
+    {
+      "name": "Loopz (World) (Beta)",
+      "source": "no_intro",
+      "size": 32768,
+      "crc32": "15e28642",
+      "md5": "f9f226d0534e8152b280388e39573e92",
+      "sha1": "01f87439294a2a06604ae0fd41df203713460510"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344062
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Loopz%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Loopz%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Loopz%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Loopz%20%28World%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gojira-kun-kaijuu-daikoushin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gojira-kun - Kaijuu Daikoushin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴジラくん 怪獣大行進",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gojira-kun - Kaijuu Daikoushin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ed204600",
+      "md5": "259aa674ac5634e47a642d024cfbdc66",
+      "sha1": "4c03da759e5fb2ec06d286d5f0b52d64621fea41",
+      "sha256": "1d02a9eb1b44b1a56301b4b9514c9ac1dd608871517612e69195fd9d39ae8978"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゴジラのアクションゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Gojira-kun%20-%20Kaijuu%20Daikoushin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Gojira-kun%20-%20Kaijuu%20Daikoushin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Gojira-kun%20-%20Kaijuu%20Daikoushin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

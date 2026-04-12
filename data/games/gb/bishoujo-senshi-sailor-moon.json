@@ -1,0 +1,68 @@
+{
+  "id": "bishoujo-senshi-sailor-moon",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bishoujo Senshi Sailor Moon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "美少女戦士セーラームーン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bishoujo Senshi Sailor Moon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "c2763e73",
+      "md5": "7afb675171d58105112dbacf2ced77cb",
+      "sha1": "c008913a9fbb395a7a504fe65d1d29c530755cb3",
+      "sha256": "b1090ad4909f8222e4c325d8f939cb8b80de6430f80343fda501edc9166ce847"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38279
+  },
+  "descriptions": [
+    {
+      "text": "「美少女戦士セーラームーン」は、1992年にエンジェルスタジオによって任天堂ゲームボーイ用にリリースされたビデオゲームです。これは、セーラームーン関連のビデオゲームの中で最初のものの一つでした。\n\nこのゲームでは、プレイヤーは月野うさぎ/セーラームーンを操作します。ストーリーは、アニメの第1シーズンの第1話、第3話、第4話に基づいています。元々はこれらのエピソードには登場しなかったキャラクターですが、ゲーム内ではうさぎがNPC（ノンプレイヤーキャラクター）である亜美やレイと出会い、会話をすることができます。\n\n3つのレベルは2つのパートに分かれています。まず、うさぎは街や学校、健康スパを歩き回り、時折人々と会話をします。正しい人々と話した後、うさぎはセーラームーンに変身し、別の種類のレベルに入って数多くの敵と戦います。\n\nデフォルトでは、セーラームーンはキック攻撃しか使用できません。「下」ボタンを押すと、セーラームーンは座り込んで泣き始め、近くの壁に岩があれば、その高音の泣き声で岩が爆発し、特別なアイテムが落ちます。これらのアイテムは異なる能力を与えます：一つは限られた回数だけムーンティアラアクションを使用できるようにし、もう一つは短時間無敵になるなどです。\nボスはモルガ、キュリーネ、ジェダイト、そしてクイーン・ベリルです。セーラームーンは、2体の妖魔を倒した後、毎回ジェダイトと戦わなければならず、最後のレベルの終わりではクイーン・ベリルと対峙する前に再び彼と戦う必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bishoujo%20Senshi%20Sailor%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bishoujo%20Senshi%20Sailor%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bishoujo%20Senshi%20Sailor%20Moon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

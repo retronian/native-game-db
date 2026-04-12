@@ -1,0 +1,65 @@
+{
+  "id": "burning-paper",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burning Paper",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーニングペーパー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burning Paper (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "88f8c991",
+      "md5": "cb0a5d103c01d1d82d324602a45dd21b",
+      "sha1": "8e2bce98cc840e52d47680f9b1e425bfc9102ac7",
+      "sha256": "27c799b6c9c05700f90d14b124f22fd315156e7b4f605e65707b0516813aed01"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49096
+  },
+  "descriptions": [
+    {
+      "text": "基本的なゲームプレイは非常にシンプルです。あなたはスーツにBのマークがついたかわいいキャラクターです。さまざまなクリーチャーが頂上を目指して登ってくる構造物の上にいます。画面には十字カーソルが表示されています。Aボタンを押すと、その十字カーソルが向いている場所にビームを発射します。方向キーでカーソルを動かします。Bボタンを押すとキャラクターがジャンプし、スタートボタンを押すとアイテムインベントリにアクセスできます。\n\nあなたの目標は、ビームで壁の一部を切り取って、下にいる敵に落とすことです。あまり大きな部分を切り取らないように注意してください。そうしないと、レベルの後半で使える壁の部分がなくなってしまいます。気づかないうちにそうなってしまうこともあります。\n\n敵が建物の頂上に到達すると、触れることでターンを失います。敵は画面の一方に這っていくか、空中に飛び続けます。ただし、ジャンプして避けることも可能ですが、画面から出ると敵の数は減りません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Burning%20Paper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Burning%20Paper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Burning%20Paper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

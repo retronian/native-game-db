@@ -1,0 +1,59 @@
+{
+  "id": "contra-the-alien-wars",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Contra - The Alien Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Contra Spirits",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Contra - The Alien Wars (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "f1c81eb0",
+      "md5": "8d885e185ad2a0cb5c9e3b152bd24583",
+      "sha1": "2e23477eb8738d7fb45e13b02f054422222c9c4f",
+      "sha256": "d8e44a2c2aa67f9afa49365f62802160842aef48d2003a69daeb109813f6f20c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48914
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Contra%20-%20The%20Alien%20Wars%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Contra%20-%20The%20Alien%20Wars%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Contra%20-%20The%20Alien%20Wars%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

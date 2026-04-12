@@ -1,0 +1,68 @@
+{
+  "id": "panel-no-ninja-kesamaru",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Panel no Ninja Kesamaru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パネルの忍者ケサマル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Panel no Ninja Kesamaru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "12caa1ca",
+      "md5": "4ead57f6fb441fb86a78922f1288ee40",
+      "sha1": "67f8dea045bc2d01c00936a66cd4b56b10fa0f39",
+      "sha256": "dbb66aedc5ee955fd42ce3b943e7e2bbd54e233ea5cd9fc996b2503e0976542c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 305208
+  },
+  "descriptions": [
+    {
+      "text": "姫が悪魔の一族にさらわれてしまい、パネルをひっくり返す忍者ケサマルが彼女を救うために立ち上がります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-05-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Panel%20no%20Ninja%20Kesamaru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Panel%20no%20Ninja%20Kesamaru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Panel%20no%20Ninja%20Kesamaru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

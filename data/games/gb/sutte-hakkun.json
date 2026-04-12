@@ -1,0 +1,47 @@
+{
+  "id": "sutte-hakkun",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sutte Hakkun",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "すってはっくん",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 176000
+  },
+  "roms": [
+    {
+      "name": "Sutte Hakkun (Japan) (Proto) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "bee3a291",
+      "md5": "69c43603ad7718b7b2ec0c48b63cdc49",
+      "sha1": "968f87c3479a571d8e3e82c76e0a2d1d490b349c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sutte%20Hakkun%20%28Japan%29%20%28Proto%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

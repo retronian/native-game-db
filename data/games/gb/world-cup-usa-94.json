@@ -1,0 +1,88 @@
+{
+  "id": "world-cup-usa-94",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Cup USA 94",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドカップ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "60231f83",
+      "md5": "83d0886e246045cfa5b12b7861521c04",
+      "sha1": "1bd9910825a1ba3a9a9ad9084c8be0af04f2545f",
+      "sha256": "a8f04cce865ee0afaee2e8446c72e7ed581b8630740b2ed1abf9600f16594e6c"
+    },
+    {
+      "name": "World Cup USA 94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9d27f9de",
+      "md5": "17142af806c86f45808a94550f2303d8",
+      "sha1": "6f9fb96a4551b4c5b3c6d8928b9a561d1cc28acd",
+      "sha256": "706ffa999fe64ec3f7a72318f52966924a499ea01b989a9f6e8c0f725743c9fa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365668
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Cup%20USA%2094%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Cup%20USA%2094%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Cup%20USA%2094%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/World%20Cup%20USA%2094%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Cup%20USA%2094%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/World%20Cup%20USA%2094%20%28Japan%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

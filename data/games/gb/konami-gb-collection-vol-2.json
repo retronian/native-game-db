@@ -1,0 +1,103 @@
+{
+  "id": "konami-gb-collection-vol-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konami GB Collection Vol.2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コナミGBコレクション Vol.2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクションVol.2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミ GB コレクション Vol.4",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Konami GB Collection Vol. 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konami GB Collection Vol.2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c3b318cd",
+      "md5": "e107e33ec2ce9a3f8e6e107f65abb070",
+      "sha1": "5753310cb9fbe44efc2b27ce488cd069ef243199",
+      "sha256": "0079143ada820fc7d95f3f6ae9faa85feb372ec696a23e992fe9da774a6d298a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50045
+  },
+  "descriptions": [
+    {
+      "text": "「コナミGBコレクション Vol. 2」は、1つのカートリッジに4つのコナミタイトルを収めた続編です：\nブロックゲーム\nフロッガー\nパロディウス\nトラック＆フィールド\nすべてのゲームはGBCでカラーでプレイでき、オリジナルのゲームボーイハンドヘルドでは白黒でプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Konami%20GB%20Collection%20Vol.2%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konami%20GB%20Collection%20Vol.2%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konami%20GB%20Collection%20Vol.2%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

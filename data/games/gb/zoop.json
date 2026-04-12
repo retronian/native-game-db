@@ -1,0 +1,112 @@
+{
+  "id": "zoop",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ズープ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoop (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "10e1a10c",
+      "md5": "0b10a49804c027c57201c61835acad77",
+      "sha1": "89a74970761700d591c2affc47c9306f49d22ba8",
+      "sha256": "b8e3271795ada49e573ba7503d8a854ef77d67b004155c181844e8325d40caab"
+    },
+    {
+      "name": "Zoop (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "14f8b6bb",
+      "md5": "2387654e0e8e63bfc5f85d9bd7aa6ac3",
+      "sha1": "1e0390d456066b9fbe1faff5f7404d4593a2b839",
+      "sha256": "e67484157358ba714f5d4c9c0591c4a4cc92bc41cd17352e60484b361a98f793"
+    },
+    {
+      "name": "Zoop (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "7b440074",
+      "md5": "d526aa32fb92d3721a16d79527bcacc1",
+      "sha1": "97a6ea993bf5b64e38e3bc0adaf5965b442c9cee",
+      "sha256": "6c35206224d392e53c077d665cbbff58706ed12cbeb3d19b2fcedf45cb8a41f8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 301393
+  },
+  "descriptions": [
+    {
+      "text": "ズープは、プレイヤーが自分の分身である別の色の形に近づいてくる色付きの形を、上に到達する前に排除する高速パズルゲームです。これは、ある意味でテトリスに似ています。\n\n他の形を排除するためには、自分のピースをその形に向けて「発射」しなければなりません。もしその形が自分のピースと同じ色であれば、その形とその後ろにある同じ色の形もすべて排除されます。ただし、自分のピースが異なる色の形に当たるまで続きます。もしその形が異なる色であったり、同じ色の形を集めているときに当たった場合、自分のピースはその形と色を交換します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Zoop%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zoop%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zoop%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Zoop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zoop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zoop%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zoop%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

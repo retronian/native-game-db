@@ -1,0 +1,74 @@
+{
+  "id": "pri-pri-primitive-princess",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pri Pri - Primitive Princess!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プリプリ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プリプリ PRIMITIVE PRINCESS!",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pri Pri - Primitive Princess! (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "55da3515",
+      "md5": "24186cb8ef3210c00b9c227c71b9db73",
+      "sha1": "fea367a2fc321daeae59746ee2cb7ffafd51479a",
+      "sha256": "5080f24eaf0f6c21d0e82b315a4e194b6c90d4ce8737844a855c62047cb6fe18"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66205
+  },
+  "descriptions": [
+    {
+      "text": "落ちてきた宝石を拾い集めながら、塔の頂上を目指すアクションパズルゲームです。目標を妨げるモンスターは、穴を掘ってその中に落とすことで排除できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pri%20Pri%20-%20Primitive%20Princess%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pri%20Pri%20-%20Primitive%20Princess%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pri%20Pri%20-%20Primitive%20Princess%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

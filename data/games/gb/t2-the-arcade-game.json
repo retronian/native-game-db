@@ -1,0 +1,87 @@
+{
+  "id": "t2-the-arcade-game",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "T2 - The Arcade Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "T2ザ・アーケードゲーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "T2 ザ・アーケードゲーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "T2 - The Arcade Game (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7ec795fa",
+      "md5": "83f5da7271a970c28cb2a1f366e89616",
+      "sha1": "363edd30041b562ce522f68e451feee5e94ef03f",
+      "sha256": "e2d8bd9378266faa391f848fe2106b48a8086cffc198c090638fb17a9437aef2"
+    },
+    {
+      "name": "T2 - The Arcade Game (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "00f09c7f",
+      "md5": "43e26f216d50106a8fccbcc04cda0c29",
+      "sha1": "a362a05b2616bca1375d3f4f979d12bdb9bca53a",
+      "sha256": "f55e542cc82dc5fbefc0fc5f42e95e882fba7895e73a8ff084ce7aa8408bdd85"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228788
+  },
+  "descriptions": [
+    {
+      "text": "タイトルが示すように、これは映画「ターミネーター2：ジャッジメント・デイ」に基づいたアーケードのレールシューティングゲームの家庭用移植版です。最大2人のプレイヤーが、人間の抵抗勢力に仕えるよう再プログラムされたロボットキラーたちと共に、未来と現在のレベルを撃ち抜きます。\n\n両プレイヤーは無限の弾薬を持つマシンガンを操り、連続で発射すると発射レートが低下（オーバーヒート）します。サブ武器（未来ではミサイルランチャー、現在ではショットガン）は弾薬が限られていますが、大きなダメージを与えます。ゲーム内のパワーアップにはサブ武器の弾薬やマシンガン用の冷却剤が含まれ、撃って集めることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/T2%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

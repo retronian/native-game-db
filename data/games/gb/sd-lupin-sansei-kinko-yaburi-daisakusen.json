@@ -1,0 +1,68 @@
+{
+  "id": "sd-lupin-sansei-kinko-yaburi-daisakusen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Lupin Sansei - Kinko Yaburi Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルパン三世 Lupin The Third 金庫破り大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Lupin Sansei - Kinko Yaburi Daisakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "f0b73db4",
+      "md5": "4ea04ab8fcea4c41f26e44bb4f50d73e",
+      "sha1": "758ff1bf4fe54feba8750238cd062a1ad37843e7",
+      "sha256": "01c54794191aa9e44d05844ca8fd4fec33dda300371d75a5ce30c2ccf4fb287b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66206
+  },
+  "descriptions": [
+    {
+      "text": "ルパン三世のキャラクターたちが登場するアクションパズルゲームです。鍵を手に入れて金庫を盗むことで画面をクリアしましょう。アイテムを取得すると、あなたの仲間も登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/SD%20Lupin%20Sansei%20-%20Kinko%20Yaburi%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/SD%20Lupin%20Sansei%20-%20Kinko%20Yaburi%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/SD%20Lupin%20Sansei%20-%20Kinko%20Yaburi%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

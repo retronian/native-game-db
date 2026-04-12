@@ -1,0 +1,51 @@
+{
+  "id": "breakthru",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "BreakThru!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "BreakThru! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5b8f0df2",
+      "md5": "797580a91cf9dc710c37f5af04dbbca5",
+      "sha1": "d9a49a71e6b554c2fccce08c446274e886225d50",
+      "sha256": "fccffd68702a3eaaab6ca41652174fa8b9f66e94ee630307af011b8b30ad8846"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344061
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/BreakThru%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/BreakThru%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/BreakThru%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

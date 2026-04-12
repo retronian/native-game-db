@@ -1,0 +1,77 @@
+{
+  "id": "double-yakuman",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Yakuman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダブル役満",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ダブル役満II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Yakuman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "252c32b5",
+      "md5": "d39462c174c7ae4e15680301dbae1c35",
+      "sha1": "24dd6ba6a82ca3e6aca44aa471cf03d08371dc80",
+      "sha256": "2d0fa49bbf6ca4789b8b1d789b744d70c8639a3a620f85ccce69714657817951"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59756
+  },
+  "descriptions": [
+    {
+      "text": "ボードゲーム専門のVAPエディターが、麻雀愛好者を喜ばせるために有名なシリーズ「役満」のエピソードを提供します。技術的にはタイトルはかなりシンプルで、すべてが黒い背景の上で展開され、タイルがあまりはっきりと見えませんが、このゲームはゲームボーイではかなり珍しいジャンルに挑戦している点で評価されます。比較的良い評判を得ている作品で、最大2人のプレイヤーが楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Double%20Yakuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Double%20Yakuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Double%20Yakuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

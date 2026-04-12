@@ -1,0 +1,92 @@
+{
+  "id": "bonk-s-adventure",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bonk's Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "B.C. Kid",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "GB 原人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "GB Genjin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bonk's Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "a7cdbb96",
+      "md5": "79d6e6515905ec3fbcbd9e50ff469000",
+      "sha1": "e27d941af0a006c4f5ffd03914265146aa140e2c",
+      "sha256": "6081309e7f5b63e4f6694965060c68baf82a775eb18e667c2c89898096e6e3d8"
+    },
+    {
+      "name": "Bonk's Adventure (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "8d706dbc",
+      "md5": "83747bb1b6245c67241b9002861397b8",
+      "sha1": "a26006158d90a61d22abf130f05297fd09a09b7c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98703
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bonk%27s%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bonk%27s%20Adventure%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

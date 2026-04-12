@@ -1,0 +1,74 @@
+{
+  "id": "momotarou-densetsu-gaiden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Densetsu Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "桃太郎伝説外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Densetsu Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ba5611ef",
+      "md5": "5526c1396e574e92ec8f467c0de80377",
+      "sha1": "1a819534e7e29a17d5644ef190998cea781a69a6",
+      "sha256": "ba451301d8e3015afc1b14bf8afff9dc5a96e0a0aadd9fcdf861d5c1bb9a59d3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎伝説外伝は、ハドソンが開発・発売したロールプレイングゲームで、1991年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

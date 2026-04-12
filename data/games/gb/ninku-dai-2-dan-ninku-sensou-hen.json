@@ -1,0 +1,65 @@
+{
+  "id": "ninku-dai-2-dan-ninku-sensou-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninku Dai-2-dan - Ninku Sensou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍空 第2弾 忍空戦争編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninku Dai-2-dan - Ninku Sensou Hen (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "7f818772",
+      "md5": "c83cfed9c0cc9043eed5f761550de64c",
+      "sha1": "52d3ab8b84e3e825280c6b5db80933ace1aa5909",
+      "sha256": "82b4b2eb4bd831de24a31d23bb80a43a48c06a58f25727ae285de76e993c68fe"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ化もされた同名のコミックゲーム。サイコロを振って出た目だけで進むすごろくタイプのゲームです。止まったマスではイベントやバトルが発生します。バトルはコマンド選択で行います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-11-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ninku%20Dai-2-dan%20-%20Ninku%20Sensou%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ninku%20Dai-2-dan%20-%20Ninku%20Sensou%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ninku%20Dai-2-dan%20-%20Ninku%20Sensou%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

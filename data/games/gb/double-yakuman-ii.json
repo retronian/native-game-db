@@ -1,0 +1,68 @@
+{
+  "id": "double-yakuman-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Yakuman II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダブル役満II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Yakuman II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a3d77a55",
+      "md5": "400cb2ad3d7ee30483b28f5f098a5bb7",
+      "sha1": "7f6ed21bf0cce0d524dcbce56af5cab61c85d729",
+      "sha256": "3ef0410f6e472aea583b0e79f7c1ff6cf70ca6e2f0ca7c571d1508a17fee1151"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59749
+  },
+  "descriptions": [
+    {
+      "text": "前作の成功を受け継いだ「ダブル役満II」は、AIが管理する3人のプレイヤーと対戦できるという興味深い新要素を提供する、類似のタイトルです。ケーブルリンクを介した2人プレイも引き続き利用可能です。なお、興味深いことに、音楽は山根一仁（ダブルドラゴン）によるものです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Double%20Yakuman%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Double%20Yakuman%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Double%20Yakuman%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

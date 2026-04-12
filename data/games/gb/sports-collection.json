@@ -1,0 +1,68 @@
+{
+  "id": "sports-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sports Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スポーツコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sports Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "24dd09e0",
+      "md5": "fe0ac40641bc533a4a011898c0c15139",
+      "sha1": "23c51363b64bd7ce2f2581e1fe9c5368fd8d8afb",
+      "sha256": "24e9b6dfcc912b8bc3419b77f2f557a97e0ad86a506ed0d31d767074e9caf62a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79444
+  },
+  "descriptions": [
+    {
+      "text": "スポーツコレクションは、以下のゲームのコレクションです：\n\nインディアナポリス500：ザ・シミュレーション  \nスターバイトスーパーフットボール  \nタイブレイク",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-09-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sports%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sports%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sports%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

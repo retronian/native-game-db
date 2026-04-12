@@ -1,0 +1,60 @@
+{
+  "id": "penta-dragon",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Penta Dragon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ペンタドラゴン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Penta Dragon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1e2efaee",
+      "md5": "df43e0adfdc74b2829c7e95e91c71a28",
+      "sha1": "fd75d43258e79f14d104fb4756e219141882c837",
+      "sha256": "2f32570cff62b8664bfa06b939988c3fd6a7efabf870a990a5fa65bab37eac30"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49139
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Penta%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Penta%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Penta%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

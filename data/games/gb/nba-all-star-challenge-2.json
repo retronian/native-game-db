@@ -1,0 +1,70 @@
+{
+  "id": "nba-all-star-challenge-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NBA All-Star Challenge 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "NBAオールスターチャレンジ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "NBA All-Star Challenge 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "df9db013",
+      "md5": "6afac3034f2a07a58c1d08b69ed43b9b",
+      "sha1": "a19b5fcff89e5e58efb19449ace3d8f83a18ea78",
+      "sha256": "b21189f79e0034780ba390e3a6129b2e070b3be98df1836f90d2306b2a8de9c1"
+    },
+    {
+      "name": "NBA All-Star Challenge 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c27c0289",
+      "md5": "0a1ea6552eb8daf756824adb1f498559",
+      "sha1": "a07672471909cace9e9765bce6a05a8ab74d55d4",
+      "sha256": "1123a124dc8f882b148994362a094886a32147ad69c6d5ba4ffbdebd414cb996"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49010
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/NBA%20All-Star%20Challenge%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/NBA%20All-Star%20Challenge%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/NBA%20All-Star%20Challenge%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

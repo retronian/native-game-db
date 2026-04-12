@@ -1,0 +1,65 @@
+{
+  "id": "seaside-volley",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Seaside Volley",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シーサイドバレー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Seaside Volley (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "79afe59e",
+      "md5": "5d07f39b93c83683c2c77ed31ec66048",
+      "sha1": "42ec788b74b03000164533c87cab0292b0d37995",
+      "sha256": "77599ff6a546460dc3bb696c1b9b33974ffb8c8416eccd8f91ea36347dd94875"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マリブビーチバレーボールでは、プレイヤーは2対2のビーチバレーボールの試合で競い合います。プレイヤーはアメリカ、ジャパン、イタリア、ブラジルの4つの国の男子または女子チームから選ぶことができます。試合は1ゲームまたは3ゲームのベスト形式で行うことができます。\n\nゲームプレイはバレーボールの典型的なルールに従います。プレイヤーはボールを相手のコートに落とすことでポイントを獲得しようとします。ボールをバンプしたりスパイクしたりするなど、典型的なバレーボールの動きも含まれています。試合は、いずれかのチームの得点が設定されたポイントに達すると終了します。\n\nオプションでは、プレイヤーが音楽をオンまたはオフにすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-10-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Seaside%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Seaside%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Seaside%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

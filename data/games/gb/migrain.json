@@ -1,0 +1,62 @@
+{
+  "id": "migrain",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Migrain",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミグレイン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Migrain (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "ced936f8",
+      "md5": "78fb0bd56717488e313aeb3e47f936c8",
+      "sha1": "98ea7eab4048cbd0e4aa5f88e9a831e522c493d5",
+      "sha256": "82ee9ed12033be884e9cdfb57c736be26510c1df7a1f1c890ee05ec2f5a3d8b5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ミグレインは、目標を達成するために鏡を操作するユニークなパズルゲームです。ガス球、衛星、コンピュータ制御の「エレクトロブレイン」などの特定の障害物を排除しながら、120のレベルを進んでいきます。鏡を使ってレーザービームを反射させることで、課題をクリアしていきます。パスワードシステムを利用して、進行状況を再開することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Migrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Migrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Migrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "gb-basketball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Basketball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GBバスケットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "GB バスケットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Basketball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "d9b24d21",
+      "md5": "f97902058640f3700b5acff422969ba3",
+      "sha1": "65f73db2942d400a4c555fbcfd6313f07303d4e4",
+      "sha256": "f846c4e1304e5b6a50d0f2c3d798ea6d2890c25eb058791408964f1b9b63a42c"
+    },
+    {
+      "name": "GB Basketball (Japan) (En) (Beta) (1992-12-10)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2eda2d4c",
+      "md5": "3b3fa3dd77c2aec53856210d8311fa6d",
+      "sha1": "40d9287267598c23b24300f7e9f6e11cbfcc53a2",
+      "sha256": "58154e2958303e3ada7fe49c5e9379c4c8a4e176b642f48c97df4001e9d3bf17"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49084
+  },
+  "first_release_date": "1993-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/GB%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GB%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GB%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "baseball-kids",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Baseball Kids",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベースボールキッズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Baseball Kids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a503cb07",
+      "md5": "cb62a0dd667ff4fc2f4ebe6f0aef955f",
+      "sha1": "e4a49a9ecd7a9ce8bb552981e90903f21c741428",
+      "sha256": "844f18524468d05b1ec3981a55d28639514170ecb07a74754b11dde098bf5827"
+    }
+  ],
+  "first_release_date": "1990-03-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Baseball%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Baseball%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Baseball%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "vs-battler",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "VS Battler",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "VSバトラー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "VS Battler (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "20ae389a",
+      "md5": "b394b99267da2b55c74fc67c369c1057",
+      "sha1": "5f99c7767cbbf5ad9164805214875d7054f49f14",
+      "sha256": "dca1bd191450f98cf0e6583cfbf2e1a557b63fdd8aae250b86a8720361c6777a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バイオニックバトラーは、昔ながらの「かくれんぼ」を基にしたバトルゲームです。プレイヤーのキャラクターは、2つのバイオニックバトルスーツのいずれかを装着し、人類の存在を壊滅させようとするバイオニックバトルボットを倒すために、5つの戦争の迷宮を探索しなければなりません。各迷宮では、プレイヤーは生き残るために一定数のバトルボットを探し出して破壊する必要があります。しかし注意が必要です。バトルスーツはバトルボットと同じ能力を備えているものの、受けられるダメージには限界があります。あまりにも多くの攻撃を受けると、バトルスーツと私たちの知っている生活が破壊されてしまいます。しかし、プレイヤーは仲間とチームを組んで人類を救うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/VS%20Battler%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/VS%20Battler%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/VS%20Battler%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

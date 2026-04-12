@@ -1,0 +1,79 @@
+{
+  "id": "tsumeshougi-kanki-godan",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsumeshougi - Kanki Godan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "詰将棋 神吉五段",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsumeshougi - Kanki Godan (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "d5434c94",
+      "md5": "f44bd95417b6a3d229282b0f5fb9bd53",
+      "sha1": "2e54faf9f97b6e590caacb26294bdafe40ca7214",
+      "sha256": "ee2931be18b16e76250d1893856de844f844cf2ac0d587b5d97ece24cc146241"
+    },
+    {
+      "name": "Tsumeshougi - Kanki Godan (Japan) (Beta) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "9995ee1a",
+      "md5": "b0afdadb0804b98cd2ba41e2c59e251f",
+      "sha1": "eae6cdb4425ddae51bee0e7d0aa956b72e897743",
+      "sha256": "335b9572f901375045abcb9543d02c55ba23e832e65c830f9e49cd422a8becbb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tsumeshougi%20-%20Kanki%20Godan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tsumeshougi%20-%20Kanki%20Godan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tsumeshougi%20-%20Kanki%20Godan%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tsumeshougi%20-%20Kanki%20Godan%20%28Japan%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tsumeshougi%20-%20Kanki%20Godan%20%28Japan%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

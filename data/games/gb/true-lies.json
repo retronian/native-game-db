@@ -1,0 +1,51 @@
+{
+  "id": "true-lies",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "True Lies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "True Lies (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "edec63e6",
+      "md5": "c013958fa8447be55f1e037ed4a1a9f9",
+      "sha1": "95dda9821e6755c12fec9d4c0c9db8bb515843a6",
+      "sha256": "327ff2f48830dcdafad25c188f84159b327b4f535c97f37acf0e5bf93e9cd25a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 201742
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/True%20Lies%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/True%20Lies%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/True%20Lies%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

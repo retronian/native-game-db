@@ -1,0 +1,68 @@
+{
+  "id": "aretha",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aretha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アレサ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aretha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "1db65649",
+      "md5": "9c23d37d51a593e82378dad038a52ef2",
+      "sha1": "eab8f13d110634f4ee750ac93e4f25d91a85000f",
+      "sha256": "b9bb5b4d3274a7f4c443bd8fb2bf5f1018358d76a54c01e3a53f7ff610fa4fa6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 222820
+  },
+  "descriptions": [
+    {
+      "text": "遠い国で、悪の支配者が彼の軍隊を送り、強大な王の城を侵略しようとしていました。彼の手下たちは城を襲撃し、焼き払いました。王は運命から逃れることができず、悪党は誰も彼の怒りから逃れられないと思っていました...\n\n現在。あなたはアリエル、小さな山脈の近くの森の北にある小さな家に住む、賢い祖母と一緒に暮らす10歳の女の子です。祖母は彼女に一見簡単な任務を与えます：森を通り抜けて近くの町ニネベに行き、そこである人物に会うこと。しかし、単なる任務が、アレサの魔法の力を求める冒険、悪に対する究極の戦い、そしてアリエル自身の真のアイデンティティの発見へと発展していきます。\n\nこのゲームはコンソールスタイルのRPGで、アリエルと彼女の仲間たちは世界地図を旅し、森や山道、洞窟を通り抜け、時折町を訪れ、ターン制の戦闘でモンスターと戦います。戦闘は一人称視点で行われ、さまざまな物理攻撃や特殊攻撃を使用します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Aretha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Aretha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Aretha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

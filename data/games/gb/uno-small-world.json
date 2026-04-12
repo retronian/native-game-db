@@ -1,0 +1,77 @@
+{
+  "id": "uno-small-world",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uno - Small World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "UNO スモールワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スモールワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uno - Small World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a37c022d",
+      "md5": "fe877b7ac3f3093144907f4c971fa940",
+      "sha1": "4a0eb686cbee455197e0890210fade5c21b4954b",
+      "sha256": "56b00fb68b829dabe56e88f3074316ee2f3022a15c6f45bd70bda5e8f62c2e8f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61393
+  },
+  "descriptions": [
+    {
+      "text": "ウノ：スモールワールドは、トミー株式会社が出版した雑多なゲームで、1993年に日本で発売されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Uno%20-%20Small%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Uno%20-%20Small%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Uno%20-%20Small%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

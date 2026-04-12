@@ -1,0 +1,79 @@
+{
+  "id": "seaquest-dsv",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "seaQuest DSV",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "seaQuest DSV (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "31a3bd99",
+      "md5": "af8022daa8b774c666fcc65961c8bd4a",
+      "sha1": "e9572941b35f119746b995f7fe578c31ef778026",
+      "sha256": "384885e8eb8c7396a8c7df08729f61022cc740b3234a8d35bebe17cc7aef3c71"
+    },
+    {
+      "name": "seaQuest DSV (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "229aee8e",
+      "md5": "5683738a97c8de47b1c485bddf97b46b",
+      "sha1": "0dbe828e797458a99a37e93bbd34d2547d99523c",
+      "sha256": "c84a5e260b48e0879ab927386d5f96dc3c69c8ee7226561f87b2ab67a36bf142"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138802
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/seaQuest%20DSV%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

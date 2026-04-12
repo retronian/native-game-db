@@ -1,0 +1,74 @@
+{
+  "id": "nettou-samurai-spirits-zankurou-musouken",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nettou Samurai Spirits - Zankurou Musouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "熱闘 Deadhead Fighters サムライスピリッツ 斬紅郎無双剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "熱闘サムライスピリッツ 斬紅郎無双剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nettou Samurai Spirits - Zankurou Musouken (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "995d0838",
+      "md5": "4426b35ef04094f9c5518d6fb6414d55",
+      "sha1": "0ba93965808f7a96c92a85289678e16b41cb09ec",
+      "sha256": "4681769ede9cbaa7c5e2d3dcf56dda539c074ac4b7f12588abd37e6f482b45d6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「熱闘サムライスピリッツ」シリーズの続編です。今回は「サムライスピリッツ 斬紅郎無双剣」がゲームボーイ用にキャラクターを変形させて移植されました。「修羅」と「羅刹」の2種類から選べるシステムは健在です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

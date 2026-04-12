@@ -1,0 +1,76 @@
+{
+  "id": "snow-brothers",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Snow Brothers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Snow Brothers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "9014b3d8",
+      "md5": "a94e7294260b4266af7d0283c95f0018",
+      "sha1": "fe6754976f6758a91d2594d7cb9781ca0a340a90",
+      "sha256": "4f73d6e4d79c4495952fe2a8728fb93910490f1d90105061a384b7efcdd9b3c7"
+    },
+    {
+      "name": "Snow Brothers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d45a1daa",
+      "md5": "b4cee49981c3124df8bbd40a60426f9e",
+      "sha1": "3798924873d76952810b28925662f9cf805a17cc",
+      "sha256": "aba1654c1ab347a08d3f2bf9d175e8f4881334d152f9cea9bf86125522cbbf6f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Snow%20Brothers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Snow%20Brothers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Snow%20Brothers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Snow%20Brothers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Snow%20Brothers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Snow%20Brothers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

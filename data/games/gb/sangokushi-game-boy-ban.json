@@ -1,0 +1,77 @@
+{
+  "id": "sangokushi-game-boy-ban",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sangokushi - Game Boy Ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "三國志 ゲームボーイ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "三國志ゲームボーイ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sangokushi - Game Boy Ban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "83706e92",
+      "md5": "85082bcbda4febf4e9e05fa0679940b4",
+      "sha1": "e94128d58341caaee595ed75292908a9ac5a466d",
+      "sha256": "a9b8c50c84b6f33ec29025a76420d5ad098d6b1b99ea9798976d758755f73256"
+    }
+  ],
+  "external_ids": {
+    "igdb": 349837
+  },
+  "descriptions": [
+    {
+      "text": "これは、PCやNESゲームの定番である戦国時代のシミュレーションです。今回は、従来のヘックスバトルに加えて、大名同士の勝者総取りのバトルが追加されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sangokushi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sangokushi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sangokushi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

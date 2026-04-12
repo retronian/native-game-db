@@ -1,0 +1,74 @@
+{
+  "id": "chalvo-55-super-puzzle-action",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chalvo 55 - Super Puzzle Action",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チャルボ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "チャルボ55",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chalvo 55 - Super Puzzle Action (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "74d50b47",
+      "md5": "ba50565630891680c9cf8b1827fca429",
+      "sha1": "55aad975351670c3f632e1ebcc939c48410d29b3",
+      "sha256": "410c1f24cb9b7617f36140b461cbe8ad32d8ea11f08cd9a9aba149c0abe3888d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "悪魔のように巧妙にデザインされたレベルをジャンプして跳ね回り、ボスを倒すために必要なクリスタルを集める、未発売のバーチャルボーイゲーム「バウンドハイ」の続編「チャルボ」。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-02-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chalvo%2055%20-%20Super%20Puzzle%20Action%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chalvo%2055%20-%20Super%20Puzzle%20Action%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chalvo%2055%20-%20Super%20Puzzle%20Action%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

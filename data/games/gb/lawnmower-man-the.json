@@ -1,0 +1,99 @@
+{
+  "id": "lawnmower-man-the",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lawnmower Man, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バーチャル ウォーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Virtual Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lawnmower Man, The (USA) (Proto 1) (1993-10-11) (Not For Resale)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "1cac0775",
+      "md5": "bc4576a905da6160758264e6b070f8d0",
+      "sha1": "589eedd3919dd29cbdf6fd9c2fa6b4f1c258fc97"
+    },
+    {
+      "name": "Lawnmower Man, The (USA) (Proto 2) (1993-11-10)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "545613e9",
+      "md5": "02069fbf36f31f5d01adc1ac4d9d0770",
+      "sha1": "4e06c18e90a4100f2776e4fffb5673e622bb8053",
+      "sha256": "c8630f058c7bef84c8bbf93e40f39035e2c0dbd5ec6666454c4096a6c1d3f969"
+    },
+    {
+      "name": "Lawnmower Man, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "134f91d7",
+      "md5": "0bd1cf9c439b7095a64b4f76a5d16021",
+      "sha1": "6e63a725fc802966986e6ed6917a7b976794f403",
+      "sha256": "26c7fd748c4f34b6c091870ebaa0d4798216df6389642493681deb644752508c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 295046
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lawnmower%20Man%2C%20The%20%28USA%29%20%28Proto%201%29%20%281993-10-11%29%20%28Not%20For%20Resale%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lawnmower%20Man%2C%20The%20%28USA%29%20%28Proto%202%29%20%281993-11-10%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lawnmower%20Man%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lawnmower%20Man%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lawnmower%20Man%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

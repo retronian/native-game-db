@@ -1,0 +1,68 @@
+{
+  "id": "sanrio-carnival-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Carnival 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオカーニバル2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Carnival 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "758c7b2a",
+      "md5": "fe9c96c1d212d9cbc7c6f25946a87059",
+      "sha1": "7ff76205c59cd090fdc91b2d8c57cb44fd4b009b",
+      "sha256": "865f9b0575c59adca904f5e138845efff2e2e2ba690b22ecb291a2b0baf337cf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48637
+  },
+  "descriptions": [
+    {
+      "text": "人気のサンリオキャラクター、ケロッピやキティが登場するアクションパズルゲームです。モードは「キャンディパズル」と「パネルパズル」の2種類があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

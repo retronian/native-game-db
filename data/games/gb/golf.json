@@ -1,0 +1,55 @@
+{
+  "id": "golf",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Golf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "ゴルフ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Golf (World)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "6ed10383",
+      "md5": "6175a5ef55a1998944267e75d8ebf79d",
+      "sha1": "2acee1a14ba611e73b0b7d6bce170107213fcc0c",
+      "sha256": "896d9ffbdfe35c802cdcb66b5a6ce84a4ad6bc356c85067904883944a621cbb4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 86354
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Golf%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Golf%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Golf%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "jimmy-connors-tennis",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jimmy Connors Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ジミーコナーズのプロテニスツアー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jimmy Connors Tennis (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "9b7ebf91",
+      "md5": "bf01b798de6b41d301827a4c943a9e45",
+      "sha1": "d1f93db9a95c9023241e72fe0d7f9848322b53aa",
+      "sha256": "ad32f0f3f55f3d42609cf5dc08fc57c5c05d233e1b923ac6be3a62507d420a56"
+    },
+    {
+      "name": "Jimmy Connors Tennis (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "eb50caf2",
+      "md5": "3ef00d0a0b1e7e359b0246c2cff30477",
+      "sha1": "4ca04a3270e217d54d8c5fa7a254fdbcb48c5b87"
+    },
+    {
+      "name": "Jimmy Connors Tennis (USA, Europe) (1993-03-19) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "4ee3e02e",
+      "md5": "a7e6b3415bd33f306c342f5b71493154",
+      "sha1": "06c9018f7943362f8b9571486b6412de11672718",
+      "sha256": "0b1f15c6ab2bbdf1e2c4138a18be8bf480d0b2144589cfebd2058415fadc2d77"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365696
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jimmy%20Connors%20Tennis%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jimmy%20Connors%20Tennis%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jimmy%20Connors%20Tennis%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jimmy%20Connors%20Tennis%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jimmy%20Connors%20Tennis%20%28USA%2C%20Europe%29%20%281993-03-19%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

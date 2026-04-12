@@ -1,0 +1,62 @@
+{
+  "id": "battlecity",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "BattleCity",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルシティー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "BattleCity (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "a37a814a",
+      "md5": "e6980267d58310af5ad57570045a95fa",
+      "sha1": "5c9a6077913b344c8889241ec5f9fdaac7f24c8b",
+      "sha256": "c38fc7e54ed27bd82c9829a6535f5be0d2ff81822863ab9c088bf345ab01b734"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バトルシティーは、ナムコの古いアーケードゲーム「タンク大隊」の洗練されたバージョンです。敵のタンクを破壊しながら、あなたの基地を守りましょう。20台の敵タンクを破壊すると、異なるレイアウトの次のレベルに進むことができます。各レベルには、あなたの利点として利用できる障害物があります。障害物には、撃ち抜くことができる赤レンガ、非常に装甲が厚い銀レンガ、水、氷が含まれています。ゲームは基本的なタンクから始まり、少しずつ強化していくことができます。\n\nNES版には建設モードがあり、35のオリジナルレベルをクリアした後に自分だけのレベルを作成することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

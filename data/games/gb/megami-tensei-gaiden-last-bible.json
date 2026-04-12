@@ -1,0 +1,77 @@
+{
+  "id": "megami-tensei-gaiden-last-bible",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Megami Tensei Gaiden - Last Bible",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "女神転生外伝 Last Bible ラストバイブル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "女神転生外伝ラストバイブル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Megami Tensei Gaiden - Last Bible (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "fe9dd4c0",
+      "md5": "2215684318211e85135c4cd8e55f91a4",
+      "sha1": "537b38234da5164335e98f6aee3b792048624626",
+      "sha256": "29cd752ce9589e77bb041c6b3d736bb6b24463305f996641eb1cd2c0be5a0c67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49830
+  },
+  "descriptions": [
+    {
+      "text": "「女神転生外伝 ラストバイブル」は、マルチメディアインテリジェンストランスファーが開発し、セガが発売したロールプレイングゲームで、1994年に日本でリリースされました。これは人気の「女神転生」RPGシリーズの最後のタイトルです。通常のストーリーモードに加えて、友達の悪魔と対戦できるモードもあります。女神転生の小さなバージョンで、マップは小さく、ストーリーは少し強引な展開になっています。これはおそらくゲームボーイの容量の制限によるものです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Megami%20Tensei%20Gaiden%20-%20Last%20Bible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Megami%20Tensei%20Gaiden%20-%20Last%20Bible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Megami%20Tensei%20Gaiden%20-%20Last%20Bible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

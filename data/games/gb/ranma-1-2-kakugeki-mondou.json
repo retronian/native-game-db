@@ -1,0 +1,77 @@
+{
+  "id": "ranma-1-2-kakugeki-mondou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ranma 1-2 - Kakugeki Mondou!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "らんま½ 格劇問答!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "らんま1/2 格劇問答",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ranma 1-2 - Kakugeki Mondou!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "613e657a",
+      "md5": "f8b0f3889fc7b9936f7e556a3f73825f",
+      "sha1": "57fd028fd44d6096967a3c80afd9e17c38c2513e",
+      "sha256": "23889412bfe8313b461683f4227cc78bb00fb3abaa53db8e3cff87ec7b812010"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49128
+  },
+  "descriptions": [
+    {
+      "text": "人気マンガを基にしたアドベンチャーゲームです。このゲームは人気マンガシリーズを基にしており、動作の順番を考慮して敵と戦うバトルシーンが特徴です。また、原作マンガからの壮大な必殺技もいくつか登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-08-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ranma%201-2%20-%20Kakugeki%20Mondou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ranma%201-2%20-%20Kakugeki%20Mondou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ranma%201-2%20-%20Kakugeki%20Mondou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

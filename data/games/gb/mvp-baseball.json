@@ -1,0 +1,54 @@
+{
+  "id": "mvp-baseball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "MVP Baseball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "MVPベースボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "MVP Baseball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "38c126aa",
+      "md5": "7b040899fa8b62f4c27115c21a4ea881",
+      "sha1": "f0d921d13689d2afe7838eee127bf670439c8d8d",
+      "sha256": "f251ed6959bdd73bb4393cf2af7d728e0208c89129afcdea8053f9bc07fcaab0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/MVP%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/MVP%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/MVP%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

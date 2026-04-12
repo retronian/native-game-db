@@ -1,0 +1,68 @@
+{
+  "id": "animal-breeder",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Animal Breeder",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "あにまるぶりーだー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Animal Breeder (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c2eec22f",
+      "md5": "54cead768696a61b7cd31f91c0c58021",
+      "sha1": "a34b7c4acc4454d96f93a7b04069adbcc3bc75a0",
+      "sha256": "5d0f3973e8ed7c6ba5441e541f695cae42c438c24d00fb165468e09a9d46f5b0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 78715
+  },
+  "descriptions": [
+    {
+      "text": "あにまるぶりーだーは、J-Wingによって出版された戦略ゲームで、1997年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-10-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Animal%20Breeder%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Animal%20Breeder%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Animal%20Breeder%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

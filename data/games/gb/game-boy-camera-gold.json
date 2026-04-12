@@ -1,0 +1,48 @@
+{
+  "id": "game-boy-camera-gold",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Camera Gold",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Camera Gold (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a1a3f786",
+      "md5": "b2999cfb6dacb439f501a71f30f91762",
+      "sha1": "53a0dd6de3ebd0d3495f8bdc377ab08e5074c0ef",
+      "sha256": "b772951adf58dff025e05722c2aa179e0c874b7cb0b844c5cda44f6194df6299"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20Boy%20Camera%20Gold%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Camera%20Gold%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Camera%20Gold%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

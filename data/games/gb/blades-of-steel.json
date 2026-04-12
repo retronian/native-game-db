@@ -1,0 +1,79 @@
+{
+  "id": "blades-of-steel",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blades of Steel",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Blades of Steel (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "f7be0002",
+      "md5": "6e8166c3783d1807d0a8c3b649e583c1",
+      "sha1": "d030c46bc225fc92aa431276d9ae5812a30d6007",
+      "sha256": "e14484b2b5f6e0eff508b3cb99663c9b36b324516d94c3af6419f617672bb74b"
+    },
+    {
+      "name": "Blades of Steel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "e81c9fb9",
+      "md5": "302caa3ceddccc5fba36787b44d25da7",
+      "sha1": "82761dbf5abe276f8e0c82f575356aed87155141",
+      "sha256": "9338af642104f7f286687b2e6e55759917c0db35bc89ef398a92c18570bff681"
+    }
+  ],
+  "external_ids": {
+    "igdb": 280813
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Blades%20of%20Steel%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

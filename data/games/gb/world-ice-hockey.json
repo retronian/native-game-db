@@ -1,0 +1,55 @@
+{
+  "id": "world-ice-hockey",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Ice Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールド・アイスホッケー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Ice Hockey (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "4e345023",
+      "md5": "98e7d7fe08be476b3e8d5989fb8b301c",
+      "sha1": "a4ed60dd7354de12c4af04f874ac1fd648f6684b",
+      "sha256": "d9017ffcdc75defd43de0cfef39f9bb4b61055acd5955418765cbe97ff8c9b33"
+    },
+    {
+      "name": "World Ice Hockey (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d5cd1754",
+      "md5": "efee88a2a4d0a7b9f5b886df04422017",
+      "sha1": "78d1fa0396a47707185043f7f272c09784d311a2",
+      "sha256": "21a91389f9defbd930d67c9dd6187910fb9ceea736a7ce3aa1757df5e5d2080f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/World%20Ice%20Hockey%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

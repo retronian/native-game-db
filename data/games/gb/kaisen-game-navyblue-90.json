@@ -1,0 +1,65 @@
+{
+  "id": "kaisen-game-navyblue-90",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaisen Game - Navyblue 90",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海戦ゲーム ネイビーブルー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaisen Game - Navyblue 90 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8cfeb2e2",
+      "md5": "008ea3be93c0e1d808431dc8728e01f6",
+      "sha1": "60fa3fb83910f548047bbac02627c914a9057372",
+      "sha256": "729e3bee45bf370b9f75ed554528ce4866de49af428a6ca3c0a72ca786f9397f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは海戦ゲーム「ネイビーブルー」のアップグレード版です。前作よりもアイテムが増え、正しい戦略と間違った戦略の重要性が高まっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaisen%20Game%20-%20Navyblue%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaisen%20Game%20-%20Navyblue%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaisen%20Game%20-%20Navyblue%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

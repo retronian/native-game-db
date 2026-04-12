@@ -1,0 +1,68 @@
+{
+  "id": "3-pun-yosou-umaban-club",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "3-pun Yosou - Umaban Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "3分予想 馬番倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "3-pun Yosou Umaban Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "3-pun Yosou - Umaban Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "cafe0d2b",
+      "md5": "d4ebf9cf10dda19dd2bafd1c1673d762",
+      "sha1": "76643f3f3481f7e515a24482779870862dd8b373",
+      "sha256": "b34c4040a99d528b07195719daa9a15c569af8b3addd22124a782f94c71aa86a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91814
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/3-pun%20Yosou%20-%20Umaban%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/3-pun%20Yosou%20-%20Umaban%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/3-pun%20Yosou%20-%20Umaban%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

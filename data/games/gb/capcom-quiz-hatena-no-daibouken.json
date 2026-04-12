@@ -1,0 +1,77 @@
+{
+  "id": "capcom-quiz-hatena-no-daibouken",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Capcom Quiz - Hatena no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カプコンクイズ ハテナ?の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "カプコンクイズ はてな？の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Capcom Quiz - Hatena no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8042afc5",
+      "md5": "4adf20cf4ced9fa2512578c133ad269f",
+      "sha1": "168583ea18e02647f0b35f9bd0365e37bec076cc",
+      "sha256": "f98acdbb9bfd6f833a3ec47b8601eb664e5b981e842b76ab914f3ebdfebdee66"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65171
+  },
+  "descriptions": [
+    {
+      "text": "カプコンクイズ ハテナ?の大冒険は、カプコンが出版した雑多なゲームで、1990年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Capcom%20Quiz%20-%20Hatena%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Capcom%20Quiz%20-%20Hatena%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Capcom%20Quiz%20-%20Hatena%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

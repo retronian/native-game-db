@@ -1,0 +1,65 @@
+{
+  "id": "gb-genjin-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Genjin 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GB原人2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Genjin 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6f7ad5d9",
+      "md5": "b6d07d6830c8517aa96b000d9f3b2bf6",
+      "sha1": "82c1e3dd8b425fb49a1d1c25813002b23963a84a",
+      "sha256": "9aa75cff86f6486a74d7ead281355c694caf49d116b38624c6f0a16154279719"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボンクが帰ってきた！昨年のビデオヒット作が、まったく素晴らしい新しい冒険を通じて暴れまわる！そのラディカルな洞窟の男を手助けして、恐竜王国を邪悪なキング・ドロールIIIから救おう。より大きく、より悪化したボスたち。より強力なパワーアップ。もっと素晴らしい隠された秘密。そして、頭を割りながら笑い転げること間違いなしの、先史時代のアクションが満載の世界が待っている。人類の最もクールな時代、ボンク時代に戻って、ボンクしよう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/GB%20Genjin%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GB%20Genjin%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GB%20Genjin%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

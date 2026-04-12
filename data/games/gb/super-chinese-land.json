@@ -1,0 +1,65 @@
+{
+  "id": "super-chinese-land",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Chinese Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーチャイニーズランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Chinese Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "037d966a",
+      "md5": "05919b282f38abb78c82740733f4df79",
+      "sha1": "1810b088f5cb395512a04ba6a3c47d9ab74aa8cc",
+      "sha256": "1a3841dfc6ccf87167d7b1f0ce17f3bbf9fd64445611e249f5902e8824e17483"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ニンジャボーイ」は「スーパーチャイニーズ」を基にしています。\n\nそのため、プレイヤーは鳥瞰視点から若きカンフーヒーローを操作し、上下左右に移動したり攻撃したりできます。プレイヤーはヒーローのパンチやキックの能力を使って敵を倒します。\n\nまた、プレイヤーはゲーム内に散らばっている武器やアイテムを見つけて、敵の大群に対抗することができます。一定数の敵を倒すと、プレイヤーは出口に走り込むことができ、次のレベルへ進むことができます。\n\nレベルが進むにつれて、難しい敵がより多く出現します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Chinese%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Chinese%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Chinese%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

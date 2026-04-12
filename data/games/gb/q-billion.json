@@ -1,0 +1,78 @@
+{
+  "id": "q-billion",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Q Billion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キュービリオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Q Billion (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "979ed154",
+      "md5": "d310864869dca081fd30002548830051",
+      "sha1": "6344d6f2eefa56655c39c65c0595425799826498",
+      "sha256": "fa5e457d4ba927d3334ee329e9cb0c609e20360c011aff74c2013d6e1bed9d8f"
+    },
+    {
+      "name": "Q Billion (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "7202e973",
+      "md5": "ab7a5f3d9e818a434cc64915c3dbd31f",
+      "sha1": "cfc54888f1ba368463009983f3cb3f6da66f3aec",
+      "sha256": "4e624ad741077f574c1d0b57cbc45171ed4ca9f23fa89dfd8f282897aa53ab9a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49026
+  },
+  "descriptions": [
+    {
+      "text": "「キュービリオン」では、プレイヤーはタイルの山で満たされたプレイフィールドを平らにする必要があるネズミを操作します。これを行うために、ネズミは一つの山に登り、隣接する高い山を押してタイルを落とさせ、タイルが重ならないようにします。しばしば、これらの山は隣接していないため、ネズミは山の隣にあるタイルを押して立つ場所を確保する必要があります。ネズミは非常に弱いため、一度に動かせるのは一つのタイルだけです。このため、タイルの山を動かすためには多くの工夫が必要です。例えば、3つのタイルが積まれた山（四角の中に3と表示される）を動かすには、まず2つのタイルの山の隣にある1つのタイルを動かし、その後、小さな山の反対側に別のタイルを移動させて、上にあるタイルを1つのタイルの上に押し込むことで、3つのタイルの山の隣に2つのタイルの山を作る必要があります。山の間に1つまたは2つのマス以上の距離がある場合、タスクは困難になり、計画を立てる必要があり、このゲームはソコバンに代表される古典的な日本のパズルスタイルに直結しています。\n\n後のステージでは、ハート、四角、星で象徴される異なる種類のタイルが登場します。これらのタイルは、4つのグループで一緒に動かすと消去されます。少なくとも上の層が消えます。これには、プレイヤーに三次元、あるいは四次元の思考が求められます。特別なタイルが画面に残っていると、そのステージはクリアできません。\n\n第二のゲームモードでは、限られた時間内に解決しなければならない既製のパズルが含まれています。また、編集モードでは、プレイヤー自身がレベルを作成することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Q%20Billion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Q%20Billion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Q%20Billion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

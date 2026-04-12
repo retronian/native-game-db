@@ -1,0 +1,67 @@
+{
+  "id": "jaleco-j-cup-soccer",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jaleco J.Cup Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Jカップサッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ジャレコ J・カップサッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jaleco J.Cup Soccer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "98259257",
+      "md5": "7f7df6b53d2c01c2c2fe9ce20a8eebe5",
+      "sha1": "984f4fd0127325311cad9fbceb5c71f305cb2b23",
+      "sha256": "18e8b52886f319c65f1c59a0cd1027efcbf8c97c1bfa156eadb1653bbc051634"
+    }
+  ],
+  "first_release_date": "1993-07-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jaleco%20J.Cup%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jaleco%20J.Cup%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jaleco%20J.Cup%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

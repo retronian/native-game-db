@@ -1,0 +1,77 @@
+{
+  "id": "picross-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Picross 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピクロス 2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピクロス2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Picross 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f5aa5902",
+      "md5": "142d1f9f4b868780824cca20010ad4d8",
+      "sha1": "57788519111cbe9e20b43d1935e9f52ae165e858",
+      "sha256": "44e873ac3a3f89c9fae0485b8e335117ef40f6f291871c6baaf7df041e38095e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49080
+  },
+  "descriptions": [
+    {
+      "text": "ピクロス 2は、ゲームボーイのパズルゲーム「マリオのピクロス」の日本専用続編です。あなたの目標は、正しいマスを削ることで各グリッド内に隠された絵を明らかにすることです。グリッドの端にあるヒントが、どのマスを削るべきか、どのマスをそのままにしておくべきかを判断する手助けをします。パズルは「マリオのピクロス」よりもはるかに難易度が高く、簡単なパズルは15x15のグリッドで構成されており、標準のピクロスパズルは4つの15x15のグリッドがつながっており、一度に1つのセクションを解く形になります。\n\nピクロス 2には2つのプレイモードがあります。最初のモードは「マリオのピクロス」で、マリオと一緒にピクロスパズルを解いていきます。このモードでは、タイマーが30分からカウントダウンし、タイマーがゼロになる前にパズルを解かなければなりません。間違ったマスを削ると、時間がペナルティとして減少します（最初の2分、次に4分、その後8分）。\n\n「マリオのピクロス」モードで一定数のパズルを解くと、「ワリオのピクロス」をプレイできるようになります。このモードでは、タイマーがゼロからスタートし、上昇します。間違いを犯しても時間のペナルティはありませんが、これはパズルが完成するまでどのマスが正しいか、どのマスが間違っているかがわからないことを意味します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-10-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Picross%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Picross%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Picross%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

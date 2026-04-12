@@ -1,0 +1,65 @@
+{
+  "id": "ranma-1-2-netsuretsu-kakutou-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ranma 1-2 - Netsuretsu Kakutou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "らんま½ 熱烈格闘編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ranma 1-2 - Netsuretsu Kakutou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d9d57151",
+      "md5": "cd5b7ab41c9c5b1f0f70f4a736628dc0",
+      "sha1": "62bfbb19b825c3305c819da06332f731437c51f0",
+      "sha256": "b815548365642f3420713f8aa1520939f55249b7616b2f442f95567ba4b2eb3c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気漫画「らんま½」を基にしたアドベンチャーゲームです。らんまを含む原作のすべてのキャラクターがこのゲームに登場します。戦闘シーンでは、ゲームはアクションゲームに変わります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-07-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ranma%201-2%20-%20Netsuretsu%20Kakutou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ranma%201-2%20-%20Netsuretsu%20Kakutou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ranma%201-2%20-%20Netsuretsu%20Kakutou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

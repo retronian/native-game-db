@@ -1,0 +1,64 @@
+{
+  "id": "dennis",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dennis (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "896a30a8",
+      "md5": "2fa78f748aa9bced4cedd95f330c9a11",
+      "sha1": "9b5c289f25829534020951f84732177036837aea",
+      "sha256": "7e43c8ff6088705a9aa155de91f0b09eeca9aa4db0b3cabfe4c8df22dbccd98f"
+    },
+    {
+      "name": "Dennis (Europe) (Beta) (1993-09-13)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "807d34a4",
+      "md5": "011b74bbfe8b5268416f488b60263f3c",
+      "sha1": "fab382a28f9d7fefae7dc9a16bf86f309d89e037",
+      "sha256": "f23e7e4acaa09468dca65e84be21f867e5127ca50671beac9846a1ba351f3082"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dennis%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dennis%20%28Europe%29%20%28Beta%29%20%281993-09-13%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lock-n-chase",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lock n' Chase",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "ロックンチェイス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ロック・ン・チェイス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lock n' Chase (World)",
+      "source": "no_intro",
+      "size": 65536,
+      "crc32": "dab91c7a",
+      "md5": "8bb31f539e8999d5c4e9449fe1befad6",
+      "sha1": "643cbd566d35ce8dbe0f24627e4862c09805a04c",
+      "sha256": "0d6c56da2fdb6b27d388912604ad97c2f71729604a075d76c1fcd923f29e6915"
+    }
+  ],
+  "external_ids": {
+    "igdb": 169910
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lock%20n%27%20Chase%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lock%20n%27%20Chase%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lock%20n%27%20Chase%20%28World%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

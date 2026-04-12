@@ -1,0 +1,96 @@
+{
+  "id": "best-of-the-best-championship-karate",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Best of the Best - Championship Karate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ザ・キックボクシング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "The Kick Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Best of the Best - Championship Karate (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "d5c3da1d",
+      "md5": "cd2caab38139f54145fc5a3ce1e01925",
+      "sha1": "351446b94176360c0d9ad3cee43166ffbd9a51fa",
+      "sha256": "e7d89562f2fb1c78b1f8ee34c4a27b9000949b34496e63225ffe8e5a53f619d9"
+    },
+    {
+      "name": "Best of the Best - Championship Karate (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "b20280e6",
+      "md5": "91f7654109afd261df2b27bfdcd86898",
+      "sha1": "ba7d64c606cc0f654217e54a0bd5b8dda455a060",
+      "sha256": "f4d41cbd0361c21c9279d4123559e2edc0ec11e328ce19fa88a01231d0c1e319"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365640
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Best%20of%20the%20Best%20-%20Championship%20Karate%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

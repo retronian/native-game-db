@@ -1,0 +1,68 @@
+{
+  "id": "tottemo-lucky-man-lucky-cookie-minna-daisuki",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tottemo! Lucky Man - Lucky Cookie Minna Daisuki!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "とっても!ラッキーマン ラッキークッキーみんな大好きー!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tottemo! Lucky Man - Lucky Cookie Minna Daisuki!! (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8f9e28ad",
+      "md5": "3208775b434d8228d1bf950b91a39e70",
+      "sha1": "25e5e07b4945145f2681f0c991583335826c4f82",
+      "sha256": "2693caa91fb145d07a72395b8cce0b0a91efc8996ca740b0688e00a9ccf751e9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 60632
+  },
+  "descriptions": [
+    {
+      "text": "「週刊少年ジャンプ」の同名漫画を基にしたすごろくタイプのボードゲームです。ラッキーマンなどのお馴染みのキャラクターを選び、駒を進めてゴールにいるボスエイリアンを倒しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tottemo%21%20Lucky%20Man%20-%20Lucky%20Cookie%20Minna%20Daisuki%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tottemo%21%20Lucky%20Man%20-%20Lucky%20Cookie%20Minna%20Daisuki%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tottemo%21%20Lucky%20Man%20-%20Lucky%20Cookie%20Minna%20Daisuki%21%21%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ultraman",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultraman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultraman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "5944c3ed",
+      "md5": "1b5aebb54d59121d8dc3188929295607",
+      "sha1": "a4fbe124b257109ba9566fae59ac008f52317f2d",
+      "sha256": "818dfa819862136567f2ad3677312d9e2b7ded16da481141c3fac7c4b2f0570b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 373643
+  },
+  "descriptions": [
+    {
+      "text": "未来、地球は宇宙からの侵略者から自らを守らなければなりません。その任務を担うのが科学特捜隊です。しかし、彼らはこの戦いにおいて一人ではありません。悪の宇宙人ベムラーを追って地球に不時着した超存在ウルトラマンが、攻撃する宇宙人が人類だけでは対処しきれないときに助けに来てくれます。数百フィートの高さを誇る驚異的な力と能力を持つ彼は、地球にいられるのは数分間だけであり、その間に敵を倒さなければ力が尽きてしまいます。\n\n1967年の人気テレビ番組を基にしたこのゲームは、原作のストーリーを直接引き継いでいます。プレイヤーはウルトラマンの役割を担い、オリジナルシリーズに登場した多くのモンスターを倒さなければなりません。1対1の対戦格闘ゲームの形式を取るウルトラマンは、パンチやキック、グラップルを駆使し、さまざまな特殊技を使用することができますが、それらはチャージが必要です。しかし、実際に敵を倒すためには、相手の常に回復するライフバーを減らし、その瞬間に最も強力な特殊攻撃「スペシウム光線」を当てなければなりません。ゲームが進むにつれて、異なる敵はこの最強の攻撃を回避する方法を見つけるかもしれず、ウルトラマンは適応しなければなりません… 各ステージにはわずか3分の制限時間があり、ライフは3つでコンティニューはありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ultraman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gbkiss-mini-games",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GBKiss Mini Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GBキス ミニゲームズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GBKiss Mini Games (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "92a03fc3",
+      "md5": "5eb0cc0785adbc6ad8c1dfa09fe4a692",
+      "sha1": "3c6c78f0a936dbc3f366a82c1eca8be0597d4d5b",
+      "sha256": "2c3b8e8baa11ce48b1d17f5773c41f00e2bbd5145260c809358f9c1f0e0ed68c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 366690
+  },
+  "descriptions": [
+    {
+      "text": "GB KISSは、ハドソンが日本の一部のゲームボーイゲームに追加した赤外線転送機能です。\n\nこの通信方法は、ミニゲームのダウンロードや共有、ゲームのセーブデータやマップエディタで作成したカスタムマップの共有、ハドソンのウェブサイトからの独占コンテンツのダウンロードなど、さまざまな方法で使用されました。物理カートリッジへのダウンロードは、GB KISS LINKというハードウェアを使用して行われました。このモデムはWindows 95のPCに接続することで、PCからGB KISS対応ゲームにダウンロードしたコンテンツを赤外線経由で転送することができました。ダウンロードが完了すると、ミニゲームはPCやモデムを介さずに、別のGB KISSカートリッジに直接転送することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-03-06",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GBKiss%20Mini%20Games%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GBKiss%20Mini%20Games%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

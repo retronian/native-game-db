@@ -1,0 +1,65 @@
+{
+  "id": "shounen-ashibe-yuuenchi-panic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shounen Ashibe - Yuuenchi Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "少年アシベ ゆうえんちパニック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shounen Ashibe - Yuuenchi Panic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b3063db5",
+      "md5": "4e6788188fd7e6bab9b6974b308a38eb",
+      "sha1": "0ba051e85f793db4466f10ab7452c778c55337df",
+      "sha256": "9b6e8344f3d0901820220ac14f4416812f68479f84e7f1b6e915e7602e61ec33"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは主人公アシベを操作し、ゴマと彼の二人の友達と共に遊園地を冒険します。彼らは進むにつれて交代しながら進んでいきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shounen%20Ashibe%20-%20Yuuenchi%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shounen%20Ashibe%20-%20Yuuenchi%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shounen%20Ashibe%20-%20Yuuenchi%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

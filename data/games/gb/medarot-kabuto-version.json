@@ -1,0 +1,105 @@
+{
+  "id": "medarot-kabuto-version",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot - Kabuto Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット Kabuto Version カブトバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メダロット カブトバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot - Kabuto Version (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1bab9900",
+      "md5": "a849bc6810ae27de442ab9aa354ea594",
+      "sha1": "ae26b9310ab41d94a73b807ef5f30e2d0e34d667",
+      "sha256": "0cd7b94ed5a21b7de501486e17a1afea1ad4399be98acaf874a38e114216ac46"
+    },
+    {
+      "name": "Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "12a3982d",
+      "md5": "78c568cbfff6314b1416880d9efaeca6",
+      "sha1": "1cbc7ab5941dc27bc50699a00ef2b1beb930449d",
+      "sha256": "3ee50992a8cde0c1e7bb2bf1d812bf3d9577cd1f0c3da0c072d52806b5a774ec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 55145
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは、若き日のアガタ ヒカルを中心に展開します。ある日、ヒカルが犬のボナパルトを連れて公園を散歩していると、犬がロボロボ団の一員を追い払ってしまい、その際にメダルが落ちます。ヒカルはそのメダルを拾いますが、地元のセレクトオフィスに持って行くと、返却する必要はないと言われます。ヒカルは父親からティンペットとパーツのセットを受け取り、それが彼の最初のメダロットとなります。\n\nゲームの進行中、ヒカルは町でトラブルを起こすロボロボ団の多くのメンバーと戦います。その中には、偽のサメを使って海水浴客を脅かす者もいます。それに対抗して、ロボロボ団はヒカルからメダルを強引に取り戻そうと、ますます卑劣で劇的な策略を実行します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-11-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Medarot%20-%20Kabuto%20Version%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

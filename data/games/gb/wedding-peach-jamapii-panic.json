@@ -1,0 +1,77 @@
+{
+  "id": "wedding-peach-jamapii-panic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wedding Peach - Jamapii Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウェディングピーチ じゃ魔ピーパニック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウェディングピーチ 〜じゃ魔ピーパニック〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wedding Peach - Jamapii Panic (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9812a6c6",
+      "md5": "1cb08c8447160f9757d1a48331fb05a2",
+      "sha1": "b10bea6e0e57a19cde7f02c7e97227e002cfc6b3",
+      "sha256": "a13ba20d3045579370576217fc82ea4c9c733b57b9022221e79ec5420e31704f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64952
+  },
+  "descriptions": [
+    {
+      "text": "人気アニメ「ウェディングピーチ」がアクションパズルゲームとして登場しました。このゲームは、制限時間内にしっぽを使ってすべてのパネルをひっくり返し、ステージをクリアするアクションパズルゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wedding%20Peach%20-%20Jamapii%20Panic%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wedding%20Peach%20-%20Jamapii%20Panic%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Wedding%20Peach%20-%20Jamapii%20Panic%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

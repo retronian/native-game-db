@@ -1,0 +1,68 @@
+{
+  "id": "grander-musashi-rv",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Grander Musashi RV",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グランダー武蔵RV レボリューション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Grander Musashi RV (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e97f2e9a",
+      "md5": "b80fc4c1aa83f4f57cd8e0378287ffd4",
+      "sha1": "d6fc45fd02e3d7c885c0e0244dc3c8073fb64ff4",
+      "sha256": "7bff7cad342d4a81354b6446076edf602d79f53c0517d6e4e08764702f91495c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228555
+  },
+  "descriptions": [
+    {
+      "text": "アニメ「グランダー武蔵RV」を基にした釣りをテーマにしたマンガのゲームです。トーナメントマッチで勝利を目指しましょう。ゲームボーイ本体に取り付けるリールアダプターが付属しており、ボタンを連打して釣りを楽しみます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Grander%20Musashi%20RV%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Grander%20Musashi%20RV%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Grander%20Musashi%20RV%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

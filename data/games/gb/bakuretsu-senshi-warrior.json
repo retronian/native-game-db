@@ -1,0 +1,62 @@
+{
+  "id": "bakuretsu-senshi-warrior",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakuretsu Senshi Warrior",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆裂戦士ウォーリア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakuretsu Senshi Warrior (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "ecf1b801",
+      "md5": "cbf1f4ca2288995c18df0ef3025c9580",
+      "sha1": "5f4e63796611a1ed72acd2a5bfe2e2ea3ba5b211",
+      "sha256": "17e3b5749b6bc68fb4baf1be33ee2746bd44f0c8486682806a0b272c87c75312"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウォーリアまたはファイターを操作し、悪の科学者から母親ナタシアを救出しましょう。彼は要塞サイレイドから地球を征服しようとしています。4つのステージを駆け抜け、複数の部屋を探索しながら、ブロックを壊したり、はしごを蹴ったりしてエネルギーポッドを見つけ、次の部屋への出口を明らかにします。各レベルの敵に触れるとライフが減ります。スピードを上げたり、密なブロックを破壊したり、ジャンプしたり、さらにはミサイルを発射するためのエクストライフやアップグレードポッドを集めることができます。\n\n数分ごとに、大きな岩のモンスターが登場し、以前に壊されたブロックを再出現させるので、同じ場所に留まらないように注意してください。ステージには代替ルートやボス戦もあります。パスワードを使うことで、各ステージの最初から再開することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bakuretsu%20Senshi%20Warrior%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bakuretsu%20Senshi%20Warrior%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bakuretsu%20Senshi%20Warrior%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

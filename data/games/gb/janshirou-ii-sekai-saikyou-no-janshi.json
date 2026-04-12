@@ -1,0 +1,74 @@
+{
+  "id": "janshirou-ii-sekai-saikyou-no-janshi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Janshirou II - Sekai Saikyou no Janshi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀四郎2 II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "雀四郎2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Janshirou II - Sekai Saikyou no Janshi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2812036b",
+      "md5": "6847a0af37237bbadcf582ed59fcabce",
+      "sha1": "f85022f21549349f95b58db57ab71998ab24c012",
+      "sha256": "98fd32955a19bb8b05b200c8876549ff686185a5d38791b09909b670826c4aef"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "雀四郎2 II: 世界最強の雀士は、サミー・スタジオが1994年に日本で発売したカードゲームです。主人公が世界麻雀大会で勝利を目指して戦う麻雀ゲームです。競馬を含む3つの異なるミニゲームも楽しむことができます。また、ケーブルを接続することで他のプレイヤーと対戦することも可能です。四人プレイのシステムは完璧ではないかもしれませんが、実際に楽しむためには二人対戦モードが最適です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Janshirou%20II%20-%20Sekai%20Saikyou%20no%20Janshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Janshirou%20II%20-%20Sekai%20Saikyou%20no%20Janshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Janshirou%20II%20-%20Sekai%20Saikyou%20no%20Janshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

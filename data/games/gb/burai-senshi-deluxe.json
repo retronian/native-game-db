@@ -1,0 +1,71 @@
+{
+  "id": "burai-senshi-deluxe",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burai Senshi Deluxe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "無頼戦士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "無頼戦士デラックス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burai Senshi Deluxe (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "5a1a20f3",
+      "md5": "90a34d9897acb1e78e00d6d5a2af419f",
+      "sha1": "f8c17e07d25420b7717f4415820c09491bb6a04c",
+      "sha256": "b8d21124da9dd44c24678c3692291e69559e52531fc95f9722fabae32b6ec5d6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "悪の超知能エイリアン「無頼」が、半有機・半ロボットのクリーチャー「ロボミュータント」の軍団を使って宇宙征服の計画を発動しました。彼らを止めるのはプレイヤーの使命です！ジェットパックを装着し、究極の無頼戦士になる準備を整えましょう。\n\n「無頼戦士デラックス」は、スクロールシューティングゲームです。レベルは横スクロールと縦スクロールのプリデザインされたレイアウトで構成されています。プレイヤーは、さまざまな武器（レーザー、ミサイル、リング）や、画面上のすべてを一掃する強力なコバルトボムを駆使して戦います。\n\nNES版のトップダウンステージは含まれていません。「デラックス」の部分は、このゲームボーイ版に搭載されたリンクケーブル機能を通じて追加された対戦マルチプレイヤーモードを指します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Burai%20Senshi%20Deluxe%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Burai%20Senshi%20Deluxe%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Burai%20Senshi%20Deluxe%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

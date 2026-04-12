@@ -1,0 +1,86 @@
+{
+  "id": "othello",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Othello",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オセロ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Family Computer Othello",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Othello (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "e6607e29",
+      "md5": "f57101bf26e140991a4e2f50a968ce7c",
+      "sha1": "03848a74502f4571bec20b42adab86ded357af81",
+      "sha256": "96a92e09412346a26aceafe5a42dce4480ee7d72d1ed89948aead96c74a85c4b"
+    },
+    {
+      "name": "Othello (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "c17a002e",
+      "md5": "1123060cb5177d576c191d774ebe403a",
+      "sha1": "60a427c5dc6dad226c80b120aa2e52725d719d16",
+      "sha256": "d0d6537f60f4c19f0a74716504c4d51712595f0a6c4bb498e8d53caf2af458eb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3660
+  },
+  "descriptions": [
+    {
+      "text": "オセロはボードゲームのコンバージョンです。各プレイヤーは、自分の色のディスクをできるだけ多くボードに置こうとします。ターンごとに、プレイヤーは自分のディスクで相手のディスクを2つ挟む位置を選んでボードにディスクを置きます。挟まれたディスクはプレイヤーの色にひっくり返されます。ゲームはボードが埋まるか、時間切れになると終了し、ボード上に自分の色のディスクが最も多いプレイヤーが勝者となります。2人のプレイヤーが対戦することも、1人のプレイヤーがコンピュータと対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Othello%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Othello%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Othello%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

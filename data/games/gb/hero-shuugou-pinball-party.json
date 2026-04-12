@@ -1,0 +1,77 @@
+{
+  "id": "hero-shuugou-pinball-party",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hero Shuugou!! Pinball Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヒーロー集合!! ピンボールパーティ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ヒーロー集合！！ピンボールパーティ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hero Shuugou!! Pinball Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "740552ed",
+      "md5": "cd6ca2a01e2310193c46afcbfa382ab5",
+      "sha1": "c4f0428455c6a4772c2db7bab0132dca169e22c7",
+      "sha256": "36cf892e1c7792c87749abf97810c5b09c11de9afe690b5112cc9533affd98cf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228639
+  },
+  "descriptions": [
+    {
+      "text": "連続するジャレコのヒーローたちが登場するピンボールゲームです。「忍者じゃじゃ丸くん」のじゃじゃ丸や「ぶたさん」のぶたさんなどが登場します。ゲーム内容は普通のピンボールなので、キャラクターを知らなくても楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hero%20Shuugou%21%21%20Pinball%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hero%20Shuugou%21%21%20Pinball%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hero%20Shuugou%21%21%20Pinball%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

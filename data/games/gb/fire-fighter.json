@@ -1,0 +1,51 @@
+{
+  "id": "fire-fighter",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fire Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fire Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "c46bbd49",
+      "md5": "cfc7edbc95e8df5305d117c6993d5f20",
+      "sha1": "a26a4f0a51fb3aad3f138eedfe326a04af9a1b56",
+      "sha256": "9c44ac4c987176e60abaa7435d5fb39d16c63d38be10f3d3ac91db50c53d4514"
+    }
+  ],
+  "external_ids": {
+    "igdb": 118511
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Fire%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Fire%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Fire%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

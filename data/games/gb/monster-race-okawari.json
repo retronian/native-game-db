@@ -1,0 +1,68 @@
+{
+  "id": "monster-race-okawari",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Race Okawari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "もんすたあ★レース おかわり",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Race Okawari (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "bd3039e5",
+      "md5": "e2c928a942cd827b52499aa9fb148f9a",
+      "sha1": "a566012977dbcede8066c06e445b6a346d158e53",
+      "sha256": "efd34d67027a21bb76ef12bcb491ee04bc9a92ca82d845440a19fdf26509c71b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61173
+  },
+  "descriptions": [
+    {
+      "text": "同じタイトルの第2弾です。モンスターが互いに走り競い合うレースシステムはそのままです。物語は最初のライバル「バッチ」との戦いが続きます。モンスターの種類も増加しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-10-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Monster%20Race%20Okawari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Monster%20Race%20Okawari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Monster%20Race%20Okawari%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

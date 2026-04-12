@@ -1,0 +1,62 @@
+{
+  "id": "dragon-slayer-i",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Slayer I",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンスレイヤーI",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Slayer I (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "308a2465",
+      "md5": "bc35dc3bf102cfa265c5c7348e674ba9",
+      "sha1": "7d987446f67d8bee42482a4932d0fa60318238e4",
+      "sha256": "d0755e591cfb24d31087f8be3773695c3615e932e74c404e8949846971cf277d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンスレイヤーは、アクションRPGジャンルの先駆者の一つと広く考えられています。ゲームの基本的な設定はローグライクに似ており、プレイヤーは騎士を操作し、大きな上から見下ろす迷路のようなダンジョンを進んでいきます。しかし、ローグライクとは異なり、ゲームの戦闘は完全にアクション指向です。プレイヤーはモンスターに近づき、「ぶつかる」ことでダメージを与え、同時にモンスターの攻撃を避ける必要があります。戦闘は探索と同じ画面上で行われ、騎士が逃げようとするとモンスターが追いかけてくることもあります。また、ローグライクとは異なり、ゲーム内のロケーションやアイテムはランダム化されていません。\n\nプレイヤーは旅の途中でパワーストーンやコインを集めることができます。パワーストーンはヒーローの力を増加させ、コインはヒットポイント（体力）を増加させます。敵を倒すことで経験値も得られ、これがヒーローが得られる最大HPの量を決定します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dragon%20Slayer%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dragon%20Slayer%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dragon%20Slayer%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "koukiatsu-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koukiatsu Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "高気圧ボーイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koukiatsu Boy (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 524288,
+      "crc32": "53ff8041",
+      "md5": "f88a0df4f77f415235bf6c83eb39709c",
+      "sha1": "f7f5b71a8d3b393b0507eee75fbdaea7006f945f",
+      "sha256": "f1f4d4962a48d6d27bb3110af721d936954cdf833e385fa99aa0d5833a63298b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228584
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーは高気圧軍の戦士「ハイプレッシャーボーイ」となり、地球に侵入する低気圧を振り払うために活躍します。バトルはカードバトル方式です。もちろん、ゲームに登場するキャラクターの名前は天気予報に関連しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Koukiatsu%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Koukiatsu%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Koukiatsu%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

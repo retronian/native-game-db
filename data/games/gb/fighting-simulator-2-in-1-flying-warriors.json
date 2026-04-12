@@ -1,0 +1,68 @@
+{
+  "id": "fighting-simulator-2-in-1-flying-warriors",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fighting Simulator 2 in 1 - Flying Warriors",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "飛龍の拳外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Hiryuu no Ken Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fighting Simulator 2 in 1 - Flying Warriors (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "52678ae8",
+      "md5": "42b8ce5b0d54f4565ba99e02f09fe115",
+      "sha1": "9073276d8adf1e59829ae48073b42ae19c9770ce",
+      "sha256": "9b72e7d44d1cb31a06cf4e630c83abc61fb7218e3d55d7dc6aa1ecbf9e490cf0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64795
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Fighting%20Simulator%202%20in%201%20-%20Flying%20Warriors%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Fighting%20Simulator%202%20in%201%20-%20Flying%20Warriors%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Fighting%20Simulator%202%20in%201%20-%20Flying%20Warriors%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

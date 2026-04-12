@@ -1,0 +1,88 @@
+{
+  "id": "tip-off",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tip Off",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tip Off (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "eaf523ec",
+      "md5": "a617ca41254cc6df7b82fa18e411010d",
+      "sha1": "a43ee2c068053e49dfc6e22a0cd781df357905ec",
+      "sha256": "bb845953b8dfc950d2376f3a15cd2893297dbe68c6b1f33a5ba71d6a90f13db9"
+    },
+    {
+      "name": "Tip Off (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "842061f3",
+      "md5": "dfca8240e0e90f741e8c32a5173ae9fb",
+      "sha1": "97126504bcc3fdc251287e9c7990720a5186d97a",
+      "sha256": "665b5801c96970add10b3589e2d109667e415a13533325bafe442e334c544c90"
+    },
+    {
+      "name": "Tip Off (Europe) (Beta 2) (1992-11-10)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "3040c308",
+      "md5": "5df1a8fcc6e4b05779c8e12f300cb1fe",
+      "sha1": "de2dfc28e57fda7552600e9add92bc8277abcff8",
+      "sha256": "0c66c39d2b112c2c41e24e9d03a355c23569eb125171148294ac51e1beba5a46"
+    },
+    {
+      "name": "Tip Off (Europe) (Beta 3)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2186e3f6",
+      "md5": "cbab48ca1dffc834b4e334861498610d",
+      "sha1": "f913a5ca8cbd4bba4ad6361ecdef6a5dadfe669a",
+      "sha256": "edfc1d499724e8eb2495cbcab04b752dc93cb9c9fea7bdf0d998c3531048433c"
+    },
+    {
+      "name": "Tip Off (USA) (Proto) (1994-02-22)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "46c7e8d8",
+      "md5": "bd2d327c51a3c705227ec6eea474bb7b",
+      "sha1": "c95e9787b148a72f3ffb2d4b98331f4b3c9c0590",
+      "sha256": "7db5e950fed630b1d891e140db8929b7bf415e58f8e300dec329647fa03c43f7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tip%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tip%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tip%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

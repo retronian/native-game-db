@@ -1,0 +1,51 @@
+{
+  "id": "sports-illustrated-golf-classic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sports Illustrated - Golf Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sports Illustrated - Golf Classic (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "87b306b4",
+      "md5": "531a63f17ebd140ed15b382c0c13eebb",
+      "sha1": "39761cfedcfe4e5cf161f58a91f5fd364fc3ddb9",
+      "sha256": "d5b9424faacc444df913c46329daef029b174093c8204ac76b86618373b2fb71"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49086
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Sports%20Illustrated%20-%20Golf%20Classic%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Sports%20Illustrated%20-%20Golf%20Classic%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Sports%20Illustrated%20-%20Golf%20Classic%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

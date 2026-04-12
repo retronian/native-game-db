@@ -1,0 +1,77 @@
+{
+  "id": "twin",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Twin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ツイン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "TWIN",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Twin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "2413acaa",
+      "md5": "1fcbb5903a90fb4875fdf2fc128f0d7f",
+      "sha1": "2075027f6a45d1d970908254680077f3d18a3b1f",
+      "sha256": "ab97aece68447f1d66c82d6c350eb173f2eae0ef7fe2b5fed09048b6cb24bc43"
+    }
+  ],
+  "external_ids": {
+    "igdb": 310512
+  },
+  "descriptions": [
+    {
+      "text": "サイドビューの洞窟を舞台にしたRPGで、建物はトップビューで描かれています。戦闘はコマンド入力方式です。プレイヤーは復活したダークロードに対抗するための宝を探す旅に出ます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bionic-battler",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bionic Battler",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bionic Battler (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "a1e55dc2",
+      "md5": "b5a6254b1711edfaf89830bcfff09d38",
+      "sha1": "9eca6a5fd1e537085598e8b2903ad75fe9c0b785",
+      "sha256": "1c2d52e275995e7760cc33d0d222a2e1e39765947a152be9987b7e6a3baa7bac"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48964
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bionic%20Battler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bionic%20Battler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bionic%20Battler%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

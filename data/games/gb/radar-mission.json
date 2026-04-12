@@ -1,0 +1,70 @@
+{
+  "id": "radar-mission",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Radar Mission",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "海戦ゲーム レーダーミッション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "レーダーミッション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Radar Mission (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "581da9c9",
+      "md5": "82d650a781ef372126a863d519c01aae",
+      "sha1": "5ab5998a84eebc769f75c482cb0a5586ed97e888",
+      "sha256": "b3f2838cb64dfa12f93ab4767c3b0786cba0993015fefe1f592146f9d8f47d40"
+    }
+  ],
+  "external_ids": {
+    "igdb": 11688
+  },
+  "first_release_date": "1990-10-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Radar%20Mission%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Radar%20Mission%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Radar%20Mission%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

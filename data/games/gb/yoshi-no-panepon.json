@@ -1,0 +1,68 @@
+{
+  "id": "yoshi-no-panepon",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yoshi no Panepon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヨッシーのパネポン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yoshi no Panepon (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "3beb7239",
+      "md5": "11be7ff8141f8d7a5c8cca903151f0ba",
+      "sha1": "c54d0a33a562c93b9e1243fd9c615b5f92671e58",
+      "sha256": "d9812e59a4e24144d0485d75bd74881150e3397dddfe1708d986af9fc363bab7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 219010
+  },
+  "descriptions": [
+    {
+      "text": "ヨッシーの島では、すべてがうまくいっていません！ずる賢いクッパ王が島の住人たちに呪いをかけ、彼らを無心の奴隷に変えてしまいました。唯一その影響を逃れたのはヨッシーだけで、彼は友達を救い出し、クッパを倒して呪いを解くために旅に出なければなりません。\n\n「テトリスアタック」は、ヨッシーの島のカラフルなキャラクターたちが登場する高速アクションパズルゲームです。画面の下からブロックの山が次々と上がってきて、プレイヤーはカーソルを操作して任意の2つのブロックを横に入れ替えることができます。3つ以上のブロックを縦または横に揃えると消え、新たに落ちてくるブロックでコンボが生まれる可能性があります。コンボを決めると、大きなゴミブロックが相手に送られ、それを消すためには接触しているブロックを消して通常のブロックに戻さなければなりません。\n\nゲームには、コンピュータ相手のストーリーモード、2人対戦モード、エンドレスモード、一定数のブロックを消さなければならないタイムドモード、特定の手数で決まった配置のブロックを消すパズルモードが用意されています。このゲームは日本専用タイトル「パネルでポン」を基にしています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-10-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Yoshi%20no%20Panepon%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Yoshi%20no%20Panepon%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Yoshi%20no%20Panepon%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

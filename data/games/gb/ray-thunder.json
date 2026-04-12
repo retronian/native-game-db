@@ -1,0 +1,68 @@
+{
+  "id": "ray-thunder",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ray-Thunder",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ライサンダー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ray-Thunder (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a00a9468",
+      "md5": "3defa1c909af45963f3ad867ec5f3414",
+      "sha1": "e250e681b26835ff60b5ef0d9ce4513d8caf59e5",
+      "sha256": "8718e1304d84d851a33a22f17f6e9cd46134426973111277dee7a396c88937e4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64909
+  },
+  "descriptions": [
+    {
+      "text": "ライサンダーは、日仏社がゲームボーイ向けに発売したアクションゲームです。このゲームは日本国内限定でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ray-Thunder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ray-Thunder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ray-Thunder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

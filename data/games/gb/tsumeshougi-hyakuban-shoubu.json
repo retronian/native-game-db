@@ -1,0 +1,67 @@
+{
+  "id": "tsumeshougi-hyakuban-shoubu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsumeshougi - Hyakuban Shoubu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "詰め将棋 〜百番勝負〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "詰め将棋 百番勝負",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsumeshougi - Hyakuban Shoubu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "43e2a5c0",
+      "md5": "fe739c4bfdf652af8d09ed778c429480",
+      "sha1": "257a73694a6535aafa58d346b06d2ee386989578",
+      "sha256": "4e6a7e45c79f653174785442bc165054ab00a566ee337ea229a7233c3bd9973a"
+    }
+  ],
+  "first_release_date": "1994-04-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tsumeshougi%20-%20Hyakuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tsumeshougi%20-%20Hyakuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tsumeshougi%20-%20Hyakuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

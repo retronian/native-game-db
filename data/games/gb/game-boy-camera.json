@@ -1,0 +1,60 @@
+{
+  "id": "game-boy-camera",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Camera",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ポケットカメラ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Camera (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4640909f",
+      "md5": "42d2f65e2549be9d1d126a6828b5d1c1",
+      "sha1": "461c3c37ed270681e3e94053efb21504b600aef5",
+      "sha256": "d4d4338bed6938a7aa3c1788bd8a870a954c3676fdc4829b8fb410f4e39ac900"
+    }
+  ],
+  "external_ids": {
+    "igdb": 84643
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20Boy%20Camera%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Camera%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Camera%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

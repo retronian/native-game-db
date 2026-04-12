@@ -1,0 +1,65 @@
+{
+  "id": "doraemon-taiketsu-himitsudougu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon - Taiketsu HimitsuDougu!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもん 対決ひみつ道具!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon - Taiketsu HimitsuDougu!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "a42524a3",
+      "md5": "e01f6fcb9bacca86642744fa4003b349",
+      "sha1": "5e89e34a2cec89e0aba4e12d18d96671151730ec",
+      "sha256": "69095e4eda7269988f5a2f2d13f0ee9dfdf7573fdca55bd3d11df325b71df7d5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "未来から来たロボット猫の最初の冒険は、挑戦に満ちたアクションゲームの形で登場します。大半の時間は、プレイヤーが進むために一定のポイント数に達する必要があるシューティングゲームがシミュレートされます。実現がやや独特であるとしても、藤本弘の漫画の世界を見つけられることには感謝します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Doraemon%20-%20Taiketsu%20HimitsuDougu%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Doraemon%20-%20Taiketsu%20HimitsuDougu%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Doraemon%20-%20Taiketsu%20HimitsuDougu%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

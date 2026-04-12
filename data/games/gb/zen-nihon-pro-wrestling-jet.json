@@ -1,0 +1,51 @@
+{
+  "id": "zen-nihon-pro-wrestling-jet",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zen-Nihon Pro Wrestling Jet",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全日本プロレス ジェット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zen-Nihon Pro Wrestling Jet (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "119bcad5",
+      "md5": "06ad6e6281b355040575aad2ee22c9a6",
+      "sha1": "60d3b8618bb80c61ca29bccc7c1af9244a6c1764",
+      "sha256": "abaae3407e4a3e36203f45b21da25b2c7a6d8104cb074b9d94c7756bc1ff5f22"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Zen-Nihon%20Pro%20Wrestling%20Jet%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Zen-Nihon%20Pro%20Wrestling%20Jet%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

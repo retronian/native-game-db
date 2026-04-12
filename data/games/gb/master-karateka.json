@@ -1,0 +1,65 @@
+{
+  "id": "master-karateka",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Master Karateka",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マスターカラテカ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Master Karateka (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "4c0fb33e",
+      "md5": "8076db86c921743aedd82b12d139c3c3",
+      "sha1": "1ffea01d8d91f026ce6677631bcb10991092ff13",
+      "sha256": "199641c5bb42760ff05f19d29993ef7d999ea2932ae586b3aeb4fa14e82a9870"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49077
+  },
+  "descriptions": [
+    {
+      "text": "村の唯一の生存者であり、空手の達人として、あなたは邪悪なアクマに立ち向かい、彼の軍隊を打ち破って愛するマリコを救い、復讐を果たさなければなりません。\n\n「マスターカラテカ」は「カラテカ」の強化版で、あなたは空手を駆使するヒーローとなり、アクマの手下たちと次々に戦いながら、最終的に悪党本人にたどり着きます。あなたの武器は手と足で、各ボタンはパンチやキックを指示し、方向キーで高さを調整できます。\n\nこのゲームボーイ版ではすべてのグラフィックが変更され、アクションが小さな画面に収められ、異なる敵や挑戦が登場します。さらに、ゲーム開始時にヒーローのステータスをカスタマイズして、あなたの戦闘スタイルにより合ったものにすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Master%20Karateka%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Master%20Karateka%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Master%20Karateka%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

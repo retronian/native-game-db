@@ -1,0 +1,68 @@
+{
+  "id": "chiki-chiki-machine-mou-race",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chiki Chiki Machine Mou Race",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チキチキマシン猛レース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chiki Chiki Machine Mou Race (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7e40044a",
+      "md5": "8e1d2e3b4f20361c496e93f8d2e08339",
+      "sha1": "45963623bc09e0a132867e1a78173b2c747c3b6f",
+      "sha256": "ec578005083f99a09a41ff1c9a67bd528ec953c0387e8571c2e6a3cea01aabe2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56545
+  },
+  "descriptions": [
+    {
+      "text": "チキチキマシン猛レースは、アトラスが発売したレースゲームで、1992年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chiki%20Chiki%20Machine%20Mou%20Race%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chiki%20Chiki%20Machine%20Mou%20Race%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chiki%20Chiki%20Machine%20Mou%20Race%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

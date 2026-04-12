@@ -1,0 +1,78 @@
+{
+  "id": "fidgetts-the",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fidgetts, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "フィジェッツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fidgetts, The (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ffd4a9e3",
+      "md5": "a3ee0ae53bdbddd093304cb566a48eda",
+      "sha1": "c701ce4c62c414aada502f8c17aa9261dd635685",
+      "sha256": "b150bfda362052236a88fc698c7d1238ee020b2bc65b7bfae9687ecb6bd4216e"
+    },
+    {
+      "name": "Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "b3fd3e36",
+      "md5": "ac2cd2a4227b38765f23fb5b72de6229",
+      "sha1": "1100f259fe30857d1103beb116b888497f6fbdaa",
+      "sha256": "88861da7b596cdb3fb718810588bd093b490f8dde5b3a2b7a7a79ff0110432ed"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49000
+  },
+  "descriptions": [
+    {
+      "text": "フィジェッツは、『ザ・ロスト・バイキングス』に似た横スクロールのプラットフォームパズルゲームです。プレイヤーは、障害物を乗り越えるために2匹のフィジェッツ（アニメ風の動物）を切り替えることができます。1匹のフィジェッツは高くジャンプでき、通常は届かない物や場所にアクセスできます。フィジェッツはアイテムを持ち上げたり落としたりして、障害物を越える手助けをします。各レベル内で、プレイヤーは時間切れになる前に両方のフィジェッツを出口に導かなければなりません。落とし穴や敵があり、フィジェッツはライフを失ったりダメージを受けたりする可能性があります。\n\nレベルの合間には、プレイヤーが画面の上部と下部にパドルを操作するブレイクアウトのバリアントをプレイできます。ボールで破壊できるブロックの間には、収集可能なパワーアップがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Fidgetts%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Fidgetts%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Fidgetts%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

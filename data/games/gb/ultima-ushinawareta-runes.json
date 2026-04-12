@@ -1,0 +1,65 @@
+{
+  "id": "ultima-ushinawareta-runes",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultima - Ushinawareta Runes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルティマ 失われたルーン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultima - Ushinawareta Runes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "d2f94181",
+      "md5": "dd519f58f68e27b70c29cf19500a0154",
+      "sha1": "3a1d88736e13436cde15029dadd951b0b1c637e5",
+      "sha256": "b2abe6b63dd161d8090691638166f688b39372c82873d4292bfe7d6253747baa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウルティマ 失われたルーンは、オリジンが開発しポニーキャニオンが発売したロールプレイングゲームで、1992年にリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ultima%20-%20Ushinawareta%20Runes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ultima%20-%20Ushinawareta%20Runes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ultima%20-%20Ushinawareta%20Runes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

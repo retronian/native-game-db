@@ -1,0 +1,78 @@
+{
+  "id": "torpedo-range",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Torpedo Range",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "トーピドー・レンジ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Torpedo Range (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "1fb35885",
+      "md5": "cc0cc9f187765dbf3054585d5b33a6ec",
+      "sha1": "4cd1702228d3d82abda1672f21b79446385a2c68",
+      "sha256": "14e9988a58959fa86466d7e22c27f97a3e10c0a1c804721be0d8c5ccdbeae3f2"
+    },
+    {
+      "name": "Torpedo Range (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "ed9882a9",
+      "md5": "2b42e312afbee6599ce413a8784e4e68",
+      "sha1": "0aac562f0f62916839cffe472aa21e0cee6269f0",
+      "sha256": "a8d9a65a523a5ff40c27d25f30a5eac19fc92edaf47e50b83387953b8083b47c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49083
+  },
+  "descriptions": [
+    {
+      "text": "トーピドー・レンジは、ゲームボーイ用の2Dシューティングゲームです。プレイヤーは潜水艦を操作します。ゲームにはいくつかのモードがあります - マップ（プレイヤーがトップダウン視点で次のミッションに進む）、シューティング（プレイヤーが飛行機、船、他の潜水艦を狩る）、およびFPPシューティング（プレイヤーが敵に魚雷を発射し、すべての抵抗を排除する）です。潜水艦は限られた弾薬といくつかのシールドを持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Torpedo%20Range%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Torpedo%20Range%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Torpedo%20Range%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

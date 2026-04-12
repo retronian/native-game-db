@@ -1,0 +1,57 @@
+{
+  "id": "nichibutsu-mahjong-yoshimoto-gekijou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nichibutsu Mahjong - Yoshimoto Gekijou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニチブツマージャン吉本劇場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nichibutsu Mahjong - Yoshimoto Gekijou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d983ff48",
+      "md5": "e31c6235113ed686705bf664219e87d9",
+      "sha1": "1ccec61dd26b163d921043893b1d2405e05ae3a2",
+      "sha256": "287ddd5146224376dabfdb6a4b18008af666bdc8c28e77562976f98fd73bc0fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nichibutsu%20Mahjong%20-%20Yoshimoto%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nichibutsu%20Mahjong%20-%20Yoshimoto%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nichibutsu%20Mahjong%20-%20Yoshimoto%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

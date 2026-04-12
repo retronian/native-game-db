@@ -1,0 +1,65 @@
+{
+  "id": "ultraman-club-tekikaijuu-o-hakken-seyo",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultraman Club - Tekikaijuu o Hakken seyo!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラマン倶楽部 敵怪獣ヲ発見セヨ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultraman Club - Tekikaijuu o Hakken seyo! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "91eda860",
+      "md5": "3aba896b1761f25d558b2ee409e0137f",
+      "sha1": "298b912dd8cddc078b60b75718eca25870142a18",
+      "sha256": "9a5a4880ed9a602489781ae282b8461548465ff22d572c28ff090686c6b5d6a5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームの目的は、ウルトラマン陣営と怪獣陣営に分かれて、相手の基地にいるボスを倒すことです。プレイヤーはアドバイザーで区切られたマップ上で交互にユニットを移動させるシミュレーションゲームです。各陣営にはそれぞれ特徴を持った14キャラクターがいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ultraman%20Club%20-%20Tekikaijuu%20o%20Hakken%20seyo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ultraman%20Club%20-%20Tekikaijuu%20o%20Hakken%20seyo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ultraman%20Club%20-%20Tekikaijuu%20o%20Hakken%20seyo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

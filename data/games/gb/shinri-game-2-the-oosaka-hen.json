@@ -1,0 +1,65 @@
+{
+  "id": "shinri-game-2-the-oosaka-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinri Game 2, The - Oosaka Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザ・心理ゲーム2 大阪編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinri Game 2, The - Oosaka Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "47095204",
+      "md5": "b050def2aa2280ee666d23c3a688f438",
+      "sha1": "1899a1ee1a6d7b69e2697395ce23fc3ce1e88624",
+      "sha256": "e827fdba41ae6a0f293d39d2ab6c3903c4d5785f578ac5503dd3b3a71f7a8f5a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "心理ゲームの内容（ストーリー）は、大阪に関連するものばかりではありません。また、「大阪度チェック」というモードもあり、大阪の人々のユニークさを測ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shinri%20Game%202%2C%20The%20-%20Oosaka%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shinri%20Game%202%2C%20The%20-%20Oosaka%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shinri%20Game%202%2C%20The%20-%20Oosaka%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

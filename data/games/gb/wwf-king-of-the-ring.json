@@ -1,0 +1,70 @@
+{
+  "id": "wwf-king-of-the-ring",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "WWF King of the Ring",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キングオブリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "WWF King of the Ring (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3ab55613",
+      "md5": "dba637d1573394056a89cb97ec78000a",
+      "sha1": "3751261d8113c7b937f9e077803af514f443afbc",
+      "sha256": "0abebace80cf2f9576110355d3bc337cd4bff0967486e76fbe944946f7a1acaf"
+    },
+    {
+      "name": "WWF King of the Ring (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7f0cd87c",
+      "md5": "8ffab7c16a215d3e2cce01fa24fbdf4f",
+      "sha1": "fd17015d8f85f407427c8aa3e68fb0a32dc072a8",
+      "sha256": "0ba3d3b9be8c615bd29956887584aff9446a88fb2606bfb8ccc75907164c4cf9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 265031
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/WWF%20King%20of%20the%20Ring%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WWF%20King%20of%20the%20Ring%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/WWF%20King%20of%20the%20Ring%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

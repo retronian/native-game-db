@@ -1,0 +1,51 @@
+{
+  "id": "super-scrabble",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Scrabble",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Scrabble (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3874b7a2",
+      "md5": "5c39c161b85481d7154f19081ff40f42",
+      "sha1": "59755c83dc26015c4084296ab06600ffc235f026",
+      "sha256": "ecafe4e6ab5f201b8a74cc6e79798c3aae5023f86df93996f1f67e4c60d3bc4f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49065
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Scrabble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Scrabble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Scrabble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

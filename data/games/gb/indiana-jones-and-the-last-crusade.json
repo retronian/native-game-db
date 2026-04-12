@@ -1,0 +1,57 @@
+{
+  "id": "indiana-jones-and-the-last-crusade",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Indiana Jones and the Last Crusade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "インディージョーンズ 最後の聖戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Indiana Jones and the Last Crusade (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "9189921a",
+      "md5": "a27e15cde0a8fbfc4489e0f599a53a9a",
+      "sha1": "b656ba6c03d0cb5c81c2ed8c5c64ea8e36660aaa",
+      "sha256": "8acbc80561997d81048082f7d9ca939a9c792300264dd1485e1ceca3543efb92"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

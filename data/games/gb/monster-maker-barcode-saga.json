@@ -1,0 +1,65 @@
+{
+  "id": "monster-maker-barcode-saga",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Maker - Barcode Saga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターメーカー バーコードサーガ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Maker - Barcode Saga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "56ba6a71",
+      "md5": "f0c0599f8d8a18b1adcbe6e79d8d936a",
+      "sha1": "f7a101338c4eebcdcc1e5d9082a30caa2d706969",
+      "sha256": "d1a01667610bb8ef9b1e5c355a78579e0b1360adcf0aea9be04312658b580862"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "お菓子についてくるバーコードを読み取り、キャラクターを出現させ、光の戦士となって闇の軍団と戦おう。キャラクターたちでチームを編成し、フィールド上で移動させて戦う。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Monster%20Maker%20-%20Barcode%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Monster%20Maker%20-%20Barcode%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Monster%20Maker%20-%20Barcode%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

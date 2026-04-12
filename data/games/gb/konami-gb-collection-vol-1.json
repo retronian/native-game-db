@@ -1,0 +1,95 @@
+{
+  "id": "konami-gb-collection-vol-1",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konami GB Collection Vol.1",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コナミGBコレクション Vol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクションVol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミ GB コレクション Vol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konami GB Collection Vol.1 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "992cd78f",
+      "md5": "74ec77e1cfbdc05bba5381b3f78d5dd9",
+      "sha1": "dfb86b1b2db29a7086d60dc143374ef27b130580",
+      "sha256": "7c4edefe1c662016e9b398c29164ac6c8bec013c9ce20dc860f39c49f58b9add"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49835
+  },
+  "descriptions": [
+    {
+      "text": "このコンピレーションには、1つのカートリッジに4つのコナミタイトルが収められています：\nキャッスルヴァニア：ザ・アドベンチャー\nグラディウス（タイトル変更されたネメシス）\nコナミレーシング\nプロボテクター\n\n各ゲームはゲームボーイカラーとゲームボーイに完全対応しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-09-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Konami%20GB%20Collection%20Vol.1%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konami%20GB%20Collection%20Vol.1%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konami%20GB%20Collection%20Vol.1%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

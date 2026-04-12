@@ -1,0 +1,63 @@
+{
+  "id": "pokemon-blue-version",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Blue Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APEE",
+      "size": 1048576,
+      "crc32": "d6da8a1a",
+      "md5": "50927e843568814f7ed45ec4f944bd8b",
+      "sha1": "d7037c83e1ae5b39bde3c30787637ba1d4c48ce2",
+      "sha256": "2a951313c2640e8c2cb21f25d1db019ae6245d9c7121f754fa61afd7bee6452d"
+    },
+    {
+      "name": "Pokemon - Blue Version (Hong Kong) (SGB Enhanced) (Pirate)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "c5571f88",
+      "md5": "447b9245e591aa2f17a2a1fe85982bf1",
+      "sha1": "febdf81662e04443a307ff25892997c8ddd4e041",
+      "sha256": "4acccf140168b3f09c430a045a7151d294ec377e341cd0c692c78e8e9fb42cb5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pokemon%20-%20Blue%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pokemon%20-%20Blue%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pokemon%20-%20Blue%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pokemon%20-%20Blue%20Version%20%28Hong%20Kong%29%20%28SGB%20Enhanced%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

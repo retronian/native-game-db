@@ -1,0 +1,67 @@
+{
+  "id": "garfield-labyrinth",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Garfield Labyrinth",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Garfield Labyrinth (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "51b8626d",
+      "md5": "49bcb33470df757847eef5e170c9b6bd",
+      "sha1": "87913e557dfb98c5f2a0f42ea074c36eca57a4f7",
+      "sha256": "7361a5fbe09bb850936f7f4a00df60d9130cdb0b6e7a3a6d5420dfe881e06353"
+    },
+    {
+      "name": "Garfield Labyrinth (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "06884616",
+      "md5": "4ec2df5bc21a4dc75b79ee929723dc39",
+      "sha1": "c9170113c3370523cf5d13132ed3e2253a3f9dde",
+      "sha256": "7d0e7f8ce738125f1c71658577fbfadcdffecfdb9ac2a1a8951ca502d81fdb51"
+    }
+  ],
+  "external_ids": {
+    "igdb": 153452
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Garfield%20Labyrinth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Garfield%20Labyrinth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Garfield%20Labyrinth%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Garfield%20Labyrinth%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

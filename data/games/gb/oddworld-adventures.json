@@ -1,0 +1,51 @@
+{
+  "id": "oddworld-adventures",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oddworld Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oddworld Adventures (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "6510c0e2",
+      "md5": "5ca71cd4ceace3cb6650ff05d679d149",
+      "sha1": "be3f69371b6959dab34014cb1d3672f4f3377c3a",
+      "sha256": "52ad82cb79d557d37c4fd92a9782c594f49340d493f007900b901b3aa232bb9e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49015
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Oddworld%20Adventures%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Oddworld%20Adventures%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Oddworld%20Adventures%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ultraman-ball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultraman Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラマンボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultraman Ball (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "468d1a2e",
+      "md5": "90a0bc783fbe56748989d8fad9ae48ed",
+      "sha1": "3cdfcfb1a88d0cbfeb1c7b12751409faf69bba02",
+      "sha256": "5d8520ee6dea9a6a07c4329b39e3e51ce4b479aeff357270505222655b405a09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 76600
+  },
+  "descriptions": [
+    {
+      "text": "ウルトラマンボールは、円谷プロダクションの特撮キャラクター、ウルトラマンとその仲間たちをフィーチャーしています。ウルトラマンはボールモードに変身できるヒーローとして再構築され、この新しい力を使って仲間を救います。\n\n通常の二足歩行の姿では、ウルトラマンは壁にしがみつき、ジャンプを繰り返すことで壁を登ることができます。ボールの姿では、ウルトラマンは敵を倒し、坂道でスピードを上げて新しいエリアに到達するのを助けます。また、バウンドすることもでき、これにより垂直の高さも増します。これらの力を組み合わせることで、プレイヤーは各ステージを進むことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ultraman%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ultraman%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ultraman%20Ball%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

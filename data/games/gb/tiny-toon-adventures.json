@@ -1,0 +1,89 @@
+{
+  "id": "tiny-toon-adventures",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiny Toon Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイニー・トゥーン アドベンチャーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "タイニートゥーン アドベンチャーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "fb13462b",
+      "md5": "1ceb3148a1b68b2ba9eada0393f987fc",
+      "sha1": "08948315649160c62546f541f173808595f75149",
+      "sha256": "4c9e5193a827b35733d3e66943148862f15cff1420e49719a2769ec242294e44"
+    },
+    {
+      "name": "Tiny Toon Adventures (Japan) (Beta) (1991-07-16)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "4e4a17b5",
+      "md5": "454e1f0a2af6070b408694e7e05482be",
+      "sha1": "cb9753abd9f5ba69f310d7309a2a824caafa7f54"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "タイニー・トゥーン アドベンチャーズは、同名のアニメシリーズに基づいています。タイニー・トゥーンズは、ワーナー・ブラザースの有名なアニメキャラクターたちの子供版です。\n\nバブスは女優を目指している少女です。ある日、彼女は自分の技術を磨くために劇場へ向かうことにします。バスター・バニーと彼の友達プラッキー、ハンプトンは、バブスが出発するのを見て、彼女を劇場まで追いかけることに決めます。こうしてゲームが始まり、あなたはバスター、プラッキー、またはハンプトンを操作し、バブスを追いかけながら4つの横スクロールレベルを進んでいきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tiny%20Toon%20Adventures%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tiny%20Toon%20Adventures%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tiny%20Toon%20Adventures%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tiny%20Toon%20Adventures%20%28Japan%29%20%28Beta%29%20%281991-07-16%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

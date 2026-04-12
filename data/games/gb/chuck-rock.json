@@ -1,0 +1,51 @@
+{
+  "id": "chuck-rock",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuck Rock",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuck Rock (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c5951d9e",
+      "md5": "435b566a4b3745b0acc5a976bedd9245",
+      "sha1": "601453f98ba7d92ebe71f3e86952a584cbea090c",
+      "sha256": "78bf19dad4d8221cece7b88d0b4a0363d4ce9338d55ba957b09f9bd20094df9d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 81871
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chuck%20Rock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chuck%20Rock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chuck%20Rock%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "pocket-monsters-aka",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Monsters - Aka",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットモンスター 赤",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - Aka (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "13652705",
+      "md5": "912d4f77d118390a2e2c42b2016a19d4",
+      "sha1": "0623ad12f48c259447980d68bd85ddbf8204b2cd",
+      "sha256": "392ce450d708c8d127aaed7afc20001a48625bd83a5fa5325be82f5c0972ccfa"
+    },
+    {
+      "name": "Pocket Monsters - Aka (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b77be1e0",
+      "md5": "4c44844f8d5aa3305a0cf2c95cf96333",
+      "sha1": "ef74c79cded14204ac79e77f4964d9cb25003120",
+      "sha256": "751abb1fb2b2d6b91dc631fa10ed36bd07f682cb5c3febe6c8f0e3dabc1fae1c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは若い少年としてマサラタウンで旅を始めます。野生のポケモンとの危険な遭遇の後、オーキド博士がポケモンの捕まえ方を教えてくれ、その後、あなたは見習いトレーナーとして旅立ちます。カントー地方を旅する中で、ポケモンを捕まえてその情報をポケモン図鑑に記録し、地域に散らばるジムで競い合うことでより優れたトレーナーになる必要があります。ポケモンのトレーナーとしての実力を証明したら、エリートフォーに挑む時です。彼らはあなたが学んだすべてのスキルを試す、優れたトレーナーの集団です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-02-27",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Monsters%20-%20Aka%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Monsters%20-%20Aka%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Monsters%20-%20Aka%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Monsters%20-%20Aka%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Monsters%20-%20Aka%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

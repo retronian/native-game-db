@@ -1,0 +1,68 @@
+{
+  "id": "chachamaru-panic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chachamaru Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "茶々丸パニック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chachamaru Panic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "aa920298",
+      "md5": "48fa05f3c1e7546a30c546c0a141c034",
+      "sha1": "c6cbb08d3bb9a4deccf1df880465ce5d23907839",
+      "sha256": "4aac991cb5cbbb74a3a10cfdab14af9158b86d4fce8b39e9b8f8e6713b75e9f6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248823
+  },
+  "descriptions": [
+    {
+      "text": "茶々丸パニックは、ヒューマンエンタテインメントから発売されたアクションゲームで、1991年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chachamaru%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chachamaru%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chachamaru%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

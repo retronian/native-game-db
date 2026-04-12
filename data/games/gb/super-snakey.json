@@ -1,0 +1,65 @@
+{
+  "id": "super-snakey",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Snakey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Superスネーキー スーパー・スネーキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Snakey (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "984d0f7f",
+      "md5": "770a5daeb07a68be86e72ed16e1a38d9",
+      "sha1": "f4746aace9190196ca82003b8e479a130926035e",
+      "sha256": "692e2c5de2307ced7cfce44f79f1bcaf3f4bdeace53a5216de7f979a2e13d415"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "致命的なヘビの巣。あなたしか彼らを外に出させることはできません！新しいヘビを操り、同じ種類のヘビに触れさせることで、毒蛇を消し去りましょう。簡単そうですか？ヘビを合わせ続ける限り、あなたがコントロールしています。しかし、毒のある爬虫類が上に積み上がってきたら、命を懸けて逃げる準備をしましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Snakey%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Snakey%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Snakey%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

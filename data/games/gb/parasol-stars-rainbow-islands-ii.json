@@ -1,0 +1,60 @@
+{
+  "id": "parasol-stars-rainbow-islands-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parasol Stars - Rainbow Islands II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "パラソルスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parasol Stars - Rainbow Islands II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "c35ad128",
+      "md5": "ab5e4c728a5b62f7985c22c61551469c",
+      "sha1": "4970bbf5456305f2bfdb27e3a0dc14be4a0e10b7",
+      "sha256": "1faa4b3ead3c0f7910dfea30ac3ef6f8e66a3a96ee5028b8a86142a4417b10ba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 316080
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Parasol%20Stars%20-%20Rainbow%20Islands%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Parasol%20Stars%20-%20Rainbow%20Islands%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Parasol%20Stars%20-%20Rainbow%20Islands%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

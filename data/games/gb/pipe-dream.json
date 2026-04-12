@@ -1,0 +1,78 @@
+{
+  "id": "pipe-dream",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pipe Dream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パイプドリーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pipe Dream (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "d8b4aea4",
+      "md5": "d9bacb4b392a0ce4e8f9d29baa916b0b",
+      "sha1": "64a58aafecb0aceed2dde843a19a28b2bb000b2f",
+      "sha256": "b5cfbff2db9fc6fad37e67119ae1a1fd912847d9675d5ec517984d3cd0beed0c"
+    },
+    {
+      "name": "Pipe Dream (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "f59cedea",
+      "md5": "0f021462180b18436c21299e923cca91",
+      "sha1": "12a2c76ec96cc94a4c7eead6536eddd5f3f9998f",
+      "sha256": "4cb04f7e7d444732240e43c72d054dc2012fe28db43b40fc4ecf45858f3f73db"
+    }
+  ],
+  "external_ids": {
+    "igdb": 265006
+  },
+  "descriptions": [
+    {
+      "text": "この抽象的なパズルゲームの各レベルでは、プレイヤーが「フルーズ」と呼ばれる不明な物質ができるだけ多くのパイプを通過できるようにネットワークを構築することが求められます。ピースはランダムな順序で提供され、水平または垂直の直線、四方向に回転するコーナー、フルーズを水平および垂直に直進させるクロスオーバーピースの7種類があります。これらのピースはどちらの側からも接続できます。フルーズが隙間や前のピースが流れ込めないピースに当たると、パイプは終了します。\n\nフルーズがランダムに選ばれたスタート位置から流れ始める前に、プレイヤーは数秒間ピースを配置する時間があります。ピースはどこにでも置くことができます。しかし、よくある状況として、長く複雑なパイプの配置ができているのに、どこかに隙間が残っていることがあります。プレイヤーは同じマス内でピースを別のものに置き換えることができます（フルーズがその方向に流れやすくするために）、ただしわずかなスコアペナルティが課せられます。\n\nボーナスは、フルーズを少なくとも5つのクロスオーバーピースの両側を通過させたり、画面上のすべてのマスを通過させたりすることで与えられます。後のレベルでは、グリッド上のいくつかのマスがブロックされており、サイドウォールにいくつかの隙間があるため（フルーズが画面の反対側に通過できるように）、戦略が求められます。4つのレベルごとに、ボーナスゲームがあり、プレイヤーは「コネクト4」のボードゲームのように、各列の最も低い空いているスペースにのみピースを配置することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pipe%20Dream%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pipe%20Dream%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pipe%20Dream%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

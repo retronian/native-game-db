@@ -1,0 +1,152 @@
+{
+  "id": "caesars-palace",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Caesars Palace",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "シーザースパレス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Caesars Palace (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "78bf3633",
+      "md5": "8425e6aa8e841b8a6192476ac600ea81",
+      "sha1": "6d77ce1b212406ba9737dd99ffd9443a3887ef79",
+      "sha256": "65424050a5e570e53e002319437e1c2f7e0a0f2164f0e48a85215033b1d750f3"
+    },
+    {
+      "name": "Caesars Palace (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "000aaa74",
+      "md5": "b0ef8b9f2ea3e0898b8298a6f076064a",
+      "sha1": "2cf0e21f7be55e3246d615550c8459a3659094ef",
+      "sha256": "dc66293e7f17f54acad18ddd4a22e7d99c94afaea0121a41388d9df845731363"
+    },
+    {
+      "name": "Caesars Palace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "d9f901a9",
+      "md5": "ccd1192a634c3358352172abfeb7fb9e",
+      "sha1": "c1ed80f33fc3603edaba1bdf5c317f1a205da3dc",
+      "sha256": "b50d355bc32a1d93d59b6b5d0318316a5ccea5944b2efb3836f7f3cb42c56231"
+    },
+    {
+      "name": "Caesars Palace (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "87a9d605",
+      "md5": "9c9679e4da4daa2ee22f1c35eef03cad",
+      "sha1": "126e9ef9e975bbbc6303d5d62a379d4dbd404cf0",
+      "sha256": "b8c8fd4686feb98f078b88a1eb5d821f1a2675de615764d918b90f97e73dd573"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365687
+  },
+  "descriptions": [
+    {
+      "text": "このゲームでは、シーザースパレスカジノでプレイすることができます。カジノ内を歩き回り、ビデオポーカー、ルーレット、ブラックジャック、ビッグシックスマネーウィール、または3種類のスロットマシンを楽しむことができます。賭けをしてチップを獲得し、好きな時にそれを現金に交換できます。操作はカーソルを使って行い、すべてが一人称視点で表示されます。タクシーでカジノに到着しますが、自分のリムジンで帰ることができるでしょうか？",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-08-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Caesars%20Palace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Caesars%20Palace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Caesars%20Palace%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Caesars%20Palace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Caesars%20Palace%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Caesars%20Palace%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Caesars%20Palace%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

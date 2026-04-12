@@ -1,0 +1,103 @@
+{
+  "id": "konami-gb-collection-vol-3",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konami GB Collection Vol.3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コナミGBコレクション Vol.3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクションVol.3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミGBコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "コナミ GB コレクション Vol.2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Konami GB Collection Vol. 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konami GB Collection Vol.3 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1de9caf9",
+      "md5": "09acb679f68373c9853a4e215d627527",
+      "sha1": "db9f1192df7e186ea498c4f576fc016fdc339539",
+      "sha256": "d48110170106e2f50941ee4cca92e96347b175c5f110b5e978f45a6618805f56"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50044
+  },
+  "descriptions": [
+    {
+      "text": "「コナミGBコレクション Vol. 2」の続編である本作には、アーケードスタイルのタイトルが4つ収録されています：\n\nバイカーズ  \nグッタンゴットゥン  \nミスティカル忍者  \nポップンツインビー",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Konami%20GB%20Collection%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Konami%20GB%20Collection%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Konami%20GB%20Collection%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

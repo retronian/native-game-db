@@ -1,0 +1,70 @@
+{
+  "id": "j-league-live-95",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "J.League Live 95",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Jリーグ ライブ'95",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "Jリーグ ライブ 95",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "J.League Live 95 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "f0321342",
+      "md5": "f4c4fca9e816c1fee2e0d09026a2ea29",
+      "sha1": "3b4922f8034877d1a5aca380f846a7cb6841f6ee",
+      "sha256": "dc10634bbf35e2f20da3a0d1429db17e1d412aaff7e4c6cf1c7be5012a74af25"
+    }
+  ],
+  "external_ids": {
+    "igdb": 266541
+  },
+  "first_release_date": "1995-04-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/J.League%20Live%2095%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/J.League%20Live%2095%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/J.League%20Live%2095%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

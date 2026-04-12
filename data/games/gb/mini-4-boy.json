@@ -1,0 +1,62 @@
+{
+  "id": "mini-4-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini 4 Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミニ4ボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini 4 Boy (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0618e4b0",
+      "md5": "04ec032cd1f6dab8f7737d422d129c70",
+      "sha1": "cb6022ef5729cbf370ccdc9c1958d0b4bcbd5e90",
+      "sha256": "bb42b2a9664251222ebee54ab9d0c3a8e0e2fdcdf85e6b2e666a8fd99063eb5b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228620
+  },
+  "descriptions": [
+    {
+      "text": "ミニ4ボーイは、J-Wingによって発表された戦略ゲームで、1996年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-27",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mini%204%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mini%204%20Boy%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

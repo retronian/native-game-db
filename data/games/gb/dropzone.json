@@ -1,0 +1,66 @@
+{
+  "id": "dropzone",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dropzone",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dropzone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "351a7277",
+      "md5": "74d96840a5c09cd88c862a5647465b81",
+      "sha1": "0bf73ffa90fdba5a4ee4e2338bb2f0d01af6fb88",
+      "sha256": "975c7f1ee6ab5d3d3fdf82f8788ed3646f27ee01ea2f1cef11f2999d97a32222"
+    },
+    {
+      "name": "Dropzone (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "374f80b0",
+      "md5": "03be859e5b1448e7508aa4d83b424f07",
+      "sha1": "ac64c854dfea6387f262a2870f85c369d2cd14f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 369617
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dropzone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dropzone%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

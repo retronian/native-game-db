@@ -1,0 +1,65 @@
+{
+  "id": "tasmania-monogatari",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tasmania Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タスマニア物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tasmania Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "9ea867a7",
+      "md5": "d413f826b00d3f2384555490d0f1271d",
+      "sha1": "6d036755c55c84b05fe1c015cc567f1889d27576",
+      "sha256": "a938229e1ed191eb0d3a6062412e0fb0b6d64d4b52caed211a5f8be553c8b277"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「タスマニア物語」は1990年代に最も売れた日本映画の一つで、絶滅したタスマニアタイガーを探す男と、その父を探す息子の物語です。しかし、関連ゲームは1984年にポニーキャニオンがリリースした「フルーツパニック」のリメイクに過ぎません。\n\nこのシングルスクリーンプラットフォーマーでは、帽子をかぶった男をプラットフォームからプラットフォームへと導きます。彼は自分でジャンプできないため、左右にあるトランポリンを使って正しいプラットフォームに到達させ、サボテンや花、その他の植物を集めます。すべての植物を集めると、次のステージに進みます。ゲームを難しくしているのは、あなたの男を狙う「タスマニアデビル」です。上からデビルに落下するか、敵が歩いてくるように爆弾を仕掛けることで、一時的に彼らをスタンさせることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tasmania%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tasmania%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tasmania%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

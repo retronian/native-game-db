@@ -1,0 +1,65 @@
+{
+  "id": "totsugeki-ponkotsu-tank",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Totsugeki! Ponkotsu Tank",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "突撃! ポンコツタンク",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Totsugeki! Ponkotsu Tank (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "9b5b7bff",
+      "md5": "0e4a3a1f29f20dea45638b2b72bc8a68",
+      "sha1": "2baabb0b3e846e31188388e43ef822a03c777ead",
+      "sha256": "f8d0bc1b5e2a7c35c29ce90e09a0aa8ace5491822254b2683ae4435d2ff60e61"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「トラックス」は、クラシックなアクションレベルで小さなタンクを指揮する横スクロールシューティングゲームです。あなたのタンク技術を、土地を支配する破壊の機械を作り出す悪党のタンクマスターと対決させます。\n\n複数の角度から発射することができますが、ゲームボーイの操作制限のため、あなたの車両は砲塔を時計回りにしか回転できません。\n\n爆発する砲弾や多方向射撃、対装甲弾など、武器を強化するいくつかのパワーアップがあります。\n\nゲームは、森林、砂漠、洞窟、都市、タンク工場など、さまざまな環境を進む中でボス戦も特徴としています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Totsugeki%21%20Ponkotsu%20Tank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Totsugeki%21%20Ponkotsu%20Tank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Totsugeki%21%20Ponkotsu%20Tank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

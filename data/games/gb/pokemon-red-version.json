@@ -1,0 +1,58 @@
+{
+  "id": "pokemon-red-version",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Red Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APAU",
+      "size": 1048576,
+      "crc32": "9f7fdd53",
+      "md5": "3d45c1ee9abd5738df46d2bdda8b57dc",
+      "sha1": "ea9bcae617fdf159b045185467ae58b2e4a48b9a",
+      "sha256": "5ca7ba01642a3b27b0cc0b5349b52792795b62d3ed977e98a09390659af96b7b"
+    },
+    {
+      "name": "Pokemon - Red Version (Hong Kong) (SGB Enhanced) (Pirate)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "cee9c818",
+      "md5": "df7478308fc20466e39ef7bd950048e5",
+      "sha1": "66dc27a6998031e78042fcd24fcc053d78aabd2d",
+      "sha256": "e6b6444657e52cb2d162d5e7e0f1683f592905a28876ec90e9e8c73e204354d4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pokemon%20-%20Red%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pokemon%20-%20Red%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pokemon%20-%20Red%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

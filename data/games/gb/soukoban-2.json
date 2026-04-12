@@ -1,0 +1,74 @@
+{
+  "id": "soukoban-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soukoban 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "倉庫番2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "倉庫番",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soukoban 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "d9da6741",
+      "md5": "7f1e1ce56aca694b46da2ba407b60cb3",
+      "sha1": "211221bd34b3ae86ce5d647a81caab8bb91bfa71",
+      "sha256": "ed0ab3bfcbc6ac96cc1c8eebb9cdabf0c52e1a562d115eefe47b2078746bc691"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オリジナルのBOXXLEゲームの挑戦的な続編\n\nBOXXLE IIは、倉庫内で物を移動させることを基にした、挑戦的で頭を使うパズルゲームです。オリジナルのBOXXLEストーリーラインから時間が経ち、ウィリーは倉庫で一生懸命働いていると、エイリアンがワンダを誘拐してしまいます！彼はどうやって彼女を救うのでしょうか？自分の宇宙船を作らなければなりません！ウィリーが箱を正しい場所に移動させて1つのレベルをクリアするたびに、彼はロケットの部品を購入できるようになります。しかし、単なる肉体労働だけでは解決できません。BOXXLE IIをクリアするには、頭脳も必要です！120以上の迷路のような画面があなたを集中させ続けます。BOXXLE IIは再びあなたの頭を「ボックスル」させるでしょう。\n\n- より良い視界のために画面を拡大または縮小\n- 3つのテーマ音楽から選択可能\n- 3つの編集画面で自分だけのパズルを作成\n- 特別な即時再生モードでミスを振り返ることができる\n- パスワード記憶機能で保存\n- 120以上の異なる迷路のような画面",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Soukoban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Soukoban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soukoban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

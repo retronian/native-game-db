@@ -1,0 +1,65 @@
+{
+  "id": "famista",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3d3c059e",
+      "md5": "7d99006d00431ac246817d4f61e49b59",
+      "sha1": "5cb8e63906d32c5408b7f959a75c41578a444c3b",
+      "sha256": "b57035a07989cbd6c4c244a6d7cfcd61bdc457ad2e2695f6e5a1e980d07ec9a5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「さて、地元の選手たちはこの信じられないシリーズの第七戦で最後のアウトを迎えようとしています。カウントはフルカウント、ランナーたちは走り出します。投球モーションからの投球…おお、ウェイドが完璧に捉えた！…ボールは飛んでいく…コールが警告トラックまで戻る…それはホームランだ！」\n\n今、あなたは「エクストラベース」で接戦のペナントレースの興奮を体験できます。プロ野球の試合のように、投球、バッティング、守備、そしてベースを走ることができます。エースのリリーフピッチャーを投入したり、サヨナラスクイズを指示したりするなど、すべてのコーチングの決定もコントロールできます。「エクストラベース」は実際にゲームをプレイするのに次ぐ最高の体験です。さあ、バッターボックスに立って、プレイボール！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Famista%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Famista%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Famista%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

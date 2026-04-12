@@ -1,0 +1,68 @@
+{
+  "id": "go-go-hitchhike",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Go! Go! Hitchhike",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヒッチハイク",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Go! Go! Hitchhike (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "845735de",
+      "md5": "25693d62f14011ed543a273e34e92ce5",
+      "sha1": "6a35bc2967f25fda0626b7a00a2cacfec9c53278",
+      "sha256": "bf5efde6ed52ac0aed3c77306c88f4ff0a3b53672d9e79abea8640e696efeb67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92296
+  },
+  "descriptions": [
+    {
+      "text": "アテネからロンドンまでヒッチハイクすることを目的とした、独特な設定のすごろくゲームです。ルーレットを使ってコマを進め、体力や所持金などのさまざまなパラメータを管理する必要があります。ヒッチハイクは厳しいです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-07-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Go%21%20Go%21%20Hitchhike%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Go%21%20Go%21%20Hitchhike%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Go%21%20Go%21%20Hitchhike%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "star-trek-generations-beyond-the-nexus",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Trek Generations - Beyond the Nexus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "d925d15d",
+      "md5": "1897e54ca0af5f6c83fdb92ae6d02e2f",
+      "sha1": "47af2970d4feada0b59db59af6130b1999bb5f3f",
+      "sha256": "6cb1fe052995fadd124ec57104a83fd02be7a05a424dafbb0e96390ea576c297"
+    },
+    {
+      "name": "Star Trek Generations - Beyond the Nexus (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "9f2d11c6",
+      "md5": "eca9fe803d60ff7f1b8a740a1accc63b",
+      "sha1": "86a97ad95738bbcbbe94fc9911d6fd6a92a7a636",
+      "sha256": "2085a11062131fd64c2bc836200a6e203c0bd45909d193c8ad82c0f79f2c025b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Star%20Trek%20Generations%20-%20Beyond%20the%20Nexus%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

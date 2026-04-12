@@ -1,0 +1,68 @@
+{
+  "id": "double-yakuman-jr",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Yakuman Jr.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダブル役満Jr.",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Yakuman Jr. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "34ac7268",
+      "md5": "78667e88a568b44115cb76dfe63a74a3",
+      "sha1": "7d72bc65297f21605521f7320a5b49193e584cd0",
+      "sha256": "0f8a1eb670c65390bb40bb86c58ae8397b3d1996ba9fae5167f753a6fc4365ae"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59750
+  },
+  "descriptions": [
+    {
+      "text": "VAPとその麻雀シミュレーションを止めることはありません！今回は、編集者が「ジュニア」と名付けられたバージョンに向けて、初心者にぴったりの簡略化されたルールを提供するオリジナルタイトルの代替案を用意しました。2人用のゲームは再び登場し、実現は依然として簡素なままです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-08-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Double%20Yakuman%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Double%20Yakuman%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Double%20Yakuman%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "bubble-ghost",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bubble Ghost",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バブルゴースト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Ghost (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "874d0d6f",
+      "md5": "e4ba52d3c6d5cd7aad2d3c398c9b7a0e",
+      "sha1": "f93e37b60025c67d7fbfc035ed727c9a39d8c9f1",
+      "sha256": "d861b5ccd02aa6322e4e6753a855d659a2ff8ccf2e67b5dfb1655ff3f8c7798c"
+    },
+    {
+      "name": "Bubble Ghost (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "843068fd",
+      "md5": "7f970d79f06cfb4270dea4b051277098",
+      "sha1": "b08b8a9bf742f7ca4b355a866b4167741252dcf6",
+      "sha256": "106d5443e092df3dc53035930766061f1ae4eae670470a93d648dc1adcda01c0"
+    },
+    {
+      "name": "Bubble Ghost (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "4a083f6f",
+      "md5": "2d83537ba548e4118ea3e8ae0a309dfe",
+      "sha1": "f5d063c70cecadda43d27d0c24f561a8f32b10f2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7802
+  },
+  "descriptions": [
+    {
+      "text": "バブルゴーストは、彼の創造主の城からバブルを吹き出す必要があります。あなたの任務は、彼を導いて各部屋の隙間を通過させることです。バブルの進行方向は、ゴーストのどの部分がバブルに当たるかによって影響を受けます。\n\nろうそくや扇風機、その他の障害物が、小さなバブルゴーストのタスクを難しくします。バブルゴーストは無敵ですが、バブルは速いスピードで何かにぶつかると破裂しやすいです。ゲームが終了するまでに、あなたには5つのバブルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Bubble%20Ghost%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubble%20Ghost%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Bubble%20Ghost%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Bubble%20Ghost%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

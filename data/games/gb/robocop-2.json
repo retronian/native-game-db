@@ -1,0 +1,96 @@
+{
+  "id": "robocop-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "RoboCop 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ロボコップ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "RoboCop 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "157ce6e5",
+      "md5": "cd84cc505331f6a1d0702bb4a9667cec",
+      "sha1": "aa5fa94c51ce454d76faa8bf5b3729557d064904",
+      "sha256": "24dacee87f1a016043220936e0c87892fa0170f2b11bde06a56ec7f10bfb7837"
+    },
+    {
+      "name": "RoboCop 2 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4365a789",
+      "md5": "3eb476d0c6347ce9034246f826866a58",
+      "sha1": "b4b78cb9b606d64e8ebb80e047b3b4b4767c019c",
+      "sha256": "c6d02170734d6b533d4599b6fca10ac83141e5ffe4902c4a98001aa61c00dffc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 144145
+  },
+  "descriptions": [
+    {
+      "text": "ロボコップ2は、ミッションベースのプラットフォームゲームです。ミッションには、ヌーク薬物カンisterを破壊することや、すべての敵を倒すことなど、さまざまな目的があります。十分に破壊したり倒したりできなかった場合、あなたはトレーニングミッションに移されます。これは一人称視点のシューティングゲームです。トレーニングにも失敗した場合は、前のミッションの最初からやり直さなければなりません。ミッションを成功裏にクリアするか、トレーニングで十分なポイントを獲得すると、次のステージに進むことができます。初代ロボコップとは異なり、時間制限はなく、ジャンプすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/RoboCop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/RoboCop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/RoboCop%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/RoboCop%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/RoboCop%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/RoboCop%202%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

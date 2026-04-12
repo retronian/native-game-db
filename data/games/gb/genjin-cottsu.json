@@ -1,0 +1,65 @@
+{
+  "id": "genjin-cottsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genjin Cottsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "原人コッツ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genjin Cottsu (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "95e8fcb1",
+      "md5": "b90369597fe5e986af4c1c31ad655f86",
+      "sha1": "70e3cd1df16fbff644c32f588bf80a116b043bb2",
+      "sha256": "bde0573eb9b1632f3b998081eb1ae473e7a3f9b26985c5e38865f2c3523e5037"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "楽器の音が消えたコッツン島のリズムを取り戻すために、原始的なコッツは6つの楽器でリズムを刻む旅に出ます。手にクラブを持って敵を倒し、頭蓋骨を叩いて音符を手に入れるジャンプアクションです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Genjin%20Cottsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Genjin%20Cottsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Genjin%20Cottsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

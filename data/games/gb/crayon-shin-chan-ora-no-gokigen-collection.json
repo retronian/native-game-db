@@ -1,0 +1,77 @@
+{
+  "id": "crayon-shin-chan-ora-no-gokigen-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crayon Shin-chan - Ora no Gokigen Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クレヨンしんちゃん オラのごきげんコレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ボンバーマンGB3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "dc723a9e",
+      "md5": "82e7321afed96c7639a817de1f88a6f8",
+      "sha1": "1dbd23b639b8a4b20ed28c3637608e03ebf59dad",
+      "sha256": "371e5b20379c129d394055afc77473568346f1f4cd3fdd555e15c1bb9215e6b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130485
+  },
+  "descriptions": [
+    {
+      "text": "「クレヨンしんちゃん」は、ウスイ・ヨシトの漫画で、5歳の少年・野原しんのすけの冒険を描いています。このゲームボーイ版は、実際にはミニゲームのコンピレーションです。若きヒーローは、ゴールシュートや1、2、3サンなど、さまざまな競技で漫画のキャラクターたちに挑戦しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Crayon%20Shin-chan%20-%20Ora%20no%20Gokigen%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Crayon%20Shin-chan%20-%20Ora%20no%20Gokigen%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Crayon%20Shin-chan%20-%20Ora%20no%20Gokigen%20Collection%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "navy-seals",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Navy SEALs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Navy SEALs (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "296ceacb",
+      "md5": "fc2b347600edffc8e997a7fc75382873",
+      "sha1": "f6930ea45b012ebd16c1d637ae763dfb94198623",
+      "sha256": "d15b102c95e17dcc2e6ba03d468094725ca2c575823e07f3f6cf6fddf586b6d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 25150
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Navy%20SEALs%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Navy%20SEALs%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Navy%20SEALs%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

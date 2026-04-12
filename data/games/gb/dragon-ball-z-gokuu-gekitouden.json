@@ -1,0 +1,74 @@
+{
+  "id": "dragon-ball-z-gokuu-gekitouden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball Z - Gokuu Gekitouden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボール 悟空激闘伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボールZ 悟空激闘伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ff3c027d",
+      "md5": "f29d7dc8d22c317bb7c17a7bbdc24ec6",
+      "sha1": "1f7a08d2e51e90d770d9dbf4092166b2bfa5697e",
+      "sha256": "d7dd593abab1e0db1b57235fd2705c0fb1612242a234e743f9d730a4ebb2c059"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ「ドラゴンボールZ」を基にしたこのゲームは、クリリン、ゴハン、ブルマがナメック星でフリーザの手下に襲われるところから始まり、フリーザと悟空の戦いまでのストーリーを追います。ゲームプレイは「ドラゴンボールZ 悟空激闘伝」に非常に似ていますが、いくつかの顕著な違いがあります。プレイヤーは各ターンの行動の順序を選ぶ際に限られた時間内で決定しなければなりません。次に、戦闘は小さなマップで行われ、2人のキャラクターの頭が四角形の中を動き回ります。キャラクターが何をしているかは、アニメ風の描画で上部に表示されます。その後、キャラクターはパワーをチャージし、狙いを定めて攻撃します。各攻撃が当たると、画面にダメージ値が表示されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-08-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Gokuu%20Gekitouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Dragon%20Ball%20Z%20-%20Gokuu%20Gekitouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Gokuu%20Gekitouden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

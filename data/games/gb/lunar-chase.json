@@ -1,0 +1,51 @@
+{
+  "id": "lunar-chase",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lunar Chase",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lunar Chase (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 245760,
+      "crc32": "cd555712",
+      "md5": "9bfa774d2474d63fdacdbe951573375a",
+      "sha1": "b1c5b60b82aaa0b824f7bf67fc8f111377ccfb6a",
+      "sha256": "7d5175bf4d4f99998b73ee240adc1d89c2e1d409009b7c3f5dd496fb314b622c"
+    },
+    {
+      "name": "Lunar Chase (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "67044675",
+      "md5": "db24c76ac8d32cd23ce3a00519ba874f",
+      "sha1": "f5e9ecd2f0d20b0d8d452a852c700a5223bdcb73"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lunar%20Chase%20%28USA%29%20%28Proto%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lunar%20Chase%20%28USA%29%20%28Proto%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

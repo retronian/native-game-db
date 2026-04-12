@@ -1,0 +1,65 @@
+{
+  "id": "little-master-2-raikou-no-kishi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Master 2 - Raikou no Kishi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リトルマスター2 雷光の騎士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Master 2 - Raikou no Kishi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "187de7f8",
+      "md5": "422652c9f3474cb89f8eee38808ebfb4",
+      "sha1": "9cc2d0f5ec33ca5ebf382e68dd55503c75a889b5",
+      "sha256": "76b14b6b8325e88b5c16ff279e507ccbac2fc76befee63685e37b2e9b78a1845"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「リトルマスター」の続編。国レイナックに侵入したモンスターを倒すため、前作の主人公リームが再び立ち上がります。シナリオシミュレーション型の栗タイプです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Little%20Master%202%20-%20Raikou%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Little%20Master%202%20-%20Raikou%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Little%20Master%202%20-%20Raikou%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

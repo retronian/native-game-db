@@ -1,0 +1,68 @@
+{
+  "id": "chibi-maruko-chan-2-deluxe-maruko-world",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chibi Maruko-chan 2 - Deluxe Maruko World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちびまる子ちゃん2 デラックスまる子ワールド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chibi Maruko-chan 2 - Deluxe Maruko World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "abff3314",
+      "md5": "b8db331900e2ff84a83efa787a11131d",
+      "sha1": "4fd5eb092086ed62aa978eacc1c3904c921f9615",
+      "sha256": "dcb0678cfe2cd6398be3d4ec121cfba8193e571f3ae1e9426c2c594e0e11b087"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79543
+  },
+  "descriptions": [
+    {
+      "text": "ちびまる子ちゃん2 デラックスまる子ワールドは、キッドが開発しタカラが発売したアドベンチャーゲームで、1991年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chibi%20Maruko-chan%202%20-%20Deluxe%20Maruko%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chibi%20Maruko-chan%202%20-%20Deluxe%20Maruko%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chibi%20Maruko-chan%202%20-%20Deluxe%20Maruko%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

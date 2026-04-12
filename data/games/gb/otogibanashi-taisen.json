@@ -1,0 +1,65 @@
+{
+  "id": "otogibanashi-taisen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Otogibanashi Taisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おとぎ話大戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Otogibanashi Taisen (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "98500521",
+      "md5": "2a0465c954847a7dc00dbcf5d363cd16",
+      "sha1": "49176ced7152d6d411db1aa77d7a131f46e7a081",
+      "sha256": "f7c26df1fbf5cc086bf6f686a5414d5547466e1cd70030493f591bbf2f375376"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "主人公とおとぎ話の主人公たちが共に戦い、悪魔の反乱によって混乱したおとぎ話の世界を救う物語です。キャラクターは「モモタロウ」や「ウラシマ」など、おなじみのキャラクターたちです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-08-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Otogibanashi%20Taisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Otogibanashi%20Taisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Otogibanashi%20Taisen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

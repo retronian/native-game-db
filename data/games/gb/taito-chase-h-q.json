@@ -1,0 +1,65 @@
+{
+  "id": "taito-chase-h-q",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taito Chase H.Q.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイトーチェイスH.Q.",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taito Chase H.Q. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "c58bb4f5",
+      "md5": "0a96c9c737a07148fd065b3c121dcbb2",
+      "sha1": "d448c5c63a0cca4f7c4ee806ff928c564d40d386",
+      "sha256": "4b34e5326b4bcf6e19e745a44f0dfe369c12ee147de23a31fc05ede150cbe83c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "タイトーチェイスH.Q. - 秘密警察は、他のタイトーチェイスH.Q.ゲームとは少し異なります。あなたは指令からの電話を受け取り、最近犯行を行った容疑者を逮捕するよう指示されます。ゲームには10のステージがあり、それぞれのステージで市内に3人のエージェントを配置します。これらのエージェントはそれぞれ異なる特技を持っています。エージェントを配置したら、そのうちの1人を容疑者の車両に向かわせなければなりません。もし車両が市外に出てしまうと、ゲームオーバーになります。\n\n接触があったら、戦闘が始まります。目的は容疑者の車両を衝突させて無力化することです。さらに、車両に発砲してダメージを与えることもでき、もし遅れを取った場合は最大3回のターボを使用して追いつくことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

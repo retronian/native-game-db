@@ -1,0 +1,51 @@
+{
+  "id": "jeopardy-platinum-edition",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy! - Platinum Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! - Platinum Edition (USA) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5206fd09",
+      "md5": "60f66390bef3ec6e5a84e299d2261f73",
+      "sha1": "35934633a9b301d734a6fced7c56d55eba0385aa",
+      "sha256": "36d586b8e62db77f08807da3b766fe1d73de7feeb8576a66c6949e66c5cca4ba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48978
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jeopardy%21%20-%20Platinum%20Edition%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jeopardy%21%20-%20Platinum%20Edition%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jeopardy%21%20-%20Platinum%20Edition%20%28USA%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

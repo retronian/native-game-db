@@ -1,0 +1,51 @@
+{
+  "id": "boggle-plus",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Boggle Plus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Boggle Plus (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "70c8c799",
+      "md5": "b3be58ae099ab2a695cfebe9881c7461",
+      "sha1": "d6cf512f7301ccdc2d802f34fbbde2d0ba2cf3cd",
+      "sha256": "195f5a9e97bfec6f071bfd6b82a39ffa25185b687a26a1f2937f9718c4d4d16e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92264
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Boggle%20Plus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Boggle%20Plus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Boggle%20Plus%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

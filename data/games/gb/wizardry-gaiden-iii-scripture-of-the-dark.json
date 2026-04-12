@@ -1,0 +1,103 @@
+{
+  "id": "wizardry-gaiden-iii-scripture-of-the-dark",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry Gaiden III: Scripture of the Dark",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "ウィザードリィ・外伝 III 闇の聖典",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "Wizardry Gaiden III: Yami no Seiten",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "Wizardry Gaiden III - Yami no Seiten",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ウィザードリィ外伝III 闇の聖典",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Wizardry Gaiden III: Yami no Seiten",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 49144
+  },
+  "first_release_date": "1993-10-25",
+  "descriptions": [
+    {
+      "text": "人気の3DRPGのゲームボーイシリーズ第3作。今回は、より多くの種族、職業、魔法が登場し、通信ケーブルを通じて他のプレイヤーと対戦することも可能です。隠し扉や罠の数々により、難易度はさらに上がりましたが、マニアにはたまらない内容です。マッピング機能のおかげで、携帯デバイスに最適です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry Gaiden III - Yami no Seiten (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "32c94538",
+      "md5": "2be59d4c20728300c84a71fcfcb565f9",
+      "sha1": "e169014cf1f12b956f8dff040ddb063ea4f7cab9",
+      "sha256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wizardry%20Gaiden%20III%20-%20Yami%20no%20Seiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wizardry%20Gaiden%20III%20-%20Yami%20no%20Seiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Wizardry%20Gaiden%20III%20-%20Yami%20no%20Seiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "renju-club-gomoku-narabe",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Renju Club - Gomoku Narabe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "連珠倶楽部 五目ならべ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "連珠倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Renju Club - Gomoku Narabe (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "52f5e960",
+      "md5": "cf189f7f8a35bd5838c102cd2126de46",
+      "sha1": "d5d2a3f194af308a2e7fbbf0f893537bd9e44a68",
+      "sha256": "df262b6db4217e925b9645694382c8d5a84e31eaf6819d44f9ae1f58192a68e7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "コンピュータと対戦するだけでなく、他の2人のプレイヤーと対戦したり、50問のジズレンジュのゲームを楽しむこともできます。コンピュータの強さは3つのレベルから選べます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-05-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Renju%20Club%20-%20Gomoku%20Narabe%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Renju%20Club%20-%20Gomoku%20Narabe%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Renju%20Club%20-%20Gomoku%20Narabe%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

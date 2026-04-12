@@ -1,0 +1,74 @@
+{
+  "id": "super-momotarou-dentetsu-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Momotarou Dentetsu II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電鉄2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー桃太郎電鉄II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Momotarou Dentetsu II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "e8b4891f",
+      "md5": "4c30d454b5520414fd81d5ffa51375c5",
+      "sha1": "4974d8e868cc359dca73312749b71b0f163df92e",
+      "sha256": "a62c5278a7803d3dbe3c3b4252e97fb8303646c0c598cf3c8c0dc30059069e1b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは有名な桃太郎をテーマにしたボードゲームです。前作で人気だった位置変更システムがこの作品にも引き続き採用されています。また、初めて登場する新しいカードもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

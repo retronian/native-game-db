@@ -1,0 +1,62 @@
+{
+  "id": "heiankyou-alien",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heiankyou Alien",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "平安京エイリアン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heiankyou Alien (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "08bf29c9",
+      "md5": "3d02cb66bdeea139aaa1f9d91d092a21",
+      "sha1": "602561d82cec7484e9509b5739be021f8a3f3449",
+      "sha256": "5e3dae029d43e7407417b6bdf0e0ce382599c248a00710c5ff33b0c18b60b772"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1000年前、京の街は突然エイリアンに襲われました。そこで、ケビイシ（昔の騎士）が街を守るために任命されました。\n\nゲームは迷路から始まり、ケビイシといくつかのエイリアンが登場します。エイリアンは迷路の中を自由に動き回ります。ケビイシは食べられないようにしながら、エイリアンが通りそうな場所に穴を掘ります。エイリアンが完成した穴に来ると、そこに落ちてしばらく閉じ込められます。エイリアンが穴に閉じ込められている間に、その穴を埋めることでエイリアンを埋めることができます。すべてのエイリアンが埋まるとラウンドが終了し、次のラウンドに進むことができます。\n\nゲームボーイ版には、オリジナルのアーケード版とともに、新しいグラフィックや特殊能力を持つスーパエイリアン、穴を避ける動き、ケビイシを追いかける機能などの強化版が含まれています。2人のプレイヤーはビデオリンクケーブルを使って対戦することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

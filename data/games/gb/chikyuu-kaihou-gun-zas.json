@@ -1,0 +1,77 @@
+{
+  "id": "chikyuu-kaihou-gun-zas",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chikyuu Kaihou Gun ZAS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "地球解放軍ジアース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "地球解放軍ジ・アース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chikyuu Kaihou Gun ZAS (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "7bfd1cff",
+      "md5": "a74aa804a3a6439303583e6c0b413b00",
+      "sha1": "2ff6d0242d845669445e3d97fffae5c5f7943cfd",
+      "sha256": "8b5f5f3f615136b83a5f8b60ba5cf1ba32048dd0a6ddfa127c1ad3a024c7de5b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91883
+  },
+  "descriptions": [
+    {
+      "text": "21世紀のある時、環境汚染の遺産により、人類は地球を離れ火星へと移住しました。地球には誰も住んでいませんでしたが、ある日、別の銀河から来た超知能ロボットの集団が突然地球を支配しました。彼らはかつて誇り高かったこの惑星を、自らが住めるような場所に変えてしまいました。ロボットたちから地球を救うために、即席の解放軍が結成されました。彼らはなぜか地球の汚染を取り除いてしまったのです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chikyuu%20Kaihou%20Gun%20ZAS%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chikyuu%20Kaihou%20Gun%20ZAS%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chikyuu%20Kaihou%20Gun%20ZAS%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "indiana-jones-saigo-no-seisen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Indiana Jones - Saigo no Seisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "インディージョーンズ 最後の聖戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Indiana Jones - Saigo no Seisen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8f234f49",
+      "md5": "da11bf0e3d40d317a0d27a665b739bae",
+      "sha1": "238499f9fc98183e57222e8f1271b9bbad2af3ec",
+      "sha256": "8a0be30f97fe6bf005abab66cb3484f9777c6dcff84bdbf9bd7f30ef49b2dc56"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「インディージョーンズ 最後の聖戦」は、同名の他の2つのゲームとは異なり、プラットフォームアクション、バイクレース、パズル解決、さらにはいくつかの冒険要素など、さまざまなジャンルのハイブリッドです。\n\n「インディージョーンズ 最後の聖戦」では、インディの役割を果たし、聖杯を探す冒険に挑みますが、今回はあなたが彼のクエストの各部分でどのステップを選ぶかを決めます。例えば、冒険の最初に、インディの父親から聖杯についての日記を受け取ります。彼はヴェネツィアにいます。同時に、マーカスからの電報が届き、コロナドの十字架がポルトガルのコロナド号にあること、そしてそこでインディと会う予定であることが伝えられます。そこで、最初に何をするかを選ばなければなりません：ヴェネツィアに行って聖杯と父親について調べるか、ポルトガルに行ってマーカスとコロナドの十字架を探すか。\n\nゲーム全体を通して、これらの選択肢が提示され、それぞれがゲームの異なるステージへと導きます。各ステージは異なるゲームジャンルを提供します。例えば、ヴェネツィアでは聖杯のバラバラになった画像を見つけ、それをパズルのピースのように元に戻す必要があります。また、プラットフォームステージでは、インディはパンチ、キック、歩く、走る、ジャンプ、そしてムチを使うなど、多彩な動きが可能です。\n\nゲームには、ハリソン・フォードやショーン・コネリーなど、実際の映画俳優のビットマップ画像が表示されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Indiana%20Jones%20-%20Saigo%20no%20Seisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Indiana%20Jones%20-%20Saigo%20no%20Seisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Indiana%20Jones%20-%20Saigo%20no%20Seisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "tekkyu-fight-the-great-battle-gaiden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tekkyu Fight! - The Great Battle Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鉄球ファイト! ザ・グレイトバトル外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tekkyu Fight! - The Great Battle Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b8da8eb5",
+      "md5": "959834b1d0acefcf840134fae4c49fde",
+      "sha1": "06a6ab3ba59286772f915053cfcd6e1e873358b1",
+      "sha256": "fe76673214837f179cd340b99763da1834324383061b28d681b6f5c6ec589479"
+    },
+    {
+      "name": "Tekkyu Fight! - The Great Battle Gaiden (Japan) (Beta) (1993-04-12)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ebbb6e14",
+      "md5": "53e19693d3d1dfb2160e66742bacdb87",
+      "sha1": "7b42c9c4f537dd74f5a9665f9d76d249fbffad58",
+      "sha256": "fa56a7f2a6d8b49dc8ec94d0a90aa730d9f981c1f7adb28bdbc65fdb31c42142"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64785
+  },
+  "descriptions": [
+    {
+      "text": "鉄球ファイト! ザ・グレイトバトル外伝は、サンエルによって開発され、バンプレストから1993年に日本で発売されたアクションゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tekkyu%20Fight%21%20-%20The%20Great%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tekkyu%20Fight%21%20-%20The%20Great%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tekkyu%20Fight%21%20-%20The%20Great%20Battle%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "riddick-bowe-boxing",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Riddick Bowe Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Riddick Bowe Boxing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "8de1ae9c",
+      "md5": "7fc2dadd7ae98064febaa30a0d35112f",
+      "sha1": "261a6272560e04bef0819fd38e70607d7e23eea5",
+      "sha256": "3be54bdacab97cae737c915387d94e434de20144a6d114fc1d04794f7ff754c5"
+    },
+    {
+      "name": "Riddick Bowe Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "fb5d24e0",
+      "md5": "f72ba137f679bde064e2e4e644c69b22",
+      "sha1": "93a8a28244461b564e828cca876821fb7a60fc89",
+      "sha256": "1feb4371cc4a02ebf563b545b34b47047bf051d46e85b5ca77f8629cbf51e2bb"
+    },
+    {
+      "name": "Riddick Bowe Boxing (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "a07512a6",
+      "md5": "702ae9f811d191b73adc3f5fbcfa8aaa",
+      "sha1": "69685eaffa523bf199be0c540d9eb561bb27d584",
+      "sha256": "4f3f71d7a73ec3629d19499319a970882c8f7faefce02cc3ae50926807410144"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Riddick%20Bowe%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Riddick%20Bowe%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Riddick%20Bowe%20Boxing%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Riddick%20Bowe%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Riddick%20Bowe%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Riddick%20Bowe%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Riddick%20Bowe%20Boxing%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

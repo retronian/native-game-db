@@ -1,0 +1,65 @@
+{
+  "id": "oyatsu-quiz-mogu-mogu-q",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oyatsu Quiz Mogu Mogu Q",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おやつクイズ もぐもぐ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oyatsu Quiz Mogu Mogu Q (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "79e05789",
+      "md5": "279022f2b918cbe8148b6f2c1a5f9acf",
+      "sha1": "9b026834756201ccc58988f1718c2380bd8f6326",
+      "sha256": "63b087ac971727cc0b8b34eac77b7140dc56af8bfc45396669ba86e85f9b7e83"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "おやつに関するクイズが楽しめるクイズゲームです。パスを使ったり、3つの選択肢を持つなど、6種類のアイテムを駆使してゲームを有利に進めましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-09-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Oyatsu%20Quiz%20Mogu%20Mogu%20Q%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Oyatsu%20Quiz%20Mogu%20Mogu%20Q%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Oyatsu%20Quiz%20Mogu%20Mogu%20Q%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "game-de-hakken-tamagotchi-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game de Hakken!! Tamagotchi 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームで発見!! たまごっち2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ゲームで発見!!たまごっち2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ゲームで発見！！たまごっち 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game de Hakken!! Tamagotchi 2 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "19889c43",
+      "md5": "d57eeed4d5dede4b9aefd15c4c703113",
+      "sha1": "ade11f43f6957c75cde8575e7cba11de9e53e0ea",
+      "sha256": "24fc923c0baec1e1be5bbd772a359ecb7545cc11db4c5c72593be4efd7dd99d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77619
+  },
+  "descriptions": [
+    {
+      "text": "人気シリーズの第2弾。今回は海や森からたまごっちを育てる必要があります。また、育てているたまごっちを冷凍睡眠に入れて、別のたまごっちを育てることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-10-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20de%20Hakken%21%21%20Tamagotchi%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20de%20Hakken%21%21%20Tamagotchi%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20de%20Hakken%21%21%20Tamagotchi%202%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

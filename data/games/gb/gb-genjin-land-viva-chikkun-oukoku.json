@@ -1,0 +1,77 @@
+{
+  "id": "gb-genjin-land-viva-chikkun-oukoku",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Genjin Land - Viva! Chikkun Oukoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GB原人ランド ビバ!ちっくん王国",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "GB 原人ランド ビバ！ちっくん王国",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Genjin Land - Viva! Chikkun Oukoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "b08bb116",
+      "md5": "e6e405968face6a00abf3abf8514e9de",
+      "sha1": "6c7b6268e28281ae06fb621bf3cbbcbadc8e30e8",
+      "sha256": "e261f9b80ac59844a694f430059effc526e7202e1fcc7bcb2d1dfa239bf82b13"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64344
+  },
+  "descriptions": [
+    {
+      "text": "「GB原人ランド ビバ!ちっくん王国」は、標準的な横スクロールプラットフォーマーではなく、複数のミニゲームで構成されているため、ボンクシリーズの中でも独特な作品です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/GB%20Genjin%20Land%20-%20Viva%21%20Chikkun%20Oukoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/GB%20Genjin%20Land%20-%20Viva%21%20Chikkun%20Oukoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/GB%20Genjin%20Land%20-%20Viva%21%20Chikkun%20Oukoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

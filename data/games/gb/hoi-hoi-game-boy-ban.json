@@ -1,0 +1,65 @@
+{
+  "id": "hoi-hoi-game-boy-ban",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hoi Hoi - Game Boy Ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ホイホイ ゲームボーイ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hoi Hoi - Game Boy Ban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "c2c2ad19",
+      "md5": "a09ca996d31ac59d76a7c156d38c02ed",
+      "sha1": "d8962cc3a8c4d11af236b2612db7ab3f29615435",
+      "sha256": "e94f551f5418f69c4eb642d3cd9449c0e5a87841f879d1e2f658bd4aefe7c025"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ストップ！ゴキブリを撃退せよ！は、プレイヤーが各レベルで複数のゴキブリを排除するターン制ストラテジーゲームです。\n\nプレイヤーは5ターンの間に、特定のタイル数を移動したり、罠を設置したり、ゴキブリを驚かせるために踏みつけたり、踏んだり、ほうきで叩いたり、殺虫剤を噴霧したりすることができます。次はゴキブリのターンで、彼らの行動は厳密なルールに基づいて決まります。\n\nもしゴキブリが逃げたり、守るべき食べ物に到達したりすると、ラウンドに敗北します。すべてのゴキブリを排除するか捕まえることができれば勝利となります。\n\nゲームには、すべてのゲームメカニクスの説明を含む詳細なチュートリアルが用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hoi%20Hoi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hoi%20Hoi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hoi%20Hoi%20-%20Game%20Boy%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

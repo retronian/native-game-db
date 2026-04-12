@@ -1,0 +1,67 @@
+{
+  "id": "rodland",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rodland",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "妖精物語 Rod・Land ロッド・ランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rodland (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "6093f4ec",
+      "md5": "e4fcc98cf30ab2db7d3c08f322667be1",
+      "sha1": "7865263ed508bff8298444ecabec55efbb64190f",
+      "sha256": "c1f32cdfc6350126afe223dcaf11fd848a2616e4d6b21976c9753cee54419f8d"
+    },
+    {
+      "name": "Rodland (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65536,
+      "crc32": "4c157387",
+      "md5": "17998c241ec03d97f0c9ecac41f06db1",
+      "sha1": "6d6d77914e353e67c59627359ba092fb2edd81b1",
+      "sha256": "82cb6870c2174695091b06c1435504fad774147167b0fe884b42343c8978c171"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rodland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rodland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rodland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

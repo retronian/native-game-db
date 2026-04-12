@@ -1,0 +1,110 @@
+{
+  "id": "r-type-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "R-Type II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アールタイプ・2 II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "R-Type II (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2fe2a72d",
+      "md5": "967030223fa85f7ba4ac71f26837f831",
+      "sha1": "f19436dfed41b9c2e94e070a76c5bdbcc7f993c3",
+      "sha256": "2b059983d79efc5a4f77b41a4efbad68c65ae259715dc008f20a3c11226a943b"
+    },
+    {
+      "name": "R-Type II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "6002e291",
+      "md5": "acac255e33082dde52eee7af941d8681",
+      "sha1": "28e13db505cbb5c178002acf02e5c0bfcfc6b08f",
+      "sha256": "978a975f9e44b604c1b965dc10e455752ed5c29ee346096f70e859607fcaf10c"
+    },
+    {
+      "name": "R-Type II (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e99fec8d",
+      "md5": "db8683de91dd039783618b0873f3960e",
+      "sha1": "da727e9541c9885365651fc6eece3f0075a59fe4",
+      "sha256": "0d5fbda1e4ebaa044ffd3850ee340b9f3e627c1c838043f9e495a937f499d41d"
+    },
+    {
+      "name": "R-Type II (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "7254ea52",
+      "md5": "44817f21754034ffb70e37f59fc3e2b6",
+      "sha1": "91afdbaceeac89e8e4b7c42316ea5f22820962ba",
+      "sha256": "733157663c9515042eb3d8aae6565a9ad3fc9b2ed2e17fbd85bdcaee5945c573"
+    }
+  ],
+  "external_ids": {
+    "igdb": 276500
+  },
+  "descriptions": [
+    {
+      "text": "「アールタイプ・2 II」は、同じシューティングアクションをさらに楽しめる作品です。ゲームプレイは前作「アールタイプ」と同じですが、新たに2つの武器が追加されています。\n\n全6つのレベルがあり、テーマは前作に似ています。注目すべきポイントには、レベル2の水中バトルや、レベル3の巨大なバイド艦隊があります。\n\nゲームボーイ版の「アールタイプ・2」では、1つのレベルと前作のアーケードゲームにあった2つの新武器が欠けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/R-Type%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/R-Type%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/R-Type%20II%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/R-Type%20II%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/R-Type%20II%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

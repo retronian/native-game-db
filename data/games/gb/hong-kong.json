@@ -1,0 +1,68 @@
+{
+  "id": "hong-kong",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hong Kong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "香港",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hong Kong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "5ad83d68",
+      "md5": "2cd8171d2c0d6695f6c4159476d459e7",
+      "sha1": "d8dd3e1baa95d8bb0a4e6b4e97ea64b8ec34331a",
+      "sha256": "75a1a21e7659ce0689def42d14b732666330c33e4e5a861eb61cb235c34a4e87"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47251
+  },
+  "descriptions": [
+    {
+      "text": "香港は、プレイヤーがパターンから指定されたタイルを取り除かなければならない上海のバリアントです。プレイヤーは、ピラミッドや砂時計からより複雑なデザインまで、どのパターンからタイルを引くかを選択できるほか、そのパターン内のタイルの組み合わせを数千通り提供する三文字のコードを入力することもできます。\n\n上海の通常のルールでは、埋まったタイルにアクセスするためにパターンの端でペアでタイルを取り除く必要がありますが、このゲームでは、プレイヤーはゲームが要求するタイルに対応する限り、ボード上の任意のタイルを選択できます。ただし、選択したタイルを囲む他のタイルの数に基づいて得点が加算されます。すべての六面が他のタイルに囲まれたタイルには最大320ポイントが与えられます。また、少なくとも1つの他のタイルの上に「立っていない」タイルはボードから落ちてしまい、早期のゲームオーバーを引き起こします。プレイヤーは、埋まったタイルを取り除くことで得点を稼ぎつつ、タイルが取り除かれることによって落ちないようにバランスを取る必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hong%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hong%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hong%20Kong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

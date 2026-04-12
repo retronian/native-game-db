@@ -1,0 +1,62 @@
+{
+  "id": "shisenshou-match-mania",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shisenshou - Match-Mania",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "四川省",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shisenshou - Match-Mania (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "0cdd8b04",
+      "md5": "e60b4e21a7357819b7602954ea517ea3",
+      "sha1": "6e84a906f9e1ce43272db84c63f1b037096ac34f",
+      "sha256": "dd1782d1834b06caef644ad0f6c399fc9af86304083553434a59eb7271fe0cb3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "麻雀牌を使った思考ゲームです。目的は同じ種類の牌をすべて裏返すことです。ただし、2つの牌を結ぶ線が3回以上曲がっている場合や、その間に表向きの牌がある場合は、牌を裏返すことができません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shisenshou%20-%20Match-Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shisenshou%20-%20Match-Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shisenshou%20-%20Match-Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

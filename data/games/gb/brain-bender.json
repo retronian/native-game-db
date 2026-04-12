@@ -1,0 +1,87 @@
+{
+  "id": "brain-bender",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Brain Bender",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Migraine",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Brain Bender (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 32768,
+      "crc32": "b651bf5d",
+      "md5": "77c1e3543a7f4a75a50efbb91c2718c2",
+      "sha1": "9502181c62d8343b98cef9b881c29e4573e4fbc9",
+      "sha256": "d1e8f0c656a0c19db7cf876aaa5d28cab1339460ed5ebcf37c682b0fec121215"
+    },
+    {
+      "name": "Brain Bender (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "fbb1f2a1",
+      "md5": "63bbfce4fb22f4b77e68cc67f02c4b05",
+      "sha1": "56ff8684284765a56918d14620ad38477aaaf0ad",
+      "sha256": "49b9422befab1a9fd42cbce25db82a49a59ca2862f9dd903e326dee4e04278cd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92265
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Brain%20Bender%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Brain%20Bender%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Brain%20Bender%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Brain%20Bender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Brain%20Bender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Brain%20Bender%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "smurfs-the",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Smurfs, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Smurfs, The (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "cdff161f",
+      "md5": "4528d42eae39a3fa756eefa29d52ef55",
+      "sha1": "9fc50648c18f7f8f0e567ba8791b1d9a43c9f044",
+      "sha256": "28b2b87a43285afb3e55a96136f71c6a858b0bbe25caaa59f4ef3a6e6d5f64e8"
+    },
+    {
+      "name": "Smurfs, The (USA, Europe) (En,Fr,De) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "8b5bcde7",
+      "md5": "a574e5f7119b31e5112221c3a0ada813",
+      "sha1": "a0d6a85331fb034f68f05629a5ff85e13adab205",
+      "sha256": "5d9c9ce079923b92034c7c2d172b5abfad9ec37332102cb247ea849393db9a99"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287140
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Smurfs%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Smurfs%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Smurfs%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

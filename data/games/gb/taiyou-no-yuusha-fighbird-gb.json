@@ -1,0 +1,68 @@
+{
+  "id": "taiyou-no-yuusha-fighbird-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taiyou no Yuusha - Fighbird GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "太陽の勇者ファイバードGB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taiyou no Yuusha - Fighbird GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "723eb882",
+      "md5": "5bd352e85f75a8314e4dce538cb956c6",
+      "sha1": "7a2b9864bf2a93d271694d9bc7eedb55f0f15fad",
+      "sha256": "96d65e9e53993c035018cfce76e8d5a619f0bb29103aaa6f81fd229e68b93f92"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49136
+  },
+  "descriptions": [
+    {
+      "text": "太陽系は、ドライアスというエイリアンに脅かされています。彼は人間の狂気の科学者、ジャング博士の助けを借りています。宇宙警察隊（SPF）は、ドライアスを構成する悪のエネルギーを探し出し、地球や宇宙で人類に攻撃を仕掛けるメカビーストを破壊する任務を担っています。\n\nゲームの開始時に、プレイヤーは2人のキャラクターの中から選ぶことができます。1人目は、SPFの特別メンバーであり、メカを開発する天野博士の孫、ケンタです。もう1人は、宇宙の守護者ファイバードとして知られるユウタロウ・カトリという人間のアイデンティティを持つ主人公です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Taiyou%20no%20Yuusha%20-%20Fighbird%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taiyou%20no%20Yuusha%20-%20Fighbird%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taiyou%20no%20Yuusha%20-%20Fighbird%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

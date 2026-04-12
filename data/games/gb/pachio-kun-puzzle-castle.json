@@ -1,0 +1,68 @@
+{
+  "id": "pachio-kun-puzzle-castle",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun - Puzzle Castle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチ夫くん Puzzle キャッスル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun - Puzzle Castle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3690c99c",
+      "md5": "4625fce9752df3666f19efd2a6f03748",
+      "sha1": "946d25b62c6f4bea3214551260eb52ba68e23c8e",
+      "sha256": "8044f4cb877f55130522bd95fb290bdb8d346e29363f023402f78e4d7846bca5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59514
+  },
+  "descriptions": [
+    {
+      "text": "有名なパチ夫くんがアクションパズルゲームに登場！キャラクターの顔の形をしたブロックを横と縦に並べて消しましょう。さらに、他の2人のプレイヤーと対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachio-kun%20-%20Puzzle%20Castle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachio-kun%20-%20Puzzle%20Castle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachio-kun%20-%20Puzzle%20Castle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

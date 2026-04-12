@@ -1,0 +1,71 @@
+{
+  "id": "rubble-saver-ii",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rubble Saver II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラブルセイバーII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ラブルセイバー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rubble Saver II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "92c95f2d",
+      "md5": "019db3e93fa9583a04366a4e4597c618",
+      "sha1": "49a07665695018b29def2cf3f843e10b88889775",
+      "sha256": "7ee68e1f9e220d4bd7252a0d97df3555027bfdacbf78b8e68dee66eed6b2d6e7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ラブルセイバー」の続編である「マックス」では、プレイヤーはマックスを操作し、邪悪なドラコから銀河を救わなければなりません。彼は7つの惑星を解放する必要があり、これは7つの横スクロールのプラットフォームレベルに相当します。撃つこととジャンプすることに加えて、彼は垂直に上に撃つことができ、レベルの構造に引っかかってマックスを引き上げるクライミングロープも持っています。数多くの敵やその弾丸と3回接触すると、マックスは死んでしまいます。パワーアップには、銃のための2つのアップグレードが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rubble%20Saver%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rubble%20Saver%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rubble%20Saver%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

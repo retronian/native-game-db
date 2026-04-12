@@ -1,0 +1,68 @@
+{
+  "id": "shinri-game-the",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinri Game, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザ・心理ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinri Game, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "fb2fe362",
+      "md5": "46853483281d6b04cf94eb541480f8e3",
+      "sha1": "f47114a20db53b8b789790ddcff1cd3105b35482",
+      "sha256": "f2715ad839f39415d873a298a5312ff3fe09b9fc4b8a5b8311904d724e6f7e0a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38255
+  },
+  "descriptions": [
+    {
+      "text": "準備された質問に答えて結果を得る心理ゲームのコレクションです。メンタルカウンセリング、相性診断、バイオリズムなど、いくつかのモードがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-06-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shinri%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shinri%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shinri%20Game%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

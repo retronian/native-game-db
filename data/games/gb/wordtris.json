@@ -1,0 +1,111 @@
+{
+  "id": "wordtris",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wordtris",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wordtris (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "075a8231",
+      "md5": "29c71c474c2fa00eeac79ddb55c2c174",
+      "sha1": "ab68498646fb2ca1df9443e6a80062c30b3ea4f9",
+      "sha256": "639f7cb807e96d3a2d4016fd2f3f2802c4164f842de03bf5547d288152c1f60a"
+    },
+    {
+      "name": "Wordtris (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "c2d7d11b",
+      "md5": "c18bd7c4f672efe33dff72a5dacd3284",
+      "sha1": "97544a78925f6bb095c7b2f14878b2e1467dc7d1",
+      "sha256": "7f98e6c3e2ab394a6ec768740d05ac35eafe9142c37576780dfbca68d235786d"
+    },
+    {
+      "name": "Wordtris (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "46aee47a",
+      "md5": "95fe4d5f8da42dacba0818bb7c2d786e",
+      "sha1": "5db53a3a00da1a70e0205eeca4ccd20087d69e66",
+      "sha256": "a48302bfb739617c08ed4e5e6312a0cc3f0e78fd07e9b8d4d35f978c1bdb9d87"
+    },
+    {
+      "name": "Wordtris (Germany) (De) (Proto)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "7d69f655",
+      "md5": "78a200d2ba6cf13f965fa773e2071ffe",
+      "sha1": "49ea0fe865445bd09a835197c0cb0a060819e1d0",
+      "sha256": "0b1b97d1eb8aaf054da7f195422689f3b81f4781f71408fe15f199d1f1150a84"
+    },
+    {
+      "name": "Wordtris (France) (Fr) (Proto)",
+      "source": "no_intro",
+      "size": 131072,
+      "crc32": "4ab14495",
+      "md5": "1bd6b416a5bdfcc3aa60bbd472d1d914",
+      "sha1": "51b0ee5991d02cb70901a38de825219521894fef",
+      "sha256": "3a0112c8dad56e7373f52bf69aaf2083ea92bbc0eb86f0e2dabd20f4ab5af455"
+    }
+  ],
+  "external_ids": {
+    "igdb": 344069
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Wordtris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wordtris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Wordtris%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wordtris%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wordtris%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wordtris%20%28Germany%29%20%28De%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Wordtris%20%28France%29%20%28Fr%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

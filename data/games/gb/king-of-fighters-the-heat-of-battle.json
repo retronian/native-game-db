@@ -1,0 +1,68 @@
+{
+  "id": "king-of-fighters-the-heat-of-battle",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "King of Fighters, The - Heat of Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "熱闘ザ・キング・オブ・ファイターズ'96",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nettou The King of Fighters '96",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "King of Fighters, The - Heat of Battle (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "4d2d8bc3",
+      "md5": "cf6ec3c13cd20240ef0c0c63ec06558f",
+      "sha1": "1b5ac034b1333b3340fbdc5c128bc12abd310043",
+      "sha256": "4ccecaa47b975dedd502e9bfbff6e2f4f8884148a4456d89016a2950f6b2eae7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 191476
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/King%20of%20Fighters%2C%20The%20-%20Heat%20of%20Battle%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/King%20of%20Fighters%2C%20The%20-%20Heat%20of%20Battle%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/King%20of%20Fighters%2C%20The%20-%20Heat%20of%20Battle%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

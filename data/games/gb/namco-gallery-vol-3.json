@@ -1,0 +1,77 @@
+{
+  "id": "namco-gallery-vol-3",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Gallery Vol.3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナムコギャラリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ナムコギャラリーVol.3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Gallery Vol.3 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "7740341e",
+      "md5": "401e3778fb24a2af4bce7a3189fcfdd3",
+      "sha1": "a8902e4af858b28c1c934879718e8c971a2000bb",
+      "sha256": "7192e79c1b0eb7a1da5d68d4c6be7ced468695e4f4ba26bbd129412687eee8e6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64029
+  },
+  "descriptions": [
+    {
+      "text": "ナムコギャラリー Vol. 3は、ナムコがゲームボーイ用に制作した3つのコンピレーションカートリッジの最終作です。すべてのカートリッジはスーパーファミコンのスーパーゲームボーイに対応しています。このボリュームには以下のゲームが含まれています：\n\nスカイキッド  \nバベルの塔  \nファミリーテニス  \nジャンタクボーイ（麻雀）",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-07-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Namco%20Gallery%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Namco%20Gallery%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Namco%20Gallery%20Vol.3%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

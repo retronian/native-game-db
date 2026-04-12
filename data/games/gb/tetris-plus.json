@@ -1,0 +1,96 @@
+{
+  "id": "tetris-plus",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetris Plus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "テトリスプラス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris Plus (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "2ec9120a",
+      "md5": "d9cb4470f5320cac32fc2bc17e1e9d7b",
+      "sha1": "dbb20951409739f1e11ffbcd8b0af1e802bf693a",
+      "sha256": "805599a58067cfd10f528d58ce34ae9fc6bba32bbc781dc4bd902fa86028eba4"
+    },
+    {
+      "name": "Tetris Plus (USA, Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "dafc3bff",
+      "md5": "4511333eeecb3c9f20874d595424447c",
+      "sha1": "dfab75ab6bdc0765ba9a5d33a93ffdb114a49cbf",
+      "sha256": "2526a8d3a5704d6bed3cd5cf64472ce77981f4adf98836066dcc19893c6053ce"
+    }
+  ],
+  "external_ids": {
+    "igdb": 254518
+  },
+  "descriptions": [
+    {
+      "text": "これは、PlayStation、サターン、ゲームボーイ向けにリリースされた最新のテトリスのバージョンです。このバージョンには、クラシックモード、パズルモード、対戦モード、エディットモードが含まれています。パズルモードでは、上へ登っていく教授を救う必要があります。そのためには、ブロックを消して彼を下へ導かなければなりません。対戦モードでは、別のプレイヤーと直接対決します。エディットモードでは、自分だけのカスタムレベルを作成して保存することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20Plus%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20Plus%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20Plus%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tetris%20Plus%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tetris%20Plus%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tetris%20Plus%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

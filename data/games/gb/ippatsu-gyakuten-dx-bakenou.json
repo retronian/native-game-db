@@ -1,0 +1,57 @@
+{
+  "id": "ippatsu-gyakuten-dx-bakenou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ippatsu Gyakuten! DX Bakenou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "一発逆転!!DX馬券王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ippatsu Gyakuten! DX Bakenou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "8f3e7f95",
+      "md5": "b8daf4591cd9dd9da702d3544a3d07f5",
+      "sha1": "991efd117dcb30ddf111bb4f6e46bdda1c811417",
+      "sha256": "1a27e810d72972a8dba8afa4e694ce543c1a6ba9cf35a040e03a0e9d05916286"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Ippatsu%20Gyakuten%21%20DX%20Bakenou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Ippatsu%20Gyakuten%21%20DX%20Bakenou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Ippatsu%20Gyakuten%21%20DX%20Bakenou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

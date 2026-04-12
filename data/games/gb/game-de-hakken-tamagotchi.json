@@ -1,0 +1,74 @@
+{
+  "id": "game-de-hakken-tamagotchi",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game de Hakken!! Tamagotchi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームで発見!! たまごっち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ゲームで発見!!たまごっち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game de Hakken!! Tamagotchi (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "efc0f266",
+      "md5": "fdd228f59ee0eb8b162054a330039b0a",
+      "sha1": "5aea023fd373643e55c7276b79a2d042302c3329",
+      "sha256": "32cb5413d5a6c1c7d1e8a82cb482b627365ffe68d87897f8008f5bbc8fce0a6b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "遠い宇宙の惑星から卵が届きます。この卵には「たまごっち」という、自分では生きていけない赤ちゃんエイリアンが入っており、あなたの注意とケアが必要です。たまごっちを世話して、成長を助けましょう。\n\nたまごっちは、同名の人気バーチャルペットを基にしたゲームです。ラボから卵を選び、その後、部屋で孵化します。そこからは、すべての世話をあなたが責任を持って行います。餌を与えたり、薬を与えたり、一緒に遊んだり、うんちを掃除したり、適切な時に叱ったり褒めたりすることまで、すべてを行わなければなりません。\n\n実際のたまごっちおもちゃとは異なり、ゲームボーイ版はリアルタイムではありません。ゲームオプションでたまごっちの成長速度を調整できます。また、同時に最大3匹のたまごっちを世話することも可能です。ゲームボーイ版には、ペットと遊ぶための3つの異なるゲームも用意されています。選んだゲームによって、たまごっちの気分、知能、または体力が向上します。3つのゲームは次の通りです：\n\nスマイルゲーム - ペットが左右を見ます。次にどちらを向くかを予想してみましょう。\nスタディゲーム - たまごっちの勉強を手伝いましょう。簡単な数学の問題が出題されるので、答えを導いてあげてください。\nスポーツゲーム - たまごっちを健康に保ちましょう。空から野球ボールが降ってきます。地面に落ちる前にペットをボールのところに連れて行くとポイントが得られます。\n\nゲームボーイ版のもう一つの特徴はトーナメントです。レース、ビューティー、知識のトーナメントにペットを参加させることができます。ペットをトレーニングすることで勝利のチャンスを高めることができますが、参加する際には病気や甘やかされていないことを確認してください。そうでないと、パフォーマンスが落ちてしまいます。トーナメントに勝利すると、あなたのたまごっちは名誉の殿堂に入ります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-06-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20de%20Hakken%21%21%20Tamagotchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20de%20Hakken%21%21%20Tamagotchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20de%20Hakken%21%21%20Tamagotchi%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

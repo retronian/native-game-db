@@ -1,0 +1,68 @@
+{
+  "id": "mogura-de-pon",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mogura de Pon!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "もぐらでポン!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mogura de Pon! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "e1e3629f",
+      "md5": "6ee9c4e484b70bbecaaffafb963f004b",
+      "sha1": "3c6586f3d591cee7415ed76d92355a27ad42e1e3",
+      "sha256": "ae0f14742d085c4904c7ef9f5f5a8a00a87abcaeb4bfcd29d9136e2cdb4a9f05"
+    }
+  ],
+  "external_ids": {
+    "igdb": 342739
+  },
+  "descriptions": [
+    {
+      "text": "もぐらでポン!は、アクションゲームで、アテナによって出版され、1994年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mogura%20de%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mogura%20de%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mogura%20de%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

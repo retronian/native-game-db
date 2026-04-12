@@ -1,0 +1,43 @@
+{
+  "id": "pokemon-version-bleue",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Version Bleue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Version Bleue (France) (SGB Enhanced)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "50e2fc1d",
+      "md5": "35c8154c81abb2ab850689fd28a03515",
+      "sha1": "47faa910d0e073c600665bf9c83b6bd17babdf8a",
+      "sha256": "73dee67befed0c39cd0a6ed53a98ff5b98b3bddc3e7a0dae1d982776a4d0889b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pokemon%20-%20Version%20Bleue%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pokemon%20-%20Version%20Bleue%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pokemon%20-%20Version%20Bleue%20%28France%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

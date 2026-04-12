@@ -1,0 +1,51 @@
+{
+  "id": "jeopardy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "08725c79",
+      "md5": "60ef5ffc3af0ac5110c2b31e83570494",
+      "sha1": "d0bf6e71ddae1faff179309eaab554c2ae994de0",
+      "sha256": "7459baee09bf535b8a5402c4c9f9ffc91642a473b7a0ef6085f1df47a35354a0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 242735
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

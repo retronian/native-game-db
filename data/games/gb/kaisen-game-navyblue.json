@@ -1,0 +1,62 @@
+{
+  "id": "kaisen-game-navyblue",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaisen Game - Navyblue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海戦ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaisen Game - Navyblue (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "afd8c47c",
+      "md5": "27bcef0893a0848b25fc69be177db1e3",
+      "sha1": "7fbf13dd0b5a4e7798724270a81006be9950f81a",
+      "sha256": "bd8439e5fcad770a1f9a2c2bd417c2cf615ea5d4576a9a110d5d90bb31906242"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはミルトン・ブラッドリーによるクラシックボードゲーム「バトルシップ」のシェアウェア版です。\n\n2人のプレイヤーは、ボックスのグリッドを持っています。マウスを使って自分の艦船の配置を決め、相手の艦船を見つけて沈めることを競います。\n\n勝利記録メニューでは、勝った回数、負けた回数、引き分けの回数が表示されます。オプションには、ゲームが10 x 10または15 x 15のボードで行われるかどうか、単発射撃または連続射撃の選択、クラスター爆弾、巡航ミサイル、スマート爆弾の使用が可能かどうか、艦船資源または艦隊資源を使用するかどうかがあります。初心者、中級者、上級者のスキルレベルがあり、先攻を決めることができ、ランダムに決定するオプションもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Kaisen%20Game%20-%20Navyblue%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Kaisen%20Game%20-%20Navyblue%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Kaisen%20Game%20-%20Navyblue%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

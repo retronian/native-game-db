@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-dengeki",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Dengeki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電劇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Dengeki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "f09b34ab",
+      "md5": "f31c556186b91cf161ecf60644fbecba",
+      "sha1": "8450758a8338700468f862c73f344c63b921812f",
+      "sha256": "3b0aaea526447c2d682139c9494eec82045b36e5e684cc56132391ba9a2ef689"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎電劇：桃太郎サンダーボルトは、ハドソンが発売したアクションゲームで、1993年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Momotarou%20Dengeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Momotarou%20Dengeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Momotarou%20Dengeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p-man-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "P-Man GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "P-マン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "P-Man GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "727d5509",
+      "md5": "943a21195afc5abefb3f925b84a9f19f",
+      "sha1": "d8704a68e1f3037c43e8987ca99f557ad6dbc0de",
+      "sha256": "ece67071764c12cfa458c6e324d03fa9caa9ef0c4f718f6c008217c706a96a98"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「プレヒストリック・マン」では、プレイヤーはネアンデルタール人を操作し、さまざまなレベルを旅しながら食べ物を集め、村を迫り来る秋の祭りに備えさせる冒険に挑みます。途中で、プレイヤーはクモや巨大なネズミ、さらには強大なティラノサウルスなど、さまざまな敵と遭遇します。\n\n全体で5つのレベルがあり、プレイヤーはゲームを進める中で武器を斧やハンマーにアップグレードできるほか、ハングライダーを手に入れることで飛行し、長距離を移動する利点を得ることができます。ゲームの主な目標は、敵を倒し、食べ物を集め、各レベルの最後に待ち受けるボスに挑むことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/P-Man%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/P-Man%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/P-Man%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

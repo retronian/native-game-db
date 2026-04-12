@@ -1,0 +1,68 @@
+{
+  "id": "othello-world",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Othello World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オセロワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Othello World (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "64d13a6d",
+      "md5": "bbee4bc313cf03c016129e1e00b50008",
+      "sha1": "089013eb2dac79c5525c442bfc9cda74e8660597",
+      "sha256": "c8df19a1b185733fbbf00660fe502658f4d6deb0d72d4591041175375f0a0ecb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228628
+  },
+  "descriptions": [
+    {
+      "text": "オセロワールドは、スーパーファミコン用にアダプテーションされたオセロ/リバーシです。このゲームは複数のワールドに分かれており、童話や『不思議の国のアリス』、シェイクスピアの作品など、さまざまな起源を持つCPU対戦相手が登場します（これはゲームの語源にちなんでいます）。各ワールドには5人の対戦相手がいて、3人を倒すと次のワールドが解放されます。ゲームには続き用のパスワードがあり、ワールド間で配布されます。最後の対戦相手は、オセロの日本チャンピオンであるタメノリ・ヒデシにちなんで名付けられた神のような存在、タメノリです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Othello%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Othello%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Othello%20World%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

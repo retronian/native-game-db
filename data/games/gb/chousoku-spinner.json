@@ -1,0 +1,68 @@
+{
+  "id": "chousoku-spinner",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chousoku Spinner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "超速スピナー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chousoku Spinner (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b4fa9cf2",
+      "md5": "7d2c84bf29ec10488c8ae3b8018edc8a",
+      "sha1": "057a3251bbb7eb4e04b01f786bd2986af5eabc58",
+      "sha256": "585d4e9bef9b06ea051411ebe8b15a354221b25930128dc9a71edcf7b1bf0a67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66073
+  },
+  "descriptions": [
+    {
+      "text": "「超速スピナー」では、ゲームの目的は「ヨーヨーバトル」を行い、新しいヨーヨーを購入し、現在のヨーヨーをアップグレードすることです。「超速スピナー」には、さまざまな場所を旅したり、他のキャラクターと話したり、新しいアイテムを購入するためのお金を稼いだり、ストーリーが展開されるなど、RPGの要素が含まれています。\n\n「超速スピナー」では、争いごとはヨーヨーバトルで解決されます。勝者は、最も長い時間ヨーヨーを回し続けられるキャラクターです。まず、バランスを選ぶ必要があります。中央に近いほど、バランスが良くなります。バランスを選んだ後は、パワーを選ぶ必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-09-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Chousoku%20Spinner%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Chousoku%20Spinner%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Chousoku%20Spinner%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

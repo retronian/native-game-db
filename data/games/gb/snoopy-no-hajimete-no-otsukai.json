@@ -1,0 +1,68 @@
+{
+  "id": "snoopy-no-hajimete-no-otsukai",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Snoopy no Hajimete no Otsukai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スヌーピーのはじめてのおつかい",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Snoopy no Hajimete no Otsukai (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8900a7c0",
+      "md5": "4f597338777cc0b67465bd0dde285645",
+      "sha1": "535a85e3955ec58754395a8bf7c4f5b7d319e57f",
+      "sha256": "293705dfec9c6d5b9fbff3911cdd958c86e7cdd5cd1719afc67b45b0c869629c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 324912
+  },
+  "descriptions": [
+    {
+      "text": "人気キャラクターのスヌーピーを導くアクションパズルです。スヌーピーに指示を出してお店まで導き、その後、用事を与えた後にゴールへ導く必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Snoopy%20no%20Hajimete%20no%20Otsukai%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Snoopy%20no%20Hajimete%20no%20Otsukai%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Snoopy%20no%20Hajimete%20no%20Otsukai%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

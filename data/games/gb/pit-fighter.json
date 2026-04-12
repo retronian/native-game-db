@@ -1,0 +1,51 @@
+{
+  "id": "pit-fighter",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pit-Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pit-Fighter (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "0680bfc3",
+      "md5": "09066099d74c7398f6f99ea8ccefa479",
+      "sha1": "2a399b0524e9983fd361a98ec4b99d562361223b",
+      "sha256": "6b56c201fbc8ebfd69521c9eb055a0fa589e315858dda52f287939f8049e5da1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307835
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pit-Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pit-Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pit-Fighter%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

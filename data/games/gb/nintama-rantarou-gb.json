@@ -1,0 +1,68 @@
+{
+  "id": "nintama-rantarou-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintama Rantarou GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍たま乱太郎GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintama Rantarou GB (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "bd223184",
+      "md5": "a7032c0bbfe917790135acd338ec3d2f",
+      "sha1": "4110bd38bde1d9a9a20c2a0c73a3e9f799a72847",
+      "sha256": "589e38b53cdf7eb4e0844186f56e388780573dc0c4fbc6a8ee35d25ea60195cf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138095
+  },
+  "descriptions": [
+    {
+      "text": "アニメ「忍たま乱太郎」のキャラクターを使ったパズルです。絵に描かれたブロックを動かして、一つの絵を完成させるシンプルなルールです。ステージに隠されたアイテムは、捕獲に有利に働きます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-06-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

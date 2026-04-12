@@ -1,0 +1,65 @@
+{
+  "id": "akazukin-chacha",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Akazukin Chacha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "赤ずきんチャチャ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Akazukin Chacha (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "898609b4",
+      "md5": "9a5215658c60a1802b11f728c292b536",
+      "sha1": "d07970a7eae51aef8c4e8b4bcdd57aeed6360bdd",
+      "sha256": "e2f9f977a8deb8bf1fbdf9f977a76b8e5d907b8aa24e781606e33bec25354151"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "赤ずきんチャチャは、日本のアニメを基にしたビデオゲームで、原作はミン・アヤハナの漫画です。このゲームでは、シリーズのキャラクターたち、特に魔法少女チャチャが登場し、あまり刺激的ではないアドベンチャーゲームですが、かわいらしいグラフィックが特徴です。6人の異なるキャラクターを操作することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Akazukin%20Chacha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Akazukin%20Chacha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Akazukin%20Chacha%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

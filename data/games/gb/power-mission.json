@@ -1,0 +1,97 @@
+{
+  "id": "power-mission",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Mission",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パワー・ミッション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パワーミッション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Mission (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "0e2a1414",
+      "md5": "cfee195bfd47e8e061ed67b9545242a4",
+      "sha1": "ef28356e7a3b82f64e62cb9a7b4c121aa626ff7c",
+      "sha256": "31822a8b36bbc6d47c2daa90236ad6c9b1382e8f918336950626f599e2a6425f"
+    },
+    {
+      "name": "Power Mission (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e30ef8ab",
+      "md5": "5d516b5de2bf54fb6c687f1838b628cc",
+      "sha1": "89b2306ad9c9e296884354ec3be039b944d52d13",
+      "sha256": "d5078355d510f8eef4caa53c7a58f844bc2ce7e3362b6aa1c70fd045272d9853"
+    },
+    {
+      "name": "Power Mission (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "46cb2f33",
+      "md5": "3c8dfc25fd8d2691cfe1cb2c375e097c",
+      "sha1": "7eb044e49c370c8e85619cfe42a5b4fb41cbcf17",
+      "sha256": "0be0eab050e8d5ddb8a01c895c1f46d85163eaa2820f44cd9d86e11c2014cd42"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49089
+  },
+  "descriptions": [
+    {
+      "text": "パワー・ミッションは、海を舞台にしたターン制ストラテジーゲームです。プレイヤーは、8種類の異なるユニットの組み合わせからなる5つの艦隊の中から1つを選びます。ユニットの種類によって、攻撃力や射程などの属性が異なります。バトルの開始時に、両対戦相手はそれぞれ自分の陣地にユニットを配置します。そして、各ターンごとに利用可能な移動回数があり、それを使ってユニットを移動させたり、先を偵察したり、攻撃したりします。敵ユニットの位置は、自分のユニットが射程内に入ってレーダーを使用するまで不明です。目標は、敵艦隊を完全に壊滅させることです。シングルプレイヤーモードでは、11のマップを順番にプレイします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Power%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Power%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Power%20Mission%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

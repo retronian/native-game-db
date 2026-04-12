@@ -1,0 +1,77 @@
+{
+  "id": "taito-variety-pack",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taito Variety Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイトー バラエティ パック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "タイトーバラエティパック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taito Variety Pack (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6dbaa5e8",
+      "md5": "fc84b2e016917d5b0e7de412d9f8c269",
+      "sha1": "53995f1b9c8a0bf8545414bd5e5defef617b7a55",
+      "sha256": "27ce5775046f4450408979e8fc31f438fce8251e8e7e2f904026b3089c78b918"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79489
+  },
+  "descriptions": [
+    {
+      "text": "このカートリッジには、以下の4つのゲームが収録されています：バブルボブル、チェイスH.Q.、エレベーターアクション、そしてサガイア。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-02-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Taito%20Variety%20Pack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taito%20Variety%20Pack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taito%20Variety%20Pack%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

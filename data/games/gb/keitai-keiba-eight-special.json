@@ -1,0 +1,58 @@
+{
+  "id": "keitai-keiba-eight-special",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Keitai Keiba Eight Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "携帯 競馬エイトスペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Keitai Keiba Eight Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "326273b7",
+      "md5": "844b2475d463154caf57fe10ad8fab15",
+      "sha1": "1bbc35ddf540f2ad9937f57184add528c2811a5d",
+      "sha256": "e747c0a85d1581408d1e7132a86ddaa0537d565f05d4d7fb625a814512dbf6f0"
+    }
+  ],
+  "first_release_date": "1994-11-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Keitai%20Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Keitai%20Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Keitai%20Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

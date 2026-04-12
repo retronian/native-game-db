@@ -1,0 +1,65 @@
+{
+  "id": "lunar-lander",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lunar Lander",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルナランダー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lunar Lander (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "030d2054",
+      "md5": "1ffa46f368917656a1590abae6112e79",
+      "sha1": "05266f727879963a23dbbcd8c87c68597607f3b8",
+      "sha256": "93ab705844af5c298a48b03388bad8b5613e434065535c2798efd6fe2abfe061"
+    }
+  ],
+  "external_ids": {
+    "igdb": 118546
+  },
+  "descriptions": [
+    {
+      "text": "ルナランダーは、3つの異なるステージに基づいた宇宙探査ゲームです。\n\n離陸：画面に表示されるガイダンス矢印に従って、宇宙シャトルを外宇宙へ飛ばします。シャトルを矢印に沿って中心に合わせないと、進行が遅れ、地球の重力を抜ける前に燃料が尽きてしまいます。また、ロケットが十分にブーストするためには、コンプレッサーのレベルを常に高く保つ必要があります。しかし、コンプレッサーに過剰に給油すると燃料が減少してしまうため、離陸を成功させるためにはすべての要素をバランスよく管理する必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Lunar%20Lander%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Lunar%20Lander%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Lunar%20Lander%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

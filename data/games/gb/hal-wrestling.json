@@ -1,0 +1,87 @@
+{
+  "id": "hal-wrestling",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "HAL Wrestling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Pro Wrestling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "HAL Wrestling (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "5e4a61d3",
+      "md5": "7ac8443eefc33432b989f00cb984b9a1",
+      "sha1": "861f1cd6ea513a003ab8364b37fa73c63b555e38",
+      "sha256": "c1b7a9c2c3df31292b70824159e8c102045f23ac38b263b23ef17a96d8b60c44"
+    },
+    {
+      "name": "HAL Wrestling (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "b02faa0b",
+      "md5": "9af91c7e344a9048f0f4037a8abcbe54",
+      "sha1": "6ac35a017fd1f61c19086765107e3940426a2a66",
+      "sha256": "4b303279b71896dcc5f614d45cff8eb71f618759dfb2b574957b171ff3ee1822"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48993
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/HAL%20Wrestling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/HAL%20Wrestling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/HAL%20Wrestling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/HAL%20Wrestling%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/HAL%20Wrestling%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/HAL%20Wrestling%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

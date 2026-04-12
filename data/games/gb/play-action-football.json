@@ -1,0 +1,51 @@
+{
+  "id": "play-action-football",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Play Action Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Play Action Football (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "983caf46",
+      "md5": "4cee4e93651d9468e7ef47975b71aca2",
+      "sha1": "dc2981baf1bb4d0a65ec45fb22d44a5ca4c06254",
+      "sha256": "027a8bb2843c3f96373ca60830f58fbc2fcf15d51756649e002b87a97f438a41"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49052
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Play%20Action%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Play%20Action%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Play%20Action%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

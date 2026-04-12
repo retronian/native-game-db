@@ -1,0 +1,68 @@
+{
+  "id": "puzzle-nintama-rantarou-gb",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Nintama Rantarou GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズル忍たま乱太郎GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Nintama Rantarou GB (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "952920ba",
+      "md5": "073e6a0f2fdae655760aaf6db81da3b2",
+      "sha1": "5239823f04da93fc6b8fcac48f0d0425f90972bc",
+      "sha256": "574d794dd7ebfae993188a781ec9eb99dc6059bc523a68366ee9c427d34cf2d8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97863
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは、同名のアニメを基にしています。9つのパネルが9つの部分に分かれており、プレイヤーはパネルを押したり引いたり壊したりして、制限時間内に絵を完成させる必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-11-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Puzzle%20Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Puzzle%20Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Puzzle%20Nintama%20Rantarou%20GB%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "america-oudan-ultra-quiz",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "America Oudan Ultra Quiz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アメリカ横断ウルトラクイズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "America Oudan Ultra Quiz (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "3be275cd",
+      "md5": "c0ca6588162206b5982ba77bcf6397ce",
+      "sha1": "9761f22250faf9c241fd7f9e2d00436f3fd454e7",
+      "sha256": "2559c1a442175c04b06546f31b0906a73efa40a2596e1ac861bb232c7c486c9b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282817
+  },
+  "descriptions": [
+    {
+      "text": "これは、よく知られたテレビ番組「アメリカ横断ウルトラクイズ」のゲーム版です。クイズには、○×クイズと三択クイズの2種類があります。フォーマットはテレビと同じで、失格になっても敗者復活戦があります。その復活戦でも負けてしまうと、厳しい罰ゲームが待っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/America%20Oudan%20Ultra%20Quiz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/America%20Oudan%20Ultra%20Quiz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/America%20Oudan%20Ultra%20Quiz%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

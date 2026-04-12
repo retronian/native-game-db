@@ -1,0 +1,68 @@
+{
+  "id": "snow-bros-jr",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Snow Bros. Jr.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジュニア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Snow Bros. Jr. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "e5a22f5a",
+      "md5": "099d768c3541f4cbb6362c914e97f667",
+      "sha1": "d46e6bb01129f0725e73b6b9aca35a1aceb7e415",
+      "sha256": "bf4031de5915b6410c71eea892d4f4c6c70b6ebb5cedd0af7a30b09b150754ef"
+    }
+  ],
+  "external_ids": {
+    "igdb": 117967
+  },
+  "descriptions": [
+    {
+      "text": "「スノー ブロス。」のゲームプレイは、1986年にリリースされた「バブルボブル」に似ています。このゲームは最大2人までのプレイヤーをサポートしており、各プレイヤーは2体の雪だるま、ニックとトムのいずれかを操作します。プレイヤーは敵に雪を投げることができます。プレイヤーは各敵に雪を投げ続け、完全に覆われると雪玉に変わります。雪で部分的に覆われた敵は、雪を振り払うまで動くことができません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-05-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Snow%20Bros.%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Snow%20Bros.%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Snow%20Bros.%20Jr.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

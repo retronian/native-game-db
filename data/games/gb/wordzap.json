@@ -1,0 +1,67 @@
+{
+  "id": "wordzap",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "WordZap",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "WordZap (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "e8e57b50",
+      "md5": "e9ab23a96409060054a05344b536b33c",
+      "sha1": "3b38771e97eb6cd5e053ac8908482f59dc07248b",
+      "sha256": "b396d2a15563b6144630d5ec5f0a8a2928a4b289ca215e6cc581df7a5fe295ff"
+    },
+    {
+      "name": "WordZap (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "22039daa",
+      "md5": "cbbc637e7c1f6473ef5c07d9071b50ae",
+      "sha1": "af152e5f71127ceb82f77771cfd6a8a8d477da33",
+      "sha256": "46535d7c20dad95ac8b24d960ae3931a93b36923717d939082e33253cd775266"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282342
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/WordZap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WordZap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/WordZap%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/WordZap%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

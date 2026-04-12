@@ -1,0 +1,67 @@
+{
+  "id": "super-off-road",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Off Road",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Off Road (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "3e2810be",
+      "md5": "85d05f95c07ed1b7d787062fe4d2e251",
+      "sha1": "acde7750bcf99d7bb76b895534fda43ece222dfa",
+      "sha256": "91bd1f24827bde4dbb58ead76a8b4e5a507431ec9b6bbc7ef9473b852538a4d5"
+    },
+    {
+      "name": "Super Off Road (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "419a2ae3",
+      "md5": "4072bd18c72755b15a3ae712202807fc",
+      "sha1": "742c33e45d3b79101d34fdc6537371ae96084235",
+      "sha256": "234e4a5f5820d00db75865e85afe8f53e10909c4e30dd3129ce9ec3d8e1171c0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365683
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Off%20Road%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Off%20Road%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Off%20Road%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Off%20Road%20%28USA%2C%20Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

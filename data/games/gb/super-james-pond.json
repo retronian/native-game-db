@@ -1,0 +1,67 @@
+{
+  "id": "super-james-pond",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super James Pond",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super James Pond (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "6dc1bb2c",
+      "md5": "c4b03180037d53cb64b93634439acea0",
+      "sha1": "cacb8a79cf66dcb8c3d4f71c94d535cf9e5ad63b",
+      "sha256": "d53758c06b940d9e91fe343ea6e55aa365c25dcced7bc34b55283522f505260a"
+    },
+    {
+      "name": "Super James Pond (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "0c5b4014",
+      "md5": "1d225e54ac782c4f4c44faf26ecfbd37",
+      "sha1": "dd439b61beb6b5f4e6b3105ec321ecf0acf3919e",
+      "sha256": "b0dda9feca0b8f0dbc3bee296a96539c052bd23056902130b9756078816e870b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 368907
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20James%20Pond%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20James%20Pond%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20James%20Pond%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20James%20Pond%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

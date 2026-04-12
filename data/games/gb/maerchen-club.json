@@ -1,0 +1,65 @@
+{
+  "id": "maerchen-club",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maerchen Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メルヘン倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maerchen Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "cdfd660a",
+      "md5": "29962ef94473a677ee26eee90b16dc6d",
+      "sha1": "dcb42287ffdbc352cd954b28a797fcd3547730de",
+      "sha256": "53d21bcd1d0decad5ae42a8f8e68933c718c13b534320f1dc4a7569224b776b9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウィザード、ニンジャ、ドラゴンなど15種類の駒を動かして相手の王を倒すゲームです。まず、駒を配置し、ボード上のマスに従って移動させます。相手の駒と重なった場合はバトルが発生し、相手のHPが0になると勝利となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Maerchen%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Maerchen%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Maerchen%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

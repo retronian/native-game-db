@@ -1,0 +1,96 @@
+{
+  "id": "new-chessmaster-the",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New Chessmaster, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ニューチェスマスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "New Chessmaster, The (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "5e1c3e8d",
+      "md5": "25b34ebece0e2c54baf9dee4f5845292",
+      "sha1": "5d0a22b99ffa528003997c59c54ac9d1c8920d6f",
+      "sha256": "21426c93f2c0551898ea1b8a18439ca400e1b943cad4560d175dfabdd524f48a"
+    },
+    {
+      "name": "New Chessmaster, The (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65536,
+      "crc32": "c7ffc203",
+      "md5": "f395f7b8ce24e6da365b843adf7d763e",
+      "sha1": "23458fe9e811f2f9ade1acc527024bab0b892bac",
+      "sha256": "999509a861bc9a54f24e192354d30a5a00b8fc1a718c5d0da299fdc881453b74"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49043
+  },
+  "descriptions": [
+    {
+      "text": "失われた駒や遅い対戦相手にさよならを。『ニューチェスマスター』では、初心者からグランドマスターまでの16段階の異なるスキルレベルでプレイできます。ティーチングモードでは、すべての可能な手をより簡単に検討でき、シナリオを再生したり逆転させたりすることができます。ゲームはいつでも一時停止でき、後で戻ってきてもボードを再設定する必要はありません。コンピュータや人間の対戦相手と対戦できる、これまでにない包括的なチェスパッケージです。チェスの仲間、適切な対戦相手、または友好的なインストラクターを探しているなら、『ニューチェスマスター』が完璧な解決策です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-01-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/New%20Chessmaster%2C%20The%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/New%20Chessmaster%2C%20The%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/New%20Chessmaster%2C%20The%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/New%20Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/New%20Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/New%20Chessmaster%2C%20The%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

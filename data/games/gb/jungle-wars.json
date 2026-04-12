@@ -1,0 +1,68 @@
+{
+  "id": "jungle-wars",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jungle Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジャングルウォーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jungle Wars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "2ad46ac7",
+      "md5": "0068d12e8a75cf18b9d0b34ffcbd119b",
+      "sha1": "3835a7821c11197fca87564b8d51a82c81fa7286",
+      "sha256": "1ad9d6b7c6d88bb5b15ffdfac3bdedf23e592a78b6d8cddfa1fcf61534c98a28"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138828
+  },
+  "descriptions": [
+    {
+      "text": "このコマンドベースのRPGの目的は、悪のゴートスクワッドに誘拐されたジャングルダッドを救出し、ジャングルに平和を取り戻すことです。チームにサルのサスケと魔法を使えるミオを加え、あなたの冒険はジャングルや街を通じて展開していきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-06-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Jungle%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Jungle%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Jungle%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

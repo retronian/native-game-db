@@ -1,0 +1,68 @@
+{
+  "id": "shippuu-iron-leaguer",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shippuu! Iron Leaguer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "疾風!アイアンリーガー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shippuu! Iron Leaguer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "8e3c7e15",
+      "md5": "1107c6ec10eba471045548919e7c114e",
+      "sha1": "2555e4b9426ff90efd431d46be5371d3e0a6dabf",
+      "sha256": "24fa83e1815b9605f78f4eea61cc518a1039fec8490896b25cd0551afdb76ac0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61391
+  },
+  "descriptions": [
+    {
+      "text": "スポーツロボットアニメがアクションゲームに変身しました。ボス戦のシーンは、野球やサッカーのようなスポーツの戦いのようです。主人公のマグナムエースが倒れると、先に進むのが難しくなります。マグナムエースの使い方を模索している間、マップはそれほど厳しくないので、ゲームボーイでもアクションはそれほど厳しくありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Shippuu%21%20Iron%20Leaguer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Shippuu%21%20Iron%20Leaguer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Shippuu%21%20Iron%20Leaguer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "heisei-tensai-bakabon",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heisei Tensai Bakabon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "平成天才バカボン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heisei Tensai Bakabon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "ac044e9a",
+      "md5": "e6aecb5959f3435df9b4500dc54404f6",
+      "sha1": "aaccd5b75894916ef655082a4ab4e05cb3f6fee8",
+      "sha256": "b25c1fd95b019555af9a4a8dd95784ed24bf3486848e77ff48061b3c87b594bb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249763
+  },
+  "descriptions": [
+    {
+      "text": "同名のアニメをモチーフにしたアクションゲームです。バカボンのパパは、誘拐されたママとハジメを探すためにバカ大学でジャンプし、アクションを起こします。シュールな画面とテンポの良いステージ構成が楽しいです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

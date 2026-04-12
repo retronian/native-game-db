@@ -1,0 +1,65 @@
+{
+  "id": "rentaiou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rentaiou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "連対王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rentaiou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "2350922b",
+      "md5": "a580ee4e1fc4dde0d3b8c11b62a4d77b",
+      "sha1": "5b2fa3da4dcd8afcd88c00134a2bbc8942135897",
+      "sha256": "1cb83803e95958ca307c3c0ba6abeac3a8cfcb3f8dede2466fc29cad700b1a90"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "コースの長さやトラックの状態など、10項目のデータを基にレースの結果を予測する競馬予測ソフトウェアです。基本データは事前に用意されており、入力が簡単です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Rentaiou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Rentaiou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Rentaiou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

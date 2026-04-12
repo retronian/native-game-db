@@ -1,0 +1,74 @@
+{
+  "id": "osawagase-penguin-boy",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Osawagase! Penguin Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おさわがせ! ペンギン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "おさわがせ! ペンギンBOY",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Osawagase! Penguin Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "54913227",
+      "md5": "d939e5c1ce9436a548fcdd3938348ba1",
+      "sha1": "1cdcf9810e98ba04378b2d6b555654722cb0acf6",
+      "sha256": "38591c89aab2bcad9fa64e3c96842ae9fab8093516403a7f518c03003c954e04"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "おさわがせ! ペンギンは、ペンギンを主人公とした基本的なアクションゲームです。40のレベルそれぞれは、プレイフィールドを四角に分けるいくつかのラインで構成されています。そのラインにはスイッチ（マイナスで表現される）や、アクティブにする必要があるドットが配置されています。四角の周りのすべてのラインがクリアされると、その四角が埋まり、ライン上にいる敵は全て倒されます（ただし、すぐに再出現します）。レベルの目標は、すべての四角を埋めることです。敵に触れたり、時間切れになるとライフが失われます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Osawagase%21%20Penguin%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Osawagase%21%20Penguin%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Osawagase%21%20Penguin%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

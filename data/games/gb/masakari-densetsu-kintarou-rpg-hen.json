@@ -1,0 +1,65 @@
+{
+  "id": "masakari-densetsu-kintarou-rpg-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Masakari Densetsu - Kintarou RPG Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マサカリ伝説 金太郎RPG編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Masakari Densetsu - Kintarou RPG Hen (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "d8bab8e0",
+      "md5": "35b1621d14b27cace027bd710ed6040b",
+      "sha1": "a9bcb90df5b19a372ceed81c614bb7eb295ec74c",
+      "sha256": "0a5d60ddfbbeebf240a0f9c47368984232316ae3df23d1753ce0fab0f004fba5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "金太郎とクマが活躍し、悪魔に誘拐されたアイドルのカグヤヒメを救うコミカルな物語。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Masakari%20Densetsu%20-%20Kintarou%20RPG%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Masakari%20Densetsu%20-%20Kintarou%20RPG%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Masakari%20Densetsu%20-%20Kintarou%20RPG%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

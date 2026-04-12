@@ -1,0 +1,68 @@
+{
+  "id": "double-dribble-5-on-5",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Dribble - 5 on 5",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "HyperDunk",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Konamic Basket",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Dribble - 5 on 5 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "ee28749d",
+      "md5": "ff3e6d70d42987dd7f6214067dc83afe",
+      "sha1": "d0f18c97b48dd8b355d195d2ddaeee910c5fc2b1",
+      "sha256": "936df4d0f74620c784129259a22fc3216eea04f70c10cab6005457a0f681e313"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48952
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Double%20Dribble%20-%205%20on%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Double%20Dribble%20-%205%20on%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Double%20Dribble%20-%205%20on%205%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

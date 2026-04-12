@@ -1,0 +1,65 @@
+{
+  "id": "tokio-senki-eiyuu-retsuden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tokio Senki - Eiyuu Retsuden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トキオ戦鬼 英雄列伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tokio Senki - Eiyuu Retsuden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "9db7dcc3",
+      "md5": "eecf87a2c5dbf9f8d2af9976b0f01f4e",
+      "sha1": "1aa4f93a4ad0e0a273a723c70e01494f04b1f214",
+      "sha256": "00c9c923a8323078e6fe26bfa22992b4ce98644ca6e5cf518cf7624d6da4b88d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "目的は、東京ではないトキオ大陸を統一することです。プレイヤーは、東京の実際の地名をモチーフにした16の国の中から1つの国を選択します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tokio%20Senki%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tokio%20Senki%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tokio%20Senki%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

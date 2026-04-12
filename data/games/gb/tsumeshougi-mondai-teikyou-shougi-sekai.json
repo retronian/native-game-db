@@ -1,0 +1,57 @@
+{
+  "id": "tsumeshougi-mondai-teikyou-shougi-sekai",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsumeshougi - Mondai Teikyou Shougi Sekai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "詰将棋 問題提供 『将棋世界』",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsumeshougi - Mondai Teikyou Shougi Sekai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "6403af06",
+      "md5": "1dd179d971829c8a9ca55100390a26f5",
+      "sha1": "d4d200c152b9fa1af758333210bef2649f0271ec",
+      "sha256": "069177057ddafc19430ad19b031863bbb6a72b6df42b09aff55f425ad7940d77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tsumeshougi%20-%20Mondai%20Teikyou%20Shougi%20Sekai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tsumeshougi%20-%20Mondai%20Teikyou%20Shougi%20Sekai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tsumeshougi%20-%20Mondai%20Teikyou%20Shougi%20Sekai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "john-madden-football",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "John Madden Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "John Madden Football (USA) (Proto 2) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "22f01823",
+      "md5": "e76328b0795af8cd85a70e84c1ef4722",
+      "sha1": "8d9e6cb3c3fc60e3746355ac7a4e8b825aab57ea"
+    },
+    {
+      "name": "John Madden Football (USA) (Proto 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "4f03ee8c",
+      "md5": "b9d8e38d12aad3046b0e2e6fd1ce4944",
+      "sha1": "c79ecb697723f98448423d311c3d7c76328a46a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 295034
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/John%20Madden%20Football%20%28USA%29%20%28Proto%202%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/John%20Madden%20Football%20%28USA%29%20%28Proto%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

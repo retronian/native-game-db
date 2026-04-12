@@ -1,0 +1,68 @@
+{
+  "id": "monster-maker-2-uru-no-hiken",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Maker 2 - Uru no Hiken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターメーカー2 ウルの秘剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Maker 2 - Uru no Hiken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "66e708fc",
+      "md5": "214f461d32073e12f0f8be8f25d0f4ed",
+      "sha1": "ffac4e116cfe1c2d545c746640cc55e7df59101b",
+      "sha256": "476b688591e6034a8d1d11db71f72e1a683f61dbb96eecfd95bb60b1b9c7319e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 318677
+  },
+  "descriptions": [
+    {
+      "text": "好奇心旺盛なプリンセス・ヴィーナは、カードで作られた世界「ウルフレイン大陸」で素晴らしい活躍をします。町や村もカードで示されており、目標に到達するとカードが開き、ダンジョンでは目の前のカードをめくることになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Monster%20Maker%202%20-%20Uru%20no%20Hiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Monster%20Maker%202%20-%20Uru%20no%20Hiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Monster%20Maker%202%20-%20Uru%20no%20Hiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

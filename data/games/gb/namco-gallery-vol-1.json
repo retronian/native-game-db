@@ -1,0 +1,80 @@
+{
+  "id": "namco-gallery-vol-1",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Gallery Vol.1",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナムコギャラリー Vol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ナムコギャラリーVol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ナムコギャラリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Gallery Vol.1 (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1902c6bd",
+      "md5": "c9a8d61d6d4707d28fcb267f93fa59ec",
+      "sha1": "d6b3c5fdb4b710cb104d461faf3b57f6eec066c4",
+      "sha256": "9d1d9435045ec7a634a4e8dd4a07e6fd28be2a869c624bdd20265eb5a22ef1c5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64030
+  },
+  "descriptions": [
+    {
+      "text": "ナムコギャラリー Vol. 1は、ナムコがゲームボーイ用に制作した3つのコンピレーションカートリッジのうちの最初のものです。すべてのカートリッジはスーパーハードボーイに対応しています。このボリュームには以下の4つのゲームが含まれています：\n\nバトルシティ  \nギャラガ  \nマッピー  \nナムコクラシック（ゴルフ）",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-07-21",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Namco%20Gallery%20Vol.1%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Namco%20Gallery%20Vol.1%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

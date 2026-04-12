@@ -1,0 +1,51 @@
+{
+  "id": "cool-ball",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cool Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cool Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 32768,
+      "crc32": "e045b886",
+      "md5": "57b192b42b4e1945cc7f20c98f7e1dab",
+      "sha1": "f1932d4a3f063c5395e8558a63c64e5840789ce6",
+      "sha256": "830e46d203dee9775b76849a3aa259b530e6bf5ea17cf8c79cc19549d61bce37"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92263
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Cool%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Cool%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Cool%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

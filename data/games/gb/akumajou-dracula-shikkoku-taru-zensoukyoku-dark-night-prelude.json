@@ -1,0 +1,74 @@
+{
+  "id": "akumajou-dracula-shikkoku-taru-zensoukyoku-dark-night-prelude",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "悪魔城ドラキュラ 漆黒たる前奏曲 ダークナイトプレリュード",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "悪魔城ドラキュラ 漆黒たる前奏曲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "4825b25f",
+      "md5": "6761f77e6daa82120dd7c73adeec777e",
+      "sha1": "baaa12be322adc005e51b43c73a352420d7cd034",
+      "sha256": "8e45c7d6b5498d4048653e92b2a792bb2eea00b2897a7711fb7be1b6bed0534f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "物語は、吸血鬼ハンターのソニア・ベルモントが、ドラキュラ伯爵の最初の化身と戦う様子を描いています。このゲームは、キャッスルヴァニアシリーズの他のすべてのゲームの前日譚として考案されましたが、後に非正史として認識されるようになりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Akumajou%20Dracula%20-%20Shikkoku%20Taru%20Zensoukyoku%20-%20Dark%20Night%20Prelude%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Akumajou%20Dracula%20-%20Shikkoku%20Taru%20Zensoukyoku%20-%20Dark%20Night%20Prelude%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Akumajou%20Dracula%20-%20Shikkoku%20Taru%20Zensoukyoku%20-%20Dark%20Night%20Prelude%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

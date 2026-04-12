@@ -1,0 +1,51 @@
+{
+  "id": "nba-jam",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NBA Jam",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "NBA Jam (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "0ca07cda",
+      "md5": "1a4aaf4af4b3610ca74ef3b307b6b2a9",
+      "sha1": "ceca1552909acaad74241cb3cef360ebb845ac3b",
+      "sha256": "24797d8f8f74f56fd619f346db92b1829b2262c979a0dca58875ae86d93abe66"
+    }
+  ],
+  "external_ids": {
+    "igdb": 259878
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/NBA%20Jam%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

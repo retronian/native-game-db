@@ -1,0 +1,65 @@
+{
+  "id": "scotland-yard",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Scotland Yard",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スコットランドヤード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Scotland Yard (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "4a0f5972",
+      "md5": "3d9099f5c9822d771f461c20a153a59b",
+      "sha1": "8b6d7db97da4664353241d67ea225e74dba6a170",
+      "sha256": "433edaf6cc16daefa7ab3ce75a73fcd2486765837654692a2aa0e7ec7de0038b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スコットランドヤードは、同名の人気ボードゲームの忠実なコンピュータ版で、CryoがRavensburger（ボードゲームの出版社）と協力して開発しました。イギリスの「最も指名手配された男」Mr. Xがロンドンで逃げ回っています。スコットランドヤードは、時間が切れる前に彼を見つけて捕まえることができるでしょうか？\n\nメインマップには、タクシー、バス、地下鉄でアクセスできる199の駅が表示されています。各交通手段にはチケットが必要です。1人のプレイヤーがMr. Xの役を担い、街をこっそり移動し、他のプレイヤーであるスコットランドヤードの探偵チームに手がかりを残します。Mr. Xが捕まらずに逃げ切ることができれば、彼/彼女の勝ちです。探偵たちが見ることができるのは、Mr. Xがそのターンで使用した移動チケットだけです。探偵たちは、Mr. Xを包囲し、逃げ道を遮断するために移動ルートを計画しなければなりません。探偵たちは限られた数のチケットしか持っておらず、特定のチケットがなくなると、その交通手段を使用できなくなります。\n\nさらに、ボーナスとして「コンピュータ強化版」を選ぶことができ、RPG要素（お金、武器、戦闘、健康、会話など）を追加します。プレイヤーは駅を訪れ、人々や場所と対話することができます。探偵たちは犯罪者を捕まえてお金を稼ぎ、Mr. Xに関する情報を購入する必要があります。Mr. Xは勝つために特定のアイテムを見つけなければなりません。彼は人々や家を襲ってお金を稼ぐことができます。武器、チケット、その他の役立つアイテムはさまざまな場所で購入できます。多くの人々が情報を提供しますが、代金が必要です。地区のギャングボスだけが、Mr. Xに高価なクエストアイテムに関する情報を売ることができます。しかし、ギャングボスを見つけるためには、まず彼の居場所に関する情報を購入する必要があります。\n\n全体として、スコットランドヤードは運よりも論理的な推論と戦略的計画を重視したゲームです。プレイヤーはMr. Xまたは探偵として、コンピュータ相手にソロプレイするか、友達と一緒にプレイすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Scotland%20Yard%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Scotland%20Yard%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Scotland%20Yard%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "taikyoku-renju",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taikyoku Renju",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "対局連珠",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taikyoku Renju (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "62a31de6",
+      "md5": "fc9d18538596c136f4cc9fc64d044a76",
+      "sha1": "4bd7e9944be0f71258b9955c77c0696484e9773a",
+      "sha256": "0699a4677917abc9be3a5094f61af5b7c414f3878c9f3e25cc3ea2089bd1db95"
+    }
+  ],
+  "external_ids": {
+    "igdb": 257312
+  },
+  "descriptions": [
+    {
+      "text": "対局連珠は、トワチキによって出版された雑多なゲームで、1990年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Taikyoku%20Renju%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Taikyoku%20Renju%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Taikyoku%20Renju%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

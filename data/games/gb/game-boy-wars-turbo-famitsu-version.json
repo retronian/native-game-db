@@ -1,0 +1,57 @@
+{
+  "id": "game-boy-wars-turbo-famitsu-version",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Wars Turbo - Famitsu Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームボーイウォーズ Turbo ファミ通",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Wars Turbo - Famitsu Version (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "86d04bfb",
+      "md5": "9ccc41fe3fb0ac407440cb8ea9fb3d0a",
+      "sha1": "a0106f20aaf857a7ba033537821e31c6ec074dd6",
+      "sha256": "8f5731cc1673c57580094651c1ec65090e1a8a48461307eb09ae5da4c0aa1fac"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Game%20Boy%20Wars%20Turbo%20-%20Famitsu%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Wars%20Turbo%20-%20Famitsu%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Wars%20Turbo%20-%20Famitsu%20Version%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

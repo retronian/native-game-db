@@ -1,0 +1,68 @@
+{
+  "id": "famista-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "241a6e4c",
+      "md5": "6f94ad4f3761bf5c6f85f28fe4ff0ed6",
+      "sha1": "e6f4ca432c36ec421935e6d4ecfc65c46764bc9c",
+      "sha256": "3cdcc66d4e25ecc7e737afa2b8f8994faffe09f3ae79aea4247cba326379800d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 86101
+  },
+  "descriptions": [
+    {
+      "text": "ファミスタの2年後、ナムコはカバーを第2作に差し替えました。ベースは変更されていませんが、内容が充実しました。しかし、開発者たちは自らの成果に頼り、グラフィックの改善は見られません。2人で楽しむこのゲームは、野球ファンを引き続き盛り上げることでしょう。リンクケーブルを引っ張り出す良い機会です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Famista%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Famista%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Famista%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

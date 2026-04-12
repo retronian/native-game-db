@@ -1,0 +1,65 @@
+{
+  "id": "genki-bakuhatsu-gambaruger",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genki Bakuhatsu Gambaruger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "元気爆発ガンバルガー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genki Bakuhatsu Gambaruger (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "6226d280",
+      "md5": "837f3b25d5864b631dff52e0f2b8cbd3",
+      "sha1": "4ca8a77c95530879b175a2ec9a792485ae18e83c",
+      "sha256": "15d5849bfc57ec3096a04e73de708b28ef8bb3b31d5238528b5811628b4a77c1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同名のロボットアニメを基にしたシンプルなアクションゲームです。プレイヤーは、ガンバルガー、レボルガー、ゲキリュウガーの3機の中から自分のマシンを選び、ステージの最後に待ち構えるボスを倒すことが目的です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Genki%20Bakuhatsu%20Gambaruger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Genki%20Bakuhatsu%20Gambaruger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Genki%20Bakuhatsu%20Gambaruger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

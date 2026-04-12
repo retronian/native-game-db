@@ -1,0 +1,102 @@
+{
+  "id": "nettou-toushinden",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nettou Toushinden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "熱闘 Deadhead Fighters 闘神伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "熱闘闘神伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nettou Toushinden (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "dde161a5",
+      "md5": "d14502bcdcf71e9e16476b5077c03945",
+      "sha1": "61b99fbc4d56dad2e6002c7a8c6b5a1660a23137",
+      "sha256": "c8e896062602d5d9127c549c851d9f5ffde8b3cedf5fc306ca983641fc09f6ce"
+    },
+    {
+      "name": "Nettou Toushinden (Japan) (Rev 1) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "d5a6b132",
+      "md5": "a093e160d18423bdaa2d6bf22f5f32a0",
+      "sha1": "5fd55a5d01817c770b251dbb9a0dc73a02d8c566",
+      "sha256": "adbaeb48234aa2ab1d25aecd762ed99ea0a528062d79a3f2753bdb2e8ecb9a52"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「バトルアリーナ トシンデン」では、世界的に有名な8人の武器使いが神秘的なトーナメントに招待されます。このゲームは、対戦相手の周りを360度自由にステップ回避できる能力を持つ、初期の1対1のビートエムアップの一つであり、どの角度からでも攻撃することが可能です。3Dの動きに加え、トシンデンのゲームプレイはストリートファイターに似ていると考えられますが、3Dであり、技の深さはやや少なめです。\n\nトシンデンは、ソニー・プレイステーション用と、後にあまり知られていないDOS PC用の2つのバージョンがリリースされました。しかし、PC版はプレイステーション版の単純な移植ではなく、同じキャラクター、攻撃、コントロールを共有しながらも、プレイ感や見た目が著しく異なります。\n\nアメリカおよび欧州のプレイステーション版トシンデンでは、英語で再録音された声と異なる楽器を使用した再録音の音楽が特徴です。\n\n日本版のソフィアのステージ音楽の歌詞は英語でありましたが、その内容が示唆的であったため、削除されました。\n\n英語版の翻訳では、ソフィアとエリスの声も同様の理由で調整されており、他のキャラクターの英語の声は元の日本の声優のトーンに一般的に合っていますが、ソフィアの声はずっと示唆的でなく、エリスはかなり年上に聞こえます。\n\n後のDOS版トシンデンは、すべての地域で日本のプレイステーション版と同じ音声を使用していますが、プレイステーション版よりもかなり低い品質で録音されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-03-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20Toushinden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20Toushinden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20Toushinden%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Nettou%20Toushinden%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Nettou%20Toushinden%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Nettou%20Toushinden%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

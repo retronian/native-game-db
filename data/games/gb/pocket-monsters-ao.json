@@ -1,0 +1,65 @@
+{
+  "id": "pocket-monsters-ao",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Monsters - Ao",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットモンスター 青",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - Ao (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e4468d14",
+      "md5": "c1adf0a77809ac91d905a4828888a2f0",
+      "sha1": "0da501e3e5c51ab8fef55b092dcdd7e6b050e424",
+      "sha256": "71a70e5f77c109177d21c998310ffe01a68e8cd2f41e72e7129093b890c7d3d1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "tall grassに一人で足を踏み入れると、プレイヤーに止まるよう警告する声が聞こえます。それは有名なポケモン研究者、オーキド博士の声でした。オーキド博士は、野生のポケモンがそこに生息している可能性があり、一人で遭遇するのは非常に危険であるとプレイヤーに説明します。彼はプレイヤーを自分の研究所に連れて行き、そこでオーキド博士の孫、ライバルのポケモントレーナーと出会います。プレイヤーとライバルは、旅に出るための最初のポケモンを、フシギダネ、ゼニガメ、ヒトカゲの中から選ぶよう指示されます。オーキド博士の孫は、常にプレイヤーの選んだポケモンに対して強いポケモンを選びます。そして、彼は新しく手に入れたポケモンでプレイヤーにポケモンバトルを挑み、ゲームの特定のポイントでプレイヤーに再びバトルを仕掛けてきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-10-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pocket%20Monsters%20-%20Ao%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pocket%20Monsters%20-%20Ao%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pocket%20Monsters%20-%20Ao%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

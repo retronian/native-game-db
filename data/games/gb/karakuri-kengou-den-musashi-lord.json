@@ -1,0 +1,68 @@
+{
+  "id": "karakuri-kengou-den-musashi-lord",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Karakuri Kengou Den Musashi Lord",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "からくり剣豪伝ムサシロード",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Karakuri Kengou Den Musashi Lord (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "01aee24b",
+      "md5": "a74a2a87bb4b2637c5243a37523fa7ae",
+      "sha1": "abef454ba28d9a89cdeef53dc32549d7bd7d95bb",
+      "sha256": "a88846e4e7c50ebbf47aeaa71f17539a68858cbdad524e33cdc640484509de08"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65436
+  },
+  "descriptions": [
+    {
+      "text": "日本のアニメシリーズ「からくり剣豪伝ムサシロード」を基にしたこのアクションゲームは、いわゆる「ギミックロボット」であるムサシが中世日本を旅し、トップの武道家になることを目指す物語を描いています。ムサシはゲーム内の7つのエリアを旅する中で、常に敵に対して警戒を怠らず、正しい解決策を見つけなければ行き詰まってしまう一連の頭の体操にも挑む必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Karakuri%20Kengou%20Den%20Musashi%20Lord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Karakuri%20Kengou%20Den%20Musashi%20Lord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Karakuri%20Kengou%20Den%20Musashi%20Lord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "masakari-densetsu-kintarou-action-hen",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Masakari Densetsu - Kintarou Action Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マサカリ伝説 金太郎アクション編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Masakari Densetsu - Kintarou Action Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "7cb70d3d",
+      "md5": "33349ad9019762b79c467cd241d79344",
+      "sha1": "ec23af3d5590b75b2a3b33708a4fe5cffe495a1f",
+      "sha256": "e5cc8956f1e21e5b6c7653ab4a1ecda7c941056d037200049e9ccffee1037405"
+    }
+  ],
+  "external_ids": {
+    "igdb": 163119
+  },
+  "descriptions": [
+    {
+      "text": "金太郎が仲間のクマと共に全10ステージで活躍するゲームです。第一ステージでクマとの相撲に勝つと、クマが金太郎の後ろを歩き、以降のステージで助けてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-08-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Masakari%20Densetsu%20-%20Kintarou%20Action%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Masakari%20Densetsu%20-%20Kintarou%20Action%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Masakari%20Densetsu%20-%20Kintarou%20Action%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "teenage-mutant-ninja-turtles",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Teenage Mutant Ninja Turtles",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ティーンエージ ミュータント ニンジャ タートルズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Teenage Mutant Ninja Turtles (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "74078236",
+      "md5": "3e7d080982af3aedb9c7e9dc5486b468",
+      "sha1": "1f17169d70365831537376beb2477374649f830b",
+      "sha256": "60832e0c1d573bf7ac835ef70d8654adc1222d363604292b33abefa9cc555273"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (Japan) (Cowabunga Collection, The)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "b3f6eec2",
+      "md5": "b990a1214b0c0c4f6eb079d80c8a9cbf",
+      "sha1": "8e5398a96523b83da1ed0600f57a774cde7729a7",
+      "sha256": "ebc6006374dacf159af9d46f5ed75a5335a4a9a00d4556d02a8f38cd92b508ae"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "タートルズの初めてのゲームボーイゲームは、比較的シンプルなプラットフォームスタイルのゲームです。レオナルド、ミケランジェロ、ラファエロ、ドナテロがクランとシュレッダーと戦いながら、友達のエイプリル・オニールを救う必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29%20%28Cowabunga%20Collection%2C%20The%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

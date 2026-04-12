@@ -1,0 +1,65 @@
+{
+  "id": "pachio-kun-2",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GB パチ夫くん2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3e8d0ae9",
+      "md5": "ffed7cc94e45730f0acd41da998c6820",
+      "sha1": "aa7f33113cabb0395848a237f819300b0f2e13db",
+      "sha256": "4fc7b803fc8fb7d6028728741cec9fa942274262260f714cb8001130ab23a255"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、パチ夫くんをフィーチャーしたパチンコゲームの第2弾、ゲームボーイ版です。ゲームの目的は、デスプラネットにある8台のマシンを停止させ、ギンコさんを不治の病から救うことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "hitori-de-dekirumon-cooking-densetsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hitori de Dekirumon! - Cooking Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ひとりでできるもん! クッキング伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hitori de Dekirumon! - Cooking Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "59db5e75",
+      "md5": "6b9ccdc2b6611c87dd5425ebcf95185c",
+      "sha1": "d7b744b84de2097fe77e55c76676256a14b20d74",
+      "sha256": "4868edbf339e041a9247453d9a80fcf4b75476e6b176203c8d3f104a626b87dd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 241885
+  },
+  "descriptions": [
+    {
+      "text": "「クッキング伝説」は、ゲームボーイ用の料理をテーマにしたロールプレイングゲームです。短くシンプルなゲームで、楽しいコンセプトが特徴です。バトルはクイズ番組スタイルで行われるため、日本語が話せないとその部分で少し苦労するかもしれません。しかし、バトルでうまくいかなくてもゲームをクリアすることは可能です。全体の難易度は非常に低く、主にいくつかのレシピ（このゲームでは魔法として使用される）が基本的に無限のHPを与えてくれるためです。また、いくつかのバトル選択肢ではクイズの正解を教えてくれます。マイは友達のヤジャマとオジャマと一緒にキッチンで料理をしていると、悪魔から手紙が届き、彼女の兄を誘拐したと告げられます。マイは、悪魔王の城に入って兄を救うために、8つの異なる食べ物をテーマにした世界を探索し、8人のキャラクターを救出しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Hitori%20de%20Dekirumon%21%20-%20Cooking%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Hitori%20de%20Dekirumon%21%20-%20Cooking%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Hitori%20de%20Dekirumon%21%20-%20Cooking%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

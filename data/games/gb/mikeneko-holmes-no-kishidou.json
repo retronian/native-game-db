@@ -1,0 +1,65 @@
+{
+  "id": "mikeneko-holmes-no-kishidou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mikeneko Holmes no Kishidou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "三毛猫ホームズの騎士道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mikeneko Holmes no Kishidou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "73b80b16",
+      "md5": "01dedf212717562bbc2730a4f5947cd4",
+      "sha1": "0fa85af4827f141cf3e6788b3bfdbc134d1a80c5",
+      "sha256": "c8504a4c21bd50b461be76fcd1af35e2581667e53974788aadae68cb80d3b0a5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「三毛猫ホームズの騎士道」は、ASKによって出版されたアドベンチャーゲームで、1991年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Mikeneko%20Holmes%20no%20Kishidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Mikeneko%20Holmes%20no%20Kishidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Mikeneko%20Holmes%20no%20Kishidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

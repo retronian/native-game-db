@@ -1,0 +1,62 @@
+{
+  "id": "final-reverse",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Reverse",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルリバース 最後の逆転",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Reverse (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "e94a6942",
+      "md5": "c836b4b44edcbe8a811fb10541919fe8",
+      "sha1": "e4b08e702f3b6c575b31dbd62615619126e03af5",
+      "sha256": "3441b2770738b8809e1c87090cf88e7ea0cb3d9cdba2be0b8540f41f618ba8e0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このシューティングゲームは非常にユニークです。ここでは敵の艦船を破壊してレベルを進むのではなく、閉じられたアリーナでライバルと競い合うことが求められます。最終的に「ファイナルリバース」は、アーケードゲーム「アルカノイド」と「スネーク」の混合のようなもので、移動のラインが時には強制されることもあります。2人でプレイ可能な、確かに特異なタイトルですが、決して面白くないわけではありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Final%20Reverse%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Final%20Reverse%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Final%20Reverse%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

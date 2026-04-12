@@ -1,0 +1,51 @@
+{
+  "id": "last-action-hero",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Last Action Hero",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Last Action Hero (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131072,
+      "crc32": "10499af6",
+      "md5": "36ce150459099b9a7fccbc2ee46ac22c",
+      "sha1": "010eb2cbab987ec242cd0792c789a07c00106f48",
+      "sha256": "2451d61085652f25d36e35f1fa50dc7e6b51c6e20a50120decc33efcf1c91109"
+    }
+  ],
+  "external_ids": {
+    "igdb": 262153
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Last%20Action%20Hero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Last%20Action%20Hero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Last%20Action%20Hero%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

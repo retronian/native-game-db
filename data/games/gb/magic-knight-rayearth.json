@@ -1,0 +1,77 @@
+{
+  "id": "magic-knight-rayearth",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magic Knight Rayearth",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔法騎士 マジックナイト レイアース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔法騎士レイアース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magic Knight Rayearth (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "94838a81",
+      "md5": "06b75e657debd1568f18d369cc2422dd",
+      "sha1": "4f77031946e62772a241a9b5b046d7fcf6a28ea8",
+      "sha256": "3be897438e69a22c64be12ab1d5ed41f9f35a54e40a1ce909f9fe080734d7fa4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 105045
+  },
+  "descriptions": [
+    {
+      "text": "アニメシリーズ「魔法騎士 マジックナイト レイアース」を基にしたアクションRPGです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Magic%20Knight%20Rayearth%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Magic%20Knight%20Rayearth%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Magic%20Knight%20Rayearth%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

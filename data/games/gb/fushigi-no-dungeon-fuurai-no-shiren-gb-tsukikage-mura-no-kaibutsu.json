@@ -1,0 +1,77 @@
+{
+  "id": "fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "不思議のダンジョン 風来のシレンGB 月影村の怪物",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "不思議のダンジョン 風来のシレン GB 月影村の怪物",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "2962afb4",
+      "md5": "754398219a3ab38394cdac543d8deb47",
+      "sha1": "920ef94c05ac741047a266cb1668c881eab2937c",
+      "sha256": "e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130810
+  },
+  "descriptions": [
+    {
+      "text": "スーパーファミコン版の人気タイトルの移植作品。風来のシレンは、入るたびに形が変わるダンジョンに挑戦します。空腹やアイテム合成といった基本システムは健在です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20GB%20-%20Tsukikage%20Mura%20no%20Kaibutsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20GB%20-%20Tsukikage%20Mura%20no%20Kaibutsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Fushigi%20no%20Dungeon%20-%20Fuurai%20no%20Shiren%20GB%20-%20Tsukikage%20Mura%20no%20Kaibutsu%20%28Japan%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

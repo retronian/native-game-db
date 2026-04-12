@@ -1,0 +1,45 @@
+{
+  "id": "ginga-card-and-puzzle-collection",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ginga - Card & Puzzle Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カード&パズル コレクション 銀河",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ginga - Card & Puzzle Collection (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "87d0637b",
+      "md5": "49eff735e839f8a57f75afcbf2c11ae4",
+      "sha1": "14f4f14caee081dceadb9d31ae26fd8968c432ea",
+      "sha256": "bab9356cd5e32cd5794b16b823c75e9816eab0e38d5f6b2d46ab9e7bfaeadb7b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「銀河」は12種類のミニゲームのコレクションです：\n\nゴースト：このゲームは6x6のグリッドで、さまざまな絵柄のタイルを使ってプレイします。タイルをクリックすると、そのタイルが回転し、他のタイルも一緒に回転します。目標はすべてのタイルを回転させることです。\n\nプレッシャー：ゴーストと同じグリッドとタイルでプレイします。今回は、プレイヤーが2つのタイルを一致させてフィールドの一部を回転させる必要があります。\n\nレース：今回は、石が10x10のグリッドに分かれています。2つの石を一致させることでポイントが得られ、タイルの一部が回転します。目標は高得点を獲得することで、つまりボード全体を回転させる前にできるだけ多くの一致を作ることです。\n\nアレイ：このゲームでは、プレイヤーは8x8のグリッドを持ち、6つのタイルが提示されます。常にそのタイルの中で最も低いものをグリッドの1つに配置する必要があります。正しいタイルの組み合わせができると、それらは消え、消えたタイルごとに500点がカウントダウンされます。目標はボードが満杯になる前にスコアをゼロにすることです。\n\nペイシェンスのバリエーションとして、ゴールド、ネスター、ピラミッド、ダブルがあります。\n\n15パズルとチェンジは標準的なスライディングパズルです。\n\nペグソリティア\n\nクラシックなナイトツアーのバリエーションです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14"
+}

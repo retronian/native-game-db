@@ -1,0 +1,65 @@
+{
+  "id": "koi-wa-kakehiki",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koi wa Kakehiki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "恋は駆け引き",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koi wa Kakehiki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "f3e1e652",
+      "md5": "cf71ca9d27bb91c32cdcad09024b2457",
+      "sha1": "d6a59fc334f93ba0d17faa66542eb74dcc3e536b",
+      "sha256": "c7df59cc1f172ba723a1ef9b65e22daa0f0e4fb900d574f2316e232ada62aa9a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "敵と交互にラインをずらしながら、右下の彼女に白い道を繋げることが目的のパズルゲームです。逆に、右上から左下に黒いブロックで繋げてしまうと敗北となります。ルールはシンプルですが、予想外に頭を使う、やや地味なゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Koi%20wa%20Kakehiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Koi%20wa%20Kakehiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Koi%20wa%20Kakehiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

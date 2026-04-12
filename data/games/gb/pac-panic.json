@@ -1,0 +1,75 @@
+{
+  "id": "pac-panic",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pac-Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パックパニック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pac-Panic (Europe) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "e4af8f75",
+      "md5": "e2e76c7e50d4463f9e628df2933bb79a",
+      "sha1": "963222935becb2139fb0133fbd9b02a1e239bbf2",
+      "sha256": "f417014966162b4c5c03071c52306141d62dcd45abf6bbd6f3150c156fd156bb"
+    },
+    {
+      "name": "Pac-Panic (Japan) (En) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "aaebd509",
+      "md5": "f683f5e516c1f267d4d16dc0e697f746",
+      "sha1": "64573cd6c4a26087485af540818c972cd256a881",
+      "sha256": "85b2164f88eb6f8fce975676bbe30fa41e1a9b588f306cd7077bbfd812ca93bf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「パックパニック」では、パックマンが迷路の環境を離れて珍しく登場します。これは楽しくてユニークなパズルゲームです。このジャンルの独自の作品は、確立されたコンベンションに独自のひねりを加え、ゲームの最もアイコニックなキャラクターの一つを取り入れています。目標はシンプルです：落ちてくるブロックやゴーストを横に並べて消し、画面をクリアに保ちましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Pac-Panic%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Pac-Panic%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Pac-Panic%20%28Europe%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

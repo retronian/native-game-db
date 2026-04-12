@@ -1,0 +1,67 @@
+{
+  "id": "game-boy-controller-kensa-cartridge",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Boy Controller Kensa Cartridge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームボーイコントローラー検査カートリッジ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "コントローラ検査カートリッジ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Boy Controller Kensa Cartridge (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32768,
+      "crc32": "f5657fce",
+      "md5": "9fcf969d7d4554997ca902bbf9033287",
+      "sha1": "1bed2a9ac25ac2f88b4fc45e729122abcad962f3",
+      "sha256": "d69215304b22d029fc51a090efa45ded7f7bdc475d9904bca410ee60a05ab8e3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "コントローラー検査用プログラムです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Game%20Boy%20Controller%20Kensa%20Cartridge%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Game%20Boy%20Controller%20Kensa%20Cartridge%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

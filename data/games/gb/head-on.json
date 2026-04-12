@@ -1,0 +1,62 @@
+{
+  "id": "head-on",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Head On",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヘッドオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Head On (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65536,
+      "crc32": "78830daf",
+      "md5": "3353653e75b9110afdd37452b27cd312",
+      "sha1": "76261091adb7def20a4f76aa6c062c60c6d9761c",
+      "sha256": "359b002cd9eb54c4d033eff03d8330666bb335554945635ab176967b8e72a584"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "パワーレーサーは、アーケードゲーム「ヘッドオン」のコンバージョンで、特別なモードが追加されています。通常モードはオリジナルの忠実な再現で、プレイフィールドは四車線の正方形のレーストラックで構成されています。コーナーの間は車線が部分的に途切れており、車線を変更することができます。これは、途切れていない部分に点があり、すべてを拾わないと次のレベルに進めないため必要です。また、トラック上にはもう一台（高いレベルでは二台）の車があり、プレイヤーに衝突しようとしますが、もちろんこれを避ける必要があります。このモードには十段階の難易度があります。\n\n特別モードでは、基本的なプレイ原則にいくつかの要素が追加されます。このモードでは三つの難易度と九つのトラックがあり、すべてプレイフィールドに変化をもたらします。例えば、異なる車線のレイアウトや、車が通過するとスピンするオイルスリック、コンベヤーベルトなどがあります。また、トラック上にランダムに出現し、限られた時間内に拾う必要があるパワーアップもいくつかあります。ほとんどは即座に発動せず、適切なタイミングで使用できます。パワーアップには、敵をスピンさせる爆弾、レベルスキップ、追加のライフ、シールド、敵のスローダウン、すべての車をUターンさせるものがあります。このモードは二人の人間プレイヤーでプレイすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Head%20On%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Head%20On%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Head%20On%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

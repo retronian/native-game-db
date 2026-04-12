@@ -1,0 +1,65 @@
+{
+  "id": "tiny-toon-adventures-3-dokidoki-sport-festival",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiny Toon Adventures 3 - Dokidoki Sport Festival",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドキドキスポーツフェスティバル タイニー・トゥーン アドベンチャーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures 3 - Dokidoki Sport Festival (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3fa10931",
+      "md5": "72dfa391aabb34d0a047443ee11c83ac",
+      "sha1": "e4b8d9bed45083472141f6856a13b04825164166",
+      "sha256": "db139afdabdabefaa783c11729ac8e4e1fd27af677ea43a2cd23ee40e9d5b8dd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドキドキスポーツフェスティバル タイニー・トゥーン アドベンチャーズは、1994年にコナミによって開発・発売されたスポーツゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Tiny%20Toon%20Adventures%203%20-%20Dokidoki%20Sport%20Festival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Tiny%20Toon%20Adventures%203%20-%20Dokidoki%20Sport%20Festival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Tiny%20Toon%20Adventures%203%20-%20Dokidoki%20Sport%20Festival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "spirou",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spirou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spirou (Europe) (En,Fr,De,Es) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "735b29e2",
+      "md5": "5aa012cf540a5267d6adea6659764441",
+      "sha1": "5eef57753b7faae2b9710e38be30662b0b77383a",
+      "sha256": "6c7e8b59255dc27bcc55af21ceb80ab14876c2009ae901f369fca9e8501ff70d"
+    },
+    {
+      "name": "Spirou (Europe) (En,Fr,De,Es) (Beta) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "35415a00",
+      "md5": "378236df6a7c686dfaa6743b63d1f757",
+      "sha1": "556641fc79700c5ccb4f8feaec1d7fafe99c31c4",
+      "sha256": "7e5e2224dbb667818f6bb86007a069cbf7addb6debbd99fa0cf340167be82ae5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 368890
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Spirou%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Beta%29%20%28SGB%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

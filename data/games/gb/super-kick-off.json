@@ -1,0 +1,59 @@
+{
+  "id": "super-kick-off",
+  "platform": "gb",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Kick Off",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "Pro Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Kick Off (Europe) (En,Fr,De,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "4b1dfe3d",
+      "md5": "7d6eb2f521febcf05cb445f6f37b3ba3",
+      "sha1": "c178dafc472de4c8dcdbc8361ee078641ae61b84",
+      "sha256": "15ea5927f2d7c91fe243da014dfcb0ef9248637842fab81f4954aa50e3c7eca3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45797
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Boxarts/Super%20Kick%20Off%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Titles/Super%20Kick%20Off%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Super%20Kick%20Off%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}
