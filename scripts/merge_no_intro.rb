@@ -20,6 +20,7 @@ require 'rexml/document'
 require 'fileutils'
 require 'optparse'
 require_relative 'lib/slug'
+require_relative 'lib/db_index'
 
 $stdout.sync = true
 
@@ -72,29 +73,11 @@ def region_from_name(name)
 end
 
 def index_db_games(platform_id)
-  dir = File.join(SRC, platform_id)
-  return {} unless Dir.exist?(dir)
-
-  index = {}
-  Dir.glob(File.join(dir, '*.json')).sort.each do |path|
-    game = JSON.parse(File.read(path))
-    record = { path: path, game: game }
-    [game['id'], Slug.normalize_numerals(game['id']), Slug.canonical(game['id'])].compact.uniq.each do |k|
-      index[k] ||= record
-    end
-    game['titles'].each do |t|
-      next unless t['script'] == 'Latn'
-      Slug.aliases_for(t['text']).each { |k| index[k] ||= record }
-    end
-  end
-  index
+  DbIndex.build(SRC, platform_id)
 end
 
 def lookup_record(index, text)
-  Slug.aliases_for(text).each do |key|
-    return index[key] if index.key?(key)
-  end
-  nil
+  DbIndex.lookup(index, text)
 end
 
 def rom_attrs(rom_el)

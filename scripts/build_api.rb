@@ -60,12 +60,23 @@ def platform_targets
 end
 
 # A game counts as "released in Japan" when we have a No-Intro ROM
-# tagged region=jp. That's the only evidence source that reliably maps
-# one-to-one with a real Japanese cartridge release — Wikidata and IGDB
-# labels will happily assign a ja tag to games that never shipped in
-# Japan (localized Wikipedia article titles etc).
+# tagged region=jp that is *not* a prototype, beta, pirate dump,
+# unlicensed release, homebrew or BIOS. Only retail releases count.
+#
+# Wikidata and IGDB labels would happily assign ja tags to games that
+# never shipped in Japan (localized Wikipedia article titles etc), so
+# we rely on No-Intro's region tagging as ground truth and strip the
+# non-retail bucket explicitly.
+NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|Aftermarket|Homebrew)\)/i.freeze
+
 def japanese_release?(game)
-  (game['roms'] || []).any? { |r| r['region'] == 'jp' }
+  return false if game['id'].to_s.start_with?('bios-')
+  return false if (game['category'] || '') == 'bios'
+  (game['roms'] || []).any? do |r|
+    next false unless r['region'] == 'jp'
+    next false if r['name'].to_s =~ NON_RETAIL_ROM_RE
+    true
+  end
 end
 
 # Does the entry carry at least one Japanese-script title? This is the

@@ -28,6 +28,7 @@ require 'fileutils'
 require 'optparse'
 require_relative 'lib/script_detector'
 require_relative 'lib/slug'
+require_relative 'lib/db_index'
 
 $stdout.sync = true
 
@@ -125,30 +126,17 @@ end
 # -------- DB index --------
 
 def index_existing(platform_id)
-  dir = File.join(SRC, platform_id)
-  return {}, {} unless Dir.exist?(dir)
-
-  slug_index = {}
+  slug_index = DbIndex.build(SRC, platform_id)
   igdb_index = {}
-  Dir.glob(File.join(dir, '*.json')).sort.each do |path|
-    game = JSON.parse(File.read(path))
-    record = { path: path, game: game }
-    [game['id'], Slug.normalize_numerals(game['id']), Slug.canonical(game['id'])].compact.uniq.each do |k|
-      slug_index[k] ||= record
-    end
-    game['titles'].each do |t|
-      next unless t['script'] == 'Latn'
-      Slug.aliases_for(t['text']).each { |k| slug_index[k] ||= record }
-    end
-    id = game.dig('external_ids', 'igdb')
+  slug_index.values.uniq.each do |record|
+    id = record[:game].dig('external_ids', 'igdb')
     igdb_index[id] = record if id
   end
   [slug_index, igdb_index]
 end
 
 def lookup_slug(index, text)
-  Slug.aliases_for(text).each { |k| return index[k] if index.key?(k) }
-  nil
+  DbIndex.lookup(index, text)
 end
 
 # -------- Entry builder --------

@@ -47,6 +47,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "サッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
     }
   ],
   "first_release_date": "1991-06-07",
@@ -69,6 +78,28 @@
       "kind": "screenshot",
       "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy/master/Named_Snaps/Soccer%20%28Japan%29.png",
       "source": "libretro_thumbnails"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "c36b199b",
+      "md5": "effbaf8c4b83edfebbe6451df0d44fd1",
+      "sha1": "355fb7f220a0ba470011220282a59e707f168e1a",
+      "sha256": "3687acd9993d4ee9fd832ff06bb61e29568a203b3b7c576426f4f6c3829ed5bf"
+    },
+    {
+      "name": "Soccer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "be51a876",
+      "md5": "1f406d44b61098883bbaafc076e994e9",
+      "sha1": "f9fd41616185ead719774acb2b826c5c7359cdb2",
+      "sha256": "a87897205cc98d81aaf5ec03d932e84fdc0aefb369a2abf16d3d03e479ad2bcc"
     }
   ]
 }
