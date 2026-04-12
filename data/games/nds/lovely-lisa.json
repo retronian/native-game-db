@@ -1,0 +1,87 @@
+{
+  "id": "lovely-lisa",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lovely Lisa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Licca-Chan DS: Onna no Ko Lesson: Oshare mo Oshigoto mo Omakase! ",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lovely Lisa (Europe) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLIP",
+      "size": 67108864,
+      "crc32": "4f060110",
+      "md5": "cede5c6440f698742cb98bade049ce23",
+      "sha1": "550d3deb20478aec60d80e93607f6be47abc984b"
+    },
+    {
+      "name": "Lovely Lisa (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLIE",
+      "size": 67108864,
+      "crc32": "6686821a",
+      "md5": "a5f69105dde0b2996b44f0657bde1b90",
+      "sha1": "e6c84265bf54d7e4dfd46a5eec350948e27910cc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67108
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lovely%20Lisa%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lovely%20Lisa%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lovely%20Lisa%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lovely%20Lisa%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Lovely%20Lisa%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lovely%20Lisa%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

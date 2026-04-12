@@ -1,0 +1,60 @@
+{
+  "id": "super-mario-all-stars-super-mario-world",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Mario All-Stars + Super Mario World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Super Mario All-Stars and Super Mario World",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Mario All-Stars + Super Mario World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2621440,
+      "crc32": "f84305b1",
+      "md5": "7ecaf3e2e021c8a836041c85886f4594",
+      "sha1": "d245e41a2b590f7d63666b0772cbddfb26f254a2",
+      "sha256": "a8806bfe07cd3c9945d9fd3fcea932ae1cd671cab5cae12bb7a2ae726cbf9175"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77378
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

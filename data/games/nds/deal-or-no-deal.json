@@ -1,0 +1,105 @@
+{
+  "id": "deal-or-no-deal",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Deal or No Deal",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Deal or No Deal (Netherlands)",
+      "source": "no_intro",
+      "serial": "YLAH",
+      "size": 8388608,
+      "crc32": "bf409862",
+      "md5": "c0ac1f8ecb8d23ac6585bcf11666cc75",
+      "sha1": "9acb3a3d8eac0bc172aea67a503269b9d0406aa9"
+    },
+    {
+      "name": "Deal or No Deal (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "serial": "YLAU",
+      "size": 8388608,
+      "crc32": "984cc23b",
+      "md5": "e148664cd4a01c8311c3d622a210c63c",
+      "sha1": "1355ae31517a0d2cb4154a1dd9b84e647f810395"
+    },
+    {
+      "name": "Deal or No Deal (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YDLE",
+      "size": 16777216,
+      "crc32": "9bfd58cc",
+      "md5": "26fa529663c64b6929874b8557c10c75",
+      "sha1": "e859768619fbd74144780cb5cac01e2557471681"
+    },
+    {
+      "name": "Deal or No Deal (Germany)",
+      "source": "no_intro",
+      "serial": "YLAD",
+      "size": 8388608,
+      "crc32": "0ef26d15",
+      "md5": "11e8baf650ac39a3c3bfeb61c82e9f49",
+      "sha1": "0fdb6d3914ada9b09917cb41c3403a45654c54d4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248609
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Deal%20or%20No%20Deal%20%28Netherlands%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Deal%20or%20No%20Deal%20%28Netherlands%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Deal%20or%20No%20Deal%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Deal%20or%20No%20Deal%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Deal%20or%20No%20Deal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Deal%20or%20No%20Deal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Deal%20or%20No%20Deal%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Deal%20or%20No%20Deal%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "genpei-toumaden",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genpei Toumaden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "源平討魔伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genpei Toumaden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b926c682",
+      "md5": "c3357cc104feb0686ede96b099a2de2d",
+      "sha1": "c9ac518e9541c204d532fd531aaad5cd06763986",
+      "sha256": "394b093151fc040d0026f2e76a5b9e8f1e561b2d3059d0c1acdd15dc9d1b52bf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1192年、源氏の闇が訪れ、日本全土に広がっています。国は荒れ果て、失われた平家の一人の男だけが地獄の底から戻り、この状況を食い止めることができます。その名は平の影清です。\n\n『源平討魔伝』の物語は、日本の歴史における源平合戦を中心に展開され、平の影清が悪の源頼朝と源氏一族と戦う様子が描かれています。\n\nゲームは3つのプレイモードを特徴としています。「サイドモード」は小規模なアクションプラットフォームセクション、「ビッグモード」はタイトーのコインオペレーション『グラディエーター』に匹敵する大規模な戦闘セクション、「フラットモード」は俯瞰視点のセクションです。すべてのセクションでの目標は、敵を倒し、アイテムを集め、ライフバー（燃えるろうそくで表現される）が尽きる前にゴールに到達することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-03-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Genpei%20Toumaden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Genpei%20Toumaden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Genpei%20Toumaden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

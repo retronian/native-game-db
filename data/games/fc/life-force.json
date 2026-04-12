@@ -1,0 +1,109 @@
+{
+  "id": "life-force",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Life Force",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Life Force: Salamander",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "沙羅曼蛇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Salamander",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Life Force (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6072894a",
+      "md5": "3e138b2c1b0b71a17611edaf78c46095",
+      "sha1": "4fea1807ab79a4b69edca5a571cdf4318e14df62",
+      "sha256": "c725a0c6b3eb52f542c10cf40538b69d0b163e5884ced7530dd250dbc02749b4"
+    },
+    {
+      "name": "Life Force (USA) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "e4afdb8f",
+      "md5": "d5ea3575ad3051bc2404ece12ff84cd8",
+      "sha1": "00cc60e8207b7b8a1f870ae63d3a8f44af688586",
+      "sha256": "09884c751c04d0467a08c714ad8149ee7bff9a2e6fd2b632f77b665b93ea2067"
+    },
+    {
+      "name": "Life Force (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 131088,
+      "crc32": "7fd2dbe1",
+      "md5": "429ae28ada0d857f66fc8834d57e8105",
+      "sha1": "47b24d7b15ae113b0c5e806aa1080c05f37cad6a",
+      "sha256": "96cd03928de2cfd50b3206fdbd2096df068b0b981571d22a3659c0e6e7a39375"
+    }
+  ],
+  "external_ids": {
+    "igdb": 174945
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Life%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Life%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Life%20Force%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Life%20Force%20%28USA%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Life%20Force%20%28USA%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

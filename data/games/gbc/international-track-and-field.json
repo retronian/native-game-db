@@ -1,0 +1,48 @@
+{
+  "id": "international-track-and-field",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "International Track & Field",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Hyper Olympic: Track & Field GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "327ec81f",
+      "md5": "c48ab40a864707e54688b9cf8db15faa",
+      "sha1": "3aecac0876dac69e9e1fb6f6c311d0af050f1f48"
+    },
+    {
+      "name": "International Track & Field (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "803d5d57",
+      "md5": "f855638ad74a7b31cca5786a32bb8868",
+      "sha1": "80b7591470d0a26fe7cf5c80c8bff5d34f79f569",
+      "sha256": "d7b1e58add0c2ed685f2ec0d90b75f0f1d2d1f1d8e9fbed9aabe4113cc393705"
+    }
+  ],
+  "external_ids": {
+    "igdb": 266553
+  }
+}

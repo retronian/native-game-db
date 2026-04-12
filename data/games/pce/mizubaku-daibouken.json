@@ -1,0 +1,68 @@
+{
+  "id": "mizubaku-daibouken",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mizubaku Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミズバク大冒険 アドベンチャー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mizubaku Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b2ef558d",
+      "md5": "b8074808e85c4d120e9c0acd51426098",
+      "sha1": "6e99a1982b6e2b0b9fb82f1d30270620917e1b92",
+      "sha256": "98020506e5766c1d61700548a4bf4321d709ad62cf0f94e996fd5cecd8f1cbe0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38084
+  },
+  "descriptions": [
+    {
+      "text": "『水爆大冒険』では、あなたはヒポポというカバを操作し、行方不明の彼女を探しながら、多くの敵がひしめくレベルを冒険し、途中で他のカバのような生き物を救出する必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mizubaku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mizubaku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mizubaku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jeopardy",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJDE",
+      "size": 16777216,
+      "crc32": "41453c96",
+      "md5": "e57ec10c2a85bd172b82a361ae0ce31d",
+      "sha1": "8db9ad172e8c09976090249068350ca8ce7dd789"
+    }
+  ],
+  "external_ids": {
+    "igdb": 350913
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

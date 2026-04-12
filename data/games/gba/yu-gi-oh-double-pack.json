@@ -1,0 +1,80 @@
+{
+  "id": "yu-gi-oh-double-pack",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu-Gi-Oh! Double Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! Double Pack (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BY2P",
+      "size": 33554432,
+      "crc32": "7ea28a99",
+      "md5": "fb29d59010a0ea0fec56cec94241617b",
+      "sha1": "14a5e70e05bca849695190833d1b107799ceb58d"
+    },
+    {
+      "name": "Yu-Gi-Oh! Double Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BY2E",
+      "size": 33554432,
+      "crc32": "f3df5758",
+      "md5": "b288c64ec50625b6b80bc6730efbf190",
+      "sha1": "cfa00b4f8a3f2e6400d4816df6ed1bfebf131120",
+      "sha256": "b86546b5c52316d96eb54c3c5365c5eba56ffe9f3c46b6341160ecd1e9cf0688"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79360
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "heavy-unit-mega-drive-special",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heavy Unit - Mega Drive Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヘビーユニット メガドライブスペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heavy Unit - Mega Drive Special (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-27013-00",
+      "size": 524288,
+      "crc32": "1acbe608",
+      "md5": "6b60e70252280b1cc22d80cb4c70d54a",
+      "sha1": "198e243cc21e4aea97e2c6aca376cb2ae70bc1c9",
+      "sha256": "3c1b8a64b74dbe3f09edea36153cec240ead670b103ab710c96b8ff227e03350"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヘビーユニットは、敵や中ボス、ボスが満載のいくつかのレベルを飛び回る典型的な横スクロールシューティングゲームです。速度や武器を増加させる通常のパワーアップのほかに、宇宙船を異なる武器システムを持つ大型ロボットに変身させるパワーアップも存在します。\n\nこれは、ターボグラフィックス16用のヘビーユニットと同じゲームですが、グラフィック（より多くの色、大きな敵）と音が改善されています。レベルのレイアウトは同じです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Heavy%20Unit%20-%20Mega%20Drive%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Heavy%20Unit%20-%20Mega%20Drive%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Heavy%20Unit%20-%20Mega%20Drive%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

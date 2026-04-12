@@ -1,0 +1,69 @@
+{
+  "id": "go-net",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Go Net",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Go Net",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Go Net (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "4533",
+      "size": 524288,
+      "crc32": "db30f773",
+      "md5": "a4d00b8119cf3a71634ac3396537814e",
+      "sha1": "22502a21b9508b385de32bd7e2c9d304ddcef38b",
+      "sha256": "4d5af65fe83ac3840721127ff84a6ba3b36bd584cb2c8c8f93fbd48f2fe83b09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 128862
+  },
+  "descriptions": [
+    {
+      "text": "「Go Net」は、セガとアイシステム東京の共同開発による珍しいセガメガドライブ用カートリッジで、1992年に日本国内のみで発売されました。セガメガモデムとサブスクリプションを組み合わせることで、他のカートリッジ所有者と囲碁を楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Go%20Net%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Go%20Net%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Go%20Net%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

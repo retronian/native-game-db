@@ -1,0 +1,77 @@
+{
+  "id": "doraemon-meikyuu-daisakusen",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon - Meikyuu Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもん迷宮大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラえもん 迷宮大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon - Meikyuu Daisakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "dc760a07",
+      "md5": "77cf3e53c5e4fbef73087893cdeec84f",
+      "sha1": "81769dc4e2e669f6ae98872d22c52ac290530a28",
+      "sha256": "f92771b8b81b5aa618dc4ba12eabc3f48062cc66e7a241b47ca5a1919ec89b03"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43194
+  },
+  "descriptions": [
+    {
+      "text": "『ドラえもん：迷宮大作戦』は、上からの視点で遊ぶアクションパズルゲームです。各ステージは、さまざまな敵やアイテムで満たされた迷路で構成されています。敵を避けたり排除したりしながら、出口の扉を開けるためにステージ内のすべての鍵を集める必要があります。敵に対処する主な方法は穴を掘ることで、敵が穴に入ると一時的に閉じ込められ、その後穴を埋めることで敵を倒すことができます。\n\nまた、レーザーガンやヨーヨーなどの一時的な武器パワーアップを取得したり、掘る範囲を広げて一度に複数の穴を掘ることも可能です。ゲーム内ではいくつかのボスとも遭遇します。\n\n日本版『ドラえもん：迷宮大作戦』は、人気の子供向けキャラクターであるドラえもんとその仲間たちが登場します。このゲームは、1987年に稼働した日仏のコインオペレーションゲーム『キッドのホレホレ大作戦』の移植版で、改良されたファミコン版『ブービーキッズ』も存在します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-10-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Doraemon%20-%20Meikyuu%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Doraemon%20-%20Meikyuu%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Doraemon%20-%20Meikyuu%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "brave-saga-shinshou-astaria",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Brave Saga - Shinshou Astaria",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブレイブサーガ 新章 アスタリア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Brave Saga - Shinshou Astaria (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5d5d294a",
+      "md5": "339d4c36fba10397018040e0a4cd1f94",
+      "sha1": "952b9e16a938b986a6216b8db6d62f71c4f853fa",
+      "sha256": "5ffda4ca9e2712e2ecc44e75bfd8c7307f4ed5fbcbb82a0f5cd9ad19e3bac6c2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65643
+  },
+  "descriptions": [
+    {
+      "text": "多くのダンジョンを探索し、魔神を倒しましょう。ガオガイガーやゴッグなど、最大2体のロボットでパーティを編成し、敵に応じて切り替えましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-01-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Brave%20Saga%20-%20Shinshou%20Astaria%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Brave%20Saga%20-%20Shinshou%20Astaria%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Brave%20Saga%20-%20Shinshou%20Astaria%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

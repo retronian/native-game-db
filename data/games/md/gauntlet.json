@@ -1,0 +1,77 @@
+{
+  "id": "gauntlet",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gauntlet",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガントレット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gauntlet (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48123-00",
+      "size": 1048576,
+      "crc32": "f9872055",
+      "md5": "9aad96cc5364d2289f470b75c59907a5",
+      "sha1": "30208982dd1f50634943d894e7458a556127f8e4",
+      "sha256": "af2abf9619b8854c6caa623a7fec8665d8eeca36bddddd6a8ce29691059bdf2d"
+    },
+    {
+      "name": "Gauntlet (Japan) (En,Ja) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-57192-00",
+      "size": 1048576,
+      "crc32": "7d478079",
+      "md5": "2539e1b5e332845ede0024a2eed82956",
+      "sha1": "347209b0d09270d0a492622e7961ba7febdef99b",
+      "sha256": "07fab32b271931fae710b2df1ef0178f0c78e641f11839dee68c7fc40b2673bc"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アーケードオリジナルの移植版には、いくつかの追加モードがあります。再び、トール（戦士）、ティラ（バルキリー）、マーリン（ウィザード）、クエスト（エルフ）から選択できます（それぞれに利点と欠点があります）。1人から4人までのプレイヤーがサポートされており、セガの4人プレイヤーアダプターにも対応しています。\n\n標準のアーケードモードに加えて、クエストモード、バトルモード、レコードモードがあります。\nクエストモード：4つの塔を倒し、古代の城の謎を解き明かします。武器はメインハブエリアの商人から集めたゴールドで購入でき、次に挑戦する塔を選ぶこともできます。経験値はステータスを上げるのに役立ちます。\nバトルモード：仲間たちと死闘を繰り広げます。マップにはテレポーターやモンスター、アイテムなどが含まれることがあります。出口を避けてください（そうしないとラウンドから脱落します）。\nレコードモード：パスワードコンティニューなどのバリエーションがあるアーケードモードで、死ぬことはありませんが、500ヘルスを失うごとにポイントが減少します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gauntlet%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gauntlet%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gauntlet%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "happy-birthday-bugs",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Happy Birthday Bugs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハッピーバースディ・バックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Happy Birthday Bugs (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a0897c7f",
+      "md5": "165c2a0b24a8c03d757c2120a3975e1f",
+      "sha1": "3e706ee7aac17e48763a9849fa13d147574896d9",
+      "sha256": "a62d9c1a16f26882da1a6da424f1985b42132d7a3ac8e1834a1f773a53651a15"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「バックス・バニーのバースデイ・ブロウアウト」は、バックスが50歳の誕生日に招待されるところから始まります。しかし、他のワーナー・ブラザースのキャラクターたち（ワイリー・コヨーテを含む）が招待されなかったため、彼らはバックスがこのパーティーに行くのを阻止しようと決めました。\n\nワーナー・ブラザース公認のゲームである「バックス・バニーのバースデイ・ブロウアウト」は、2Dの横スクロールプラットフォームゲームです。バックスは敵を飛び越えたり、その上に乗ったりして、できるだけ多くのニンジンを集めることができます。また、バックスはハンマーを使って敵を叩いたり、隠された秘密を見つけたりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Happy%20Birthday%20Bugs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Happy%20Birthday%20Bugs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Happy%20Birthday%20Bugs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mahou-poi-poi-poitto",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahou Poi Poi Poitto!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔法ぽいぽい ぽいっと!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔法ぽいぽいぽいっと！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahou Poi Poi Poitto! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "bdf35044",
+      "md5": "0e5d6fd072d440b11719de4bf8a7c074",
+      "sha1": "9903ada5efa56d644ae0d2fe1f5fd378bddc135b",
+      "sha256": "194dc28d344e5f5deea6d364caa27da16f17f299f292135df4b7fe712ad4574a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42377
+  },
+  "descriptions": [
+    {
+      "text": "「魔法ぽいぽい ぽいっと!」は、メトロが開発し、タカラがアーケードおよびスーパーファミコン向けに発売したパズルゲームです。このゲームは、コラムスのような他のマッチ3ゲームと同様に、プレイヤーが3つの同じピースを横、縦、または斜めに揃える必要があります。ピースは4つの正方形の塊で落ちてきて、時には即座に消える雲のピースが含まれ、非常に稀にすべての同じタイプのアイコンを消すことができる太陽のアイコンが含まれます。\n\nゲームには競争型の2人プレイヤーモードと1人用のストーリーモードがあります。ストーリーモードでは、プレイヤーが一連のモンスターに挑みます。モンスターは時折プレイヤーに魔法をかけ、ブロックを「敵ブロック」にランダムに変換します。モンスターに魔法を返すことで、チェーンやコンボを作るのが最も効果的で、彼らの下の地面が天井に向かって移動します。十分に高くなると、モンスターは押しつぶされ、プレイヤーは次のステージに進むことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-08-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mahou%20Poi%20Poi%20Poitto%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mahou%20Poi%20Poi%20Poitto%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mahou%20Poi%20Poi%20Poitto%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

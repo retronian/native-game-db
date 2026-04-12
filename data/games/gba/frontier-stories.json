@@ -1,0 +1,65 @@
+{
+  "id": "frontier-stories",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Frontier Stories",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "くにおくん熱血コレクション2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Frontier Stories (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BCMJ",
+      "size": 8388608,
+      "crc32": "4d6bf573",
+      "md5": "8e11c9e996e0fcae6d95483b4a2adfdc",
+      "sha1": "542b83af98fb489e420e6e8547d76351993a56c9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "何十年もの間、人類とCIMA種族は絶え間ない対立を続けてきました。あなたはアーク・Jとして、二つの世界の間にあるゲートを守り、任命された町を守り、最終的には平和を見つけることが使命です。パズルを解き、世界を探索し、敵と戦いながら、非線形のストーリーを進めていきます。このゲームには、アクションと戦略要素を兼ね備えた戦闘システムが含まれています。また、プレイヤーが操作しないキャラクターを活性化させて、目標を達成する手助けをしてもらうことができる機能もあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-10-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frontier%20Stories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frontier%20Stories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frontier%20Stories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

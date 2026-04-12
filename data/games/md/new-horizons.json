@@ -1,0 +1,49 @@
+{
+  "id": "new-horizons",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New Horizons",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "New Horizons (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76126-00",
+      "size": 2097152,
+      "crc32": "ead69824",
+      "md5": "9ec6ceb468baee52cdede2595adc0f47",
+      "sha1": "9fd375cd212a132db24c40a8977c50d0f7b81524",
+      "sha256": "5c1d727037ee54aaaa3c888e955adeead7b65ae1fb256889eead2902c4b3644a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/New%20Horizons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/New%20Horizons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/New%20Horizons%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

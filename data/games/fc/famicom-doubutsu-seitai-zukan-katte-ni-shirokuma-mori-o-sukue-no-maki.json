@@ -1,0 +1,66 @@
+{
+  "id": "famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-o-sukue-no-maki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコン動物生態図鑑! かってにシロクマ 森を救えの巻!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "かってにシロクマ もりをすくえのまき",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "04586d16",
+      "md5": "a6aa5dba69f504e74114afa10d3bfb45",
+      "sha1": "85437c94c18ee470b6b6b52974ba9d168f10973b",
+      "sha256": "80e98158c783eedfe89ef35ecea8b04181f12e2e9f68539e4598fde56c69de7f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Doubutsu%20Seitai%20Zukan%21%20-%20Katte%20ni%20Shirokuma%20-%20Mori%20o%20Sukue%20no%20Maki%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Doubutsu%20Seitai%20Zukan%21%20-%20Katte%20ni%20Shirokuma%20-%20Mori%20o%20Sukue%20no%20Maki%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Doubutsu%20Seitai%20Zukan%21%20-%20Katte%20ni%20Shirokuma%20-%20Mori%20o%20Sukue%20no%20Maki%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

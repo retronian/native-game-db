@@ -1,0 +1,67 @@
+{
+  "id": "xg-blast",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "XG Blast!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "XG Blast! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CXGP",
+      "size": 8388608,
+      "crc32": "513b59d7",
+      "md5": "16081760ab36baaf7eaad4570e452fc0",
+      "sha1": "f6b41404644e4f08af44ca5684c01d137da6af6d"
+    },
+    {
+      "name": "XG Blast! (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CXGE",
+      "size": 8388608,
+      "crc32": "3433d64d",
+      "md5": "55165c568ecc60c79d4ff7e5f6f52346",
+      "sha1": "8ea05136c34561f151214dc49fc9a579acb5542d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21254
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/XG%20Blast%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/XG%20Blast%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/XG%20Blast%21%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/XG%20Blast%21%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

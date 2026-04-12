@@ -1,0 +1,67 @@
+{
+  "id": "famicom-mini-06-pac-man",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 06 - Pac-Man",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ06 パックマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミコンミニ 06 パックマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 06 - Pac-Man (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FPMJ",
+      "size": 1048576,
+      "crc32": "91acf642",
+      "md5": "e230b4551a3708b97fefbac56ac31421",
+      "sha1": "9316699ed1943cee6ee5cd5f0b40f76b3fcef159",
+      "sha256": "526150cadcb7a5a9137981f2eca7f3999b69e307f16fc9585c6dc6a9fcf5b7ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2006%20-%20Pac-Man%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2006%20-%20Pac-Man%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2006%20-%20Pac-Man%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

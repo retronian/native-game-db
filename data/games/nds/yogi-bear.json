@@ -1,0 +1,45 @@
+{
+  "id": "yogi-bear",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yogi Bear",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yogi Bear (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BYBE",
+      "size": 16777216,
+      "crc32": "3c3732b9",
+      "md5": "a3eb2367b450299528732163bf5b30f0",
+      "sha1": "3c85baff1508e88f083fe03567abbc9b1e0b3ae2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 259278
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yogi%20Bear%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yogi%20Bear%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

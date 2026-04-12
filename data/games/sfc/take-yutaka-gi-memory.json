@@ -1,0 +1,65 @@
+{
+  "id": "take-yutaka-gi-memory",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Take Yutaka GI Memory",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "武豊GIメモリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Take Yutaka GI Memory (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "21a9925d",
+      "md5": "3f3e0d9027b6f74df42dbfa561a01b09",
+      "sha1": "b4aa96a3b8d32e2d453a7a6f58c9da9310d7c823",
+      "sha256": "1af0909b88204cd34fab690410991073c5068324dc6de5a482a8da0def123310"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "武豊GIメモリーは、20歳になる前に100勝を達成し、1988年の菊花賞G1レースで名を馳せたプロジョッキー武豊が推奨する競馬シミュレーションゲームです。\n\nゲームのストーリーモードでは、彼の数々の名レースを振り返ることができ、他のモードではプレイヤーが自分自身の道を切り開き、馬を育ててレースに挑むことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Take%20Yutaka%20GI%20Memory%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Take%20Yutaka%20GI%20Memory%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Take%20Yutaka%20GI%20Memory%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

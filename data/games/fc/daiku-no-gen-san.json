@@ -1,0 +1,65 @@
+{
+  "id": "daiku-no-gen-san",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daiku no Gen-san",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大工の源さん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daiku no Gen-san (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c398fc85",
+      "md5": "ec27d46b220b2598b408a0a120674ff8",
+      "sha1": "3309ef78e063a25139868aeaa3d3039de96ba781",
+      "sha256": "f88bf2ac1d6bba5f68f86c46b873c16a105e597f1f18c0e473ad499b99f052fa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "平和な町カーペンターズビルでは、「ザ・ラスティ・ネイラーズ」として知られる作業員たちが、ハリーの家をブルドーザーで壊そうと決めます。ハリーはこれに大変不満で、道を邪魔する作業員たちを次々と破壊していきます。ハリーとして、作業員を倒す方法は二つあります。近づいてきた作業員を叩きつけるか、地面を叩いて衝撃波を発生させ、両方向に攻撃をすることができます。\n\nハリーが進むべき環境は四つあります：建設現場、下水道、船、そしてハリーが自分の家の解体を命じたリーダーと出会う豪邸です。各環境の最後には、次の環境に進むために倒さなければならないボスがいます。その合間には、制限時間内に一定数の敵を倒すボーナスステージも用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Daiku%20no%20Gen-san%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Daiku%20no%20Gen-san%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Daiku%20no%20Gen-san%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

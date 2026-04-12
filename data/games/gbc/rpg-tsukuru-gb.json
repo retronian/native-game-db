@@ -1,0 +1,93 @@
+{
+  "id": "rpg-tsukuru-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "RPG Tsukuru GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "RPGツクールGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "RPG Tsukuru GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0b614307",
+      "md5": "ac3dfc02635524fbb01dcacd2db3d066",
+      "sha1": "119a0ab3d82fabbaff5949dacd6b77e20c7a8fb0",
+      "sha256": "86aa28d99aecfe63926e8fe7ff43c07dfb9cb40f4d8b8c742107ff6e16094f3f"
+    },
+    {
+      "name": "RPG Tsukuru GB (Japan) (Rev 1) (Possible Proto) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "57f82031",
+      "md5": "008f5a6eb8cbbe7a76ea9403ad063d67",
+      "sha1": "f4c36b3cbb13d3cbaaa81e97b0636c4515ce501e",
+      "sha256": "8a6b2503b933431166bca228b17cdc6a5bdc46d1f1762f10555686ae66a096f4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "キャラクター、マップパーツ、自作のシナリオ、BGMなどを組み合わせてオリジナルのRPGを作成するためのソフトウェアです。通信機能を利用することで、複数のパーツに分かれたデータを組み合わせて、1つの作品を作成することが可能になりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/RPG%20Tsukuru%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/RPG%20Tsukuru%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/RPG%20Tsukuru%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/RPG%20Tsukuru%20GB%20%28Japan%29%20%28Rev%201%29%20%28Possible%20Proto%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/RPG%20Tsukuru%20GB%20%28Japan%29%20%28Rev%201%29%20%28Possible%20Proto%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/RPG%20Tsukuru%20GB%20%28Japan%29%20%28Rev%201%29%20%28Possible%20Proto%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

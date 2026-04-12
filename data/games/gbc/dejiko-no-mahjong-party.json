@@ -1,0 +1,69 @@
+{
+  "id": "dejiko-no-mahjong-party",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dejiko no Mahjong Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "でじこの麻雀パーティー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dejiko no Mahjong Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "c5501fce",
+      "md5": "314fddcec1489efe4a4f959d353ee4db",
+      "sha1": "d9dd4196a85bceee6e77a317a357e9e0b14d26eb"
+    },
+    {
+      "name": "Dejiko no Mahjong Party (Japan) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7e515a7e",
+      "md5": "3b24fbc8e72140fab38a9874b587c479",
+      "sha1": "fbc2b66a6595bbb3ed85f35545152442283eaea3",
+      "sha256": "e611ec4c3c24f981e8ca4ea0f0bf545b673efd33e58ced8316393a967a2c1ab7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92611
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dejiko%20no%20Mahjong%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dejiko%20no%20Mahjong%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dejiko%20no%20Mahjong%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

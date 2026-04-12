@@ -1,0 +1,57 @@
+{
+  "id": "super-momotarou-dentetsu-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Momotarou Dentetsu II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電鉄II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Momotarou Dentetsu II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "2bc023fc",
+      "md5": "093ace8d5348cc81501ce292a7f34f62",
+      "sha1": "a9e874453d18738d63523ace2419b7cd95a381a7",
+      "sha256": "bb216d558b8696d3ef6055a161c235b9d21b3f99bdc4b74d5a4b6a01a4ed36e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Super%20Momotarou%20Dentetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

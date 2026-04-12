@@ -1,0 +1,75 @@
+{
+  "id": "shining-and-the-darkness",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shining and the Darkness",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シャイニング & ザ・ダクネス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "シャイニング&ザ・ダクネス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shining and the Darkness (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-5506-00",
+      "size": 1048576,
+      "crc32": "496af51c",
+      "md5": "380741cee5ff1c89498270d45af7521a",
+      "sha1": "c09ff5bcee1a29a48c65be4ad584708b85ca549b",
+      "sha256": "c3b4b6daf4b8cf4d3beb469c7dd89d179983b0bcf3538803e78d47af155e4fe6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはストーリー重視のコンソールスタイルのRPGで、ジェネシス用のシャイニングシリーズの第一作目です（続いて「シャイニング・フォース」と「シャイニング・フォース2」があります）。トーンウッド王国はダーク・ソルの手下に侵略されており、あなたの仕事は彼らを打ち倒すことです。そのためには光の武器が必要です。\n\nこのゲームは一人称視点のRPGで、ターン制の戦闘とカートゥーン風のグラフィックが特徴です。ダイアログはキャラクターの上に表示される吹き出しを通じて行われますが、主人公は決して話しません。サブクエストは存在せず、ゲーム内の秘密は特別な金属の場所とその使用に関わる神秘的なアイテムの鍛造に関連しています。最終戦闘とエンディングシーケンスまでに、約25〜30時間のゲームプレイが楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shining%20and%20the%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shining%20and%20the%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shining%20and%20the%20Darkness%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

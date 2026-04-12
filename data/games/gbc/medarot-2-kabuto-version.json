@@ -1,0 +1,77 @@
+{
+  "id": "medarot-2-kabuto-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot 2 - Kabuto Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット2 Medarot: Kabuto Version カブトバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メダロット 2 クワガタバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot 2 - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "bf6bd446",
+      "md5": "c0fd19d90d3d876cc321074239c7334e",
+      "sha1": "01adf621d6e2cbfec46306d69882fc2eb3d92de5",
+      "sha256": "7dc678727516764168f2d94e041053496a727d63a98df978e6d66cc3a32b23bc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 55139
+  },
+  "descriptions": [
+    {
+      "text": "パーツを組み合わせて作られたロボット「メダロット」を育成するRPGです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Medarot%202%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Medarot%202%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Medarot%202%20-%20Kabuto%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

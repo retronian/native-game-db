@@ -1,0 +1,58 @@
+{
+  "id": "manic-miner",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Manic Miner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Manic Miner (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A4MP",
+      "size": 8388608,
+      "crc32": "138439f4",
+      "md5": "786fc5aff6a10efd3e3585ba10ebc863",
+      "sha1": "c9f2af2bf740a42065c585798507d925543aa512"
+    },
+    {
+      "name": "Manic Miner (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 7562196,
+      "crc32": "fb3d52bd",
+      "md5": "db80a326a5825c196e2de77f319abd69",
+      "sha1": "44576581ef231d2befb369800769ffee7e45f0e7",
+      "sha256": "c08d6ca3b7e22ea0fa78d581757bcec9b89b06c133a57f72305037b4725938fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Manic%20Miner%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Manic%20Miner%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Manic%20Miner%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

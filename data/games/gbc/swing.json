@@ -1,0 +1,55 @@
+{
+  "id": "swing",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Swing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Swing (Germany)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "7041929d",
+      "md5": "c53d2f538f6a5f421c87f935a42aa912",
+      "sha1": "c681530a49a5287ef59b4bae02cb1f9e82c72386"
+    },
+    {
+      "name": "Swing (Europe) (En,Fr,De,Es,It) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "60d06df9",
+      "md5": "7106845f7e0dca5abf221bd5765b587e",
+      "sha1": "576d4338665f159a88875819f0681fdc49443fe4",
+      "sha256": "a66f6d4500524f3deeaad6d5028045ed711b1c496284d72aa16287d43874c5b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85912
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Swing%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Swing%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Swing%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

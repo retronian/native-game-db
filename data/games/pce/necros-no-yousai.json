@@ -1,0 +1,68 @@
+{
+  "id": "necros-no-yousai",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Necros no Yousai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネクロスの要塞",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Necros no Yousai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "fb0fdcfe",
+      "md5": "62ee11474eca60aacae8980556bc932f",
+      "sha1": "151336738bc339bb46c8bc9c59f1066f7ed28f8b",
+      "sha256": "d68e40f3771d3fb4167bf851a6a32138729689413e0266063a1b077fc58f488b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 332213
+  },
+  "descriptions": [
+    {
+      "text": "ネクロスの要塞（ネクロスのようさい）は、PCエンジン専用にリリースされた伝統的な日本のRPGです。このゲームは、同名の玩具シリーズに基づいており、「食玩」と呼ばれる子供向けのキャンディと一緒にパッケージされた小さなフィギュアのブランドの一つです。この玩具シリーズには、悪の魔法使いネクロスと、彼を倒すために送られた8人の英雄たち、さらにネクロスの様々な手下モンスターが登場します。\n\nゲームの操作は標準的なRPGと同様で、NPCとの会話や町やダンジョンの探索時には俯瞰視点、ターン制の戦闘時には一人称視点を交互に使用します。キャラクターたちは攻撃するたびに小さなアニメーションを展開し、各英雄はそのクラスに特有の強みと弱みを持っており、プレイヤーはそれを基に戦略を立てることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Necros%20no%20Yousai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Necros%20no%20Yousai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Necros%20no%20Yousai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chou-touryuu-retsuden-dino-land",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chou Touryuu Retsuden - Dino Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "超闘竜烈伝ディノランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chou Touryuu Retsuden - Dino Land (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-32043-00",
+      "size": 524288,
+      "crc32": "81f939de",
+      "md5": "3ec32aa6a689f562e0dad40a10f2f844",
+      "sha1": "4bee752cd2205d60b9d3c7a58e0e90a4837522de",
+      "sha256": "1a4e160322f14a4c0f03603125049f751238e470572e0dda660b009256e29539"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ディノランドは恐竜をテーマにしたピンボールマシンです。基本的には、ピンボールを恐竜のターゲットに打ち出します。進むにつれて、ボード内のすべての恐竜ターゲットに当たると、より多くのポイントを獲得できます。ピンボールボードは4つあり、地上の生き物がいる地上ボード、飛行生物を表現した空中ボード、海の生き物がいる海面ボード、そしてボスから彼女を救おうとするボスレベルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chou%20Touryuu%20Retsuden%20-%20Dino%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chou%20Touryuu%20Retsuden%20-%20Dino%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chou%20Touryuu%20Retsuden%20-%20Dino%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

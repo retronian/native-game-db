@@ -1,0 +1,65 @@
+{
+  "id": "hoshi-o-miru-hito",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hoshi o Miru Hito",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "星をみるひと",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hoshi o Miru Hito (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "9904d6aa",
+      "md5": "ba8cf13e8d4ccd88609e42d4a76816ad",
+      "sha1": "6b13d406642c9e86b4197a3ac0a3f555778dd848",
+      "sha256": "f67c78eb14481b20a77a18ca10b13a0b1ccf85fca8d15f8e71fcc3250efe312a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "星をみるひと。超能力をテーマにしたSFファンタジーRPG。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-08-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hoshi%20o%20Miru%20Hito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hoshi%20o%20Miru%20Hito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hoshi%20o%20Miru%20Hito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

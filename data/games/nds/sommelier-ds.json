@@ -1,0 +1,46 @@
+{
+  "id": "sommelier-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sommelier DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sommelier DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A8XJ",
+      "size": 67108864,
+      "crc32": "39afbbdc",
+      "md5": "ceaa6a6340299ce5209a7b24515b2bd8",
+      "sha1": "964ffa24adaf447f4e9b01b84f9298e6da3da9d2",
+      "sha256": "6fdfcaa55033a6bdf5993c84025517361d968a56af0acfccca28c2c377cad9c4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 124052
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sommelier%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sommelier%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

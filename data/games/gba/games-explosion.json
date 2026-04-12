@@ -1,0 +1,51 @@
+{
+  "id": "games-explosion",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Games Explosion!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Games Explosion! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BG7E",
+      "size": 4194304,
+      "crc32": "68d63d5f",
+      "md5": "05c54425438b4e1fb9944f380df39b4e",
+      "sha1": "f2d95cabf5cd75ee4ebcdf7b8ef669c6d8ede989"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18260
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Games%20Explosion%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Games%20Explosion%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Games%20Explosion%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

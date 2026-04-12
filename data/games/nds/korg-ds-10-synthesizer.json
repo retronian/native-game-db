@@ -1,0 +1,148 @@
+{
+  "id": "korg-ds-10-synthesizer",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Korg DS-10 Synthesizer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Korg DS-10 Synthesizer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YJ9J",
+      "size": 8388608,
+      "crc32": "3db18d10",
+      "md5": "b4f300297c5666b90fe64fec9e295b39",
+      "sha1": "33564c005992d3c84af21f3ca8260359a393b063"
+    },
+    {
+      "name": "Korg DS-10 Synthesizer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJ9P",
+      "size": 8388608,
+      "crc32": "f2b198fa",
+      "md5": "7a30a99a811bf7d09a5c3a8d44b6472d",
+      "sha1": "c607f6fe2aded2ae13e1687b46b15e8432b2f695"
+    },
+    {
+      "name": "Korg DS-10 Synthesizer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YJ9E",
+      "size": 8388608,
+      "crc32": "a74f0cf8",
+      "md5": "8496588f08d6db443a204eded9855c56",
+      "sha1": "7282c195ddc6bb5f8eaa08e880ae5f1fe9fbc2b9"
+    },
+    {
+      "name": "Korg DS-10+ Synthesizer (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VKGE",
+      "size": 33554432,
+      "crc32": "9c0071a9",
+      "md5": "b2f1596f33c4d758ce83955735126949",
+      "sha1": "b560e284678df618c12dd3665076069b73937f0c"
+    },
+    {
+      "name": "Korg DS-10+ Synthesizer (Japan) (En,Ja) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "VKGJ",
+      "size": 33554432,
+      "crc32": "a85000f5",
+      "md5": "1d23fc11d42660b1e2b61814b40dd584",
+      "sha1": "b084130bd642749c066a9940046851f39e2dcf96"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20DS-10%20Synthesizer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Korg%20DS-10%20Synthesizer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Korg%20DS-10%20Synthesizer%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20DS-10%20Synthesizer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Korg%20DS-10%20Synthesizer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Korg%20DS-10%20Synthesizer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20DS-10%20Synthesizer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Korg%20DS-10%20Synthesizer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Korg%20DS-10%20Synthesizer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20DS-10%2B%20Synthesizer%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Korg%20DS-10%2B%20Synthesizer%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Korg%20DS-10%2B%20Synthesizer%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20DS-10%2B%20Synthesizer%20%28Japan%29%20%28En%2CJa%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "choro-q-hyper-customable-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Choro Q - Hyper Customable GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チョロQ キュー ハイパーカスタマブルGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "チョロQ ハイパーカスタマブルGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Choro Q - Hyper Customable GB (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "65610ca4",
+      "md5": "3611927be3c7835c594120c4bfdd8d31",
+      "sha1": "8af215c632599aaab9bc4614194ac45802407bbc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65637
+  },
+  "descriptions": [
+    {
+      "text": "チューニングされたチョロQを使って競い合うレースゲーム。200種類以上の改造パーツやパワーアップアイテムを駆使して、自分だけの最速のチョロQを作り上げよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Choro%20Q%20-%20Hyper%20Customable%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Choro%20Q%20-%20Hyper%20Customable%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Choro%20Q%20-%20Hyper%20Customable%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

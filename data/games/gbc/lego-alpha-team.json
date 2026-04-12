@@ -1,0 +1,78 @@
+{
+  "id": "lego-alpha-team",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "LEGO Alpha Team",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "LEGO Alpha Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "690c0373",
+      "md5": "e041a65713ac7070c9d16cb6501e1a6e",
+      "sha1": "4bd3bf401e861fe9991a58b523622c68138274e6"
+    },
+    {
+      "name": "LEGO Alpha Team (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6d7ec41b",
+      "md5": "e79ce8c2b2e9ea0c0907cfbfadaa8744",
+      "sha1": "b5d521d5b7504442c886944a6fb7dd830a28b496",
+      "sha256": "3e4b4f7a289eb75252539ea28f8a2310aa365099940e2f5edc03105317081c2b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 372839
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/LEGO%20Alpha%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/LEGO%20Alpha%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/LEGO%20Alpha%20Team%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/LEGO%20Alpha%20Team%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/LEGO%20Alpha%20Team%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/LEGO%20Alpha%20Team%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

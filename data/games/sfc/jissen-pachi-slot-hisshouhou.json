@@ -1,0 +1,69 @@
+{
+  "id": "jissen-pachi-slot-hisshouhou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jissen! Pachi-Slot Hisshouhou!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実戦!パチスロ必勝法!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "実戦! パチスロ必勝法!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jissen! Pachi-Slot Hisshouhou! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4664ff26",
+      "md5": "aeeb57cc70daa17cb12fa094fffe66e3",
+      "sha1": "c8b1f4b97c1fd50114b80c7c7fdcc8f5bd4f72ff",
+      "sha256": "c0e932e99f4c69ddf2e52fc330d5025116d0a5c50b48434ce4c712c892efebf1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42253
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "chocobo-land-a-game-of-dice",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chocobo Land - A Game of Dice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チョコボランド A Game Of Dice",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ダイス de チョコボ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Dice de Chocobo Chocobo Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chocobo Land - A Game of Dice (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A5BJ",
+      "size": 8388608,
+      "crc32": "d4f8152e",
+      "md5": "6341167e3c3212c632e7956cf0e69119",
+      "sha1": "09cb1502e49a022ae4eb37cc9dd278fbe12437f3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49559
+  },
+  "descriptions": [
+    {
+      "text": "チョコボランド: A Game of Diceは、スクウェア・エニックスが開発した初のGBAタイトルで、ボードのようなマップ上で展開されます。サイコロを振ってチョコボを操作します。目的は、対戦相手からクリスタルポイントを奪って獲得することです。これらのポイントは、例えば魔女を購入するために使用でき、より多くのポイントを得るチャンスを増加させます。まさに資本主義の純粋な形です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chocobo%20Land%20-%20A%20Game%20of%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chocobo%20Land%20-%20A%20Game%20of%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chocobo%20Land%20-%20A%20Game%20of%20Dice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

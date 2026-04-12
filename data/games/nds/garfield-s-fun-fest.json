@@ -1,0 +1,79 @@
+{
+  "id": "garfield-s-fun-fest",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Garfield's Fun Fest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Garfield's Fun Fest (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CGFP",
+      "size": 8388608,
+      "crc32": "27b6c532",
+      "md5": "a305df661f2442f7fc0914852590dae9",
+      "sha1": "cdb8a3b8c63d3c82825a81b743b4d8d9be711937"
+    },
+    {
+      "name": "Garfield's Fun Fest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CGFE",
+      "size": 8388608,
+      "crc32": "46d8ab9c",
+      "md5": "b08b2d61af863b1685642cef97ada528",
+      "sha1": "6a4b2dee0a2c28b8dc10b1087fc53fa2208e17b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 125673
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%27s%20Fun%20Fest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%27s%20Fun%20Fest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%27s%20Fun%20Fest%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Garfield%27s%20Fun%20Fest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Garfield%27s%20Fun%20Fest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Garfield%27s%20Fun%20Fest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

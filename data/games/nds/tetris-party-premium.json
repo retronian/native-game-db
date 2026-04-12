@@ -1,0 +1,42 @@
+{
+  "id": "tetris-party-premium",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetris Party Premium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris Party Premium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B4TJ",
+      "size": 33554432,
+      "crc32": "bf9768ed",
+      "md5": "810658de8db522fc3fcb20c8fb9636d1",
+      "sha1": "2e61a1b593375a399cc59569d8d4cc5b35aaae3b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tetris%20Party%20Premium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tetris%20Party%20Premium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

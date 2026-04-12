@@ -1,0 +1,58 @@
+{
+  "id": "rittai-picross",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rittai Picross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rittai Picross (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C6PJ",
+      "size": 33554432,
+      "crc32": "04cd8df2",
+      "md5": "bc80a30162892f2bfbe3327d8cae3f32",
+      "sha1": "2bb15024606179e96596f17a95469af06a09b3bf"
+    },
+    {
+      "name": "Rittai Picross (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "WUP-N-DA8J",
+      "size": 33554432,
+      "crc32": "e30458e6",
+      "md5": "57426e266d3c86eeee6e33a3d0f62439",
+      "sha1": "787dec6f631e419cce2ed7fcee700c52ddbb9aeb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rittai%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rittai%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rittai%20Picross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

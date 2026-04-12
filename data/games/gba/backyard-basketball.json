@@ -1,0 +1,51 @@
+{
+  "id": "backyard-basketball",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backyard Basketball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backyard Basketball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYBE",
+      "size": 4194304,
+      "crc32": "cbda1d31",
+      "md5": "8b525f6d0d80a287df61ec99a97c6c08",
+      "sha1": "b6b5b490541a3b0c3bd15e598dafe1d67a022f54"
+    }
+  ],
+  "external_ids": {
+    "igdb": 69242
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Backyard%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Backyard%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Backyard%20Basketball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

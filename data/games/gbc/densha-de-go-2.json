@@ -1,0 +1,93 @@
+{
+  "id": "densha-de-go-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Densha de Go! 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "電車でGo!2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "電車でGo! 2 高速編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Densha De Go! 2 Kousokuhen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Densha de Go! 2 Kousoku-hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Densha de Go! 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 8388608,
+      "crc32": "b72603fc",
+      "md5": "ab58102005b510a2d905ed7de9d6267a",
+      "sha1": "63bcca7177712a9bc6f032c83c2e129d9b9af0fa",
+      "sha256": "aaf85dc22020cc7103bfcacb0bdd54568d4b391a0483fd3e11f18cd35c9c05a6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 145766
+  },
+  "descriptions": [
+    {
+      "text": "1998年に発売された、タイトーの人気電車運転ゲームの続編が再びさまざまな家庭用システムに移植されました。PlayStationでは初めて雪の中を運転し、新幹線の運転席に座ることが可能です。\n\nゲームプレイはシミュレーションよりもアーケード寄りです。駅に完璧なタイミングと位置で停車し、ダイヤを守り、信号や速度制限に従い、乗客の安全と快適さを確保することが重要です。ミスをするとポイントが減点され、カウンターが0になるとゲームオーバーになります。\n\n以下の路線が利用可能です：\n\n1. 北陸新幹線：直江津から浦川原まで\n2. 東北新幹線：盛岡から新花巻まで\n3. 秋田新幹線：秋田から大曲まで\n4. 京浜東北線：品川から上野まで\n5. 大阪環状線：大阪から天王寺まで（アーケード版には未収録）\n6. 鹿児島本線：博多から小倉まで（PlayStationおよびWindows版のみ）",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Densha%20de%20Go%21%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Densha%20de%20Go%21%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Densha%20de%20Go%21%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

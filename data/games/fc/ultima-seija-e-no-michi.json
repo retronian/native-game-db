@@ -1,0 +1,57 @@
+{
+  "id": "ultima-seija-e-no-michi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultima - Seija e no Michi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルティマ 聖者への道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultima - Seija e no Michi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3e405cc1",
+      "md5": "ce4fd507ef40d7cb074e0b1b2cba7654",
+      "sha1": "31734807975bb307e7884e6e4cad344ee5b95e92",
+      "sha256": "2a8f60cfd47b77188697ec1faf90bc0804aea721d9da4a8b71d161368cf528fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultima%20-%20Seija%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultima%20-%20Seija%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultima%20-%20Seija%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

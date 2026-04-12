@@ -1,0 +1,74 @@
+{
+  "id": "ippatsu-gyakuten",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ippatsu Gyakuten",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "一発逆転",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "一発逆転 競馬 競輪 競艇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ippatsu Gyakuten (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "05a9fde8",
+      "md5": "0a481dbde3f3e633c30b77e4ef059ef4",
+      "sha1": "3daa32c796106ffcf2a853314da485a72a3812b7",
+      "sha256": "327254df6577ed98b94659d9b0624afc9d68fa6d915cc1215bdddbc448b68852"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "一発逆転: 競馬 - ケイリン - 競艇は、スーパーファミコン向けのギャンブルゲームで、三つのスポーツが特徴です。これは、エレカまたはPOWによって制作された最後のスーパーファミコンゲームです。\n\nプレイヤーは、これら三つの活動に賢い賭けを行うことで富を築こうとします。各レースでは、シートを確認し、理想的なギャンビットを決定することができます。その後、レースは自動的に進行します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ippatsu%20Gyakuten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ippatsu%20Gyakuten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ippatsu%20Gyakuten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

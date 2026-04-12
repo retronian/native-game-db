@@ -1,0 +1,62 @@
+{
+  "id": "blodia-land-puzzle-quest",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blodia Land - Puzzle Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブロディア ランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Blodia Land - Puzzle Quest (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "fc17e6b6",
+      "md5": "dba3c63cfdda3f5a4aabf675a513d2ce",
+      "sha1": "162ae00ea10e05b9e54234ac237137b8cd179a22",
+      "sha256": "e837bee02317af5de2e8aaba25e40653efb76e69f0ef6a0dda4c4edb03fdccbe"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ブロディア ランド: パズル クエストは、抽象的な頭脳戦よりも楽しさを重視したカラフルでアクティブなスライドパズルゲームです。各レベルには曲がりくねった道があり、小さな迷子のドラゴンダックが前進するにつれて消えていきます。プレイヤーがタイルを間違ってシャッフルすると、ドラゴンは回転して死んでしまいます。多様な8つのSMBスタイルの迷路ワールドには、それぞれ10以上のレベルと行き止まりにあるミニゲームが含まれており、NESが提供する中でも最もカラフルで広大なパズルゲームの一つとなっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blodia%20Land%20-%20Puzzle%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blodia%20Land%20-%20Puzzle%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blodia%20Land%20-%20Puzzle%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pro-wres",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Wres",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロレス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Wres (Japan) (FamicomBox)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "a5ae93bf",
+      "md5": "75ce8d56882194d34a17ead88735d67f",
+      "sha1": "b5058a1c03d32a8f7c84115ed966735bb03366a8",
+      "sha256": "54dbdaa74e0b15c06cb43533bb8f170cbbfa919bac16871bae1af31a8aaa93df"
+    },
+    {
+      "name": "Pro Wres (Asia) (En) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 49168,
+      "crc32": "04b4a960",
+      "md5": "3a2ade9580ed6bc555778f0abdbd382f",
+      "sha1": "1f35967dc23d6ffb8f3ce11d8b9119af8bf63eae",
+      "sha256": "41822328eab1177cb32c052227dcbedc6f6f909c4132e4ab8d975180c160fa4a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Wres%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Wres%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Wres%20%28Japan%29%20%28FamicomBox%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

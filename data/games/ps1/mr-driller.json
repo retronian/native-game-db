@@ -1,0 +1,96 @@
+{
+  "id": "mr-driller",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mr. Driller",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "미스터 드릴러",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "ミスタードリラー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mr. Driller (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 180862304,
+      "crc32": "c6572e78",
+      "md5": "c7348a1c544e15daf7d11bd219a27c27",
+      "sha1": "9d66b37191cfa169e4ec7a45ae932cbaf452bd2b"
+    },
+    {
+      "name": "Mr. Driller (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 207808992,
+      "crc32": "11a06e6e",
+      "md5": "bb4591684eacd655ebb059a77e921bbc",
+      "sha1": "5952abdd4091e31cd3fa304796d8533c22140c6c",
+      "sha256": "44536d97895f4625f911730775d23cdf4b4e6238ff89410d8be2bf9381bc6a5e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21840
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "super-hanafuda-2",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Hanafuda 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "花札 弐 スーパーはなふだ2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー花札 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Hanafuda 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6f12c3d5",
+      "md5": "c4e97f07152e1961a5ad68e1ad401d5f",
+      "sha1": "9fdab1e90b37165791567996aee5b4b404500039",
+      "sha256": "2b0fd90d1593071d117ce41e34c9bbe665240ad543c990ebe1586d14d6b259be"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37829
+  },
+  "descriptions": [
+    {
+      "text": "スーパーはなふだ2は、スーパーファミコン用の花札ゲームで、1994年のスーパーファミコンゲーム「スーパーはなふだ」の続編です。\n\n前作と同様に、プレイヤーにはゲームの進行に応じて反応するさまざまなアニメーションアバターのプロフィールを持つ複数のプレイモードが用意されています。また、オリジナルのこいこいスタイルに加えて、「はなあわせ」スタイルの花札ゲームプレイも追加されています。どちらのモードもプレイヤーにさまざまなカスタマイズオプションを提供し、プレイヤーが選んだCPU対戦相手とのシングルゲームをプレイするか、花札トーナメントに参加する選択が可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-10-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Hanafuda%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Hanafuda%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Hanafuda%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

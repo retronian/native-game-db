@@ -1,0 +1,64 @@
+{
+  "id": "lode-runner-domudomu-dan-no-yabou",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lode Runner - Domudomu Dan no Yabou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロードランナー ドムドム団のやぼう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lode Runner - Domudomu Dan no Yabou (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "eceab84e",
+      "md5": "7bcf428844d32b279b7c25fb98f98a73",
+      "sha1": "c49569e4453f18b00bcf5ea3de43dee9ba3b4499"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "有名なアクションパズルゲームの最新作です。本作では、プレイヤーが捕らわれた動物を救いながらステージを進むモードがあります。救助した動物を育てることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lode%20Runner%20-%20Domudomu%20Dan%20no%20Yabou%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lode%20Runner%20-%20Domudomu%20Dan%20no%20Yabou%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lode%20Runner%20-%20Domudomu%20Dan%20no%20Yabou%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "kung-fu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kung Fu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スパルタンX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kung Fu (Europe, Hong Kong) (En)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "9a128030",
+      "md5": "7a31c3f8fd40f047bba9acb46e734230",
+      "sha1": "77fdc3b491e65655fa00131df301bb6a3e7e57ca",
+      "sha256": "c0f77647578744c44f9d511520f3beaad233edf024b657694e6e769c3605f3eb"
+    },
+    {
+      "name": "Kung Fu (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "afac9617",
+      "md5": "80f3e8672c5642249fc070e335a93180",
+      "sha1": "b36ece8fc8330c36716a7eb19874c31fc5f14287",
+      "sha256": "2275213352411a23df7428496ad03991348ddee3034ac6db83d2d16f0d1f8554"
+    }
+  ],
+  "external_ids": {
+    "igdb": 214458
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kung%20Fu%20%28Europe%2C%20Hong%20Kong%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kung%20Fu%20%28Europe%2C%20Hong%20Kong%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kung%20Fu%20%28Europe%2C%20Hong%20Kong%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kung%20Fu%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kung%20Fu%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kung%20Fu%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

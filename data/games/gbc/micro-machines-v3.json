@@ -1,0 +1,48 @@
+{
+  "id": "micro-machines-v3",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Micro Machines V3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Micro Machines V3 (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "b8064453",
+      "md5": "b6ea71372c0acb3cdc8cc64a4b2add2e",
+      "sha1": "8e9efbe195bcecfec4b233921b22b2e7fce38d3a",
+      "sha256": "426cd51642fdf235d18f1409b4ab722486b8d378bdc7b9d4eb7143b5d6a5f95a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Micro%20Machines%20V3%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Micro%20Machines%20V3%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Micro%20Machines%20V3%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

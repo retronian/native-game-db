@@ -1,0 +1,51 @@
+{
+  "id": "operation-armored-liberty",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Operation Armored Liberty",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Operation Armored Liberty (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAAE",
+      "size": 4194304,
+      "crc32": "8f289e0b",
+      "md5": "2293e67087ae9c5fb0ab6abb25179c0e",
+      "sha1": "319b3c401a6623273c2819087cb5fe9e5d15808a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49319
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Operation%20Armored%20Liberty%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Operation%20Armored%20Liberty%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Operation%20Armored%20Liberty%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

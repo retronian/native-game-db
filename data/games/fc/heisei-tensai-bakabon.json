@@ -1,0 +1,68 @@
+{
+  "id": "heisei-tensai-bakabon",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heisei Tensai Bakabon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "平成天才バカボン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heisei Tensai Bakabon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3d5f6e7b",
+      "md5": "f04d3a4a4eea211186b8deabb66ab2d4",
+      "sha1": "58bf2b4fb198af56d09f0001f678ee6ed67f17b9",
+      "sha256": "a3f74b5908c43055ef2a94bc7037b521e50459d3989e65ba86116ba139148284"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48467
+  },
+  "descriptions": [
+    {
+      "text": "平成天才バカボンは、ナムコが開発・発売したアクションゲームで、1991年に日本でリリースされました。\n\n天才バカボンは、アニメおよびマンガ「平成天才バカボン」を基にしています。このゲームは、クラシックな「プリンス・オブ・ペルシャ」スタイルのプラットフォームゲームです。危険を避けるために慎重に移動し、大きな落下をしないように気をつけます。ゲームの各ワールドは4つのレベルで構成されており、さらにミニゲームスタイルのボスラウンドがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Heisei%20Tensai%20Bakabon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

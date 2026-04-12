@@ -1,0 +1,77 @@
+{
+  "id": "medarot-3-kabuto-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot 3 - Kabuto Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット3 カブトバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メダロット 3 クワガタバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot 3 - Kabuto Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "e655632c",
+      "md5": "cbc55f3bb98f8c0443917ae477e56e51",
+      "sha1": "5478069c840b5b13e2413771f35fdc844d1974f1",
+      "sha256": "4bdf7d059350c69229ea72aa885dc81ac62bb3466e5da000e8c880528d7ed650"
+    }
+  ],
+  "external_ids": {
+    "igdb": 55140
+  },
+  "descriptions": [
+    {
+      "text": "これは「メダロット」シリーズの第3作目です。このタイトルでは、戦闘中に特定のメダロットを変形させてその能力を変更することができます。個別の戦闘に加えて、プレイヤーは3人対戦も楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-07-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Medarot%203%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Medarot%203%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Medarot%203%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

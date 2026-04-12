@@ -1,0 +1,52 @@
+{
+  "id": "powerplay-tennis",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Powerplay Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Powerplay Tennis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AXTE",
+      "size": 8388608,
+      "crc32": "d027618f",
+      "md5": "15866802cda262492f4a07afa88f25f1",
+      "sha1": "557d91d617c397f2d89d4d0dff6bf53a15d657bc",
+      "sha256": "e36a23258f47dc65418a001baba85bbda6d5358d6822369c7fbb07eb674b071f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 394436
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Powerplay%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Powerplay%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Powerplay%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

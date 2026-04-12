@@ -1,0 +1,93 @@
+{
+  "id": "indora-no-hikari",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Indora no Hikari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "インドラの光",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Indora no Hikari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "19c10b98",
+      "md5": "f2a6b638568a5ac9c04234fd0a29abb0",
+      "sha1": "1443d06c971780d8d83de57fa4cf465049f929b5",
+      "sha256": "02cde52d1c80ea32177e4f04805b92f27686b08d7e6263197d01a3b66670d64b"
+    },
+    {
+      "name": "Indora no Hikari (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "66e975ba",
+      "md5": "2d008d938cc1b0c501a3504376b369d7",
+      "sha1": "7b1ec93edd5e819a92a590d637c4bcc7090d3a96",
+      "sha256": "b99360ca76de6943015d9993b9f50d601f68bc1fb037c4993fe63687a0e08a38"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "2000年頃、人類は枯渇した地球を離れ、8500光年離れた惑星イバルへと旅立ちます。そこで人々は、インドラの光を源とする神の保護の下、平和に暮らしています。しかし、悪魔がその光を奪い去り、神は眠りに落ちてしまいます。惑星の表面は広大な砂漠に変わり、モンスターが現れ始めます。プレイヤーは悪魔を討ち、惑星を守る神にインドラの光を取り戻すための冒険に挑む必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-10-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Indora%20no%20Hikari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Indora%20no%20Hikari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Indora%20no%20Hikari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Indora%20no%20Hikari%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Indora%20no%20Hikari%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Indora%20no%20Hikari%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

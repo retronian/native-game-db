@@ -1,0 +1,84 @@
+{
+  "id": "kikuni-masahiko-no-jantoushi-doraou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kikuni Masahiko no Jantoushi Doraou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "喜国雅彦の雀闘士銅鑼王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "喜国雅彦の雀闘士 銅鑼王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kikuni Masahiko no Jantoushi Doraou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ef034532",
+      "md5": "4e92e9f6b3732cf8d4b716f893846c3b",
+      "sha1": "79f39b6fd1685ceeb8ddc3a60af29c24767e05e9",
+      "sha256": "7259ed97d174bebf55a93fcab423c6e51c32fee8708610d3d05d54511de2bd79"
+    },
+    {
+      "name": "Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "25ad7971",
+      "md5": "e540bc0448ea777b7469ba36cbe5ea58",
+      "sha1": "944a12ea88ff9b143d99e6e6962848f433f203be",
+      "sha256": "d782412f9c664e8367e2652f3d6551dd1978a87d3d6b6d0b598b10c293ca16e2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "概要\n\n麻雀の力を解き放て！\n「雀闘士銅鑼王」はスーパーファミコン用のシンプルな麻雀ゲームです。奇妙で滑稽なキャラクターが多数登場し、全体的にコメディタッチです。日本の麻雀のルールに従っていますが、いくつかの例外があります（下記参照）。多くのキャラクターは「コスモ」メーターが満タンになると特別な攻撃を行うことができ、これらの攻撃は相手を気絶させて勝利を得る（意外にも効果は薄い）ものから、即座にロンを取るものまで様々です。また、プレイヤーが進行状況を保存できるパスワード機能も搭載されています。\n\nストーリー\n\nプレイヤーはタイトルキャラクターである雀闘士銅鑼王となり、聖域に住む麻雀の達人であり、女神アテナイドを守ることに尽力しています。しかし、悪党の麻雀魔道士ジャンコウが聖域に侵入し、アテナイドを誘拐してしまいます！銅鑼王は彼女をこの悪党の手から救出する使命を担い、他の麻雀聖者たちを集めてジャンコウの城へ向かう旅に出ます。この旅は、中国の十二支をモチーフにした守護者たちが待ち受ける塔をいくつも通り抜けることになります；これは「聖闘士星矢」の直接的なパロディで、ゴールドセイントがギリシャ・ローマの星座に基づいていることを反映しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kikuni%20Masahiko%20no%20Jantoushi%20Doraou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kikuni%20Masahiko%20no%20Jantoushi%20Doraou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kikuni%20Masahiko%20no%20Jantoushi%20Doraou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

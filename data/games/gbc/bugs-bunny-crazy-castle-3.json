@@ -1,0 +1,104 @@
+{
+  "id": "bugs-bunny-crazy-castle-3",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bugs Bunny - Crazy Castle 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バッグス・バニー クレイジーキャッスル3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バックス・バニー クレイジーキャッスル3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ae839cae",
+      "md5": "8d4e41eb71dda41ef945512eb3b53fb3",
+      "sha1": "403356d76a267d79fa5b72158de4e280b970160b"
+    },
+    {
+      "name": "Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7a2801fb",
+      "md5": "2ebf6f830013d8702eebf93955db52d5",
+      "sha1": "f4ac94b7f59191f8d4adc1b5b5ac39bee5dfd064",
+      "sha256": "89e43fdc94ec1d2a67aaab39d72afa50dd01df4323df7bf3d0909247cc490c24"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8723
+  },
+  "descriptions": [
+    {
+      "text": "バッグス・バニー クレイジーキャッスル3は、バッグス・バニーが登場するクレイジーキャッスルとその続編のゲームプレイをゲームボーイカラーに移植した作品です。あなたはバッグス・バニーとなり、古い城に隠された宝物を見つける必要があります。しかし、魔女ヘイゼルがあなたの友達（ダフィー・ダック、ヨセミテ・サム、シルベスター、ワイリー・コヨーテなどの他のルーニー・テューンズキャラクター）に呪いをかけてしまい、彼らはあなたが目標に到達するのを妨げようとします。\n\nあなたはバッグス・バニーを導き、城内外の60のレベルをクリアしなければなりません。各レベルでは、次のレベルへの扉を開くための8つの鍵を見つける必要があります。\n\nさらに、ライフを増やすためのニンジンを集めたり、敵を倒すためのさまざまな武器（爆弾、雷、コルク銃、ジュース、重りなど）を拾ったりすることができます。ハンマーやつるはしなどのアイテムは、レベルの障害物を乗り越えるのに役立ちます。シールド、時計、靴は、敵からあなたを守ってくれます。\n\nバッグス・バニーとして、歩き回ったり、階段を登ったり、エレベーターを使ったり、トンネルを通って画面を移動することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bugs%20Bunny%20-%20Crazy%20Castle%203%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

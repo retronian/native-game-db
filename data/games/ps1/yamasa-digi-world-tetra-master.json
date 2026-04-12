@@ -1,0 +1,59 @@
+{
+  "id": "yamasa-digi-world-tetra-master",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yamasa Digi World - Tetra Master",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "山佐Digiワールド テトラマスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yamasa Digi World - Tetra Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 87175744,
+      "crc32": "95cb5298",
+      "md5": "42874799108e93ff3dd14ecad1d81f1d",
+      "sha1": "e999b31e0daab98683777c1c2f8a17ea4e1c1222"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61326
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Yamasa%20Digi%20World%20-%20Tetra%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Yamasa%20Digi%20World%20-%20Tetra%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Yamasa%20Digi%20World%20-%20Tetra%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

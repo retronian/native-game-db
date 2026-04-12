@@ -1,0 +1,126 @@
+{
+  "id": "resident-evil-2",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Resident Evil 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バイオハザード2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Biohazard 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Resident Evil 2 (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NREP",
+      "size": 67108864,
+      "crc32": "7c8ee011",
+      "md5": "b04f298721223a22e1150cebc712ee6a",
+      "sha1": "d54561791bc41f1b743f8abe769a6e8cbf435326",
+      "sha256": "52093e994c89848b17c8e6f26546d66374cf47c9b471ec15da7f322b7ee17ab8"
+    },
+    {
+      "name": "Resident Evil 2 (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NREE",
+      "size": 67108864,
+      "crc32": "848fbc0d",
+      "md5": "1add2c0217662b307cdfd876b35fbf7a",
+      "sha1": "62ec19bead748c12d38f6c5a7ab0831edbd3d44b",
+      "sha256": "71f3f779613bf1f0e2050bfa600425385d2c257a647d2e40f63be1a7986e9aac"
+    },
+    {
+      "name": "Resident Evil 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NREE",
+      "size": 67108864,
+      "crc32": "832ea1da",
+      "md5": "dd21150cbc21c05420304599ec57411c",
+      "sha1": "93187c4145cad272a255c17657cd9a1011b3fb3a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287844
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Resident%20Evil%202%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Resident%20Evil%202%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Resident%20Evil%202%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Resident%20Evil%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Resident%20Evil%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Resident%20Evil%202%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Resident%20Evil%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Resident%20Evil%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Resident%20Evil%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

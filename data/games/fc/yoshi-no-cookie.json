@@ -1,0 +1,65 @@
+{
+  "id": "yoshi-no-cookie",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yoshi no Cookie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヨッシーのクッキー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yoshi no Cookie (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "8968b46a",
+      "md5": "95dd612b12e364f360358d1719ba4ca4",
+      "sha1": "f392cb891b98019b0621034d9c2f40474bc2f0ff",
+      "sha256": "b0fe3825b4496cd7bfd7a5ddadd9f93456698ad646010076e71579b6108b55cd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヨッシーのクッキーは、誰でも楽しめるスピーディなパズルゲームで、プレイは簡単ですが、クリアするのは挑戦的です。プレイするには、ランダムに配置されたクッキーを同じパターンのクッキーの行や列に移動させます。同じクッキーの行や列をうまく組み合わせると、そのラインが消え、新しい行や列を始めることができます。「ヨッシー」クッキーは、1人プレイでも2人プレイでも非常に特別な存在です。ヨッシークッキーは両方のゲームの鍵となるため、賢く使う必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi%20no%20Cookie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Yoshi%20no%20Cookie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Yoshi%20no%20Cookie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

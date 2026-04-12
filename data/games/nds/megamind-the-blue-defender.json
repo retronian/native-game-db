@@ -1,0 +1,67 @@
+{
+  "id": "megamind-the-blue-defender",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Megamind - The Blue Defender",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Megamind - The Blue Defender (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BM8P",
+      "size": 67108864,
+      "crc32": "097d9af2",
+      "md5": "0742d052db0654f8cd37b618e3f3f80b",
+      "sha1": "be589440cac33c9ceaa41689b8cdec38e18875ca"
+    },
+    {
+      "name": "Megamind - The Blue Defender (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BM8E",
+      "size": 67108864,
+      "crc32": "d6680325",
+      "md5": "f43bfd68468f9241dba6f40dc6a2737e",
+      "sha1": "832edc6dc38cbb52c51c7b4d64a8741cb5446370"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47896
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Megamind%20-%20The%20Blue%20Defender%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Megamind%20-%20The%20Blue%20Defender%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Megamind%20-%20The%20Blue%20Defender%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Megamind%20-%20The%20Blue%20Defender%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

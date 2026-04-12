@@ -1,0 +1,59 @@
+{
+  "id": "konami-gb-collection-vol-1",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konami GB Collection Vol.1",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "コナミ GB コレクション Vol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konami GB Collection Vol.1 (Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "203f8727",
+      "md5": "70ccaf1c458dc09b7c703191ef9b8541",
+      "sha1": "760abb9e3950f39bf01320e414a4f4d516e04c83"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49835
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Konami%20GB%20Collection%20Vol.1%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Konami%20GB%20Collection%20Vol.1%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Konami%20GB%20Collection%20Vol.1%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

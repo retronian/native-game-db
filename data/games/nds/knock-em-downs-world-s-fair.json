@@ -1,0 +1,75 @@
+{
+  "id": "knock-em-downs-world-s-fair",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Knock 'Em Downs - World's Fair",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Knock 'Em Downs - World's Fair (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C4ZE",
+      "size": 67108864,
+      "crc32": "3c35989d",
+      "md5": "a124f59c4720c3112040ac20cb8f9326",
+      "sha1": "ca234ae05f46853f99fa692541a5b4e5f02a3b75"
+    },
+    {
+      "name": "Knock 'Em Downs - World's Fair (Europe) (En,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C4ZP",
+      "size": 67108864,
+      "crc32": "02a01f7a",
+      "md5": "f0dfb1f6b5969c29c1bdcfce393a87e7",
+      "sha1": "3c9e65c05dd28e57842deb4f3d52dc4bec17266a"
+    },
+    {
+      "name": "Knock 'Em Downs - World's Fair (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VB3E",
+      "size": 67108864,
+      "crc32": "fe004fbe",
+      "md5": "8a31e0a372a993a593935c89db7bdeab",
+      "sha1": "f2ff65a51ce431a607148bb76b264f9588b219d5",
+      "sha256": "8641eb1dc92ec33b0edae94419551be67c048b6ff0f6dcb1c43c62647a146f0c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Knock%20%27Em%20Downs%20-%20World%27s%20Fair%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Knock%20%27Em%20Downs%20-%20World%27s%20Fair%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Knock%20%27Em%20Downs%20-%20World%27s%20Fair%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Knock%20%27Em%20Downs%20-%20World%27s%20Fair%20%28Europe%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

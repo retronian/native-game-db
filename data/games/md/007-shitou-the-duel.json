@@ -1,0 +1,72 @@
+{
+  "id": "007-shitou-the-duel",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "007 Shitou - The Duel",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "007 死闘",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "007・死闘",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "007 Shitou - The Duel (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48073-00",
+      "size": 524288,
+      "crc32": "aeb4b262",
+      "md5": "83bddf31e7571aefc6add5d00707df9e",
+      "sha1": "7e0de7011a60a1462dc48594f3caa956ff942281",
+      "sha256": "55b39ad2405c4060cc50072c500b877f30a58694ea5a26884f6f2cdd6b7de4bf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジェームズ・ボンド 007をプレイし、世界征服という同じ古い夢を持つ狂った教授を止めよう。プレイヤーは信頼できるワルサー PPKを手にし、各レベルの最後にいる悪役と戦いながらいくつかのレベルを進んでいく。例えば、最初のレベルの最後では、プレイヤーはジョーズと戦うことになる。簡単に言えば、このゲームは基本的に横スクロールのシューティングゲームだ。プレイヤーは女性キャラクターを見つけることができ、彼女たちはプレイヤーにエクストラライフやその他のアイテムを提供してくれる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-05-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/007%20Shitou%20-%20The%20Duel%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/007%20Shitou%20-%20The%20Duel%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/007%20Shitou%20-%20The%20Duel%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

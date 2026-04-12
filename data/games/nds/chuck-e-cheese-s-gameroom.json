@@ -1,0 +1,40 @@
+{
+  "id": "chuck-e-cheese-s-gameroom",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuck E. Cheese's Gameroom",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuck E. Cheese's Gameroom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCUE",
+      "size": 16777216,
+      "crc32": "72185da7",
+      "md5": "8985293126a419377064f391a211e981",
+      "sha1": "af8f68caed67e7cd455cf1f7ba72375aa1ad2715",
+      "sha256": "3a28764d1349e01a8d7f87529daa310c622eb10a6ebdee80bb70e04d3aaab7a5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 55902
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chuck%20E.%20Cheese%27s%20Gameroom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

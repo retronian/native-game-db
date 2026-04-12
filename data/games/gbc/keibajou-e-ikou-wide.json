@@ -1,0 +1,56 @@
+{
+  "id": "keibajou-e-ikou-wide",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Keibajou e Ikou! Wide",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "競馬場へ行こう! ワイド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Keibajou e Ikou! Wide (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "710286ea",
+      "md5": "1e842a5c2f90bf6e476b08da5333963d",
+      "sha1": "120c3888f7206ac8b06cea5e9b81dbcd87109ebf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Keibajou%20e%20Ikou%21%20Wide%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Keibajou%20e%20Ikou%21%20Wide%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Keibajou%20e%20Ikou%21%20Wide%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

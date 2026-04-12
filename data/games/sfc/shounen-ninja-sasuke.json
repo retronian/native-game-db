@@ -1,0 +1,70 @@
+{
+  "id": "shounen-ninja-sasuke",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shounen Ninja Sasuke",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "少年忍者サスケ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shounen Ninja Sasuke (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "c2d10e95",
+      "md5": "8fe73bb73145a217be9e610020b5fe35",
+      "sha1": "7c20c21da24876efefd4ba915929c265ebaa6ca5",
+      "sha256": "601161a459e68824a24e635190e9e786dc93081803b4db66ac5a4744bb422841"
+    },
+    {
+      "name": "Shounen Ninja Sasuke (Japan) (Beta) (1994-07-26)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "b8a87c29",
+      "md5": "64b27ec10f5fd59d7a4e546ef951bcb3",
+      "sha1": "f6f8946b4ba0a88e8fd3511e1d6cad51eb25e0b4",
+      "sha256": "a558467557df294b581cbc23cbbfcab43cfc2508482fa597d70cd1f13cf70808"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38232
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shounen%20Ninja%20Sasuke%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shounen%20Ninja%20Sasuke%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shounen%20Ninja%20Sasuke%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

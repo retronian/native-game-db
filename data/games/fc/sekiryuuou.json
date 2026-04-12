@@ -1,0 +1,65 @@
+{
+  "id": "sekiryuuou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sekiryuuou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "赤龍王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sekiryuuou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c5f6c6df",
+      "md5": "bc45ab06d8b86298f75fc12e2cb26be0",
+      "sha1": "09af9bfd37b349da459f8ea5755d03a0a4bcd3b5",
+      "sha256": "4b344994df1dc2caa2f3bed622f627d71b1e20d66f1f7a0a1ea207709bcd336d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本の漫画を基にした「赤龍王」は、歴史的な中国の内戦を背景にしています。プレイヤーは、一連のメニューを通じて主人公を操作し、様々なパズルを解決していきます。このゲームとその原作である漫画は、秦と漢の間の古代中国の歴史の時代を描いており、三国時代が始まる数十年前のことです。移行期にふさわしく、権力の変化に至るまでの多くの陰謀や対立があり、将来の小説や漫画の題材となる要素が豊富に存在しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-02-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sekiryuuou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sekiryuuou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sekiryuuou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

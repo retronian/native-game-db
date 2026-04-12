@@ -1,0 +1,62 @@
+{
+  "id": "hotel-for-dogs",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hotel for Dogs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hotel for Dogs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CKHE",
+      "size": 33554432,
+      "crc32": "1696b681",
+      "md5": "5119c5af8846def8cf3e568e89070313",
+      "sha1": "a69b3481e91934d3bb61fcfd1ad1740b27e09adb"
+    },
+    {
+      "name": "Hotel for Dogs (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CKHP",
+      "size": 33554432,
+      "crc32": "11081c30",
+      "md5": "c6ebb811adbd0c5cb8394f2f5af28995",
+      "sha1": "ff8da53bacb3591eb0d7fb14da44b93f7511746f",
+      "sha256": "55a34bf60b1547be74664f87da3eecbe68d4a031c29e4ced8136d30bbb7361f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21256
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hotel%20for%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hotel%20for%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hotel%20for%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

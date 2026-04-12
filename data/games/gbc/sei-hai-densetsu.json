@@ -1,0 +1,64 @@
+{
+  "id": "sei-hai-densetsu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sei Hai Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "聖牌伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sei Hai Densetsu (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8804f856",
+      "md5": "b138e131aeee6f969e45673821221b07",
+      "sha1": "0840846bd0a3956fc49b5c7aec598ade93e3ff77"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームにはRPGスタイルのストーリーモードと、ルールを自由に変更できるフリーゲームモードが含まれています。ストーリーモードでは、麻雀のゲームに勝つことでより強力な役を使用できるようになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sei%20Hai%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sei%20Hai%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sei%20Hai%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

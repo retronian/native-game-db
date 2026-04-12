@@ -1,0 +1,51 @@
+{
+  "id": "rampart",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rampart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rampart (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d5aeed2e",
+      "md5": "2acefe79c9813460f0cc80c45d73d0ff",
+      "sha1": "40cef7a1af53d2da5cd7b9d7927f1f64399e69dc",
+      "sha256": "7a7c6e496fbca4aa39d42d3a3af4d79e9795dbef35c01ab34db0ac7ab003b793"
+    }
+  ],
+  "external_ids": {
+    "igdb": 341391
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rampart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

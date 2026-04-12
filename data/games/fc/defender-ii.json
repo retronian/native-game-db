@@ -1,0 +1,59 @@
+{
+  "id": "defender-ii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Defender II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Star Gate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Defender II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "8ce84549",
+      "md5": "001717c1a6b499c24d576dfa5248cebc",
+      "sha1": "4a72d1e9b95a855a70a713e06a50ec0c85ef9f00",
+      "sha256": "56220eda8957836cc4979202c12404af691b789598786b54b0aeeb19523909d5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48902
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Defender%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Defender%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Defender%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

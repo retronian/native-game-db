@@ -1,0 +1,95 @@
+{
+  "id": "kanji-boy-3",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kanji Boy 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "漢字ボーイ3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "漢字BOY3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "漢字",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kanji Boy 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "2d4d8597",
+      "md5": "51c8578d742ae2306b863776738f6772",
+      "sha1": "ea9064f703354b7fbeef0dd55084b16f2f7797ba"
+    },
+    {
+      "name": "Kanji Boy 3 (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "2ce7d758",
+      "md5": "a5d013a0066ee9874e88a1c455cc454a",
+      "sha1": "f8b34e0834c7bff5bb06587e932dff2036d86c6e",
+      "sha256": "50798e97c6f576b20cd954e88e71e4d9b764691daba60d1c2139aadc931d2cd3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281600
+  },
+  "descriptions": [
+    {
+      "text": "文部科学省（MEXT）によって承認された日本漢字能力検定の問題が7,000問収録されています（2002年6月まで）。プレイヤーは自分のレベルに合わせて12段階の問題から選んで学習することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-06-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kanji%20Boy%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kanji%20Boy%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kanji%20Boy%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

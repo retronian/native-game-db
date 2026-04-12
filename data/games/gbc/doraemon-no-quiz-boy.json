@@ -1,0 +1,94 @@
+{
+  "id": "doraemon-no-quiz-boy",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon no Quiz Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんのクイズボーイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon no Quiz Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3bbf9ea8",
+      "md5": "509ca3dc125131b1a4b1667ccc64fd27",
+      "sha1": "fd05adb1a6face86ff263883fdf4cebf14e055e9"
+    },
+    {
+      "name": "Doraemon no Quiz Boy (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "915356e3",
+      "md5": "7f6c3f5388d3bcc0d02e8a2ea0d5e988",
+      "sha1": "ae48f07e608d76143a4a51f18f9454cd990d766a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 76859
+  },
+  "descriptions": [
+    {
+      "text": "アニメや漫画でおなじみの「ドラえもん」キャラクターと一緒にクイズを楽しむゲームです。小学生向けの学習問題やドラえもんに関する雑学など、さまざまなジャンルの4,500問の質問が用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Doraemon%20no%20Quiz%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Doraemon%20no%20Quiz%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Doraemon%20no%20Quiz%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Doraemon%20no%20Quiz%20Boy%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Doraemon%20no%20Quiz%20Boy%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Doraemon%20no%20Quiz%20Boy%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

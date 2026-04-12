@@ -1,0 +1,49 @@
+{
+  "id": "doubutsu-banchou",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doubutsu Banchou",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "動物番長",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 151836
+  },
+  "roms": [
+    {
+      "name": "Doubutsu Banchou (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 33554432,
+      "crc32": "6f8e3e71",
+      "md5": "6c329dc4cc2fc9a96475e8a30abfe735",
+      "sha1": "95a0f5f2545dd338ffee85705a360ad161c835c7",
+      "sha256": "62d3fb29147b3f7021a15f9810f4732e5e79e4ebe8a19242e6957fdf7edae38c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Doubutsu%20Banchou%20%28Japan%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

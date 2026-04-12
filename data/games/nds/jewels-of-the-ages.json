@@ -1,0 +1,67 @@
+{
+  "id": "jewels-of-the-ages",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewels of the Ages",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewels of the Ages (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B86E",
+      "size": 8388608,
+      "crc32": "0ebfce3a",
+      "md5": "0fcff1ef0f2c50c78a1290c8cc64504b",
+      "sha1": "3ba0edb926343a04777d95fded790f127655803a"
+    },
+    {
+      "name": "Jewels of the Ages (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B86P",
+      "size": 8388608,
+      "crc32": "1a08173a",
+      "md5": "2044ecedf2e636637e95f7202b4e140a",
+      "sha1": "8d2e427761c73c7f0ad092cc9c93d31dabd53c77"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130308
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewels%20of%20the%20Ages%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewels%20of%20the%20Ages%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewels%20of%20the%20Ages%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewels%20of%20the%20Ages%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

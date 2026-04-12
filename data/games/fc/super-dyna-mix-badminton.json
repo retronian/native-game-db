@@ -1,0 +1,68 @@
+{
+  "id": "super-dyna-mix-badminton",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Dyna'mix Badminton",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーダイナミックス バドミントン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Dyna'mix Badminton (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "93ffe9f4",
+      "md5": "d864e9127aca1dc268a945721c28c45c",
+      "sha1": "ef5fad0c5297942e5f7776e536d19440cd857440",
+      "sha256": "45d221718044521488d2ff1f25bf5bb353a987b608ee3b0cfe156e2f819afb5f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48255
+  },
+  "descriptions": [
+    {
+      "text": "スーパーダイナミックスバドミントン。派手な演出が楽しいバドミントンゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-09-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Dyna%27mix%20Badminton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Dyna%27mix%20Badminton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Dyna%27mix%20Badminton%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

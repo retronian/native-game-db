@@ -1,0 +1,68 @@
+{
+  "id": "kagerou-densetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kagerou Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "影狼伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kagerou Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b216457c",
+      "md5": "f38f170b2a911884b3cdcbaf2e35623f",
+      "sha1": "0823418ba06fe5f557e80a2c7bd89500dcd02dd1",
+      "sha256": "dbc24a8754555ef4a4a39241cac8d90580151dc2cc4d3c7b45390527803b6171"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48448
+  },
+  "descriptions": [
+    {
+      "text": "影狼伝説は、横スクロールバトルを特徴とするRPGアドベンチャーで、プレイヤーは4人の忍者を操作し、世界を脅かす4人のデーヴァのリーダーを倒す旅に出ます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-05-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kagerou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kagerou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kagerou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

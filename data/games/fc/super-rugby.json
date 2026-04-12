@@ -1,0 +1,77 @@
+{
+  "id": "super-rugby",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Rugby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー ラグビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーラグビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Rugby (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "63c8f34d",
+      "md5": "628056d10c417eb22fcaddd41e822e2e",
+      "sha1": "63a8a327441d31fbfe3a141b71ca1bd332e0ca2d",
+      "sha256": "8aecc3e8cf4d7b1d22815630e404d991eb4db66ef62cb552dd78c0ef8124ef4c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267752
+  },
+  "descriptions": [
+    {
+      "text": "スーパーラグビーは、ZAPとTSSによってファミコン用にリリースされたラグビーゲームです。このゲームは、スーパーラグビー国際ラグビー連盟と名前が同じですが、後者はこのゲームのリリースの数年後に設立されたため、名前は偶然の一致です。また、1994年のスーパーファミコン用ゲーム「スーパーラグビー」と混同しないでください。このゲームは、ピッチを上から見下ろす視点で表示し、両チームが縦に配置されており、プレイヤーは試合を行う前にさまざまなステータスにポイントを割り振ることで、自分のプレイスタイルの特定の領域に焦点を当てることができます。オプションには、1回限りの「トレーニング」エキシビジョンマッチ、プレイヤーが複数のCPUチームと対戦する「リーグ」ゲーム、2人の人間プレイヤーが競い合う「Vs.」モードがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

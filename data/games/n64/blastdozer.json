@@ -1,0 +1,58 @@
+{
+  "id": "blastdozer",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blastdozer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブラストドーザー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Blastdozer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NBCJ",
+      "size": 8388608,
+      "crc32": "081a3641",
+      "md5": "16b82d53d7f038a8fe67a78027720516",
+      "sha1": "b147fdbeb661c89107c440b00dc4810508f58636",
+      "sha256": "88b8ab9ea99dd0d226c3699d1386c7e4b3253ce0b4ab1d298855a4c82bd28229"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Blastdozer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Blastdozer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Blastdozer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "monster-farm-battle-card-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Farm Battle Card GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターファームバトルカード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "モンスターファーム バトルカードGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Farm Battle Card GB (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "69b88f1e",
+      "md5": "d455f4ae266279daa36f3f3e54569239",
+      "sha1": "7e036e175c9e865572ab613ae0f8e6d3642ffb0e",
+      "sha256": "ee939dd2de75d19c1c4a42a0df633f85fb2094afeeac5827da9f0bf7027a07b7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "モンスターファームバトルカードGBは、伝統的なオーバーヘッドビューのRPGゲームプレイと、完全なコレクティブルカードゲームを組み合わせています。他のモンスターファームシリーズに親しんでいるプレイヤーはキャラクターや場所を認識するでしょうが、ゲームをプレイするために事前の牧場経験は必要ありません。\n\nプレイヤーは隔離された島の村や近くの洞窟を探索し、カードゲームで対戦相手と戦います。進行するにつれて、敗れた相手がカードやアイテムのコレクションに加わります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Monster%20Farm%20Battle%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Monster%20Farm%20Battle%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Monster%20Farm%20Battle%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

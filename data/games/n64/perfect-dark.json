@@ -1,0 +1,167 @@
+{
+  "id": "perfect-dark",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Perfect Dark",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パーフェクトダーク",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NPDP",
+      "size": 33554432,
+      "crc32": "7718a714",
+      "md5": "d9b5cd305d228424891ce38e71bc9213",
+      "sha1": "a663d3f4eee0b198471132db92e9639a9edd1985",
+      "sha256": "8e432b1a5f4ca512e2c22a1c3a5bb878ff6e92de2ddfebb1ba98e8d00e0394ff"
+    },
+    {
+      "name": "Perfect Dark (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPDJ",
+      "size": 33554432,
+      "crc32": "639c0da9",
+      "md5": "538d2b75945eae069b29c46193e74790",
+      "sha1": "99bcaaa4841b09c845e1094006df8f637862f02e"
+    },
+    {
+      "name": "Perfect Dark (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPDE",
+      "size": 33554432,
+      "crc32": "68446ad4",
+      "md5": "7f4171b0c8d17815be37913f535e4e93",
+      "sha1": "60dfe17923c03875b499b3cd3200f05cb538b7ad",
+      "sha256": "b4173ee90ba6e3514b17d7f340c6c248e2a4c429fdc3c671dd82bbf5afcbb152"
+    },
+    {
+      "name": "Perfect Dark (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPDE",
+      "size": 33554432,
+      "crc32": "4c1677f7",
+      "md5": "e03b088b6ac9e0080440efed07c1e40f",
+      "sha1": "af8788ac4d1a57260eae9c53ffe851fcf2a3319b",
+      "sha256": "4e51142acac686d96861cecc58cf7cb7c3b06b21733b7f8ed609a709dc039a21"
+    },
+    {
+      "name": "Perfect Dark (Europe) (2000-04-26) (Debug)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NPDP",
+      "size": 33554432,
+      "crc32": "b33c4a54",
+      "md5": "ad2de210a3455ba5ec541f0c78d91444",
+      "sha1": "79e3213bbac19b8e196e97e6348006c0506b27a9"
+    },
+    {
+      "name": "Perfect Dark (USA) (2000-03-22) (Debug)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NPDE",
+      "size": 33554432,
+      "crc32": "b568a9fe",
+      "md5": "aa93f4df16fceada399a749f5ad2f273",
+      "sha1": "c831dc3d3068e0f2098db55889da0d6a08f26080"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1463
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Perfect%20Dark%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Perfect%20Dark%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Perfect%20Dark%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Perfect%20Dark%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Perfect%20Dark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Perfect%20Dark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Perfect%20Dark%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Perfect%20Dark%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Perfect%20Dark%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

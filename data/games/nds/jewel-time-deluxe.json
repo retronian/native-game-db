@@ -1,0 +1,67 @@
+{
+  "id": "jewel-time-deluxe",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewel Time Deluxe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewel Time Deluxe (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4JE",
+      "size": 8388608,
+      "crc32": "b0c1c9f0",
+      "md5": "fb8e8d0a2036298185b448c9e8971a26",
+      "sha1": "7f386c30cdbf415ab8a922d0a50ba72145656882"
+    },
+    {
+      "name": "Jewel Time Deluxe (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4JP",
+      "size": 8388608,
+      "crc32": "a063951d",
+      "md5": "33e919e692cbaed647b51fd4a1f60b5c",
+      "sha1": "bb97f1950a651215a3d10df9eb6cd377972ad877"
+    }
+  ],
+  "external_ids": {
+    "igdb": 110322
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Time%20Deluxe%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Time%20Deluxe%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Time%20Deluxe%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Time%20Deluxe%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

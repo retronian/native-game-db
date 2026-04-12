@@ -1,0 +1,74 @@
+{
+  "id": "super-h-q-criminal-chaser",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super H.Q. - Criminal Chaser",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーH.Q. クリミナルチェイサー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーH.Q.クリミナルチェイサー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super H.Q. - Criminal Chaser (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "bf252997",
+      "md5": "c67e9b04a528a4c39470b2637ab2d8fd",
+      "sha1": "5f7d31a93c7244c01733098ee1f05655e7f0a8c1",
+      "sha256": "c1cfea4606255e3f369a9d0b9144201bcd9294336eb15db8288c51fc1e568798"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーH.Q. クリミナルチェイサーは、Chase H.Q.の強化版続編です。おなじみのように、あなたは犯罪に関与していると知られる犯罪者の車に向かって運転し、通り過ぎる車を避けながらポイントを獲得しなければなりません。あなたの車には3つのターボが装備されており、後ろに大きく離れている場合に役立ちます。\n\nしかし、今回は車だけが心配の種ではありません。あなたは、火炎瓶を撃ったり投げたりするバイクや、逆走する車にも遭遇します。（これらの車に衝突すると、空中に飛ばされます。）バリケードなどの他の障害物も忘れてはいけません。\n\nさらに、犯罪者のダメージインジケーターに加えて、あなた自身のインジケーターもあります。各犯罪者に追いつくと、彼らの車に近づきすぎると撃たれる可能性がありますが、攻撃方法が異なる犯罪者にも出会うかもしれません。例えば、4人目の犯罪者は、あなたが彼から離れているとミサイルを発射してきます。撃たれてヒットすると、インジケーターはヒットするたびに減少しますが、通り過ぎる車に当たった場合はこのルールは適用されません。インジケーターが空になるか、時間切れになるとゲームは終了します。\n\n各ラウンドをクリアすると、統計画面が表示され、残り時間、与えたダメージ、使用したナイトロの数に基づいてポイントが与えられます。オプションの一つでは、ゲームのスピードメーターをMPHまたはKm/hで表示することができます。また、ゲームにはストーリーラインがあり、ラウンドの合間に見ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20H.Q.%20-%20Criminal%20Chaser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20H.Q.%20-%20Criminal%20Chaser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20H.Q.%20-%20Criminal%20Chaser%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

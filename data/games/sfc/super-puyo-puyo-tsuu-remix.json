@@ -1,0 +1,69 @@
+{
+  "id": "super-puyo-puyo-tsuu-remix",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Puyo Puyo Tsuu Remix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "す〜ぱ〜ぷよぷよ通 リミックス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "すーぱーぷよぷよ通リミックス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Puyo Puyo Tsuu Remix (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "61f903f8",
+      "md5": "0dc4efac96b9e965009e9c613913c6f8",
+      "sha1": "009e6ee7228015ae21482b13bd9a40cbb78251f8",
+      "sha256": "19f61feaa61c39254243a28d75ad921a39e4ad3de86c2888c7347691e9fb92fa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42544
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Puyo%20Puyo%20Tsuu%20Remix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Puyo%20Puyo%20Tsuu%20Remix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Puyo%20Puyo%20Tsuu%20Remix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

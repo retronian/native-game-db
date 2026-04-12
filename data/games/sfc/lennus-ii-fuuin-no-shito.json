@@ -1,0 +1,57 @@
+{
+  "id": "lennus-ii-fuuin-no-shito",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lennus II - Fuuin no Shito",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "レナスII 封印の使徒",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lennus II - Fuuin no Shito (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "c68be22a",
+      "md5": "52af259ac9347cd2b6ae450671e9dbd6",
+      "sha1": "3cdec34bf2652b278ed482d3f425efff2aa64e7e",
+      "sha256": "0266520683f2df2179a2e6abf62754d0e8c7d82d12e59d3d3cbf7ae403a2625f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Lennus%20II%20-%20Fuuin%20no%20Shito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Lennus%20II%20-%20Fuuin%20no%20Shito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Lennus%20II%20-%20Fuuin%20no%20Shito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dragon-ball-daimaou-fukkatsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball - Daimaou Fukkatsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボール 大魔王復活",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボール大魔王復活",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball - Daimaou Fukkatsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a3f4a010",
+      "md5": "98a8d5fd527dc9a851d5e43220c8b94a",
+      "sha1": "ff9a24473dcccd96d9f8ad38e3004e674b8c87c9",
+      "sha256": "f516ac16a90968aaef77858b6c38911ce15ec3620c2e8d15af53c91bfb2872af"
+    }
+  ],
+  "external_ids": {
+    "igdb": 72395
+  },
+  "descriptions": [
+    {
+      "text": "これは人気漫画シリーズ「ドラゴンボール」を基にしたアドベンチャー/RPGゲームです。物語はシリーズのエピソードの一つに基づいています。孫悟空の友人クリリンが格闘大会の後に死んでいるのが発見されます。遺体の近くには悪魔のシンボルが刻まれたメモが残されています。亀仙人は、悪の魔物ピッコロ大魔王が再び地球に現れたと言います。孫悟空がピッコロを見つけ、友人を復活させることが求められます。\n\nこのゲームは、後に「ドラゴンボールZ RPG」シリーズで使用されるカードRPGの概念を導入しています。ゲーム内でのすべての動きは、画面下部に表示されるカードの選択に依存します。適切な数字のカードを選ぶことで移動し、マス目の上を進むことができます。バトルでは、攻撃と防御のカードを選択し、戦闘の結果を決定します。師匠とトレーニングをしたり、さまざまな場所を訪れたり、「日本の冒険」スタイルで環境を探索したりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20-%20Daimaou%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20-%20Daimaou%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20-%20Daimaou%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

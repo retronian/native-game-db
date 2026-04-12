@@ -1,0 +1,46 @@
+{
+  "id": "essential-sudoku-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Essential Sudoku DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Essential Sudoku DS (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZIP",
+      "size": 8388608,
+      "crc32": "307e17d9",
+      "md5": "196b493abe468830b6b741d6105e8552",
+      "sha1": "8c9bf1b0e598ac3f528fa0dcd99efe84f691505f",
+      "sha256": "12e518dc7612e5cce950fd181841abb53cc3d4ae46ae88f40b79aeb33919e08c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68784
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Essential%20Sudoku%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Essential%20Sudoku%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "daikaijuu-monogatari-the-miracle-of-the-zone-ii",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daikaijuu Monogatari - The Miracle of the Zone II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大貝獣物語 Z: The Miracle of the Zone II ザ・ミラクル オブ ザ・ゾーンII",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "大貝獣物語 ザ・ミラクル オブ ザ・ゾーンII",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daikaijuu Monogatari - The Miracle of the Zone II (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "692d6794",
+      "md5": "ff0001c209fc894c26b339a1519f38a6",
+      "sha1": "7bf6e2d7fc58e8abe61785e413bcf4150fa8bee5",
+      "sha256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65605
+  },
+  "descriptions": [
+    {
+      "text": "人気のカードバトルゲームの新バージョンです。カードの総数は340枚で、前作のカードも含まれています。プレイヤーは8つのレベルでランク付けされます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20II%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20II%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Daikaijuu%20Monogatari%20-%20The%20Miracle%20of%20the%20Zone%20II%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

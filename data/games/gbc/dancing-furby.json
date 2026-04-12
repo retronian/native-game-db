@@ -1,0 +1,76 @@
+{
+  "id": "dancing-furby",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dancing Furby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "踊る天才ペット! Dancing Furby ダンシングファービー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ダンシングファービー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dancing Furby (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3263f692",
+      "md5": "ed517a9923865f4e4945ca4095313fe2",
+      "sha1": "f3f7e37d64eef74d65456bae490e0a0b25897ac0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85717
+  },
+  "descriptions": [
+    {
+      "text": "あなたはファービーとして踊らなければなりません！ウー・テー・ロウ・ワ・ブー！左に振って、右に振って。\n\nファービーは、ふわふわのピンクのバナナの耳を持つフクロウのようなモンスターです。彼らは踊ること、歌うこと、人間の言葉を少しずつ学ぶことが大好きです。具体的には、ファービーはタイガーエレクトロニクスによって製造された自律型おもちゃロボットで、このゲームのライセンサーです。これらのおもちゃは、最初の成功した家庭用ロボットの一つでした。ここでは、あなたのために踊ります。\n\nダンシングファービーは、クラシックなリズムゲームとして機能します。画面上に流れるボタンのプロンプトに合わせて、現在のタイムマークに達したときにボタンを押す必要があります。画面上のファービーは、あなたのパフォーマンスに応じて踊り、タイミングについてファービー語でコメントします。「ヌー・ルー」が完璧、「イー・デイ」が許容範囲、「ブー」は失敗を意味します。各曲の最後には、スコアが「ヌー・ルー」などで計算され、その後続行が許可されます。\n\nステージを成功裏にクリアすると、ゲームボーイの赤外線ポートをファービーのおでこの対応するポートに「接続」することができるようになります。これにより、曲に関する情報がファービーに伝わり、あなたが予期しないときに「エリーゼのために」を口ずさむようになります。\n\nゲーム内では、斑点模様、ストライプ模様、またはひし形の顔を持つファービーを選んで踊ることもできます。良いパフォーマンスを発揮すると、さらに多くのファービーがアンロックされます。\n\nゲーム内の曲には、「きらきら星」、「エリーゼのために」、およびいくつかの「人気のある」ナンバーが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dancing%20Furby%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dancing%20Furby%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dancing%20Furby%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

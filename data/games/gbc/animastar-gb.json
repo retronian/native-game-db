@@ -1,0 +1,76 @@
+{
+  "id": "animastar-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Animastar GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アニマスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アニマスター GB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Animastar GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b14920f0",
+      "md5": "26c14f848115af6246b8f514fbeb6dab",
+      "sha1": "4f141e012fc46cab0dd36655c2548dfaed0a862f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49972
+  },
+  "descriptions": [
+    {
+      "text": "アニマスターは、ドリームキャスト向けにリリースされたライフシミュレーションゲームで、2000年6月15日に日本のみで発売されました。モンスターファームやポケモンなどの他のゲームに似ています。このゲームの目的は、「アニマ」と呼ばれるモンスターを育て、訓練し、レースを行うことです。続編として、ゲームボーイカラー向けのアニマスターGBが2001年3月30日に日本で発売されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Animastar%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Animastar%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Animastar%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

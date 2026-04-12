@@ -1,0 +1,65 @@
+{
+  "id": "hot-wheels-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hot Wheels Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Hot Wheels advance",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hot Wheels Advance (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AHWJ",
+      "size": 8388608,
+      "crc32": "f79ffedf",
+      "md5": "24110878dd4b1d24cd824002685a5f4a",
+      "sha1": "4a67ebb5f9eadcb92aaee5af004a335b1e896f65"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "エンジンを始動させ、お気に入りのホットウィールズカーでチャンピオンシップを目指してレースを繰り広げよう！ジャンプを飛び越え、ヘアピンカーブを曲がり、過激な環境を駆け抜けるスピード感を楽しんで！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hot%20Wheels%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hot%20Wheels%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hot%20Wheels%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

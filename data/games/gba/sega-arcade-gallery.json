@@ -1,0 +1,41 @@
+{
+  "id": "sega-arcade-gallery",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SEGA Arcade Gallery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "SEGA Arcade Gallery (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYPE",
+      "size": 8388608,
+      "crc32": "3b8ffdf4",
+      "md5": "0bb34790a91d40f7afc437c528102496",
+      "sha1": "6ce77309c2caacf466f9a2c37c3fe84e4ce23242"
+    },
+    {
+      "name": "SEGA Arcade Gallery (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYPP",
+      "size": 8388608,
+      "crc32": "f92140c0",
+      "md5": "4f7cbadb74dd6426f91429398eca5374",
+      "sha1": "c99fe39973b33be64749f27ce6b454e0c3c15d05"
+    }
+  ],
+  "external_ids": {
+    "igdb": 22241
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pokemon-adventure",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokémon Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 143190
+  },
+  "first_release_date": "2000-12-31",
+  "roms": [
+    {
+      "name": "Pokemon Adventure (Taiwan) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524288,
+      "crc32": "8edb9eb7",
+      "md5": "c851452c0cb8837add5802ad214eca15",
+      "sha1": "f86884a85cc560b91340a4c53a37cc8026699ddc"
+    }
+  ]
+}

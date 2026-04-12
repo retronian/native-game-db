@@ -1,0 +1,94 @@
+{
+  "id": "shining-force-kuroki-ryuu-no-fukkatsu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shining Force - Kuroki Ryuu no Fukkatsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シャイニング・フォース 〜黒き竜の復活〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AF5J",
+      "size": 8388608,
+      "crc32": "4a643cc4",
+      "md5": "f053f23d0fb4ae82952c6a0e84048fc3",
+      "sha1": "4a5a91f3fb99b4012a7fabea3585f38edef6b8a6"
+    },
+    {
+      "name": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AF5J",
+      "size": 8388608,
+      "crc32": "1127b83e",
+      "md5": "2945f32214890f18db4474bc8626eeca",
+      "sha1": "5a8c3bc2f3dc5218812559a51f18592caea768c5",
+      "sha256": "3803c8f84b8bc137b07cc3d414fa2cc4a025e168ff0e5a9cd75fdccd0c7580c5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "シャイニング・フォースはターン制の戦略RPGです。バトルは正方形のグリッド上で行われ、各ユニットは1つのマスを占有します。各ユニットは、移動能力を示す「ムーブ」ステータスによって決まる固定のマス数だけ戦場を移動できます。ユニットは敵や味方との位置関係に応じて、攻撃、魔法を使う、アイテムを使用する、またはエリアを探索するという1つのアクションを行うことができます。アイテムの装備やドロップなどの一部のコマンドはアクションとしてカウントされません。ターンの順番はユニットの敏捷性スコアとランダムなシードによって決まります。\n\nシャイニング・フォースでは、各味方ユニットはそれぞれ独自の背景と個性を持つキャラクターとして表現されており、ファイアーエムブレムシリーズに似ています。「一般的な」ユニットは敵側にしか存在しませんが、ほとんどのキャラクターはプレイヤー軍に参加してもストーリーにはほとんど貢献しません。\n\n各味方ユニットにはクラスがあり、そのユニットの能力セットを定義し、アクセスできる魔法や装備を決定します。ユニットはレベル10から20の間で別のクラスに昇進することができます。昇進するとキャラクターのレベルは1にリセットされ、ステータスは固定の量だけ減少しますが、より高いレベルで昇進した場合は初期値が高くなります。\n\nプレイヤーのバトル目標は比較的シンプルです：すべての敵を倒す、敵のリーダーを倒す、または町やランドマークに進むことです。敵側はプレイヤーのリーダーであるマックスを倒すか、プレイヤーがエグレスを使って戦闘から逃げることを選ぶと勝利します。たとえプレイヤー軍が敗北しても、プレイヤーは仲間を回収し、再度バトルを試みることができます。フォースは戦闘の結果に関係なく得た経験値を保持します。したがって、ゲームオーバーはなく、プレイヤーの軍は敗北しても強くなりますが、マックスの死亡はプレイヤーが持っているお金の半分を失う結果になります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-08-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shining%20Force%20-%20Kuroki%20Ryuu%20no%20Fukkatsu%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

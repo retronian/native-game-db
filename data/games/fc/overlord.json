@@ -1,0 +1,61 @@
+{
+  "id": "overlord",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Overlord",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Overlord (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "67ce8b37",
+      "md5": "71a8f9413d9512f1d3e460694c138a23",
+      "sha1": "3b19633726dd83f7290cfb4c140249bbf69e1fbe",
+      "sha256": "e531bb2f88870c328708decc2eb687ff064a44749208767bbf3bdab8363bccf9"
+    },
+    {
+      "name": "Overlord (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "b67acc2a",
+      "md5": "b0e3f9b203a95d6cbb4d9b6d314ea227",
+      "sha1": "7f3eb5d7fd40a0e94a17b336be627d7920a0c27e",
+      "sha256": "09cd110ed9bc3279b9976f2b69054c2b9339e870ac10e3f0547fdda3083d1c0e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 121368
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

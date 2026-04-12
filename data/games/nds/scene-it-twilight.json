@@ -1,0 +1,67 @@
+{
+  "id": "scene-it-twilight",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Scene It Twilight",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Scene It Twilight (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BT8E",
+      "size": 134217728,
+      "crc32": "d02bb8fb",
+      "md5": "33eef8f3a8db27f06dcbc25382400874",
+      "sha1": "34c4e775b5464e28e2f7dc03b818cba6d1f5ed5d"
+    },
+    {
+      "name": "Scene It Twilight (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BT8P",
+      "size": 134217728,
+      "crc32": "d91cc91f",
+      "md5": "673a60b1ad782498a657ef237b7bbf52",
+      "sha1": "5a93b90ade5f9deff9c2ef2926f5643f66f38d31"
+    }
+  ],
+  "external_ids": {
+    "igdb": 5142
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scene%20It%20Twilight%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scene%20It%20Twilight%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scene%20It%20Twilight%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scene%20It%20Twilight%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "world-circuit",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Circuit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドサーキット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Circuit (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "b3eeea2e",
+      "md5": "f6402df31096393d038585bdeafe44d5",
+      "sha1": "18909a1215da66f6d16eab4251b574b86d2b748e",
+      "sha256": "8107282b3b8797a7ca7ea0291145a379d60ac117301c65f43cf004e68b71dbfa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 274725
+  },
+  "descriptions": [
+    {
+      "text": "オーバーヘッド視点のフォーミュラ1レーシングゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/World%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/World%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/World%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

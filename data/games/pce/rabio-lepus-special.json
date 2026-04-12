@@ -1,0 +1,77 @@
+{
+  "id": "rabio-lepus-special",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rabio Lepus Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラビオレプススペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ラビオレプス スペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rabio Lepus Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "d8373de6",
+      "md5": "4b942ff45a454222dd4ec1951e75a72c",
+      "sha1": "ebd12a22e2d139a904b8aff535787abc128ad61a",
+      "sha256": "d5984e1c46cb906d279151a026a17ee87cf6276fb2c4316dfec63dae0896fb07"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38066
+  },
+  "descriptions": [
+    {
+      "text": "遠い王国で、王と彼の二人の娘たちは幸せに暮らし、土地には平和と調和が満ちていました。しかし、ある運命の日、突如として現れた未知の宇宙船が王と二人の娘たちをさらってしまいます。彼女たちは皆、ウサギのスーツを着ていました。プレイヤーはウサギ型の飛行ロボット「ウサギ」を操作し、囚われた人々を救出し、未知の誘拐者を排除する任務を果たします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Rabio%20Lepus%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Rabio%20Lepus%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Rabio%20Lepus%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

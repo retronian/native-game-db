@@ -1,0 +1,51 @@
+{
+  "id": "party-carnival",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Party Carnival",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Party Carnival (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZPP",
+      "size": 16777216,
+      "crc32": "5dbfdc98",
+      "md5": "87db628913cddf3906576145fdb94554",
+      "sha1": "275078b387a36063c3c60d5d97b686fa039a2f6d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98669
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Party%20Carnival%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Party%20Carnival%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Party%20Carnival%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

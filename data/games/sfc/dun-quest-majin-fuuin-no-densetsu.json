@@ -1,0 +1,65 @@
+{
+  "id": "dun-quest-majin-fuuin-no-densetsu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dun Quest - Majin Fuuin no Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダンクエスト 魔人封印の伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dun Quest - Majin Fuuin no Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b708add4",
+      "md5": "b3347b8122674d176d752c6d473beeda",
+      "sha1": "ad0bd78f4991494d251e49aa54195535665119ac",
+      "sha256": "b8eea29f05140b6910795f039e5537bd34f6b2149e25448c5635011fb89e7f37"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイヤーが近くのダンジョンから現れる邪悪な大群を鎮める勇敢な英雄となる、トップダウンアクションRPGです。ゲームには、プレイヤーが補給を行うことができるハブタウンがあり、そこから市の周囲にある4つのダンジョン（洞窟、塔、火山、山頂の寺院）へと移動します。敵は地面にあるグリフから常に再出現するため、それらを封じる必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dun%20Quest%20-%20Majin%20Fuuin%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dun%20Quest%20-%20Majin%20Fuuin%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dun%20Quest%20-%20Majin%20Fuuin%20no%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

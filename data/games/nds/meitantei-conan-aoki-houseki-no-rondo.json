@@ -1,0 +1,43 @@
+{
+  "id": "meitantei-conan-aoki-houseki-no-rondo",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Meitantei Conan - Aoki Houseki no Rondo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Meitantei Conan - Aoki Houseki no Rondo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "TKNJ",
+      "size": 67108864,
+      "crc32": "0f5a1bec",
+      "md5": "8a94fe16549456c5efe99823d35ebb87",
+      "sha1": "b0468ca2e44a5a54a595bc838cafee813e420410",
+      "sha256": "bc36e67a5874c6829c3704a78985097ad143788c623cd83f44a0b8a320566fdb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Meitantei%20Conan%20-%20Aoki%20Houseki%20no%20Rondo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Meitantei%20Conan%20-%20Aoki%20Houseki%20no%20Rondo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kidou-senkan-nadesico-ruri-ruri-mahjong",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kidou Senkan Nadesico - Ruri Ruri Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "機動戦艦ナデシコ Martian Successor Nadesico ルリルリ麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kidou Senkan Nadesico - Ruri Ruri Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "6427cd7a",
+      "md5": "3f26686accd8714584b966d277973873",
+      "sha1": "7f3f408f3835bc8aa9312ba76374436bfbe136fe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kidou%20Senkan%20Nadesico%20-%20Ruri%20Ruri%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kidou%20Senkan%20Nadesico%20-%20Ruri%20Ruri%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kidou%20Senkan%20Nadesico%20-%20Ruri%20Ruri%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

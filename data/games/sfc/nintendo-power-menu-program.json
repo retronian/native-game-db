@@ -1,0 +1,64 @@
+{
+  "id": "nintendo-power-menu-program",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintendo Power Menu Program",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニンテンドウパワー SF スーパーファミコンのメモリカセット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintendo Power Menu Program (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "65fe9a35",
+      "md5": "0049bfc70f2dfe730c7bbd702f4c615c",
+      "sha1": "c826f3464ae2e54b39b923b5dc33ffb999c852a5",
+      "sha256": "e926c813f4736aff47e35ca097cc3f2eb10c4df741653af12c0108c16df23af0"
+    },
+    {
+      "name": "Nintendo Power Menu Program (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9f2a7ca7",
+      "md5": "16d37b1bd624a10ff9fe476003019ad7",
+      "sha1": "ca8f71d5fd2003831e031c71987ecc2ea647a7ce",
+      "sha256": "52fd9a276aebaa3a411927dd1cf142b6617681571a5bdb20d389b6408e23c3bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nintendo%20Power%20Menu%20Program%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nintendo%20Power%20Menu%20Program%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nintendo%20Power%20Menu%20Program%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

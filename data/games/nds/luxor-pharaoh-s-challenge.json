@@ -1,0 +1,89 @@
+{
+  "id": "luxor-pharaoh-s-challenge",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Luxor - Pharaoh's Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "룩소르: 파라오의 도전",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Luxor - Pharaoh's Challenge (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YLXP",
+      "size": 8388608,
+      "crc32": "03d89f19",
+      "md5": "e4ba7024f053c903b7fb90605e767a5b",
+      "sha1": "7346f04eab673857bbc3aba38d69337bc021417c",
+      "sha256": "5c40348c5f8392028f7142db04781c6436729de84e9484bbfb74c0642318b195"
+    },
+    {
+      "name": "Luxor - Pharaoh's Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YLXE",
+      "size": 8388608,
+      "crc32": "f4125b7b",
+      "md5": "ff7c515f8ae5a5282b3c62e2b731fbd2",
+      "sha1": "cf164b3d7cce8dc304d4aecacda6c2a80efb0374"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42879
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Luxor%20-%20Pharaoh%27s%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Luxor%20-%20Pharaoh%27s%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Luxor%20-%20Pharaoh%27s%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Luxor%20-%20Pharaoh%27s%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Luxor%20-%20Pharaoh%27s%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Luxor%20-%20Pharaoh%27s%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

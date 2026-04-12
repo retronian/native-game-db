@@ -1,0 +1,39 @@
+{
+  "id": "dragon-warrior-i-and-ii",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Warrior I & II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ドラゴンクエスト I.II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "71d693da",
+      "md5": "c3987a4d734c37b7d8324f654a45de70",
+      "sha1": "01c4e2145365a12560d162116378f1991807ef95"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205230
+  }
+}

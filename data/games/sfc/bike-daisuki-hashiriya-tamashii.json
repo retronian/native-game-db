@@ -1,0 +1,66 @@
+{
+  "id": "bike-daisuki-hashiriya-tamashii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bike Daisuki! Hashiriya Tamashii",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バイク大好き! 走り屋魂",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バイク大好き! 走り屋 Rider's-Spirits 魂",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bike Daisuki! Hashiriya Tamashii (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b363fc99",
+      "md5": "9bc21069d1c9eba86dad2ba0e994e5a1",
+      "sha1": "d0457fc27adff1b0ad236535f60f91711b15f0db",
+      "sha256": "3fb25a3b30e897455de88e9e1d5ff2df81e56b89f3fe7b7d9e0248a19a146b4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bike%20Daisuki%21%20Hashiriya%20Tamashii%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bike%20Daisuki%21%20Hashiriya%20Tamashii%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bike%20Daisuki%21%20Hashiriya%20Tamashii%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

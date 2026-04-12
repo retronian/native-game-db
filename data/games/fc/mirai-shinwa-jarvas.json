@@ -1,0 +1,68 @@
+{
+  "id": "mirai-shinwa-jarvas",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mirai Shinwa Jarvas",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "未来神話ジャーヴァス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mirai Shinwa Jarvas (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8001c56b",
+      "md5": "4ed04f6e38be9538d90d5f295ef5ce09",
+      "sha1": "91c6eb7834786b7f0430e575ee4d108dbb719b9c",
+      "sha256": "f43b1fb5efe1940807cb1d4cfa61ba90e4fc8cdc2323a6daf77ef3cc4ec00c32"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48425
+  },
+  "descriptions": [
+    {
+      "text": "未来神話ジャーヴァスは、タイトーによって開発・発売されたRPGです。物語は、未来から過去の世界を征服し、リーダーになるためにタイムトラベルする男、ジャーヴァスの冒険を描いています。人々を味方に引き入れ、敵の城を奪取する必要があります。\n\nこのゲームは、一般的に多くの人からあまり良くないと見なされています。ゲームを始めると、あなたがどこにいるのか、どこに向かうべきなのかについての情報は一切与えられません。町を見つけると、ギルドに参加する必要があります。十分な経験値を蓄積した後、ギルドに戻ることでのみレベルを上げることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mirai%20Shinwa%20Jarvas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mirai%20Shinwa%20Jarvas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mirai%20Shinwa%20Jarvas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

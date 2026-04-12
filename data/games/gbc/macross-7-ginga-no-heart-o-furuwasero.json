@@ -1,0 +1,64 @@
+{
+  "id": "macross-7-ginga-no-heart-o-furuwasero",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Macross 7 - Ginga no Heart o Furuwasero!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マクロス7 Macross 銀河のハートを奮わせろ!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2b7abba4",
+      "md5": "4fa0f6e7388f072c8bb76761f8068868",
+      "sha1": "88746c361cfbdac49e5d72807b396a6667c42229"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメを基にしたシューティングゲームです。あなたの艦を操作して、数多くのステージをクリアしましょう。ボスバトルでは、曲のリズムに合わせて特殊攻撃を発動して戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Macross%207%20-%20Ginga%20no%20Heart%20o%20Furuwasero%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Macross%207%20-%20Ginga%20no%20Heart%20o%20Furuwasero%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Macross%207%20-%20Ginga%20no%20Heart%20o%20Furuwasero%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

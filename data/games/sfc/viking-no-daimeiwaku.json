@@ -1,0 +1,57 @@
+{
+  "id": "viking-no-daimeiwaku",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Viking no Daimeiwaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バイキングの大迷惑",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Viking no Daimeiwaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "50fef979",
+      "md5": "0113ea2e60f90bf1c79be5545cbd466d",
+      "sha1": "7820419c0f1e70bd88a6c9de26a872556251deae",
+      "sha256": "be749f086231e9be05ac3927cb45520dcd3dc45ca8a57f8a700e650576588827"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Viking%20no%20Daimeiwaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Viking%20no%20Daimeiwaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Viking%20no%20Daimeiwaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

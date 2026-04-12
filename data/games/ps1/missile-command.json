@@ -1,0 +1,77 @@
+{
+  "id": "missile-command",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Missile Command",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Missile Command (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 201365760,
+      "crc32": "33ce26ce",
+      "md5": "b4216830449862ed2efe5bb0ab6b7ee0",
+      "sha1": "4cd479469ce9771ce08266cafc7f42dd0f5f54eb",
+      "sha256": "c7680c4c08cd068513cd3fac4fd920065b6062c0302821e4647fc645a5277ddf"
+    },
+    {
+      "name": "Missile Command (Germany)",
+      "source": "no_intro",
+      "size": 378915792,
+      "crc32": "3b09e043",
+      "md5": "190d6321bbe8b312dd5080675b3eb506",
+      "sha1": "c40a9d9ca48e365220816dc6cf1b5e853621faf2"
+    },
+    {
+      "name": "Missile Command (Russia)",
+      "source": "no_intro",
+      "size": 378948576,
+      "crc32": "6fe587a1",
+      "md5": "9e89f0aa7c9f62594eddb080a51d353b",
+      "sha1": "5adbf5cfa5e28471455bf2db6c987e5c2166721f"
+    },
+    {
+      "name": "Missile Command (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 378778112,
+      "crc32": "fc0261b4",
+      "md5": "fba21f73b5942f1d29fb1a7d4fda080d",
+      "sha1": "ea32dc25eaa23eca2aca2507dd23e46684b89a4a",
+      "sha256": "e3cae6cc2e7f5b896996edc9e1dcaebb5e955de8f33b28de1d420e6b5912c930"
+    }
+  ],
+  "external_ids": {
+    "igdb": 69142
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Missile%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Missile%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Missile%20Command%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "carcassonne",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Carcassonne",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Carcassonne (Europe) (En,Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCAP",
+      "size": 16777216,
+      "crc32": "005bd392",
+      "md5": "c71178e090d6ebe22e5fa5abd49acf8c",
+      "sha1": "7d83a992460650d3aa9590efc7580fffc1676a55",
+      "sha256": "e51b26ebb4902e1e69f3bcc485a7864fe2f6e552e43a92c66eb3e98b42d7b06a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Carcassonne%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Carcassonne%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

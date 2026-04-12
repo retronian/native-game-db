@@ -1,0 +1,65 @@
+{
+  "id": "konami-arcade-game-collection",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konami Arcade Game Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コナミアーケードゲームコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konami Arcade Game Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKCJ",
+      "size": 4194304,
+      "crc32": "285f652f",
+      "md5": "247f637c17f7c8d996a4ab48f3398f06",
+      "sha1": "6b4db5fa184d60377e9fbd269e666a19b4080101"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "コナミのコレクターズシリーズ：アーケードアドバンスに、6つのコナミアーケードクラシックが登場します。10年以上ぶりに、クラシックヒット「フロッガー」のオリジナルアーケード版をプレイできます。太陽系を探索し、時空を旅し、敵基地に潜入する「ギャイラス」、「タイムパイロット」、「ラッシュアタック」、「スクランブル」。さらに、「イー・アル・クンフー」で武道の腕前を試しましょう。グラフィック、レベル、難易度、マルチプレイヤーモードが向上したコナミのコンピレーションは、彼らの偉大なゲームが年を重ねるごとに進化することを示しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-05-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Konami%20Arcade%20Game%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Konami%20Arcade%20Game%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Konami%20Arcade%20Game%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

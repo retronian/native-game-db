@@ -1,0 +1,49 @@
+{
+  "id": "rockman-zx",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman ZX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman ZX (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARZJ",
+      "size": 67108864,
+      "crc32": "b577bbe0",
+      "md5": "f6c576c29a5b03dbcbaac0b4b97ebe30",
+      "sha1": "b4eee084bc16bf67c5eb43733549c26a747d94a9",
+      "sha256": "1fc89ed136af22d7f28318afa06a8eb72ce40a917727a17bfd827c91261c04e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rockman%20ZX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rockman%20ZX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rockman%20ZX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

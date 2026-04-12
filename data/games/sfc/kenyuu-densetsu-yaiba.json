@@ -1,0 +1,79 @@
+{
+  "id": "kenyuu-densetsu-yaiba",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kenyuu Densetsu Yaiba",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "剣勇伝説YAIBA",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "剣勇伝説Yaiba ヤイバ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kenyuu Densetsu Yaiba (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "91fe7070",
+      "md5": "4e09584e02a88dccb7475831e7890511",
+      "sha1": "a3c391d3ae370467b8af9fd91a430e8b6098f9da",
+      "sha256": "8511950f35be6bc2afd4a8dc2cf7fcbb73a98f42391cb07b7d062a91eff4ba51"
+    },
+    {
+      "name": "Kenyuu Densetsu Yaiba (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "03bee69b",
+      "md5": "3ccb28a1fb565d47ad3b2cf83952fbbc",
+      "sha1": "3066ac24c7ac798316eec78952f647909f3af2fe",
+      "sha256": "e270958f634deea7b356f2eaffb574305f2faf68f4dc01e03ce0529525211548"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38181
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kenyuu%20Densetsu%20Yaiba%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

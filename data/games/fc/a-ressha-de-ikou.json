@@ -1,0 +1,68 @@
+{
+  "id": "a-ressha-de-ikou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "A Ressha de Ikou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "A列車で行こう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "A Ressha de Ikou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 147472,
+      "crc32": "e3e40b00",
+      "md5": "5b70f779440a4606cea0ec3a19638fab",
+      "sha1": "a77fda649dc8a8bcee4f9c896cda7dfb4359a72a",
+      "sha256": "9053e6359e87bf1f9e7e8aee8ebbfd13414d359113dacec335552915bb8ad118"
+    }
+  ],
+  "external_ids": {
+    "igdb": 272827
+  },
+  "descriptions": [
+    {
+      "text": "「A列車で行こう」はシミュレーション建設ゲームです。タイトルは「A列車に乗ろう」と訳されます。プレイヤーは利用可能な資源を使って賑やかな鉄道センターを作り、利益を増やしていく必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/A%20Ressha%20de%20Ikou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/A%20Ressha%20de%20Ikou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/A%20Ressha%20de%20Ikou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

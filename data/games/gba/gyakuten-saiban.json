@@ -1,0 +1,126 @@
+{
+  "id": "gyakuten-saiban",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gyakuten Saiban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "逆転裁判",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gyakuten Saiban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASBJ",
+      "size": 8388608,
+      "crc32": "c88f0952",
+      "md5": "a476526adc63d7e287d905eb7251d120",
+      "sha1": "15c0e3389709bb275c42e99ed25212d09e49e361"
+    },
+    {
+      "name": "Gyakuten Saiban (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASBJ",
+      "size": 8388608,
+      "crc32": "a0f4801f",
+      "md5": "c5780d2cd4873e19434e54595722ed5d",
+      "sha1": "ea7dabc4f5330c89a341ca38067fb025de73c835",
+      "sha256": "6ee314d92d946a477d76aaefa15203eb083136ac562418fce862132515162c16"
+    },
+    {
+      "name": "Gyakuten Saiban (Japan) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASBJ",
+      "size": 8388608,
+      "crc32": "257e49f9",
+      "md5": "bbec581c212be984bcf2d4baf2b71207",
+      "sha1": "cbfdb29ec23d2169624136c938e6b822a4df0db0",
+      "sha256": "22b1d0d6dc65a6400e4350426bd7aec37e29a46735e74032874d9e7d8a19536b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 221280
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーは成歩堂 龍一となり、初めての事件に挑みます。プレイヤーは証人にさらなる情報を求め、証拠を注意深く調べ、被告を守るために「異議あり！」と叫ぶ勇気を持たなければなりません。\n\n全体で4つの事件があります。各事件では、成歩堂はストーリーを注意深く追い、すべてのシーンを丁寧に調べ、裁判で勝つためにすべての証拠を見つけなければなりません！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-10-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gyakuten%20Saiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gyakuten%20Saiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gyakuten%20Saiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gyakuten%20Saiban%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "pet-shop-monogatari-ds-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pet Shop Monogatari DS 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ペットショップ物語 DS 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pet Shop Monogatari DS 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B42J",
+      "size": 67108864,
+      "crc32": "3e47a83a",
+      "md5": "630ef207035abbb5163dff599d4ecf87",
+      "sha1": "fe2e8d6b298da10785704a991cc6359ddc971fb6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 259490
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pet%20Shop%20Monogatari%20DS%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pet%20Shop%20Monogatari%20DS%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

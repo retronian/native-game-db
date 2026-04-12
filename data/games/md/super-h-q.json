@@ -1,0 +1,66 @@
+{
+  "id": "super-h-q",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super H.Q.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーH.Q.",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super H.Q. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11163-00",
+      "size": 524288,
+      "crc32": "ab2c52b0",
+      "md5": "1801efc4655e4523f1b7221d6b169ec9",
+      "sha1": "0598e452e3d42b5e714bf5b32834000607483813",
+      "sha256": "43eee822891973acafa7ca532ba4c99bc4d6ee18e440015626e662ec6036ee3c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「スーパーH.Q.」は、いくつかの点で「チェイスH.Q.」に似ています：同じゲームプレイ、同じステージ数、同じ目的です。このゲームを聞いたことがない方のために説明すると、基本的には高速道路を走りながら、重罪を犯した5人の犯罪者を追いかけるゲームですが、時間との戦いです。犯罪者の車に追いつくと、衝突してダメージを与えることができます。十分なダメージを与えると、車が故障し、容疑者を逮捕できます。また、容疑者から大きく遅れている場合は、車に装備された最大3つのターボブースターを使用することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

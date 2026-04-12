@@ -1,0 +1,43 @@
+{
+  "id": "air-hockey",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Air Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Air Hockey (Brazil) (Mega Drive 4)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "00000000-00",
+      "size": 113698,
+      "crc32": "6557ad66",
+      "md5": "e413d9bbad2a949de8fe26a4b1d32592",
+      "sha1": "0ad5b757bde06f7bef86cf1b529b27935bfcf20a",
+      "sha256": "40281a79d2f6bbc8c5473a612564e7d79ddb95849def6ac517b031ab0e6be580"
+    },
+    {
+      "name": "Air Hockey (Europe) (Sega Reactor)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "GM 00000000-00",
+      "size": 117648,
+      "crc32": "630c21f1",
+      "md5": "d562d0640d8729a95f5b1d32d53e84e7",
+      "sha1": "55f406b24388298a32060a4f94352f4727cbe0ca",
+      "sha256": "514209014e850d0edf7b1cf8567a19c6a86f6fd4927db8257223843a2ea53b1e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 200667
+  }
+}

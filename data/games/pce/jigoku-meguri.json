@@ -1,0 +1,68 @@
+{
+  "id": "jigoku-meguri",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jigoku Meguri",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "地獄めぐり",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jigoku Meguri (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "cc7d3eeb",
+      "md5": "294f2aa990c9c2c71554a6e3e7c979ef",
+      "sha1": "1ac58fcd36ba6f757a927d1bfcf28added00111b",
+      "sha256": "a13e377d9656be7f189dca011463e08de516e97e16a957415cad2bd227ad83a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37709
+  },
+  "descriptions": [
+    {
+      "text": "ボンゼアドベンチャー、または地獄巡りは、同名の仏教僧ボンゼが神道・仏教の地獄を進んでいくアーケードプラットフォーマーです。彼は四方八方から悪魔や妖怪に襲われますが、祈りの数珠を使ってそれらを退けることができます。数珠は外に向かって弾むように投げ出されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Jigoku%20Meguri%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Jigoku%20Meguri%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Jigoku%20Meguri%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

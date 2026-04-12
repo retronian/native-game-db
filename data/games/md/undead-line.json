@@ -1,0 +1,69 @@
+{
+  "id": "undead-line",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Undead Line",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アンデッドライン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Undead Line (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-74013-00",
+      "size": 1048576,
+      "crc32": "fb3ca1e6",
+      "md5": "f7e2e19770ff41441f79d014bc963122",
+      "sha1": "cb9f248bfd19b16ed8a11639a73a6e90fa7ee79e",
+      "sha256": "94bfeae423b6b4ec12ef7f0591bcc761181821d006d4c9c470523d3bb9044669"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46178
+  },
+  "descriptions": [
+    {
+      "text": "アンデッドラインは、スクロール画面を持つトップダウンアーケードシューティングゲームで、コマンドーや他のゲームに似ています。プレイヤーは、敵モンスターに向かって弾を発射するキャラクター（MSX 2版では3種類から選択可能）を操作します。\n\n利用可能な6つのレベルはメニューで表示され、好きな順番で選択してプレイできます。各レベルの最後にはボスバトルがあります。\n\nパワーアップが入った宝箱がレベル全体に散らばっています。宝箱は撃つことで開き、ジェネシス版では撃ち続けることで利用可能なパワーアップを切り替えることができます。パワーアップには、アーマーやスピードブースト、さまざまな種類の弾薬が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Undead%20Line%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Undead%20Line%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Undead%20Line%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

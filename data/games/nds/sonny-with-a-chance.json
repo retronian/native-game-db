@@ -1,0 +1,67 @@
+{
+  "id": "sonny-with-a-chance",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sonny with a Chance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sonny with a Chance (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VSNE",
+      "size": 67108864,
+      "crc32": "30dd90b9",
+      "md5": "8d9343b8ac283736d29ed64f54ba2edf",
+      "sha1": "9ccae6dd7d0dc7f16926d848a6a9f71233fb61b5"
+    },
+    {
+      "name": "Sonny with a Chance (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VSNV",
+      "size": 67108864,
+      "crc32": "f77a20b1",
+      "md5": "cbf87f63f06867e017f3f07ef3798232",
+      "sha1": "bd025983e2464c2612a17eb7753df34c40b93a63"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66903
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonny%20with%20a%20Chance%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonny%20with%20a%20Chance%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sonny%20with%20a%20Chance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sonny%20with%20a%20Chance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

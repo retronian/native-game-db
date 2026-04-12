@@ -1,0 +1,79 @@
+{
+  "id": "cloudy-with-a-chance-of-meatballs-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cloudy with a Chance of Meatballs 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cloudy with a Chance of Meatballs 2 (Europe) (En,Fr,De,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TCNX",
+      "size": 16777216,
+      "crc32": "12fff897",
+      "md5": "ab27eef49be7bf993ef85da6c5629f21",
+      "sha1": "1a948dc0335d41c9c24abb276f6cf2bbfbfbc479"
+    },
+    {
+      "name": "Cloudy with a Chance of Meatballs 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TCNE",
+      "size": 16777216,
+      "crc32": "130fee13",
+      "md5": "e7bc9a46ab6f5dccd7e853b1fd0cf53b",
+      "sha1": "b5107e2e07441f2b3309252a01c586b44d48c900"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44011
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

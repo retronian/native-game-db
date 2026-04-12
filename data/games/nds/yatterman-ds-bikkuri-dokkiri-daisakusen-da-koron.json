@@ -1,0 +1,68 @@
+{
+  "id": "yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yatterman DS - Bikkuri Dokkiri Daisakusen da Koron",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヤッターマンDS ビックリドッキリ大作戦だコロン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Yatterman DS: The Great Thrilling Operation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yatterman DS - Bikkuri Dokkiri Daisakusen da Koron (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YUAJ",
+      "size": 67108864,
+      "crc32": "707f0c1d",
+      "md5": "8be907fe867453723a5b937ea70174e0",
+      "sha1": "9da69efc969e7284f61a4503960c6af27411e768"
+    }
+  ],
+  "external_ids": {
+    "igdb": 354955
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Yatterman%20DS%20-%20Bikkuri%20Dokkiri%20Daisakusen%20da%20Koron%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Yatterman%20DS%20-%20Bikkuri%20Dokkiri%20Daisakusen%20da%20Koron%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Yatterman%20DS%20-%20Bikkuri%20Dokkiri%20Daisakusen%20da%20Koron%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "hanasaka-tenshi-tenten-kun-no-beat-breaker",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hanasaka Tenshi Tenten-kun no Beat Breaker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "花さか天使 テンテンくんのBeatBreaker ビートブレイカー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hanasaka Tenshi Tenten-kun no Beat Breaker (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6e988c07",
+      "md5": "500c3ad63568b78fe3df71782bdf8592",
+      "sha1": "791ea554de774de622bb4fb6bc2bf42955a201b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228500
+  },
+  "descriptions": [
+    {
+      "text": "「花さか天使 テンテンくんのBeatBreaker」は、ゲーム「サイモン」とマッチ3パズルゲームのハイブリッドです。プレイには4つのボタンが必要で、コントロールパッドの左右とAボタン、Bボタンを使用します。ゲーム画面は上下に分かれており、上半分には8つの列があり、その下にストライプのライン、さらにその下に空白の白いエリアがあります。ゲーム画面の左側にはタイムバーが表示されており、ラウンドをクリアするごとにバーが増加します。バーが時計の上部に達するとレベルがクリアとなります。白いエリアがストライプのラインを超えて満杯になるとゲームオーバーです。\n\n各ラウンドでは、特定のリズムで8つの音符が演奏されます。音符が演奏された後、再度演奏され、今度は各音符が演奏されるたびに円が列から落ちてきます。あなたの目標は、円がストライプのラインに達したときにボタンを押すことで、円を矢印やAまたはBのマークが付いたカラフルな円に変えることです。これらはゴミ箱に落ちます。音符を押し損ねると、円は黒い怒った顔の円に変わり、クリアするのが難しくなります。十分なビートを正しく行うと、幸せな顔の円が現れ、これがワイルドカードとして機能します。\n\n3つ以上のカラフルな円が横に並ぶと、画面から消え、ポイントが得られます。同じボタンをタイミングよく何度も押すことでレベルをクリアすることもできますが、他のボタンを使ってコンボを組むことで、より大きなポイントを得ることができます。また、音符を間違って押すと、別のボタンのシンボルが落ちてくることがあり、それを戦略的にクリアする必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hanasaka%20Tenshi%20Tenten-kun%20no%20Beat%20Breaker%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hanasaka%20Tenshi%20Tenten-kun%20no%20Beat%20Breaker%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hanasaka%20Tenshi%20Tenten-kun%20no%20Beat%20Breaker%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

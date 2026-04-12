@@ -1,0 +1,51 @@
+{
+  "id": "harry-potter-collection",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Harry Potter Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 33554432,
+      "crc32": "4f39c174",
+      "md5": "e49b33123bea5e4ff7d74fd06409fd85",
+      "sha1": "1af909d2e9604501b094da95dd3e4d96e72778e8",
+      "sha256": "2b25db2cd9a76f07a53225da840d39469be12744f3f566a74c8a510e2102b38a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49468
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Harry%20Potter%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Harry%20Potter%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Harry%20Potter%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

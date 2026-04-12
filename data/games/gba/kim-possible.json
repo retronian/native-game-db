@@ -1,0 +1,122 @@
+{
+  "id": "kim-possible",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kim Possible",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マリオ＆ルイージRPG",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kim Possible (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEYP",
+      "size": 8388608,
+      "crc32": "0c35d0fc",
+      "md5": "b6af8c28bcb17fb7564aa638eda471ef",
+      "sha1": "d0b5ab22924481efccafd2ac10bab93cca4085d6",
+      "sha256": "f442ac329d1c1be68d367087e96b9a4320430fe2e2cd68f51e15ddbc257c02b0"
+    },
+    {
+      "name": "Kim Possible (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKMJ",
+      "size": 8388608,
+      "crc32": "69843f73",
+      "md5": "dc10ed7d9f86453ceb1303c9585bf8ff",
+      "sha1": "298448c533d1733672e3cb1e6860e8443d38e643"
+    },
+    {
+      "name": "Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AEYP",
+      "size": 8388608,
+      "crc32": "48428c2a",
+      "md5": "09bc6ab258b83508be5e9a0eb11417d4",
+      "sha1": "1df47750be1b14faed828fae3719cd18d3bf47fb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "キム・ポッシブルの仲間ロン・ストッパブルが悪の忍者マスター、モンキー・フィストに誘拐されてしまった！キムと共に、ドクター・ドラッケンやシーゴ、そしてもちろんモンキー・フィストといったおなじみの敵と戦いながら、世界中を旅してロンを探し出そう。\n\n「モンキー・フィストの復讐」は、プレイヤーがキム・ポッシブルを操作する横スクロールのプラットフォーマーゲームです。キムは敵を倒すために使えるパンチやキック、アクロバティックな動きの数々を持っています。さらに、レーザー口紅やコンパクトケース爆弾、無敵時計などのハイテクガジェットも豊富に揃っています。キムの仲間ウェイドは、時折彼女に連絡を取り、有益なヒントやアドバイスを提供してくれます。\n\nゲームを進めることで、レベルに散らばっている宝石を集めることで写真をアンロックできます。また、ゲームの8つのステージを進む中で、ショートクリップもアンロックすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-11-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kim%20Possible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kim%20Possible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kim%20Possible%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kim%20Possible%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

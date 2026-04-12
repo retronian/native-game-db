@@ -1,0 +1,65 @@
+{
+  "id": "pazuninn-umininn-no-puzzle-de-nimu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pazuninn - Umininn no Puzzle de Nimu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズにん〜うみにんのパズルでにむ〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pazuninn - Umininn no Puzzle de Nimu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BPZJ",
+      "size": 4194304,
+      "crc32": "8daa89c9",
+      "md5": "a1d050c200887e57004413a62dcc5d89",
+      "sha1": "5f1f0f73593c2257ec723e39f3c0e4407ef1b223"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ジェムスマッシャーズ」は、色付きの宝石を壊して閉じ込められた動物たちを救うアクションパズルゲームです。プレイヤーは、時間が切れる前に同じ色の宝石を消すために、三匹の先史時代のクリッターのうちの一匹を操作します。しかし、宝石を壊す前に、プレイヤーはまず正しいパワーアップを見つけてキャラクターを適切な色に変身させなければなりません。そうすることで初めて、すべての宝石を消し去り、囚われた動物たちが逃げ出せる隠された出口を見つけることができます。ゲームモードにはストーリー、アーケード、対戦バトルがあり、プレイ中に追加の3つのバリエーションがアンロックされます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-11-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pazuninn%20-%20Umininn%20no%20Puzzle%20de%20Nimu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pazuninn%20-%20Umininn%20no%20Puzzle%20de%20Nimu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pazuninn%20-%20Umininn%20no%20Puzzle%20de%20Nimu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

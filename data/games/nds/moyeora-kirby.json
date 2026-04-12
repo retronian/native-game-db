@@ -1,0 +1,48 @@
+{
+  "id": "moyeora-kirby",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moyeora! Kirby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moyeora! Kirby (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "TADK",
+      "size": 67108864,
+      "crc32": "c6bb490e",
+      "md5": "4da1148ae5bfaaa8b13116b864956eb6",
+      "sha1": "b60b1e6a682ea8f2b871372761049ffb224cb92e",
+      "sha256": "f1e53b380f4161bf0aa2dc12cc1babfdcc485454204980a77328d98436e74829"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moyeora%21%20Kirby%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Moyeora%21%20Kirby%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moyeora%21%20Kirby%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "f-15-super-strike-eagle",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F-15 Super Strike Eagle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "F-15 スパーストライクイーグル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F-15 Super Strike Eagle (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f0202e26",
+      "md5": "ec79afdcc3b7b87115b5216e1eb4a2d8",
+      "sha1": "40b6dd3958edc0e39c9c40ebee7675419b9b2fa6",
+      "sha256": "ecd1347abcf550e90d2d86710bdcc9164af60f35fa1278786eba8a1c38101d88"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マイクロプローズの「F-15 ストライクイーグル」シリーズがスーパーファミコン向けに帰ってきました。「スーパーストライクイーグル」では、F-15のコックピットに乗り込み、さまざまな政府を国連に戻すために奮闘します。\n\nそのためには、プレイヤーは標的を爆撃し、敵の戦闘機を撃墜し、艦船を沈める必要があります。ゲームプレイは、一人称視点と三人称視点の両方で行われます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/F-15%20Super%20Strike%20Eagle%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/F-15%20Super%20Strike%20Eagle%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/F-15%20Super%20Strike%20Eagle%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

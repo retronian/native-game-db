@@ -1,0 +1,61 @@
+{
+  "id": "devilish-the-next-possession",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Devilish - The Next Possession",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バッドオーメン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Devilish - The Next Possession (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-47066-00",
+      "size": 524288,
+      "crc32": "d3f300ac",
+      "md5": "6fa7cd092a175c9040b318d289ffff93",
+      "sha1": "bc6f346a162cf91a788a88e44daa246d3d31ee8b",
+      "sha256": "f886381812e534843db9c391f5c1684b706df8453f03712dfd278d896b84cb2a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46222
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Devilish%20-%20The%20Next%20Possession%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Devilish%20-%20The%20Next%20Possession%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Devilish%20-%20The%20Next%20Possession%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "poke-inu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Poke Inu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケいぬ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Poke Inu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BTDJ",
+      "size": 8388608,
+      "crc32": "1d379dcc",
+      "md5": "b468236a140da4ee89286878a0964e9f",
+      "sha1": "094fd4cc7d176bcb32e6ed4d667c4c9d3c354c92"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ポケいぬ」では、8種類の異なる犬と交流し、人間と犬の関係を改善することを目指します。犬と会話ができ、対話は犬種によって異なります。また、犬とおもちゃを共有することで、遊びに誘うこともできます。プレイヤーは、タイトルに含まれる3つのミニゲームを通じて自分自身でも遊ぶことができます。ミニゲームをプレイすることで、宝石を獲得でき、それを使って犬のためのアイテムを購入したり、犬の生活空間を飾ったりすることができます。登場する犬種には、パグ、チワワ、シーズーが含まれています。「ポケいぬ」は、魚眼レンズで撮影されたかわいい犬たちを特徴とするおもちゃとギフトのブランド「ハナデカクラブ」との共同開発です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-12-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Poke%20Inu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Poke%20Inu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Poke%20Inu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

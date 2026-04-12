@@ -1,0 +1,43 @@
+{
+  "id": "transformers-prime",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Transformers Prime",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Transformers Prime (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TPTE",
+      "size": 134217728,
+      "crc32": "93a31703",
+      "md5": "d67b34c1a774af7ebbc940cd7f0d965b",
+      "sha1": "708a6678078a318bdb7e8fa4566d3b5ffedbe4b5",
+      "sha256": "dd9ff310fc4bae2f40b3f52a0ffc76b2c7294fae3556a341736cf45823e431e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Transformers%20Prime%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Transformers%20Prime%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "little-magic",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Magic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リトルマジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Magic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ca38283d",
+      "md5": "2bb74ace01cabe5d71dfcc329179b4ae",
+      "sha1": "4cd610be44a9fbfde9de81167f1e4051a62b01a9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 81331
+  },
+  "descriptions": [
+    {
+      "text": "リトルマジックは、アルトロンが開発・発売したパズルゲームで、1999年に日本でリリースされました。最近、魔法が大流行しています。人気のある女の子たちは皆魔法を練習しており、若きメイもその輪に入りたいと思っています。彼女の努力にもかかわらず、彼女が扱える魔法の呪文は魔法のバブルを作ることだけのようです。それでも、メイは限られた能力の中でも魔法学校を卒業することを決意しています。彼女の前にある道は不可能に思えますが、彼女の強い意志によって、何も彼女の行く手を阻むことはできません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "wanko-de-kururin-wancle",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wanko de Kururin! Wancle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワンコでくるりん！ワンクル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wanko de Kururin! Wancle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BWKJ",
+      "size": 8388608,
+      "crc32": "e93f547b",
+      "md5": "2b75a8546e9faf9b404616a68f029db0",
+      "sha1": "a949eba63c696b7c4e5ebf99eaba29eb3e06d2ce"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "かわいい犬の落ち物パズルゲームです。同じ色の犬をケージに並べることで、犬をケージに入れることができます。犬たちが一列に並ぶと、一度にケージに入って高得点を獲得します。フィールドに積み上げられた犬たちは、寝ていたり骨を持っていたりと様々な表情を見せます。犬たちの可愛い表情を楽しみながら、ケージに連れて行きましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wanko%20de%20Kururin%21%20Wancle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wanko%20de%20Kururin%21%20Wancle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wanko%20de%20Kururin%21%20Wancle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pachinko-tetsujin-nanaban-shoubu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Tetsujin - Nanaban Shoubu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチンコ鉄人　七番勝負",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Tetsujin - Nanaban Shoubu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "a1ebb364",
+      "md5": "7b9f09fa8323959b56e43880b23fa43a",
+      "sha1": "51582d23c7d5720042ba800f5d310365586d3841",
+      "sha256": "87e8e3f8b4fc83d2e56662c8b6844b104f6b562744c090d96cdacfcb9523af39"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pachinko%20Tetsujin%20-%20Nanaban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pachinko%20Tetsujin%20-%20Nanaban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pachinko%20Tetsujin%20-%20Nanaban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

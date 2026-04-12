@@ -1,0 +1,47 @@
+{
+  "id": "imagefight",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ImageFight",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "イメージファイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "ImageFight (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1089c62e",
+      "md5": "36409afe0f57ad080e43d780f9582cce",
+      "sha1": "cdfda8e5f8aa6fd147b239fbf805043b56ccd482",
+      "sha256": "9a3c53907bc6939c347d8efeffd5f7833356c49440f88dbcc04d6d256ccf9aed"
+    },
+    {
+      "name": "ImageFight (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "1173363f",
+      "md5": "c01f0ea3a908531fef1581350483e3a1",
+      "sha1": "e57bd7b6c91f8a80c34b7c3a2ab3a8ded9f4b9c9",
+      "sha256": "ec027effc21d7e2ce8af748db8a2ce5d6f0cc0eb642f46c49ba44c813ec1d223"
+    }
+  ]
+}

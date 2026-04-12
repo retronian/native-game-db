@@ -1,0 +1,68 @@
+{
+  "id": "puzzle-boy",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "faa6e187",
+      "md5": "6394145312caac816ca44af55dff9533",
+      "sha1": "f3d87e780683cd1873287069f4758581bb848935",
+      "sha256": "c4c3759460edd5fd523a5d7d224046dffe26cb12c0af8f35e549daba15a5a369"
+    }
+  ],
+  "external_ids": {
+    "igdb": 250213
+  },
+  "descriptions": [
+    {
+      "text": "パズルボーイは、ゲームボーイのタイトル「クワーク」の移植版ですが、より多くの異なるレベルと変更されたグラフィックが特徴です。オリジナル版とは異なり、視点は真上からの俯瞰で、アンドゥ機能はありません。\n\nしかし、ゲームプレイに関しては、これは依然としてソコバンのバリエーションです。プレイヤーは迷路に入り込み、出口への道を見つける必要があります。道中の障害物は押すことができる箱、引くことはできない箱、穴、回転扉です。このゲームには、特に100レベルのレベルモードを含む3つのプレイモードがあります。これらはそれぞれ20レベルずつの4つのセットに分かれており、各セットには難易度が設定されています。すべてのセットを解決すると同じエンディングが得られます。他の2つのモードは、制限時間内に10レベルを解くチャレンジモードと、スプリットスクリーンのマルチプレイヤーモードです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Puzzle%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Puzzle%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Puzzle%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

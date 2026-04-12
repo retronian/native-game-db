@@ -1,0 +1,67 @@
+{
+  "id": "hamster-paradise",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Paradise",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスターパラダイス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Paradise (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f520cb19",
+      "md5": "81f4cbffbed0638f59a16203c07e364b",
+      "sha1": "87ebc7e0cfb0803e6e14da7eec1b2fad51c83ba0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228499
+  },
+  "descriptions": [
+    {
+      "text": "「ハムスターパラダイス」では、かわいいハムスターをペットにすることができます。ハムスターの行動や性格は、育て方やお世話の仕方によって変わります。愛情を持って育てると、ハムスターはトリック（ボールに乗るなど）を披露したり、さまざまなジェスチャーを見せたりします。通信ケーブルを使って友達のハムスターに会ったり、レースゲームで競争したりすることもできます。ハムスターの面白いジェスチャーを写真に撮って、プリンターで印刷することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-02-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Paradise%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Paradise%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Paradise%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

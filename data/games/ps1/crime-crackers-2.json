@@ -1,0 +1,60 @@
+{
+  "id": "crime-crackers-2",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crime Crackers 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クライムクラッカーズ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crime Crackers 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 488558320,
+      "crc32": "5871dc34",
+      "md5": "f72a97ec8acdf888fac8d542a891618f",
+      "sha1": "4602d95b742b587eef64ccd05a3ec14a78820774",
+      "sha256": "e8c4fe126321d38943e0d2e64ce764e184bde0b2a250009b5f2b9c4cb055ffb0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65344
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crime%20Crackers%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crime%20Crackers%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crime%20Crackers%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

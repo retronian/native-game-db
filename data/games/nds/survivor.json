@@ -1,0 +1,51 @@
+{
+  "id": "survivor",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Survivor",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Survivor (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YL8E",
+      "size": 16777216,
+      "crc32": "2a840d3d",
+      "md5": "0f8444583d6c07740a617024888abd00",
+      "sha1": "415c7a52c8507df143e73e0a9863d659e99aab9d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 208346
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Survivor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Survivor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Survivor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

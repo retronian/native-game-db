@@ -1,0 +1,60 @@
+{
+  "id": "monaco-grand-prix",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monaco Grand Prix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Monaco Grand Prix: Racing Simulation 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monaco Grand Prix (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NMGE",
+      "size": 16777216,
+      "crc32": "e2bbeac1",
+      "md5": "4ff9589a3224aaa46e9877d6b25e68e3",
+      "sha1": "477f945dc38f930336e0d05cfdcba2c4c30f6a31"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3413
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Monaco%20Grand%20Prix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Monaco%20Grand%20Prix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Monaco%20Grand%20Prix%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

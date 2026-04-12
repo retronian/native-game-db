@@ -1,0 +1,50 @@
+{
+  "id": "nascar-racers",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NASCAR Racers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "NASCAR Racers (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "f39a5c4f",
+      "md5": "144ab8295663f4dc4bcd810c5cdafe60",
+      "sha1": "2e1b822afa8537cd7b2be8d608c4c000b5b59d46"
+    }
+  ],
+  "external_ids": {
+    "igdb": 370458
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/NASCAR%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/NASCAR%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/NASCAR%20Racers%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

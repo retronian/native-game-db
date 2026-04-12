@@ -30,6 +30,15 @@
       "form": "alternate",
       "source": "wikidata",
       "verified": true
+    },
+    {
+      "text": "파이널 판타지 VI",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "descriptions": [
@@ -49,7 +58,8 @@
     "rpg"
   ],
   "external_ids": {
-    "wikidata": "Q941933"
+    "wikidata": "Q941933",
+    "igdb": 426
   },
   "roms": [
     {
@@ -165,6 +175,21 @@
       "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20III%20%28USA%29%20%28Beta%29.png",
       "source": "libretro_thumbnails",
       "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20VI%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Final%20Fantasy%20VI%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20VI%20%28USA%29.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

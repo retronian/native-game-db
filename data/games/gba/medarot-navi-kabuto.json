@@ -1,0 +1,94 @@
+{
+  "id": "medarot-navi-kabuto",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot Navi - Kabuto",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット・ナビ カブト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot Navi - Kabuto (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANAJ",
+      "size": 8388608,
+      "crc32": "15450b63",
+      "md5": "bbcd12ea6a44f220b40a196edfd2580b",
+      "sha1": "3135545e02fa5557dda0976165cf5c7f3c0b6f8e"
+    },
+    {
+      "name": "Medarot Navi - Kabuto (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANAJ",
+      "size": 8388608,
+      "crc32": "a3d573bb",
+      "md5": "06d6a0c54470197ffc3d0bde2dda591e",
+      "sha1": "e2c8587f2338bc1a02866878d5c9cae84b2218b0",
+      "sha256": "51d5601ece0266bd842ed29d5c01b1dac55d54eb8902bc5b076e6441338cee64"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "メダロット・ナビは、ゲームボーイアドバンス用にリリースされたメダロットシリーズの最初のゲームです。カブトバージョン（グランビートルが代表）とクワガタバージョン（ソニックスタッグが代表）の2つのバージョンで発売されました。このゲームでは、シリーズの前作とは異なる主人公、メガネをかけた少年アサノ カスミが登場します。彼は廃校の講堂の下でエイリアンのメダロット、ミストラルを発見します。クラスのフィールドトリップがクラスタースペースステーションに向かう途中、さまざまなモジュールへの「追放」とスペースロボの出現によって混乱が生じます。\n\n他のシリーズ作品がチャージ/クールダウンの「リレー競技」サイクルを採用しているのに対し、メダロット・ナビはファイアーエムブレムに近いタイル状の9x9マップを特徴としており、ファイナルファンタジータクティクスに似たイニシアティブシステムを採用しています。移動やパートアクションは、ターンの開始時に配布され、メダロットが行動する際に消費される「アクションポイント」を使用して行われます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-09-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Medarot%20Navi%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Medarot%20Navi%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Medarot%20Navi%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Medarot%20Navi%20-%20Kabuto%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Medarot%20Navi%20-%20Kabuto%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Medarot%20Navi%20-%20Kabuto%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

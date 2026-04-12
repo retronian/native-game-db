@@ -1,0 +1,66 @@
+{
+  "id": "yoshi-sample",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yoshi Sample",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yoshi Sample (Japan) (En) (Tech Demo)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 1717944,
+      "crc32": "34f2ef47",
+      "md5": "d4a4550a42646e58df0445756e004d8e",
+      "sha1": "71b87b9684babfe5751a9fb6642ace5a927f21e0",
+      "sha256": "3fc4d47368c23053ad84fcee0663d0060f4a314f908f643c3d5b03e16e56b3b1"
+    },
+    {
+      "name": "Yoshi Sample (Japan) (En) (SDK 3.0) (Tech Demo)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGBJ",
+      "size": 2273956,
+      "crc32": "954d2619",
+      "md5": "5b60a8135aa25e5f10578ebff120a9d8",
+      "sha1": "89fe5c0b5489a14f5f9bb1d4ebde998f07c4f939",
+      "sha256": "02eed9c1c0262d73ad06c2a96dfea034889520624ceda3dc6354cb9c1da32731"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yoshi%20Sample%20%28Japan%29%20%28En%29%20%28Tech%20Demo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yoshi%20Sample%20%28Japan%29%20%28En%29%20%28Tech%20Demo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yoshi%20Sample%20%28Japan%29%20%28En%29%20%28SDK%203.0%29%20%28Tech%20Demo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yoshi%20Sample%20%28Japan%29%20%28En%29%20%28SDK%203.0%29%20%28Tech%20Demo%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

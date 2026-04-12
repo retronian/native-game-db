@@ -1,0 +1,69 @@
+{
+  "id": "super-robot-taisen-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦64",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NS4J",
+      "size": 33554432,
+      "crc32": "85df2771",
+      "md5": "3f4b73963abc91cee59c416063efd4ae",
+      "sha1": "9883aef6e20a46e110560c505999f3e21a1897de",
+      "sha256": "ee5f4a21d8e5f7827d21199e27800edf250df9a8e4d10befb1a6992df597b13e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44056
+  },
+  "descriptions": [
+    {
+      "text": "本作「スーパーロボット大戦64」の基本コンセプトは変わらず、プレイヤーはさまざまな日本のシリーズからのロボットやパイロットを指揮するターン制戦略ゲームです。登場するシリーズには、ダンクーガやさまざまなガンダムシリーズ、さらにバンプレストのオリジナル作品が含まれています。新たに追加された要素として、シックスゴッドコンビネーション ゴッドマーズ、ジャイアントロボ、モビルスーツガンダム 第08MS小隊があります。\n\nゲームの開始時に、プレイヤーは4組の主人公/ライバルの中から選択でき、これがストーリーやプレイするステージに影響を与えます。含まれるさまざまなバリエーションにより、100以上のミッションが用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Robot%20Taisen%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Super%20Robot%20Taisen%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Super%20Robot%20Taisen%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

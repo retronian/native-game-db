@@ -1,0 +1,54 @@
+{
+  "id": "baoxiao-sanguo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bàoxiào Sānguó",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "爆笑三国",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 92605
+  },
+  "roms": [
+    {
+      "name": "Baoxiao Sanguo (China) (Unl)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048592,
+      "crc32": "fda8c9c3",
+      "md5": "a4c231b8854a7a59564cb67b722db680",
+      "sha1": "75abf768050b6edfb50555b9ad8ab6bd80757219",
+      "sha256": "64e0d6ddd2eed7ad80517e5c9cc5095b8e02b445e3129af972fd26f935b18223"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Baoxiao%20Sanguo%20%28China%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Baoxiao%20Sanguo%20%28China%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

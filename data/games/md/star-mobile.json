@@ -1,0 +1,63 @@
+{
+  "id": "star-mobile",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Mobile",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スターモビール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Star Mobile (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXXXXXX-XX",
+      "size": 262144,
+      "crc32": "39466559",
+      "md5": "b44c1bb75a4bf3d340e2dccf65e91d0e",
+      "sha1": "b52517cfe78d752b3082c24a31b2b536d4c4acde",
+      "sha256": "6b75e68d3bd85bff5fbba6298170d8e46a2abd746d8b0dd01460e02d8094e9a8"
+    },
+    {
+      "name": "Star Mobile (Japan) (Mega Drive Mini 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "XXXXXXXX-XX",
+      "size": 262144,
+      "crc32": "e4d0d259",
+      "md5": "fbb375915dab3fa48c5f2ada7a31588f",
+      "sha1": "d23335da0988630d38bd4caa44a3fa9fb355277b",
+      "sha256": "f814c9babf9057dbc0be14fd20190aeb07f48634858abde64e271a759d3f8e32"
+    },
+    {
+      "name": "Star Mobile (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "XXXXXXXX-XX",
+      "size": 262144,
+      "crc32": "bc340ac0",
+      "md5": "431aa9b45b67a26f766b65bf13cdb1e0",
+      "sha1": "43d30a0fb4b1ccaa3adda4ae1de7ba050f94b8a3",
+      "sha256": "57f8eb0b5b1eaa6f0dd4e711ce61cb125e0a399f77bde4f6d0839ca5abb300fa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 41995
+  }
+}

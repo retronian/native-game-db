@@ -1,0 +1,65 @@
+{
+  "id": "gourmet-sentai-barayarou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gourmet Sentai Barayarou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "美食戦隊 薔薇野郎 ぐるめせんたい ばらやろう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gourmet Sentai Barayarou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "9f717d76",
+      "md5": "b29ea2c67d6ecabf99c22829058f710b",
+      "sha1": "8c0b12f4258ec74adb6a165c1e83b6cc20b97a60",
+      "sha256": "8d4e736e1876182a5cc6d9dcc3ca4eb36b16485bc35e2f40e750d023138ada43"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「美食戦隊 薔薇野郎」では、プレイヤーはボンジュール、マドモワゼル、トレ・ビアンの3キャラクターから選択します。それぞれは倒れた敵やスタンした敵に対して異なる技を持っていますが、全てのキャラクターはベルトスクロールのバトルゲームに共通するパンチ、投げ、ジャンプのアクションを持っています。キャラクターは各レベルでいくつかの小さな敵を倒し、最後に強力なボスと戦う必要があります。敵を倒すと料理の材料がドロップし、各レベルの最後には2つの材料を組み合わせて、選んだキャラクターが好むかどうかに応じて体力を回復する料理を作ることができます。環境はスラム街や宮殿、高速列車、宇宙船など多岐にわたりますが、全体的に異なるエリア間の連続性はあまりありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gourmet%20Sentai%20Barayarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gourmet%20Sentai%20Barayarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gourmet%20Sentai%20Barayarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

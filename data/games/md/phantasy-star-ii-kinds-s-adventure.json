@@ -1,0 +1,76 @@
+{
+  "id": "phantasy-star-ii-kinds-s-adventure",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star II - Kinds's Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタシースターII テキストアドベンチャー カインズの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 175508,
+      "crc32": "fb5a6ae4",
+      "md5": "218b9b1c4a282a8d9fb402af836a1d02",
+      "sha1": "1039420721050109131865295dcbebc0cb1531a1",
+      "sha256": "639c411b8bb574db1ae399636a35a32e29ea8a8752ee7f3e8af9a4c670e66f1e"
+    },
+    {
+      "name": "Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "c334f308",
+      "md5": "dbe39f02548beaae0aa652dc4874c09e",
+      "sha1": "f2bd41741add13e8551250cf6afeb746e8cea316",
+      "sha256": "256ea23be5581d01c24b1856e9c2ed011fa304ac1f42b83f706b0fa2b9fe8c0f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファンタシースターII テキストアドベンチャーは、セガメガネットのユーザー向けに提供された8つのテキストアドベンチャーゲームのシリーズで、日本のセガメガドライブ用のモデムとして利用されました。その後、セガメガCDの2つのコンピレーションの一部としてリリースされました。各ゲームはファンタシースターIIの直前に設定されており、登場キャラクターの背景を描き、彼らがアルゴル太陽系の問題を調査するために町パセオに集まる理由を説明しています。\n\nカインズの冒険：カイン（アメリカおよびヨーロッパ版ではジョシュ）は18歳の志望エンジニアです。彼は機械が大好きで、ロボットの仕組みを完璧に理解しています。多くの小さなデバイスを作り、コンピュータをハッキングする方法も知っています。しかし、夢見がちな性格のため、しばしば物を壊してしまいますが、それでも修理しようと努力します。最終的には「修理屋」としての才能が乏しいことに気づき、機械を壊すことにその才能を活かすことに決めましたが、正当な理由のためです。彼は母脳、アルゴル太陽系の偉大な電子頭脳を破壊するために反乱者のギャングに加わり、最終的にはファンタシースターIIでロールとチームを組むことになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20II%20-%20Kinds%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20II%20-%20Kinds%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20II%20-%20Kinds%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

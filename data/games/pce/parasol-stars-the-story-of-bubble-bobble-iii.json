@@ -1,0 +1,78 @@
+{
+  "id": "parasol-stars-the-story-of-bubble-bobble-iii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parasol Stars - The Story of Bubble Bobble III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パラソルスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parasol Stars - The Story of Bubble Bobble III (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "51e86451",
+      "md5": "d3d67a165f433a50e7e27bfbf395e706",
+      "sha1": "94a4c4b16435b043b0b985af446d8767602f5041",
+      "sha256": "648fa91c6edbf74b82dd0ff59513119ef52576ca51a833e2166bb802ab707c95"
+    },
+    {
+      "name": "Parasol Stars - The Story of Bubble Bobble III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "e6458212",
+      "md5": "dce241d9642866f75810f6ac3e3c6a4d",
+      "sha1": "c87524b4bd6e628e6f0551e8e50fded206ebe137",
+      "sha256": "144b7a2b652af5c9376abd0e6baea752bf12e832373191af596b689095409751"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42101
+  },
+  "descriptions": [
+    {
+      "text": "この「レインボーアイランド」の続編では、「バブルボブル」のゲームプレイが復活し、バブとボブが人間の姿で登場します。\n\n彼らは、悪者たちが登場する一連の画面をクリアしなければなりませんが、今回は「レインボーアイランド」の怒ったイモムシとは異なる、少し独特な形をしています。そして再びたくさんのパワーアップを手に入れます。\n\nしかし、今回は傘を持っています！ああ、そうですね、パラソルです…",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

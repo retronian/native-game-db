@@ -1,0 +1,86 @@
+{
+  "id": "beyblade-fighting-tournament",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beyblade - Fighting Tournament",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベイブレード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ベイブレード FIGHTING TOURNAMENT",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ベイブレード ファイティング・トーナメント",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beyblade - Fighting Tournament (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "1ec9db95",
+      "md5": "b061db3dd5861addeaf22a83af802491",
+      "sha1": "aca5562c6747bc2f127ada53f853b099ed6e12cd",
+      "sha256": "a861786fb6fe9a8f478cfbe34a87fc8c492bde0222a5fdd8f645fc263aa8e69c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65706
+  },
+  "descriptions": [
+    {
+      "text": "ベイブレードファイティングトーナメントは、リリースされた2番目のビデオゲームです。このゲームには、後にベイブレードシリーズで放棄されたコンセプトやアイデアがいくつか含まれていますが、多くのアイデアはマンガやアニメで引き続き展開されました。\n\n標準的なゲームプレイは、さまざまな場所を訪れ、プレイヤーがトーナメントを勝ち抜いて次のステージに進むというものです。各トーナメントに勝利するごとに、ゲームショップで購入可能なパーツやビットビーストが増えていきます。\nプレイヤーは、最初に「ドラグーン」、「ドラシエル」、「ドラザー」、「ドライガー」の4つのアーキタイプのうちの1つからスタートすることができます。初めはデフォルトでドラグーンしか選べませんでしたが、他のアーキタイプにアクセスするためのコードが雑誌で公開されました。\n\nただし、各試合では、発射を除いてプレイヤーはベイブレードがアリーナに入った後、ほとんど制御できず、多くの試合はプレイヤーのスキルよりも運やベイブレードの強さに基づいて勝敗が決まることが多かったです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Beyblade%20-%20Fighting%20Tournament%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Beyblade%20-%20Fighting%20Tournament%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Beyblade%20-%20Fighting%20Tournament%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

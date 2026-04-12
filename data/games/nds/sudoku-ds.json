@@ -1,0 +1,47 @@
+{
+  "id": "sudoku-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sudoku DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sudoku DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "A4YK",
+      "size": 8388608,
+      "crc32": "1295fb16",
+      "md5": "10a17b1fb1f86763311af883929fc43b",
+      "sha1": "37d64946eb39e56dcd13ba53e7c908d43f94ca03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudoku%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sudoku%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudoku%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "great-deal",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Great Deal",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グレートディール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Great Deal (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "eb68f997",
+      "md5": "e65e59bdf4aad6071742023037ce4f3d",
+      "sha1": "85a21558103d919fb1e820927a462b255d88694d",
+      "sha256": "0a7ef9196b0aa4b599092a4a15f5f16a3209d24154f82fb0b3f902836a6e6982"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267653
+  },
+  "descriptions": [
+    {
+      "text": "グレートディールは、カードのパックとテトリスを組み合わせたゲームです。52枚のカード（ジョーカーを含む）を5x5のウェルに配置する必要があります。ラウンドの終わりに、すべてのカードがクリアされていればボーナスがもらえ、クリアされなかったカード1枚ごとにポイントが減点されます。また、残りのストップタイムに対してもボーナスが得られます。1つのボタンを押すことで4枚のカードをシャッフルし、もう1つのボタンを押すことで、各レベルごとにゲームが与える2分の猶予時間を消費することができます。これを使って、正しい場所に何かを落とす準備をしたり、次に動かすべきものを考えたりすることができます。このゲームは、ポイントと引き換えに時間を使うという革新的なコンセプトを持ち、ゲームの潜在的な複雑さを考慮すると、プレイヤーに過剰に手を差し伸べることなく、適度な救済を提供します。グレートディールでは、3つのスートが連続する場合や、ストレート、または3つの同じカードが連続または対角線上に並ぶとポイントが得られます。4枚または5枚の場合は大きなポイントが得られます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Great%20Deal%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Great%20Deal%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Great%20Deal%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

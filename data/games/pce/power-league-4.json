@@ -1,0 +1,68 @@
+{
+  "id": "power-league-4",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power League 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーリーグ4",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power League 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "30cc3563",
+      "md5": "d7b057e7c35be8cb7b37084ffe805688",
+      "sha1": "a21825a19bef0a4d7847f72b4a00acd74a53ebb8",
+      "sha256": "3ce4088a73f11cc10379281dd5c5c95ef8a6e8e9408b34888d9b5407db8c671d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43191
+  },
+  "descriptions": [
+    {
+      "text": "世界最高の野球スキルを試すチャンス！素晴らしいパワーリーグIVで、歴代の名チームと対戦しながら、守備、投球、打撃を駆使して野球を楽しもう！観客の応援や素晴らしい選手たちと共に、ゲームのすべての側面に関わることができるこの驚くほどクールなタイトルで、アクションの一部になった気分を味わってください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

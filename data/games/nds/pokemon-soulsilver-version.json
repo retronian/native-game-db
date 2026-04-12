@@ -1,0 +1,77 @@
+{
+  "id": "pokemon-soulsilver-version",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - SoulSilver Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - SoulSilver Version (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "IPGE",
+      "size": 134217728,
+      "crc32": "d8ea6090",
+      "md5": "8a6c8888bed9e1dce952f840351b73f2",
+      "sha1": "f8dc38ea20c17541a43b58c5e6d18c1732c7e582",
+      "sha256": "51d0f94a16af7d77c067b4cb7d821ba890a13203a2e2c76049623332c0582e20"
+    },
+    {
+      "name": "Pokemon - SoulSilver Version (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "IPGE",
+      "size": 134217728,
+      "crc32": "968cde08",
+      "md5": "706a77bb5183a22b8436a46e38f2dd32",
+      "sha1": "27a25c23aa1c0ecabe48a30a004b96c9dbc97730"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20SoulSilver%20Version%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20SoulSilver%20Version%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20SoulSilver%20Version%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20SoulSilver%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20SoulSilver%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20SoulSilver%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

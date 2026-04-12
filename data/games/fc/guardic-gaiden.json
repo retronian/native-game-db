@@ -1,0 +1,75 @@
+{
+  "id": "guardic-gaiden",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Guardic Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガーディック外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Guardic Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "7e16802d",
+      "md5": "dd630ba10118e3390023f07c63325173",
+      "sha1": "3c0e6a844e1890ea79bd824fff30d3e84a770719",
+      "sha256": "6a24597b85919c472f842d944a4ab51bab9462cc6c55045fa4aa24160b246d7c"
+    },
+    {
+      "name": "Guardic Gaiden (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "b949b441",
+      "md5": "50675dc7eb2f9f24c0a82c3b20140ddf",
+      "sha1": "0bccada8a21aa4113865efdaa94401e10a87a3cb",
+      "sha256": "63cc8f6a604a126e89ab9a62d4b96b1fe92d4dded0a9379c52f0f6bb0308bed9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "遠い未来、地球は心配事の少ない平和な場所です。その状態を維持するために、極秘プロジェクトが承認されました：ガーディアンスーツの創造です。このスーツは、ガーディアンがどんな環境でも生き延びることを可能にする飛行用アーマーです。これは重要なことで、なぜなら巨大な宇宙ステーションが地球に衝突するコースにあることが発見されたからです。\n\nあなたはガーディアンの役割を担います。あなたの任務は、ステーションの自己破壊装置を起動し、地球に衝突する前にそれを破壊することです。ステーション「ナジュ」を旅する中で、敵の波を打ち破るための強化されたアーマーやより良い武器を見つけることができます。特定のエリアでは人間の姿として、また別のエリアではジェットとしてステーション内を戦い抜きます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-02-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Guardic%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Guardic%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Guardic%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hagane-no-renkinjutsushi-omoide-no-sonata",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hagane no Renkinjutsushi - Omoide no Sonata",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鋼の錬金術師 想い出の奏鳴曲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hagane no Renkinjutsushi - Omoide no Sonata (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BH2J",
+      "size": 8388608,
+      "crc32": "c6144316",
+      "md5": "ef9c063ab316ca610dd5a6c5c35fca7f",
+      "sha1": "585b84b1a9a169fdb3ed30f9ad07d512a6a636de"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはエルリック兄弟、エドワードとアルフォンスの物語です。彼らは亡くなった母を蘇らせるために禁じられた人間錬金術を使いましたが、失敗に終わります。その結果、エドワードは左足を失い、弟のアルフォンスは全身を失ってしまいます。エドワードは右腕と引き換えに、兄の魂を鎧の中に留めることに成功します。その代償はあまりにも大きかったのです…  \n今、エルリック兄弟は元の姿に戻るための大いなる力を持つ賢者の石を求めて旅に出ます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-07-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hagane%20no%20Renkinjutsushi%20-%20Omoide%20no%20Sonata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hagane%20no%20Renkinjutsushi%20-%20Omoide%20no%20Sonata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hagane%20no%20Renkinjutsushi%20-%20Omoide%20no%20Sonata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

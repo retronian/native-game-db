@@ -1,0 +1,54 @@
+{
+  "id": "happy-bakery",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Happy Bakery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "パンパカパンやさん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Happy Bakery (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YU3P",
+      "size": 33554432,
+      "crc32": "266beb91",
+      "md5": "00a2e60fd84caf526fdc8d78b981892a",
+      "sha1": "dadb78c4f24a75009b6f0ad6420894463927135d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77066
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Happy%20Bakery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Happy%20Bakery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

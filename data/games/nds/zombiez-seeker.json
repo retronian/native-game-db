@@ -1,0 +1,45 @@
+{
+  "id": "zombiez-seeker",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zombiez Seeker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zombiez Seeker (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZSE",
+      "size": 8388608,
+      "crc32": "9269b809",
+      "md5": "df3cd37f2ba6ad63bf57b2ab58ee29a3",
+      "sha1": "c66904b0817be658c9556e90b0c1fb34fe6dd05d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 200984
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zombiez%20Seeker%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zombiez%20Seeker%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

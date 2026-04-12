@@ -1,0 +1,80 @@
+{
+  "id": "castlevania-double-pack",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Castlevania Double Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Castlevania Double Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXKE",
+      "size": 16777216,
+      "crc32": "dbcecc7d",
+      "md5": "90d5887eaefd16478525478410155dec",
+      "sha1": "1ba25e80cfbc3d667a0f5d4cbeb295580f586edb",
+      "sha256": "0471c34b0e30321ec4f6a6711a6f5bf5ac3d088320141918a0ca213d59e29af8"
+    },
+    {
+      "name": "Castlevania Double Pack (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BXKP",
+      "size": 16777216,
+      "crc32": "ee495897",
+      "md5": "c9f99ccdf29fe8f9b5dc52c3a84e95a3",
+      "sha1": "e7aea4480f02822904eef1d7b51c18f169881075"
+    }
+  ],
+  "external_ids": {
+    "igdb": 22575
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Castlevania%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Castlevania%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Castlevania%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Castlevania%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Castlevania%20Double%20Pack%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

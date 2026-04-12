@@ -1,0 +1,55 @@
+{
+  "id": "tamagotchi-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tamagotchi Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "たまごっちコレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tamagotchi Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "TGCJ",
+      "size": 67108864,
+      "crc32": "3b87148e",
+      "md5": "a902aea5c13ba931e04c3697f2744584",
+      "sha1": "254d0bd6e26e83c51f3b8c3eef16028b39a2969f",
+      "sha256": "2301e52625d69794da669a1ab83bf6644d5f86ffd1f5f5ef6fec5690c0ecd8ec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77579
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tamagotchi%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tamagotchi%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "benkei-gaiden",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Benkei Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "弁慶 外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Benkei Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "e1a73797",
+      "md5": "fe54ee82279992cef3aeb14aa3f795d9",
+      "sha1": "4bc46592f3707a7c3e514abc23e640e3194879ad",
+      "sha256": "a909ab9d823d2d8d5e9b9c6f87a40eb93d18195c6b4229b936d44023a90137e6"
+    },
+    {
+      "name": "Benkei Gaiden (Japan) (Wii Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "c9626a43",
+      "md5": "41e5131613fd41b9cab87191cee474a5",
+      "sha1": "0be41c774e7ee75b84efdc2b05a7a45ec0201503",
+      "sha256": "6d9f7437ae8bfb4efc3316bca87ba95737fc372b57da0251fc9524158b2be962"
+    }
+  ],
+  "external_ids": {
+    "igdb": 80572
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Benkei%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Benkei%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Benkei%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Benkei%20Gaiden%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Benkei%20Gaiden%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Benkei%20Gaiden%20%28Japan%29%20%28Wii%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

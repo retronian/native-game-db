@@ -1,0 +1,45 @@
+{
+  "id": "farmtopia",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Farmtopia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Farmtopia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C5ZE",
+      "size": 8388608,
+      "crc32": "f3156b04",
+      "md5": "c74dabd89551924a68859708426e6ee0",
+      "sha1": "c3cef43c324b0bd1855fc2f3c0b536d2e5a54a91"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77047
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Farmtopia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Farmtopia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

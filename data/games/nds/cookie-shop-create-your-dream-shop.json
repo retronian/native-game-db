@@ -1,0 +1,88 @@
+{
+  "id": "cookie-shop-create-your-dream-shop",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cookie Shop - Create Your Dream Shop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "チョコ犬のスイーツデパート",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cookie Shop - Create Your Dream Shop (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACIE",
+      "size": 33554432,
+      "crc32": "9ec81382",
+      "md5": "9639f46a28491e4819a375c29c4abcb7",
+      "sha1": "2417e4a56d3c3344b4370318c92dab8b5fb9ba74"
+    },
+    {
+      "name": "Cookie Shop - Create Your Dream Shop (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACIP",
+      "size": 33554432,
+      "crc32": "11f94ffd",
+      "md5": "f41772e5f9dda756a62b2392083e65ef",
+      "sha1": "3084b986b3a942d9055658d2988869af905a7a85"
+    }
+  ],
+  "external_ids": {
+    "igdb": 151253
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

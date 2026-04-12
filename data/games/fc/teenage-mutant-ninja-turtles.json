@@ -100,6 +100,15 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "ティーンエージ　ミュータント　ニンジャ　タートルズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1989-05-12",
@@ -128,6 +137,76 @@
       "md5": "0d09eb2a381b92377d3694c71f9e0939",
       "sha1": "f379544d273d48a7301d56816a67903adda49c9b",
       "sha256": "2c3a63ccbeae1a0ac47b38598f4f7fd61252a18b7a813465b5c483e59b4ed104"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (Australia)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 262160,
+      "crc32": "5750dd2d",
+      "md5": "1c91cdea8d7a718fc8c4e9d568636876",
+      "sha1": "61ee339637fe284d3ead2bbb154fa778011a84f3",
+      "sha256": "9e751468bf902fd1492be1a350fea4103528639d4f82d4841799e0bc6dc5b8f0"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "8b440fff",
+      "md5": "00201e9b1b2d2c608d3a2bdd7bd64fba",
+      "sha1": "50f5f0a4b143c98391a1bae8fb7c15bee32a078a",
+      "sha256": "944f69e76ead428902fbf2c98c0b93a42e78c1856c8ec42e9a0a7968d5fd33a4"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "120bd608",
+      "md5": "1ae34bcb5f9db9de417a9df5072f4620",
+      "sha1": "71bab66d5c63b12c1e2b8e7cfebfa4b88256929c",
+      "sha256": "15e112c3790add361157dfa42854c3159c956f72e6acd8fabc518615f1ce8525"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "e36b9a28",
+      "md5": "042e5475b5ca8ceeedb9452c543029c4",
+      "sha1": "70bddfbbe555d5a7866cd66247ced61e3eee428e",
+      "sha256": "c6e40d9b7823ca1b271485ea950be487294f7d00bd33fed8f11567a699129bce"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "20d47b1c",
+      "md5": "71f1b5d8802f694a2a25d9d35be30507",
+      "sha1": "26f11f41f2d0d15e7ca40ece87c3b2952b540ddc",
+      "sha256": "6123ff297e2c790d23e92e1b120fe6d8d800505268dfa6f11be18ae02004a3c7"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (Japan) (En) (The Cowabunga Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "6853e7a7",
+      "md5": "598a9fdfb55c93ab561931c5f20f2441",
+      "sha1": "753f4a2e2c31095dba061ad54c0c591c113f749d",
+      "sha256": "7a4d7e13ed87bd886f6d4cb0b5c1fb0a66806b645982188f5b838178b697f4a3"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (USA) (The Cowabunga Collection)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "7f29f6c4",
+      "md5": "a171b0e246fbaccf4ad77be1c086cffb",
+      "sha1": "bc2fd1aeea2a882349b42263b6a125eda009d16e",
+      "sha256": "57b85e221b33f6ea30e5fa97e4d4390eeb937846fee46417e3050778fa074865"
     }
   ],
   "media": [
@@ -166,6 +245,96 @@
       "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Hero%20Turtles%20%28Europe%29%20%28Virtual%20Console%29.png",
       "source": "libretro_thumbnails",
       "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
     }
   ]
 }

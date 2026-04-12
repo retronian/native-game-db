@@ -1,0 +1,79 @@
+{
+  "id": "go-diego-go-great-dinosaur-rescue",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Go, Diego, Go! - Great Dinosaur Rescue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Go, Diego, Go! - Great Dinosaur Rescue (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CGDE",
+      "size": 8388608,
+      "crc32": "926fef0a",
+      "md5": "653dcbc9f70f75ced6124c406d0fac5c",
+      "sha1": "f3b9abd8d04ed0fc77d0751bee2102bc5a41e429"
+    },
+    {
+      "name": "Go, Diego, Go! - Great Dinosaur Rescue (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CGDP",
+      "size": 16777216,
+      "crc32": "10f21c19",
+      "md5": "db9ad1b3f0ec0194fc82a1ea10ecef2e",
+      "sha1": "7b7eb4108a9f971bf5a2a4fa89272180e2292eb7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 292114
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Go%2C%20Diego%2C%20Go%21%20-%20Great%20Dinosaur%20Rescue%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

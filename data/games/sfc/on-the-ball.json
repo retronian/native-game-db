@@ -1,0 +1,106 @@
+{
+  "id": "on-the-ball",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "On the Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キャメルトライ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Cameltry",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "On the Ball (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "b577815d",
+      "md5": "27547be412e441cfc7ac11be3634805a",
+      "sha1": "a1c2d3ea6d3c67c186948aa09e26878be129e2fd",
+      "sha256": "6c8ef5b60150c92d7acc9d5008251de96a5bdda7eed2e6602208a03877eb6ea3"
+    },
+    {
+      "name": "On the Ball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "50ad3fe8",
+      "md5": "7a5c2c67bfe548289794ea05d05771ff",
+      "sha1": "0c54bd1d43ca3bd6a56f55fcf8f4d97466864d92",
+      "sha256": "e153195de7b59dd5b9854952cccca6bb93164e5fdff8292124bee6bbe5dbf16f"
+    },
+    {
+      "name": "On the Ball (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "66f50abc",
+      "md5": "33092c1b40a14adc6fc557a515e214df",
+      "sha1": "6b493c690fabd0c04cdf7af0d53637be0de1ea33",
+      "sha256": "d082f9748093d54831e4ec3e6dc303f288f7d3f773b8aa17d08bfc9481adc3d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92554
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/On%20the%20Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/On%20the%20Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/On%20the%20Ball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/On%20the%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/On%20the%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/On%20the%20Ball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

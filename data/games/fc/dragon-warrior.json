@@ -1,0 +1,96 @@
+{
+  "id": "dragon-warrior",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Warrior",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ドラゴンクエスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Dragon Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Warrior (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 81936,
+      "crc32": "b5896125",
+      "md5": "04ecd6bf8fc486c60c16c0a15c3ddb83",
+      "sha1": "a794907cdfc17c6056320ac2810461976c5d3403",
+      "sha256": "2b531ddcb6c145ab9a1877cb6a5c1dfa251dc5bf6345ac079f719d67433c4ca0"
+    },
+    {
+      "name": "Dragon Warrior (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 81936,
+      "crc32": "abf3c899",
+      "md5": "161f31d9d8995838dee57a679dade537",
+      "sha1": "66809063b828197d1fe12232ebd08ec0a498aa04",
+      "sha256": "fc87483cbf5554c00022aff777d2dad453ee159964cfe20c5a84c25a7c5f427a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205229
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Warrior%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Warrior%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Warrior%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Warrior%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

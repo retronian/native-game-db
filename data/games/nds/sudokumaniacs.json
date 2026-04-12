@@ -1,0 +1,75 @@
+{
+  "id": "sudokumaniacs",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sudokumaniacs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sudokumaniacs (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQMP",
+      "size": 8388608,
+      "crc32": "fd934f03",
+      "md5": "3dc44c11e961f72c6e9088f26e3a8c37",
+      "sha1": "85664c9d4995a8852d7cbeeff7e357c75bd9b7b0"
+    },
+    {
+      "name": "Sudokumaniacs (France)",
+      "source": "no_intro",
+      "serial": "AQMF",
+      "size": 8388608,
+      "crc32": "f2552937",
+      "md5": "2254e319ca4b4e3ccffb18257f480128",
+      "sha1": "60f627b5a1e0cc7d7980a17fa075c3521c47abbd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 148880
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudokumaniacs%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sudokumaniacs%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudokumaniacs%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudokumaniacs%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sudokumaniacs%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudokumaniacs%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "my-hero-firefighter",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Hero - Firefighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Hero - Firefighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CHOE",
+      "size": 33554432,
+      "crc32": "2a44c7b1",
+      "md5": "4e7cddc640cb482688da2a2e7ee69412",
+      "sha1": "0e26d26806c277f10483c55f2c02222a53d54f7e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47862
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Hero%20-%20Firefighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Hero%20-%20Firefighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Hero%20-%20Firefighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

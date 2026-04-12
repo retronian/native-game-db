@@ -1,0 +1,65 @@
+{
+  "id": "star-gate",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Gate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スター・ゲイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Star Gate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "677cb266",
+      "md5": "4f96a26d4c2bcf2fd2bfc27fcf8a6b6c",
+      "sha1": "b048f540642399aa0679e049b76640c91e9a3152",
+      "sha256": "af827734c3b05aa923c997d441524bd43f718f1bae703107b31a130a5041d861"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この続編では、火炎爆撃機、イラビアン・スペース・グッピー（イラビアンは「イラバ」を逆さにした「バリー」に基づいており、ウィリアムズの当時の競合企業バリー・ミッドウェイへの友好的なジョークです）、ダイナモ、スペース・ハムなどの新しい敵艦がエイリアン艦隊に追加されました。ディフェンダー艦は、起動すると艦を無敵にするインビゾ・クローク装置を装備しており、ただし充電には限りがあります。スターゲートは、困っているヒューマノイドの元へ艦を輸送します。特別ステージとして、火炎爆撃機ショーダウンとイラビアン・ドッグファイトが新たに追加され、これらは5波目と10波目に発生します。前作と同様に、すべての人間が捕らえられると、惑星は爆発し、すべての着陸者がミュータントになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-09-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Star%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Star%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Star%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "safari-adventures-africa",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Safari Adventures - Africa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Safari Adventures - Africa (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSAP",
+      "size": 16777216,
+      "crc32": "f3f2c670",
+      "md5": "83ead3c9c0dd32128140b7b3a646d5c5",
+      "sha1": "f2c7b5808d30b87ed49895413839f5f166836a1a",
+      "sha256": "bed97cd6f0517526a3100ead2ff81a4b57d4dc8165c81dc5efbb17f6a1a10120"
+    },
+    {
+      "name": "Safari Adventures - Africa (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSAE",
+      "size": 16777216,
+      "crc32": "65c3856c",
+      "md5": "10ee828170979221857118023e72c518",
+      "sha1": "03ad8292e1877cec3839935f4f437ccc02df520d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Safari%20Adventures%20-%20Africa%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Safari%20Adventures%20-%20Africa%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Safari%20Adventures%20-%20Africa%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

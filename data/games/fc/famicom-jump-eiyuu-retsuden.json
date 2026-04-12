@@ -1,0 +1,65 @@
+{
+  "id": "famicom-jump-eiyuu-retsuden",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Jump - Eiyuu Retsuden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンジャンプ 英雄列伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Jump - Eiyuu Retsuden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "80b4c1de",
+      "md5": "8d8f6600197f0f4e9f92c5ef72ec9b9d",
+      "sha1": "fc99b28e592abd17af7d9f4cc0a5f0f12442888b",
+      "sha256": "976e9b665a274b05ad7fb3d179226ea9b8ab1f584a8f08c21ede1e716c617dc1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "少年ジャンプの人気キャラが総出演するアクションRPG。英雄列伝として名作キャラが活躍。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-02-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Jump%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Jump%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Jump%20-%20Eiyuu%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

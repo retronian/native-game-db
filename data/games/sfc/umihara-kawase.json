@@ -1,0 +1,60 @@
+{
+  "id": "umihara-kawase",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Umihara Kawase",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海腹川背",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Umihara Kawase (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "393ccca2",
+      "md5": "abddd496bab9c4fd12007f3125db85cc",
+      "sha1": "c4da5c1aaf998f0c7114adff0436246728a2139e",
+      "sha256": "d0f79585ed1963c32a8bac1b8b67b193b69b8578e4319ad18e2716f67909a95d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 15928
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Umihara%20Kawase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Umihara%20Kawase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Umihara%20Kawase%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

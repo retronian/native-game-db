@@ -1,0 +1,84 @@
+{
+  "id": "spider-man",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spider-Man",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spider-Man (USA, Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1057-00",
+      "size": 2097152,
+      "crc32": "b88a710d",
+      "md5": "3ba9d0a9e4b65942ac9514e710d8c2c0",
+      "sha1": "0bb3131108ed57c0cd12b646eb2b6dd73eb679f9",
+      "sha256": "2b19285a527c3b709a8c0d83af8c4c55735f107cae42c301961646f679df33dc"
+    },
+    {
+      "name": "Spider-Man (USA, Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1057-00",
+      "size": 2097152,
+      "crc32": "83e1fe76",
+      "md5": "718248499f9bfab11fbb2485cbe3ec78",
+      "sha1": "9b9f443499a547acdf029111df58b5a73ec4058f",
+      "sha256": "44fb82f25a04f10104bb9aa1c9752d5f79713cd5de348b2e822b2ee773818da3"
+    },
+    {
+      "name": "Spider-Man (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-81436-00",
+      "size": 2097152,
+      "crc32": "11b5b590",
+      "md5": "af2a9fdd4a378593e47289eb8068164d",
+      "sha1": "a38d5ad7d503999b7fea3ebf59f3dda9d667758b",
+      "sha256": "c22c1b2e51dd8ab77c6da1b90c33b307ad88808eb007934171e39ffa12630cb0"
+    },
+    {
+      "name": "Spider-Man (USA) (Tengen) (Demo)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "37619f0b",
+      "md5": "e0b4c39065f32e2e9b7f77faf88e7a1b",
+      "sha1": "a7049ed6925e82c6a30780359d950273aba1a01e",
+      "sha256": "7b2aedb807336aa4aa5258bc73b702fbde05e78321aa99c381e9782beed10d65"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4500
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Spider-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Spider-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Spider-Man%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

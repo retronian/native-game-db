@@ -1,0 +1,77 @@
+{
+  "id": "phantasy-star-ii-anne-s-adventure",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star II - Anne's Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタシースターII テキストアドベンチャー アンナの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 175020,
+      "crc32": "699a64df",
+      "md5": "98c51bccc17af7bac4ad7be85936f627",
+      "sha1": "a586d91b095cfd62f419c8ad6db9d71a5667c5d2",
+      "sha256": "a9a623080b7a0559a2026753b9b6b9f32ee2d81ab27112650b35c725fe19a056"
+    },
+    {
+      "name": "Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "fafa5b6f",
+      "md5": "10195dfcde401acafd406f2640e384de",
+      "sha1": "cf93d2d5eafc72b9de7aaa6d35b81a813862d9b7",
+      "sha256": "6df2f38dfd0c3cf59060b34a8b9537df6167c33596166568d653caa483485101"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、ファンタシースターIIの物語が続く前のキャラクターたちの生活を描いた8つのテキストアドベンチャーのうちの1つです。このゲームでは、バイオモンスターに最近襲われた小学校に薬を届ける任務を担った医者、エイミー・セージの物語が描かれています。\n\nゲームプレイは、さまざまな場所を探索し、他のキャラクターと会話をして手がかりを得たり、問題を解決するために使用するアイテムを探したりすることから成り立っています。これにより物語が進行します。\n\n拾えるアイテムの中には、戦闘中に武器として使用できるものもあります。戦闘中、プレイヤーの武器の攻撃力はランダムなサイコロの出目によって掛け算され、攻撃の強さが決まります。同じルールが敵の攻撃にも適用されます。戦闘の目標は、敵のHPをすべて削り取ることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20II%20-%20Anne%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20II%20-%20Anne%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20II%20-%20Anne%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

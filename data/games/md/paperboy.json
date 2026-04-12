@@ -1,0 +1,91 @@
+{
+  "id": "paperboy",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Paperboy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ペーパーボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Paperboy (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48086-00",
+      "size": 524288,
+      "crc32": "e14250ae",
+      "md5": "6e3424093e687ccfca125ef5d34242d0",
+      "sha1": "3384e238edaf8b2f6950cd1660864599e476d29f",
+      "sha256": "cc1449d94691f0a6e41a4575cab61645f1ce1647ce777b97105a4ac326dd62b3"
+    },
+    {
+      "name": "Paperboy (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48086-00",
+      "size": 524288,
+      "crc32": "0a44819b",
+      "md5": "f185e7700fe58f34d1c2968074760cdc",
+      "sha1": "10faaf47e585423eec45285be4f5ce1015ae3386",
+      "sha256": "3daa95e12df48963604ab4573e2e2fad7767e5bc90a251fde0846b1267bf2d0b"
+    },
+    {
+      "name": "Paperboy (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48086-00",
+      "size": 524288,
+      "crc32": "9856d9ea",
+      "md5": "c44efbfd7acbffdc75e377df607ffd29",
+      "sha1": "2e239046e07f511540db351659a6f9408754be28",
+      "sha256": "ee8b4ce6020fb0ebe5a07ef9a1f62ee9a9dec04d221d7078e171f79723ddc7a3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 256079
+  },
+  "descriptions": [
+    {
+      "text": "アーケードゲームを基にした「ペーパーボーイ」の目的は、顧客に新聞を配達しながら、非顧客の家にできるだけ多くのダメージを与えることです。さらに難易度を上げるために、工事作業員、暴走するタイヤ、スケートボーダー、犬や猫、車、さらには時折発生する竜巻など、さまざまな障害物があなたの行く手を阻みます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Paperboy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Paperboy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Paperboy%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

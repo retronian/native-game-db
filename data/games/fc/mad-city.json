@@ -1,0 +1,133 @@
+{
+  "id": "mad-city",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mad City",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マッド・シティ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "マッドシティ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mad City (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "4acbc779",
+      "md5": "e745a7a261ad11ed47b232260dbd3186",
+      "sha1": "852cc8fa0f16c1945a706200486631f359648791",
+      "sha256": "9cd1e3cf7955771637ff2e5040fbca6dd8646fcfb1814d7dcc2b1b8de845de71"
+    },
+    {
+      "name": "Mad City (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8e0bc000",
+      "md5": "3d721b0857bd94a7d47ca75e7b04314b",
+      "sha1": "83d3ab12a587b7a308793bee2537a35e75dfacb6",
+      "sha256": "58ee60879788a036ec86ade744dd6766cf6091714e9a6de410f74d3b288a80d1"
+    },
+    {
+      "name": "Mad City (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "79f0c894",
+      "md5": "7092098ba5ed4ee100a04db77b96afff",
+      "sha1": "ab4cd400cdab29417d065c6be5fb2c46fb93b5d9",
+      "sha256": "6849e6ef8d3109c17d4bef65f93df4a5fe9bda1c36ee3124cea74162a55884be"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48575
+  },
+  "descriptions": [
+    {
+      "text": "あなたの親友アナベルが悪党ゴードン、「バーボンストリートのギャングスターキング」に誘拐されてしまいました。あなたの役割は、ベイユービリーとして彼女を取り戻すことです！ベイユービリーは、戦闘、シューティング、ドライブの3種類のゲームプレイを持つアーケードアクションゲームです。戦闘セクションは沼地や都市で行われ、数多くの敵（そして沼の生き物たち！）に出会いながら、パンチ、キック、ジャンプキックを繰り出すことができます。シューティングセクションは、任天堂のライトザッパーまたはコントローラーでプレイできます。レベルをクリアするための弾薬は限られており、弾薬が尽きるとライフを失います。ドライブセクションでは、ジープに装備された機関銃と手榴弾を使って、目的地に向かう途中の多くの敵車両を突破します。全9レベルが用意されており、戦闘、シューティング、ドライブのラウンドを個別に選んでプレイできる練習モードもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mad%20City%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mad%20City%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mad%20City%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mad%20City%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mad%20City%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mad%20City%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mad%20City%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mad%20City%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mad%20City%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

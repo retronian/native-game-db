@@ -1,0 +1,98 @@
+{
+  "id": "tv-sports-football",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "TV Sports Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ダウンロード2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": ": TVスポーツ・フットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "TV Sports Football (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "5e25b557",
+      "md5": "94dc4d0d2a35a151b01f8a0433b12b12",
+      "sha1": "b73f44ad60e0f4b13c6b80f5509cb51245cc8106",
+      "sha256": "c8a438359f1a65c0f0a079b2c89274760b34a78e32244f11b677eca43c5f22e4"
+    },
+    {
+      "name": "TV Sports Football (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "968d908a",
+      "md5": "f3ca8091a325067f442630af4cb4e53b",
+      "sha1": "2ba8e2da6e2aa26722cdc5f1646163444b2bb98f",
+      "sha256": "16f4b39a916e8db28f6ec4094d0612de82bb5ad40a30aceb8488752376b08d8f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8671
+  },
+  "first_release_date": "1991-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TV%20Sports%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TV%20Sports%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TV%20Sports%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TV%20Sports%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TV%20Sports%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TV%20Sports%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

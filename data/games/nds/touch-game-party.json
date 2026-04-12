@@ -1,0 +1,42 @@
+{
+  "id": "touch-game-party",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touch Game Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touch Game Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AWQJ",
+      "size": 16777216,
+      "crc32": "de730dac",
+      "md5": "5a74dec2e0f8e9ba6629b896592bebc8",
+      "sha1": "fafec5e1c9bc5fafc287e6bfb88d9d0643b504ae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Touch%20Game%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Touch%20Game%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

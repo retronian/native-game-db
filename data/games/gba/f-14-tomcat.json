@@ -1,0 +1,51 @@
+{
+  "id": "f-14-tomcat",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F-14 Tomcat",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "F-14 Tomcat (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFTE",
+      "size": 4194304,
+      "crc32": "1428fe1c",
+      "md5": "399e38ffba58fccf07950791fae00539",
+      "sha1": "cb7918076abe28ddb29c420a3bbba617915f2de8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 259334
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/F-14%20Tomcat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/F-14%20Tomcat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/F-14%20Tomcat%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

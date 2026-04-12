@@ -1,0 +1,36 @@
+{
+  "id": "dsvision-starter-kit",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DSvision - Starter Kit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "DSvision - Starter Kit (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "UAMA",
+      "size": 8388608,
+      "crc32": "206f23bc",
+      "md5": "21fb4e93cea095ab181de27d88779339",
+      "sha1": "3c22bcd176216285e7a82a9cb01e17fc23acb802"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/DSvision%20-%20Starter%20Kit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

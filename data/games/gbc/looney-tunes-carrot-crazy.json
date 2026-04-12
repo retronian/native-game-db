@@ -1,0 +1,59 @@
+{
+  "id": "looney-tunes-carrot-crazy",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes - Carrot Crazy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Bugs Bunny & Lola Bunny: Operation Carrot Patch",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "11fb5617",
+      "md5": "b6c357bb1a544fb1f8731cbdc3046596",
+      "sha1": "4d8fa4d930f7f2ba7d674eed1c5a284f20c434ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49870
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Looney%20Tunes%20-%20Carrot%20Crazy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Looney%20Tunes%20-%20Carrot%20Crazy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Looney%20Tunes%20-%20Carrot%20Crazy%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

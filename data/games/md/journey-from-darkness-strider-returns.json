@@ -1,0 +1,61 @@
+{
+  "id": "journey-from-darkness-strider-returns",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Journey from Darkness - Strider Returns",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Strider II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Journey from Darkness - Strider Returns (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-79036",
+      "size": 1048576,
+      "crc32": "42589b79",
+      "md5": "62ccc620d3a721c9040d85aa5d540f86",
+      "sha1": "8febb4aff32f40148f572d54e158f4b791736f55",
+      "sha256": "fbb0a11a9d24434b0602f7cf28d3aa694e12ad36e5aa68a8ee09f9f029ec74c9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 72621
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Journey%20from%20Darkness%20-%20Strider%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Journey%20from%20Darkness%20-%20Strider%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Journey%20from%20Darkness%20-%20Strider%20Returns%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

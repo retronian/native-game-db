@@ -1,0 +1,54 @@
+{
+  "id": "three-lions",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Three Lions",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "スリーライオンズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "1cbea1aa",
+      "md5": "bd34182264a2f503d4e6982718d3bb6d",
+      "sha1": "d6d4eb47595b72c9c3ad77b5f9fa85b76f0acf4c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249151
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Three%20Lions%20%28United%20Kingdom%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Three%20Lions%20%28United%20Kingdom%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Three%20Lions%20%28United%20Kingdom%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

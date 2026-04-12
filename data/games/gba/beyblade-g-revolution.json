@@ -1,0 +1,80 @@
+{
+  "id": "beyblade-g-revolution",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beyblade G-Revolution",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beyblade G-Revolution (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BB2E",
+      "size": 4194304,
+      "crc32": "33afdbe8",
+      "md5": "78c34b8026991ab7b0a4990e1af5d9b5",
+      "sha1": "a89f7b4eb77dc986022201db51a676451ba7c5e4",
+      "sha256": "c4a568adc896bace0e25dbff4aa0c1802933c88e3f4a4e825075116c8c4173e5"
+    },
+    {
+      "name": "Beyblade G-Revolution (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BB2P",
+      "size": 4194304,
+      "crc32": "5111df55",
+      "md5": "2448dbe0ddd454ad9b9217e2f3c64787",
+      "sha1": "8e6d3aec2506ccb71e72feb30c52b22cab7ab563"
+    }
+  ],
+  "external_ids": {
+    "igdb": 9726
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Beyblade%20G-Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Beyblade%20G-Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Beyblade%20G-Revolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Beyblade%20G-Revolution%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Beyblade%20G-Revolution%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Beyblade%20G-Revolution%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

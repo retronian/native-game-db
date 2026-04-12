@@ -1,0 +1,42 @@
+{
+  "id": "koushounin-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koushounin DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koushounin DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B54J",
+      "size": 16777216,
+      "crc32": "c7c7f145",
+      "md5": "19585de80255cd092df40dee88b1fc2a",
+      "sha1": "450c7f229003939326aff342a77f219e24095053"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Koushounin%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Koushounin%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

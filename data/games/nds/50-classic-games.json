@@ -1,0 +1,89 @@
+{
+  "id": "50-classic-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "50 Classic Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "50 Classic Games (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BB5P",
+      "size": 8388608,
+      "crc32": "3caf6644",
+      "md5": "ed030d1bf4980966843cdf1f27f30949",
+      "sha1": "d02f64966d619bb84504603597db4d73b7bd0bdc"
+    },
+    {
+      "name": "50 Classic Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPRE",
+      "size": 8388608,
+      "crc32": "bd1021d4",
+      "md5": "86dc856ae079d7c65f7af6ea982dbadc",
+      "sha1": "c7ccd740197ac8b3bd0e0e92fbeddb5c849999ff"
+    },
+    {
+      "name": "50 Classic Games (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPRE",
+      "size": 8388608,
+      "crc32": "2ff8f43b",
+      "md5": "e9c1d40dffd5cd203e0ebd65b11f82b7",
+      "sha1": "48c723b57e65c16b3456ea778cf152602bb60d64"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48034
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/50%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/50%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/50%20Classic%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/50%20Classic%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/50%20Classic%20Games%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/50%20Classic%20Games%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

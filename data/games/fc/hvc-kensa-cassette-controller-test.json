@@ -1,0 +1,57 @@
+{
+  "id": "hvc-kensa-cassette-controller-test",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "HVC Kensa Cassette Controller Test",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "HVC検査カセットコントローラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "HVC Kensa Cassette Controller Test (Japan) (Test Program)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "ea7d7401",
+      "md5": "dd1450cecd95264dc6805037ab8239ea",
+      "sha1": "2003bb136caebdb836964602d4bdc2ab2d2483ce",
+      "sha256": "57adff301fc3f9d734d14666f9a18cc914af1e65f1d935b6da0dc228bfbb5afa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/HVC%20Kensa%20Cassette%20Controller%20Test%20%28Japan%29%20%28Test%20Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/HVC%20Kensa%20Cassette%20Controller%20Test%20%28Japan%29%20%28Test%20Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/HVC%20Kensa%20Cassette%20Controller%20Test%20%28Japan%29%20%28Test%20Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

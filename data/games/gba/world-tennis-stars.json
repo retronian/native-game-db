@@ -1,0 +1,79 @@
+{
+  "id": "world-tennis-stars",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Tennis Stars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Tennis Stars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWCP",
+      "size": 4194304,
+      "crc32": "b5830f5f",
+      "md5": "092dbb8125cfbc93d55342f25277b08f",
+      "sha1": "2a93449943e85b7c5d75d0d7a9e1d8ad67c7a706"
+    },
+    {
+      "name": "World Tennis Stars (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWCE",
+      "size": 4194304,
+      "crc32": "036e30b0",
+      "md5": "b705e04f4571cc9e8801900b4e0243fd",
+      "sha1": "c668815a2ccf0bc6c3816d0947218661437449bc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49349
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Tennis%20Stars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Tennis%20Stars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Tennis%20Stars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/World%20Tennis%20Stars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/World%20Tennis%20Stars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/World%20Tennis%20Stars%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

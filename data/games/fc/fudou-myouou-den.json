@@ -1,0 +1,68 @@
+{
+  "id": "fudou-myouou-den",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fudou Myouou Den",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "不動明王伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fudou Myouou Den (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "446cd7b0",
+      "md5": "196c8ff8cb54d84b7a968562473de45c",
+      "sha1": "20d7d24de23e1b82ff4951032703ba8153520bf9",
+      "sha256": "bf14e543a6eea5e39f0f7d4349063f0df6725d03d16c0999259c07ac14b182de"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48909
+  },
+  "descriptions": [
+    {
+      "text": "「不動明王伝」では、高貴な戦士ビクターの役割を果たします。ビクターは、かつて邪悪なダークフィーンドを倒すために使われた剣を携えています。ダークフィーンドは再び現れ、ビクターはその剣を使って再度彼を倒さなければなりません。このゲームはアーケードスタイルのプラットフォームゲームです。最初は悪魔の剣の一部しか持っておらず、各レベルの最後に出現する大きなモンスターを倒すことで剣の追加部分が復元されます。剣の失われた6つの部分をすべて見つけると、ダークフィーンドを倒すための最終レベルに挑戦できるようになります。剣の部分に加えて、レベル中に見つけられる他のアイテムもあり、これには神秘的な扉を開くための鍵、ライフを回復するための球体、さまざまな武器が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Fudou%20Myouou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Fudou%20Myouou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Fudou%20Myouou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

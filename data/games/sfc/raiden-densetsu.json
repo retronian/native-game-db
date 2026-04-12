@@ -1,0 +1,75 @@
+{
+  "id": "raiden-densetsu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Raiden Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雷電伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Raiden Densetsu (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c352d27f",
+      "md5": "9335689fcc1720e08ddffc8ddec9b62d",
+      "sha1": "e9b0ca191f599bee60b6491f3d707c9c5b831d83",
+      "sha256": "f92baaf6b19522eb6399e9e8fc4ac0143aa1f27029a6da7694903a325db2b58e"
+    },
+    {
+      "name": "Raiden Densetsu (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e72e8de3",
+      "md5": "e0a681983bc41543c0177f0201244d73",
+      "sha1": "fd758761885a6dcfe8aee62ce67a3112b40a8d58",
+      "sha256": "af54fc809a8ad8c8296a72ff379773ba6b589f1304af09148dbde1717024d534"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "2090年、地球は異星人に侵略される。世界諸国連合は、地球を守るために超音速攻撃戦闘機「雷電」を開発した。パイロットはこの実験的な戦闘機を操縦し、奇妙な形状の軍用戦車や飛行機に付属したガジェットのような異星の戦艦を破壊しなければならない。\n\n「雷電」（ジェネシスおよびSNESでは「雷電伝説」と呼ばれる）は、同名のアーケードゲームを基にした上からの縦スクロールシューティングゲームである。武器のアップグレードは2種類あり、ミサイルも通常型とホーミング型の2種類が用意されている。ゲーム開始時にはいくつかの爆弾を持っており、これを使って画面上のほとんどの敵を破壊し、危機を脱することができる。各レベルの最後には大きなボスやボスたちが待ち受けている。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Raiden%20Densetsu%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Raiden%20Densetsu%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Raiden%20Densetsu%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

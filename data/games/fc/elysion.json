@@ -1,0 +1,68 @@
+{
+  "id": "elysion",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Elysion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エリュシオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Elysion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d895a66e",
+      "md5": "43c385d3bb2e4ec90079c65a44f52f05",
+      "sha1": "679c78425c5d98ba7fc199ba506a15f0cd6a62b7",
+      "sha256": "dc8a3b91c26437b20fd47cbcd3e96d26bafbb3e0d46844377e4af62542107d41"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48509
+  },
+  "descriptions": [
+    {
+      "text": "エリュシオンは、多くの点で非常に伝統的な8ビットJRPGですが（例えば、プレイヤーが最初に行うのは地元の王と話してストーリーの背景を知ることです）、RPGファミリーの中で非常に異なる多くのゲームから影響を受けています。表面的には初代ドラゴンクエストに似ており、ファイナルファンタジーのようにゲーム開始時に複数の主人公から選択することができます。戦闘システムは、ハイドライドやイースのような画面遷移のないリアルタイムバトルで、敵はプレイヤーが動くときだけ動くという奇妙な習性があります。これはミステリーダンジョンシリーズのような多くの戦略的ローグライクダンジョンクローラーでも見られます。\n\nゲームの目的は、悪の魔物バールを倒すことです。しかし、王はまずプレイヤーキャラクターを試すために、城の地下にあるダンジョンに入って重要なクエストアイテムのグループを見つけるように指示します。この大きなダンジョンをクリアした後、主人公は正式に神の英雄となり、必要な魔法の巻物や最終的には特別な神のような装備を探して大陸の他の場所を探索し、バールを倒すことができます。\n\n「エリュシオン」は、戦いで亡くなった名誉ある魂のための古代ローマの冥界「エリュシオンの野」を指しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Elysion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Elysion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Elysion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

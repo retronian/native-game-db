@@ -1,0 +1,51 @@
+{
+  "id": "custom-mahjong",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Custom Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Custom Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YL4J",
+      "size": 8388608,
+      "crc32": "18391b30",
+      "md5": "11edb9acc4f49858ee044e7579bd77f5",
+      "sha1": "165732b1aea371476ca28797ce06aec66eeb1123"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130443
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Custom%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Custom%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Custom%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pac-man-special-color-edition",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pac-Man - Special Color Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "3485ef86",
+      "md5": "b81ddb7d86302384efe1675f75cc35f6",
+      "sha1": "a0a6f55c15dca60350b3a74b1973cc13ff328730",
+      "sha256": "dcbbc8f8128940a35c9b09624a9987a80cecb2edc8db8e48605de30b4887a3a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

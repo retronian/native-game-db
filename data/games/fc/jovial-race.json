@@ -1,0 +1,67 @@
+{
+  "id": "jovial-race",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jovial Race",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "迷魂車",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 48151
+  },
+  "first_release_date": "1989-12-31",
+  "roms": [
+    {
+      "name": "Jovial Race (Asia) (En) (Unl)",
+      "source": "no_intro",
+      "size": 98320,
+      "crc32": "c65eca5d",
+      "md5": "d4d76548a15846c806807196d63e452b",
+      "sha1": "7c39c84ea69a0394852a0405a20806634e6fb229",
+      "sha256": "647255fc73cb037e27f95e4fe8e435dc11db7439c793b68e5e96483140511437"
+    },
+    {
+      "name": "Jovial Race (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 98320,
+      "crc32": "75b0ed5b",
+      "md5": "cf88384626979fc7143dc03a6562d405",
+      "sha1": "2b2b77435e82a1807bf6e8cd50042d9df02fe396",
+      "sha256": "1ac8896ebeacc5a0e8a822deb094427608fb7e209cf83b440846043a35fee89f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jovial%20Race%20%28Asia%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jovial%20Race%20%28Asia%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jovial%20Race%20%28Asia%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

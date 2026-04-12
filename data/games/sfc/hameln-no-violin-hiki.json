@@ -1,0 +1,60 @@
+{
+  "id": "hameln-no-violin-hiki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hameln no Violin Hiki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハーメルンのバイオリン弾き",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hameln no Violin Hiki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "fb500926",
+      "md5": "5b042f9443d8338e0eb7e2604f9a3363",
+      "sha1": "9a1451c46b10d1c6b85f1bbd9825805d9171fb2d",
+      "sha256": "078b9c48524ec20a0ce4bde69c581e446dcacb28033574e344801b4fd2872ad7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38365
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hameln%20no%20Violin%20Hiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hameln%20no%20Violin%20Hiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hameln%20no%20Violin%20Hiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

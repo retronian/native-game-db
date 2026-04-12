@@ -1,0 +1,93 @@
+{
+  "id": "quarter-back-scramble",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quarter Back Scramble",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クォーターバックスクランブル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Quarter Back Scramble (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c373aeec",
+      "md5": "0f06086f8d959d0cdd5b1db4ca7b7d1b",
+      "sha1": "3d8e03e19a7ee8db0ec5eaf1e671804dbbae04de",
+      "sha256": "7e39bcf0d62838a47a94c5bd6071ac84e926d1e9ce1ed1cdc0588486e029bd7b"
+    },
+    {
+      "name": "Quarter Back Scramble (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "0a55b11f",
+      "md5": "86676c2e5d8babd3ab46f02350475efa",
+      "sha1": "e592db366aa83ef403606c8e15d6113204413c46",
+      "sha256": "7efd2196bf201e7917b529e4580b1c4ef28a5f7a6c475a499e456abfea7371d6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "他の小さな変更点の中で、アコレードはタイトル画面を単純に置き換え、フィールドからFCIの「目」ロゴを消去し、チアリーダーのグラフィックを修正しました（彼女は元々、ボウタイ、カフス、ウサギの耳をつけたプレイボーイバニーでした）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Quarter%20Back%20Scramble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Quarter%20Back%20Scramble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Quarter%20Back%20Scramble%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Quarter%20Back%20Scramble%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Quarter%20Back%20Scramble%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Quarter%20Back%20Scramble%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

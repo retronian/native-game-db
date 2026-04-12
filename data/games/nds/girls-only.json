@@ -1,0 +1,67 @@
+{
+  "id": "girls-only",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Girls Only",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Girls Only (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGLP",
+      "size": 16777216,
+      "crc32": "85bfda49",
+      "md5": "329a29349174110f2baed624127c6d20",
+      "sha1": "66dbc7fb19e4da624be8a4b8275dc3248ce9c969"
+    },
+    {
+      "name": "Girls Only (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGLE",
+      "size": 16777216,
+      "crc32": "e10c255b",
+      "md5": "a70cf214452e53c8414b7fd844243d58",
+      "sha1": "ece2b6b76530fdf3d41148dbb321c364398e3725"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209752
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Girls%20Only%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Girls%20Only%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Girls%20Only%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Girls%20Only%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

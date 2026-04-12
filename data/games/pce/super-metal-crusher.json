@@ -1,0 +1,57 @@
+{
+  "id": "super-metal-crusher",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Metal Crusher",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーメタルクラッシャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Metal Crusher (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "56488b36",
+      "md5": "2958e95bb08aec03825f08bb955abdc6",
+      "sha1": "6050eb365dcc42b90e8ddacf44685d72744ab4f0",
+      "sha256": "876103fbea922c1cffd9269b362c4a00b8638d2a464c742a07daf8f3e25012d6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38069
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Super%20Metal%20Crusher%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Super%20Metal%20Crusher%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Super%20Metal%20Crusher%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

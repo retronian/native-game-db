@@ -1,0 +1,54 @@
+{
+  "id": "learning-to-spell",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Learning To Spell",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "I did it Mum! Spelling",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Learning To Spell (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSJE",
+      "size": 8388608,
+      "crc32": "8e3095ec",
+      "md5": "aec13465a4cd4d15de2d49a51730f4ee",
+      "sha1": "a479f556a0b856ac46d8338addd7bbc1ff693e40"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209892
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Learning%20To%20Spell%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Learning%20To%20Spell%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

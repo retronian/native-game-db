@@ -1,0 +1,132 @@
+{
+  "id": "hyperzone",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "HyperZone",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ハイパーゾーン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "HaipāZōn",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "HyperZone (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "fa15d068",
+      "md5": "598da256aaf4af53aec3930352196a56",
+      "sha1": "2f231ba8dee2e744fa41984c0e9c5b8c0f4e854e",
+      "sha256": "a9dffa5d97855733f14b1b888bc478e8e0630107812b7b3df729c499e0e0734f"
+    },
+    {
+      "name": "HyperZone (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "613c62b7",
+      "md5": "71537ebf8c308cf939b9e8e98adddff0",
+      "sha1": "4860bbb7474870a4b2565b15480767922c38bff4",
+      "sha256": "3a3e1aa4e9adcde26563147e310bcd3d2bc6815f6bba0e9b566f4a6b0472caf6"
+    },
+    {
+      "name": "HyperZone (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c95b4129",
+      "md5": "e86cbae509e389450046234dc29cd62e",
+      "sha1": "2d9c6ce1613b2180ce6a3cd4603e1ecf10f2bac6",
+      "sha256": "f57c49cc3e4c5e34929e12658db0de8794265c517e42f3c518bb1466ba46f14a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42608
+  },
+  "descriptions": [
+    {
+      "text": "「ハイパーゾーン」は、スペースハリアーに似た3Dシューティングゲームです。未来的な飛行機を操作し、数多くの敵や障害物を撃破しながら進んでいきます。もし船が速くなりすぎた場合はブレーキを使うことができますが、あまりにも遅く飛ぶと船がダメージを受けます。標準武器に加えて、ほとんどの船には攻撃ボタンを押し続けることでチャージできる特別な攻撃があります。アクションは特定のトラック上で展開され、トラックを外れると船に大きなダメージを与えます。特定のエリアを飛ぶことで船を修理することができます。各レベルの最後にはボスを倒す必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/HyperZone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/HyperZone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/HyperZone%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/HyperZone%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/HyperZone%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/HyperZone%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/HyperZone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/HyperZone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/HyperZone%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

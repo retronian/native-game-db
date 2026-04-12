@@ -1,0 +1,49 @@
+{
+  "id": "super-smash-t-v",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Smash T.V.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Smash T.V. (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081066-00",
+      "size": 524288,
+      "crc32": "f22412b6",
+      "md5": "6858c543dd27b9f1d5aa260a25ab1b83",
+      "sha1": "0459f7c61f152fa0afa98d96ef9fbe4964641f34",
+      "sha256": "d05d00f7fe2b24585ed4e165e62f537f1c079b55365c51d09b4baea3f4fe99f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Smash%20T.V.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Smash%20T.V.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Smash%20T.V.%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

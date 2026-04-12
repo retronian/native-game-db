@@ -1,0 +1,68 @@
+{
+  "id": "great-battle-cyber",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Great Battle Cyber",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グレイトバトルサイバー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Great Battle Cyber (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "da5ca4f1",
+      "md5": "82c04638bfb86f9864db250f5f1d2b3f",
+      "sha1": "fb78594179a810ed5d1259cc908961562c133b35",
+      "sha256": "f5e425039d6f76cc6b4e8c3e62fabcad72f5161c9d658da32846e3e2b5d15b95"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48479
+  },
+  "descriptions": [
+    {
+      "text": "グレイトバトルサイバーは、SDガンダムの世界観を基にしたアクションゲームです。プレイ可能なキャラクターには、仮面ライダーブラック、ビクトリーガンダム、ウルトラマンタロウが含まれています。各キャラクターの違いは思ったほど明確ではありません。仮面ライダーブラックは素手で戦うにもかかわらず、実際には最もリーチが長いです。ビクトリーガンダムの剣攻撃は弧を描いて行われるため、空中の攻撃を反らし、地上から飛んでいる敵を攻撃することができます。ウルトラマンタロウ？彼には特にユニークな点はありません。ある程度、他のキャラクターとの中間的な存在ですが、それでは彼を使う理由がほとんどありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Great%20Battle%20Cyber%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Great%20Battle%20Cyber%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Great%20Battle%20Cyber%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

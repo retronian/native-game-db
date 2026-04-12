@@ -1,0 +1,65 @@
+{
+  "id": "tora-e-no-michi",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tora e no Michi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "虎への道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tora e no Michi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "82ae3b16",
+      "md5": "e29c489f69b1fcbd37937fa4d31f9d0c",
+      "sha1": "ea66f8c1be62e853b72f93a3a1e3b597356ae62f",
+      "sha256": "b571229a96f9453b73eca2f4fb7eab38ccafa03fb3c03eb9368f2cb487532844"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このアーケードの移植版は、あなた（リー・ウォンとして）が悪のリョウ・ケン・オーから村の子供たちを救うべく戦うベルトスクロールアクションゲームです。多くのステージは横にスクロールしますが、高い ledge にジャンプして少し異なるルートを進むこともできます。強化された武器を含む魔法の壺が頻繁に出現します。ほとんどの敵は攻撃が簡単で、一撃で倒せますが、大群で襲いかかってきます。屋内セクションに入ると、一撃であなたを倒す能力を持つ大きな敵が登場し、階段がある複数のレベルで構成されたエリアが待ち受けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tora%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tora%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tora%20e%20no%20Michi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

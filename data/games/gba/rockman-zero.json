@@ -1,0 +1,94 @@
+{
+  "id": "rockman-zero",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman Zero",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロックマン ゼロ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman Zero (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARZJ",
+      "size": 8388608,
+      "crc32": "e85a6525",
+      "md5": "7ab8dcd02c665b442b6ddf6b3556e4e4",
+      "sha1": "f23c299ea127585d3b1198ca4efc10a2184b6a5b",
+      "sha256": "8699453003d93dddc0472c5965f158c21268d040c21372351f854cd3ebb8dae1"
+    },
+    {
+      "name": "Rockman Zero (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARZJ",
+      "size": 8388608,
+      "crc32": "ff2a67b1",
+      "md5": "a8110c3928caffb9a73b48a009f9044f",
+      "sha1": "b07dfd200c49739d33598f6142157d659997e097"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "それは22XX年のこと…\n\nレプリロイドの伝説的な英雄、Xとゼロは、悪のシグマを遥か昔に打ち倒し、マーベリックウイルスの発生を防ぐために新しい軍隊が作られました。しかし、時が経つにつれて、その軍隊は抑圧的になり、偏執的な正義を振るうようになりました。彼らの指導者はかつて偉大な戦士でしたが、今では冷酷で計算高い存在となり、彼に逆らうレプリロイドを排除しています。\n\nこの暗い時代には英雄が必要であり、シエルと彼女の反乱者グループは古代の遺跡でそれを見つけました…未来に生まれ変わった過去の英雄を。\n\nゼロは知らない時代にやってきました。過去の影からこの時代を救うために…自由の運命は彼の肩にかかっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

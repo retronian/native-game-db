@@ -1,0 +1,51 @@
+{
+  "id": "astro-invaders",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Astro Invaders",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Astro Invaders (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BA8E",
+      "size": 8388608,
+      "crc32": "a453f0fb",
+      "md5": "f9533bc8b9783cbf1f07f8fa7d92c57e",
+      "sha1": "f87c07079f909d9cc0bc0ac083d75b97f09b41d7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79036
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Astro%20Invaders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Astro%20Invaders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Astro%20Invaders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

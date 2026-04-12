@@ -1,0 +1,42 @@
+{
+  "id": "valentines-day",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Valentines Day",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Valentines Day (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CVDP",
+      "size": 8388608,
+      "crc32": "5eefb499",
+      "md5": "7956945cdf3cf3cdf8f470db063da801",
+      "sha1": "eb300dd046984ba2ab511497d379fb8074ff902e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Valentines%20Day%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Valentines%20Day%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

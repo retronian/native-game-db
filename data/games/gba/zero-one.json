@@ -1,0 +1,68 @@
+{
+  "id": "zero-one",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zero One",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ZERO ONE",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zero One (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AF3J",
+      "size": 16777216,
+      "crc32": "84a4c1b4",
+      "md5": "120cf0c4d430cf9de20071a249db62f4",
+      "sha1": "42501ed8395dfcc87cc112d20183a9394d0b232f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65657
+  },
+  "descriptions": [
+    {
+      "text": "「ゼロワン」では、プレイヤーは主にダイアログオプションを使って冒険を進めます。また、複数のミニゲームやタイムアクションも用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-04-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zero%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zero%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zero%20One%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

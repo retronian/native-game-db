@@ -1,0 +1,52 @@
+{
+  "id": "jeopardy-deluxe-edition",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy! - Deluxe Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! - Deluxe Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-83116-00",
+      "size": 524288,
+      "crc32": "25e2f9d2",
+      "md5": "2cb0aa5c63727cd36ae861c02b93ab64",
+      "sha1": "1817433ac701c407eb748e87f01a0bc8639e3ac2",
+      "sha256": "603ccf8ce0ec6a6d7a521893fa5bc91ca4c007e1387bcd185789f82390134381"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42512
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jeopardy%21%20-%20Deluxe%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jeopardy%21%20-%20Deluxe%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jeopardy%21%20-%20Deluxe%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

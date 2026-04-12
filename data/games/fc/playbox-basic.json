@@ -1,0 +1,38 @@
+{
+  "id": "playbox-basic",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Playbox BASIC",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Playbox BASIC (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "6bd2f1d0",
+      "md5": "67529c437db68e4a49902a7b87adcf6c",
+      "sha1": "7abba2f7eb75b6906e2249b4d47a0042333dda21",
+      "sha256": "77548f0dd7916879f4502699ea96e5fc3a03884fbb634f4f01d58844f63791d2"
+    },
+    {
+      "name": "Playbox BASIC (Japan) (Sample)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "5643868a",
+      "md5": "eb90a36b0fa6357344e2ebccdc991e95",
+      "sha1": "d9434e741e6030da4d5769018e9ceda90344af88",
+      "sha256": "9744b07fbad7962a8df772d94dc377fa7dd7a22624a42d7ac6d159d906e76880"
+    }
+  ]
+}

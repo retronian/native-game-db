@@ -1,0 +1,65 @@
+{
+  "id": "yu-gi-oh-duel-monsters-international-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu-Gi-Oh! Duel Monsters International 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "遊戯王デュエルモンスターズ インターナショナル2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BYIJ",
+      "size": 16777216,
+      "crc32": "6dcfb879",
+      "md5": "026fbee1949b8508f7ef3f9f92cb1f74",
+      "sha1": "4e9c134910d43f245afd648b633a12dfff2120b6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "光と闇が交錯する、誰もがデュエルを待ち望む街。戦いは言葉の代わりとなり、勝者にはきらめくトロフィーが待つトーナメントで、ただ一人の最強者だけが勝利を手にする。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-12-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yu-Gi-Oh%21%20Duel%20Monsters%20International%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yu-Gi-Oh%21%20Duel%20Monsters%20International%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yu-Gi-Oh%21%20Duel%20Monsters%20International%202%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

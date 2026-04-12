@@ -1,0 +1,58 @@
+{
+  "id": "runark",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Runark",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルナーク",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Runark (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11153-00",
+      "size": 524288,
+      "crc32": "0894d8fb",
+      "md5": "5a41a9e23515f2a6097fcb279e345ba8",
+      "sha1": "25a0322db3b82e3da6f1dab550b3e52f21be6b58",
+      "sha256": "c84eea855f01e826959692285db1429e1c0c897171d4af8760cb5e2eb491f1bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Runark%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Runark%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Runark%20%28Japan%2C%20Korea%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

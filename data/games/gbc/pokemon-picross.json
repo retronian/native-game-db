@@ -1,0 +1,40 @@
+{
+  "id": "pokemon-picross",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokémon Picross",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "ポケモンピクロス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 138961
+  },
+  "roms": [
+    {
+      "name": "Pokemon Picross (Japan) (Proto) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKVJ",
+      "size": 2097152,
+      "crc32": "cf647f4b",
+      "md5": "35d2e7924408a3460e5c1a770acf3a8a",
+      "sha1": "8204064b7149357939b57342820e7955749183b6"
+    }
+  ]
+}

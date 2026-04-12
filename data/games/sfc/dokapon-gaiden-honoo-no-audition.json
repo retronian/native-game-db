@@ -1,0 +1,69 @@
+{
+  "id": "dokapon-gaiden-honoo-no-audition",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dokapon Gaiden - Honoo no Audition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドカポン外伝 炎のオーディション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドカポン外伝 Dokapon 炎のオーディション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dokapon Gaiden - Honoo no Audition (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a1684b6c",
+      "md5": "8ab720b37649e7aa6f3c27eab98c9253",
+      "sha1": "8a3c4a376a93555454421b6b660fe8ef9190b270",
+      "sha256": "8077de6c4786b1f780881dfb2a5ab7818fc852c5d4aa2189361c7c69633436db"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38132
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dokapon%20Gaiden%20-%20Honoo%20no%20Audition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dokapon%20Gaiden%20-%20Honoo%20no%20Audition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dokapon%20Gaiden%20-%20Honoo%20no%20Audition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "kaijuu-monogatari",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaijuu Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "貝獣物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaijuu Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b45de21b",
+      "md5": "56312152e6fe2ce6f6c5feba80cfd8ee",
+      "sha1": "18c6ba7d2d0d8f39af9ca5327368782f79cd3e16",
+      "sha256": "7a0fc4cc58b1502f331ad77a7fac71d8b70c214d636ec5489e14935f5f435ab8"
+    },
+    {
+      "name": "Kaijuu Monogatari (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "799278cb",
+      "md5": "b102f32130f334f0e327194bf6e26790",
+      "sha1": "eafa9248fed5247e0edb487103a761803a22aac7",
+      "sha256": "3d5e9f8c9e17fc64c4b774bf7e68a9501f292f3d4b9bcbd845d4e77807079467"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48446
+  },
+  "descriptions": [
+    {
+      "text": "貝獣物語は、NES向けの8ビットRPGで、エニックスのドラゴンクエストに表面的に似ています。このシステムの多くのRPGと同様に、基本的な前提（王様に話しかけ、次に何をするかを見つけ、悪の力と戦う）や、ターン制の戦術的な戦闘、徐々に成長するキャラクターの育成を主要な影響源から借用していますが、その美的要素も多く取り入れています。パッケージアートには鳥山明風のイラストがあり、主人公はお馴染みの青い鎧を身に着けています。貝獣物語のサブタイトル「シェルサウルスストーリー」は、日本語名のローカライズです。\n\n物語の詳細は、平和な貝の生き物たちの種族が、悪党のファットバジャーと戦うために団結した4人の元素の戦士に関するもので、最終的な戦いで彼らは離れ離れになってしまいます。プレイヤーは、世界を探索し、他の3人の戦士の場所を見つけて再集結し、再度攻撃を仕掛ける必要があります。\n\nユニークなひねりとして、プレイヤーはメニューオプションを選択することで、これら4人の英雄のいずれかをいつでも操作できるという特徴がありますが、各キャラクターはレベル1から始まり非常に弱いです。パーティが再会するためには、それぞれを独立して十分なレベルまで育てる必要があります。\n\nこのゲームは最終的に、自身のフランチャイズを生み出し、スーパーファミコンやゲームボーイ向けに続編やスピンオフが日本でリリースされることとなります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-11-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kaijuu%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kaijuu%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kaijuu%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kaijuu%20Monogatari%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kaijuu%20Monogatari%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kaijuu%20Monogatari%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

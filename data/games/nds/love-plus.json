@@ -1,0 +1,65 @@
+{
+  "id": "love-plus",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Love Plus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Love Plus (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CXTJ",
+      "size": 268435456,
+      "crc32": "1b8f1dd1",
+      "md5": "f905c4e01e9eaa70d9cb6bd07028cad5",
+      "sha1": "48cb11c674b51952fea5deb264deeb8dc53e9a87"
+    },
+    {
+      "name": "Love Plus+ (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BOXJ",
+      "size": 536870912,
+      "crc32": "c7ac61fe",
+      "md5": "75a5028801fde37a013bc5ab290b859f",
+      "sha1": "d0b2657ccef7a03d7fd79aef0ab2a627d76f09ce",
+      "sha256": "bb610cb0e2fa0a223c8157029375dbb47da86e1fb21b92358b915a268c54d028"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Love%20Plus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Love%20Plus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Love%20Plus%2B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Love%20Plus%2B%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

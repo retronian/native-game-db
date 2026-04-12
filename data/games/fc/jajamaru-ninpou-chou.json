@@ -1,0 +1,67 @@
+{
+  "id": "jajamaru-ninpou-chou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jajamaru Ninpou Chou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "じゃじゃ丸忍法帳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jajamaru Ninpou Chou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6b7e2ec6",
+      "md5": "7511ba5323eb4a79cbe57139ddd6a881",
+      "sha1": "ab56c716922b22046e9d756885df4d25da20e0ad",
+      "sha256": "1c1bb97e6a22ed66a3d06fa60059aa552b1a2c4109b90e841c18d2ce56dd5fc2"
+    },
+    {
+      "name": "Jajamaru Ninpou Chou (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9562e6ad",
+      "md5": "0537371ea7f8617e5cbc5d34b1329a7d",
+      "sha1": "1e066bc2f0ffefbe58db4615a22a4ccf9b760cc2",
+      "sha256": "5b514472aa9ae5d74c71b8c43c704f5c5ec9ad33999584aa2d5c4d01072063a8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jajamaru%20Ninpou%20Chou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jajamaru%20Ninpou%20Chou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jajamaru%20Ninpou%20Chou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "moshi-monsters-katsuma-unleashed",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moshi Monsters - Katsuma Unleashed",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moshi Monsters - Katsuma Unleashed (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TLVP",
+      "size": 33554432,
+      "crc32": "660a9b99",
+      "md5": "c6f44279e909081034f1bc1e0c76eb2b",
+      "sha1": "9efe0dabd08824d851947a2f7ede2db126e153ec"
+    },
+    {
+      "name": "Moshi Monsters - Katsuma Unleashed (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TLVE",
+      "size": 33554432,
+      "crc32": "6989d70e",
+      "md5": "1c486dda984303cf9c050f8a595b03a5",
+      "sha1": "5829a17dfad793cf15ec6524ea0a78fbe4f0f050"
+    }
+  ],
+  "external_ids": {
+    "igdb": 23423
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moshi%20Monsters%20-%20Katsuma%20Unleashed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moshi%20Monsters%20-%20Katsuma%20Unleashed%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moshi%20Monsters%20-%20Katsuma%20Unleashed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moshi%20Monsters%20-%20Katsuma%20Unleashed%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hanjuku-hero-ah-sekai-yo-hanjuku-nare",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "はんじゅくヒーロー 半熟英雄 ああ、世界よ半熟なれ…!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "半熟英雄 ああ、世界よ半熟なれ…!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d191ad46",
+      "md5": "eaab71f99f9f45dfea1fbbf493222999",
+      "sha1": "4edad4a8a8e3ab6117171c48ce2a332757ed3e2f",
+      "sha256": "59027382154fc0aefdb2fa84251b171cbf490bc5e013205a24e677122b446a24"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「はんじゅくヒーロー 半熟英雄 ああ、世界よ半熟なれ…!!」は、エッグワールドと呼ばれる半コメディの宇宙を舞台にしており、半熟と硬熟の二つの国が存在します。あなたは半熟軍の指揮官となり、一連の出来事（「物語」と呼ばれる）を通じて敵の城を占拠し、硬熟軍のボスを倒すことを目指します。\n\nこれはリアルタイム戦略ゲームです。ゲームの時間は月ごとに分かれており、各月は数分の実時間を要します。あなたは英雄と彼の将軍たちを操作し、それぞれが歩兵部隊を指揮します。世界地図を通じて軍の指揮官を送り、敵の城を占拠します。すべての城を占拠すると、マップ上に新たな建設地が現れ、そこにレベルボスがいます。この章（物語）での最終目標は、このボスを倒すことです。敵に遭遇すると、自動バトルシーケンスが発生し、あなたはその場で軍に指示を出すことができます。半熟軍と硬熟軍の両方は、エッグモンスターと呼ばれる強力なクリーチャーを召喚することができ、これらは全軍と戦ったり、ターン制の戦闘で互いに戦ったりします。毎月「月間イベント」が発生し、土地の変化や地震などがあります。また、ランダムイベントも発生し、その際に軍の補給品を購入することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hanjuku%20Hero%20-%20Ah%2C%20Sekai%20yo%20Hanjuku%20Nare...%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hanjuku%20Hero%20-%20Ah%2C%20Sekai%20yo%20Hanjuku%20Nare...%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hanjuku%20Hero%20-%20Ah%2C%20Sekai%20yo%20Hanjuku%20Nare...%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

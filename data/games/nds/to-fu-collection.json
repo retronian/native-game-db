@@ -1,0 +1,67 @@
+{
+  "id": "to-fu-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "To-Fu Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "To-Fu Collection (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TCCP",
+      "size": 8388608,
+      "crc32": "7f48fc51",
+      "md5": "2a3f3fa622aedbfeb9d7c20633b9dbe3",
+      "sha1": "03e8f75983dde282c0d495d8f33b2e5edf28e624"
+    },
+    {
+      "name": "To-Fu Collection (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TCCE",
+      "size": 8388608,
+      "crc32": "f1c0366b",
+      "md5": "342064261a1e5e3fdc06aafb71defde3",
+      "sha1": "5bff79b519b9da72d13a1a98bb3b0f2e67af784a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206765
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/To-Fu%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/To-Fu%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/To-Fu%20Collection%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/To-Fu%20Collection%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

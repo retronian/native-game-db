@@ -1,0 +1,49 @@
+{
+  "id": "super-mario-bros",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Mario Bros.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Mario Bros. (Japan) (Hot Mario Campaign)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FSMJ",
+      "size": 1048576,
+      "crc32": "e4628d75",
+      "md5": "b71bd7d6765ead8c9c657006735cf70d",
+      "sha1": "6701010f7c195cf3fbdedb19e4627835a3158748",
+      "sha256": "764446314497c0f2bc7f7a185b00e4f6cc545b4c6511d5c10aafd5ca1e23faf0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Mario%20Bros.%20%28Japan%29%20%28Hot%20Mario%20Campaign%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Mario%20Bros.%20%28Japan%29%20%28Hot%20Mario%20Campaign%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Mario%20Bros.%20%28Japan%29%20%28Hot%20Mario%20Campaign%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

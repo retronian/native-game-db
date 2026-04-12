@@ -1,0 +1,79 @@
+{
+  "id": "turok-evolution",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Turok - Evolution",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Turok - Evolution (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AT4P",
+      "size": 8388608,
+      "crc32": "07a32299",
+      "md5": "74eb3f183512c83c72473a6a03662e03",
+      "sha1": "30489d1c72faab5ed7a7b86c459d750dae0208e4"
+    },
+    {
+      "name": "Turok - Evolution (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AT4E",
+      "size": 8388608,
+      "crc32": "4edac27a",
+      "md5": "04524b68642568798af10a69fc199aad",
+      "sha1": "f7b9bf3c3509581fa5ecba92897fbbdf5221bb39"
+    }
+  ],
+  "external_ids": {
+    "igdb": 146695
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Turok%20-%20Evolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Turok%20-%20Evolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Turok%20-%20Evolution%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Turok%20-%20Evolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Turok%20-%20Evolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Turok%20-%20Evolution%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

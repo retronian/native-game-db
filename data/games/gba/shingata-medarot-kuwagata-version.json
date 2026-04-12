@@ -1,0 +1,60 @@
+{
+  "id": "shingata-medarot-kuwagata-version",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shingata Medarot - Kuwagata Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "真型メダロット クワガタバージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shingata Medarot - Kuwagata Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKUJ",
+      "size": 8388608,
+      "crc32": "0fd35628",
+      "md5": "d1415b84b039a978bdb920f917959779",
+      "sha1": "573e980dffdee50d53b6f2a79d1db2d650731558"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49822
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shingata%20Medarot%20-%20Kuwagata%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shingata%20Medarot%20-%20Kuwagata%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shingata%20Medarot%20-%20Kuwagata%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

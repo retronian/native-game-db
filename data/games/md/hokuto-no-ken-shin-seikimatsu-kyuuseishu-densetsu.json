@@ -1,0 +1,62 @@
+{
+  "id": "hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "北斗の拳 新世紀末救世主伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004012-00",
+      "size": 524288,
+      "crc32": "1b6585e7",
+      "md5": "f5e327aa603b334fd5713fda10464748",
+      "sha1": "7d489e1087a0816e2091261f6550f42a61474915",
+      "sha256": "3318f7dde3fa54c69b3144a00abe7501c42277609dc0743566f246428180f4a1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 313283
+  },
+  "first_release_date": "1989-07-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hokuto%20no%20Ken%20-%20Shin%20Seikimatsu%20Kyuuseishu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hokuto%20no%20Ken%20-%20Shin%20Seikimatsu%20Kyuuseishu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hokuto%20no%20Ken%20-%20Shin%20Seikimatsu%20Kyuuseishu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

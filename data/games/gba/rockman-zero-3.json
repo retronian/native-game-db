@@ -1,0 +1,104 @@
+{
+  "id": "rockman-zero-3",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman Zero 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロックマンゼロ3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ロックマン ゼロ3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman Zero 3 (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZ3J",
+      "size": 8388608,
+      "crc32": "c0ee255f",
+      "md5": "6a4f0c3e9d9024ebcaebc29cc3692559",
+      "sha1": "6e399c2cdd7e418b416e990b75dcbc10c9ac5a23",
+      "sha256": "ad100d0f73dce570a5051257c692d0d32165e26209dfdf31601bfa240e53283b"
+    },
+    {
+      "name": "Rockman Zero 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZ3J",
+      "size": 8388608,
+      "crc32": "5a2c41a9",
+      "md5": "aa9aeea52de34b25351e76d70bfbe2b8",
+      "sha1": "ff7a801776dc76e6d8c7ef73a6660ae732934a3f",
+      "sha256": "d4385d42557b111426f44c78d2272cd578d59d472d7e1a108ba6fee6bab3162b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "カプコンの「ロックマンゼロ」シリーズの第3作目では、あなたは当然のようにゼロを操作します。「ロックマンゼロ2」の続きから始まり、最近脱走した「ダークエルフ」を見つけて無力化しなければなりません。彼女がレジスタンスを洗脳し、ネオアルカディアを征服する前に。\n\n古いサイバーエルフシステムに加えて、このゲームには新しい「チップ」システムも登場します。ゼロはチップを見つけて自分にインストールすることで新しい能力を得ることができます。しかし、このゲームではサイバーエルフを完全に捨てることはせず、彼らに新しい要素を与えました。サイバーエルフの寿命を延ばすために、レベルに「サイバースペース」という新しい概念が追加されました。サイバースペースの扉を通ることで、サイバーエルフを好きなだけ使用でき、彼らが消耗することはありません。ただし、サイバースペースには「シークレットディスク」（キャラクターのプロフィールやサイバーエルフ、新しいチップを含むアイテム）があまり多くないため、通常のレベルで過ごす方が良いでしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-04-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%203%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

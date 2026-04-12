@@ -1,0 +1,54 @@
+{
+  "id": "my-first-dollhouse",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My First Dollhouse",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "I Did It Mum! Doll's House",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My First Dollhouse (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEHE",
+      "size": 16777216,
+      "crc32": "f16604f9",
+      "md5": "55991d88be3b4cf63e593e22cf07491c",
+      "sha1": "5361107d44b3ac3d004feecb3da2563f8a123453"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206769
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20First%20Dollhouse%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20First%20Dollhouse%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

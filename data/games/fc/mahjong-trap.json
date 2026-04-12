@@ -1,0 +1,77 @@
+{
+  "id": "mahjong-trap",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Trap",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "四川麻将 制服篇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Shisen Mahjong: Seifuku-hen",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "四川麻將",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    },
+    {
+      "text": "Shisen Mahjong: Seifuku-hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 115717
+  },
+  "first_release_date": "1989-12-31",
+  "roms": [
+    {
+      "name": "Mahjong Trap (Taiwan) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 65552,
+      "crc32": "f89b4895",
+      "md5": "2ffbeba9d98b5fef25cb70f088df1e88",
+      "sha1": "af44864ef58370bad70eeebbb28879e69b59c9ff",
+      "sha256": "b7b0edaeec11c2f010d1fae82564679c8ac4b4886c7f309432302236cfe1ff06"
+    },
+    {
+      "name": "Shisen Mahjong - Seifuku Hen (Japan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 98320,
+      "crc32": "ebc20088",
+      "md5": "f9a6e53f047027c5d6b8ff2a82f5a26e",
+      "sha1": "8bc85dfc5f6b28fa37be70b4a9281158f3483b3f",
+      "sha256": "319719347d22f7f4b3ae53fcac7611669386219977b2d187feb2076bf63c3cf6"
+    }
+  ]
+}

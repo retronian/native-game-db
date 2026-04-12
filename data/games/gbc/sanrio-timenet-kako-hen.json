@@ -1,0 +1,103 @@
+{
+  "id": "sanrio-timenet-kako-hen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Timenet - Kako Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオタイムネット 過去編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "サンリオタイムネット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "458b579d",
+      "md5": "0146768d48b8317e0c8a2c7dd8d31860",
+      "sha1": "8421e0d0fc356b25df62cde1967e7775a91983c2"
+    },
+    {
+      "name": "Sanrio Timenet - Kako Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6555b740",
+      "md5": "4505fd4df8eb721cf2f5b5be93682874",
+      "sha1": "b3b80b4a48faec9cc71d80a6b08b12b3541b4c1b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97415
+  },
+  "descriptions": [
+    {
+      "text": "時間の歪みを修復するために、時間のかけらであるモンスターを集めるRPGです。サンリオキャラクターとのモンスターバトルに勝利すると、モンスターやヒントを手に入れることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sanrio%20Timenet%20-%20Kako%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

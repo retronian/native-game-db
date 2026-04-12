@@ -1,0 +1,68 @@
+{
+  "id": "marusa-no-onna",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marusa no Onna",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マルサの女",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marusa no Onna (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1eb1d200",
+      "md5": "7bbf1c410ea57d53824202ff6bc8cac6",
+      "sha1": "4236b5c02cb2b61cf745a07074af48bf787acaab",
+      "sha256": "e731872898fa66afeca1a22d85f287a38a79f1e073e4c21260bdb3eea07dfdb6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48430
+  },
+  "descriptions": [
+    {
+      "text": "マルサの女は、日本映画「マルサの女」を基にしたアドベンチャーゲームです。女性税務監査官、板倉リョウコが様々な日本企業の会計を調査し、隠れた収入を暴き、未払いの税金を回収します。ある日、彼女は上司を説得して、税金を回避していると思われるラブホテルのオーナーを調査することを許可してもらいますが、調査の結果、証拠は見つかりませんでした。調査の過程で、監査官と調査対象のオーナー、ゴンドウ・ヒデキは、お互いに無言の尊敬を抱くようになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-09-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Marusa%20no%20Onna%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Marusa%20no%20Onna%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Marusa%20no%20Onna%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

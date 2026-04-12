@@ -1,0 +1,67 @@
+{
+  "id": "hello-kitty-to-dear-daniel-no-dream-adventure",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty to Dear Daniel no Dream Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハローキティとディアダニエルのドリームアドベンチャー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty to Dear Daniel no Dream Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "018eed29",
+      "md5": "15f4df0efe9f42cbaaac09c866cbfd21",
+      "sha1": "a726c5847112289720d6587bf63778c839245c49"
+    }
+  ],
+  "external_ids": {
+    "igdb": 57558
+  },
+  "descriptions": [
+    {
+      "text": "サンリオキャラクター「ハローキティ」と「ディアダニエル」が、過去、現在、未来が混ざり合った神秘的な世界で冒険します。\n\nこれは日本でのみ発売されたクラシックなハローキティのプラットフォームゲームです。あなたはハローキティの夢の中を進んでいきます。ハローキティとしてプレイし、カイゾースタイルの世界を多くのレベルで進んでいきます。各レベルでは、タイマーやハートなどを集めます。特定の扉を開けるには鍵が必要です。全体として、これは楽しいハローキティの冒険ゲームです。レベルをクリアするために必要なアイテムを探索し、集めましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hello%20Kitty%20to%20Dear%20Daniel%20no%20Dream%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hello%20Kitty%20to%20Dear%20Daniel%20no%20Dream%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hello%20Kitty%20to%20Dear%20Daniel%20no%20Dream%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

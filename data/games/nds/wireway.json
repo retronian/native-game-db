@@ -1,0 +1,90 @@
+{
+  "id": "wireway",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "WireWay",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "WireWay (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C6WJ",
+      "size": 33554432,
+      "crc32": "aa092b0a",
+      "md5": "5ea98f695740a8736ad89be8976946ea",
+      "sha1": "f1371cfc7fdb8b5c86bb9a02911596875bddf9e8"
+    },
+    {
+      "name": "WireWay (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6WE",
+      "size": 33554432,
+      "crc32": "eed406d6",
+      "md5": "4f5241f62690fab5cf5952453e212959",
+      "sha1": "672b72691bb4e43961e6128a38c4e753b6a310c1",
+      "sha256": "30e02661509c6eeedd82ee71204b66fee3af00496d9fa9411f82604f4d0ee4ed"
+    },
+    {
+      "name": "WireWay (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6WP",
+      "size": 33554432,
+      "crc32": "653119b1",
+      "md5": "f8835dcef2b2889fbc94e383dfd52adb",
+      "sha1": "77cd17f4f4d8b370f15b0ab8db19539666cc47d6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18548
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WireWay%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WireWay%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WireWay%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WireWay%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WireWay%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WireWay%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

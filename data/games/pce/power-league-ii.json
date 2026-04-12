@@ -1,0 +1,68 @@
+{
+  "id": "power-league-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power League II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーリーグII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power League II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "c5fdfa89",
+      "md5": "3cc67e4b750ce2d977580883f3840966",
+      "sha1": "2d176bd9efcf1576646e8889768ef8c6662ee216",
+      "sha256": "fa9d836a18809c4b922ee7c8e748ec4a0591edb0700fad62e302d49d356df146"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38089
+  },
+  "descriptions": [
+    {
+      "text": "野球のアクションに参加し、風を感じ、ピッチを感じ取って、パワーリーグIIでそのボールをスタンドの外に打ち出そう！真のプロのように守備、投球、打撃を駆使して、他のチームを打ち負かし、世界の真の野球チャンピオンとして君臨しよう！ボールに目を凝らして、ゲームの絶対的なチャンピオンになろう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20League%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20League%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20League%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

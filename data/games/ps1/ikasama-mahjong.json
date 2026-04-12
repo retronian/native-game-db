@@ -1,0 +1,59 @@
+{
+  "id": "ikasama-mahjong",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ikasama Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "イカサマ麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ikasama Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 101161952,
+      "crc32": "440d2e51",
+      "md5": "01fc89202f176b0dc7cad23c49cc80c2",
+      "sha1": "0468d54ac1e751cb8b8bc17bfd196a3c36deb2d2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 346150
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Ikasama%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Ikasama%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Ikasama%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

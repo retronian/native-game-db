@@ -1,0 +1,87 @@
+{
+  "id": "pictionary",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pictionary",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pictionary (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VPIP",
+      "size": 33554432,
+      "crc32": "ee129219",
+      "md5": "3fb0536579f00793293a294f563545d3",
+      "sha1": "0fda2f4b1896f4aa9056bf4cd8853246dca4015a"
+    },
+    {
+      "name": "Pictionary (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPIE",
+      "size": 33554432,
+      "crc32": "067d9a55",
+      "md5": "3664a8d3c5ee5f20449ffc74562f9bcb",
+      "sha1": "a3f94d321bbfb762bbdc3824dbcbbcffa1ead733"
+    },
+    {
+      "name": "Pictionary (USA) (Beta) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPIE",
+      "size": 33554432,
+      "crc32": "99e92f83",
+      "md5": "4b755e24a2ec955b76f1f94b328c862c",
+      "sha1": "c80b67de36de44ea2ff1f82c9a2ff25dc027de6c",
+      "sha256": "4ac1467fe93cbf23a57df700755c5ecda4738eec6bfbe27d3bdb2a9f4cf5d486"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pictionary%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pictionary%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pictionary%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pictionary%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pictionary%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pictionary%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

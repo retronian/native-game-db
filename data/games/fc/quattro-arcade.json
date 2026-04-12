@@ -1,0 +1,52 @@
+{
+  "id": "quattro-arcade",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quattro Arcade",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 48217
+  },
+  "first_release_date": "1992-02-01",
+  "roms": [
+    {
+      "name": "Quattro Arcade (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ed140748",
+      "md5": "b9f5f0f8c9a5c52831030df867bc72ab",
+      "sha1": "dac77ec6bc8835b8a3b7c9e4cdcb80a9569908aa",
+      "sha256": "5b11ec1271c102511b242ff8249a4ae1833e9cc432be16bf11fb1eb77293ddd9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Quattro%20Arcade%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Quattro%20Arcade%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Quattro%20Arcade%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

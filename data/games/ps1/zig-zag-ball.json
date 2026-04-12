@@ -1,0 +1,39 @@
+{
+  "id": "zig-zag-ball",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zig Zag Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジグザグボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zig Zag Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 153574080,
+      "crc32": "a0c6129a",
+      "md5": "1aa9f67431a4bef6556426269b402b4d",
+      "sha1": "4d5a04177708559de69cadcaca94266b0576362f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 74720
+  }
+}

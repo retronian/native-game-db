@@ -1,0 +1,77 @@
+{
+  "id": "rr64-ridge-racer-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "RR64 - Ridge Racer 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "RR64 - Ridge Racer 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NRZP",
+      "size": 33554432,
+      "crc32": "dd9ae3a8",
+      "md5": "4561840840760ffa7b59f03a5f416a5c",
+      "sha1": "faa21c8e0282d21eac2d1b35b020f40381e18fc4",
+      "sha256": "6ab08cdaebaa41248560e24d4727c45d5ccb372c8f8909fed3d3e6a56dba71be"
+    },
+    {
+      "name": "RR64 - Ridge Racer 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NRZE",
+      "size": 33554432,
+      "crc32": "3c2c2d1c",
+      "md5": "990f97d56456fc23e52bd263e709e21e",
+      "sha1": "5f079cd9827b24d12af4961482a0fcc679e53042"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/RR64%20-%20Ridge%20Racer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/RR64%20-%20Ridge%20Racer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/RR64%20-%20Ridge%20Racer%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/RR64%20-%20Ridge%20Racer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/RR64%20-%20Ridge%20Racer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/RR64%20-%20Ridge%20Racer%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

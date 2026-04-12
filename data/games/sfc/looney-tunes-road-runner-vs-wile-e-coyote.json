@@ -1,0 +1,74 @@
+{
+  "id": "looney-tunes-road-runner-vs-wile-e-coyote",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes - Road Runner vs Wile E. Coyote",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロードランナー Vs ワイリーコヨーテ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "LOONEY TUNES ロードランナーVSワイリーコヨーテ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes - Road Runner vs Wile E. Coyote (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "82399957",
+      "md5": "1f8bc03690af2a69a618a305702554ea",
+      "sha1": "457b8faddaed4e8733a067d9c1e33d4f6abfeb0c",
+      "sha256": "a8f7bbff457cb2365c2f737c815e90dbba0d54bb619eea33d72524cc9b0d88c6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "誰もが週末の早朝に起きて土曜の朝のアニメを観たことを覚えているでしょう。しかし、もしそのアニメがインタラクティブだったらどうなるでしょう？そう、あなたは「デスバレーラリー」のようなものに出会うかもしれません。目的は非常にシンプルです：ロードランナーを各レベルでできるだけ早くレースさせ、異なる色の旗を集めることです。旗はそれぞれ異なるポイントが設定されています。ゴールに到達したとき、もし十分に速ければタイムボーナスを獲得できますが、もし十分に上手ければフラッグボーナスも得られます。中には信じられないほど見つけるのが難しい旗もあり、通常はそれらを見つけることができないという事実が、ほとんどのゲーマーに挑戦（あるいは少なくともフラストレーション）をもたらします。このワイルドな冒険では、走ったり、バードシードを貯めてターボランしたり、つついたり、ジャンプしたりしながら、機知に富んだワイリー・コヨーテと彼の様々なACMEの仕掛けから逃げることを試みます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Looney%20Tunes%20-%20Road%20Runner%20vs%20Wile%20E.%20Coyote%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Looney%20Tunes%20-%20Road%20Runner%20vs%20Wile%20E.%20Coyote%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Looney%20Tunes%20-%20Road%20Runner%20vs%20Wile%20E.%20Coyote%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

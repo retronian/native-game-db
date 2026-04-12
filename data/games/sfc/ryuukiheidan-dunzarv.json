@@ -1,0 +1,65 @@
+{
+  "id": "ryuukiheidan-dunzarv",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ryuukiheidan Dunzarv",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "龍騎兵団ダンザルブ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ryuukiheidan Dunzarv (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "454d7dcd",
+      "md5": "d3e5ad143b6d4e0af5ceeb3178f88381",
+      "sha1": "298207ae2c8ce26281da1cc0daa90eb9c2542e85",
+      "sha256": "44e2554e2927334a1d35298fddef8fd86f1ce4d96ea46e0ecc09c126f3b46d42"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ダンザルブは、風変わりなSFメカRPGです。物語は章やエピソードに分かれており、それぞれに解決すべきミニゲームやパズルがあります。例えば、あるエピソードでは、いくつかのIDカードのパーツを見つける任務があり、それらを組み合わせるためにスライディングパズルを解く必要があります。また別のエピソードでは、敵兵士からタイムボムの解除手順に関する手がかりを集め、それを論理パズルで組み合わせて手順を解読します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-04-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ryuukiheidan%20Dunzarv%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ryuukiheidan%20Dunzarv%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ryuukiheidan%20Dunzarv%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "r-type-i",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "R-Type I",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アールタイプ I",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "R-Type I (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "cec3d28a",
+      "md5": "ac7e0730b10c3cf1afdc675c808572b1",
+      "sha1": "1170c63839fb94c754d07c4f6f49ad2de6666668",
+      "sha256": "c72e14a294f04de7ccbd29c45e22de05f7feaa92b8f0df4c52e5d0c046258c28"
+    },
+    {
+      "name": "R-Type I (Hong Kong) (En) (Unl)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "45fc8cb9",
+      "md5": "5c9fea339e21f811e8fa815fe4973476",
+      "sha1": "3b642cc1f905d85e70fc1ec3daf1a5937cb553e4",
+      "sha256": "8eb01d04a3683b0fef16b95706b5e62be2d7f9d5e261a6b3c4121fe29303438b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "宇宙船をパワーアップさせて、戦闘の準備を整えよう！これは、名作シューティングゲーム「R-TYPE」を完全に忠実に移植した作品です。POWアーマーを破壊すると、6種類の異なるユニットのうちの1つが現れ、それを使ってR-9をパワーアップできます。ビットを装備し、レーザーユニットを取得してフォースを出現させ、さらにパワーアップさせましょう。フォースはR-9に統合したり、分離したりすることができます。反射レーザービーム、空対地ミサイル、対空レーザーなど、武器を最大限に活用しましょう。発射ボタンを押し続けるとビームキャノンから弾を発射します。発射ボタンを押し続けてビームゲージをチャージし、放すと強力なウェーブキャノンの一撃を放つことができます！長く押し続けるほど、威力が増します！各ステージの最後には、巨大戦艦との戦いを含むN32ボスが待ち受けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/R-Type%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/R-Type%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/R-Type%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

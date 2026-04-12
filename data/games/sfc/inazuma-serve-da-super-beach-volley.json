@@ -1,0 +1,68 @@
+{
+  "id": "inazuma-serve-da-super-beach-volley",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Inazuma Serve da! Super Beach Volley",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "稲妻サーブだ! スーパービーチバレー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Inazuma Serve da! Super Beach Volley (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "879edee8",
+      "md5": "49b7a352f3cd309c0c79df37ab1a890e",
+      "sha1": "cb0c5b6b4a4011520888be6007816165f3a20e89",
+      "sha256": "63ae243b146d0f628afd0bc5f11c32336d78968a6bdb743aa3ffe8d94d0b5baf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38170
+  },
+  "descriptions": [
+    {
+      "text": "日本独占でリリースされた2Dビーチバレーゲームです。プレイヤーは24人のキャラクターからバレーボール選手を選び、それぞれ異なるステータスと個性的な外見を持っています。カリフォルニア、ハワイ、日本、ブラジル、オーストラリア、インドなど、世界各地のビーチバレー会場で別のチームと対戦します。20人のキャラクターはワールドカップモード用に10の異なる国籍に属し、残りの4人はどの国にも所属しない女性競技者です。ゲームには、スタンドアロンの「フリーバトル」対戦、ワールドカップの elimination トーナメント、プロリーグが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-08-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Inazuma%20Serve%20da%21%20Super%20Beach%20Volley%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Inazuma%20Serve%20da%21%20Super%20Beach%20Volley%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Inazuma%20Serve%20da%21%20Super%20Beach%20Volley%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

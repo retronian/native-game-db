@@ -1,0 +1,58 @@
+{
+  "id": "star-twins",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Twins",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スターツインズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Star Twins (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NJFJ",
+      "size": 33554432,
+      "crc32": "964506ce",
+      "md5": "ca28a3645fc7ad969ebd75c5d6506e7a",
+      "sha1": "15099233760b36e7afad7da36b9464da1512c4b1",
+      "sha256": "7c62e7fe10747fa038b6854a7db8412d9152c33d75a0ba90b8a208f0ca5c1e07"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Star%20Twins%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Star%20Twins%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Star%20Twins%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

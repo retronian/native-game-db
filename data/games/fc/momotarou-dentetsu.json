@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-dentetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Dentetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電鉄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Dentetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "48f43b2e",
+      "md5": "c1c707689f32316950b726c668a571eb",
+      "sha1": "d05b3e5f047997e7be4a396f39d0e6bea70addb3",
+      "sha256": "f06cacedb7552b25197ba49761b1359aa1e35726f620bd601216e4a9c8c20f13"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎電鉄。ボードゲームと経営シミュレーションが融合した名作。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-12-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

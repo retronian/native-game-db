@@ -1,0 +1,77 @@
+{
+  "id": "tetrastar-the-fighter",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetrastar - The Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "テトラ・スター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "テトラ・スター THE FIGHTER",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetrastar - The Fighter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "7b135ec7",
+      "md5": "0b9a5ce5546f4a3a7f6e772a4e57003b",
+      "sha1": "f12b826f0fb4a8bec86ca26d067908f9d542c6fc",
+      "sha256": "5eefd3880e6dc4bb02f582761178ac4d2d28cd734b97bf8ef7f76f9be1c2b91b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48387
+  },
+  "descriptions": [
+    {
+      "text": "テトラ・スター ザ・ファイターは、ホームデータによって開発され、タイトーが発売した3Dシューティングゲームです。2089年、地球は銀河間のバール帝国と同盟を結びますが、すぐに人類は異星人の真の意図を知ることになります。抵抗勢力のグループが、潜在的な脅威に備えるためにプロジェクト「テトラ・スター」を立ち上げます。しかし、ネルソン将軍が率いるこのプロジェクトはすぐに中断され、短命の平和が訪れます。しかし、これは敵対的な侵略に過ぎず、バール帝国はついに同盟を破棄し、地球に攻撃を仕掛けてきます。プレイヤーの最初の任務は、ニューヨークが破壊されるのを防ぎ、忠実なロボットナビゲーター「オメガ」を回収して異星人の母星へワープすることです。テトラ・スターのスーパーファイターは画面上を移動し、標準のバルカンガンを発射できます。特別な武器はゲームの後半で利用可能になり、爆弾（WID）、ホーミングミサイル（AAM）、ナパーム爆弾（NAP）、そして強力なバイオキャノン（BIO）などがあります。これらはセレクトボタンで選択し、Aボタンを押すことで発動します。すべての武器は限られた数量であり、途中でパワーポッドを拾うことで補充する必要があります。テトラ・スターは魅力的なステージを特徴としており、その間に挿入されるカットシーンがゲームのエピソードストーリーを展開します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-05-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetrastar%20-%20The%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetrastar%20-%20The%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetrastar%20-%20The%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

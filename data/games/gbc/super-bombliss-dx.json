@@ -1,0 +1,67 @@
+{
+  "id": "super-bombliss-dx",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Bombliss DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーボンブリス デラックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "34c8a4a5",
+      "md5": "6dbc891774265f4bc8ccba65f9383aec",
+      "sha1": "44070e77eb2b56b67f979e444d404e56b67edbb0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 123113
+  },
+  "descriptions": [
+    {
+      "text": "スーパーボンブリス デラックスは、テトリス ブラストのカラーリメイクであり、テトリス DXに応じて作られた可能性があります。これは日本専用のゲームで、ブラストのすべての機能に加えて、パズルモードが追加されています。\n\n異なるサウンドトラックが特徴で、「バトル」モードでは敵の外観が改訂されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Super%20Bombliss%20DX%20%28Japan%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Super%20Bombliss%20DX%20%28Japan%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Super%20Bombliss%20DX%20%28Japan%29%20%28En%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

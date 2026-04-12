@@ -1,0 +1,52 @@
+{
+  "id": "my-puppy-shop",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Puppy Shop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Puppy Shop (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YPTP",
+      "size": 33554432,
+      "crc32": "2b1fb878",
+      "md5": "06ea8864b6bacaaa11b83741ab4dd1c7",
+      "sha1": "51c78bd52d72df55d562a8207d64707ab4763c78",
+      "sha256": "fcd985958e1284754aa56e5dd12e53853f717fab91776f81a04b4f7cc3ab1abf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 154786
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Puppy%20Shop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Puppy%20Shop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Puppy%20Shop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

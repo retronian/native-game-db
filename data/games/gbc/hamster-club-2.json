@@ -1,0 +1,67 @@
+{
+  "id": "hamster-club-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Club 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスター倶楽部2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Club 2 (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "2fb398f9",
+      "md5": "d73b7f013ab9e347398683363f720ab7",
+      "sha1": "dcef750a73d813841cfcb871b5bb5f021a7b7285"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281543
+  },
+  "descriptions": [
+    {
+      "text": "ハムスターを繁殖させ、育てたハムスターを競技に出場させましょう。競技で認められると、ブリーダーとしての地位が向上します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Club%202%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Club%202%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Club%202%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

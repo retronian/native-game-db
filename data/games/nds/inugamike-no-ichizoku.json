@@ -1,0 +1,60 @@
+{
+  "id": "inugamike-no-ichizoku",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Inugamike no Ichizoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "犬神家の一族",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Inugamike no Ichizoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CKYJ",
+      "size": 33554432,
+      "crc32": "d467c061",
+      "md5": "bb2c3b975279dc5ede6a8c27d223240d",
+      "sha1": "9a30bd0da94d8387f28e68e56fd1d064b3d0e098"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130701
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Inugamike%20no%20Ichizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Inugamike%20no%20Ichizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Inugamike%20no%20Ichizoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

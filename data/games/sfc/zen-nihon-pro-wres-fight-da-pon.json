@@ -1,0 +1,65 @@
+{
+  "id": "zen-nihon-pro-wres-fight-da-pon",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zen-Nihon Pro Wres - Fight da Pon!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全日本プロレス ファイトだポン!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zen-Nihon Pro Wres - Fight da Pon! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "379645bd",
+      "md5": "97599530546821bfdefae6a658760170",
+      "sha1": "52aa5ce4612b81c90fd07f6c3dc9a712afb32668",
+      "sha256": "8b89731792f656b291df5c96409899cb018cbb48aada399a97214472b0405a6e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「全日本プロレス ファイトだポン！」は、ナツメ/マサヤが制作したスーパーファミコン用の「全日本プロレス」シリーズ（通称AJPW）のゲームです。このシリーズの他のゲームとは異なり、「ファイトだポン！」はサーキットをコメディタッチでパロディ化した作品で、さまざまなAJPWレスラーがデフォルメされたチビスタイルで描かれ、彼らの個性が誇張されています。\n\nゲームには複数のモードが用意されていますが、基本的なバトルシステムでは、適切なタイミングでカードを使用することが求められます。各カードにはスープレックスやクローズラインなどのレスリング技が描かれており、プレイヤーはこれを使って相手をカウンターしたり、圧倒したりすることができます。ゲームのストーリーモードは、時折バトルが行われるボードゲームのように展開します。\n\nこのゲームは1994年6月に日本でのみ発売されました。ナツメとマサヤによるスーパーファミコン用の全日本プロレスゲームの中で、3作目にあたります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zen-Nihon%20Pro%20Wres%20-%20Fight%20da%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zen-Nihon%20Pro%20Wres%20-%20Fight%20da%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zen-Nihon%20Pro%20Wres%20-%20Fight%20da%20Pon%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

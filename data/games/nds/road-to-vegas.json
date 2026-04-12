@@ -1,0 +1,45 @@
+{
+  "id": "road-to-vegas",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Road to Vegas",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Road to Vegas (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRVP",
+      "size": 33554432,
+      "crc32": "804cd016",
+      "md5": "bb26995161c2b51d966d0c7a0e05731f",
+      "sha1": "a768b260ee43844ec2a7d02111165a57c404b25d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 123402
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Road%20to%20Vegas%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Road%20to%20Vegas%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

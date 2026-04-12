@@ -1,0 +1,64 @@
+{
+  "id": "tokoro-san-no-setagaya-c-c",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tokoro-san no Setagaya C.C.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "所さんの世田谷カントリー倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tokoro-san no Setagaya C.C. (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9139e307",
+      "md5": "2b77458ef761618d869eb1713d567aa4",
+      "sha1": "f38d776ff74d02c2edce0dcbc84edd5601ee315a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジョージ・トコロが描いたキャラクターたちが活躍するゴルフゲームです。モードは合計で3つあり、ストロークモードでは隠れキャラクターが登場し、彼らと一緒に写真を撮ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tokoro-san%20no%20Setagaya%20C.C.%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tokoro-san%20no%20Setagaya%20C.C.%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tokoro-san%20no%20Setagaya%20C.C.%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

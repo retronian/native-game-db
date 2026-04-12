@@ -1,0 +1,51 @@
+{
+  "id": "games-around-the-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Games Around the World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Games Around the World (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXWE",
+      "size": 8388608,
+      "crc32": "21bf9628",
+      "md5": "824346c5b29cda017d88302a55858eb6",
+      "sha1": "40a875d39b5089b7c86daf9d6830537fe56af165"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205921
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Games%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Games%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Games%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "gradius-iii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gradius III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "グラディウスIII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "グラディウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "グラディウスIII 伝説から神話ヘ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gradius III (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "bca9ab02",
+      "md5": "059c8d6b72d95edb9fc619bee864ef3e",
+      "sha1": "e5119c731c9de5f942565ab0d752cb50abf4f32c",
+      "sha256": "47ddf3204dc99421f6029eaaed4eaa1a6660b5ddf2f07a5c2cd5879c70ca9043"
+    },
+    {
+      "name": "Gradius III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "cd973979",
+      "md5": "ea30c4f341f6b7a6e290699460ba6c51",
+      "sha1": "7e62203a4198e9404eb7b076802c09786e5a63f4",
+      "sha256": "93da752a0c76167d0907efa832367e5d14aab8e835b864f345c386071a9af718"
+    }
+  ],
+  "external_ids": {
+    "igdb": 335430
+  },
+  "descriptions": [
+    {
+      "text": "グラディウスIIIは、コナミの長寿スペースシューティングシリーズの第3作であり、ライフフォースやネメシスも含まれています。ほとんどのグラディウスシリーズと同様に、あなたは高度に進化した宇宙戦闘機ビックバイパーを操り、敵の大群に立ち向かいます。武器はあらかじめ設定されたロードアウトから選択することも、自分自身のカスタムロードアウトを作成することもできます。このゲームは1人プレイヤーでプレイすることも、交互にプレイする2人プレイヤーでも楽しむことができます。難易度は3段階用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20III%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gradius%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gradius%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "fighting-force-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fighting Force 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fighting Force 64 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NFFP",
+      "size": 16777216,
+      "crc32": "4052c176",
+      "md5": "0035e8205336982e362402aaea37d147",
+      "sha1": "705d2b553fab526c908e46c048be3a3338ae2a86",
+      "sha256": "5747731470434e1b4613d81288f8a7743b41e61c7349acf673eea92685c75c43"
+    },
+    {
+      "name": "Fighting Force 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NFFE",
+      "size": 16777216,
+      "crc32": "8456841e",
+      "md5": "e7008d17fd71d9c2bda1362c885388b2",
+      "sha1": "6b4e78201ad5c5d0bd932652f233d9732316cdc2",
+      "sha256": "951b6e3ae20fa5eed054f55e9c345b7eaa913930b330cd87e0ade373233bc417"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Fighting%20Force%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Fighting%20Force%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Fighting%20Force%2064%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Fighting%20Force%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Fighting%20Force%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Fighting%20Force%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

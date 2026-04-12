@@ -1,0 +1,144 @@
+{
+  "id": "xevious",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Xevious",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゼビウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Xevious (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "12b20f12",
+      "md5": "0db793ad1c2f626122bec24fed314526",
+      "sha1": "fa794cec27f42c5312b2f5bb1d16391d138a6d26",
+      "sha256": "0d5c9c8ad12b1910bca70a399eda3c078873352ea3b299bed13e0d9dd591049f"
+    },
+    {
+      "name": "Xevious (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "d006e0e8",
+      "md5": "174e61f6047d48f60ceb2807777d9435",
+      "sha1": "c4a36c14de32424f0ee2f9cd3fa8ec28103f9bf0",
+      "sha256": "699db8d3e397da083a15dee240b14efaf1593777fc790f23729f46ca6156538c"
+    },
+    {
+      "name": "Xevious (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "c1837e24",
+      "md5": "93b4f2b16c689044093216182e267b3c",
+      "sha1": "529f0cf8a899929894af0525038b177b0b84b67d",
+      "sha256": "a75c2d1166eedaad23c83dc52ce0216fa620737d9bc61ab61b9bed6b87d00090"
+    },
+    {
+      "name": "Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "b4280b71",
+      "md5": "3a0cf606f6f643aa35dea8f4786ccc71",
+      "sha1": "4ccdc5e28cc8239d2634acf989a27b16e4b53053",
+      "sha256": "3546f108acd58886e4a525817f693258cd79a7fa9bf4681c4d994a1aa1e5c582"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゼビウス。ナムコの名作シューティング。縦スクロールSTGの金字塔。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Xevious%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Xevious%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Xevious%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Xevious%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Xevious%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Xevious%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Xevious%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Xevious%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Xevious%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Xevious%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Xevious%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Xevious%20%28World%29%20%28Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

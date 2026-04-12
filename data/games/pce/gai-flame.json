@@ -1,0 +1,93 @@
+{
+  "id": "gai-flame",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gai Flame",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガイフレーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gai Flame (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "95f90dec",
+      "md5": "1f82d7ccd607138a06bdcb17055e35e1",
+      "sha1": "e86749fff3a09e48056ca66ce4bae3ba1adc8e18",
+      "sha256": "54aaed61c43129da1798852868096a92585b58532ca09fba52e1ac80abe77f10"
+    },
+    {
+      "name": "Gai Flame (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "9182c639",
+      "md5": "fe73ce607affc5cb695a9464cf380c30",
+      "sha1": "6f70e183924ae5459cec9863ff5147a3e1f14024",
+      "sha256": "3aa4014f67596e15a99307e33a0840395b015146b4f5a99c06df31b2b0f29106"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "Gaiflame（またはGai Flame）は、巨大で重武装の人型ロボットを使ったSFターン制ストラテジーゲームです。プレイヤーは巨大ロボットの軍を指揮し、敵を撃破しようとします。\n\nゲームは、マクロレベルの世界観から始まり（プレイヤーは部隊を戦場から戦場へ移動させることができ、各戦場には6つの部隊スロットがあります）、バトルモードに入ります。プレイヤーは「擬似六角形」のマップ（6つの隣接する正方形）上でいくつかのロボットを指揮し、敵の軍を打ち負かそうとします。ロボット同士の戦闘は、特別な小さな画面でアニメーション表示されます - Advance Warのように。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gai%20Flame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gai%20Flame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gai%20Flame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gai%20Flame%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gai%20Flame%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gai%20Flame%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

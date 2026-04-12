@@ -1,0 +1,65 @@
+{
+  "id": "mortal-kombat-ii-kyuukyoku-shinken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mortal Kombat II - Kyuukyoku Shinken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モータルコンバットII 究極神拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "fb2d267c",
+      "md5": "3d166efee520aa0013c0846c3ac4d417",
+      "sha1": "cef60bbad2a194f87243413f02803167100afe8f",
+      "sha256": "45dc7491c9b6b93142becbabfee7c8d01ed862bd2aa6da9ee597fdbba8d20cc5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "モータルコンバットのファイターたちに加え、いくつかの新キャラクターが登場し、邪悪なシャオ・カーンが主催するトーナメントに戻ってきます。アクションはこれまでと同様に1対1で行われ、暴力と血の多さで有名です（衛生的な任天堂版を除く）。難易度は5段階あり、オプションのクレジットも用意されています。また、同じキャラクター同士の対戦を含む通常の2人プレイモードもあります。\n\nメインのトーナメントに勝つためには、プレイヤーは他の人間プレイヤーを全て倒し、最後にシャオ・カーン、キンタロウ、そしてシャオ・カーンに挑む必要があります。プレイヤーはパンチやキックの他に、飛び蹴り、アッパーカット、回し蹴り、そして各キャラクターごとに異なる特別技を駆使することができます。これには投げ技、アッパーカット、遠距離弾、バイシクルキック、テレポート機能が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-11-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mortal%20Kombat%20II%20-%20Kyuukyoku%20Shinken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mortal%20Kombat%20II%20-%20Kyuukyoku%20Shinken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mortal%20Kombat%20II%20-%20Kyuukyoku%20Shinken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "shijou-saidai-no-soukoban",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shijou Saidai no Soukoban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "史上最大の倉庫番",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shijou Saidai no Soukoban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25023-00",
+      "size": 262144,
+      "crc32": "40f4aacc",
+      "md5": "110d17485c49a022cd280cf5194e7d74",
+      "sha1": "4f5341f3cd0b648c2116593b3f706b634a7e0128",
+      "sha256": "67e540f24489c848225ecaecc14b90aae0572200d23a40c3c8b428417a102423"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shijou%20Saidai%20no%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shijou%20Saidai%20no%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shijou%20Saidai%20no%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "pokemon-heartgold-version",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - HeartGold Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - HeartGold Version (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "IPKE",
+      "size": 134217728,
+      "crc32": "c180a0e9",
+      "md5": "258cea3a62ac0d6eb04b5a0fd764d788",
+      "sha1": "4fcded0e2713dc03929845de631d0932ea2b5a37",
+      "sha256": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105"
+    },
+    {
+      "name": "Pokemon - HeartGold Version (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "IPKE",
+      "size": 134217728,
+      "crc32": "b64a5efb",
+      "md5": "80c1024a03aa2c1e3d66ba168db97739",
+      "sha1": "eb47ab4ba0326ae842135f62c7ec68cf85c9785f",
+      "sha256": "86a977f863c87759f4001fdc47182090e0bfd08f52fa7e74d55db705f96bc335"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20HeartGold%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20HeartGold%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20HeartGold%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20HeartGold%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20HeartGold%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20HeartGold%20Version%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

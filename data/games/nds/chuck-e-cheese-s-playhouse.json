@@ -1,0 +1,39 @@
+{
+  "id": "chuck-e-cheese-s-playhouse",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuck E. Cheese's Playhouse",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuck E. Cheese's Playhouse (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BC7E",
+      "size": 16777216,
+      "crc32": "924bbe7e",
+      "md5": "15af2fe2afd12716bbe32a797d57eb47",
+      "sha1": "891f200cbeeb091d115f8c997c02c8e9721b5bf8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 55904
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chuck%20E.%20Cheese%27s%20Playhouse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

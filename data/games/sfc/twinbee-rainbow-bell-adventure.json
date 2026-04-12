@@ -1,0 +1,65 @@
+{
+  "id": "twinbee-rainbow-bell-adventure",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "TwinBee - Rainbow Bell Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ツインビー レインボーベルアドベンチャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "TwinBee - Rainbow Bell Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "91867af4",
+      "md5": "b965286de67b7116b8eb587457f9b649",
+      "sha1": "9991b9ed49c7fe663deeb9ec51b54a216b957a1f",
+      "sha256": "c8187417a27a2f14ce2be35eebd0f112bd413b57d3589ae6d40b333bc21ba694"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたはツインビー、グインビー、またはウィンビーのいずれかを操作します。協力プレイも可能で、このモードでは二人目のプレイヤーが残りの二人のキャラクターのうちの一人を操作します。いずれにせよ、あなたの任務は邪悪なドクター・ウォーマンを見つけて倒すことです。彼はダンブリの島々を奴隷にしようとしています。\n\nドクター・ウォーマンが送り込んでくる多くの悪党に対処するためには、色付きのベルを集める必要があります。ベルの色によって、レーザー（青いベル）やムチ（オレンジのベル）など、異なる攻撃を使用できます。しかし、ベルがなくてもあなたは無防備ではありません。あなたの通常攻撃には、ショックウェーブや飛ぶ能力が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/TwinBee%20-%20Rainbow%20Bell%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/TwinBee%20-%20Rainbow%20Bell%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/TwinBee%20-%20Rainbow%20Bell%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

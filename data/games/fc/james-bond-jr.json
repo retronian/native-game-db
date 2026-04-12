@@ -1,0 +1,88 @@
+{
+  "id": "james-bond-jr",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "James Bond Jr",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "James Bond Jr (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "dff26423",
+      "md5": "1a146c7449a5adbabacc26121749ece3",
+      "sha1": "1ad5f748c0e8d54427f2815719f4cbd87d709d22",
+      "sha256": "838b2fdc6787bc263e18349e643a2f814826eeaf8b73b36679a34e87bddadd12"
+    },
+    {
+      "name": "James Bond Jr (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "4d306863",
+      "md5": "b93ad8a684b65493c13589cccb00e324",
+      "sha1": "8d30594ae9f3a352ab826b7dae4cdc6a8e83851d",
+      "sha256": "73f2132917a651f320fc434776c955215a26242641606984f3ab0bec7c6412d0"
+    },
+    {
+      "name": "James Bond Jr (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "9241f0b2",
+      "md5": "eb310d4a40d8bbf875deb32ead6a0d34",
+      "sha1": "45c2d4149d8a8f5f7cf59816c48f64c0d3deed54",
+      "sha256": "28100c890fa0cd7ec81b32071e3a87fdc94e7a64066e075635f5a970d03bc682"
+    }
+  ],
+  "external_ids": {
+    "igdb": 290180
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/James%20Bond%20Jr%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/James%20Bond%20Jr%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

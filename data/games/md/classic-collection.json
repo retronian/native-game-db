@@ -1,0 +1,51 @@
+{
+  "id": "classic-collection",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic Collection (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1199-00",
+      "size": 2097152,
+      "crc32": "73f948b1",
+      "md5": "7a8327df65336f3ae7c96c1b8d03c1bd",
+      "sha1": "80629bb91a1123ae832f6997f9f3c0e070ce81ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 52848
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Classic%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Classic%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Classic%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "denki-blocks",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Denki Blocks!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Denki Blocks! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "38f00974",
+      "md5": "e4594f3d22fce6b71642a9f3049a6054",
+      "sha1": "cf4037db23525937e6dceea7343a9ea7a22f928d"
+    },
+    {
+      "name": "Denki Blocks! (USA) (En,Es) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "aafc35c3",
+      "md5": "163859b2468b5ad697236ffb5a6765be",
+      "sha1": "bca594d5d90219b263638dd86a96e3e9a64ce71e",
+      "sha256": "586239fe88cac4fc3f4acf1fdf6eaa7a78366ade2cc7d65720d23f9737be727f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49155
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Denki%20Blocks%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Denki%20Blocks%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Denki%20Blocks%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

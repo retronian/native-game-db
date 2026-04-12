@@ -1,0 +1,66 @@
+{
+  "id": "new-3d-golf-simulation-waialae-no-kiseki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New 3D Golf Simulation - Waialae no Kiseki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "New 3Dゴルフシミュレーション ワイアラエの奇蹟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ワイアラエの奇蹟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "New 3D Golf Simulation - Waialae no Kiseki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8bafca10",
+      "md5": "404797ad46837ac9f4b02fe1aee3dd3e",
+      "sha1": "eb78d985aade66cf1f2aaf19ebed104288746006",
+      "sha256": "c118d1476663837fb599a4601fb1a8abab04a4e037b32aea3bcba83073ecc920"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/New%203D%20Golf%20Simulation%20-%20Waialae%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/New%203D%20Golf%20Simulation%20-%20Waialae%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/New%203D%20Golf%20Simulation%20-%20Waialae%20no%20Kiseki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

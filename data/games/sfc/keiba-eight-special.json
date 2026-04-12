@@ -1,0 +1,97 @@
+{
+  "id": "keiba-eight-special",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Keiba Eight Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "競馬エイトスペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "馬エイトス 8 ペシャル ㊙ 馬券購入術",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Keiba Eight Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a5faefaa",
+      "md5": "b8dbaa4eff9542ece95d5bebbbca0da2",
+      "sha1": "af2e7ace9edc1d1d6d109ee0e28c8a61bdd22b0e",
+      "sha256": "b8ad132e2549c71e016160735fbe6a82efae89a4de61368be781877c2c36ef4c"
+    },
+    {
+      "name": "Keiba Eight Special (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5d4e4ee1",
+      "md5": "788e836661537802f78ee1fcc636b75a",
+      "sha1": "b11badc115f54f267a22d90ca30d2cc7dd57ae14",
+      "sha256": "6c6309740296ef47f8d8df5bcc38605ccf1e0ee45bc0fcd67f98d161ddfba860"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37966
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Keiba%20Eight%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Keiba%20Eight%20Special%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Keiba%20Eight%20Special%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Keiba%20Eight%20Special%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

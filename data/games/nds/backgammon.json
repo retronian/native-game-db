@@ -1,0 +1,43 @@
+{
+  "id": "backgammon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backgammon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backgammon (Germany)",
+      "source": "no_intro",
+      "serial": "BBND",
+      "size": 8388608,
+      "crc32": "eff01504",
+      "md5": "7dad3bf02586ff260d7746369c9cf94b",
+      "sha1": "6ad607a7765cdc80143ee36fc1efebc80bd78dd5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Backgammon%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Backgammon%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Backgammon%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

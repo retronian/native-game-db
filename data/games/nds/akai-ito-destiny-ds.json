@@ -1,0 +1,60 @@
+{
+  "id": "akai-ito-destiny-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Akai Ito Destiny DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "赤い糸 Destiny DS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Akai Ito Destiny DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BIDJ",
+      "size": 134217728,
+      "crc32": "db592926",
+      "md5": "1826de48164d0efb64e3ed433e295d42",
+      "sha1": "03e02ff10be0682dbb0518a6e4b0b8068f2334fb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 94852
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Akai%20Ito%20Destiny%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Akai%20Ito%20Destiny%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Akai%20Ito%20Destiny%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

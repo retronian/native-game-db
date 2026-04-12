@@ -1,0 +1,100 @@
+{
+  "id": "dragon-ball-z-super-butouden",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball Z - Super Butouden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボールZ 超武闘伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボール 超武闘伝 スーパーぶとうでん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Super Butouden (France)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "ea7abad1",
+      "md5": "dd909b890fe4c2505d289361368ec22a",
+      "sha1": "bda0ecd24cd529d178eba14db8a0453718262df2",
+      "sha256": "e135511707c68c16d07b656f63e2b9dc42f436a37b0c85a949fc9e75e1111b34"
+    },
+    {
+      "name": "Dragon Ball Z - Super Butouden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "8c7780bd",
+      "md5": "a2543e309e1cfa7edfdc13bb30f3d60c",
+      "sha1": "89bf91648a9ff8e2c07617b0801edf2a97f2779e",
+      "sha256": "7c834b2c259a6d3e127d0817b3cc1610c4772e670e4d936d900f27cbdc591071"
+    },
+    {
+      "name": "Dragon Ball Z - Super Butouden (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d6e464b7",
+      "md5": "73dc69165d1679826d12dd67332bf79f",
+      "sha1": "a1315a8d697383a13f4e8a0232279eed82f67c4a",
+      "sha256": "2305641078f294d8a65a7f6ae34576606ddee038f567bd0841f8886d5e75c02f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Super%20Butouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

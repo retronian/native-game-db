@@ -1,0 +1,67 @@
+{
+  "id": "world-cup-of-pool",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Cup of Pool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Cup of Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YQKE",
+      "size": 33554432,
+      "crc32": "c78c9a34",
+      "md5": "099d0766354feafa47fe83021e5dd408",
+      "sha1": "29bf8966e54477be8a2e62ccb3f234ca62a983f5"
+    },
+    {
+      "name": "World Cup of Pool (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YQKP",
+      "size": 33554432,
+      "crc32": "c4761066",
+      "md5": "5f47c62e14683148d53768358fc1db12",
+      "sha1": "031b7bb35fd78dcc1eb102bc11484abe6c232b80"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47963
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Cup%20of%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Cup%20of%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Cup%20of%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Cup%20of%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

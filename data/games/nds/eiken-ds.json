@@ -1,0 +1,91 @@
+{
+  "id": "eiken-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Eiken DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Eiken DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AEUJ",
+      "size": 67108864,
+      "crc32": "d631bb6e",
+      "md5": "061e76d7555107d02b4fdd1e94c841fb",
+      "sha1": "99599be45300e7d1c4c1a8c870840662cdafac85"
+    },
+    {
+      "name": "Eiken DS (Japan) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AEUJ",
+      "size": 67108864,
+      "crc32": "3992c554",
+      "md5": "cd3b7343ddda82115207b59e5ba27e3f",
+      "sha1": "b4040eb067389520f8ab959967926b144e88a87b",
+      "sha256": "5d59491483162ae641675efd4e9641a18f5403a5d56fe42f6cacb82c66a947b0"
+    },
+    {
+      "name": "Eiken DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AEUJ",
+      "size": 67108864,
+      "crc32": "c4e59da0",
+      "md5": "11959c54a73c6c7ca7832bd441c929d2",
+      "sha1": "4190b40bdcc1bbeea44b623066a4a9319f454e0c",
+      "sha256": "bbb9e9abb11189b6472dbca4c66fddef5669cfb8bc0515cc20d83eeb4afff777"
+    }
+  ],
+  "external_ids": {
+    "igdb": 269752
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eiken%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eiken%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eiken%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eiken%20DS%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eiken%20DS%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eiken%20DS%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

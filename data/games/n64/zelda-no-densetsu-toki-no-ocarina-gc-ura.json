@@ -1,0 +1,51 @@
+{
+  "id": "zelda-no-densetsu-toki-no-ocarina-gc-ura",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zelda no Densetsu - Toki no Ocarina GC Ura",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゼルダの伝説 時のオカリナ 裏 (ゼルダの伝説 時のオカリナ GC)",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CZLJ",
+      "size": 33554432,
+      "crc32": "122ff261",
+      "md5": "69895c5c78442260f6eafb2506dc482a",
+      "sha1": "dd14e143c4275861fe93ea79d0c02e36ae8c6c2f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Toki%20no%20Ocarina%20GC%20Ura%20%28Japan%29%20%28GameCube%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Zelda%20no%20Densetsu%20-%20Toki%20no%20Ocarina%20GC%20Ura%20%28Japan%29%20%28GameCube%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

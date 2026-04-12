@@ -1,0 +1,51 @@
+{
+  "id": "hello-pocoyo",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello, Pocoyo!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello, Pocoyo! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CYPP",
+      "size": 67108864,
+      "crc32": "2badb459",
+      "md5": "15f53b2f88c1e791bc4c6fca9135e5ca",
+      "sha1": "bc2f4df97f5d4bff2af28cb6f97dbfaadfa85164"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64972
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hello%2C%20Pocoyo%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hello%2C%20Pocoyo%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hello%2C%20Pocoyo%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

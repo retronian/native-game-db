@@ -1,0 +1,57 @@
+{
+  "id": "dragon-quest-v-tenkuu-no-hanayome",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Quest V - Tenkuu no Hanayome",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンクエストV 天空の花嫁",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "bc955f3b",
+      "md5": "d8e95e744e66e7ec30d9591f71dafd0a",
+      "sha1": "1c47ed62c561d7965fe5dc2a03f4c37feb4a46b5",
+      "sha256": "9f9e7b578137a515589d832885dc7d8211feec6888e83550886ff09ada8f448b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Quest%20V%20-%20Tenkuu%20no%20Hanayome%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Quest%20V%20-%20Tenkuu%20no%20Hanayome%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Quest%20V%20-%20Tenkuu%20no%20Hanayome%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

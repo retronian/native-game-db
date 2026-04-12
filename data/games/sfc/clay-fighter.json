@@ -1,0 +1,85 @@
+{
+  "id": "clay-fighter",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Clay Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Clay Fighter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "b581e100",
+      "md5": "5d281dedab8bcb63624810b333da261a",
+      "sha1": "642b77a868ef64674932f5e1840375cfa27c0aaa",
+      "sha256": "f000606a504c7a51617c0e32865924a68bf899170aea2647cf403fede8491c0e"
+    },
+    {
+      "name": "Clay Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "c814e3c2",
+      "md5": "90e90f2aae4770ee98130580a594e2bb",
+      "sha1": "e91b6989c32fdabb1322af07be24c0c59f214e7f",
+      "sha256": "8b7525b2aa30cbea9e3deee601dd26e0100b8169c1948f19866be15cae0ac00d"
+    },
+    {
+      "name": "Clay Fighter (World) (Evercade)",
+      "source": "no_intro",
+      "size": 3145728,
+      "crc32": "85322fe3",
+      "md5": "5c3ddb2a03021ac442311656ebe583e8",
+      "sha1": "1ae2d9936dfe47989a3a1c2445320a776eb79d57",
+      "sha256": "22b4b9bb1480af40054e2831cdb9ca0fae46c577ab1b24e48f08b48b6f7ef720"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clay%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Clay%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Clay%20Fighter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clay%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Clay%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Clay%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

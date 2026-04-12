@@ -1,0 +1,64 @@
+{
+  "id": "smileyworld-island-challenge",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SmileyWorld - Island Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "SmileyWorld - Island Challenge (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CWJP",
+      "size": 8388608,
+      "crc32": "304a0c57",
+      "md5": "dffcd1a788180e6bb483863690263e03",
+      "sha1": "6054f9f5954fcf1f5678b76cac39a95e76c63290"
+    },
+    {
+      "name": "SmileyWorld - Island Challenge (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CWJE",
+      "size": 8388608,
+      "crc32": "4c2b9b9f",
+      "md5": "04db6fb07f9b71ccaaec17a18c6462ec",
+      "sha1": "d143315f9c971da5e5726b018f0cf4e0d6c86efd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SmileyWorld%20-%20Island%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SmileyWorld%20-%20Island%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SmileyWorld%20-%20Island%20Challenge%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SmileyWorld%20-%20Island%20Challenge%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

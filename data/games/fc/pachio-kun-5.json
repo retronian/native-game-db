@@ -1,0 +1,77 @@
+{
+  "id": "pachio-kun-5",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun 5",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチ夫くん5 Jrの挑戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "マイティファイナルファイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun 5 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "6623f27a",
+      "md5": "2ea08086a562b70d16156954cd92ce7f",
+      "sha1": "c298f5d3846d47394e274fe66dde497c847b17f5",
+      "sha256": "165117767371a68bdea81cd5070783795c40655002d3627a0daf3613a093d8dd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48833
+  },
+  "descriptions": [
+    {
+      "text": "ファミコンでのパチ夫くんの最後の冒険です。前作と非常に似ており、新しいパチンコ台やカジノがさらに追加され、パチ夫くんの友達を解放するために挑戦します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pachio-kun%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pachio-kun%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pachio-kun%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

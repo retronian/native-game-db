@@ -1,0 +1,60 @@
+{
+  "id": "test-drive-off-road-3",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Test Drive Off-Road 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "4X4 World Trophy",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0fdd5b9e",
+      "md5": "9f88bdc053b035240ff1478ca11e7c23",
+      "sha1": "71b425cbc02fa20b1f28a7612e7ac259bd1338b0",
+      "sha256": "9ecb72731dce21bbef9b98ea05bb5cd1552673705377f55963d41fcc0e530513"
+    }
+  ],
+  "external_ids": {
+    "igdb": 366686
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Test%20Drive%20Off-Road%203%20%28USA%29%20%28Rumble%20Version%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Test%20Drive%20Off-Road%203%20%28USA%29%20%28Rumble%20Version%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Test%20Drive%20Off-Road%203%20%28USA%29%20%28Rumble%20Version%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

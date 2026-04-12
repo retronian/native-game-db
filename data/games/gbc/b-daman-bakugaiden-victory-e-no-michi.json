@@ -1,0 +1,64 @@
+{
+  "id": "b-daman-bakugaiden-victory-e-no-michi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "B-Daman Bakugaiden - Victory e no Michi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビクトリーへの道 B・ビーダマン爆外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ddce76d6",
+      "md5": "ba1195224261abd308db025d69ee2227",
+      "sha1": "4904102846a5fd0176c6f4bfd421f86fb1fab45b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、マップ上のパネルを回転させて進むRPGで、ビーダ戦士たちは進化し、合体することができます。B・ビーダマンは他のビーダ戦士と進化し、合体することができ、集めたアイテムは通信を通じて交換できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/B-Daman%20Bakugaiden%20-%20Victory%20e%20no%20Michi%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/B-Daman%20Bakugaiden%20-%20Victory%20e%20no%20Michi%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/B-Daman%20Bakugaiden%20-%20Victory%20e%20no%20Michi%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

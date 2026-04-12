@@ -1,0 +1,45 @@
+{
+  "id": "jumble-madness",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jumble Madness",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jumble Madness (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJNE",
+      "size": 16777216,
+      "crc32": "9ae2e30c",
+      "md5": "3b0864ec8d25101e5003e68ee2431783",
+      "sha1": "445a112e27325c7981205bb4ccb7c7bbc525fd0a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92053
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jumble%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jumble%20Madness%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

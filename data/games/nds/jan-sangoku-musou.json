@@ -1,0 +1,60 @@
+{
+  "id": "jan-sangoku-musou",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jan Sangoku Musou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀・三國無双",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jan Sangoku Musou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJAJ",
+      "size": 134217728,
+      "crc32": "5babb167",
+      "md5": "577d6bbc6e0eda08a88dc48eb48c40bc",
+      "sha1": "7025e170a29b10024ee58c113835adb52344538e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64360
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jan%20Sangoku%20Musou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Jan%20Sangoku%20Musou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jan%20Sangoku%20Musou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

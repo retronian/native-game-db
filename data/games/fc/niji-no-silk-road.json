@@ -1,0 +1,65 @@
+{
+  "id": "niji-no-silk-road",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Niji no Silk Road",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "虹のシルクロード ジグザグ冒険記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Niji no Silk Road (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "b8f3ba64",
+      "md5": "72e42a42c8d7f720613dd7b82a2b2dce",
+      "sha1": "8fbcd67f62f6423860c5d4256692bde0c96bd4b5",
+      "sha256": "752a46fab98ba8636004e3559d1cdb00ac78bd060254ed875b0dbe3672c61410"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームは中世を舞台にしており、中国と中東を結ぶ有名なシルクロードの周辺で展開します。架空の王国リトルランドでは、邪悪なズルールが王族に対して陰謀を巡らせました。彼は王と女王を殺害し、王位を奪い取って暗黒の圧政時代を始めました。しかし、王の護衛の一人であるラドリーは、若き王位継承者を連れ去り、ダマスカスに安全に送り届けました。そこで彼は成長します。自分がリトルランド王朝の真の王子であることを知った若き英雄は、ラドリーの指示に従い、ズルールを倒すために唯一の手段である七つの魔法の虹の欠片を探す冒険に出ます。\n\nこのゲームは、コンソールスタイルのRPGで、一人称視点、ターン制バトル、そしていくつかの興味深いゲームプレイ要素を特徴としています。ランダムな敵からは経験値やお金を得ることはできません。その代わり、多くの戦闘を行うことで人気が上昇し、ある町でアイテムを購入し、別の町で売却することでアイテムを取引することができます。取引はゲーム内でお金を得る唯一の効果的な方法です。より良い武器や防具を購入し装備することで、あなたは強くなります。また、ゲーム内には渇きの要素もあります。定期的に水を飲まなければ、干からびてしまいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Niji%20no%20Silk%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Niji%20no%20Silk%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Niji%20no%20Silk%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

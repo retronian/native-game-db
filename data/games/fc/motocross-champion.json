@@ -1,0 +1,70 @@
+{
+  "id": "motocross-champion",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Motocross Champion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モトクロスチャンピオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "モトクロス チャンピオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Motocross Champion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1a50c918",
+      "md5": "f99abab485c74dfa3178b6535d63c853",
+      "sha1": "ae1462e4042c89009446a793dfa0722c8b1a21f2",
+      "sha256": "3367f8fa66ddb88ca2758c61a6c199f70b2f44c502b5103cff01db2795b5334e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64272
+  },
+  "first_release_date": "1989-01-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Motocross%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Motocross%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Motocross%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

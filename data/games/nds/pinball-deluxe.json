@@ -1,0 +1,39 @@
+{
+  "id": "pinball-deluxe",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pinball Deluxe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pinball Deluxe (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C3VP",
+      "size": 16777216,
+      "crc32": "c87f6d09",
+      "md5": "0202c0b4dba8552fbe8abf84c2b9f66d",
+      "sha1": "a78b17b0d574ad6c502394eb189361c982d7d00a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209958
+  },
+  "media": [
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pinball%20Deluxe%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

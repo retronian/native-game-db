@@ -1,0 +1,66 @@
+{
+  "id": "final-fantasy-usa-mystic-quest",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Fantasy USA - Mystic Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルファンタジーUSA ミスティッククエスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファイナル ファンタジーUSA Mystic Quest ミスティック クエスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Fantasy USA - Mystic Quest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1da17f0c",
+      "md5": "5164060bd3350d7a6325ec8ae80bba54",
+      "sha1": "ffc05a65ef43fa5c56c9930af1af527509c1ae05",
+      "sha256": "0460ef66212da9164155ad2a31180dd2bd962c1d3997995af0d18f6a129d3d55"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20USA%20-%20Mystic%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Final%20Fantasy%20USA%20-%20Mystic%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20USA%20-%20Mystic%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

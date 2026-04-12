@@ -1,0 +1,57 @@
+{
+  "id": "hisshou-pachi-slot-fun",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hisshou Pachi-Slot Fun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "必勝パチスロファン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hisshou Pachi-Slot Fun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b37bbd38",
+      "md5": "9388c9725a02e8909217cc5088fcc165",
+      "sha1": "c0c272461a7877f86194208bd549244effeb3563",
+      "sha256": "9f802b3513f8ac0188c0b8c9cabf9141f63708f7e8bb859e21add509b435fbfb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hisshou%20Pachi-Slot%20Fun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hisshou%20Pachi-Slot%20Fun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hisshou%20Pachi-Slot%20Fun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

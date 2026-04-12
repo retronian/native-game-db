@@ -1,0 +1,62 @@
+{
+  "id": "deep-blue-kaitei-shinwa",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Deep Blue - Kaitei Shinwa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ディープブルー・海底神話",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Deep Blue - Kaitei Shinwa (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "053a0f83",
+      "md5": "12c28460b65b5e1d898ac77c30124122",
+      "sha1": "f9cb1e26b4274759890844c36d8fd8e9cd1a195c",
+      "sha256": "18617146374a8cbc74a06398a7a95e2e6428a6a6805415fca5c261136efadaef"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "エイリアンが海を侵略し、魚やその他の水生生物を変異させています！しかし、A.N.G.E.L.フィッシュアタック潜水艦が、恐怖の4つのシーンを突破してエイリアンの海の支配を阻止するために向かっています。幸いなことに、A.N.G.E.L.はいくつかのパワーアップによって助けられます。例えば、ヒーリングパワーは潜水艦を完全に修復し、スピードパワーはその速度を上げます。変異した魚と戦うために、最大3つの攻撃モードを使用できます。最初のパルスショット、破壊的なスワールカッター、そしてバブルビームです。しかし、A.N.G.E.L.は無敵ではありません。A.N.G.E.L.の目の4つの色は、潜水艦が受けたダメージの量を示しており、十分なダメージを受けて爆発すると、それがA.N.G.E.L.の終わりであり、ゲームの終わりです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-03-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Deep%20Blue%20-%20Kaitei%20Shinwa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Deep%20Blue%20-%20Kaitei%20Shinwa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Deep%20Blue%20-%20Kaitei%20Shinwa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

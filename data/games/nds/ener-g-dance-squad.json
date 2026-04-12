@@ -1,0 +1,60 @@
+{
+  "id": "ener-g-dance-squad",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ener-G - Dance Squad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Imagine: Modern Dancer",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ener-G - Dance Squad (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDSE",
+      "size": 134217728,
+      "crc32": "ff5d9f45",
+      "md5": "d29c12316e128ecada12baeb23cb6ea9",
+      "sha1": "4a16ded1fa91bb52f632be1797b537b056cf1f9a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47921
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ener-G%20-%20Dance%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ener-G%20-%20Dance%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ener-G%20-%20Dance%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

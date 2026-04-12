@@ -1,0 +1,60 @@
+{
+  "id": "super-kick-off",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Kick Off",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "Pro Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Kick Off (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79076-00",
+      "size": 524288,
+      "crc32": "f43793ff",
+      "md5": "0bdcdb42cc43d160756ebe7c2d94585b",
+      "sha1": "4e270b13a399d78d919157e50ab11f4645aa6d32",
+      "sha256": "565e6c4aa4ffea8b5fb96067b901efb554863d8d5ddd9c1f359cdeb2d34d9d24"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45797
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Kick%20Off%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

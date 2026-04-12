@@ -1,0 +1,60 @@
+{
+  "id": "sengoku-mahjong",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sengoku Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "戦国麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sengoku Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "90e6bf49",
+      "md5": "e099715c2b1e8d392e2bd7f0f9f9388a",
+      "sha1": "b0be49af6275179ff0d5a44acbcdd4c6f2c55a07",
+      "sha256": "dec9891a36ca9c6587bd5403a1b0c1ff87e8c9293e472fdfb640822b953e76c5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43202
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Sengoku%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Sengoku%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Sengoku%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "uchuu-no-kishi-tekkaman-blade",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uchuu no Kishi - Tekkaman Blade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "宇宙の騎士テッカマンブレード",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uchuu no Kishi - Tekkaman Blade (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7e107c35",
+      "md5": "303db6a77d5a4b353b9d96231e91a481",
+      "sha1": "4f7505f76d9094376395c96a19f038e85e71f840",
+      "sha256": "72cd9d19eab369610008e5888c62785cadf844d99449a5c654c20212587c729f"
+    },
+    {
+      "name": "Uchuu no Kishi - Tekkaman Blade (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b380bcd9",
+      "md5": "61aba6166e143199fd3d058d876bf0fe",
+      "sha1": "f27e7f3866be20a46080f4448940662951f99745",
+      "sha256": "a465ecdf10361d6028b5425e2c680dff6a240b5f902cef6e8712a486b7df9e70"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68070
+  },
+  "descriptions": [
+    {
+      "text": "宇宙の騎士テッカマンブレードは、アニメ「テッカマンブレード」（別名：テクノマン）を基にしたゲームです。ゲームのステージは、スクロールシューティングと格闘ゲームの要素が組み合わさっています。各ステージの最初の部分では、テッカマンブレードがラダムの波を生き延び、2体の強力なボスのようなラダムを倒し、別のテッカマンと出会う必要があります。スクロールシューティングのステージでは、ブレードは槍を投げて遠距離の敵を倒すことも、素早く斬って弾や敵を破壊することもできます。ある敵タイプは、異なる色のシステムボックスのパワーアップをドロップします：緑は体力を回復し、赤は画面上のすべての敵（ボスを除く）を破壊し、青はブレードを無敵にし、接触したすべての敵（ボスを含む）を破壊できるようにします。\n\n各ステージの終わりには、敵のテッカマンとの1対1の戦いがあります。各テッカマンは武器を持ってスタートしますが、ダメージを受けすぎると武器を失い、パンチやキックを使わざるを得なくなります。このモードは2人プレイヤーモードでもプレイ可能で、各プレイヤーは自分のテッカマンを選択します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Uchuu%20no%20Kishi%20-%20Tekkaman%20Blade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Uchuu%20no%20Kishi%20-%20Tekkaman%20Blade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Uchuu%20no%20Kishi%20-%20Tekkaman%20Blade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

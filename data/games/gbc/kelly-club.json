@@ -1,0 +1,48 @@
+{
+  "id": "kelly-club",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kelly Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kelly Club (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKIE",
+      "size": 1048576,
+      "crc32": "6e39ebc4",
+      "md5": "0107666c622e3bf3e225ecc6fe4fee42",
+      "sha1": "d47519a0295c3a76bc68c54ae94ccce039bcd3ee"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kelly%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kelly%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kelly%20Club%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

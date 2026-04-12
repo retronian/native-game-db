@@ -1,0 +1,70 @@
+{
+  "id": "j-league-pro-striker-perfect",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "J. League Pro Striker Perfect",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロストライカー 完全版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "J リーグプロストライカー 完全版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "J. League Pro Striker Perfect (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005532-00",
+      "size": 1048576,
+      "crc32": "0abed379",
+      "md5": "a7046120d2a4b40949994c71177aec3c",
+      "sha1": "7cfd8c9119d0565ee9a7708dc46bb34dd3258e37",
+      "sha256": "5fb510677f33aeddca198e476f434ac50aba56e86562126e1aeef0642f662eb4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45725
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/J.%20League%20Pro%20Striker%20Perfect%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/J.%20League%20Pro%20Striker%20Perfect%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/J.%20League%20Pro%20Striker%20Perfect%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

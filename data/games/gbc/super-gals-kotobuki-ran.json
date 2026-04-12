@@ -1,0 +1,64 @@
+{
+  "id": "super-gals-kotobuki-ran",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Gals! Kotobuki Ran",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "超GALS! 寿蘭",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Gals! Kotobuki Ran (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "90379c16",
+      "md5": "8b437e964ca98e785010160160cf380a",
+      "sha1": "fc18f5137d6063ca1afe20f5d3ed544e527e6bcf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同名の漫画およびテレビアニメのゲーム版です。プレイヤーは原作のキャラクターから出される質問に答え、アイテムを集めます。集めたアイテムは衣装を変更するために使用できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Super%20Gals%21%20Kotobuki%20Ran%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Super%20Gals%21%20Kotobuki%20Ran%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Super%20Gals%21%20Kotobuki%20Ran%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

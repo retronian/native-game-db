@@ -1,0 +1,66 @@
+{
+  "id": "ninja-crusaders-ryuuga",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Crusaders - Ryuuga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニンジャクルセイダーズ 龍牙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "龍牙 Ninja Crusaders 忍者クルセイダーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Crusaders - Ryuuga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "d1243e2f",
+      "md5": "34712ab87f4168563d06b49b6fbe0e4a",
+      "sha1": "43751b4478e5fc6d24c142f90e48f973cbaac18e",
+      "sha256": "07629e0ab4e5c7ca334653892456a4a622bfe3dae16540e9511f7e6f5456c8e2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja%20Crusaders%20-%20Ryuuga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja%20Crusaders%20-%20Ryuuga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja%20Crusaders%20-%20Ryuuga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "scrabble",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Scrabble",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 270238
+  },
+  "roms": [
+    {
+      "name": "Scrabble (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "360b2610",
+      "md5": "c21b92ef781aa60779dde6e38c474090",
+      "sha1": "b2a06070eda30eb2ef745dcb2676dc25d39a07ed",
+      "sha256": "2ebd619adf18db1be6766163bdb8496c9ae340f0a0d209bbd4a41ede4b8c8c99"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Scrabble%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Scrabble%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

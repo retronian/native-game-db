@@ -1,0 +1,61 @@
+{
+  "id": "soldiers-of-fortune",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soldiers of Fortune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "The Chaos Engine",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soldiers of Fortune (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-124016-00",
+      "size": 1572864,
+      "crc32": "a84d28a1",
+      "md5": "b90ff517cba6492377e02d23fcda4b80",
+      "sha1": "619faee3d78532478aad405db335d00fb93e6850",
+      "sha256": "6566228d5f6b51d51d25ba3ee53ab4be2a273d424508b7a93cdad68b8f4ba54e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4527
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

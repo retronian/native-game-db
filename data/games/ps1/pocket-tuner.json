@@ -1,0 +1,65 @@
+{
+  "id": "pocket-tuner",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Tuner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットチューナー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Tuner (Japan) (PS3 v3.60)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 29925040,
+      "crc32": "11f1c05b",
+      "md5": "2dcab7885d9af747f2b66967a9073b27",
+      "sha1": "23b4a57b3557098088e0d99c7e6125e18f6b3dbe"
+    },
+    {
+      "name": "Pocket Tuner (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 29994336,
+      "crc32": "474d5fc8",
+      "md5": "d34b8e37e09c3bfbda9049c897217bec",
+      "sha1": "fa9f564ba525bad75d97ef3e84628e40a43acea8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287434
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Pocket%20Tuner%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Pocket%20Tuner%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Pocket%20Tuner%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

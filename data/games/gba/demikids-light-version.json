@@ -1,0 +1,69 @@
+{
+  "id": "demikids-light-version",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DemiKids - Light Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "真・女神転生 デビルチルドレン 光の書",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Shin Megami Tensei: Devil Children - Hikari no Sho",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "DemiKids - Light Version (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AL4E",
+      "size": 8388608,
+      "crc32": "dc4357c4",
+      "md5": "f87a7dc67415d1f4c16cc430fcf98d9d",
+      "sha1": "8bc80eb5f08bfa83597483390b18092d9a12700d",
+      "sha256": "ef4c3e3d2147505a1a61ed3e2c3220c8c23caa2231502a39dfae9c209eff0d0f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49185
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/DemiKids%20-%20Light%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/DemiKids%20-%20Light%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/DemiKids%20-%20Light%20Version%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

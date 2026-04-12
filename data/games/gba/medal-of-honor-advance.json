@@ -1,0 +1,65 @@
+{
+  "id": "medal-of-honor-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medal of Honor Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダル オブ オナー アドバンス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medal of Honor Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMHJ",
+      "size": 16777216,
+      "crc32": "a054a4d0",
+      "md5": "44ca4a4867aa57b442c43798b209f640",
+      "sha1": "e482d182695ad3f7b298fd99cf56221acb37d84d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「メダル オブ オナー アドバンス」では、あなたはジェイク・マーフィー軍曹の役割を担います。彼は第二次世界大戦において枢軸国を打倒するために、5つの大胆なミッションを遂行しなければなりません。敵の資源を破壊したり、重要な人員を捕らえたり、全面戦闘に挑んだりと、敵を打ち負かすためにはさまざまなゲームプレイスタイルをマスターする必要があります。徒歩、戦車、さらには変装をして、機関銃、手榴弾、バズーカなど、第二次世界大戦時代の武器を駆使して戦場で敵と対峙しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Medal%20of%20Honor%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Medal%20of%20Honor%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Medal%20of%20Honor%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

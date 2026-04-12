@@ -1,0 +1,79 @@
+{
+  "id": "bubble-guppies",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bubble Guppies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Guppies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TBGE",
+      "size": 8388608,
+      "crc32": "67f3a81c",
+      "md5": "258907b82e38ee380d2c4e45f977e5a6",
+      "sha1": "3fabf52e477a73055297db46aaeb0c6493864f46"
+    },
+    {
+      "name": "Bubble Guppies (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TBGP",
+      "size": 8388608,
+      "crc32": "86f68e34",
+      "md5": "56fbf682931b39bda26d1ade328bb5cf",
+      "sha1": "a6ebbc21b0f3989a6635cee1b71fab01851d01ed"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65056
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bubble%20Guppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bubble%20Guppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bubble%20Guppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Bubble%20Guppies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Bubble%20Guppies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Bubble%20Guppies%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

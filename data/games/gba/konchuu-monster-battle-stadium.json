@@ -1,0 +1,68 @@
+{
+  "id": "konchuu-monster-battle-stadium",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konchuu Monster - Battle Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "昆虫モンスター・バトルスタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konchuu Monster - Battle Stadium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BQSJ",
+      "size": 8388608,
+      "crc32": "5adb68ef",
+      "md5": "c8bcd516d865325e976d7905b3694dbc",
+      "sha1": "c1ea541b031e41e6aacfb6ea16eaacdb24483e18"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49681
+  },
+  "descriptions": [
+    {
+      "text": "「昆虫モンスター・バトルマスター」の続編である本作は、プレイヤーが昆虫を探し出し、それをバトルアリーナに送り込むという、ポケモンにインスパイアされたロールプレイングゲームです。戦闘シーケンスでは、GBAハードウェアのために印象的な3Dグラフィックスが使用されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-05-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Konchuu%20Monster%20-%20Battle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Konchuu%20Monster%20-%20Battle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Konchuu%20Monster%20-%20Battle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

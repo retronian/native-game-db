@@ -1,0 +1,65 @@
+{
+  "id": "tetris-flash",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetris Flash",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "テトリスフラッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris Flash (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "33baa603",
+      "md5": "2f9d902e84dd3ff7b1223d7edb727e2a",
+      "sha1": "973f120d91b1c13d3e0c4d84955d88351e401b7b",
+      "sha256": "364db5c145d2697e443bef827d36725520669c0b13e9b0cd721cc50829656327"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オリジナルのテトリスとは異なり、テトリス2ではブロックを異なる方法で消していきます。各プレイフィールドは異なる色のドット（この場合は黒、灰色、白）で始まり、その中の1つの色のドットが点滅しています。ブロックは同じ3色で構成されており、ドットの上または横に同じ色のブロックを揃えることで、そのドットとブロックを画面から消すことができます。点滅しているドットを消すと、同じ色の対応するドットがすべて消えます。ラウンドをクリアするには、ブロック自体ではなくドットを消すだけで完了します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetris%20Flash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetris%20Flash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetris%20Flash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

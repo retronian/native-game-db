@@ -1,0 +1,68 @@
+{
+  "id": "jissen-kyoutei",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jissen Kyoutei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実戦競艇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jissen Kyoutei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "65815455",
+      "md5": "45447fb33c6ce75066d94c3fe56cb147",
+      "sha1": "c795ae98acf450422ad11925ea1a5573fcbe555d",
+      "sha256": "750fc8f6cacd1776b0ce88be5b7e862815a71be4439bf42f7f1083fe6514f36e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42643
+  },
+  "descriptions": [
+    {
+      "text": "実戦競艇は、スーパーファミコン用のシミュレーションゲームです。競艇のレースをテーマにしています。\n\nプレイヤーは直接レースをするのではなく、各競艇レースの結果や競技者の順位に賭けて、的中したベットからお金を得ることが目的です。このゲームには独自のストーリーを持つシングルプレイヤーモードと、最大4人の人間プレイヤーが競い合って予想を行うマルチプレイヤーモードがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jissen%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jissen%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jissen%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

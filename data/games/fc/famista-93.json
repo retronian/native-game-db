@@ -1,0 +1,68 @@
+{
+  "id": "famista-93",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista '93",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ'93",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista '93 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "02d39ad8",
+      "md5": "318176f01caced5e1004de1417721c5f",
+      "sha1": "c92505c30d90bc9d24fe3312780a09a7eebb8ce6",
+      "sha256": "fb3376c0444aae78ea3e26efbdc51b68f3873962f269fae0e5ceeae7cc20bfa7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 218391
+  },
+  "descriptions": [
+    {
+      "text": "まったく普通の野球シミュレーターです。大多数のゲームと同様に、投球時には後ろからの視点で打撃を行い、その後はボールをキャッチする際に上空からの視点になります。いくつかのチームから選択することが可能です。計画や設定は最小限です。このゲームのタイプは、変わらないことが嬉しい（あるいはイライラさせる？）です。グラフィックと音楽の質が少し向上しました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famista%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famista%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famista%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

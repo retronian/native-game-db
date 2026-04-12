@@ -1,0 +1,103 @@
+{
+  "id": "barcode-taisen-bardigun",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Barcode Taisen Bardigun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーコード対戦バーディガン Bardigun",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バーコード対戦バーディガン Bardigun (バーコードリーダー付!!)",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ddfcf4b7",
+      "md5": "00ca1749b004d4c38cdfc884bd547f72",
+      "sha1": "bc7847dee730ba274f3c3ccb511f1dad6b6a93c7"
+    },
+    {
+      "name": "Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f6d291a9",
+      "md5": "a28184f9cd3f24e67c3fb5d84b3aa78b",
+      "sha1": "21e386f60fcd3694c4a308de9e178762c5175b6c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92607
+  },
+  "descriptions": [
+    {
+      "text": "バーコード対戦バーディガンは、グラフィックリサーチが開発し、タムソフトがゲームボーイカラー向けに発売したロールプレイングゲームです。バーコード対戦バーディガンは日本国内のみで発売されました。\n\nプレイヤーはバーコード対戦バーディガンの冒頭で短いカットシーンを見ます。カットシーンが終わると、プレイヤーは男性キャラクターか女性キャラクターのいずれかを選択します。\n\nプレイヤーはカードをスキャンして新しいモンスターやパワーアップを手に入れます。これらのモンスターはプレイヤーによって育成され、バトルで使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Barcode%20Taisen%20Bardigun%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

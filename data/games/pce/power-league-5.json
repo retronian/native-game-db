@@ -1,0 +1,83 @@
+{
+  "id": "power-league-5",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power League 5",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーリーグ5",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パワーリーグV",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "パワーリーグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power League 5 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "8b61e029",
+      "md5": "35c4d1d204eed571700d18a46e697f25",
+      "sha1": "6e94fa53d715d7c7ee26d49ea9a6b70005894e03",
+      "sha256": "1dea13e30421c376c7b0ebfc939248bbe7623f0586241679355d046886583f77"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バッターボックスに立ち、準備を整えたら、全力でバットを振り下ろして、真のプロがどのように野球をプレイするかを世界に知らしめよう！野球のアクションの重要な一部として、あなたはチームをコントロールし、守備、投球、そしてもちろん打撃のすべての側面を担当します。そしてホームランを打って、選手たちが大きく得点し、プロ野球の世界を席巻しましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-08-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20League%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20League%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20League%205%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

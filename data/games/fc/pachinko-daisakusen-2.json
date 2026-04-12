@@ -1,0 +1,60 @@
+{
+  "id": "pachinko-daisakusen-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Daisakusen 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチンコ大作戦 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Daisakusen 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6ab879fa",
+      "md5": "f4d5bcf8c593e6b5f7cfa9ce1ba445ef",
+      "sha1": "50a807eb3126c04821b1517ef69a3ad070e688db",
+      "sha256": "83170e7de8c7306405e8de09a1fa68b68b93b0f9fbca501537a6a4a6280fbc80"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48837
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pachinko%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pachinko%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pachinko%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "chuugoku-janshi-story-tonfuu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuugoku Janshi Story - Tonfuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "中国雀士ストーリー 東風",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "東風 中国雀士物語・トンフー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuugoku Janshi Story - Tonfuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a62c8c13",
+      "md5": "23f808e6dfb42dbfd38a36e4095a2ee4",
+      "sha1": "9ec1e9a74392c69633b951b7970d3b624e1e5775",
+      "sha256": "0705e924fcea68693b95c7e0e0749b3e01f9458facb600d286d6e58374bc017d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chuugoku%20Janshi%20Story%20-%20Tonfuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chuugoku%20Janshi%20Story%20-%20Tonfuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chuugoku%20Janshi%20Story%20-%20Tonfuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

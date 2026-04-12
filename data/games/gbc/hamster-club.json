@@ -1,0 +1,67 @@
+{
+  "id": "hamster-club",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスター倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Club (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "8a4d86a0",
+      "md5": "08261d984f5e0d103191d7bbae8fba50",
+      "sha1": "6ab81c4dec3263502a1781b600218285836c5302"
+    }
+  ],
+  "external_ids": {
+    "igdb": 276372
+  },
+  "descriptions": [
+    {
+      "text": "ハムスター倶楽部は、ハムスターの繁殖を育成するシミュレーションゲームで、マスターブリーダーを目指します。3種類の動物「シゲッチ」「ブーちゃん」「エンドくん」から1匹を選び、手持ちの資金に応じて繁殖を行います。さまざまなコンペティション（カップ）に参加することで、ハムスターの能力や優しさを競います。同時に最大4匹のハムスターをケージで飼うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Club%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Club%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Club%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

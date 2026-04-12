@@ -1,0 +1,76 @@
+{
+  "id": "cyborg-kuro-chan-2-white-woods-no-gyakushuu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cyborg Kuro-chan 2 - White Woods no Gyakushuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サイボーグクロちゃん2 ホワイトウッズの逆襲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "サイボーグクロちゃん 〜ホワイトウッズの逆襲〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cyborg Kuro-chan 2 - White Woods no Gyakushuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e86bf12e",
+      "md5": "3c6c0bf27c82eea13dfc9697e0cacf57",
+      "sha1": "8ce6261de9dc2ae1a02a2ac00fa45b855fae34a2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65613
+  },
+  "descriptions": [
+    {
+      "text": "「サイボーグクロちゃん」のゲームアダプテーションの第2ステージ。アニメやコミックとしても人気の作品です。ゲームでは、より激しい敵の攻撃やスリリングなバトルが展開され、破壊可能なオブジェクトの数も大幅に増加しました。また、プレイヤーは「コミックボンボン」などの雑誌に掲載されたパスワードを入力することで、さまざまな武器を使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-10-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Cyborg%20Kuro-chan%202%20-%20White%20Woods%20no%20Gyakushuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Cyborg%20Kuro-chan%202%20-%20White%20Woods%20no%20Gyakushuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Cyborg%20Kuro-chan%202%20-%20White%20Woods%20no%20Gyakushuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "john-madden-football-pro-football",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "John Madden Football - Pro Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロフットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "John Madden Football - Pro Football (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50316-00",
+      "size": 524288,
+      "crc32": "0460611c",
+      "md5": "27c9f20efbe9cb4fc2156f2490fe07a2",
+      "sha1": "c4cf3681d86861a823fa3e7ffe0cd451fbafcee6",
+      "sha256": "9f02a507658fbb2fcab281ab0eb2db9e6aeb3aaacfd0da023f6f9445ee9930a0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/John%20Madden%20Football%20-%20Pro%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/John%20Madden%20Football%20-%20Pro%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/John%20Madden%20Football%20-%20Pro%20Football%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "little-bears",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Bears",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Bears (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C5BP",
+      "size": 16777216,
+      "crc32": "2c020805",
+      "md5": "28a4be3b10cb1370a4a5a9b5d81bc317",
+      "sha1": "98753a374c679420f140b31b64c17cd6f96539c5"
+    },
+    {
+      "name": "Little Bears (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C5BE",
+      "size": 16777216,
+      "crc32": "2289a8c0",
+      "md5": "296baa9b8ef42512d04480376016d6f0",
+      "sha1": "3c60940c64ed17b008286d2c1e4484b091a16fca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210191
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Little%20Bears%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Little%20Bears%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Little%20Bears%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

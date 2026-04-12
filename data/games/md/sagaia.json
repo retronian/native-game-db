@@ -1,0 +1,49 @@
+{
+  "id": "sagaia",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sagaia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sagaia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-11016-00",
+      "size": 1048576,
+      "crc32": "f1e22f43",
+      "md5": "c9ab9dd499c7d56772fccbd2ec2ae465",
+      "sha1": "0aa2632da5ec3c1db21b273bcb8630d84b7bb805",
+      "sha256": "66047cae8de38bc042b413e6237a7a0b72457b85ff6d93b39e7686e6864ac158"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sagaia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sagaia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sagaia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

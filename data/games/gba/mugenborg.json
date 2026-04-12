@@ -1,0 +1,51 @@
+{
+  "id": "mugenborg",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mugenborg",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mugenborg (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AG6J",
+      "size": 8388608,
+      "crc32": "1c31bbec",
+      "md5": "d28dcccc93405ce5c1f29814dbd3f77f",
+      "sha1": "cfb8ac541d1ae3b6af69568331572695c8bec572"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49710
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mugenborg%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mugenborg%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mugenborg%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

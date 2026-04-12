@@ -1,0 +1,65 @@
+{
+  "id": "lode-runner-lost-labyrinth",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lode Runner - Lost Labyrinth",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "失われた迷宮",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lode Runner - Lost Labyrinth (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "e6ee1468",
+      "md5": "d633712965e5f791136b75bda7f9980b",
+      "sha1": "7d019ff2e86b3af48b4c969c8339a124b7c803b6",
+      "sha256": "54407de06ef6a302717d0c69db43ddd2d95bba63d47828286a8b688844106db8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "『ローダーランナー：ロストラビリンス』は、オリジナルの『ローダーランナー』の正確な移植版です。しかし、このバージョンには、オリジナルとは主に異なる100のレベルが用意されています。もう一つの違いは、レベルがスクロールすることです。\n\nこれはプラットフォーマーゲームで、主人公はレベルに散らばるすべての金を集める必要があります。しかし、周囲には多くの敵が徘徊しており、避けなければなりません。主人公はジャンプできないため、梯子や水平のロープを使って回避する必要があります。警備員を一時的に排除する唯一の方法は、彼らが落ちたときに出られない穴を地面に開けることです。一定時間が経過すると、その穴は埋まり、閉じ込められた警備員が再出現します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Lode%20Runner%20-%20Lost%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Lode%20Runner%20-%20Lost%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Lode%20Runner%20-%20Lost%20Labyrinth%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

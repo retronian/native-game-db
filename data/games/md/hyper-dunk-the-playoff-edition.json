@@ -1,0 +1,83 @@
+{
+  "id": "hyper-dunk-the-playoff-edition",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hyper Dunk - The Playoff Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハイパー ダンク ザ プレイオフ エディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ハイパーダンク・ザ・プレイオフエディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hyper Dunk - The Playoff Edition (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95083-00",
+      "size": 2097152,
+      "crc32": "5baf53d7",
+      "md5": "008bcd6a3fc35015df0851e996ce80b4",
+      "sha1": "ef5c13926ee6eb32593b9e750ec342b98f48d1ef",
+      "sha256": "611843c60cf4271b10ea14d24ad5fd0cf6342391a42adb458adf3ecd4becd9b4"
+    },
+    {
+      "name": "Hyper Dunk - The Playoff Edition (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95096-00",
+      "size": 2097152,
+      "crc32": "db124bbb",
+      "md5": "139b7670f0e585ffcbe4bf9e987ec652",
+      "sha1": "87a2d58614fab2799e2a4456a08436fc7acc745b",
+      "sha256": "d5f3a402255c54e464213575decae83f1f56ac994c7fac9acb27a4acac06b711"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オリジナルの「ダブルドリブル」バスケットボールゲームのアップデート版、「ダブルドリブル: ザ プレイオフ エディション」。プレイオフエディションは、以下のようにオリジナルを大幅に拡張しています：\n\n1. 12人の（架空の）選手からなる16チーム\n2. 各選手はさまざまなスキル（シューティング％、スタミナなど）で個別に評価\n3. 3つのプレイモード：エキシビション、プレイオフ（パスワード機能付き）、マルチプレイヤー\n4. セガの「チームプレイヤー」アダプターによる8人同時プレイサポート",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Hyper%20Dunk%20-%20The%20Playoff%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Hyper%20Dunk%20-%20The%20Playoff%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Hyper%20Dunk%20-%20The%20Playoff%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

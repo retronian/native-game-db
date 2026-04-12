@@ -1,0 +1,59 @@
+{
+  "id": "oasis-road",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oasis Road",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オアシスロード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oasis Road (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 212556368,
+      "crc32": "d05b6685",
+      "md5": "b625e946c5ff8500107af7b81fd1daa9",
+      "sha1": "19ae4c4adfd1b3869a2c9d3e848a720ffbacc94e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138987
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Oasis%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Oasis%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Oasis%20Road%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

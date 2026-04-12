@@ -1,0 +1,74 @@
+{
+  "id": "viva-las-vegas",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Viva! Las Vegas",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビバ!ラスベガス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "VIVA LASVEGAS",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Viva! Las Vegas (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8522a407",
+      "md5": "7c79410e33e2d32ff7c58ae2fd0a5af0",
+      "sha1": "584806a24fd0aa31e2f3b6ec41ae7f509cfa8165",
+      "sha256": "11d5188ac8bff41ed7313f56c3b359c97822329a9743d341d170400b7f0d89b4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ビバ!ラスベガス。ラスベガスのカジノを楽しむギャンブルシミュレーション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Viva%21%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Viva%21%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Viva%21%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

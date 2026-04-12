@@ -1,0 +1,80 @@
+{
+  "id": "wappy-dog",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wappy Dog",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wappy Dog (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B47P",
+      "size": 16777216,
+      "crc32": "9cb5dd77",
+      "md5": "69e79a8c7e4115c2bf9710ec807b5ef9",
+      "sha1": "c9b18748bdc8ca5603f6c5f9025abbdebf8217ce",
+      "sha256": "ecea4046538c998c085db749214111d1aec898dce85ff063bc1fad11c815d91e"
+    },
+    {
+      "name": "Wappy Dog (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B47E",
+      "size": 16777216,
+      "crc32": "5467b846",
+      "md5": "16a6f9365ca3352d038c0b6ed9b5c935",
+      "sha1": "b6edf5d3cf87f92232c5c72ab0ffb641f544c7c7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47852
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wappy%20Dog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wappy%20Dog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wappy%20Dog%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wappy%20Dog%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wappy%20Dog%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wappy%20Dog%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "busy-scissors",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Busy Scissors",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "바쁜 가위",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Busy Scissors (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBME",
+      "size": 8388608,
+      "crc32": "227c3cb1",
+      "md5": "98d87914f6e3dbec9323295816627741",
+      "sha1": "ddec56ab6e13efe3eb97590fa1458d50ea81de1b"
+    },
+    {
+      "name": "Busy Scissors (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBMP",
+      "size": 8388608,
+      "crc32": "24f85531",
+      "md5": "ed0ee9af0820527d8ada68ea16dbb31d",
+      "sha1": "d7610c7a9b373f5919f82b639b791ac7fc4977da"
+    },
+    {
+      "name": "Busy Scissors (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NTRJ",
+      "size": 33554432,
+      "crc32": "53352038",
+      "md5": "93dc4d28b77d71b654aa221f75974b31",
+      "sha1": "e19b9245d2892f85a290e969f45dcc99814c04d5",
+      "sha256": "8d19a8afa7aac2eb98de8e017992335397e8e86482704611f913a2fb7893a5bb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50594
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Busy%20Scissors%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Busy%20Scissors%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Busy%20Scissors%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Busy%20Scissors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Busy%20Scissors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Busy%20Scissors%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

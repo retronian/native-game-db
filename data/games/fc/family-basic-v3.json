@@ -1,0 +1,69 @@
+{
+  "id": "family-basic-v3",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family BASIC V3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリーベーシックV3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ファミリーベーシック V3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family BASIC V3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "6ba08175",
+      "md5": "0cc06af39cb084885c34233b1b93b975",
+      "sha1": "04a2ad94ff02aab2135557c70900071eff41be82",
+      "sha256": "3ef89038057ad63bb6ab31e0e764d8d30062a4565b3ad8269680e064786e22bd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 360522
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20BASIC%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20BASIC%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20BASIC%20V3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

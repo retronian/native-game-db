@@ -1,0 +1,54 @@
+{
+  "id": "hudson-x-greeeen-live-deeees",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hudson x GReeeeN - Live! DeeeeS!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Hudson X GReeeeN ライブ!? DeeeeS!?",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hudson x GReeeeN - Live! DeeeeS! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BRYJ",
+      "size": 268435456,
+      "crc32": "523ca5a0",
+      "md5": "5cd2b6564febc3317256ee60c7b7fe6e",
+      "sha1": "74e960485669dce884498d6a3b8891b427f2b39c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97682
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hudson%20x%20GReeeeN%20-%20Live%21%20DeeeeS%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hudson%20x%20GReeeeN%20-%20Live%21%20DeeeeS%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

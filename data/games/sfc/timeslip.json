@@ -1,0 +1,86 @@
+{
+  "id": "timeslip",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Timeslip",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Timeslip (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "adac8eff",
+      "md5": "b24bcd646a121c3f031640de5ad393cb",
+      "sha1": "00e791fefb9923eb832bc7fef2c1b738de4f8f3f",
+      "sha256": "3332a51d134aaef47ae9b3a1d6e7baa329f21bf778670a0249f503997e39b606"
+    },
+    {
+      "name": "Timeslip (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "838d0304",
+      "md5": "7bba0629bb668edac3692caffca4a638",
+      "sha1": "b1f11f8816c2de7f0055e680d710ee8adefe2735",
+      "sha256": "8e82f98d2e62bc1e5fcf2386c2b5ca54998398220efcedd67858aaaa92289a42"
+    },
+    {
+      "name": "Timeslip (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "de12f893",
+      "md5": "e78976c1794feb111b1b2f36fa2ce618",
+      "sha1": "08a9c6b92641da07a2b96d5da7f183e683f9d149",
+      "sha256": "2df95d7e78c2d9e7c7e27158378eb625bcf097dfa4c7e4dd2fac11f260ad9e2d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Timeslip%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Timeslip%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Timeslip%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Timeslip%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Timeslip%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Timeslip%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

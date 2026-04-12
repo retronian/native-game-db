@@ -1,0 +1,83 @@
+{
+  "id": "loppi-puzzle-magazine-kangaeru-puzzle-soukangou",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロッピーパズルマガジン 考えるパズル創刊号",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "かんがえるパズル 創刊号",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "094ffd1e",
+      "md5": "41c2515a1dda83aadfd0a134bc62656b",
+      "sha1": "5a476f79db61aa8c6f32bbabd82fade5cde811d2"
+    },
+    {
+      "name": "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "88ce5c13",
+      "md5": "4e5d7a1b65b52af7ca88e0b7b2016197",
+      "sha1": "7e493878e0b755df3c6d6ab93c7b15b4b10a0896"
+    }
+  ],
+  "external_ids": {
+    "igdb": 226401
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Loppi%20Puzzle%20Magazine%20-%20Kangaeru%20Puzzle%20Soukangou%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Loppi%20Puzzle%20Magazine%20-%20Kangaeru%20Puzzle%20Soukangou%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Loppi%20Puzzle%20Magazine%20-%20Kangaeru%20Puzzle%20Soukangou%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Loppi%20Puzzle%20Magazine%20-%20Kangaeru%20Puzzle%20Soukangou%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

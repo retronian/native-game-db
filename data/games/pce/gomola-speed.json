@@ -1,0 +1,58 @@
+{
+  "id": "gomola-speed",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gomola Speed",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴモラスピード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gomola Speed (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "4bd38f17",
+      "md5": "58418c0db028885a2f49abf4993f2b0e",
+      "sha1": "fe4b08fb0cd9d0a53726c2709db3e31fbeae1213",
+      "sha256": "2653ea19c4c09d674866e46240ba8653599f948c93743c85092b0382f14b2013"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38093
+  },
+  "first_release_date": "1990-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gomola%20Speed%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gomola%20Speed%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gomola%20Speed%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

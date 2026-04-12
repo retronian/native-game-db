@@ -1,0 +1,59 @@
+{
+  "id": "ronaldo-v-soccer",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ronaldo V-Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Ronaldo V-Football",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ronaldo V-Soccer (USA) (En,Fr,Es,Pt) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d0204f10",
+      "md5": "79e619a79be12b6ac59ae6d4602ffa5e",
+      "sha1": "4558565434fb3527178a183d6c4c4fb1a132e3d2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49885
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ronaldo%20V-Soccer%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ronaldo%20V-Soccer%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ronaldo%20V-Soccer%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

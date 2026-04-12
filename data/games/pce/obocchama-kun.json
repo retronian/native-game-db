@@ -1,0 +1,60 @@
+{
+  "id": "obocchama-kun",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Obocchama-kun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おぼっちゃまくん",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Obocchama-kun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4d3b0bc9",
+      "md5": "4d007608da2f8dd091c2328a66e0f1dd",
+      "sha1": "f505c31aab43ac6fd4d88fd14ae03a9c418e7357",
+      "sha256": "957ed36b93d57de00f49529c10242d8c0ff67c36007581983077b1579cdfb2cf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42040
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Obocchama-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Obocchama-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Obocchama-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

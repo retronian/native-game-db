@@ -1,0 +1,68 @@
+{
+  "id": "sky-shark",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sky Shark",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Hi Sho Zame",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sky Shark (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "2fcd317d",
+      "md5": "57de95ec806465def894b6684a40d8fe",
+      "sha1": "28beae2e27019dd6ea2de2f1b02e9e49f216481a",
+      "sha256": "802543d743213e9b4edfec34bc19d19a42e874078da9cc24ccf1d81d52acb485"
+    },
+    {
+      "name": "Sky Shark (World) (Evercade)",
+      "source": "no_intro",
+      "size": 196624,
+      "crc32": "22511e77",
+      "md5": "69693b23b62d4bbce3d4ef0d0510b5b2",
+      "sha1": "6ba35b94bfca01763fbac46c8fdb1fcb66abb2e1",
+      "sha256": "d7540392dc1aecbaf730c46cf460bbd456a528e9554881cfa9702031861f3ad8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 331282
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sky%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sky%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sky%20Shark%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

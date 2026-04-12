@@ -1,0 +1,57 @@
+{
+  "id": "mega-anser",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega Anser",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メガアンサー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega Anser (Japan) (Program)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "08ece367",
+      "md5": "48577e9f9a9c12499838ca3fa1d396e7",
+      "sha1": "d353e673bd332aa71370fa541e6fd26d918b5a2b",
+      "sha256": "35c6f0ff431c7faf791d8184b6b840a1d3f008ef62066e3c7aa87e8325dae0fa"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Anser%20%28Japan%29%20%28Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Anser%20%28Japan%29%20%28Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Anser%20%28Japan%29%20%28Program%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

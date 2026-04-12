@@ -1,0 +1,68 @@
+{
+  "id": "chibi-maruko-chan-quiz-de-piihyara",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chibi Maruko-chan - Quiz de Piihyara",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちびまる子ちゃん クイズでピーヒャラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chibi Maruko-chan - Quiz de Piihyara (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "951ed380",
+      "md5": "0d1e37aa94d82ef48f94f11f04fe7db1",
+      "sha1": "de35c38944c42f2c14581e3ea003c1168b609aa6",
+      "sha256": "bf74a107acc85a5935c3a1ca214208e1c7247e5b21af9f56a21a4ea2855f85d8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92181
+  },
+  "descriptions": [
+    {
+      "text": "人気の子供向けキャラクターちびまる子ちゃんが、PCエンジンに登場！この巧妙にデザインされたアクション・クイズゲームで、難易度を選んで街へ出発しましょう。ただし、鳥や猫、そしてあなたを攻撃しようとする悪いロボットに注意してください。防御手段として探検家のヘルメットがあり、そこから魔法の星を発射して敵を倒すことができます（必要なら敵の頭に飛び乗って素早く逃げることも可能です）。その間、画面の上部には一連の質問が表示されます。AからDの選択肢があり、選択するには倒した敵から対応する文字を拾う必要があります。3回間違えるとゲームオーバーです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Chibi%20Maruko-chan%20-%20Quiz%20de%20Piihyara%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Chibi%20Maruko-chan%20-%20Quiz%20de%20Piihyara%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Chibi%20Maruko-chan%20-%20Quiz%20de%20Piihyara%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

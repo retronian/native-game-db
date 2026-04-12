@@ -1,0 +1,84 @@
+{
+  "id": "pocket-monsters-crystal-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Monsters - Crystal Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットモンスター・クリスタルバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ポケットモンスター クリスタルバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - Crystal Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "270c4ecc",
+      "md5": "9c3ae66bffb28ea8ed2896822da02992",
+      "sha1": "95127b901bbce2407daf43cce9f45d4c27ef635d",
+      "sha256": "136ada06cb68656b7de475fa4b278d37dbeff8f5257e7dfdf7f4a4aec19a90f3"
+    },
+    {
+      "name": "Pocket Monsters - Crystal Version (Taiwan) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 2097152,
+      "crc32": "4b2b8b57",
+      "md5": "70a6a59623177ab1234f160d1ec7bb3f",
+      "sha1": "9a2b381a134bb7ed1b566bb6f94596b57e690a4e",
+      "sha256": "77dfae5bf1b365353966e2010b1bf3acb59c628f19908eea429931af59597719"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "新しい機能が追加された「ポケットモンスター・クリスタルバージョン」で、ジョウトの世界に戻ろう！ポケモン図鑑の新しい説明を読んだり、ユニークなソート機能を使ってポケモンを新しい方法で整理したり、全く新しいバトルアニメーションを楽しんだり、スイクンを捕まえる別の方法を発見したりする中で、ポケモンスキルを駆使して「ポケットモンスター・クリスタル」をマスターしよう！ゲームボーイカラーでの冒険が待っている！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20Monsters%20-%20Crystal%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20Monsters%20-%20Crystal%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20Monsters%20-%20Crystal%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

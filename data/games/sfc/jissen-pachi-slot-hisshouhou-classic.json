@@ -1,0 +1,78 @@
+{
+  "id": "jissen-pachi-slot-hisshouhou-classic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jissen! Pachi-Slot Hisshouhou! Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実戦!パチスロ必勝法!クラシック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "実戦! パチスロ必勝法! Classic クラシック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "実践パチスロ必勝法 Classic",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jissen! Pachi-Slot Hisshouhou! Classic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f28358c0",
+      "md5": "a055a68ac785fbe3b562ea0a29ea0c0d",
+      "sha1": "f1115ef15688ecba048e41c4372624c469379cc2",
+      "sha256": "9f8f4356a97edcfc8ee80222f366f521a402b39a04e1092a726f1213e327a0c2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42255
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jissen%21%20Pachi-Slot%20Hisshouhou%21%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

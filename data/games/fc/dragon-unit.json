@@ -1,0 +1,71 @@
+{
+  "id": "dragon-unit",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Unit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴン ユニット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンユニット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Unit (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "24818562",
+      "md5": "62402a9eeb40b08b02faf3b4fb2bc7f5",
+      "sha1": "5ffb091bc0d463c7792654976ff921d69f525f3f",
+      "sha256": "cf04d97fabb6de916dc1d43af50e76cac6c6a1b2ad7a927e27087a8348d49f7c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンマスター・ダークラルザは、長年にわたり王国を恐怖に陥れてきました。王は最も勇敢な騎士・ジェラデンと共に亡命し、自らの砦を守っています。ダークラルザは王の亡命砦に攻撃を仕掛け、王女を誘拐してしまいます。王女を救出し、ダークラルザの支配を終わらせるのはジェラデンの使命です。\n\n「キャッスル・オブ・ドラゴン」は、サイドスクロールのアクションアドベンチャーゲームで、ジェラデンは王国を切り抜け、ダークラルザの軍勢を打ち破る必要があります。初めは剣と盾、そして背中の鎧を装備しているジェラデンは、より強力な攻撃および防御のオプションにアップグレードし、さまざまな強力な魔法を取得することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Unit%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Unit%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Unit%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

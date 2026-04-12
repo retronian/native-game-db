@@ -1,0 +1,74 @@
+{
+  "id": "gousou-jinrai-densetsu-musha",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gousou Jinrai Densetsu - Musha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "豪槍神雷伝説 武者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "豪槍神雷伝説「武者」",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gousou Jinrai Densetsu - Musha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "342f1c02",
+      "md5": "feeb6110b7bb3040fe542cf2a2104555",
+      "sha1": "e58b8693c1704f268494258c9286531ded2408be",
+      "sha256": "95c0bb5d121b30e5b473d5702073d5c49cae38e5ea71e657fb4c90c8654cf22c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "シズカは、悪の者を深淵に封じ込めたお守りを持っています。しかし最近、悪の者の手下がシズカを村から連れ去り、お守りも奪ってしまいました。今、槍使いのイモトが彼女を救い、悪の者を再び封じ込める使命を担っています。\n\nゲームプレイでは、イモトがさまざまなステージを進みながら敵やボスを槍で倒していきます。イモトは槍を突き刺したり回転させたりして敵を攻撃できます。また、雷や炎などの5種類の魔法を使うことができ、画面上のすべての敵を一掃します。イモトは5つの魔法それぞれについて最大4つの巻物を持つことができます。使用した魔法は、各ステージ内でアイテムを見つけることで補充できます。\n\n含まれるステージは、テングムラの洞窟、地下墓地、憎悪の宮殿、暗黒の洞窟、悪魔の地下墓地、呪われた宮殿、そして水の牢獄です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gousou%20Jinrai%20Densetsu%20-%20Musha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gousou%20Jinrai%20Densetsu%20-%20Musha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gousou%20Jinrai%20Densetsu%20-%20Musha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

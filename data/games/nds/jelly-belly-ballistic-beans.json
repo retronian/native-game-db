@@ -1,0 +1,65 @@
+{
+  "id": "jelly-belly-ballistic-beans",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jelly Belly - Ballistic Beans!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Jelly Belly: Ballistic Beans!",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jelly Belly - Ballistic Beans! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJJP",
+      "size": 8388608,
+      "crc32": "025b3661",
+      "md5": "78721673889c39b63bacf68696c33c42",
+      "sha1": "ae5459881bd94ab10119220400d3497a833b7143",
+      "sha256": "b7acf70aa656476cd4c280284e03c2171ad805eb9c3fc1f2717115dc6e7666ca"
+    },
+    {
+      "name": "Jelly Belly - Ballistic Beans! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJJE",
+      "size": 8388608,
+      "crc32": "f071e95e",
+      "md5": "26137ef6a4d08b046aa1020c7a218157",
+      "sha1": "42a81228378b15baa1278705b0bef8c019bec574"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43396
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jelly%20Belly%20-%20Ballistic%20Beans%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jelly%20Belly%20-%20Ballistic%20Beans%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "resq",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ResQ",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 45705
+  },
+  "roms": [
+    {
+      "name": "Resq (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "XXXXXXXX-01",
+      "size": 1048576,
+      "crc32": "558e35e0",
+      "md5": "cb08de736dcb0d2baf14dc728a792644",
+      "sha1": "f572443bd1e0cf956c87e6cd925412cb0f35045f",
+      "sha256": "123150fb512a72732ec49d726137901fae9adb333ac75f01121670407b576b31"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Resq%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Resq%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Resq%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "rock-on",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rock-On",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロック・オン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rock-On (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "2fd65312",
+      "md5": "5fc5b7cd7f43f12d7e1eced8368d4296",
+      "sha1": "19a7744bc8355076f481446978f49175dbd132b9",
+      "sha256": "bebe6773854963a52d633566a0694185e0814104c261f171a6628a10a6cdd5e7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37658
+  },
+  "descriptions": [
+    {
+      "text": "あなたはバスターで、様々なレベルを飛行する乗り物で古代の人々が隠した神秘的な富「FISA」を見つけて富を得ることが任務です。最初は小さな大砲だけを装備しており、動きは遅いですが、各レベルには武器やスピードを向上させるアイコンが散らばっています。これには2方向、3方向、レーザー、バックファイアなどがあります。全世界がテレビであなたの成功を見守っています。\n\nRock-Onは、左から右へ進む横スクロール型のシューティングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-08-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Rock-On%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Rock-On%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Rock-On%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

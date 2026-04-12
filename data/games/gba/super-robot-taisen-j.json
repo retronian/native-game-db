@@ -1,0 +1,60 @@
+{
+  "id": "super-robot-taisen-j",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen J",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦 J",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen J (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B6JJ",
+      "size": 16777216,
+      "crc32": "c956fd37",
+      "md5": "ef32f93816b6dbcf788f08faf1e71450",
+      "sha1": "27445302ae9eb0aa09f9365c5ba6f45655fe4200"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6629
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Robot%20Taisen%20J%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Robot%20Taisen%20J%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Robot%20Taisen%20J%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

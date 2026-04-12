@@ -1,0 +1,93 @@
+{
+  "id": "tenchi-muyou-game-hen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenchi Muyou! - Game Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天地無用! げーむ編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Tenchi Muyou! Game Hen",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "天地無用!ゲーム編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenchi Muyou! - Game Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "69d9caa9",
+      "md5": "2402f5886f141c8c81ad863b1f603975",
+      "sha1": "94c9654a5f5854f0541228334b9ee080b6282ee8",
+      "sha256": "e242c07533e1fb8df3505fa80c8c31ee698ebc5fe16e237c60b8e88e8ab1e572"
+    },
+    {
+      "name": "Tenchi Muyou! - Game Hen (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "f0e82b14",
+      "md5": "7bf8df438a1bdb89840dc5b5a26e6833",
+      "sha1": "54adc1ad028394b55c991e1e17ed414abde44eb0",
+      "sha256": "7c19f895b5e7d64cc74b9bf2d61de9013023cf44ba14b07f9aaa12228d0d71ed"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ササミは、魔法の力を持つ謎の小さな少女に誘拐されてしまいます。天知と彼の仲間たちは、彼女を救うために旅をし、途中でモンスターやその他のクリーチャーと戦わなければなりません。\n\n「天地無用! げーむ編」は、人気の日本のアニメ「天地無用!」を基にしたRPG要素を含む戦略ゲームです。ゲームは戦闘から戦闘へと進み、その合間にカットシーンでストーリーが明らかになります。プレイヤーはターン制でコンピュータと戦い、4人のパーティーから選ばれたキャラクターを操作します。パーティーメンバーは各戦闘の前に別の画面で選択され、ゲームが進むにつれて新しいキャラクターが利用可能になります。\n\n戦闘中にキャラクターを選択すると、移動、攻撃、ターン終了の3つのコマンドオプションが表示されるメニューが開きます。後にレベルが上がると、変身オプションが追加されます。移動や攻撃を行う際には、地面に光るタイルがアクションの最大範囲を示します。いずれかのアクションを行うにはアクションポイントが必要で、ステータスウィンドウには再生中の緑のドットが8つ表示され、基本的な統計情報（健康、守備、攻撃レベルなど）も示されます。キャラクターは戦場で自動的にレベルアップし、能力が向上し、より強力な攻撃を受けることができます。攻撃メニューからは、範囲内の仲間の失ったポイントを回復する健康パワーにもアクセスできます。キャラクターは、変身する能力があるときにより強力なバージョンに変身でき、すべての緑のドットはまだ利用可能です。変身したユニットは、より強力な攻撃と広い移動範囲を持ちます。\n\n戦闘後にはマップ画面が表示され、プレイヤーはゲームを保存し、利用可能な道の中から次の戦闘を選択できます。強敵に挑む前にレベルアップするために戦場を再訪することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-10-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tenchi%20Muyou%21%20-%20Game%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tenchi%20Muyou%21%20-%20Game%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tenchi%20Muyou%21%20-%20Game%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

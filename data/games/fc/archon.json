@@ -1,0 +1,71 @@
+{
+  "id": "archon",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Archon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Archon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "57cafd51",
+      "md5": "5afa04adf845ae79f910701dab7c92d0",
+      "sha1": "71ada5b0b5959a82e02a0cd2b4a98f320bb793be",
+      "sha256": "2a74928fd61371dba5b0dc453cc53743b06be4c2d8da1367248e7bce75f1a825"
+    },
+    {
+      "name": "Archon (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "457e3a75",
+      "md5": "52b361171fcc6310b5e7159a1bc433df",
+      "sha1": "6b538c61fe3f4d2637ebc461d41e29839a488606",
+      "sha256": "f499594eaeba9bd6774ea992aef5babc6cfb507f50b66f3defdd016bd79adc64"
+    },
+    {
+      "name": "Archon (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "9a0310f9",
+      "md5": "d4f0b3acd67c951c62ca8dd17e1d1710",
+      "sha1": "c1a97808608c827609ce34c7a04aa8ac82803a88",
+      "sha256": "fa6f39ae6303c51a7f2443e00cf2af4c8faedab41a232296a7ad4664d39027ff"
+    }
+  ],
+  "external_ids": {
+    "igdb": 273032
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Archon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Archon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Archon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

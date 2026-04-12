@@ -1,0 +1,74 @@
+{
+  "id": "famicom-top-management",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Top Management",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコン トップマネジメント",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミコントップマネジメント",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Top Management (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "17c8e1e1",
+      "md5": "fefa825699e0785d9f4a1c0f696ad78c",
+      "sha1": "dd51f09682b04456275ca4d6c2623510eeaccf6a",
+      "sha256": "3aef9fabc966274564ed568e1d6cad772bc7e21224ce428159d42ce59de94256"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファミコン トップマネジメントは、戦略ゲームやビジネスシミュレーションを専門とする著名なコーエー社が開発・発売したファミリーコンピュータ用のビジネスシミュレーターです。このゲームでは、高価なジャケットを着て、尊敬される会社のオーナーになる必要があります。ゲームは日本で発売され、高校生や金融学を学ぶ学生向けのマニュアルとして宣伝されました。基本的な数学スキルと日本語の知識が必要であり、この点がゲームを学ぶ上での難しさを生み出しています。それ以外は非常に高品質なゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Top%20Management%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Top%20Management%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Top%20Management%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

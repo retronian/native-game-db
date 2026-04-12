@@ -1,0 +1,65 @@
+{
+  "id": "pitfall-maya-no-daibouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pitfall - Maya no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マヤの大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pitfall - Maya no Daibouken (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "a81f9778",
+      "md5": "11d81586785d856e1b1751bab00c2ded",
+      "sha1": "405ba8a69648b11a9a98829db4cbb5dccb12ea64",
+      "sha256": "e9a1f5cf088e060293b5566e7f518b0da89aeaebffb1c3f73fcc3f36fac036ae"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「マヤの大冒険」は、冒険者ピットフォール・ハリー・ジュニアが父親のピットフォール・ハリーを探し求めるサイドスクロールアクションゲームです。あなたはマヤのジャングル、滝、廃鉱を駆け抜け、バンジージャンプやブーメランを使って安全に進む必要があります。全13レベルあり、アクションは速くてスリリングです。注意深く、素早く動くことが求められます。さもなくば、死を覚悟してください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pitfall%20-%20Maya%20no%20Daibouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pitfall%20-%20Maya%20no%20Daibouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pitfall%20-%20Maya%20no%20Daibouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

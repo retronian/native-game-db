@@ -1,0 +1,74 @@
+{
+  "id": "genpei-touma-den-computer-boardgame",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genpei Touma Den - Computer Boardgame",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "源平討魔伝 コンピュータボードゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "源平討魔伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genpei Touma Den - Computer Boardgame (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "8f1375d5",
+      "md5": "6db3bf7f7a2a4bf2e3a7282f30412118",
+      "sha1": "40e035046db052af6f2c176ea7a0a99c6e20123f",
+      "sha256": "f361a593f0cab08d365ae48c3884d97217b93c0b9f068fe277b32e54f2d66d61"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ナムコのアーケード格闘ゲーム「源平討魔伝」の大幅に改良されたバージョンで、西洋では「源氏と平家のクラン」として知られる「源平討魔伝 コンピュータボードゲーム」は、プレイヤーが復活した侍・タロウノカゲキヨを操作し、源氏一族への復讐を果たすRPGです。\n\nカゲキヨは、永遠の宿敵を求めて国を旅しながら、妖怪や他のモンスターと戦います。これらの戦闘は、プレイヤーとクリーチャーの健康状態がろうそくで表現された1対1のターン制の戦いとして描かれます。カゲキヨは、神社でお金を使うことで健康を回復でき、鳥居で「徳」を使ってステータスをレベルアップさせることもできます。お金と徳は、敵を倒すことで獲得できます。\n\nこのゲームには物理的なボードゲームの要素も含まれています。箱の中にはいくつかのミニチュアと折りたたみ式のボードが含まれており、プレイヤーはボードを使って自分の駒を移動させますが、すべての戦闘はゲーム内で描かれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Genpei%20Touma%20Den%20-%20Computer%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Genpei%20Touma%20Den%20-%20Computer%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Genpei%20Touma%20Den%20-%20Computer%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

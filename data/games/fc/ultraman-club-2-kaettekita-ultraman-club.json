@@ -1,0 +1,65 @@
+{
+  "id": "ultraman-club-2-kaettekita-ultraman-club",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultraman Club 2 - Kaettekita Ultraman Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラマン倶楽部2 帰ってきたウルトラマン倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultraman Club 2 - Kaettekita Ultraman Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c23926cd",
+      "md5": "1e479bfe8e4d3c36de37dfb96aa8e68c",
+      "sha1": "b031678ec59993e12f84e42e9244e8ab5ce26b4d",
+      "sha256": "22f8bd05c4d742cd37866d1054e5daa323d8c16ea5c0881512ba5f49589c1909"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "番組と同様に、このゲームにはあまりストーリーがありません。あなたはただ、モンスターやエイリアンと戦い、人々や惑星を救うために回ります。バトルは基本的に、ターン制のドラゴンクエストクローンのようなものです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultraman%20Club%202%20-%20Kaettekita%20Ultraman%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultraman%20Club%202%20-%20Kaettekita%20Ultraman%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultraman%20Club%202%20-%20Kaettekita%20Ultraman%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

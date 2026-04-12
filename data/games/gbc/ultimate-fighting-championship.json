@@ -1,0 +1,77 @@
+{
+  "id": "ultimate-fighting-championship",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultimate Fighting Championship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultimate Fighting Championship (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "92a5a1ad",
+      "md5": "65bd155f47eade36f7bd446cf58b9bdb",
+      "sha1": "5036626b97238e17b8fc203c44453e79b108cd2e"
+    },
+    {
+      "name": "Ultimate Fighting Championship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d5f036ce",
+      "md5": "8268ae026f73e834f52ee8291bb125b8",
+      "sha1": "8a02015e399a0311c15f0a8ca31744aa0be0f5e6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 201741
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ultimate%20Fighting%20Championship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ultimate%20Fighting%20Championship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ultimate%20Fighting%20Championship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ultimate%20Fighting%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ultimate%20Fighting%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ultimate%20Fighting%20Championship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "joushou-mahjong-tenpai",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Joushou Mahjong Tenpai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "上昇麻雀 聴牌",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "常勝麻雀 天牌",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Joushou Mahjong Tenpai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a24944e4",
+      "md5": "a859f13ed1a497e34f94d80e49861fa4",
+      "sha1": "8417556b5ce22fb9bc4026fe28f7aee348a76fd9",
+      "sha256": "23b320be74b9fc20de512080be3051575ba36c3246d5c4ee224f31a2fa7808f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42423
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Joushou%20Mahjong%20Tenpai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Joushou%20Mahjong%20Tenpai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Joushou%20Mahjong%20Tenpai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

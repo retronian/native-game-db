@@ -1,0 +1,54 @@
+{
+  "id": "puzzle-mate-ds-nanpure-mate",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Mate DS - Nanpure Mate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルメイトDS ナンプレメイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Mate DS - Nanpure Mate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YX7J",
+      "size": 16777216,
+      "crc32": "8a7ff8a3",
+      "md5": "baf56d818661ef1861129f96a5d2e224",
+      "sha1": "1622cabce486d511576e5ae32245cdb700263f3e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 306449
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Mate%20DS%20-%20Nanpure%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Mate%20DS%20-%20Nanpure%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

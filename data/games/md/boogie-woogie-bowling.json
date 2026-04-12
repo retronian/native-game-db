@@ -1,0 +1,66 @@
+{
+  "id": "boogie-woogie-bowling",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Boogie Woogie Bowling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブギウギ・ボーリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Boogie Woogie Bowling (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-058033-00",
+      "size": 524288,
+      "crc32": "ccf52828",
+      "md5": "ee802b11dcb833e0e8e4bca22a5fcd86",
+      "sha1": "57599254461bf05ac0822c42e0bb223a68d4cd71",
+      "sha256": "fd9cf08d29e42933be61a78b51fba655e5822d2a4a6dedadd4f6534092a2b1a4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "チャンピオンシップボウリングは、1人または2人でプレイできる標準的なボウリングゲームで、ジェネシスで唯一のタイトルです。プレイヤーは4人の異なるボウラーの中から1人を選び、使用するボールを決めてレーンに向かいます。プレイヤーは、バーを適切なタイミングで止めることで、投球、スピン、パワーをコントロールします。\n\nゲームには3つの異なるプレイモードがあります：標準ボウリング、少数のピンが配置されておりスペアを狙うスペアモード、特定のピンが異なるポイントを持つボーナスモードです。各モードはコンピュータまたは友達と対戦可能で、3種類のレーンタイプが用意されています。また、各ゲームタイプには練習モードもあります。\n\n日本版の「ブギウギ・ボーリング」は基本的に同じですが、異なるアニメスタイルのキャラクター（説明のないロボットも含む）を使用できることや、投球のタイミングに若干の調整が加えられています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Boogie%20Woogie%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Boogie%20Woogie%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Boogie%20Woogie%20Bowling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

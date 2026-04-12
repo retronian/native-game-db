@@ -1,0 +1,47 @@
+{
+  "id": "wolf-fang",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wolf Fang",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルフファング 空牙2001",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Wolf Fang SS Kūga 2001",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wolf Fang (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 225293488,
+      "crc32": "eb6d3036",
+      "md5": "1d1d35bc8aa5f1dbdf29912158651eda",
+      "sha1": "287b61e59bdabae53900b2611ffc016c852ff999"
+    }
+  ],
+  "external_ids": {
+    "igdb": 320501
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ys",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ys",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "イース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "イース Ancient Ys Vanished Omen",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ys (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ddcce534",
+      "md5": "07eb0e198fd89da66b4dece54d89ecb2",
+      "sha1": "e0563957b5bd80a2226c5a6aaf30f0c6b957d49c",
+      "sha256": "1f09fa55367568ad4134af7e6f69e1cd96d8c767be41a4e303382c4effe8e4e4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206128
+  },
+  "descriptions": [
+    {
+      "text": "あなたはアドル（セガマスターシステム版ではアロン）・クリスチャン、赤毛の冒険者であり、剣の達人です。ある日、あなたは占い師に出会い、イースの六冊の書についての情報を探すクエストに送り出されます。かつてイースという古代の土地が存在し、その秘密は六冊の書に封印されていたようです。やがて、六冊の書は邪悪な魔法使いダークファクト（セガマスターシステム版ではダルク・デクト、PC版ではマリフィカス）によってすべて盗まれたことがわかります。あなたの使命はこの悪党を倒し、イースの秘密を解き明かすことです！\n\n「イース」は独自の戦闘システムを持つアクションRPGです。「攻撃」ボタンを押す代わりに、出会った敵に向かって走り込むことで攻撃します。敵の背後や側面からぶつかると、より多くのダメージを与えることができますが、正面からぶつかると、モンスターがアドルより強い場合、アドルが死んでしまうこともあります。敵を倒すことでゴールドと経験値を獲得し、十分な経験を得るとレベルアップして強くなります。剣、鎧、盾、その他のアクセサリーを購入して装備することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

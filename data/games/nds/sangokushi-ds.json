@@ -1,0 +1,60 @@
+{
+  "id": "sangokushi-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sangokushi DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "三國志2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sangokushi DS (Japan) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3GJ",
+      "size": 67108864,
+      "crc32": "f04eb2eb",
+      "md5": "1414d559f2f0498277a177192357d5b6",
+      "sha1": "4773da504c27da58d821461efffa5663f98694a9"
+    },
+    {
+      "name": "Sangokushi DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3GJ",
+      "size": 67108864,
+      "crc32": "d73dc305",
+      "md5": "2faf2324af41c2e6bf17c0663b70c851",
+      "sha1": "a8b0904e0c7103f37d009add89c88068ea5e6a27"
+    },
+    {
+      "name": "Sangokushi DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3GJ",
+      "size": 67108864,
+      "crc32": "5dc07ce5",
+      "md5": "250277363c29cafdf8e4713cd3e03e2d",
+      "sha1": "f23deb2040383c7ec9c65f5fa14369b54fc83fbf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59193
+  }
+}

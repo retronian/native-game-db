@@ -1,0 +1,77 @@
+{
+  "id": "nichibutsu-arcade-classics",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nichibutsu Arcade Classics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニチブツ アーケード クラシックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ニチブツアーケードクラシックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nichibutsu Arcade Classics (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "2839940e",
+      "md5": "47f344fe8bba64d564f01e5180ea7b97",
+      "sha1": "d091ffcd6d7bd955c700b1b59cdbbc887968f807",
+      "sha256": "4746bc4d6b5b435380e98d954835ae99fdac01c17a489871724f5d2faa50d1fb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38165
+  },
+  "descriptions": [
+    {
+      "text": "ニチブツ アーケード クラシックスは、1995年にスーパーファミコンとソニー プレイステーション向けにリリースされたコンピレーションです。1980年代初頭のニチブツ（または日本物産）のアーケードゲーム3作品が収録されており、コンソール向けにアダプテーションされていますが、基本的にはそのままの形で提供されています。契約開発者のシスコムがアダプテーションを担当しました。\n\nクレイジークライマー：主人公がビルを登るアクションゲーム。各手を独立して操作する複雑なコントロールで知られています。\n\nフリスキートム：主人公が配管システムを維持し、悪党のネズミからそれを守るアクションゲームです。\n\nムーンクレスタ：プレイヤーの船がステージ間でより大きな船とドッキングしてパワーアップできる、ギャラクシアンに似たシングルスクリーンのシューティングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nichibutsu%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nichibutsu%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nichibutsu%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

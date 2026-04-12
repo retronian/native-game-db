@@ -29,6 +29,24 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "BASSマスターズクラシック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バスマスターズ クラシック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
     }
   ],
   "first_release_date": "1994-01-01",
@@ -36,5 +54,53 @@
     "wikidata": "Q2887292",
     "mobygames": 36593,
     "igdb": 357181
-  }
+  },
+  "roms": [
+    {
+      "name": "BASS Masters Classic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "925206ea",
+      "md5": "1141024d45857a4570bd860f4d67b878",
+      "sha1": "c55dd321bd4239f42ff6a6b08318dcf7b449ccf9",
+      "sha256": "a54782f45bd83b9264de69be2faf8fe2ce99ae084b030d94e1a807202821cd4d"
+    },
+    {
+      "name": "BASS Masters Classic (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "832a27c2",
+      "md5": "74bbb1aa480a01f53e7b8764d0750e23",
+      "sha1": "0539a9ad5b83e6fd752dff7d7eb9195339fdceef",
+      "sha256": "c670e16c076f6d92ba581b78769b604e79ad567c04c647dac557f45a48c3448f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/BASS%20Masters%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/BASS%20Masters%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/BASS%20Masters%20Classic%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/BASS%20Masters%20Classic%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
 }

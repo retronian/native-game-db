@@ -1,0 +1,76 @@
+{
+  "id": "hana-yori-dango-another-love-story",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hana Yori Dango - Another Love Story",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "花より男子",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "花より男子 Another Love Story",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hana Yori Dango - Another Love Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "469f0284",
+      "md5": "e1af297b7083e1958352bbc5655ef480",
+      "sha1": "9a403476fa3325d5d48ad0686727b9c715ebaef9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67429
+  },
+  "descriptions": [
+    {
+      "text": "同名の漫画を基にしています。漫画の第12巻までの内容を基にしており、オリジナルのイベントも含まれています。主人公の牧野つくしが主役となり、彼の学校の生徒たちとの親密な関係を築いていきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hana%20Yori%20Dango%20-%20Another%20Love%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hana%20Yori%20Dango%20-%20Another%20Love%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hana%20Yori%20Dango%20-%20Another%20Love%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "penguin-kun-wars",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Penguin-kun Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぺんぎんくん",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ぺんぎんくんWARS",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Penguin-kun Wars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "61127c69",
+      "md5": "015c0e5364dff18cc58a75e7e80a4321",
+      "sha1": "82f1ccaa96a2f0cdfff7dd07cd247a7391886357",
+      "sha256": "e4d141c3cb24c724a1e3c15042d4b2f992f083dfdbbb92ca668ce025ca309247"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ペンギンがテーブルの上で球を転がし、相手をノックアウトしてポイントを獲得しようとします。制限時間内にテーブルの自分の側に最も少ない球が残っているキャラクターが勝者となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1985-12-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Penguin-kun%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Penguin-kun%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Penguin-kun%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

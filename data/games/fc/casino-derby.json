@@ -1,0 +1,77 @@
+{
+  "id": "casino-derby",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Casino Derby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カジノ ダービー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "カジノ・ダービー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Casino Derby (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "67f0c00f",
+      "md5": "7f26fdf5c05459f204e89a865e047438",
+      "sha1": "0a4f206eef8f5e31508547af2ea349c952fb4a5f",
+      "sha256": "72e3c0bfc743849a11bfbdabda5c54aa910a18b035f715b8f08e25a0b72bb027"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48720
+  },
+  "descriptions": [
+    {
+      "text": "ダービー、ジョッキー、ビンゴの3つのオプションがある競馬ゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Casino%20Derby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Casino%20Derby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Casino%20Derby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

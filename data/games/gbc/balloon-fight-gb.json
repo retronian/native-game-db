@@ -1,0 +1,68 @@
+{
+  "id": "balloon-fight-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Balloon Fight GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バルーンファイトGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バルーンファイト GB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "d2af64ce",
+      "md5": "f94f61e6beaec6222e0d35229e2e271e",
+      "sha1": "dbaa1bf9061de0f052704d6a33892341a38f2152"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50061
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Balloon%20Fight%20GB%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Balloon%20Fight%20GB%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Balloon%20Fight%20GB%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

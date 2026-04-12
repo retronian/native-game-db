@@ -1,0 +1,56 @@
+{
+  "id": "maus-die",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maus, Die",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maus, Die (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e7bd4a49",
+      "md5": "f9be99d213760ba2e9525abea1de3cb6",
+      "sha1": "23b612ab97b9d5e0454f9ae91b7bdbd50df91131"
+    },
+    {
+      "name": "Maus, Die (Europe) (En,Fr,De,Es) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "d6e8f27e",
+      "md5": "f0691682463eb9d3ea942a2f60f29aa9",
+      "sha1": "5c60b47701329e0d3ed9a1a4c929255f0fe360d9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Maus%2C%20Die%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Maus%2C%20Die%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Maus%2C%20Die%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

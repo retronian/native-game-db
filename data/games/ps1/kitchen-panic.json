@@ -1,0 +1,59 @@
+{
+  "id": "kitchen-panic",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kitchen Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キッチンぱにっく",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kitchen Panic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 147490176,
+      "crc32": "c35de61d",
+      "md5": "0db67fbf16e1d2d9417692763340fea2",
+      "sha1": "c0752314a80e1053b4bf417aae99b2fe461327a2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 109082
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Kitchen%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Kitchen%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Kitchen%20Panic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

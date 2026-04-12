@@ -1,0 +1,51 @@
+{
+  "id": "board-game-classics",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Board Game Classics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Board Game Classics (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6EE",
+      "size": 4194304,
+      "crc32": "69d760bb",
+      "md5": "871133b4e4e8b172f7538b0250c9bb45",
+      "sha1": "83ba1075b9170598fea26d0f1f9f1ecd3cf0d6d2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 19111
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Board%20Game%20Classics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Board%20Game%20Classics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Board%20Game%20Classics%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

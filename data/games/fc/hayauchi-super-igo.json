@@ -1,0 +1,89 @@
+{
+  "id": "hayauchi-super-igo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hayauchi Super Igo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "早打ちスーパー囲碁",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hayauchi Super Igo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "43ffec52",
+      "md5": "7d97f4a4b23eaa93369350b954d1a37d",
+      "sha1": "7f2cbc38f055cde714c3c6ee585de7050a040ca8",
+      "sha256": "17caddeeecde4f4970fa6f02b39fbb509a28f868dad3dab3535491996606c8f8"
+    },
+    {
+      "name": "Hayauchi Super Igo (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "cd7072de",
+      "md5": "15a9cfc074302a4994c0800d0e87ab49",
+      "sha1": "5ba75f7d30b0ea81a45cd6bdd4d2ff49a9b91d0b",
+      "sha256": "57fd3246b21556cd4a5a79f67c50ed25c5ca1a2a7a1f89f164938c7ff1b7641d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48329
+  },
+  "first_release_date": "1989-03-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hayauchi%20Super%20Igo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hayauchi%20Super%20Igo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hayauchi%20Super%20Igo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hayauchi%20Super%20Igo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hayauchi%20Super%20Igo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hayauchi%20Super%20Igo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

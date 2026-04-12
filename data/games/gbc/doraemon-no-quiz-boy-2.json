@@ -1,0 +1,85 @@
+{
+  "id": "doraemon-no-quiz-boy-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon no Quiz Boy 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんのクイズボーイ2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラえもんのクイズボーイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ドラえもんのクイズボーイ 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon no Quiz Boy 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9e80199a",
+      "md5": "15bedc4919965732cbfb301f11e5b36a",
+      "sha1": "c6b5ffc4b8f7c106807ed7e2c72e37090d3faa97"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85933
+  },
+  "descriptions": [
+    {
+      "text": "ドラえもんと一緒に楽しむクイズゲーム「ドラえもんのクイズボーイ」。5,000以上の学習クイズが収録されており、難易度は低、中、高の3段階から選べます。また、クイズを簡単にするための秘密道具を使うなど、ドラえもんらしいゲーム要素も満載です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-10-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Doraemon%20no%20Quiz%20Boy%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Doraemon%20no%20Quiz%20Boy%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Doraemon%20no%20Quiz%20Boy%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

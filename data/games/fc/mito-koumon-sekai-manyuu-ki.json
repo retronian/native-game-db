@@ -1,0 +1,65 @@
+{
+  "id": "mito-koumon-sekai-manyuu-ki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mito Koumon - Sekai Manyuu Ki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "水戸黄門II 世界漫遊記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mito Koumon - Sekai Manyuu Ki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "cf6087f1",
+      "md5": "4e29c31571ad3baa299383941224700b",
+      "sha1": "928f9d938d68f76684a5ba931734511361b3c22b",
+      "sha256": "5e87111e195773bae72b11b94075ec1113167378b0d19b4470afb52ead52371c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "水戸黄門II 世界漫遊記はアドベンチャーゲームです。これは「天下の御意見番 水戸黄門」の続編であり、見た目やゲームプレイは非常に似ています。このゲームでも、プレイヤーは徳川光圀の家臣の一人を操作し、地域内の犯罪の手がかりや証拠を集めながら、敵対的なNPCを避けたり戦ったりします。前作が日本国内のみを舞台にしていたのに対し、今回は徳川が世界を巡り問題を解決していきます。最初のステージはアメリカ（具体的には西部開拓時代、17世紀に沿った時代設定）ですが、トランシルバニアを含む他の多くの場所も訪れることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mito%20Koumon%20-%20Sekai%20Manyuu%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mito%20Koumon%20-%20Sekai%20Manyuu%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mito%20Koumon%20-%20Sekai%20Manyuu%20Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "puchi-carat",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puchi Carat",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "プチカラット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puchi Carat (USA) (Proto 2) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a97ea742",
+      "md5": "6d1682824a006ddbde77527a2e62622a",
+      "sha1": "de755124425f9de8bef5eea8026751c54f7f1e00",
+      "sha256": "a128ce62f473d83b1951f9bd2213f6d02ea689819a2d05307445693d04b5ee15"
+    },
+    {
+      "name": "Puchi Carat (USA) (Proto 1) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "d79b6f46",
+      "md5": "67dd4724f032088506dc868078eb4e7e",
+      "sha1": "b91b121a6951bcc74f0e4af33d41a1fba62f9822",
+      "sha256": "0ed5e10fd010c2a943666697316aec21470657d934448fd5d677706309d9f6bc"
+    },
+    {
+      "name": "Puchi Carat (Europe) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "a9a89dda",
+      "md5": "be7c823a2c6feba614afa32606edebe5",
+      "sha1": "f703796e5551e12924c070cd8a0e77c6d82073af"
+    },
+    {
+      "name": "Puchi Carat (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f0d0c36d",
+      "md5": "9f61847ddf25f5244257641bc971c1fd",
+      "sha1": "25abda13f97140d412bb00e109baca8574d5af6e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 299316
+  },
+  "descriptions": [
+    {
+      "text": "クラシックな「ウォールズ」と「バブル」パズルゲームのミックス\n挑戦する12人のキャラクター\n獲得する12個の宝石\n激しい競争\n4つの素晴らしいゲームモード\n\n「プチカラット」の一般的な目的は、ボールとパドルを使って宝石のようなブロックを破壊することです。宝石はプレイエリアの上から1行ずつ「落ちて」きており、水平または垂直に互いに接続されています。ボールで宝石を叩くとそれが破壊され、破壊された宝石が他の宝石をプレイエリアの上部と接続していない状態にすると、それらは落下しボーナスポイントが得られます。特別な点滅する宝石を破壊すると、同じ色の通常の宝石もすべてプレイフィールドから消えます。また、破壊するのに複数のヒットが必要な金属ブロックも存在します。\n\nプレイヤーはプレイフィールドの下部にあるパドルを操作し、左右に動かしてボールを上に跳ね返します。ほとんどのブレイクアウトスタイルのゲームとは異なり、ボールを逃すことはライフを失ったりゲームが終了したりすることはなく、代わりにプレイフィールドの上部に新たな宝石の行が追加されます。宝石の行は一定時間後に自動的に進行し、プレイフィールドが完全にクリアされるか、宝石の数が一定数以下になると進行します。宝石がパドルがあるプレイフィールドの下部のラインを越えると、プレイヤーは負けとなりゲームオーバーになります。\n\nアーケード版の「プチカラット」には、3つの主要なゲームモードがあります：特定の数の宝石の行をクリアすることを目指すシングルプレイヤーモード、プレイヤーが各キャラクターと対戦するストーリーモード（落下した宝石が相手のプレイフィールドに追加される）、そしてストーリーモードと同じルールに従った2人対戦モードです。各シングルプレイヤーモードは3つの難易度を提供しています。ゲームのさまざまなポートでは、追加のゲームモード（タイムアタックモードなど）、さらに多くの難易度、各キャラクターの拡張されたストーリーラインが提供されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Puchi%20Carat%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Puchi%20Carat%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Puchi%20Carat%20%28Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Puchi%20Carat%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Puchi%20Carat%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Puchi%20Carat%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

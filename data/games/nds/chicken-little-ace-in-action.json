@@ -1,0 +1,58 @@
+{
+  "id": "chicken-little-ace-in-action",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chicken Little - Ace in Action",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chicken Little - Ace in Action (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AC4P",
+      "size": 67108864,
+      "crc32": "25e220c1",
+      "md5": "92143ed81d9da83ccb0b6cd615ab1992",
+      "sha1": "5ba49aeb2e68cc3e616e9b5a77659ca42ebc8d6c"
+    },
+    {
+      "name": "Chicken Little - Ace in Action (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AC4E",
+      "size": 67108864,
+      "crc32": "46c593f8",
+      "md5": "1344e3776e60324292d6c4935bf1bda2",
+      "sha1": "57a3eb527f4a36221115b21916804bea3d4e4e9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Chicken%20Little%20-%20Ace%20in%20Action%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Chicken%20Little%20-%20Ace%20in%20Action%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Chicken%20Little%20-%20Ace%20in%20Action%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

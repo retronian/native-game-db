@@ -1,0 +1,78 @@
+{
+  "id": "classic-nes-series-castlevania",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - Castlevania",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファミコンミニ悪魔城ドラキュラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "NES Classics: Castlevania",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Famicom Mini: Akumajou Dracula",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - Castlevania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FADE",
+      "size": 1048576,
+      "crc32": "23e4082c",
+      "md5": "1f90a64fb3b26abee5ff9284fe628758",
+      "sha1": "47a60315ed4074a8c986723b95b3c90513d3b35c",
+      "sha256": "9e2b1feed479e90448cbf7defb34b1a286b57c016bccd7c78c933812380b3e89"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49171
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

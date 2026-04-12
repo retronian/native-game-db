@@ -1,0 +1,69 @@
+{
+  "id": "soreike-anpanman-minna-de-hiking-game",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soreike! Anpanman - Minna de Hiking Game!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "それいけ!アンパンマン みんなでハイキングゲーム!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "それいけ! アンパンマン みんなで ハイキングゲーム!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soreike! Anpanman - Minna de Hiking Game! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "452059d7",
+      "md5": "0e6ef0120c2a908a164134358dfda4e0",
+      "sha1": "f3643b64674bfeff327cf529d37f0f10e591d106",
+      "sha256": "ade4b0de03d241043c96921de22f5fda36a002f3cafd7de07bfa1016ba3b3109"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48347
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Soreike%21%20Anpanman%20-%20Minna%20de%20Hiking%20Game%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Soreike%21%20Anpanman%20-%20Minna%20de%20Hiking%20Game%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Soreike%21%20Anpanman%20-%20Minna%20de%20Hiking%20Game%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

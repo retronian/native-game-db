@@ -1,0 +1,64 @@
+{
+  "id": "snobow-champion",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Snobow Champion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スノボーチャンピオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Snobow Champion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "846fea2b",
+      "md5": "78f920f4e9174cd3382294129d30f373",
+      "sha1": "e99284640d67643102e68aca25bf56d78a1a0d39"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイヤーは、4つのスノーボード競技でライバルと対戦しながら自分のキャラクターを育成することを目指します。各ライバルは強力な競争相手であり、ヒーローに挑戦します。ライバルを倒すことでポイントを獲得し、パラメーターを増加させることができ、自分だけのオリジナルキャラクターを作成できます。競技の種類には「スラローム」、「ハーフパイプ」、「ワンメイク」、および「ボードクロス」があります。パラメーターには体力、持久力、反射能力、瞬発力が含まれ、スキル、スピード、ジャンプに関連しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Snobow%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Snobow%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Snobow%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

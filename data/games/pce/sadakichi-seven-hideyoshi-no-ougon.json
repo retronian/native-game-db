@@ -1,0 +1,60 @@
+{
+  "id": "sadakichi-seven-hideyoshi-no-ougon",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sadakichi Seven - Hideyoshi no Ougon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "定吉七番セブン 秀吉の黄金",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sadakichi Seven - Hideyoshi no Ougon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "f999356f",
+      "md5": "0cb043fe940e91d6660927aa6b01e1d9",
+      "sha1": "a629408efcc607a5385d81a8fe15f77e6a721ddd",
+      "sha256": "b30a0f05d655da6563556f9e7cb3491cc5520527bcd6fd41a541f8087cb4722b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64289
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Sadakichi%20Seven%20-%20Hideyoshi%20no%20Ougon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Sadakichi%20Seven%20-%20Hideyoshi%20no%20Ougon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Sadakichi%20Seven%20-%20Hideyoshi%20no%20Ougon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

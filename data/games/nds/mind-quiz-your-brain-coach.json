@@ -1,0 +1,96 @@
+{
+  "id": "mind-quiz-your-brain-coach",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mind Quiz - Your Brain Coach",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "脳年齢 脳ストレス計 アタマスキャン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nounenrei: Nou Stress Kei Atama Scan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mind Quiz - Your Brain Coach (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACNE",
+      "size": 16777216,
+      "crc32": "c57a4abd",
+      "md5": "746dec25a17c8a4ba165551c7108c953",
+      "sha1": "a8abe813aa2d75d0c3645fcb616d74699f7ac91a"
+    },
+    {
+      "name": "Mind Quiz - Your Brain Coach (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACNP",
+      "size": 16777216,
+      "crc32": "904123cf",
+      "md5": "5158b892c3c888418b9f35079d9dbfe0",
+      "sha1": "d7a8862a801022cdff3044a29da4b5e4b62b9775"
+    }
+  ],
+  "external_ids": {
+    "igdb": 123356
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mind%20Quiz%20-%20Your%20Brain%20Coach%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

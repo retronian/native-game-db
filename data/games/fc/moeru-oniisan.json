@@ -1,0 +1,65 @@
+{
+  "id": "moeru-oniisan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moeru! Oniisan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "燃える! お兄さん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moeru! Oniisan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "05f4cc4e",
+      "md5": "54ccb8ca6756cef4b4ec1ad83093c3c1",
+      "sha1": "5f0f21920c9c23c188e5840bc2f6669db640864d",
+      "sha256": "adc7c4dd7126ed3117830a2c30452564a1bd09fb0f52e133af261362540806a5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ティムという男の子と彼の妹ジュディがサーカスに行きます。彼らはサーカスに入るためのチケットを買いたいのですが、お金は一枚分しかないため、ジュディだけが中に入ります。ショーの後、ティムはジュディが出てくるのを待つために出口にいますが、彼女が出てこないので、ティムはサーカスに忍び込んで、彼女を人質に取っているリングマスターのミスター・マジックから救い出そうとします。\n\nこのゲームはプラットフォーマーで、たくさんのクラウンや綱渡りのアーティストをかわし、ワニの上をジャンプして水を越えなければなりません。また、小さなテントに入ってミニゲームをプレイすることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Moeru%21%20Oniisan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Moeru%21%20Oniisan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Moeru%21%20Oniisan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

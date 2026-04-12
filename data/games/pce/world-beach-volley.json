@@ -1,0 +1,62 @@
+{
+  "id": "world-beach-volley",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Beach Volley",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドビーチバレー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Beach Volley (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "be850530",
+      "md5": "01b12cf69e894990d7184b308890b1b2",
+      "sha1": "8aa42b9024820e7e503e9b9e8ac05e424643ef81",
+      "sha256": "3c0722c1095b50938da060119d0b63732a2b3623072f01376d99bb5f8fc18007"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ソニックスパイクはビーチバレーボールのゲームです。プレイヤーは異なる強みと弱みを持つ2人のアスリートからなるバレーボールチームを操作し、トーナメントで勝利を目指します。2人目のアスリートは、別の人間プレイヤーが操作することも可能です。操作は特に驚きはなく、プレイヤーはフィールド上でアスリートを移動させ、ジャンプとヒットのための2つのボタンを使用します。シングルプレイヤーの場合は、2人のアスリートを切り替える必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/World%20Beach%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/World%20Beach%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/World%20Beach%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

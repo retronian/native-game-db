@@ -1,0 +1,66 @@
+{
+  "id": "elfaria-ii-the-quest-of-the-meld",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Elfaria II - The Quest of the Meld",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エルファリアII ザ・クエスト・オブ・ザ・メルド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "エルファリアII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Elfaria II - The Quest of the Meld (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "4d5da64f",
+      "md5": "b240ad406aea9c7aab9728372fa525f4",
+      "sha1": "ae123c368f6401fb7285e0307c2adeb78fa7d3fa",
+      "sha256": "13d57f43589ff1659d82e856cb3de366c72376e0552bb80a73afc86e538e3da5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Elfaria%20II%20-%20The%20Quest%20of%20the%20Meld%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Elfaria%20II%20-%20The%20Quest%20of%20the%20Meld%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Elfaria%20II%20-%20The%20Quest%20of%20the%20Meld%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

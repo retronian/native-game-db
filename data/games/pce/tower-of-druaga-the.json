@@ -1,0 +1,76 @@
+{
+  "id": "tower-of-druaga-the",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tower of Druaga, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドルアーガの塔",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Druaga no Tou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tower of Druaga, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "72e00bc4",
+      "md5": "df4fa7ddc1a4e8cc29dc67e700b2a55a",
+      "sha1": "1d34d947d9dfd4d7a3e1a0dda789645cd8c4ac29",
+      "sha256": "822eaccbe575211c1022d8ff823c36a54e240c7072479e84c4b02d438bba5a19"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4207
+  },
+  "descriptions": [
+    {
+      "text": "これはオリジナルゲームのリメイクです。ストーリーはそのままで、イシュタルがギルガメッシュをドラガの塔の60階層の迷路に送り、キを救出し青いクリスタルの杖を取り戻すという内容です。彼は次の階に進むために各階の鍵を見つけなければなりません。\n\n更新されたグラフィックに加えて、このリメイクではオリジナルの俯瞰視点ではなく、3/4ビューが採用されています。また、ギルガメッシュは敵を倒すことで経験値を獲得し、各階の終わりにその経験値を使ってスピードや健康などのステータスを向上させるRPG要素も含まれています。彼は剣、ヘルメット、鎧、盾、ガントレット、ブーツなどの装備を見つけることができ、これらを変更してステータスを向上させることができます。また、隠された宝箱の中に特別なアイテムも見つけることができます。これらの宝箱を見つける方法は各階で異なります。新しい宝物や新しい敵も登場します。\n\nゲームには簡単、普通、難しい、プロの4つの異なる難易度があり、パスワード機能も搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tower%20of%20Druaga%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tower%20of%20Druaga%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tower%20of%20Druaga%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

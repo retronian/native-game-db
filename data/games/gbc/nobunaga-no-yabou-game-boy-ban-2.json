@@ -1,0 +1,77 @@
+{
+  "id": "nobunaga-no-yabou-game-boy-ban-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga no Yabou - Game Boy Ban 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "信長の野望 ゲームボーイ版2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "信長の野望ゲームボーイ版 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "233862d0",
+      "md5": "f8a6836a0f3448fae3f2e79ba1d32769",
+      "sha1": "a61e35306405e41c03b98b162ee14442e77c0da1",
+      "sha256": "5a8eed524c12796f5b54208ce051a603b58bec6fc630e1a36b2121bff615683e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282388
+  },
+  "descriptions": [
+    {
+      "text": "武将たちが活発に動き出す！戦国時代を描いた名作がパワーアップ！独自の武将を駆使して、世界統一の夢を実現するために戦略と戦術を尽くそう！シナリオは2つあり、約400人の実在の武将が登場。さらに、野戦と包囲戦モードも搭載されており、汗をかくような戦闘のスリルを楽しむことができる。今こそ、意思の中で散らばる大名・織田信長の大志を果たす時だ！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Nobunaga%20no%20Yabou%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

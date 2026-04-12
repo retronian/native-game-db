@@ -1,0 +1,45 @@
+{
+  "id": "skate-boy",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Skate Boy",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 238898
+  },
+  "roms": [
+    {
+      "name": "Skate Boy (Europe, Asia) (En) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 40976,
+      "crc32": "81ae7196",
+      "md5": "db58eb4d6b42b46d6caf9af1f7717ee8",
+      "sha1": "dc73550820c262ad1e5ec6e125702ec0effe0425",
+      "sha256": "7971624d3e445fdbf82b7b18922c40b40b6a9e3b7ad2b1ab0d983c820e9056a7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Skate%20Boy%20%28Europe%2C%20Asia%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Skate%20Boy%20%28Europe%2C%20Asia%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

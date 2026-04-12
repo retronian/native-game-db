@@ -1,0 +1,104 @@
+{
+  "id": "color-cross",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Color Cross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Colour Cross",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Color Cross (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCRE",
+      "size": 8388608,
+      "crc32": "8d3a729f",
+      "md5": "e15116f79dc954bbb29c89febc546a3b",
+      "sha1": "57120fc395a62f89f9edebd213c070db50fc6560",
+      "sha256": "259aa15c8ca6bac712b370d470d673214a4c00f96fd63aafcbd1ec1aa93c3f22"
+    },
+    {
+      "name": "Color Cross (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCRE",
+      "size": 8388608,
+      "crc32": "a00146c8",
+      "md5": "a86ec1aa3c114336a62407b8993c7469",
+      "sha1": "8980acbcc09217ce622a21b1a93ae87213c496c5",
+      "sha256": "688c8f53847f7bbc9b9cc517b4ce88da7a4cf20b60ca1b5a801e5a0c2d197415"
+    },
+    {
+      "name": "Color Cross (USA) (Beta 3)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCRE",
+      "size": 8388608,
+      "crc32": "2bbd2db2",
+      "md5": "9a105bb368f25f16e25f33738c33e16d",
+      "sha1": "06a60219547d1226d6810876ce1f520cc80669a8",
+      "sha256": "94224b5ae783f9d7f7fcbd9cdfc0ba38054a51c41b14c601a1a464eb699445f5"
+    },
+    {
+      "name": "Color Cross (Europe) (Beta 2)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCRP",
+      "size": 8388608,
+      "crc32": "8a733a98",
+      "md5": "1a165decb8e42db7406e85dcfb527ccd",
+      "sha1": "6dc901a3e117e9327f6c0163d53e17da0c5ebda0",
+      "sha256": "f58e7e0611f29566ea55e6e33f66de7a8e5f543947860c52df7c81be34164e52"
+    },
+    {
+      "name": "Color Cross (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCRE",
+      "size": 8388608,
+      "crc32": "c4525c8d",
+      "md5": "dca139d7d2f1e80fa5180f0b9b2b4666",
+      "sha1": "0000295640a0167b6e3327f640548f38d1d15dda"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47769
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

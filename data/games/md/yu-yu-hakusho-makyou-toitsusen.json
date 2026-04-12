@@ -1,0 +1,77 @@
+{
+  "id": "yu-yu-hakusho-makyou-toitsusen",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu Yu Hakusho - Makyou Toitsusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "幽☆遊☆白書 魔強統一戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu Yu Hakusho - Makyou Toitsusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004122-00",
+      "size": 3145728,
+      "crc32": "71ceac6f",
+      "md5": "8130283788f82677ec583b7f627dbf0c",
+      "sha1": "89a70d374a3f3e2dc5b430e6d444bea243193b74",
+      "sha256": "c39d52b2e2298b3784ada3de70d64b26b67e172114c7d18494faad70fc4d7c06"
+    },
+    {
+      "name": "Yu Yu Hakusho - Makyou Toitsusen (Japan) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004103-00",
+      "size": 3145728,
+      "crc32": "742ea744",
+      "md5": "4c9a6a99002948aa94d2d9a3cbfb2ce1",
+      "sha1": "2ef59e9825d66d98443eff5cfb1f557689731309",
+      "sha256": "d887616990935400eb57d4a99e0c15c5cf32c588a65458e188575b103faeb165"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "浦飯幽助と彼の仲間たちは、神秘的な武道団体「魔強統一戦」に招待されます。このトーナメントでは、彼らが過去に戦った悪魔たちと再び対戦し、誰が最強かを決定します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Yu%20Yu%20Hakusho%20-%20Makyou%20Toitsusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Yu%20Yu%20Hakusho%20-%20Makyou%20Toitsusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Yu%20Yu%20Hakusho%20-%20Makyou%20Toitsusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

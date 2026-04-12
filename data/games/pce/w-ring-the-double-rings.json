@@ -1,0 +1,74 @@
+{
+  "id": "w-ring-the-double-rings",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "W Ring - The Double Rings",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "W-Ring - The Double Rings",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ダブルリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "W Ring - The Double Rings (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "be990010",
+      "md5": "7c5f8476e6b5ec9e56f4b67a00f022e7",
+      "sha1": "95d0a95ce9f08da3f096cfdc654ba5dfeb794add",
+      "sha256": "3fa8da5f2d54bcd7aff9bf420692778e2c3870300822e796ecb8433479b8d627"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64746
+  },
+  "descriptions": [
+    {
+      "text": "W Ring: The Double Ringsは、Naxat SoftがPCエンジン向けに開発・発売したシューティングゲームです。プレイヤーは横スクロールのステージを進み、倒した敵から落ちたパワーアップを集めます。\n\nゲームには、敵の数や体力を決定する3つの難易度モードがあります：ビギナー、ノーマル、エキスパート。\n各パワーアップは色によって異なる武器をプレイヤーに提供し、次々にパワーアップを集めることでその武器の威力が増します。プレイヤーが異なる色のパワーアップを取得すると、それらのパワーアップの強化版を手に入れます。プレイヤーが攻撃を受けると、現在持っているパワーアップを失います。パワーアップを持っていない場合は、ライフを失います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/W-Ring%20-%20The%20Double%20Rings%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/W-Ring%20-%20The%20Double%20Rings%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/W-Ring%20-%20The%20Double%20Rings%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

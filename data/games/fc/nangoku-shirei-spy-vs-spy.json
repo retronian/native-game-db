@@ -1,0 +1,83 @@
+{
+  "id": "nangoku-shirei-spy-vs-spy",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nangoku Shirei!! - Spy vs Spy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "南国指令!! スパイVSスパイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "南国指令!!スパイvsスパイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "南国指令",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nangoku Shirei!! - Spy vs Spy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "b4182da1",
+      "md5": "bfb103c79648955a9dcfb2c3c190495d",
+      "sha1": "5f1ebdf65aeedaee4f08fed18f61beb700581654",
+      "sha256": "b4fd0445870cffd33d8899a4debd8772f1c01e3881af141f26fc1a3772f5f3fa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "南国指令スパイVSスパイ。2人のスパイが争う対戦アクション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-04-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Nangoku%20Shirei%21%21%20-%20Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Nangoku%20Shirei%21%21%20-%20Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Nangoku%20Shirei%21%21%20-%20Spy%20vs%20Spy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "championship-bowling",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Championship Bowling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "チャンピオンシップボウリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "チャンピオンシップ ボウリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Championship Bowling (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "6e5ab749",
+      "md5": "2ebf4cde26e17846e5f2ea27e4496d33",
+      "sha1": "43498009d63b9ff0d75aa20a91e79c9dc7a5e1bf",
+      "sha256": "94a7f8b4a55fd4e63c64ae5cbf9c7e10e4ef252f11f4eb18d44a210240c9166a"
+    },
+    {
+      "name": "Championship Bowling (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "8b3fad44",
+      "md5": "75ae41bd0e5336e531c7b6ea5703d539",
+      "sha1": "d6cacfd0564b4c3de93d4c47563c5be6fb22a37f",
+      "sha256": "a0132c1d4146bd55aa779ef3a00a5d5161c9c80a09fe5ea0e094d3f0a9d82285"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4408
+  },
+  "descriptions": [
+    {
+      "text": "本格的なボウリングゲーム。リアルな操作感が楽しめる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Championship%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Championship%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Championship%20Bowling%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

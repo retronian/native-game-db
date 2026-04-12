@@ -1,0 +1,68 @@
+{
+  "id": "energy",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Energy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エナジー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Energy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "ca68ff21",
+      "md5": "b928568fd7258f90b5ac410c7f65c48c",
+      "sha1": "8a43ac4f92cf6715e95b607c75e5c9e43b1c7575",
+      "sha256": "15b0d59042625bbe5fbb918fda6db03ac3df3881d496f526c7c5845cfa69c5f2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63332
+  },
+  "descriptions": [
+    {
+      "text": "このゲームのストーリーは非常にシンプルです：東京はモンスターによって破壊されてしまいました！恐ろしいクリーチャーたちが街に侵入し、荒らしています。ESPと呼ばれる超能力の秘密を持つ科学者が、若い少年にその力を授け、東京の街や地下の洞窟に送り出し、残された数少ない生存者を救い、モンスターの侵略の源を突き止めるのです！\n\n「エナジー」は横スクロールシューティングゲームです。プレイヤーは若いヒーローを操作し、エネルギーボールを発射したりジャンプしたりできます。エネルギー攻撃を行うとESPバーが減少し、徐々に回復します。ヒーローのライフバーは、敵が時々落とす回復ポーションでしか回復できません。また、少年はアイテムを集めることで、ESP攻撃の特性を変えたり、攻撃を次のレベルにアップグレードしたりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-04-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Energy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Energy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Energy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

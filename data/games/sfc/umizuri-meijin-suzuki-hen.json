@@ -1,0 +1,73 @@
+{
+  "id": "umizuri-meijin-suzuki-hen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Umizuri Meijin - Suzuki Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海釣り名人 スズキ編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Umizuri Meijin - Suzuki Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ba2a817c",
+      "md5": "ffef33f8dbecded3778982d7e8bd4133",
+      "sha1": "79d9dc9db69f46fcddbe9afb42fc9b3cf69881b5",
+      "sha256": "19fefd0b80f8893585c9bed2b534313a3014a1d08514dbff91831fa92e50ae6d"
+    },
+    {
+      "name": "Umizuri Meijin - Suzuki Hen (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c7939dbf",
+      "md5": "af0d2b82d1c99d5a6121ca9e9e11e37a",
+      "sha1": "f932a6d3f051835c5f6b8687e61023b0a47fdfc6",
+      "sha256": "3371b947ccb2fd0af03b4ec35fba93dc30d8f7e4a97681c423f06004f1b5ffe1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Umizuri%20Meijin%20-%20Suzuki%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Umizuri%20Meijin%20-%20Suzuki%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Umizuri%20Meijin%20-%20Suzuki%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Umizuri%20Meijin%20-%20Suzuki%20Hen%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

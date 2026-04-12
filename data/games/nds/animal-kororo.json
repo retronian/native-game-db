@@ -1,0 +1,43 @@
+{
+  "id": "animal-kororo",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Animal Kororo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Animal Kororo (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CPLP",
+      "size": 33554432,
+      "crc32": "9bd87113",
+      "md5": "8f67e632b7fcfd96afd09ccdd283dc0a",
+      "sha1": "7c60952efc5c244cb1fa5c1f24e61a42a3b28d3a",
+      "sha256": "09ae546ab67f661c1d5dfab3960060854d349791480b258fb49679bb06251e87"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Animal%20Kororo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Animal%20Kororo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

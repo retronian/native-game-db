@@ -1,0 +1,60 @@
+{
+  "id": "nba-show-time-nba-on-nbc",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NBA Show Time - NBA on NBC",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "NBA Show Time - NBA on NBC (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7ae23888",
+      "md5": "e89653bd33d07e1a50a3ff78c2818a53",
+      "sha1": "a72cd784883f2299b8b51d763ff4f8cf99a103bd"
+    },
+    {
+      "name": "NBA Show Time - NBA on NBC (USA) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8bc9be45",
+      "md5": "88206c0a37bc9c6d42745211e0c18681",
+      "sha1": "fd4bb16f306e309834e276ed768e8e2ed402e138",
+      "sha256": "20a4e0821a35c5dbc23290ebf3a5e925f7bbda59573e4f3b7e82c9de39337757"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49902
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/NBA%20Show%20Time%20-%20NBA%20on%20NBC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/NBA%20Show%20Time%20-%20NBA%20on%20NBC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/NBA%20Show%20Time%20-%20NBA%20on%20NBC%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

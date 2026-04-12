@@ -1,0 +1,86 @@
+{
+  "id": "titan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Titan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイタン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "TITAN",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Titan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "d4383fa3",
+      "md5": "2005a7d3959be0f4c3a29506d652a23a",
+      "sha1": "6ba743d391a82fdf885c57e65331aa6173bdebd7",
+      "sha256": "310c7df6c5363b9c61ae28603d400ac2d327f4dc690319200a402acf6e49f149"
+    },
+    {
+      "name": "Titan (World) (Evercade)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "76c9707c",
+      "md5": "a0d76948e996f0692640a7f7ae9dea75",
+      "sha1": "e0a895a72c3c8f7bee9a2b0551c389c2ef069792",
+      "sha256": "18ae3a234d977ba4405c748777c83168c768b171c8ad04b258aa80b8d3a0e2b2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12487
+  },
+  "descriptions": [
+    {
+      "text": "タイタンは、2Dアーケードゲームとパズルゲームのハイブリッドです。未来の狂った教授たちは、なぜか参加者全員が死ぬ奇妙なエンターテインメントゲームを発明する傾向があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Titan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Titan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Titan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "fushigi-no-yume-no-alice",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fushigi no Yume no Alice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "不思議の夢のアリス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fushigi no Yume no Alice (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "12c4e6fd",
+      "md5": "3e0cd9af31efe11acf733fb15dc31131",
+      "sha1": "c266b05dd367b2973399b8daff7c4dc33bebedd9",
+      "sha256": "d37bb8a54b1300dc88d55e7e05fe7ebd5c6f6b62a3fffc6dec87f62b2390638e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66157
+  },
+  "descriptions": [
+    {
+      "text": "ルイス・キャロルの『不思議の国のアリス』を基にした『不思議の夢のアリス』は、かわいらしい2Dプラットフォーマーで、あなたはピンクのドレスを着た金髪の少女アリスを操作します。あなたの仕事は、森や洞窟を進みながら出会う敵を、頭にジャンプするか「イヤ！」と叫ぶことで倒すことです。いくつかの敵は爆発する卵を落とします。これらの卵を蹴って、敵を自分で破壊することができます。各エリアには3つのレベルがあり、各レベルの最後にはボスを倒すことになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Fushigi%20no%20Yume%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Fushigi%20no%20Yume%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Fushigi%20no%20Yume%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

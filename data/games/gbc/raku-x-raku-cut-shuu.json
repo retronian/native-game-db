@@ -1,0 +1,63 @@
+{
+  "id": "raku-x-raku-cut-shuu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Raku x Raku - Cut Shuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クラックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Raku x Raku - Cut Shuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "430cfcf3",
+      "md5": "62443f663965ba2f3a4181cd694d88a3",
+      "sha1": "b51a62358c37539021bc980c1699825596b118ef"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "実際のミシンとゲームボーイを接続して使用する、かなり特定のソフトウェアです。クラックス - カットシュウは、ロケット船や花、いくつかのアニメーションキャラクターなど、かわいらしいが一般的なアートワークの刺繍を扱います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Raku%20x%20Raku%20-%20Cut%20Shuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Raku%20x%20Raku%20-%20Cut%20Shuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Raku%20x%20Raku%20-%20Cut%20Shuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

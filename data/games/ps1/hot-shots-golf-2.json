@@ -1,0 +1,76 @@
+{
+  "id": "hot-shots-golf-2",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hot Shots Golf 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "みんなのGolf 2",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Everybody's Golf 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Minna no Golf 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hot Shots Golf 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163498144,
+      "crc32": "9b46d308",
+      "md5": "361d8e7fcb8b66f24ca06a1341ffbb5b",
+      "sha1": "6cb28d57001e95af329e8c2e29dfcb290ecee6b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 36558
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Hot%20Shots%20Golf%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Hot%20Shots%20Golf%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Hot%20Shots%20Golf%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "shounin-yo-taishi-o-idake",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shounin yo, Taishi o Idake!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "商人よ、大志を抱け!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shounin yo, Taishi o Idake!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "51227e94",
+      "md5": "c53f3bf8925bd866128079fddf2c2a52",
+      "sha1": "01a8947142572e7fee83cbdc95d5bd854d2152d7",
+      "sha256": "64d8d3cd1518375eb579dc74104fef8626b60e6fab771357a2b434f9b3c11a38"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「商人よ、大志を抱け!!」は、プライベート船と商船に関するリソース管理型のバーチャルボードゲームで、スーパーファミコン向けに制作されています。『人生ゲーム』シリーズやモノポリーのアダプテーションに似ており、プレイヤーは運命のランダムイベントを乗り越えながら財を築かなければなりません。これらのイベントは、貨物の種類の価値の変動や船の航行能力にポジティブまたはネガティブな影響を与えることがあります。\n\nゲームのタイトルは、日本の一般的な言葉「少年よ、大志を抱け！」をもじったもので、これは19世紀にアメリカの学者ウィリアム・スミス・クラークが札幌農学校の設立を手助けした際に発言したものです。この言葉は後に北海道の有名なモットーとなりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shounin%20yo%2C%20Taishi%20o%20Idake%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shounin%20yo%2C%20Taishi%20o%20Idake%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shounin%20yo%2C%20Taishi%20o%20Idake%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

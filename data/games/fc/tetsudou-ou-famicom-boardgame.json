@@ -1,0 +1,74 @@
+{
+  "id": "tetsudou-ou-famicom-boardgame",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetsudou Ou - Famicom Boardgame",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鉄道王 ファミコンボードゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "鉄道王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetsudou Ou - Famicom Boardgame (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "2a4a9871",
+      "md5": "4ce65cbd37e9d36c3cb7050bcba4a3fc",
+      "sha1": "af8f624e1ca5bb40f2b5f9c927b713308807302f",
+      "sha256": "1ae4a08afe3680b94133af9106680ea9f1e886184e509c6cc91325212bf9160f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "鉄道王ファミコンボードゲーム。鉄道経営をテーマにしたボードゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tetsudou%20Ou%20-%20Famicom%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tetsudou%20Ou%20-%20Famicom%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tetsudou%20Ou%20-%20Famicom%20Boardgame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

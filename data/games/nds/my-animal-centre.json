@@ -1,0 +1,45 @@
+{
+  "id": "my-animal-centre",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Animal Centre",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Animal Centre (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CAQP",
+      "size": 33554432,
+      "crc32": "9ef67feb",
+      "md5": "24c12940ae68558f43bbb3a20f0c0138",
+      "sha1": "99b2e05589aea6f5fdff8cd5506c4ffc08d3a821"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92629
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Animal%20Centre%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Animal%20Centre%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

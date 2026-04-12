@@ -1,0 +1,86 @@
+{
+  "id": "majou-densetsu-ii-daimashikyou-galious",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Majou Densetsu II - Daimashikyou Galious",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Majou Densetsu 2 - Daimashikyou Galious",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "魔城伝説2 大魔司教ガリウス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔城伝説II 大魔司教ガリウス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Majou Densetsu II - Daimashikyou Galious (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "e1f8f2f4",
+      "md5": "059e1a710d64b5ed8d5f7c0dac42542b",
+      "sha1": "254d8f105fbc6c851ba7c64a0e9601fed8fa4ed4",
+      "sha256": "caae70b7ab1e9771037b584c3016aae20f2aac870ef12c2958ed6e97c551089b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48866
+  },
+  "descriptions": [
+    {
+      "text": "魔城伝説2大魔司教ガリウス。コナミの横スクロールアクションアドベンチャー。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-08-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Majou%20Densetsu%20II%20-%20Daimashikyou%20Galious%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Majou%20Densetsu%20II%20-%20Daimashikyou%20Galious%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Majou%20Densetsu%20II%20-%20Daimashikyou%20Galious%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

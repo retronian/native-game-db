@@ -1,0 +1,51 @@
+{
+  "id": "jeopardy",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "65bf3a7e",
+      "md5": "af5aaf6fec949aeab8e2ca1a7de96721",
+      "sha1": "ffd18e23d5f77e92146035f473ffd27a17c510e1",
+      "sha256": "85e5f6fedc420925557092d728e1dc6b4e2042368fb78bf93c0df447f8c9c0c0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64476
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

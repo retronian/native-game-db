@@ -1,0 +1,53 @@
+{
+  "id": "sentimental-graffiti",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sentimental Graffiti",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "センチメンタルグラフティ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sentimental Graffiti (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 448948912,
+      "crc32": "58be6f1d",
+      "md5": "bd902752a159655ab954820a464a955a",
+      "sha1": "d7565b6b9dd2626363b28174740b4650752a8232"
+    }
+  ],
+  "external_ids": {
+    "igdb": 124264
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Sentimental%20Graffiti%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Sentimental%20Graffiti%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

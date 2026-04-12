@@ -1,0 +1,77 @@
+{
+  "id": "bakukyuu-renpatsu-super-b-daman",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakukyuu Renpatsu!! Super B-Daman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆球連発!! スーパービーダマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "爆球連発!!スーパービーダマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakukyuu Renpatsu!! Super B-Daman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5613f172",
+      "md5": "6f76a0bc204424863a9ba846f5183996",
+      "sha1": "5670308f143087f1ca6e19978e3fe1e776cdf249",
+      "sha256": "79bfb6164749af23372048d2dfa14c16fe6262e582da7594d67fd501ac520f2f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42520
+  },
+  "descriptions": [
+    {
+      "text": "さまざまな世界を探索し、あなたのビーダマンをカスタマイズしながら、精密に爆弾を使って各ステージを一発でクリアするパズルゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bakukyuu%20Renpatsu%21%21%20Super%20B-Daman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bakukyuu%20Renpatsu%21%21%20Super%20B-Daman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bakukyuu%20Renpatsu%21%21%20Super%20B-Daman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

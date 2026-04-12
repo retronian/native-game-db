@@ -1,0 +1,51 @@
+{
+  "id": "falcon",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Falcon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Falcon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "0bc0a12b",
+      "md5": "23ece73eac29304b0300cebcf52841a4",
+      "sha1": "f02871ef343a59723f1eaf7aee36c626f15e12b2",
+      "sha256": "528c79f4bd86665f64ba1fd4e59bd92a3e13efbfa2a434e72f8f5d763c266a5b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12088
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Falcon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

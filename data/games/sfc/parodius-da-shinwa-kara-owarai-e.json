@@ -1,0 +1,84 @@
+{
+  "id": "parodius-da-shinwa-kara-owarai-e",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parodius Da! - Shinwa kara Owarai e",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パロディウスだ! 神話からお笑いへ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パロディウスだ! 〜神話からお笑いへ〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parodius Da! - Shinwa kara Owarai e (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "876dfd97",
+      "md5": "186e428570ca0ee7e4f46081416d3326",
+      "sha1": "0b74559e400c4285791d0739fb1fd847bd4d1b2d",
+      "sha256": "14ad9d2fb8e6bb0f49bc9e53f3c472177653d1c24102169ade308a2fab8a8888"
+    },
+    {
+      "name": "Parodius Da! - Shinwa kara Owarai e (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5d0b2115",
+      "md5": "b8a6445c3b9ae2fbb9218f6dd6840af0",
+      "sha1": "8065394846d3aaadc2b172c28a80c21ecf533b2c",
+      "sha256": "cbe957f3569c8fb194ca0eb405dfa8819e087103f068ed62256e2716e5f4eee0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは主に「グラディウス」（一部のシステムでは「ネメシス」）のパロディであり、他のシューティングゲーム、例えば「ツインビー」からの要素も含まれています。このシリーズは多くのプラットフォームで利用可能です。\n\nゲームは右から左へスクロールするシューティングゲームです。異なる武器を持つ4種類の飛行生物から選ぶことができます。7つのステージをクリアする必要があり、各ステージの最後にはボスが待ち受けています。どのステージからでも始めることができますが、最終ステージに進むためにはすべてのレベルをクリアしなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-07-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Parodius%20Da%21%20-%20Shinwa%20kara%20Owarai%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Parodius%20Da%21%20-%20Shinwa%20kara%20Owarai%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Parodius%20Da%21%20-%20Shinwa%20kara%20Owarai%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

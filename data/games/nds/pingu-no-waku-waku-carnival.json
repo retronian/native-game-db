@@ -1,0 +1,54 @@
+{
+  "id": "pingu-no-waku-waku-carnival",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pingu no Waku Waku Carnival!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピングーのワクワク カーニバル！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pingu no Waku Waku Carnival! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CPGJ",
+      "size": 33554432,
+      "crc32": "b9ee00a7",
+      "md5": "8678cc485c901ee8711449e4dfb2bb42",
+      "sha1": "fb93309e4e2d730eb8c90f9bcca6b3d558f38e3f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 72786
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pingu%20no%20Waku%20Waku%20Carnival%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pingu%20no%20Waku%20Waku%20Carnival%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "arkanoid-ii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arkanoid II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Arkanoid 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "アルカノイドII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アルカノイドII リベンジオブドゥ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "アルカノイド・ツー II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arkanoid II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "5bbb7c20",
+      "md5": "505158927d6a4a03ec103ee08cfdebcf",
+      "sha1": "e352ddd87d911fea5f637c907aab744e11bb7142",
+      "sha256": "1db1d607aacbc998e51939dcbe510d141bd7b64f6e5116f6ec964c5544f4fb92"
+    },
+    {
+      "name": "Arkanoid II (Japan) (En) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "a82282ea",
+      "md5": "701044c35c19649311904ea9df146a6f",
+      "sha1": "b37794983e9376426e6eaa4536fac1a7efe24294",
+      "sha256": "3f5cdeb2de8d68c0c92a2ea1610c9607865fcbfd2c28fac1d173e9de60ba1ccc"
+    },
+    {
+      "name": "Arkanoid II (Japan) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "585b7771",
+      "md5": "da7517569b605d496cdc35ef820a2da2",
+      "sha1": "ecc231ba6b9047d2137f2d01a9576659fb634e64",
+      "sha256": "438ef4e29aa5b42778972a8d587bc4a9e50ff58ef773f857e4787cef5b09ff6c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 273050
+  },
+  "descriptions": [
+    {
+      "text": "アルカノイドの続編。ブロック崩しゲームの進化版でパワーアップやボス戦が追加。",
+      "lang": "ja",
+      "source": "romu"
+    },
+    {
+      "text": "アルカノイドの続編。新しいステージとパワーアップが追加。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-05-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Arkanoid%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arkanoid%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arkanoid%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

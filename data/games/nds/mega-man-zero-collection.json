@@ -1,0 +1,97 @@
+{
+  "id": "mega-man-zero-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega Man Zero Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ロックマンゼロコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Rockman Zero Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man Zero Collection (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6ZE",
+      "size": 67108864,
+      "crc32": "4cc19a32",
+      "md5": "b8160cf0dae2f195b7aa1de5a5ba8a47",
+      "sha1": "d06f77ef716044f17b1be49732356e2d60836cff"
+    },
+    {
+      "name": "Mega Man Zero Collection (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6ZP",
+      "size": 67108864,
+      "crc32": "51bc0a06",
+      "md5": "37e217b14f6eff2962097fd46626d0a0",
+      "sha1": "6a3fa2b57d2ff148ded3222bc87eaf7db03fc095",
+      "sha256": "661ade0c6e7a7178b90447e67dc5f9b532a071d271286b5c53f32ce3693d4c2a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 24355
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Zero%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Zero%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Zero%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mega%20Man%20Zero%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mega%20Man%20Zero%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mega%20Man%20Zero%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "grand-galop",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Grand Galop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Grand Galop (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGYP",
+      "size": 16777216,
+      "crc32": "2be244e1",
+      "md5": "af32e1305c466237bc6ca663137a1c81",
+      "sha1": "a77b0001b6d3f6f443a5ec5904187324b0c5250e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Grand%20Galop%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Grand%20Galop%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

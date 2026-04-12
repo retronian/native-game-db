@@ -1,0 +1,65 @@
+{
+  "id": "namco-prism-zone-dream-master",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Prism Zone - Dream Master",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナムコプリズムゾーン DreamMaster ドリームマスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Prism Zone - Dream Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "7906bdc7",
+      "md5": "7c3fcf66917c7e176407a7c29a4f7a62",
+      "sha1": "5f69472c3685bdabcb0d03b5d00d75edc599098b",
+      "sha256": "5bf59802a549a781fc47f9d4b95b2cceed2b5c06122583b3ad5e9c9e528bcd38"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドリームマスターは、バースデイが開発しナムコが発売したロールプレイングゲームで、1992年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Namco%20Prism%20Zone%20-%20Dream%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Namco%20Prism%20Zone%20-%20Dream%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Namco%20Prism%20Zone%20-%20Dream%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

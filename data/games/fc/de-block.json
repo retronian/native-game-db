@@ -1,0 +1,68 @@
+{
+  "id": "de-block",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "De-Block",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デ・ブロック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "De-Block (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "5e3df058",
+      "md5": "2b945a103c63a3c55754d4cbab7c65c0",
+      "sha1": "af731a40e7fdfbaa9ce6d10ff75170f05228f1b0",
+      "sha256": "e0509c865ba5cf69038e780c578da051d5e8163df5d6d5e6760f20a5f0f36f30"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48515
+  },
+  "descriptions": [
+    {
+      "text": "デ・ブロックは、4方向のテトリスとして最も簡単に説明できるパズルゲームです。プレイヤーは画面の中央にあるブロックを自由に移動させたり回転させたりします。大きなブロックが画面の各側から内側に向かって移動し、中央のブロックに付着します。そして、それらのブロックは中央からの距離に応じて色が変わります。プレイヤーが色付きのリングを完成させると、その層とその中のすべてのブロックが消去され、外側のブロックは内側に移動します。新たに出現したブロックがプレイヤーの構造と重なると、ゲームは終了します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/De-Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/De-Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/De-Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

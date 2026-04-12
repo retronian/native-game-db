@@ -1,0 +1,58 @@
+{
+  "id": "parlor-pro-64-pachinko-jikki-simulation-game",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parlor! Pro 64 - Pachinko Jikki Simulation Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "64　パーラープロ　ロクヨン パチンコ実機シミュレーション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPPJ",
+      "size": 16777216,
+      "crc32": "c5dc4795",
+      "md5": "0656bb43b3ec505cfa5ae5f93408db8d",
+      "sha1": "2e4e9d9087cee014cd9d3d048ae50fb22c6d50f1",
+      "sha256": "bd0a1843c934edadd92e62b7a44793b8c2ce156b6b5688ae7d644a45c2065dea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Parlor%21%20Pro%2064%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Parlor%21%20Pro%2064%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Parlor%21%20Pro%2064%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

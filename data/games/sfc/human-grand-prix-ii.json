@@ -1,0 +1,76 @@
+{
+  "id": "human-grand-prix-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Human Grand Prix II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヒューマングランプリII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ヒューマングランプリ2 II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Human Grand Prix II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a5351db4",
+      "md5": "f6c6b6361fb0df836dc146396f672bb8",
+      "sha1": "8568604dd55e01ba76eafd9c384f2d40dbd5f376",
+      "sha256": "a367ad7166eaccc458b81668589ab8a978cc0a13ff2e73c3fe0ff843cf0d71bf"
+    },
+    {
+      "name": "Human Grand Prix 2 (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b62236a9",
+      "md5": "b9b07652c4ae77a5434d29b35faf7adc",
+      "sha1": "1844122bbe0548c786bc7a078bdf3369c1c98e93",
+      "sha256": "c78c30c13dd2bc0c976bc9ee65a963ace89135bdede869729a07e4d314a51409"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Human%20Grand%20Prix%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Human%20Grand%20Prix%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Human%20Grand%20Prix%20II%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

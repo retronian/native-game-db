@@ -1,0 +1,67 @@
+{
+  "id": "katou-hifumi-kudan-shougi-club",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Katou Hifumi Kudan - Shougi Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "加藤一二三九段 将棋倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "加藤一二三 九段 将棋倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Katou Hifumi Kudan - Shougi Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "49b60293",
+      "md5": "cb77d74f37a91eed3603b541bb456b49",
+      "sha1": "5e17cdaddc7de3fc553fa7048eb036c877a7bc74",
+      "sha256": "8ab1643f6f035db026249e42a1f969efca6436270e19868bf75be38a77c361af"
+    }
+  ],
+  "first_release_date": "1997-05-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Katou%20Hifumi%20Kudan%20-%20Shougi%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Katou%20Hifumi%20Kudan%20-%20Shougi%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Katou%20Hifumi%20Kudan%20-%20Shougi%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

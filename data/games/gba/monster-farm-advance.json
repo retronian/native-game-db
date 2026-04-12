@@ -1,0 +1,65 @@
+{
+  "id": "monster-farm-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Farm Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターファームアドバンス2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Farm Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMFJ",
+      "size": 8388608,
+      "crc32": "c140ff7a",
+      "md5": "91c56cd17442041af081d5a74d71e941",
+      "sha1": "0aabb6272913482f4d8337f122bcf760055ac10f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気のモンスターファームの世界から、愛らしいキャラクターたちが再登場！プレイヤーは、ユニークなモンスターを育て、訓練し、戦わせる楽しみを味わいながら、ライバルのブリーダーや友達とグローバルなモンスタートーナメントで戦います。ブリーダーのランクを上げ、あなたの協会に栄光をもたらしながら、土地で最高のモンスターブリーダーを目指しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-10-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20Farm%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20Farm%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20Farm%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

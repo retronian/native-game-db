@@ -1,0 +1,63 @@
+{
+  "id": "fatman",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fatman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファットマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fatman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-44013-00",
+      "size": 655360,
+      "crc32": "7867da3a",
+      "md5": "20870a554b4bdcf2e2891bd541bd2e2a",
+      "sha1": "9c2791e44f1ff236cbab742c2942defc7b378e2c",
+      "sha256": "5db84e462c64e5260c77352b87f5a6c48aaa085ca58396a6367e89202bfd64dd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "多様で魅力的な格闘ゲームです。異なる能力と戦闘スタイルを持つさまざまなエイリアン種族（人間を含む）からキャラクターを選び、武器やデバイスを購入して、複数の対戦相手を倒しながらファットマンに挑みましょう。革新的な特徴の一つとして、戦闘の結果に賭けをすることができるシステムや、特別な技を多く使うほどその威力が減少する現象があり、ゲームプレイのバランスを保っています。\n\n2人対戦のヘッド・トゥ・ヘッドバトルにも対応しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Fatman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Fatman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Fatman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

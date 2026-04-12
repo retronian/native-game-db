@@ -1,0 +1,65 @@
+{
+  "id": "hana-no-star-kaidou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hana no Star Kaidou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "花のスター街道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hana no Star Kaidou (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "cea57ed1",
+      "md5": "3f3933c224f21212c54d9f41f008a03f",
+      "sha1": "590bd485ba399338afca0ae1845f9401801ee91f",
+      "sha256": "7a20de61ae1343e3f7ba81c7167e50374e0060099e08e4257c74fc25972b2463"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48476
+  },
+  "descriptions": [
+    {
+      "text": "「花のスター街道」は、1987年にビクター音楽産業によって開発・発売されたファミコン用のアクションゲームです。このゲームは、レコーディング契約を獲得し、大スターになることを夢見る二人のミュージシャンの物語です。プレイヤーは、画面上で同時にモエロとゴロを操作しなければなりません。彼らは同時に走り、ジャンプし、攻撃します。それぞれにライフカウントがあり、どちらかが全てのライフを失った時点でゲームオーバーとなります。直感的でない操作性や厳しいゲームメカニクスのため、このゲームは非常に難しく、一般的には楽しむことが難しいとされています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-03-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hana%20no%20Star%20Kaidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hana%20no%20Star%20Kaidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hana%20no%20Star%20Kaidou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

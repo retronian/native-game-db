@@ -1,0 +1,49 @@
+{
+  "id": "backyard-football",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backyard Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backyard Football (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYFE",
+      "size": 4194304,
+      "crc32": "7ccc79b4",
+      "md5": "9085dd5a5ef4b2820a838c375301fec2",
+      "sha1": "d44ef8eb521838ff013904b74d214c17e3e1c801",
+      "sha256": "bf7ed436176eaf4543670213bbf812fee22a37cf44f018c27fc828a41b0dc2d8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

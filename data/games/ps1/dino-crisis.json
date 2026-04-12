@@ -1,0 +1,104 @@
+{
+  "id": "dino-crisis",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dino Crisis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ディノクライシス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "디노 크라이시스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dino Crisis (Asia)",
+      "source": "no_intro",
+      "size": 265907504,
+      "crc32": "527e984d",
+      "md5": "2f7770cb62974ee733b2ee4dfd60c734",
+      "sha1": "3bb1fd7bd71e294206e106dd4e703a945c1b7472"
+    },
+    {
+      "name": "Dino Crisis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 259959040,
+      "crc32": "763d81e4",
+      "md5": "a38bc696ae2c629a97fd3efeac60cdbf",
+      "sha1": "0f715ae0330fed69237b422a84c73b82cafe5aa5"
+    },
+    {
+      "name": "Dino Crisis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 266379520,
+      "crc32": "415c7a37",
+      "md5": "1bff05be37a7066bdf394ed288f5e5f7",
+      "sha1": "db9df0d2584d344f0d0efaa128d46ffd8622561b",
+      "sha256": "43c6562bb40d140f9aac3364ccb464df855f490ce6e4f72dd217e71a2aa43fb9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3027
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Dino%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Dino%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dino%20Crisis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Dino%20Crisis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Dino%20Crisis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

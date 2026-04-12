@@ -1,0 +1,78 @@
+{
+  "id": "classic-nes-series-xevious",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - Xevious",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファミコンミニゼビウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "NES Classics: Xevious",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Famicom Mini: Xevious",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - Xevious (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FXVE",
+      "size": 1048576,
+      "crc32": "9cd2d5dd",
+      "md5": "ac693d395395405b5cc902877025e675",
+      "sha1": "b2088582808480e0d70c63a777b046409d4e15c4",
+      "sha256": "604fd742a0c19ef09bf4d863dfb8a62ada973546b4dd4fbc84aa0c702a20f261"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49205
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20Xevious%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20Xevious%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20Xevious%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

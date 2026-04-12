@@ -1,0 +1,45 @@
+{
+  "id": "space-invasion",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space Invasion",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 293713
+  },
+  "first_release_date": "2023-07-19",
+  "roms": [
+    {
+      "name": "Space Invasion (Europe) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131072,
+      "crc32": "2b2d9868",
+      "md5": "3606f20c43c009075af22991766b2cc7",
+      "sha1": "bcf0940375a23bca6957eec2ab8e49af695aeb32"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Space%20Invasion%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Space%20Invasion%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

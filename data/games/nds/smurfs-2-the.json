@@ -1,0 +1,67 @@
+{
+  "id": "smurfs-2-the",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Smurfs 2, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Smurfs 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TR2P",
+      "size": 33554432,
+      "crc32": "5021f207",
+      "md5": "d779c7b6171c346913a82e598a9d9c27",
+      "sha1": "cb30ec6d6cfd26fcf3b184f1af750a6578c6fc3c"
+    },
+    {
+      "name": "Smurfs 2, The (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TR2E",
+      "size": 33554432,
+      "crc32": "4486cd73",
+      "md5": "ee9eb8a0e7fb97f7bff1c351aeaa58f9",
+      "sha1": "e5321cccc4da86c3d8cbb73839291fc82be92d46"
+    }
+  ],
+  "external_ids": {
+    "igdb": 83900
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Smurfs%202%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Smurfs%202%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Smurfs%202%2C%20The%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Smurfs%202%2C%20The%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

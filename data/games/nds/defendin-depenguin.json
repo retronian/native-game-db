@@ -1,0 +1,77 @@
+{
+  "id": "defendin-depenguin",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Defendin' DePenguin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Defendin' DePenguin (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YYUP",
+      "size": 67108864,
+      "crc32": "6a58588c",
+      "md5": "f7cc6e50630b2f85ba7cce410befea55",
+      "sha1": "e998a44177fd7b1de767c3b69ff123ee94aed786",
+      "sha256": "713bd77a7ce19b5456035e91981732ba086703397d15b7b4893360db07830001"
+    },
+    {
+      "name": "Defendin' DePenguin (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YYUE",
+      "size": 67108864,
+      "crc32": "36e01f82",
+      "md5": "54bb3067401cb7f1f56ee8499d2af482",
+      "sha1": "df0826b5ca43f5ed59eaeea9d4b48d09269abb8d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Defendin%27%20DePenguin%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Defendin%27%20DePenguin%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Defendin%27%20DePenguin%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Defendin%27%20DePenguin%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Defendin%27%20DePenguin%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Defendin%27%20DePenguin%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

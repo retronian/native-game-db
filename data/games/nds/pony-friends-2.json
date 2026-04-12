@@ -1,0 +1,67 @@
+{
+  "id": "pony-friends-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pony Friends 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pony Friends 2 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "COYE",
+      "size": 67108864,
+      "crc32": "9f1a40ad",
+      "md5": "a08ad185863b9a85d6918cd5d95d9edc",
+      "sha1": "ce66645a32a970e4f0b93c045515cc8906674441"
+    },
+    {
+      "name": "Pony Friends 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "COYP",
+      "size": 67108864,
+      "crc32": "c1a7ba54",
+      "md5": "8962b976a0db308b8d3d425f71248df5",
+      "sha1": "4b8117f70835f4c92745c6e20393855450c28557"
+    }
+  ],
+  "external_ids": {
+    "igdb": 25385
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pony%20Friends%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pony%20Friends%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pony%20Friends%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pony%20Friends%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

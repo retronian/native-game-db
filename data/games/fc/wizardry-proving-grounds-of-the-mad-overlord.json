@@ -1,0 +1,97 @@
+{
+  "id": "wizardry-proving-grounds-of-the-mad-overlord",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry - Proving Grounds of the Mad Overlord",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ウィザードリィ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ウィザードリィ 狂王の試練場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry - Proving Grounds of the Mad Overlord (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ca446ef0",
+      "md5": "eacf050441758fa0f908e8a7af00bd8a",
+      "sha1": "1ea771d6670d9044894daad01fac4817b51e150d",
+      "sha256": "9db23ff74f6f7cb52e9148cd66ef57b55290f692883966ad2489d96c4d6e4615"
+    },
+    {
+      "name": "Wizardry - Proving Grounds of the Mad Overlord (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "e59540af",
+      "md5": "a3cea0820e7f8702190e8b98ed16dcf5",
+      "sha1": "0b28b297043db52a1eda106bba10754a2e4bfd75",
+      "sha256": "fa6f807ebb790315375fb31ab0645767bd2d3e23fcff0cbed629f72b81efaf52"
+    }
+  ],
+  "external_ids": {
+    "igdb": 370647
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

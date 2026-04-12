@@ -1,0 +1,64 @@
+{
+  "id": "cross-hunter-monster-hunter-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cross Hunter - Monster Hunter Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クロスハンター Cross Hunter モンスターハンターバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cross Hunter - Monster Hunter Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "48e1ba7d",
+      "md5": "986bcb950df452ade78fff94a83c56f3",
+      "sha1": "15383fdba1bca2c11ed00dc271b4a6f69d500f75"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "クロスハンターは、Game Villageによって開発・出版されたゲームボーイカラー向けのRPGゲームです。クロスハンターには、モンスターハンター、トレジャーハンター、エックスハンターの3つの異なるバージョンがリリースされています。これらのゲームは、主に同じゲームでありながら、いくつかの内容の違いがある点でポケモンシリーズに似ています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Cross%20Hunter%20-%20Monster%20Hunter%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Cross%20Hunter%20-%20Monster%20Hunter%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Cross%20Hunter%20-%20Monster%20Hunter%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

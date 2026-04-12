@@ -1,0 +1,62 @@
+{
+  "id": "rocman-x",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rocman X",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "洛克人X",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 247412
+  },
+  "first_release_date": "1995-12-31",
+  "roms": [
+    {
+      "name": "Rocman X (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "39ac02cd",
+      "md5": "a0adf13ea66158221e170898c821ca75",
+      "sha1": "bdb969b2e445c9cc3146180712954b0aa5238a19",
+      "sha256": "da41eb3e8bd5bb5d8887db4fd2197b273f155f72afd096c77c8213f9189b2a21"
+    },
+    {
+      "name": "Rocman X (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524304,
+      "crc32": "901dc0a0",
+      "md5": "73196e731bf61ac9cc6879566af5cabd",
+      "sha1": "8089907248e3115ff875859120eb4fe0ba95b980",
+      "sha256": "0981971539f8017412408585fcf82559d2ce0f54e56e0f58a156cda144ee83f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rocman%20X%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rocman%20X%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

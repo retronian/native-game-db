@@ -1,0 +1,65 @@
+{
+  "id": "kinniku-banzuke-gb-chousensha-wa-kimida",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kinniku Banzuke GB - Chousensha wa Kimida!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "筋肉番付GB Muscle Ranking 挑戦者はキミだ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kinniku Banzuke GB - Chousensha wa Kimida! (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e2e4328b",
+      "md5": "d4876d692dcb6ca68786e1df3af361a6",
+      "sha1": "75d7e35fea257d8da4c1efcdd6ebdca020c648a6",
+      "sha256": "8fff611a20cbec94ef5a48a6b2a301d4c4dcf35711b6040e7ac33ee41069024f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気テレビ番組「筋肉番付」がアクションゲームとして登場！ゲームには「ストラックアウト」や「モンスターボックス」を含む5つの人気イベントが収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kinniku%20Banzuke%20GB%20-%20Chousensha%20wa%20Kimida%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kinniku%20Banzuke%20GB%20-%20Chousensha%20wa%20Kimida%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kinniku%20Banzuke%20GB%20-%20Chousensha%20wa%20Kimida%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "princess-melody",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Princess Melody",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Princess Melody (Europe) (En,Fr,De,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFCX",
+      "size": 33554432,
+      "crc32": "3bd7ebd7",
+      "md5": "5913fa103cc1bac093246993485df417",
+      "sha1": "26056aceceaef7de6768d98902d5d337fc5adda1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Princess%20Melody%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Princess%20Melody%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

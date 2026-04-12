@@ -1,0 +1,94 @@
+{
+  "id": "sanrio-timenet-mirai-hen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Timenet - Mirai Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオタイムネット 未来編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "efe51e17",
+      "md5": "388a603e8b6d0fcf7c553fb00a7c5171",
+      "sha1": "65c4113401336784be4c53a51fe8d9b4b3d287da"
+    },
+    {
+      "name": "Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "179da7f3",
+      "md5": "84b71ee450ba95087d2194d17dd3bf1f",
+      "sha1": "5ccaf8450862dab90b45b06ab2df291d72ea6033"
+    }
+  ],
+  "external_ids": {
+    "igdb": 229080
+  },
+  "descriptions": [
+    {
+      "text": "サンリオタイムネットは、イマジニアがゲームボーイカラー用に開発したモンスターバトルゲームです。\n\nタイムネットの世界では、時間の柱のおかげで、過去、現在、未来の流れが正常に保たれていました。しかし、誰かの仕業によって、時間の柱が小さな破片に壊され、世界は過去と未来に分断されてしまいました。\n主人公は、時間の老人からのメールを受け取り、状況を説明されます。そして、時間の流れが永久に失われる前に、タイムフラグメントを集めてタイムネットの世界を救う手助けをするように求められます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sanrio%20Timenet%20-%20Mirai%20Hen%20%28Japan%29%20%28Rev%201%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

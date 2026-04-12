@@ -1,0 +1,67 @@
+{
+  "id": "zoids-shirogane-no-juukishin-liger-zero",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoids - Shirogane no Juukishin Liger Zero",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ZOIDS 白銀の獣機神 ライガーゼロ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoids - Shirogane no Juukishin Liger Zero (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "530705a1",
+      "md5": "77836df2b2ce5284e4dda233e118b914",
+      "sha1": "a5623ab4e026aa546b345f2bd5638cfdfed68c04"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282799
+  },
+  "descriptions": [
+    {
+      "text": "オールスターと彼の銀色のライガーゼロの冒険。戦闘中、彼とライバルのソリッド（四つの長距離砲を搭載したスーパージェノサウラーを操縦している）は地下の世界に落ちてしまう。オールスターはそこで出会った少女パーティと共に、村を襲っている無人のバーサークフューラーと戦う。彼のライガーゼロは地下の世界の救世主と予言されており、唯一それを止めることができる存在なのだ。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Zoids%20-%20Shirogane%20no%20Juukishin%20Liger%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Zoids%20-%20Shirogane%20no%20Juukishin%20Liger%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Zoids%20-%20Shirogane%20no%20Juukishin%20Liger%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

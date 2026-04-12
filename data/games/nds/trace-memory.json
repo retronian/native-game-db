@@ -1,0 +1,70 @@
+{
+  "id": "trace-memory",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Trace Memory",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アナザーコード 2つの記憶",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Another Code: Two Memories",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Trace Memory (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANOE",
+      "size": 33554432,
+      "crc32": "a4367094",
+      "md5": "0e4e19226a9297f9643a0ff6613e5625",
+      "sha1": "3483619bbf85bec08009e8b04a07926fbf593f4d",
+      "sha256": "9215a6fe01553d89dc566718d8c9a4b906fab022592c0efd1bd14bafe10ff04d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18595
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trace%20Memory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Trace%20Memory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trace%20Memory%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

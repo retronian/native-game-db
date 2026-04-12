@@ -1,0 +1,76 @@
+{
+  "id": "s-o-s-sink-or-swim",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "S.O.S - Sink or Swim",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "S.O.S - Sink or Swim (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "cf824401",
+      "md5": "a21fd960d4a729175e0129e3aef1a046",
+      "sha1": "9211f8c140b257b352f707ed0c839041f4c98194",
+      "sha256": "63ea31983747b3105dba6b27399ab47f8464e093285bc5f427291e1986b9aa50"
+    },
+    {
+      "name": "S.O.S - Sink or Swim (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "dd329f85",
+      "md5": "0544fe7544b823f3f4886622c06b1021",
+      "sha1": "1f55e0541297d9b95035614728fae08b3fc80614",
+      "sha256": "70008efe51185eb0a2f8d8d8ac2bdbb99bd3dfcc169dcc474962f82692998051"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/S.O.S%20-%20Sink%20or%20Swim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/S.O.S%20-%20Sink%20or%20Swim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/S.O.S%20-%20Sink%20or%20Swim%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/S.O.S%20-%20Sink%20or%20Swim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/S.O.S%20-%20Sink%20or%20Swim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/S.O.S%20-%20Sink%20or%20Swim%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hissatsu-doujou-yaburi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hissatsu Doujou Yaburi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "必殺 道場破り",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hissatsu Doujou Yaburi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "19c2dca9",
+      "md5": "fd88cd56ed6ebdf1003af7e3471a4eab",
+      "sha1": "967d0c5d6b7ec0f2d694c3c700d39d13bed19929",
+      "sha256": "7de7b44a2a16ab7f8b9003eec8f087540235a666ef6ce523beaf0b8d8b66601e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "必殺 道場破りは、初心者の武道家として古代中国の田舎を旅し、スキルを磨き名声と富を得ることを目指すRPGと格闘ゲームのハイブリッドです。\n\n村からスタートし、シンプルな横スクロール形式で周囲を歩き回りながら探索しますが、敵（他の武道家、盗賊、ゴーストなど）に遭遇すると戦闘モードに突入します。このモードでは、スキルレベルに基づいた攻撃を繰り出し、相手を倒すことを目指します（常に2Dの横スクロールエンジンを使用）。\n\n勝利するとお金やその他のボーナスが得られ、これを町に戻ってスキルをアップグレードしたり、体力を回復するために使用できます。また、特別な建物にある特別なトーナメントにも参加でき、連続して一連の相手を倒した後、 reigning champion（現チャンピオン）と対決します。ここで勝利すると、さらに多くのお金が得られ、旅の途中でより多くの人々に認識されるようになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-07-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hissatsu%20Doujou%20Yaburi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hissatsu%20Doujou%20Yaburi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hissatsu%20Doujou%20Yaburi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

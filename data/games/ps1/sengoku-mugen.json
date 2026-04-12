@@ -1,0 +1,60 @@
+{
+  "id": "sengoku-mugen",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sengoku Mugen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "戦国夢幻",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sengoku Mugen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "07dc572f",
+      "md5": "5647bc58fa578d2532262ea0a88de179",
+      "sha1": "35c3476895d72debb1de15baea53c492d15531ae",
+      "sha256": "d25079b7fb7df570ee5bf3e74e683e67c367f2fdfa7bf8affa800cb5375d2200"
+    }
+  ],
+  "external_ids": {
+    "igdb": 392768
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Sengoku%20Mugen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Sengoku%20Mugen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Sengoku%20Mugen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

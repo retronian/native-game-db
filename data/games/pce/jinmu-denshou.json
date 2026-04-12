@@ -1,0 +1,65 @@
+{
+  "id": "jinmu-denshou",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jinmu Denshou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "神武伝承",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jinmu Denshou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c150637a",
+      "md5": "b7bd7bb88393a97bdf6072534177fe7d",
+      "sha1": "e38d6d83120301a7befa7f496f1a93768060032d",
+      "sha256": "5b6b92d203d26cd2a58906e78b759efeb32348e1ce50227558e7d28cfd731e57"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "神武伝承は、プレイヤーキャラクターが地平線に向かって進みながら、敵が飛んでくるアクションゲームです。セガの「スペースハリアー」にインスパイアされた見た目とプレイ感ですが、大きな違いは、主人公が通常、剣で迫ってくる敵を攻撃することに制限された侍のようなキャラクターであることです。アップグレード後は、弾を発射できるようになり、攻撃をチャージして放つことで大きなダメージを与えることも可能です。また、ゲームにはいくつかの表面的なプラットフォーム要素も含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-06-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Jinmu%20Denshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Jinmu%20Denshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Jinmu%20Denshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "my-doitall",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My DoItAll",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My DoItAll (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CKZE",
+      "size": 16777216,
+      "crc32": "ee94f418",
+      "md5": "70c3bf5530c6f7c421c21c3d09999c53",
+      "sha1": "296c8c856e21b6d202175502ccfacd3a80ec58f6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92625
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20DoItAll%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

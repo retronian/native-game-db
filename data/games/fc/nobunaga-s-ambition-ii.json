@@ -1,0 +1,68 @@
+{
+  "id": "nobunaga-s-ambition-ii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga's Ambition II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "信長の野望・戦国群雄伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nobunaga no Yabou: Sengoku Gunyuuden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga's Ambition II (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393232,
+      "crc32": "3053f267",
+      "md5": "f9bdb850c28d5e8249331cbafc7c4212",
+      "sha1": "3164269421337a28b7713aa33fe31f8664948e24",
+      "sha256": "1497c5f4524964d2a068ce71718b89bc181b0ffc6e05aa8c9187c6b08eef6651"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307125
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Nobunaga%27s%20Ambition%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Nobunaga%27s%20Ambition%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Nobunaga%27s%20Ambition%20II%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

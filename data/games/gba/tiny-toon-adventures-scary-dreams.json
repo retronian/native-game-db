@@ -1,0 +1,60 @@
+{
+  "id": "tiny-toon-adventures-scary-dreams",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiny Toon Adventures - Scary Dreams",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Tiny Toon Adventures: Buster's Bad Dream",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tiny Toon Adventures - Scary Dreams (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATTE",
+      "size": 4194304,
+      "crc32": "fcd7a7c0",
+      "md5": "508efc4282582038facdef65a57f70d9",
+      "sha1": "305c6cf66e47508deee4b9fc12c8917302f2ed39"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6640
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tiny%20Toon%20Adventures%20-%20Scary%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tiny%20Toon%20Adventures%20-%20Scary%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tiny%20Toon%20Adventures%20-%20Scary%20Dreams%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

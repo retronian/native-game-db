@@ -1,0 +1,43 @@
+{
+  "id": "mindstorm-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "MinDStorm 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "MinDStorm 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJ2P",
+      "size": 16777216,
+      "crc32": "0637a63a",
+      "md5": "cec76d6595c706fdd9ac4dcd5bade0f9",
+      "sha1": "67f9ee55a8c90ba03feb31d883a870d7516a3f84",
+      "sha256": "5777a1810be8c2be5dabb2ac181f6f1f0f5d4d76827bfd3e4ec1dc84a764758e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/MinDStorm%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/MinDStorm%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

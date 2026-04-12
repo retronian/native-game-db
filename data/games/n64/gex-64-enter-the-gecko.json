@@ -1,0 +1,77 @@
+{
+  "id": "gex-64-enter-the-gecko",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gex 64 - Enter the Gecko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gex 64 - Enter the Gecko (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NX2P",
+      "size": 16777216,
+      "crc32": "a7c92bea",
+      "md5": "5bba457e286d250101ce274e0e58080d",
+      "sha1": "c5318e2660fed61782bb170e780b89305aa8c3dc",
+      "sha256": "c2febf6820928ed6ab87e11847da6c29ee125344427ccbbeb4f66030f63748ff"
+    },
+    {
+      "name": "Gex 64 - Enter the Gecko (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NX2E",
+      "size": 16777216,
+      "crc32": "c545ce80",
+      "md5": "47f9d900c97ece154bb40a9c6dccd3fd",
+      "sha1": "16042cd0dfa5439ca436f1bf05ebfb7e9f730cda"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Gex%2064%20-%20Enter%20the%20Gecko%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Gex%2064%20-%20Enter%20the%20Gecko%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Gex%2064%20-%20Enter%20the%20Gecko%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Gex%2064%20-%20Enter%20the%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Gex%2064%20-%20Enter%20the%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Gex%2064%20-%20Enter%20the%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "knockout-kings",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Knockout Kings",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Knockout Kings (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a0d64934",
+      "md5": "64fa89b64514a71651c1b8dc629ba8f3",
+      "sha1": "a04d86a384c5c417bf9f1219eb14829d0459f469",
+      "sha256": "214710311150029f87ab0c8d67713ac446f3b75057cbebdc8960455acb1824eb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249156
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Knockout%20Kings%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Knockout%20Kings%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Knockout%20Kings%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "wit-s",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wit's",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィッツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Wit's",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wit's (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "136b61df",
+      "md5": "0278c3118348526765965ed951d2266f",
+      "sha1": "77c4de4d3681cea01194525ae7706cb63177b39b",
+      "sha256": "34352cb9090fd00d1d677308dd3adbdfd4e76622de21bb48dffbffe19df9f195"
+    }
+  ],
+  "external_ids": {
+    "igdb": 40549
+  },
+  "descriptions": [
+    {
+      "text": "「Wit's」のコンソール版は、アーケード版と非常に似たプレイ感を持ちながらも、いくつかの微妙な違いがあります。アーケード版では99レベルを進むのに対し、コンソール版では「ロックマン」シリーズのように、対戦相手を選ぶステージセレクト画面があります。最初の5つのレベルはそれぞれ5ラウンドで構成されており、異なるゲームプレイのギミックをマスターする必要があります。シングルプレイヤーゲームに加えて、最大4人までのマルチプレイヤーモードも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wit%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wit%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wit%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

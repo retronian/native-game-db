@@ -1,0 +1,77 @@
+{
+  "id": "famicom-jump-ii-saikyou-no-7-nin",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Jump II - Saikyou no 7 Nin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンジャンプII 最強の7人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミコンジャンプ II 最強の 7人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Jump II - Saikyou no 7 Nin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "32e1c19b",
+      "md5": "47910069aa92dcac1b0fa4929cc7ceff",
+      "sha1": "bc1f74fe4ef3d6c2bbf3e30dcc72b7619c1fa348",
+      "sha256": "e8914e73c2c2e6ddc2bd4021eaf215e446fba70e5561021cb83250adcfa949fe"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48499
+  },
+  "descriptions": [
+    {
+      "text": "ファミコンジャンプII 最強の7人は、1991年にバンダイから発売されたファミリーコンピュータ用のRPGです。ファミコンジャンプ ヒーロー列伝の続編であり、当時連載されていた週刊少年ジャンプの異なる漫画から選ばれた7人の主要キャラクターが登場します（サブタイトルが示す通り）。元の作品からは16タイトルのうち4つが復活し、残りの3つは続編に新たに追加されました。次のクロスオーバーゲームは、ジャンプスーパースターズとジャンプアルティメットスターズのリリースまでありませんでした（これらのシリーズのうち6つが登場し、唯一登場しなかったのはマジカルタルルートくんです）。\n\nプレイヤーは、これらの7人のキャラクターの中から任意のキャラクターでゲームを開始できます。選択したプレイヤーキャラクターによって、プレイヤーがキャラクターの宇宙を通じて進む道が決まります—選ばれたキャラクターのホーム宇宙からスタートします。\n\n- 孫悟空（ドラゴンボール）\n- 両津勘吉（こちら葛飾区亀有公園前派出所）\n- 桃太郎剣士（魁!!男塾）\n- 空条承太郎（ジョジョの奇妙な冒険、ジョセフ・ジョースターの代わり）\n- ターちゃん（ジャングルキング ターちゃん）\n- タルルート（マジカルタルルート）\n- 前田太尊（ろくでなしBLUES）",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Jump%20II%20-%20Saikyou%20no%207%20Nin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Jump%20II%20-%20Saikyou%20no%207%20Nin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Jump%20II%20-%20Saikyou%20no%207%20Nin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

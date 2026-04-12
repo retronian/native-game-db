@@ -1,0 +1,77 @@
+{
+  "id": "kame-no-ongaeshi-urashima-densetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kame no Ongaeshi - Urashima Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "亀の恩返し ウラシマ伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "亀の恩返し〜ウラシマ伝説〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kame no Ongaeshi - Urashima Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b404d22d",
+      "md5": "c4380d601b557a1202f091abad17e6c0",
+      "sha1": "dc996c72968c1211240cb9641884aaa90722fbd0",
+      "sha256": "6e20ede5cf038ae1441cf937b455abc26a42febaf352e0dbc9cffb435dc2a7c6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215130
+  },
+  "descriptions": [
+    {
+      "text": "それは2777年のことです。核戦争と自然災害の影響で、地球の人口は劇的に減少し、残されたのは5つの島だけで、これらが「ゼクシズ」という国を形成しています。ゼクシズでは、人間、精霊、妖精たちが数世代にわたり、ゼウ・スター王の治世の下で平和に暮らしてきました。ある日、ゼクシズはゴルザに襲われ、王は殺され、各島に機械の城が建設され、各島の女王が捕らえられてしまいます。あなたは、ゴルザの支配を終わらせたい兵士アポロの役割を担います。\n\nアポロを操作し、5つの島をすべて解放することがあなたの使命です。島を解放するには、いくつかの異なるフェーズを経て行われ、「ジャンプ＆シュート」や「シューティング」レベル（「アクションモード」と「シューティングモード」と呼ばれる）があります。各島の最初のレベルはジャンプ＆シュートレベルで、ショップ、ボーナスゲーム、友好的なNPCや中ボスへの扉がたくさんあります。NPCは時々重要なヒントやアイテム、武器をくれることがありますし、ボーナスゲームをプレイしてお金（「ボール」）を獲得することもできます。中ボスを倒すことでフェアリーを解放し、報酬として現金を得ることができ、ショップでは武器やアイテムも手に入ります。武器は攻撃力や射程が大きく異なります。アイテムは無敵やジャンプ能力の向上など、一時的な効果を持っています。島の最初のレベルでは、秘密の部屋を見つけてボスを倒す必要があり、その報酬として機械の城にアクセスするために必要なフォーススターを受け取ります。機械の城は他のジャンプ＆シュートレベルに似ていますが、より複雑です。\n\n「サイボーグライダー」に到達すると、自動スクロールのシューティングシーケンスが始まり、多くの敵を撃ちながらスピードと武器のパワーアップを拾って進む必要があります。このシーケンスの終わりにはサイボーグライダーを降りて、ボス戦のために浮遊プラットフォームに立ちます。ボスを倒すと、別のボスが待っているシューティングシーケンスが続きますが、今回はサイボーグライダーからボスと戦います。このボスを倒すと、再びジャンプ＆シュートレベルからプロセスが始まります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kame%20no%20Ongaeshi%20-%20Urashima%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kame%20no%20Ongaeshi%20-%20Urashima%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kame%20no%20Ongaeshi%20-%20Urashima%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

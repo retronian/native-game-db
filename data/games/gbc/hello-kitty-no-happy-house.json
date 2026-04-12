@@ -1,0 +1,68 @@
+{
+  "id": "hello-kitty-no-happy-house",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty no Happy House",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハローキティのハッピーハウス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty no Happy House (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BK7J",
+      "size": 4194304,
+      "crc32": "159fe5e7",
+      "md5": "0121aa4c2909ff7dff2190b7889956fd",
+      "sha1": "b5cbabec048e1f77fee7830bdb564f21369faeef"
+    }
+  ],
+  "external_ids": {
+    "igdb": 279434
+  },
+  "descriptions": [
+    {
+      "text": "キティとのコミュニケーションを中心にしたゲームで、会話を楽しむことができます。アクションパートではミニゲームをプレイしたり、アイテムを集めて部屋を再装飾することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-03-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hello%20Kitty%20no%20Happy%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hello%20Kitty%20no%20Happy%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hello%20Kitty%20no%20Happy%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

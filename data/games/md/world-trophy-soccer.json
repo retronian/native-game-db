@@ -1,0 +1,71 @@
+{
+  "id": "world-trophy-soccer",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Trophy Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "European Club Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Trophy Soccer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70046-00",
+      "size": 524288,
+      "crc32": "6e3edc7c",
+      "md5": "dbf5f8e9346a4bd2eb84dc5dd2dd1ea8",
+      "sha1": "0a0ac6d37d284ec29b9331776bbf6b78edcdbe81",
+      "sha256": "ad9a3b788122b0e931d7651f66e2c750eeeb969d4fa9b4e9b47d78d8ecbf2c61"
+    },
+    {
+      "name": "World Trophy Soccer (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-70046-00",
+      "size": 524288,
+      "crc32": "6121e009",
+      "md5": "de2dd3b74e58f84b9403d582b45f8ca3",
+      "sha1": "5928eb9d7fda57ae71176a36b97a5a2412b5b7c6",
+      "sha256": "1011c6a6e9ddd7cee9d36353bcc0e8c505c3c076009232af8af8a4287d423435"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4390
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/World%20Trophy%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/World%20Trophy%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/World%20Trophy%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

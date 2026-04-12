@@ -1,0 +1,51 @@
+{
+  "id": "battletoads",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battletoads",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 284226
+  },
+  "roms": [
+    {
+      "name": "Battletoads (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "RARE",
+      "size": 2143184,
+      "crc32": "31480d89",
+      "md5": "7357dacd671dd3af8bd4a528d0f85493",
+      "sha1": "4ceebb84a77e4626c01dddd2fbc8446344ebf504"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battletoads%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battletoads%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battletoads%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

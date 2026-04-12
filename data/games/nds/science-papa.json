@@ -1,0 +1,67 @@
+{
+  "id": "science-papa",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Science Papa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Science Papa (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSNE",
+      "size": 33554432,
+      "crc32": "6a2d4159",
+      "md5": "016dcc7b34f634b1408a665fa304d21f",
+      "sha1": "7d0b25b60284f58ca0f29cec251a719ecfffbc43"
+    },
+    {
+      "name": "Science Papa (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSNP",
+      "size": 33554432,
+      "crc32": "1a5a534f",
+      "md5": "e39ce8536d1d24715287b857b8a35655",
+      "sha1": "ba491658c4daf3b516ce3cc56edc1a1dc958a0ae"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21112
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Science%20Papa%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Science%20Papa%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Science%20Papa%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Science%20Papa%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

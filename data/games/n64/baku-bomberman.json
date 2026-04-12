@@ -1,0 +1,58 @@
+{
+  "id": "baku-bomberman",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Baku Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆Bomber Man ばくボンバーマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Baku Bomberman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NBMJ",
+      "size": 8388608,
+      "crc32": "22f54a52",
+      "md5": "8183688a4b7d0a390496b5655bcd252e",
+      "sha1": "4813b147d552f72fdb0b306469bf9aa0f820fd5b",
+      "sha256": "7a36567a0a26dfdcb6f24eb454be9f9cd815cf96d6660867845e8a55434084cf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Baku%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Baku%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Baku%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

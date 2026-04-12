@@ -1,0 +1,65 @@
+{
+  "id": "choujin-sentai-jetman",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Choujin Sentai - Jetman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鳥人戦隊ジェットマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Choujin Sentai - Jetman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "69b355f1",
+      "md5": "6568be2cdb51cff714b7818d17beed3b",
+      "sha1": "d84a55694b87e636c22149c74fc78f1ff942d204",
+      "sha256": "6287bd6786c2fa33ae26175470ec804519085b668db2ea7ddd26955506c2745a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48661
+  },
+  "descriptions": [
+    {
+      "text": "鳥人戦隊ジェットマンは、マイティ・モーフィン・パワーレンジャーに似た日本のテレビ番組を基にしています。\n\nこのゲームはナツメによって開発され、彼らの他のタイトル「シャッターハンド」と非常に似たプレイスタイルを持っています。サイドスクロールアクションゲームで、プレイヤーは敵を撃ったり、蹴ったり、ジャンプしたり、しゃがんだりして、多数の悪党を打ち倒さなければなりません。プレイヤーがステージを選ぶ前に、5人のヒーローの中から1人を選ぶ必要があり、それぞれ異なる体力と武器タイプを持っています。また、画面上の敵を一掃できる限られた回数の特別攻撃も持っています。各レベルの最後には、ヒーローが巨大ロボットに飛び乗り、そのレベルのボスとの1対1の決闘に挑みます。\n\nゲームは4つの難易度レベル（隠し2つ）を持ち、パスワードシステムや、プレイヤーが任意のボスと戦う練習ができる「バトルモード」も搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Choujin%20Sentai%20-%20Jetman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Choujin%20Sentai%20-%20Jetman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Choujin%20Sentai%20-%20Jetman%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

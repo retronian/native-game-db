@@ -1,0 +1,95 @@
+{
+  "id": "monopoly",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monopoly",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ゲームボーイ モノポリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monopoly (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0503e567",
+      "md5": "92e01e78a83c86c22ee1dcbbf4c7c2f4",
+      "sha1": "3f42d9b423c15b4c1b997c7a2292ab2cba1ab23f"
+    },
+    {
+      "name": "Monopoly (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e559a717",
+      "md5": "5f1481260760c69843a61e9060ad7154",
+      "sha1": "058c34bc2d86cc7d6a3f5263a21946661662f893",
+      "sha256": "43f1cbd786df89bfcda7f1b25fcc74b6515433a3dbe221e5c7a3e9525842afff"
+    }
+  ],
+  "external_ids": {
+    "igdb": 308609
+  },
+  "descriptions": [
+    {
+      "text": "今回は、あなたのコンピュータ上で楽しめるモノポリーゲームです。現実のようにリアルに楽しむことができます。あなたのすべての動きは3Dアニメーションで表現されるか、アニメーションを見たくない場合はオフにすることもできます。最大6人まで同時にプレイ可能で、インターネットを通じて対戦することもできます。音楽はMIDI形式で、音質はWAV形式です。サイコロを振り、回転させて、笑顔を見せるのをお忘れなく。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Monopoly%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Monopoly%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Monopoly%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Monopoly%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Monopoly%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Monopoly%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

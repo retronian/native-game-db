@@ -1,0 +1,52 @@
+{
+  "id": "activision-anthology",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Activision Anthology",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Activision Anthology (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BAVE",
+      "size": 8388608,
+      "crc32": "14a28d68",
+      "md5": "5f3567dd3487f600dd2962c2fe73844f",
+      "sha1": "5125bbbbf1df7782590d99273735826636a2f9ba",
+      "sha256": "3848b99ff114cde1c8ba7f162ffb9dcab77fc676871da703b82132ce1743ce32"
+    }
+  ],
+  "external_ids": {
+    "igdb": 71690
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Activision%20Anthology%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Activision%20Anthology%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Activision%20Anthology%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

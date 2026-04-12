@@ -1,0 +1,49 @@
+{
+  "id": "music-recorder-mp3",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Music Recorder MP3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Music Recorder MP3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ZMPJ",
+      "size": 4194304,
+      "crc32": "35d154a3",
+      "md5": "1e0ff992c079acf2e5310699e1fafe45",
+      "sha1": "2b29f093e8d78737e489510ad4db6387ba128428",
+      "sha256": "9ea5580a89c29c7d1732f9fd23021341002ff23c27c175d967145c63c978f496"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Music%20Recorder%20MP3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Music%20Recorder%20MP3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Music%20Recorder%20MP3%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "daikaijuu-monogatari-poyon-no-dungeon-room",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daikaijuu Monogatari - Poyon no Dungeon Room",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポヨンのダンジョンルーム Poyon's Dungeon Room 大貝獣物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ポヨンのダンジョンルーム - 大貝獣物語 -",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daikaijuu Monogatari - Poyon no Dungeon Room (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2f368da6",
+      "md5": "57a7d3d3e7d67ec7d72de5701d9227d8",
+      "sha1": "0854b7ea4791a460c75ce9096583934b1af053e8",
+      "sha256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ポヨンのダンジョンルーム」では、プレイヤーは小さなピンクの生き物ポヨンとなり、危険に満ちたダンジョンに送り込まれます。目的は、ダンジョンを探索し、敵と戦い、パズルを解き、脱出する道を見つけることです。\nゲームプレイは、相互に接続された部屋で構成された2D環境で行われます。プレイヤーは慎重に移動し、有用なアイテムを集め、各階の最後に待ち受けるボスに立ち向かう必要があります。戦闘はターン制で、シンプルな攻撃と防御のシステムが採用されています。\nゲームはカラフルで可愛らしいビジュアルスタイルを誇り、ポヨンや敵の詳細なスプライトが描かれています。サウンドトラックもキャッチーなテーマで評価されています。\nまだ日本独占ではありますが、「大貝獣物語 - ポヨンのダンジョンルーム」は、魅力的な雰囲気とアクセスしやすいゲームプレイを持つゲームボーイカラーのダンジョンクローラージャンルの良い代表作と見なされています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-02-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Daikaijuu%20Monogatari%20-%20Poyon%20no%20Dungeon%20Room%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Daikaijuu%20Monogatari%20-%20Poyon%20no%20Dungeon%20Room%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Daikaijuu%20Monogatari%20-%20Poyon%20no%20Dungeon%20Room%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

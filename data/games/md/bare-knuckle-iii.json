@@ -1,0 +1,89 @@
+{
+  "id": "bare-knuckle-iii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bare Knuckle III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベア・ナックル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ベアナックルIII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bare Knuckle III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4116-00",
+      "size": 3145728,
+      "crc32": "5d09236f",
+      "md5": "f1cb9e887bf4bc512d9535c89e420df7",
+      "sha1": "b9b2b4a98a9d8f4c49aa1e5395e2279339517fdb",
+      "sha256": "70d40c55c40a1db40be7e5845aaa60a39b123362b8c48a21cec7ebe6f6d1cd60"
+    },
+    {
+      "name": "Bare Knuckle III (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4116-00",
+      "size": 3145728,
+      "crc32": "e7ff99db",
+      "md5": "8dfd2e27faf766991bd4be258619a3ed",
+      "sha1": "1d75372571ce970545f6ce63977cea9fa811e23f",
+      "sha256": "8fadfa7ca691cbdbb770b4d0faeeb1afce96108e96eda2c68d8bae57b05ab1eb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 151541
+  },
+  "descriptions": [
+    {
+      "text": "「ベア・ナックル3」はシリーズを次のレベルへと引き上げます。これまで以上に速く、複雑で、 brutal なゲームプレイが楽しめます。長いステージ、分岐するストーリーライン、致命的な罠が仕掛けられたインタラクティブな環境が特徴で、ゲームには多様性が詰まっています。新しいダッシュや回避の動きがスピード感を加え、武器は使用後に壊れるようになり、コンボに組み込むことも可能です。チーム攻撃が復活し、敵もそれを使用するようになったため、より賢い行動を見せます。一部の敵はあなたのヘルスピックアップを奪うことさえあります！ブリッツムーブはアップグレード可能になりましたが、死亡時にはリセットされます。ただし、ボタンを押し続けることでコストを支払ってアクセスできます。特殊攻撃はもはやヘルスを消耗せず、再生するバーを使用します。隠された条件を満たすことで秘蔵キャラクターが待っています。これは深い戦略性を持つ、緊張感あふれるストリートバトルゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Bare%20Knuckle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Bare%20Knuckle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Bare%20Knuckle%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

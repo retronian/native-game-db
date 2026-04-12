@@ -1,0 +1,57 @@
+{
+  "id": "bomberman-93-special-version",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman '93 - Special Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマン'93 スペシャルバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman '93 - Special Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "02309aa0",
+      "md5": "8930d24e64be677b898423a295b2bde0",
+      "sha1": "79af6d5987267238cf8f729af79e25349cb0bf03",
+      "sha256": "60f5aef4d7a9cc9a30ef89a4c7d2c02170531ba3923a206eb1b94e7c630785fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bomberman%20%2793%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bomberman%20%2793%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bomberman%20%2793%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

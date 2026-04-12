@@ -1,0 +1,62 @@
+{
+  "id": "tenseiryuu-saint-dragon",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenseiryuu - Saint Dragon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天聖龍",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenseiryuu - Saint Dragon (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "2e278ccb",
+      "md5": "92857243d4e985f1a58bec9cb2e16d58",
+      "sha1": "a9637a5efeb555426a44ae1cc86ed25a9520759d",
+      "sha256": "f879450b245891688177e53b845c07884e104bd647809ba5410370757c42f6f5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "弾を跳ね返し、敵にダメージを与えることができる尾を持つロボットドラゴンを操作するシューティングゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tenseiryuu%20-%20Saint%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tenseiryuu%20-%20Saint%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tenseiryuu%20-%20Saint%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

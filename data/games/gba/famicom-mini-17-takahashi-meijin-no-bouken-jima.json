@@ -1,0 +1,57 @@
+{
+  "id": "famicom-mini-17-takahashi-meijin-no-bouken-jima",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 17 - Takahashi Meijin no Bouken-jima",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ17 高橋名人の冒険島",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 17 - Takahashi Meijin no Bouken-jima (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FTBJ",
+      "size": 1048576,
+      "crc32": "53286f51",
+      "md5": "4ec51df6f2a3f65c0598827d3c757962",
+      "sha1": "e61f8ac1490163c49668efbc42b3549cb9aa881c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2017%20-%20Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2017%20-%20Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2017%20-%20Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

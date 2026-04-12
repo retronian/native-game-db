@@ -1,0 +1,58 @@
+{
+  "id": "shiten-myouou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shiten Myouou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "四天明王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shiten Myouou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-26023-00",
+      "size": 524288,
+      "crc32": "7e729693",
+      "md5": "db917818b7f82a0bf6dd5aeee7bf5a1a",
+      "sha1": "7bc3be0753b4ba8bbab2f5096e0efa0c0884dd98",
+      "sha256": "706a45e2d4c29f7ce71beb4db2860eeae2bcd4e4e9250f5faaf808b2f7a098c9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shiten%20Myouou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shiten%20Myouou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shiten%20Myouou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

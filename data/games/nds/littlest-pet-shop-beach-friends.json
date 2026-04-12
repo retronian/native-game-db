@@ -1,0 +1,67 @@
+{
+  "id": "littlest-pet-shop-beach-friends",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Beach Friends",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Beach Friends (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLBP",
+      "size": 67108864,
+      "crc32": "95e16d30",
+      "md5": "434abdf4d4d99e6d17e1498d2553fc3a",
+      "sha1": "7354d1bfd93cc63f01e507d3e6e692b0f33aa138"
+    },
+    {
+      "name": "Littlest Pet Shop - Beach Friends (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLBE",
+      "size": 67108864,
+      "crc32": "2d04f2e2",
+      "md5": "79a5dd3c24a1b63429cbd9dd6214e229",
+      "sha1": "a176036b4be1e69bc84a4fab5e373ea249e40c9c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67572
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Beach%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Beach%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Beach%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Beach%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

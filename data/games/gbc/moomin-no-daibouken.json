@@ -1,0 +1,73 @@
+{
+  "id": "moomin-no-daibouken",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moomin no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ムーミンの大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moomin no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "bd29ee6f",
+      "md5": "f7034b8297393fa04d9752d461f749a5",
+      "sha1": "0846545cebec8b376db9bdb0d3744c7d157ee980"
+    },
+    {
+      "name": "Moomin no Daibouken (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "3c193973",
+      "md5": "e95cf6f2c0e1a7276f37ad8926b3f901",
+      "sha1": "b60e7896fa4ceca42530f1de01e4691ee9590a7f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ムーミンはフィンランドからの魅力的で成功したスターです。荷物をまとめて、ムーミン谷を通る素晴らしい旅の準備をしましょう。\n\n- 6つの素晴らしいレベルで楽しもう！\n- スキルを試すレベルクリアチャレンジ！\n- 驚くほど美しいグラフィックとアニメーション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Moomin%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Moomin%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Moomin%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

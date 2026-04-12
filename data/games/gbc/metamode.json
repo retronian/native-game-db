@@ -1,0 +1,68 @@
+{
+  "id": "metamode",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metamode",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メタモード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metamode (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BTMJ",
+      "size": 2097152,
+      "crc32": "a76eed5b",
+      "md5": "017cde0db5d27525af84123f1ce81edf",
+      "sha1": "1c1d74c810b90cf4d2ee32859eaea569a5b45c3f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 266358
+  },
+  "descriptions": [
+    {
+      "text": "世界の平和を守るためにクールズを招集し、敵と戦うアクションゲームです。多くのスキルを習得することで、変身し能力を向上させることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-02-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Metamode%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Metamode%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Metamode%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

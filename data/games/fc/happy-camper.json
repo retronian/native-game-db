@@ -1,0 +1,45 @@
+{
+  "id": "happy-camper",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Happy Camper",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 241159
+  },
+  "roms": [
+    {
+      "name": "Happy Camper (USA) (Proto) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6b4f97c3",
+      "md5": "b610d9297fd23a9cb4cd13ea14ca3684",
+      "sha1": "c23fa07a167ab20832085888aadbb946ec455369",
+      "sha256": "ee77273e6aa4c9b0c7fd65daeab37640c26500f6e68535bbc07ab404cedc6b36"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Happy%20Camper%20%28USA%29%20%28Proto%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Happy%20Camper%20%28USA%29%20%28Proto%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

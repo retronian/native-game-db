@@ -1,0 +1,67 @@
+{
+  "id": "hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハローキティのスウィートアドベンチャー ダニエルくんにあいたい",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "45f4159b",
+      "md5": "5f9bbf43df1837fe1c1d960286513fcb",
+      "sha1": "c290dbd29a6246eb001f35f973c0e664af2c97b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228560
+  },
+  "descriptions": [
+    {
+      "text": "人気のサンリオキャラクターが登場するアクションゲームです。「ダニエルくんのスウィートアドベンチャー」の別バージョンです。ロンドンでキティを操作し、ニューヨークでダニエルと再会させましょう。キティは衣装を変えることでパワーアップします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hello%20Kitty%20no%20Sweet%20Adventure%20-%20Daniel-kun%20ni%20Aitai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hello%20Kitty%20no%20Sweet%20Adventure%20-%20Daniel-kun%20ni%20Aitai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hello%20Kitty%20no%20Sweet%20Adventure%20-%20Daniel-kun%20ni%20Aitai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

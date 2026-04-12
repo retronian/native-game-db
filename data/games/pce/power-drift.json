@@ -1,0 +1,65 @@
+{
+  "id": "power-drift",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Drift",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワードリフト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Drift (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "25e0f6e9",
+      "md5": "c7f4c99ccb9f56ef954f3ccf332ce0db",
+      "sha1": "1ffe1111a570b0cca256a356965fd6cdf7bcf2e9",
+      "sha256": "61879f829d79235538bdf38d26dd3f2c838f7087e8a4b3600eaf9959bd609290"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12719
+  },
+  "descriptions": [
+    {
+      "text": "ダートバギーをさまざまなコースで高速でレースしたいと思ったことはありませんか？「パワードリフト」は、その夢を実現するアーケードレーサーです。\n\n選べるコースは5つあり、それぞれに5つのステージがあります。ステージは都市、砂漠、水上のコースなど多岐にわたります。また、ビジネスマンからスキンヘッド、モヒカンまで、12人のドライバーから選ぶことができます。\n\nあなたのバギーには、高速と低速の2つのギアがあります。信号が青になったら、アクセルを全開にしてください。次のステージに進むためには、3位以上でゴールする必要があります。他のバギーや道路脇の物にぶつからないように注意してください。バギーは耐久性がありますが、クラッシュするとスピードが落ちてしまいます。\n\n1つのレベルの5つのステージをすべてクリアすると、ボーナスレベルが用意されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20Drift%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20Drift%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20Drift%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

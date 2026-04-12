@@ -1,0 +1,60 @@
+{
+  "id": "igo-shinan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Igo Shinan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "囲碁指南",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Igo Shinan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "f33fd140",
+      "md5": "b4a0c1d23b1fa7339bf84b99278a477f",
+      "sha1": "7d013527fe4d527c67ec31492f26008079d996d9",
+      "sha256": "78ffd1ac2f632bb555302480bcc95d8b76a0fa8d5c3818eef162a2b8a779c17f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63890
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Igo%20Shinan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Igo%20Shinan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Igo%20Shinan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

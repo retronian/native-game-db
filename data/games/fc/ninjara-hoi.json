@@ -1,0 +1,68 @@
+{
+  "id": "ninjara-hoi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninjara Hoi!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者らホイ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninjara Hoi! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "a7136b32",
+      "md5": "a1a0e129f1c3574b072681a1d58d9221",
+      "sha1": "1278385c2bf1905062a5a08e46618b565baf3a89",
+      "sha256": "a3b27a790e98aa22000242d93e08f9d22b03bb268672566ec37df5ef7affb2f3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48407
+  },
+  "descriptions": [
+    {
+      "text": "ドラゴンクエストと同じクラシックRPGシステムを使用した、封建日本を舞台にした非常に面白いRPGです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninjara%20Hoi%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninjara%20Hoi%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninjara%20Hoi%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

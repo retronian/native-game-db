@@ -1,0 +1,78 @@
+{
+  "id": "dragon-buster-ii-yami-no-fuuin",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Buster II - Yami no Fuuin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ドラゴンバスターII 闇の封印",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Buster II - Yami no Fuuin (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "f2e87435",
+      "md5": "de2802b739d7a1b683d61e6b7246a225",
+      "sha1": "6deb1223143299d0c1961d64507e6a71ac4e095d",
+      "sha256": "8704317c8a4595ebe5511fecb16371213252ed1490f74e95af75925cd90df34c"
+    },
+    {
+      "name": "Dragon Buster II - Yami no Fuuin (USA, Europe) (Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 196624,
+      "crc32": "e26faaec",
+      "md5": "d936b2e6f045b5e4e32f75ef7a7210db",
+      "sha1": "7b0bbc9dfc4be417212e916288eb59cff1497213",
+      "sha256": "80e9b97ceda4862102cb7a70ecfba8fa1fd2a5f5a17b39625b583a0143d20306"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48521
+  },
+  "descriptions": [
+    {
+      "text": "アーケードゲーム「ドラゴンバスター」の続編である本作の背景ストーリーは次の通りです。あなたは若き弓使いカールとなり、悪魔とドラゴンの支配から世界を解放するために古代の遺物を取り戻さなければなりません。\n\n前作とは異なり、ここではプラットフォームに制約されることなく、自由にあらゆる方向に移動できます。迷路のようなダンジョンを進み、鍵を見つけて出口にたどり着く必要があります。その後、ダンジョンは消え、次のダンジョンへ進むことが可能になります。敵と戦うのは弓です。矢は限られた数しか持っていませんが、ダンジョン内で他のアイテムとともに矢筒を見つけることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Buster%20II%20-%20Yami%20no%20Fuuin%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Buster%20II%20-%20Yami%20no%20Fuuin%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Buster%20II%20-%20Yami%20no%20Fuuin%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

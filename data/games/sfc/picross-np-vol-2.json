@@ -1,0 +1,114 @@
+{
+  "id": "picross-np-vol-2",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Picross NP Vol. 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピクロスNP Vol.2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピクロス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ピクロス NP Vol.2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Picross NP Vol. 2 (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ca8be5e9",
+      "md5": "7ccd3d8fc102f5898f60e85d3a58344c",
+      "sha1": "f713b4180fafffe69821da69506d70803cb6442f",
+      "sha256": "847a1333a94b40dfc7ffdb5581214efd4486c49eec4bef9626d406d3e0138c43"
+    },
+    {
+      "name": "Picross NP Vol. 2 (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1df8a75c",
+      "md5": "38de95c1e45b718fa97a8648b0c60993",
+      "sha1": "dbad4ed4f1c4bb54bf44223833c056179c4cc4f2",
+      "sha256": "d92909b46e83f249748f5e285c32f1075f8f8680de0d2284a5d3e14b87428e3f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 148421
+  },
+  "descriptions": [
+    {
+      "text": "ピクロス NP Vol. 2は、1999年から日本で隔月でリリースされた8つのピクロス NPゲームのうちの第2作です。このゲームは基本的なピクロスゲームで、プレイヤーはグリッド上の数字を使って、どのマスを塗りつぶし、どのマスを空白にするかを判断し、最終的に隠された絵を明らかにすることが求められます。すべてのゲームは、ジュピターの前作「マリオのスーパーピクロス」と同じゲームエンジンを使用していますが、各作品はパズルの数が少なく、象形文字や考古学のテーマを省いて、より基本的なペンと紙スタイルに置き換えられています。Vol. 2の独自のキャラクターセットは、ニンテンドー64用の「ヨッシーストーリー」に基づいています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-06-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%202%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%202%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%202%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "goldeneye-dark-agent-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GoldenEye - Dark Agent DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "GoldenEye - Dark Agent DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGEJ",
+      "size": 16777216,
+      "crc32": "49db42da",
+      "md5": "6ece7ea89cf8b595d939337bebf17b3a",
+      "sha1": "1e0b23b7b99ac23bfd4154f0e18f01e2acd72a94"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/GoldenEye%20-%20Dark%20Agent%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/GoldenEye%20-%20Dark%20Agent%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/GoldenEye%20-%20Dark%20Agent%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

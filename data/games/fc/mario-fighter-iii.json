@@ -1,0 +1,52 @@
+{
+  "id": "mario-fighter-iii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mario Fighter III",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 232794
+  },
+  "first_release_date": "1993-12-31",
+  "roms": [
+    {
+      "name": "Mario Fighter III (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "fc2c354d",
+      "md5": "5a0769f0122c57f4247341b6e2118251",
+      "sha1": "753ef7ee28dfcae1e870efc7eac965d1f7ce0593",
+      "sha256": "0a91da8e4d3bb0f0b7c572f728da466c1b4977ab8815100442de9f6ece079399"
+    },
+    {
+      "name": "Mario Fighter III (Asia) (En) (Pirate) (Alt)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "5f3f028e",
+      "md5": "82552a59a17ab5eaa7dae481381d5b59",
+      "sha1": "0b879fbe667f48e6ebbb9bd9f5a4f19be1173d57",
+      "sha256": "29eec78c98fa8feb6e397babcba758dfaa7903147bce6d64e88ff25f984f2b32"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mario%20Fighter%20III%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mario%20Fighter%20III%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rubik-s-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rubik's World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rubik's World (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CRWE",
+      "size": 33554432,
+      "crc32": "039e164c",
+      "md5": "9220bbaeea85102101b97fb9290df108",
+      "sha1": "b608373664890eec4fc930ae1fa1eebcbfcb1e66"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rubik%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rubik%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rubik%27s%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

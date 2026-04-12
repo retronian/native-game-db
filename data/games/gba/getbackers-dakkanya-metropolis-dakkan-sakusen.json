@@ -1,0 +1,68 @@
+{
+  "id": "getbackers-dakkanya-metropolis-dakkan-sakusen",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GetBackers Dakkanya - Metropolis Dakkan Sakusen!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GetBackers奪還屋 〜メトロポリス奪還作戦！〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A8GJ",
+      "size": 8388608,
+      "crc32": "91dad468",
+      "md5": "ed71f0dc43682b3df88161eadaa4ee44",
+      "sha1": "72dce89b9529f8a0b17fd154c915875a0c02e2d9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49600
+  },
+  "descriptions": [
+    {
+      "text": "人気のコミックを基にしたゲームです。おなじみのキャラクターたちとパーティーを組み、数々の依頼を達成しましょう。バトル中に表示されるボタンを押して、コンビネーション技やサポート攻撃を使用します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-03-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GetBackers%20Dakkanya%20-%20Metropolis%20Dakkan%20Sakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GetBackers%20Dakkanya%20-%20Metropolis%20Dakkan%20Sakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GetBackers%20Dakkanya%20-%20Metropolis%20Dakkan%20Sakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

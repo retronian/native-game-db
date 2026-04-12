@@ -1,0 +1,65 @@
+{
+  "id": "mobile-trainer",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mobile Trainer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モバイルトレーナー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mobile Trainer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7226ead0",
+      "md5": "aef9b41fbc898a58fd2aaaeabc2787e9",
+      "sha1": "ecc0579edeaf9eccd722d605cc288cd023c8576a",
+      "sha256": "6d802e66b54f700aa8c767dd4a3b9df200bae05e07a296fffb16ebf4efc76570"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このソフトウェアはモバイルアダプターGBと同梱されており、最大96文字のひらがなとカタカナのメールメッセージを作成する機能や、モバイルホームページを閲覧する機能が含まれています。\n\nただし、携帯電話やPHSが必要ですが、機能が劣り通信料金もかかるメール機能を使用する必要はなく、モバイルホームページはソフトウェアの紹介のみとなっています。\n\n利用可能なソフトウェアはモバイルシステムGBのみでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-01-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mobile%20Trainer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mobile%20Trainer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mobile%20Trainer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "solomon",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solomon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソロモン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solomon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6aee0958",
+      "md5": "dc15bf4d545a2c537f46598cb9204daf",
+      "sha1": "0c8da92984888a2c4eea29a3cb05dc75f35efaaa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "モンスターファーム エクスプローラーは、テクモの1987年のNESゲーム「ソロモンの鍵」のアップデート版であり、「モンスターファーム」シリーズの環境、キャラクター、モンスターが登場します。このゲームはアクション要素を含むプラットフォーマーです。各レベルでは、制限時間内にパズルを解く必要があり、成功したプレイヤーには次のレベルを開くための鍵が与えられます。ほとんどのレベルでは悪いモンスターが攻撃してくるため、各レベルで鍵に到達するためにブロックを移動させるだけでなく、プレイヤーは悪いモンスターを倒して自分が殺されないようにする必要があります。出会うことのできる良いモンスターや、いくつかの隠されたボーナスレベル、ボーナスアイテム、そして宝物も見つかります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Solomon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Solomon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Solomon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

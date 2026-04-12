@@ -1,0 +1,48 @@
+{
+  "id": "wolfenstein-3-d",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wolfenstein 3-D",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wolfenstein 3-D (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "6582a8f5",
+      "md5": "418034d574ebdaea7659b3a90eebef58",
+      "sha1": "88fe872eb984af84f8ca7633ef5bd3904a2baeb4",
+      "sha256": "9c2b458e8fda5cb437a4c6d28fb430e45c4cfef98420c40546b8e08563a4fc7d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wolfenstein%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wolfenstein%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wolfenstein%203-D%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

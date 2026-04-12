@@ -1,0 +1,95 @@
+{
+  "id": "mickey-mouse-iii-yume-fuusen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey Mouse III - Yume Fuusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Mickey Mouse 3 - Yume Fuusen",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ミッキーマウス3 夢風船",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ミッキーマウスIII 夢ふうせん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "夢ふうせん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey Mouse III - Yume Fuusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "432d776c",
+      "md5": "e9194a767803ae7ef109211346af0e68",
+      "sha1": "174c2f41cb36ee23bfc44388a427a7d6b3be12b0",
+      "sha256": "b1d8c243e2086e50cd70eb9f49ae28730a57b60908d728306a09a6dccd1a9343"
+    }
+  ],
+  "external_ids": {
+    "igdb": 137761
+  },
+  "descriptions": [
+    {
+      "text": "ミッキーマウス3夢風船。ミッキーが風船で空を飛ぶアクション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20Mouse%20III%20-%20Yume%20Fuusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20Mouse%20III%20-%20Yume%20Fuusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20Mouse%20III%20-%20Yume%20Fuusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pokemon-version-platine",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Version Platine",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Version Platine (France)",
+      "source": "no_intro",
+      "serial": "CPUF",
+      "size": 134217728,
+      "crc32": "a54a9984",
+      "md5": "0c731deabf0288368f281a2413e65f91",
+      "sha1": "41ea92f794560e347cd9509f5ec9e9d479a4bbf1",
+      "sha256": "1cfd024519116c1c6285d6af2dbdfcec778e9d74c7c18585e22032e81aaa7eb8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Version%20Platine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Version%20Platine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20Version%20Platine%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

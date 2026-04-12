@@ -1,0 +1,61 @@
+{
+  "id": "biohazard-2",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Biohazard 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Biohazard 2 (Asia)",
+      "source": "no_intro",
+      "size": 782732368,
+      "crc32": "cb2ded3c",
+      "md5": "31e25af405a04acb8dc11ec094dc6bfd",
+      "sha1": "d6e80b06c2279727f431457e0f88ceba732858a3"
+    },
+    {
+      "name": "Biohazard 2 (Japan) (2010-01-13)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 782712208,
+      "crc32": "fa88577a",
+      "md5": "4186e71f41a90b1b47e4491b6afe8cc8",
+      "sha1": "d8abae561d4defc6d01bd86642bebf95dc665dbb"
+    },
+    {
+      "name": "Biohazard 2 (Japan) (2007-12-19)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 782727840,
+      "crc32": "cc632b87",
+      "md5": "e80d6dde2b6fc16f9e16369d36825cdc",
+      "sha1": "88080260dd81e942e693b57319e798dff64facfd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

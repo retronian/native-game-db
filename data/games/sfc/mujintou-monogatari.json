@@ -1,0 +1,60 @@
+{
+  "id": "mujintou-monogatari",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mujintou Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "無人島物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mujintou Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0e984752",
+      "md5": "c535b55cfd959674820c200eb026ac6e",
+      "sha1": "251d892c74e245cde8ec684407d79e7720e389fa",
+      "sha256": "13072049bbcecc3300e71724fe51a1733578ce5d6f3acf820f60d8a656aff708"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37917
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mujintou%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mujintou%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mujintou%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

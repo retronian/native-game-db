@@ -1,0 +1,105 @@
+{
+  "id": "wagyan-land-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wagyan Land 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワギャンランド2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ワギャンランド 2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wagyan Land 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "b4e84ac0",
+      "md5": "7215636fd56c1e3ef8e65bf0de1a7a2e",
+      "sha1": "201d0c2a99ecffb438ea8ab49422db7cf3ab1c3f",
+      "sha256": "55fd42bcf88149870b9b7e71496c3814c0338210b362152539a112cd7c1087c8"
+    },
+    {
+      "name": "Wagyan Land 2 (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "bf033836",
+      "md5": "d03da781c2b66af9c79176eeffa56645",
+      "sha1": "02d6031e972bdfa4995368e108f22138364f54d1",
+      "sha256": "2e6dc19483c97eed5b2ae932807cb3c8cd01a8e89e9e048ececc995824f3a239"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48549
+  },
+  "descriptions": [
+    {
+      "text": "ワギャンランド2は、初代ワギャンランドとほぼ同じようにプレイします。あなたはかわいい緑色のトカゲ恐竜のようなキャラクターで、右に進みながら口からさまざまな音節を発射しますが、それは敵に実際にダメージを与えるわけではありません。発射した音節は、攻撃のパワーアップの度合いに応じて、一定時間敵を凍らせるだけです。4つのパワーアップを取得すると無敵になり、ようやく敵を倒すことができるようになります。しかし、これが実際に起こることはあまりありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wagyan%20Land%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wagyan%20Land%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wagyan%20Land%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wagyan%20Land%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wagyan%20Land%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wagyan%20Land%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

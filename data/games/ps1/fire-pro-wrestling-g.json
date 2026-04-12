@@ -1,0 +1,65 @@
+{
+  "id": "fire-pro-wrestling-g",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fire Pro Wrestling G",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイヤープロレスリングG",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fire Pro Wrestling G (Japan) (PS3 v2.60)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 180772560,
+      "crc32": "e771e455",
+      "md5": "0fcab29d90a69ad1d737ecfdbcfb0ce3",
+      "sha1": "9bab8e0cb8fb398152ce5c60ae9a943cfec08e14"
+    },
+    {
+      "name": "Fire Pro Wrestling G (Japan) (PS3 v4.46)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 182098448,
+      "crc32": "826fc168",
+      "md5": "7db1d63cb00e242b0e169db19116c4d3",
+      "sha1": "416e9aa28a2b37b75e40d8274a87799c7ac62df8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45074
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Fire%20Pro%20Wrestling%20G%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Fire%20Pro%20Wrestling%20G%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Fire%20Pro%20Wrestling%20G%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "europa-sensen",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Europa Sensen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヨーロッパ戦線",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Europa Sensen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76113-10",
+      "size": 1048576,
+      "crc32": "b0416c60",
+      "md5": "4f956308a08635f1be2c0839c50f5ca0",
+      "sha1": "d382f977ea3071f133a947ceb3528904e72f9bc9",
+      "sha256": "d7a54264d3d4a619438e82c3f8445459eb6315ada9b81350201cd46fd81cd552"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、第二次世界大戦のヨーロッパおよび北アフリカ戦線を舞台にした歴史シミュレーションです。プレイヤーは最大2人で、枢軸軍または連合軍の軍司令官として役割を演じることができます。このゲームは戦争の軍事的側面を強調し、外交は政治家に委ねられています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Europa%20Sensen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Europa%20Sensen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Europa%20Sensen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "silly-bandz",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Silly Bandz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Silly Bandz (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZEE",
+      "size": 8388608,
+      "crc32": "939b9e0a",
+      "md5": "155b7caaeb59e99bbb21dd8915e0b4e0",
+      "sha1": "584deff5d3097d3f0163d053752a14bed740bd19"
+    }
+  ],
+  "external_ids": {
+    "igdb": 10620
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Silly%20Bandz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Silly%20Bandz%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

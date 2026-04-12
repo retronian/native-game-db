@@ -1,0 +1,76 @@
+{
+  "id": "sangokushi-game-boy-ban-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sangokushi - Game Boy Ban 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "三國志 ゲームボーイ版2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "三国志ゲームボーイ版 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e787b44c",
+      "md5": "73bc46b4eb6e6924dc1b830e884a05f9",
+      "sha1": "ec6089ff2cfcb17faf6a8ea9a4171869b3c7289b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282606
+  },
+  "descriptions": [
+    {
+      "text": "最新作の「三國志」シリーズ、戦国時代のシミュレーションゲームで、あなたは将軍の一人となり、中国の統一を目指します。内政や外交を通じて国を強化しましょう。新しい戦略要素が追加されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sangokushi%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sangokushi%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sangokushi%20-%20Game%20Boy%20Ban%202%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

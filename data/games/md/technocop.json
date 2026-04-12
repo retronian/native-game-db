@@ -1,0 +1,71 @@
+{
+  "id": "technocop",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Technocop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Technocop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-56016-00",
+      "size": 524288,
+      "crc32": "7459ad06",
+      "md5": "863f39866dde86d1ee5cc5ce743ffc7c",
+      "sha1": "739421dd98d8073030d43cf8f50e411acb82f7d6",
+      "sha256": "689c832d15ad935f03e1e0f686b023905114126adbc7186789824f8ffab09c4f"
+    },
+    {
+      "name": "Technocop (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "059ac8fb",
+      "md5": "98979f44a6ada5dec772930be0a10fa2",
+      "sha1": "cb69d62fbaaa60cf9ff18db7b63e3f436e55967d",
+      "sha256": "022e7d836b80b38d746c407e7da6fa293a914f75d309da4232493093ee86bc08"
+    },
+    {
+      "name": "Technocop (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 524288,
+      "crc32": "f06ed8ca",
+      "md5": "f170cff2388c2f2439a48991906a662e",
+      "sha1": "acb094ea683779c8e94b8ea58a5c86d8303e0590",
+      "sha256": "c988893e94631b1ea2f4d6623c216e2eda724b0e513d5446c20513a0e6c27587"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Technocop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Technocop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Technocop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

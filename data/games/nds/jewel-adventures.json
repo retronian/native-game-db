@@ -1,0 +1,67 @@
+{
+  "id": "jewel-adventures",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewel Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewel Adventures (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TJMX",
+      "size": 8388608,
+      "crc32": "85e3fe80",
+      "md5": "f580050b8bcb3a765ab8a8d5536b1b59",
+      "sha1": "6f4e0557352186abc91196619db8f2f3dcad4752"
+    },
+    {
+      "name": "Jewel Adventures (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TJMP",
+      "size": 8388608,
+      "crc32": "84c34ece",
+      "md5": "a107ad90ca3793a828ff50ec580c29c5",
+      "sha1": "4f489edb555e5ac2ce7dfcfb5a4f18d95a08d7d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85207
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "wondrous-magic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wondrous Magic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワンダラスマジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wondrous Magic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "4ffd52a0",
+      "md5": "4e8b9004605aecccd2f6f93217e6a21b",
+      "sha1": "efb183bd188d7f288bc326017cb89653d4361e53",
+      "sha256": "91544af2c8c8d19ef3fb899309a48a7746cf35afd9b1fb9174c8579504241be0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42352
+  },
+  "descriptions": [
+    {
+      "text": "1993年末にスーパーファミコン専用としてリリースされたRPGです。プレイヤーは高齢の魔法使いの若い弟子となり、彼と共に旅をします。ゲームの戦闘は独特なリアルタイムシステムを採用しており、敵がプレイヤーを取り囲むことが多く、プレイヤーは全方向からの攻撃を防ぐために自らの位置を調整する必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wondrous%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wondrous%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wondrous%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

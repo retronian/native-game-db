@@ -1,0 +1,78 @@
+{
+  "id": "nobunaga-no-yabou-haouden",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga no Yabou - Haouden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "信長の野望 覇王伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "信長の野望・覇王伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga no Yabou - Haouden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76153-00",
+      "size": 2097152,
+      "crc32": "96c01fc6",
+      "md5": "9f0097bdbda1dcfc09af8a505757e741",
+      "sha1": "9246a29b25e276dc1f7edfae87229549cf87d92e",
+      "sha256": "4883eae750c534d6437bdadda59253fd773baeff2a2d04c6853c83092fc42f25"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37901
+  },
+  "descriptions": [
+    {
+      "text": "信長の野望 覇王伝は、コーエーによる戦略シミュレーションゲームで、戦国時代を舞台にした「信長の野望」シリーズの第5作目です。プレイヤーは再び複数の大名の一人、特に織田信長を選び、日本全土を征服しようと試みます。元々は1992年にPC-9801用にリリースされ、その後様々なコンピュータやコンソールに移植されました。\n\nゲームプレイの変更点の一つとして、城が追加され、プレイヤーが新しい領土を征服するために攻略しなければならない場所となりました。覇王伝はまた、シリーズで初めて拡張パックが提供されたゲームでもありますが、このパックはすべてのバージョンで利用できるわけではありませんでした。\n\nこのゲームは、アメリカでローカライズされなかった初の「信長の野望」シリーズのフラッグシップ作品です。1990年の「信長の野望：武将風雲録」と1994年の「信長の野望：天翔記」の間に位置しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Nobunaga%20no%20Yabou%20-%20Haouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Nobunaga%20no%20Yabou%20-%20Haouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Nobunaga%20no%20Yabou%20-%20Haouden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

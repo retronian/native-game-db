@@ -1,0 +1,111 @@
+{
+  "id": "namco-classic-ii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Classic II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Namco Classic 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "ナムコクラシック2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ナムコクラシックII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Classic II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "5a908cc4",
+      "md5": "a3d3d345280ff9f57ac028bb0314e63e",
+      "sha1": "0c6fca3a305bffc5e10ba0ed3ef2e6302472e066",
+      "sha256": "96033356847e63132f28fce77bf5166088b1370a068e4255d9d586947a6fc73a"
+    },
+    {
+      "name": "Namco Classic II (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "f95372f6",
+      "md5": "8ad9a767f0665d80ed565edb43a8a7db",
+      "sha1": "01cbc836c57947ecdbab9ba5c29a7926f05bfbcf",
+      "sha256": "eb477d24b20f22bd2774c142e2193b4da4cfd70d7c0c3504afb86163044f412b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ナムコクラシック2。ナムコの名作ゲーム集第2弾のコンピレーション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Namco%20Classic%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Namco%20Classic%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Namco%20Classic%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Namco%20Classic%20II%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Namco%20Classic%20II%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Namco%20Classic%20II%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

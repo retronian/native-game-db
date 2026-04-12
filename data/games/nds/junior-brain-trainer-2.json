@@ -1,0 +1,67 @@
+{
+  "id": "junior-brain-trainer-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Junior Brain Trainer 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Junior Brain Trainer 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBXP",
+      "size": 8388608,
+      "crc32": "4cfda6d3",
+      "md5": "d0f77cb564b9518ce163b3c1e601ce7c",
+      "sha1": "c54cd70d16b0d742d9e93486049422349ff0360c"
+    },
+    {
+      "name": "Junior Brain Trainer 2 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBXE",
+      "size": 8388608,
+      "crc32": "5daced89",
+      "md5": "740e45e79775e627543c91cde8a6f248",
+      "sha1": "2320dfcd2cc4a4e7bc7ba00d0599b71951652b7d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210004
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Brain%20Trainer%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Brain%20Trainer%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Brain%20Trainer%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Brain%20Trainer%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

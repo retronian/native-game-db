@@ -1,0 +1,52 @@
+{
+  "id": "zhuzhu-babies",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ZhuZhu Babies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "ZhuZhu Babies (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B5JE",
+      "size": 8388608,
+      "crc32": "e6c90f6c",
+      "md5": "c112ffe314c8d60bf467090810bf7452",
+      "sha1": "7816332028fe12609e1d3efcd632c5c5d8514d55"
+    },
+    {
+      "name": "ZhuZhu Babies (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B5JP",
+      "size": 16777216,
+      "crc32": "783baa89",
+      "md5": "1bba6a2958e7de4e0dccc5f355de3d4e",
+      "sha1": "5e324ebcfc231416c43e2d6994be8ceffd47a3d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ZhuZhu%20Babies%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ZhuZhu%20Babies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

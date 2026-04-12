@@ -1,0 +1,72 @@
+{
+  "id": "after-burner-ii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "After Burner II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アフターバーナーII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "After Burner II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-17013-00",
+      "size": 524288,
+      "crc32": "4ff37e66",
+      "md5": "bcb26dc14405b4c909d46626f9eec01f",
+      "sha1": "8f1e6a3e83094e5d0e237d6a1ffcc87171595ea5",
+      "sha256": "a22dace12fe31e25724157b8e6124c29ad5cc990ba46d7971cf404fef16a0d3c"
+    },
+    {
+      "name": "After Burner II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1104-00",
+      "size": 524288,
+      "crc32": "ccafe00e",
+      "md5": "75458e38c278f61c06dabacc744b5fe1",
+      "sha1": "523e4abdf19794a167a347b7eeca79907416e084",
+      "sha256": "f68818ae1a616562e4c7dc77932bbc9f6bc4e42229f5b5d5796d4b2c2cc3f334"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365123
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/After%20Burner%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/After%20Burner%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/After%20Burner%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "nekketsu-koukou-dodgeball-bu-pc-bangai-hen",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "熱血高校ドッジボール部 PC番外編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "65fdb863",
+      "md5": "419545fa5e2587288e8aea87811c152a",
+      "sha1": "582121ade819254da31fd8867c30e60195589a9a",
+      "sha256": "32fdcb18ba7a65b39b3590ea9f598c1cff9cad0414dd17b8f7447507726b84c3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 191740
+  },
+  "descriptions": [
+    {
+      "text": "NES版と同様に、PCエンジン版では各チームのメンバーごとに個別のステータス、ライフゲージ、パワーショットが追加されましたが、グラフィック、チーム、ステージは依然として同じです。シングルプレイヤートーナメントモードと2人対戦モードに加えて、プレイヤーが自チームのデフォルトメンバーをライバルチームのキャプテンに置き換えることができるシングルプレイヤークエストモードも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-03-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Nekketsu%20Koukou%20Dodgeball-bu%20-%20PC%20Bangai%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Nekketsu%20Koukou%20Dodgeball-bu%20-%20PC%20Bangai%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Nekketsu%20Koukou%20Dodgeball-bu%20-%20PC%20Bangai%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

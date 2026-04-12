@@ -1,0 +1,63 @@
+{
+  "id": "megatrax",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "MegaTrax",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メガトラックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "MegaTrax (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14113-00",
+      "size": 524288,
+      "crc32": "a0837741",
+      "md5": "714dde65fbc29189f18a58c4556c8441",
+      "sha1": "9e611f2a70fb2505a661d0906b535c484db99d0b",
+      "sha256": "58dfcf7b96055ff7d0b557db18c56cdb21524041e0db022a00c3e912ac1e90ad"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "エンジンをふかし、スロットルを引いて、四輪バギーでオフロードを駆け抜ける「クワッドチャレンジ」。これはナムコのアーケードレーサー「フォートラックス」の移植版です。16種類のオフロードトラックで、4種類の異なる高出力ATVのいずれかを選んでレースを楽しめます。友達と対戦することも、過酷な16レースのチャンピオンシップに挑戦することも可能です。2つの異なる難易度設定と4つの異なる操作オプションが用意されており、自分のスタイルに合わせてプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/MegaTrax%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/MegaTrax%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/MegaTrax%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

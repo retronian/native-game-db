@@ -1,0 +1,85 @@
+{
+  "id": "vampire-killer",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vampire Killer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バンパイアキラー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vampire Killer (Japan) (En) (Castlevania Anniversary Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95043-00",
+      "size": 1048576,
+      "crc32": "238a9b8f",
+      "md5": "9c7f0f040fec42d7048f6b1842deffb4",
+      "sha1": "2213b219854890952ba1eb8bf65c0dcf8baa0abf",
+      "sha256": "8b54eb77b0b56f32b6df458a183b65b4c0bcb8bf48b2f19c43ab805b7e2ab3da"
+    },
+    {
+      "name": "Vampire Killer (Japan) (En) (Mega Drive Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95043-00",
+      "size": 1048576,
+      "crc32": "db03961b",
+      "md5": "3fe739c40a79222801fcad6c753e6f11",
+      "sha1": "aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c",
+      "sha256": "1c463798e6a1d48c4346483276cda933a341182ccf9801450a6af0bd3e2ceae4"
+    },
+    {
+      "name": "Vampire Killer (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-95043-00",
+      "size": 1048576,
+      "crc32": "91b57d2b",
+      "md5": "3453bcc79345872034845cc5a7a1b15f",
+      "sha1": "3e709bd27577056abbbd6735021eaffd90caa140",
+      "sha256": "fbdd6296b822b8f4267f182456f93ec6ed1392fa60fbe52cdd9b9649bd7c8133"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1917年、悪がトランシルバニアで再び立ち上がろうとしていた。数世紀前に魔女として裁かれ、殺された若い女性エリザベス・バートリーは、再び闇の王子ドラキュラ伯爵を復活させる計画を立てていた。\n\nベルモンド家の最新の血筋であるジョン・モリスと彼の友人エリック・ルカールドは、バートリーが復活を計画しているフランスのヴェルサイユ宮殿へ向かうため、ヨーロッパを横断しなければならない。そして彼らの前には、ドラキュラの最強の信者たちが立ちはだかる…",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Vampire%20Killer%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Vampire%20Killer%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Vampire%20Killer%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

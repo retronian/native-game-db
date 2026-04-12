@@ -1,0 +1,108 @@
+{
+  "id": "exile",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Exile",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "エグザイル 時の狭間へ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Exile: Toki no Hazama he",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Exile (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49186-00",
+      "size": 1048576,
+      "crc32": "1b569dc2",
+      "md5": "5fe9ab5d615e3351302f47180de27f5e",
+      "sha1": "28377e9a68c2dcdfdb4133c2eb0b634aec552958",
+      "sha256": "7748356b7873f80bc72184f96f4bd24808759fc357677e68fe6e798a23f46c6c"
+    },
+    {
+      "name": "Exile (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49186-00",
+      "size": 1048576,
+      "crc32": "8c6e2aa3",
+      "md5": "d1ed5ace0e30fb854875cf11ad439662",
+      "sha1": "43c50ef2316e03019ac78c0551b833a54130f236",
+      "sha256": "dd6e189bed763eb13f14d607f8b338de9e3303de79cb637a0376b2b42bb0a327"
+    },
+    {
+      "name": "Exile (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49186-00",
+      "size": 2097152,
+      "crc32": "28655f23",
+      "md5": "7958f26ee6fc87ff997b2e806488bd46",
+      "sha1": "ff7a399f9e336174430a1fad9c64aebb8e4e1855",
+      "sha256": "0f885df2d27d52b260313f347a4fecdbf639b8ca1868490fb91fd7fe6adab0d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 125295
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Exile%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Exile%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Exile%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Exile%20%28USA%29%20%28Sega%20Channel%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Exile%20%28USA%29%20%28Sega%20Channel%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Exile%20%28USA%29%20%28Sega%20Channel%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

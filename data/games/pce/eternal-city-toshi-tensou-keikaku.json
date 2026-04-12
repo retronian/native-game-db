@@ -1,0 +1,65 @@
+{
+  "id": "eternal-city-toshi-tensou-keikaku",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Eternal City - Toshi Tensou Keikaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "都市転送計画エターナルシティ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Eternal City - Toshi Tensou Keikaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "b18d102d",
+      "md5": "07c06f305051862e381589d43978b1e9",
+      "sha1": "61e9102c02f87af87bd2e0b75093c01e12cf4801",
+      "sha256": "0fa201812e851ce9065966b8c4a0db76956c5b73f17b70f7f0985e97491e0a35"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "伝説の士郎正宗によるメカデザインを取り入れた横スクロールのランアンドシュートゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Eternal%20City%20-%20Toshi%20Tensou%20Keikaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Eternal%20City%20-%20Toshi%20Tensou%20Keikaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Eternal%20City%20-%20Toshi%20Tensou%20Keikaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

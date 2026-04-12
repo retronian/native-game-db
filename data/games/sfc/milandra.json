@@ -1,0 +1,68 @@
+{
+  "id": "milandra",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Milandra",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミランドラ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Milandra (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "67b5fb22",
+      "md5": "920b35893be78e327bc8ce57b98836d5",
+      "sha1": "3e383e4d0b1f998900bf9829bc518ba6abfe5297",
+      "sha256": "8960a8066680f3c931333f10298e4ecc8cbbf3497a3575bf41acbb7169b58a24"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42306
+  },
+  "descriptions": [
+    {
+      "text": "複数のキャラクターを操作できる奇妙なローグスタイルのRPGです。キャラクターには特定のAI命令を与えることができ、または手動で一人ずつ操作することも可能で、大勢の敵がいる時に便利です。ゲームには人気のあるナガノノリコによるキャラクターデザインが採用されており、スーパーファミコンタイトルの中ではかなり珍しい作品です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Milandra%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Milandra%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Milandra%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

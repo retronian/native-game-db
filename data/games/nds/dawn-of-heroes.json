@@ -1,0 +1,51 @@
+{
+  "id": "dawn-of-heroes",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dawn of Heroes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dawn of Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIEE",
+      "size": 67108864,
+      "crc32": "c04a8447",
+      "md5": "be60229426a1b2ac3182ad4037b9eb91",
+      "sha1": "6b842bcf6e723b6b4f4754b450e3e98576e4ca6e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 19721
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dawn%20of%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dawn%20of%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dawn%20of%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

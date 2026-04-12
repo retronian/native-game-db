@@ -1,0 +1,62 @@
+{
+  "id": "family-block",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Block",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリーブロック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Block (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "7c623e98",
+      "md5": "5dc5b90f7df6ba2d4bbd0e51bb9d9688",
+      "sha1": "fcec5938f902a7998fad419bf0967d92ec628b7b",
+      "sha256": "b7195bd2e70d9020951e93877c5167bdd1427b85901e7005ed91e3b5bd5ff7f7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ファミリーブロック」は、ミスター・チンやサンダー・ウォリアーなどの興味深いキャラクターが登場する「ブレイクアウト」タイプのゲームです。ミスター・チンは頭上にパドルとして機能する棒を持っています。ボールがパワーアップキャリア（UFO、潜水艦、飛行機）のいずれかに当たると、ボールをプレイし続けながら放出されたパワーアップを拾う必要があります。\n\nパワーアップは以下の通りです：\n\n1. グローブ：ボールをキャッチし、Aボタンで放出します。\n2. ロング：ミスター・チンの棒が長くなります。\n3. 1アップ：ミスター・チンのための追加ライフを獲得します。\n4. ミサイル：火力を得て、Aボタンを押すとミサイルを発射します。2発目のミサイルをキャッチすると、同時に2発のミサイルを発射できます。\n5. ビッグボール：ボールが大きくなり、進む先のブロックをすべて破壊します。\n6. スロー：ボールの速度が遅くなります。\n7. 3ボール：ボールが3つに分裂し、1つのボールが落ちない限り常に3つのボールを保持できます。\n8. 6ボール：ボールが6つに分裂します。\n\n「悪役キャラクター」が時折現れ、ミスター・チンを妨害しようとします。\n\n1. イソギンチャク：ボールを捕まえると、2つの小さなボールに分裂します。\n2. タコ：彼は古代の壺の中に住んでおり、ボールが壺に当たるとタコが出てきてミスター・チンの棒にしがみつこうとします。成功すると、動きが遅くなります。\n3. カメ：壁を歩いて新しいブロックに変身し、進行を妨げます。\n4. 鳥：ボールに当たると制御を失い、壁を壊しながら飛び去ります。\n5. サンダー・ウォリアー：ボールでサンダー・ウォリアーに当たると、彼の周りに雷の円が放出されます。雷は壁を破壊しますが、当たるとミスター・チンを一時的に麻痺させます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Block%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

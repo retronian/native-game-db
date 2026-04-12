@@ -1,0 +1,68 @@
+{
+  "id": "pokonyan-henpokorin-adventure",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokonyan! - Henpokorin Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポコニャン! へんぽこりんアドベンチャー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokonyan! - Henpokorin Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d16810cd",
+      "md5": "8379d0277138024063110c1db828cad6",
+      "sha1": "618413e6092b9fe935dbb2e6c42fd3ce93a65775",
+      "sha256": "e98821977389fe0ae16ec22e1f63d226698b5f869b2228885bd231a8a551c003"
+    }
+  ],
+  "external_ids": {
+    "igdb": 135497
+  },
+  "descriptions": [
+    {
+      "text": "スーパーファミコン用のプラットフォーマーゲーム「ポコニャン! へんぽこりんアドベンチャー」は、長寿アニメ「ポコニャン!」を基にした作品です。このアニメは、神秘的な「へんぽこりん」パワーを使って形を変えることができる猫とタヌキのハイブリッドの冒険を描いています。この能力は、神話のタヌキの変身能力に似ています。日本国外では「ロッキー・ラキャット」としてライセンスされています。\n\nゲーム内では、動物たちがポコニャンの人間の友達であるコノハミキ（ロッキー・ラキャット版ではエイミーとして知られています）の甘いお菓子を盗んでしまい、ポコニャンはすぐに彼らを追いかけます。ポコニャンは道中で食べ物を集め、各アイテムはステージクリア後のボーナスに加算されます。ポコニャンはジャンプ、ダッシュ、そしてパワーを使って形を変えることができます。彼の他の形は、形によってより強力なジャンプや攻撃能力を与えます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pokonyan%21%20-%20Henpokorin%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pokonyan%21%20-%20Henpokorin%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pokonyan%21%20-%20Henpokorin%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

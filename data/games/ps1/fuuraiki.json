@@ -1,0 +1,59 @@
+{
+  "id": "fuuraiki",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fuuraiki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "風雨来記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fuuraiki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 421273264,
+      "crc32": "9dc639c0",
+      "md5": "c875f781be3e39f45a0dfd2f4d5d75de",
+      "sha1": "b413b4e864b3427d052f8ad327c79269cf9ab765"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64665
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Fuuraiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Fuuraiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Fuuraiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "nintendo-mp3-player",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintendo MP3 Player",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "Play-Yan Micro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintendo MP3 Player (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ZMDE",
+      "size": 1048576,
+      "crc32": "16e5d0f2",
+      "md5": "ece7885bad93e64312a90f15763da7ce",
+      "sha1": "b7c517f1cb5860fec8beaa4e819bcffa8ce95a5b",
+      "sha256": "bdbfbca33f33b181c25be7b2798ddbb3800b7c74e47bc97b3a2b4b9310a858e2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 300369
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Nintendo%20MP3%20Player%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Nintendo%20MP3%20Player%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Nintendo%20MP3%20Player%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

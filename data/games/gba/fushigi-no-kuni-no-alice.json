@@ -1,0 +1,60 @@
+{
+  "id": "fushigi-no-kuni-no-alice",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fushigi no Kuni no Alice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "不思議の国のアリス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fushigi no Kuni no Alice (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AF4J",
+      "size": 4194304,
+      "crc32": "2cda40e1",
+      "md5": "20121e429ee5ece132b9ac3b0f22efe9",
+      "sha1": "2b2d625e71c4ffc53ce6fc573672a50e1b788dbc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 255621
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Fushigi%20no%20Kuni%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Fushigi%20no%20Kuni%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fushigi%20no%20Kuni%20no%20Alice%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

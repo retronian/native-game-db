@@ -1,0 +1,52 @@
+{
+  "id": "jeopardy",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jeopardy!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jeopardy! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-83026-00",
+      "size": 524288,
+      "crc32": "56cff3f1",
+      "md5": "52cfd0dbafdf1516defb25dddb1ee72e",
+      "sha1": "2a5c5ec5648b1d29768c808ab3c21118dc77fa27",
+      "sha256": "a85bdfe8538a6329fbf750b5e165939c9842976b7f5124044561597f5254f6b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64476
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jeopardy%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

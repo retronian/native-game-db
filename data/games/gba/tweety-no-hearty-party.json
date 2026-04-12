@@ -1,0 +1,65 @@
+{
+  "id": "tweety-no-hearty-party",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tweety no Hearty Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トゥイティーのハーティーパーティー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tweety no Hearty Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMJJ",
+      "size": 4194304,
+      "crc32": "d38672bf",
+      "md5": "0ea86808a1e0201968357e8b9bf282e8",
+      "sha1": "0d657ea9f3ba15968659dddb61c223d004c02dec"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "トゥイティーが呪われてしまった！悪い魔力との遭遇により、みんなのお気に入りの大きな頭の鳥が石にされる危険にさらされている。呪いを解く唯一の方法は、トゥイティーの友達が世界中に散らばった5つのマジックジェムを見つけることだ。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tweety%20no%20Hearty%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tweety%20no%20Hearty%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tweety%20no%20Hearty%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

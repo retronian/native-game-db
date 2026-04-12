@@ -1,0 +1,74 @@
+{
+  "id": "moero-juudou-warriors",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moero!! Juudou Warriors",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "燃えろ!! 柔道 Warriors うぉりおーず",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "燃えろ!!柔道WARRIORS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moero!! Juudou Warriors (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9b328679",
+      "md5": "abb094ffb0010cc8d550d1860a43ebcc",
+      "sha1": "8cf9b483898b36a0954930dc840a35e45dfaecb5",
+      "sha256": "ae8b3420be9d8c969c659d4eef8a2b0cb1bbe29b58bea3238f9513c13ae37103"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オリンピック柔道大会が開催され、最高の柔道家たちが競い合います。選手がオリンピックに出場する資格を得るためには、世界中を旅してさまざまな対戦相手を倒さなければなりません。選手がついにオリンピックにたどり着くと、各国の代表選手である9人の異なる対戦相手と対戦することになります。選手がオリンピックで十分な成績を残せば、銅メダル、銀メダル、さらには金メダルを持って帰ることができます。\n\n柔道の試合では、相手を地面に投げることが目的です。試合中には、選手が注意しなければならないメーターがあります。それは、ファイターの現在の力を測るパワーメーターと、相手を投げ飛ばす可能性を測るチャンスメーターです。試合の後、選手はキャラクターの力、技術、またはスタミナを強化するかどうかを選ぶことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Moero%21%21%20Juudou%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Moero%21%21%20Juudou%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Moero%21%21%20Juudou%20Warriors%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

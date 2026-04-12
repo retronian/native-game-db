@@ -1,0 +1,68 @@
+{
+  "id": "ys-v-expert",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ys V - Expert",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エキスパート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ys V - Expert (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "cfe632b9",
+      "md5": "7751f78e4487baffef4bba7984a8d266",
+      "sha1": "32f1b965ea882e0ac1938214c2a30ea6adaae22f",
+      "sha256": "6e69efa65b1410c357b0d0b906a14d5eec997b980dc101f3a96f56ccea75a09c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42316
+  },
+  "descriptions": [
+    {
+      "text": "「イースV」は1995年に最初にリリースされました。1996年には、ファルコムがスーパーファミコン用に難易度を上げた第二版「イースV エキスパート」を発売しました。難易度が上がったにもかかわらず、「イースV エキスパート」ではタイムアタックモード、追加ダンジョン、新たに探索できるエリア、そしてオリジナルには存在しない新しい敵が追加されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-03-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ys%20V%20-%20Expert%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ys%20V%20-%20Expert%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ys%20V%20-%20Expert%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

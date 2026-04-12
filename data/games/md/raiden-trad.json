@@ -1,0 +1,48 @@
+{
+  "id": "raiden-trad",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Raiden Trad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雷電伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Raiden Trad (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-22043-03",
+      "size": 1048576,
+      "crc32": "f839a811",
+      "md5": "af6b6c2e4870a46e61b90bd6d662e7fa",
+      "sha1": "9d4011d650179c62acdba0ed58143aa77b97d0e9",
+      "sha256": "35c0b22f41d6c9d2b1096f5274164adfff4fe1c4a5a0b983e91bc8d2cad48b53"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46211
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Raiden%20Trad%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

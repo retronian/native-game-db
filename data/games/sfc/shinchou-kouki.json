@@ -1,0 +1,96 @@
+{
+  "id": "shinchou-kouki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinchou Kouki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "信長公記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinchou Kouki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5e1b435a",
+      "md5": "d7769774ca048383a910af5800994834",
+      "sha1": "e6a8da842c850084bf328353ea2c8d8d001ae2de",
+      "sha256": "bb21007a30251e300a3d2672708cfb079e15f228444f742a1487536109877679"
+    },
+    {
+      "name": "Shinchou Kouki (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1a77cf3b",
+      "md5": "7b16e54a8048c07cbd0e66aaca753626",
+      "sha1": "4c4f3c321350c6d115ff37f17dc845a656c64891",
+      "sha256": "45d395b3e5bb28706f0df1641effd15e215ce53981d4112028a8dd74e645a848"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42312
+  },
+  "descriptions": [
+    {
+      "text": "「信長公記」は、RPG開発者ヤノマンによる歴史的なターン制ストラテジーゲームです。プレイヤーは戦国時代の大名となり、ライバルから日本全土の支配権を奪う必要があります。このゲームは、コーエーの「信長の野望」に明らかに影響を受けています。「信長公記」というタイトルは、この時代で最も有名な大名である織田信長の著名な伝記を指しています。この本は「信長公記」としても知られています。ゲームは日本国外ではリリースされていません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shinchou%20Kouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shinchou%20Kouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shinchou%20Kouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shinchou%20Kouki%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shinchou%20Kouki%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shinchou%20Kouki%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

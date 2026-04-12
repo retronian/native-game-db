@@ -1,0 +1,60 @@
+{
+  "id": "kien",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kien",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 210160
+  },
+  "first_release_date": "2024-06-14",
+  "roms": [
+    {
+      "name": "Kien (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "XXXE",
+      "size": 8388608,
+      "crc32": "185c2eca",
+      "md5": "fe8f2d7b6b58cb78ca51f8bceaa0f254",
+      "sha1": "da1673ec5ec35f8ececa3f04cb6a92d61237ce72"
+    },
+    {
+      "name": "Kien (World) (Incub8 Games) (Unl)",
+      "source": "no_intro",
+      "size": 8350032,
+      "crc32": "5a64b473",
+      "md5": "a509c1b5fa74f70550ee81386c7fe4b9",
+      "sha1": "3cf07cd95e5a83b65c773111051a50d9bef367eb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kien%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kien%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kien%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "scribblenauts-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Scribblenauts Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Scribblenauts Collection (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TCSE",
+      "size": 67108864,
+      "crc32": "06727662",
+      "md5": "6931240ada8915480cda76ef2a6978c0",
+      "sha1": "22fd1f2196865e884fce5de3758aa09b72f3723e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47914
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scribblenauts%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Scribblenauts%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scribblenauts%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

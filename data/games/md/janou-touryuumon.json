@@ -1,0 +1,66 @@
+{
+  "id": "janou-touryuumon",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Janou Touryuumon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀皇登竜門",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Janou Touryuumon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4096-00",
+      "size": 1048576,
+      "crc32": "b5ef97c6",
+      "md5": "7d4a52519b699a85892253b4c873adc9",
+      "sha1": "4f307e0146e944fbbd4537f5cdc5da136204fc9b",
+      "sha256": "3dd827c823402bb1a206c2497efc44510d363fa4d329d1e6c7259230fb61bd55"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "雀皇登竜門は、人気のある中国のボードゲームである麻雀のデジタル版の一つで、日本プロ麻雀協会の公式ライセンスを取得しています。このゲームはコンピュータと対戦するオプションのみですが、練習、トーナメント、スキルテストと呼ばれるモードなど、さまざまなプレイモードが用意されています。スキルテストはその名の通り、ゲーム内でのあなたのスキルレベルを試すモードです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Janou%20Touryuumon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Janou%20Touryuumon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Janou%20Touryuumon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "ranma-1-2-ougi-jaanken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ranma 1-2 - Ougi Jaanken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "らんま½ Ranma Nibunnoichi 奥義邪暗拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Ranma 1/2 - Ougi Jaanken",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "らんま1/2 奥義じゃあんけん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "らんま1/2 奥義邪暗拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ranma 1-2 - Ougi Jaanken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0a5dfa05",
+      "md5": "afde99960f1b2ec92d0dac97ecf5a5a7",
+      "sha1": "8e8de0c344af1e1c357ed6f8a96443a369349d49",
+      "sha256": "91e79d942fbfc0d32c72b664a9386be9d4e778e117c3982e17a2bdfca27f9032"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42410
+  },
+  "descriptions": [
+    {
+      "text": "このゲームでは、じゃんけんのサインを示す手のブロックが3つずつ落ちてきます。テトリスに似た方法で、プレイヤーはブロックを回転させて積み上げ、他のブロックに勝つピース（例：じゃんけんでの紙が石に勝つ）を使ってスタックを排除します。これを行うことで、相手の画面にゴミのピースが追加され、ブロックのスタックを排除するのが難しくなります。目的は、相手の画面をブロックでいっぱいにして、追加のブロックが収まらないようにすることです。各キャラクターには、大きなコンボを完成させたときに使用できる2つの特別な攻撃があります。また、各ラウンドで一度、各プレイヤーはバケツの水を使うことができ、呪われたキャラクターを別の形に変身させることができます。この効果が続いている間、攻撃力が弱まりますが、アカネやギャンブル王には影響しません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ranma%201-2%20-%20Ougi%20Jaanken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ranma%201-2%20-%20Ougi%20Jaanken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ranma%201-2%20-%20Ougi%20Jaanken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

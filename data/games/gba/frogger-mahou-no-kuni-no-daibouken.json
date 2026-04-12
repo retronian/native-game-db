@@ -1,0 +1,65 @@
+{
+  "id": "frogger-mahou-no-kuni-no-daibouken",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Frogger - Mahou no Kuni no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フロッガー魔法の国の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Frogger - Mahou no Kuni no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFBJ",
+      "size": 8388608,
+      "crc32": "b1ef7532",
+      "md5": "706163c6ecdd4e595eb49cce8107d0fc",
+      "sha1": "19dc5a95bde29cf699629cb8191d168a04339877"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "池を越えて冒険しよう！\nフロッガーと一緒に、魔法の杖の欠片を探しながら、5つの魅力的な島を飛び跳ねる楽しい旅に出かけよう。\n\n- 5つの魅力的な島を訪れよう\n- 20以上の敵を避けよう\n- マルチプレイヤーレースモード",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-06-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Frogger%20-%20Mahou%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Frogger%20-%20Mahou%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Frogger%20-%20Mahou%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "mahjong-hourouki-classic",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Hourouki Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀放浪記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Hourouki Classic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMHJ",
+      "size": 12582912,
+      "crc32": "990a8e54",
+      "md5": "e942a3eeb1eb572badd6f705eb12a22c",
+      "sha1": "405e6bcb6ad4a1452fe50aac1278a3f411c378c0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 136735
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mahjong%20Hourouki%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mahjong%20Hourouki%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mahjong%20Hourouki%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

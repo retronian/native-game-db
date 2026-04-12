@@ -1,0 +1,41 @@
+{
+  "id": "ninja-gaiden",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "忍者外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 222002
+  },
+  "roms": [
+    {
+      "name": "Ninja Gaiden (Japan) (En) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "0d7f74ba",
+      "md5": "148e0a46b6214d5228244c1596041a22",
+      "sha1": "dced2e4eb53ae5d9e979b13f093f70d466634c5b",
+      "sha256": "b222fe4c41fcf62746defc8f609e81284f8eb1c5b506c2ee40e3db161ae8dbad"
+    }
+  ]
+}

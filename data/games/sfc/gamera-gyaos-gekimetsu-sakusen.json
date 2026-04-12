@@ -1,0 +1,68 @@
+{
+  "id": "gamera-gyaos-gekimetsu-sakusen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gamera - Gyaos Gekimetsu Sakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガメラ ギャオス撃滅作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gamera - Gyaos Gekimetsu Sakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "bdb4dd84",
+      "md5": "7db5d13a4b6fefce823d407bba95d232",
+      "sha1": "d218be6b87f614dbb037e50ed748897cc77699b5",
+      "sha256": "78825e9d6e907ac583ba16d8896ff46f074069dab17d3ab25691255a70bde0f7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44403
+  },
+  "descriptions": [
+    {
+      "text": "「ガメラ ギャオス撃滅作戦」は、スーパーファミコン用の怪獣戦略ゲームで、ダイエイ映画のキャラクターである火を吐く巨大な亀「ガメラ」と、音波攻撃を頻繁に使用する巨大な翼竜「ギャオス」が登場します。二人はしばしばライバル関係にあり、ガメラは日本をギャオスの破壊行為から守ることが求められます。このゲームは、1995年に公開された映画「ガメラ 大怪獣空中決戦」に合わせてリリースされ、強大な亀怪獣とその起源をリブートしました。ゲーム内では、ガメラとギャオスの両方が脅威として描かれ、プレイヤーはリアルタイム戦略バトルで二体の怪獣を人口密集地から追い払うために部隊を動員しなければなりません。プレイヤーは各マップに作戦基地を持ち、地上型ミサイルランチャーや戦車、ジェット戦闘機などのさまざまなユニットを展開できます。いつでも、プレイヤーは上から見下ろす戦術ビューから、ユニットや怪獣をより詳細に表示するアイソメトリック視点に切り替えることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gamera%20-%20Gyaos%20Gekimetsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gamera%20-%20Gyaos%20Gekimetsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gamera%20-%20Gyaos%20Gekimetsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

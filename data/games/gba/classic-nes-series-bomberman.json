@@ -1,0 +1,78 @@
+{
+  "id": "classic-nes-series-bomberman",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファミコンミニボンバーマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "NES Classics: Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Famicom Mini: Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - Bomberman (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FBME",
+      "size": 1048576,
+      "crc32": "c9ebc17d",
+      "md5": "e674bef244d677e175f5694a7006bfde",
+      "sha1": "741eb2874c526cc014bf3e642b4ee37f18312735",
+      "sha256": "9ea8196d7bffbdbe540270255a53973376112ce9cff929926b52f0110d610cd2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49163
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20Bomberman%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20Bomberman%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20Bomberman%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

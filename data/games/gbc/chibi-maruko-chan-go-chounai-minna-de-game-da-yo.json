@@ -1,0 +1,76 @@
+{
+  "id": "chibi-maruko-chan-go-chounai-minna-de-game-da-yo",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chibi Maruko-chan - Go Chounai Minna de Game Da yo!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちびまる子ちゃん ご町内 みんなでゲームだよ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ちびまる子ちゃん 町内みんなでゲームだよ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chibi Maruko-chan - Go Chounai Minna de Game Da yo! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "20faa0d1",
+      "md5": "e77bbfc1ffb3c846752410a371e098ce",
+      "sha1": "31a0e557b36382f260a8297226e14737217c9763"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92188
+  },
+  "descriptions": [
+    {
+      "text": "「ちびまる子ちゃん」を基にしたボードゲームです。サイコロを振って町を巡り、思い出の隠された宝物を探しましょう。最大4人まで同時にプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Chibi%20Maruko-chan%20-%20Go%20Chounai%20Minna%20de%20Game%20Da%20yo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Chibi%20Maruko-chan%20-%20Go%20Chounai%20Minna%20de%20Game%20Da%20yo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Chibi%20Maruko-chan%20-%20Go%20Chounai%20Minna%20de%20Game%20Da%20yo%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

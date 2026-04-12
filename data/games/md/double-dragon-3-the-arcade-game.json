@@ -1,0 +1,61 @@
+{
+  "id": "double-dragon-3-the-arcade-game",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Dragon 3 - The Arcade Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Double Dragon 3: The Rosetta Stone",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Dragon 3 - The Arcade Game (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-081166-00",
+      "size": 1048576,
+      "crc32": "b36ab75c",
+      "md5": "783a70fd1a6339d947a2ba8556bd7bba",
+      "sha1": "663dfeebd21409942bcc446633b9b9f0dd238aa8",
+      "sha256": "7ced0a24d839ef7460f00d5002955ad48a035e3b625e304442783562ca0f574a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46277
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Double%20Dragon%203%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Double%20Dragon%203%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Double%20Dragon%203%20-%20The%20Arcade%20Game%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

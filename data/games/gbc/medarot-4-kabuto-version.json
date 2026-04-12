@@ -1,0 +1,68 @@
+{
+  "id": "medarot-4-kabuto-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot 4 - Kabuto Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット4 カブトバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot 4 - Kabuto Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "c192a368",
+      "md5": "c5effc311c2248d6de58b487e729406b",
+      "sha1": "a62a00ee6095b3dcdf347fbb7c536b51976a109f",
+      "sha256": "d03b52898f8f7818585257b1eb4b06cf3a6dda4c373b258be32e1b1ee9b1b6e5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91532
+  },
+  "descriptions": [
+    {
+      "text": "シリーズ最新作。目標は、戦闘で集めたパーツを使ってロボットを強化し、「メダマスター」になることです。対戦相手とミニゲームをプレイして勝者を決めることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Medarot%204%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Medarot%204%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Medarot%204%20-%20Kabuto%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

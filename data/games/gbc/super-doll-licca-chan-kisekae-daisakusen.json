@@ -1,0 +1,67 @@
+{
+  "id": "super-doll-licca-chan-kisekae-daisakusen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Doll Licca-chan - Kisekae Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパードール・リカちゃん 〜きせかえ大作戦〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Doll Licca-chan - Kisekae Daisakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "df50473f",
+      "md5": "1e90fa6dab5d51a09f0f6134c96efa08",
+      "sha1": "8becf5a8834285f2aff42812c8e44d864ee46d02"
+    }
+  ],
+  "external_ids": {
+    "igdb": 233024
+  },
+  "descriptions": [
+    {
+      "text": "アニメ「スーパードール・リカちゃん」を基にした冒険です。街で発生する事件を解決しましょう。ミニゲームで獲得したポイントを使って、リカちゃんを着せ替えることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-10-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Super%20Doll%20Licca-chan%20-%20Kisekae%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Super%20Doll%20Licca-chan%20-%20Kisekae%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Super%20Doll%20Licca-chan%20-%20Kisekae%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

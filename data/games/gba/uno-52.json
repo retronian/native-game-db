@@ -1,0 +1,80 @@
+{
+  "id": "uno-52",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uno 52",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uno 52 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BU5E",
+      "size": 4194304,
+      "crc32": "c659c6db",
+      "md5": "de44e3ae64659aba9824d0047c381981",
+      "sha1": "cfff9dd74be1d46f6787fe0403f2dea633481617",
+      "sha256": "2350420c3f83982dac2684d84cbc03a073ea2d8fcb319ab0b54ed9f2d1141b08"
+    },
+    {
+      "name": "Uno 52 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BU5P",
+      "size": 4194304,
+      "crc32": "315360d0",
+      "md5": "df60ea476f585692bfb05d77ea833342",
+      "sha1": "f85709ec7a97c8b40504f2097497bd961531272d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47706
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Uno%2052%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Uno%2052%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Uno%2052%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Uno%2052%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Uno%2052%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Uno%2052%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

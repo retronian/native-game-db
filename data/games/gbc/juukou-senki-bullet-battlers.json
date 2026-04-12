@@ -1,0 +1,76 @@
+{
+  "id": "juukou-senki-bullet-battlers",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Juukou Senki Bullet Battlers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "銃鋼戦記バレットバトラー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "銃鋼戦記 バレットバトラー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Juukou Senki Bullet Battlers (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "4039c187",
+      "md5": "5bd9f0923dc29bd9e566933c3c3e7902",
+      "sha1": "a89304600330a62800751f16e231924fa9cf6e4d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228567
+  },
+  "descriptions": [
+    {
+      "text": "このRPGでは、「バトラー」と呼ばれるロボットを操作し、敵と戦います。戦闘中に敵データをコピーし、バトラーを組み合わせて進化させ、伝説のバトラーを探し出します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Juukou%20Senki%20Bullet%20Battlers%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Juukou%20Senki%20Bullet%20Battlers%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Juukou%20Senki%20Bullet%20Battlers%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

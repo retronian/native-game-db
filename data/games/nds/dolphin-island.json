@@ -1,0 +1,52 @@
+{
+  "id": "dolphin-island",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dolphin Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dolphin Island (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YAZP",
+      "size": 16777216,
+      "crc32": "ee75b34c",
+      "md5": "c5e91bcec220c10e52dc2bcd93a43498",
+      "sha1": "9689575be60e9bcbeb003afe5fcb4ed20189d9a5",
+      "sha256": "b5fc3dbb832816e461047525e8a2838d00e6ef03a4ec69eb645013268090e07e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 60699
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dolphin%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dolphin%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dolphin%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

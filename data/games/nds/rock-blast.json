@@ -1,0 +1,51 @@
+{
+  "id": "rock-blast",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rock Blast",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rock Blast (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCGE",
+      "size": 8388608,
+      "crc32": "e6da3607",
+      "md5": "5765b7163be5a6f1f0a74bc50ca131c3",
+      "sha1": "4bf091c429c24c34769dfba04648676de05b801e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47778
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rock%20Blast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rock%20Blast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rock%20Blast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

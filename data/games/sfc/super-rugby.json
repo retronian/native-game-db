@@ -1,0 +1,68 @@
+{
+  "id": "super-rugby",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Rugby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーラグビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Rugby (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "757ad630",
+      "md5": "234d8f3b35188f193f7c0a596bfba111",
+      "sha1": "4cdf73e7f528a8c6a9f47a6e728cf9a631cd3316",
+      "sha256": "dd339151b8062ee25a7ec743898434fdb6f55cb38b832563e5c30e2f35eb1da7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48664
+  },
+  "descriptions": [
+    {
+      "text": "南アフリカ、オーストラリア、ニュージーランドのチームが参加する実際のラグビー・ユニオンリーグ「スーパーラグビー」を基にしたゲームです。ゲームは横からの視点でアクションを描写し、ボールを持っている選手にズームインします。ボールがキックされると、カメラはズームアウトして選手がピッチ全体を見られるようになります。ゲームにはスクラムやラグビー・ユニオンのその他のルールや特徴が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Rugby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

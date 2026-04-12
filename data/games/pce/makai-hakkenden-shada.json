@@ -1,0 +1,92 @@
+{
+  "id": "makai-hakkenden-shada",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Makai Hakkenden - Shada",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Makai Hakkenden Shada",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "魔界八犬伝 Shada シャダ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔界八犬伝 SHADA",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "魔界八犬伝シャダ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Makai Hakkenden - Shada (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "be62eef5",
+      "md5": "06c9c65e0e1c0669be28cc99ace61f54",
+      "sha1": "3ca3057045a9f116aea655f6965e882991e021f7",
+      "sha256": "0f0631bba672bd77290925a84f3cb1b694b4f496c7cb74e06b17d2e593316e3a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37675
+  },
+  "descriptions": [
+    {
+      "text": "このゲームのストーリーは、19世紀の日本の叙事詩小説『南総里見八犬伝』を loosely based しています。プレイヤーは、若き戦士シンを操作します。彼の故郷の村の長老は、四神の像と呼ばれる魔法のアーティファクトが盗まれたことを伝えます。このアーティファクトは、邪悪なタマズサの精霊を封印していました。タマズサの復活を防ぐために、シンは他の七人の戦士を見つけなければなりません。彼らが団結したときのみ、邪悪を完全に打ち倒すことができるのです。\n\n八人の戦士という前提にもかかわらず、『魔界八犬伝 シャダ』はプレイヤーがシンだけを操作するアクションRPGです。このゲームは、多くの点でより有名な『イース』シリーズに似ています。『イース』と同様に、主人公は敵に「ぶつかる」ことで戦います。倒した敵はお金を生み出し、村で武器やさまざまな種類の防具を購入するために使ったり、経験値を得ることができます。一定量の経験値が蓄積されると、主人公はレベルアップします。\n\nゲームの後半で、シンは呪文や特殊技を習得しますが、これらはボタンを押して能動的に実行する必要があります。また、特定の状況を解決するために必要な「探索」コマンドもゲーム内に存在します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-04-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Makai%20Hakkenden%20Shada%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Makai%20Hakkenden%20Shada%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Makai%20Hakkenden%20Shada%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

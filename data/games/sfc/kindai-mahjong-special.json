@@ -1,0 +1,60 @@
+{
+  "id": "kindai-mahjong-special",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kindai Mahjong Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "近代麻雀スペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kindai Mahjong Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7ee385a7",
+      "md5": "d91618ae13a2272fab67296d72dc69d5",
+      "sha1": "48b560c8c34d999d3dfc7d0606b02958b69f626c",
+      "sha256": "1cc57f104d57d6252e8c14556eff3f7c073839039c8057d598c40059c438aec0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37960
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kindai%20Mahjong%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kindai%20Mahjong%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kindai%20Mahjong%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

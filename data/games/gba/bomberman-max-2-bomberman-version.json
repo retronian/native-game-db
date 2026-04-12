@@ -1,0 +1,65 @@
+{
+  "id": "bomberman-max-2-bomberman-version",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Max 2 - Bomberman Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマン マックス2 ボンバーマンバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Max 2 - Bomberman Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMHJ",
+      "size": 8388608,
+      "crc32": "656cf22e",
+      "md5": "c49c26566f147a3546f7a299d55010ba",
+      "sha1": "625e4c19f045202de4d95262b5cd30f15c4469fe"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボンバーマンは再びマックスとチームを組み、悪のムジョーに立ち向かいます。しかし、彼らがそのチャンスを得る前に、ムジョーは状況を逆転させ、ヒーローたちを小さなクリッターに縮小させてしまいます。今、二人は爆弾の力を使い、レベルを進んで障害物や敵を吹き飛ばし、出口にたどり着く必要があります。そして最終的には装置を破壊し、元のサイズに戻るのです。\n\nすべてのボンバーマンシリーズと同様に、このゲームの目的は爆弾を設置し、爆風の範囲内に入るものをすべて破壊することです。プレイ中にチャラボムキャラクターを集めることでパワーを増強したり、リンクモードで友達と戦ったり交換したりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-02-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bomberman%20Max%202%20-%20Bomberman%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bomberman%20Max%202%20-%20Bomberman%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bomberman%20Max%202%20-%20Bomberman%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

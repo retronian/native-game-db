@@ -1,0 +1,68 @@
+{
+  "id": "aoi-blink",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aoi Blink",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "青いブリンク",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aoi Blink (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "08a09b9a",
+      "md5": "f1a8431d75e05812590d0f23135eecaa",
+      "sha1": "367aa348fca42a2aa1ce28bb88800d2fb0cd0ed7",
+      "sha256": "789efd169617f2a3343319d676736fb6ff4369ed45c17c5d124b3fe71272dd74"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42093
+  },
+  "descriptions": [
+    {
+      "text": "『アオイ・ブリンク』は、同名のテレビアニメシリーズを基にした横スクロールプラットフォーマーです。5つのレベルは『スーパーマリオブラザーズ3』のように構成されており、分岐する道を持つマップ画面を通じてさまざまなエリアにアクセスします。これらのエリアをクリアすることで、マップ上をさらに進むことができます。\n\nこのゲームの特長は、プレイヤーが異なる能力を持つ3人のキャラクターを瞬時に切り替えられることです。例えば、一人は高くジャンプでき、別の一人はより強力な銃を持っています。これらの能力は、主に伝統的なプラットフォーミングや敵を避けたり撃ったりするというレベルの課題を解決するために重要です。ただし、レベルマップの最後にあるボスエリアはマスターキーを使って開く必要があり、各エリアには1つずつ隠されています。\n\n3人のキャラクターはシリーズのキャラクターを基にしており、レベルによって変わります。体力はすべてのキャラクターで共有されており、ハートをすべて失うとライフを失います。ハートは、倒した敵が残したお金を集めることで補充できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Aoi%20Blink%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Aoi%20Blink%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Aoi%20Blink%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

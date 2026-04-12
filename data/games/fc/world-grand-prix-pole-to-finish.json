@@ -1,0 +1,79 @@
+{
+  "id": "world-grand-prix-pole-to-finish",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Grand-Prix - Pole to Finish",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドグランプリ ポール・トゥ・フィニッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "POLE TO FINISH",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ワールドグランプリ ポールトゥフィニッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Grand-Prix - Pole to Finish (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "89d9f1e2",
+      "md5": "62dc3ffa37cc206575ea9ef6f9b9dbf4",
+      "sha1": "91d2a491131030f5202bd8fd91477c32ab362acb",
+      "sha256": "c70254c752a4b27f09656648583e4ba51c0080b81b81dcba1f832bd1f784783c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215132
+  },
+  "first_release_date": "1989-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Grand-Prix%20-%20Pole%20to%20Finish%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/World%20Grand-Prix%20-%20Pole%20to%20Finish%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/World%20Grand-Prix%20-%20Pole%20to%20Finish%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

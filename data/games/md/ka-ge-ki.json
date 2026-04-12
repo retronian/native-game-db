@@ -1,0 +1,66 @@
+{
+  "id": "ka-ge-ki",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ka-Ge-Ki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "火激",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ka-Ge-Ki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-47026-00",
+      "size": 1048576,
+      "crc32": "391866a1",
+      "md5": "1e593b65ce45c68692d4d49b266a1727",
+      "sha1": "9424e8b759609004748dd6cd4779f917211264ae",
+      "sha256": "1344b714591f948fccf62825af1cfcd9116e329c864571427dce07220d1a59e2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "火激（カ・ゲ・キ）は、地下格闘試合を舞台にした少し斜めの3人称ビート 'em upで、悪名高いバイカーギャングのメンバーを全員倒さなければなりません。各試合は、いくつかの弱い手下との対決から始まり、その後9人のギャングメンバーのうちの1人に進みます。ギャングメンバーは次のラウンドに進む前に3回ノックアウトする必要があります。\n\nこのゲームでは、キャラクターを任意の方向に移動させることができ、アリーナの境界を越えない限り攻撃が可能です。攻撃は主にボタンの組み合わせによって行われ、押したボタンによって回避やパリィも発動します。\n\nグラフィックは2Dで、ユニークなスーパーデフォルメデザイン（ずんぐりした体に巨大な頭）となっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ka-Ge-Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ka-Ge-Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ka-Ge-Ki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "puzzle-bobble-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Bobble 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルボブル64",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Bobble 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPBJ",
+      "size": 8388608,
+      "crc32": "ea837423",
+      "md5": "b478d4af60d43c38ba81de9faea6e057",
+      "sha1": "9a4cdde04e6c42cf7957bf578a0b15ca90203280"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Puzzle%20Bobble%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Puzzle%20Bobble%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Puzzle%20Bobble%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

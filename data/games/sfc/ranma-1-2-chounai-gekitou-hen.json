@@ -1,0 +1,65 @@
+{
+  "id": "ranma-1-2-chounai-gekitou-hen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ranma 1-2 - Chounai Gekitou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "らんま½ Ranma Nibunnoichi 町内激闘篇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ranma 1-2 - Chounai Gekitou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e86e3c2d",
+      "md5": "31e5dd5d182d4e82455fd0160f5f4017",
+      "sha1": "56e065f20236b07ee475ce446b9ebf67e23f891e",
+      "sha256": "cf85ab993098cd28bced929f4a08581ac22f406fbbecc3aeb61efeb895137769"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気の漫画「らんま½」を基にした1対1の2D格闘ゲームです。武道家のらんまが水をかぶることで女性の姿に変わってしまうという呪いを受けた彼の冒険を中心に展開され、さまざまなキャラクター同士の1対1の決闘に焦点を当てています。\n\nゲームプレイは他の1対1のビート 'em upと似ており、プレイヤーはキャラクターの動きと攻撃を2Dのスクロール面で操作し、特定のコントローラーの動作によって発動する必殺技を使って相手を倒し、攻撃を避けることを目指します。シングルプレイヤーストーリーモードでは、らんまの男性版と女性版を選択し、シリーズのキャラクターたちとの7試合の2-out-of-3マッチを進めていきます。一方、2人対戦モードでは、制限なく任意のキャラクターを自由に選択できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ranma%201-2%20-%20Chounai%20Gekitou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ranma%201-2%20-%20Chounai%20Gekitou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ranma%201-2%20-%20Chounai%20Gekitou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

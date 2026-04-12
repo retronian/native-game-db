@@ -1,0 +1,70 @@
+{
+  "id": "hikaru-no-go-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hikaru no Go 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヒカルの碁2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    },
+    {
+      "text": "ヒカルの碁 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hikaru no Go 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKEJ",
+      "size": 16777216,
+      "crc32": "04129a22",
+      "md5": "3b7a7175d8bdd4a54c41e7d0be54c6db",
+      "sha1": "c2ba3a59aaa0a6f607d570500f4d085222869908",
+      "sha256": "33f2160de8880d2f47f1a34ee7bc5f6fd288ddda376904217a3d40c0e3b82f50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49629
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hikaru%20no%20Go%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hikaru%20no%20Go%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hikaru%20no%20Go%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

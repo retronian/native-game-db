@@ -1,0 +1,45 @@
+{
+  "id": "stratego-next-edition",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Stratego - Next Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YSOP",
+      "size": 16777216,
+      "crc32": "541c5a64",
+      "md5": "24025a3b44404dc4bd4fe4b8cd0bc47f",
+      "sha1": "a908d3ec79c69219f55e88dd8af72302fd2b8105"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47886
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Stratego%20-%20Next%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Stratego%20-%20Next%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

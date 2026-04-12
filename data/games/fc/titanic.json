@@ -1,0 +1,55 @@
+{
+  "id": "titanic",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Titanic",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "泰坦尼克号",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 10842
+  },
+  "first_release_date": "2005-12-31",
+  "roms": [
+    {
+      "name": "Titanic (China) (Mars Production) (Unl)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048592,
+      "crc32": "d2126770",
+      "md5": "c593d5473118db8b49db851cb8068e3e",
+      "sha1": "05e629510c3a65ee0f04f5f27885c60271e4c9e8",
+      "sha256": "0ed92262cc7e4465a6be1af3c734174f6c52532e36f8271815029526cfea20f5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Titanic%20%28China%29%20%28Mars%20Production%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Titanic%20%28China%29%20%28Mars%20Production%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

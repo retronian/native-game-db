@@ -1,0 +1,96 @@
+{
+  "id": "math-play",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Math Play",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "さんすうパズルゲーム イコールカードDS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Sansuu Puzzle Game: Equal Card DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Math Play (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AECE",
+      "size": 8388608,
+      "crc32": "e0281cb3",
+      "md5": "2764a9033c8a14018315bbf20fefc478",
+      "sha1": "eef3ab4a878b83d8a668a0621f32ec8b979eae86"
+    },
+    {
+      "name": "Math Play (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AECE",
+      "size": 8388608,
+      "crc32": "e812f8be",
+      "md5": "f6de871df94a797c324c2fcb945145bc",
+      "sha1": "d459c339cf2e5f4e7503c9552237c6f6ae8c2d98"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92738
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Math%20Play%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Math%20Play%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Math%20Play%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Math%20Play%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Math%20Play%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Math%20Play%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

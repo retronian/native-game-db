@@ -1,0 +1,79 @@
+{
+  "id": "street-combat",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Street Combat",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Street Combat (Europe) (Possible Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4a4c657e",
+      "md5": "625b94ac4d17839b5c6262a4b08c87ba",
+      "sha1": "39ea9970af8e1d088f4971e711726ad2a85ec3c9",
+      "sha256": "67b1182db9080a6e76aa7be098c6aebb089ccd0f0bc98d232923da5f1eb3ed10"
+    },
+    {
+      "name": "Street Combat (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1969bbd9",
+      "md5": "15ad65e39686a928793dbf2d482164c1",
+      "sha1": "bdb67f6fbf3cff1bc8e118ead0f3f5894db9edf6",
+      "sha256": "b4626cf0c876a124b50f9421c48a7d762e9ed808ad336c799d543d60b484897c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38432
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Street%20Combat%20%28Europe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Street%20Combat%20%28Europe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Street%20Combat%20%28Europe%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Street%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Street%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Street%20Combat%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "speed-racer",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Speed Racer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Speed Racer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "aa44287c",
+      "md5": "beaad267a307be19f1e44fa72b3511bf",
+      "sha1": "ad190de2e27e6b678201ed272591386e2945a648",
+      "sha256": "54046ec1fc57f6165ad33080502f72809d1b06b438a5a0d0a80ffa2bb3df8b0b"
+    },
+    {
+      "name": "Speed Racer (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "6fa3fca1",
+      "md5": "828e9e00c3e9eb43e6e57ef98afafe4f",
+      "sha1": "953a6986e4c081adcdfa17a754f2f28c76959f44",
+      "sha256": "1d3dd03ebbb6e58263d51aa78fb219f5b2d69ed62f4902004b9bb6eb2e0cc230"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Speed%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Speed%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Speed%20Racer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Speed%20Racer%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Speed%20Racer%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

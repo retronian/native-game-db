@@ -1,0 +1,74 @@
+{
+  "id": "slap-fight-md",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Slap Fight MD",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スラップファイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Slap Fight MD (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48093-00",
+      "size": 1048576,
+      "crc32": "d6695695",
+      "md5": "989f8effd6fbbd93dcabd0be8fd41f8a",
+      "sha1": "3cb992c70b4a5880a3e5f89211f29fe90486c0e0",
+      "sha256": "26a0908bbfa1cfc51200eea17e6f94466e72bd283a300fec95d71e7b91e3b8a0"
+    },
+    {
+      "name": "Slap Fight MD (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-40___-00",
+      "size": 1048576,
+      "crc32": "dbb62949",
+      "md5": "ea2d65c39e67519ecb1e5615ffb9c93b",
+      "sha1": "2add264816b97ca20d3efc5ae541997aa1b82a59",
+      "sha256": "aa74fe52814b2cffe999bb6cabce051b6ac18eee97c4d7bbd921005bdb49fe58"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "一見すると、『スラップファイト MD』は1986年のアーケードクラシック『スラップファイト』の直接的な移植であり、オリジナルタイトルの忠実な再現に加え、複数の難易度設定やオリジナルおよびアレンジされたサウンドトラックが特徴です。しかし、カートリッジには全く新しい続編も収録されており、新しいステージ、ボス、グラフィック、音楽が含まれています。基本的なゲームプレイは同じで、縦スクロールシューティングゲームであり、パワーアップがリストから選択できるようにサイクルします。また、驚異的な火力を持つ非常に広い艦船を構築することも可能です。『スラップファイト MD』では、艦船のパワーアップを放出することで、画面全体を覆う大爆発を引き起こし、命を救う可能性もあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Slap%20Fight%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Slap%20Fight%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Slap%20Fight%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

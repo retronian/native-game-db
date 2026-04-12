@@ -1,0 +1,78 @@
+{
+  "id": "pokemon-diamond-version",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Diamond Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Diamond Version (USA) (Rev 5)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADAE",
+      "size": 67108864,
+      "crc32": "84427823",
+      "md5": "02a1af2a677d101394b1d99164a8c249",
+      "sha1": "a46233d8b79a69ea87aa295a0efad5237d02841e",
+      "sha256": "e29bc6ebe431d7a6b238267b6b1521fec4a3bc14f2fa348798062f870c738454"
+    },
+    {
+      "name": "Pokemon - Diamond Version (Europe) (Rev 5)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADAE",
+      "size": 67108864,
+      "crc32": "dcf7050b",
+      "md5": "ca7620b92665a2565b5c1831f5f66ec0",
+      "sha1": "66d2fbfb0dbc1f86a3d726971196989b950092bc",
+      "sha256": "726b2c6b0bdca37bf68881542cf7d1c26f0f8579ae1585491b0c73bc1d3fc63e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Diamond%20Version%20%28USA%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Diamond%20Version%20%28USA%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20Diamond%20Version%20%28USA%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20-%20Diamond%20Version%20%28Europe%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20-%20Diamond%20Version%20%28Europe%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20-%20Diamond%20Version%20%28Europe%29%20%28Rev%205%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bomberman-max-yami-no-senshi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Max - Yami no Senshi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマン マックス 光の勇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Max - Yami no Senshi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "48b60e8e",
+      "md5": "76c04694db94b72afa78dd6612dfe4a9",
+      "sha1": "12addfb8f890a44b87efb900e9d6ad5028b58936",
+      "sha256": "65f2488ae1a5be5a2e0a7392e950ca1d48f4912bf0566ca29d32dd7fda8068e4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボンバーマン マックス 光の勇者は、ボンバーマン マックスシリーズの後半で、メインキャラクターのタスクはボンバーマン ブルー チャンピオンとほぼ同じです。しかし、ボンバーマンの代わりにマックスを操作します。マックスは見た目以外はボンバーマンとほとんど同じです。グラフィックもブルーとは異なり、各レベルで少し違っています。\n\nタスクは変わらず、爆弾を設置してブロックや敵を破壊し、ポケモンのように育てて戦うクリーチャーであるチャラボムを集めることです。特定のチャラボムやレベルはブルー版でのみ入手可能なので、他のゲームボーイとブルー チャンピオン エディションをリンクさせて、すべてのチャラボムを集めて冒険を完了させる必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bomberman%20Max%20-%20Yami%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bomberman%20Max%20-%20Yami%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bomberman%20Max%20-%20Yami%20no%20Senshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

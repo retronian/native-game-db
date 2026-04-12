@@ -1,0 +1,79 @@
+{
+  "id": "build-a-bear-workshop-welcome-to-hugsville",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Build-A-Bear Workshop - Welcome to Hugsville",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Build-A-Bear Workshop - Welcome to Hugsville (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIBE",
+      "size": 16777216,
+      "crc32": "922de7c7",
+      "md5": "acbb9ade3064dd693a308fd932c98472",
+      "sha1": "2d942277565efa8ad1743012c1f5c245a9a84a0e"
+    },
+    {
+      "name": "Build-A-Bear Workshop - Welcome to Hugsville (Europe) (En,Fr,Es,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BIBP",
+      "size": 16777216,
+      "crc32": "0c9d35d8",
+      "md5": "61bac68b4c76e0a71709054fe3523458",
+      "sha1": "c44233df1e18f7cab39f87f6565d2ab77ca1b509"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47913
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28Europe%29%20%28En%2CFr%2CEs%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28Europe%29%20%28En%2CFr%2CEs%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28Europe%29%20%28En%2CFr%2CEs%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "laura",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Laura",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "a58c8282",
+      "md5": "1a787c328c66eea5a2b920b7c205b231",
+      "sha1": "47e5c4c7fa447efc8a0abf019e8d2cd227c5e0e3",
+      "sha256": "be45c39c74da9d8ce466d84d105a6b474d23f6ffbe0afdad3110aa92ca013c09"
+    },
+    {
+      "name": "Laura (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e2bff286",
+      "md5": "637b90b33aeb3688187c6ac73db3488e",
+      "sha1": "3fe3eb99ee818c94e9a07e19640af6a2aad33903"
+    },
+    {
+      "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "f90a3dae",
+      "md5": "37824faeedc1d562cae1ceee675c6ac8",
+      "sha1": "772539821e4b703259b2e2ad535d74a03fa22760"
+    },
+    {
+      "name": "Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "cf8e2371",
+      "md5": "a41843374fe3bce0b61a641fafd6f415",
+      "sha1": "f7b19c1501d325dd8ee219ccae2eaca130a5a21b",
+      "sha256": "e50ba5f7cf8e05dd1bb7a1f2234dba18bf4e413169a39a7ef5d5241cc63b65a3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210115
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Laura%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Laura%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Laura%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Laura%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Laura%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Laura%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

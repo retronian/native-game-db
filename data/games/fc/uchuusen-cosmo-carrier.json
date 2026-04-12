@@ -1,0 +1,68 @@
+{
+  "id": "uchuusen-cosmo-carrier",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Uchuusen Cosmo Carrier",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "宇宙船コスモキャリア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Uchuusen Cosmo Carrier (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "bbdecd91",
+      "md5": "5a73809501fa6d798b93cd7ba072ef76",
+      "sha1": "ad669584776c76f3565ade1c1241778a8c7605a9",
+      "sha256": "6106f6a1cb640b0d4934dab33d5b3a6d6a5bd1155fc1aecfd49db071ea498827"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48559
+  },
+  "descriptions": [
+    {
+      "text": "1999年。侵略してくるエイリアンが、私たちの周回する月を地球に向かってゆっくりと押し進めています。100時間後には地球上のすべての生命が消滅します。あなたの任務は、太陽系の惑星を巡り、エイリアン艦隊を迎撃することです。\n\n「宇宙船コスモキャリア」は、タイトルにもなっているコスモキャリアを操縦し、エイリアンと戦いながら太陽系、惑星、そしてその衛星に関する情報を収集するアクションストラテジーゲームです。展開可能なメックを使って衛星から集めた情報は、エイリアンの勢力を見つけ出し、彼らを破壊する手助けとなります。一度展開されたメックは地表を歩き回り、タレットと戦ったり、アイテムや手がかりを見つけたりします。\n\nあなたのビュースクリーンでは、エイリアンの宇宙船、宇宙飛行士、衛星、惑星をターゲットにして相互作用を行います。許可されている相互作用は、ミサイル、ビーム、シールド、移動、通信、コンピュータ、パーツ、状態です。ミサイルは調整可能な強さでターゲットにロケットを発射します。ビームはターゲットにレーザー兵器を発射します。誤記されたシールド機能では、シールドをオンにするかどうかを選択できます。移動ボタンには、ワープと着陸の2つのサブ選択肢があります。ワープは惑星間を移動することを可能にし、着陸は衛星や敵の巡洋艦の表面にメックの一つを展開することを可能にします。通信は、惑星や他の車両とコミュニケーションを行うことができます。コンピュータはターゲットにした惑星や車両の情報を表示します。また、コンピュータはあなたの船やメックの修理を行う場所でもあります。パーツでは、搭載している武器を確認できます。最後に、状態では、コスモキャリアと3体のメック（グラビティ、ブリザード、フィールド）のシールドや武器に関する詳細情報が得られます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-11-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Uchuusen%20Cosmo%20Carrier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Uchuusen%20Cosmo%20Carrier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Uchuusen%20Cosmo%20Carrier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

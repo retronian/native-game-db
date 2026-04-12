@@ -1,0 +1,58 @@
+{
+  "id": "famicom-mini-09-bomberman",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 09 - Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ09 ボンバーマン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 09 - Bomberman (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FBMJ",
+      "size": 1048576,
+      "crc32": "c1116e40",
+      "md5": "d37986c7067ec557b771cfb661c923ee",
+      "sha1": "3ee5eb19ac00660e1c83c449c6a5b2a22c9f73eb",
+      "sha256": "2f768405c9f1719ba45cacde5ae684847f9f5a2f1265af6f904b0b22976b44e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2009%20-%20Bomberman%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2009%20-%20Bomberman%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2009%20-%20Bomberman%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

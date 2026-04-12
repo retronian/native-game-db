@@ -1,0 +1,58 @@
+{
+  "id": "famicom-mini-02-donkey-kong",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 02 - Donkey Kong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ02 ドンキーコング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 02 - Donkey Kong (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FDKJ",
+      "size": 1048576,
+      "crc32": "071c3f2b",
+      "md5": "b35d9966fe8138e00473690bc522e99e",
+      "sha1": "b5afc36a8203c2c485344819d069300ecafd9657",
+      "sha256": "c3b05c5b0f4fe4ad5feb1fa845950c66735f6e4b2bb088cbc354777110b3efc6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2002%20-%20Donkey%20Kong%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2002%20-%20Donkey%20Kong%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2002%20-%20Donkey%20Kong%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

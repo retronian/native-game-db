@@ -1,0 +1,78 @@
+{
+  "id": "jewel-master-cradle-of-athena",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewel Master - Cradle of Athena",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewel Master - Cradle of Athena (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJ7X",
+      "size": 8388608,
+      "crc32": "fa65094a",
+      "md5": "1f32e1db05404100918a89637230e497",
+      "sha1": "ad5d6d5b5e45d49e7bccb8453e21d3cac992c627"
+    },
+    {
+      "name": "Jewel Master - Cradle of Athena (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJ7E",
+      "size": 8388608,
+      "crc32": "af02b457",
+      "md5": "577a3874b0e0d904f93b278fb0eab813",
+      "sha1": "46de58b19b9815ba18c23679f684d0f5f08492d4"
+    },
+    {
+      "name": "Jewel Master - Cradle of Athena (USA) (En,Fr,Es) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJ7E",
+      "size": 8388608,
+      "crc32": "8253981b",
+      "md5": "c4a02f197b4a9d1b5c9cdb56f52b1ebf",
+      "sha1": "d3f5aea9f8058db8c55c9b2250f6931b3d0e93dc",
+      "sha256": "b4ce1f3bcb0e851320371e799ac04b4c00c6bd6c2d737c444d935e8c7d540d91"
+    }
+  ],
+  "external_ids": {
+    "igdb": 24365
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Master%20-%20Cradle%20of%20Athena%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Master%20-%20Cradle%20of%20Athena%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Master%20-%20Cradle%20of%20Athena%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewel%20Master%20-%20Cradle%20of%20Athena%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

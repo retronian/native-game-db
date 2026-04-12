@@ -1,0 +1,65 @@
+{
+  "id": "gangan-gan-chan",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gangan Gan-chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガンガンガンチャン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gangan Gan-chan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a220c6d5",
+      "md5": "c82666233f216db472c77f8fd611da6b",
+      "sha1": "640e2c49dfdb056f51369c6780f0683b6dd17565",
+      "sha256": "3285c32dc72b79c319cb89e658610037b69dcf5321bf3e0a67465c57e7e6240d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ガンガンガンチャン（「ガンガン」は大きな繰り返し音や頭痛の感覚を意味する日本語）は、スーパーファミコン用の迷路アクションゲームです。星型のヒーロー、ガンチャンは、グリッド状のステージで迷子になった生き物たちを救出しながら、常に変化する敵の群れを避けなければなりません。\n\nタイトル画面にはマジファクトがゲームのパブリッシャーとしてクレジットされていますが、クレジットにはプログラミングとデザインが無名のグループ、チーム・メンタルケアによって行われたことが明記されています。チーム・メンタルケアは、以前に1994年にスーパーファミコン用ゲーム「バスタード！暗黒の破壊神」をコブラチームのために制作したこともあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-10-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gangan%20Gan-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gangan%20Gan-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gangan%20Gan-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

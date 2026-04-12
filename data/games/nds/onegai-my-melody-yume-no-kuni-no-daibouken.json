@@ -1,0 +1,69 @@
+{
+  "id": "onegai-my-melody-yume-no-kuni-no-daibouken",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Onegai My Melody - Yume no Kuni no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "부탁해! 마이멜로디:꿈나라의 대모험",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "おねがいマイメロディ 夢の国の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Onegai My Melody - Yume no Kuni no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AOMJ",
+      "size": 16777216,
+      "crc32": "99ee8dc8",
+      "md5": "6c2245e6398c6a9daee9a1496d05affb",
+      "sha1": "013761eefa4057a17cd5d303dd3106fb5ddaef52"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97812
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Onegai%20My%20Melody%20-%20Yume%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Onegai%20My%20Melody%20-%20Yume%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Onegai%20My%20Melody%20-%20Yume%20no%20Kuni%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

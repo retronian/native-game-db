@@ -1,0 +1,96 @@
+{
+  "id": "wagyan-land",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wagyan Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワギャンランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wagyan Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "0f438689",
+      "md5": "6e4a2754a59f9c6ca2f2ba6c5a8a2233",
+      "sha1": "7c4a68212dc7d36dae8d351c916ffc6f2840b8b5",
+      "sha256": "07c321274afbcf72b14b2ce4eb50fe32a72ec3654f12e869bad99d39cd4c5d0d"
+    },
+    {
+      "name": "Wagyan Land (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "5ae42ede",
+      "md5": "8c11e30124f7cdfd927110c67cd40f92",
+      "sha1": "745d97d1f9b727a55ecd5f972789a5a181dbd3a7",
+      "sha256": "b7a2e96328a0acfb704f8af5fadc94ca651b3211117deae22ba852fcb9b7dc3c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48550
+  },
+  "descriptions": [
+    {
+      "text": "ワギャンランドは、ナムコ（現在のバンダイナムコゲームス）によって制作されたプラットフォームゲームシリーズで、日本国内のみで販売されています。\n\nこのシリーズの主人公は、緑色の機械恐竜に似た謎の生物ワギャンで、彼は狂気の科学者ドクター・デビルから故郷のワギャンランドを守らなければなりません。ゲームは、プレイヤーがゴールに到達することを目指す標準的な横スクロールステージと、ミニゲーム（神経衰弱やしりとりなど）で競うボス戦が特徴です。\n\nゲームの目的は、ワギャンの音波攻撃とジャンプ能力を駆使して各アクションシーンの終わりに到達することです。プレイヤーは特定のステージの最後でボスと対峙しますが、実際に戦うのではなく、対戦相手よりも多くのポイントを獲得するミニゲームに挑戦します。この作品のグラフィックは、明るい色合いのシンプルな背景が特徴です。後に『ワギャンランド2』や『スーパーワギャンランド』で使用されたボステーマは、この作品のしりとりや神経衰弱のミニゲームで初めて使用されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-02-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wagyan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wagyan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wagyan%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wagyan%20Land%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wagyan%20Land%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wagyan%20Land%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

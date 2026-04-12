@@ -1,0 +1,60 @@
+{
+  "id": "love-game-s-wai-wai-tennis",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Love Game's - Wai Wai Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラブ・ゲーム わいわいテニス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Love Game's - Wai Wai Tennis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "46b92ffe",
+      "md5": "f561fca0387f795f304936085a15eb0d",
+      "sha1": "791055b5897fa6df4491b8398e36479f77ceaa36",
+      "sha256": "d6868bd706acb184908dbaf55f4a12d31fc9bfc8e09486148fe441ae9ee9e9f4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 58520
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Love%20Game%27s%20-%20Wai%20Wai%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Love%20Game%27s%20-%20Wai%20Wai%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Love%20Game%27s%20-%20Wai%20Wai%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

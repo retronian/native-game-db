@@ -1,0 +1,108 @@
+{
+  "id": "mega-man-the-wily-wars",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega Man - The Wily Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ロックマンメガワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Rockman Mega World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man - The Wily Wars (USA) (Genesis Mini)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-12053-00",
+      "size": 2097152,
+      "crc32": "0cd405db",
+      "md5": "8e860e4f7c7ee5febad9134a56766112",
+      "sha1": "26ad72719991e94dbe477c78e65d68f4a4fe51e6",
+      "sha256": "c3e5e56c1252de5a1ff3bb68b47366120f2c85d333a9ca0eb6df3dab1b03e583"
+    },
+    {
+      "name": "Mega Man - The Wily Wars (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-12053-00",
+      "size": 2097152,
+      "crc32": "0831020b",
+      "md5": "fb4fc95ce806265417bb44eec2aca488",
+      "sha1": "617bc1ee5f31f4215cf47c5337fa7ca0bceb6a45",
+      "sha256": "be23bcc18f8b15bad870f39b8294c59f949a9c48920b79de05359077c043f6f5"
+    },
+    {
+      "name": "Mega Man - The Wily Wars (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-12046-00",
+      "size": 2097152,
+      "crc32": "dcf6e8b2",
+      "md5": "bb891aec8a7dfe6164033f57af2025bd",
+      "sha1": "ea9ae2043c97db716a8d31ee90e581c3d75f4e3e",
+      "sha256": "98f36274e4d73feefaba0e812024a6cecda2d864a2cbed7363b9d357f2e6a582"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1727
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Man%20-%20The%20Wily%20Wars%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Man%20-%20The%20Wily%20Wars%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Man%20-%20The%20Wily%20Wars%20%28USA%29%20%28Genesis%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Man%20-%20The%20Wily%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Man%20-%20The%20Wily%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Man%20-%20The%20Wily%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

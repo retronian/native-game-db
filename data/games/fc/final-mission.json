@@ -1,0 +1,68 @@
+{
+  "id": "final-mission",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Mission",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルミッション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Mission (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "290dd12f",
+      "md5": "5a400298dedbf1c30d7b73216b76f963",
+      "sha1": "48dbedecd54a57c1b4d067181da972b49b5b799e",
+      "sha256": "02cc8158e038a8d5740d4e829177f289e64261f7a239f2d51ba24c991f74fb81"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215141
+  },
+  "descriptions": [
+    {
+      "text": "80年代のSF映画のユーモラスな解釈で、あなたはアーノルドかシガーニーを操作し、世界を救うミッションに挑みます。年は2029年、最高司令官バイル・マルモート率いるエイリアンの侵略が地球を脅かしています。\n\nヒーローたちはジェットパックと二つの周回砲を装備しています。これらは一方向に発射するか、固定パターンで発射するように設定できます。全方向に飛行でき、パワーアップを使用して新しい武器を獲得したり、体力を回復したりできます。ミッションごとに与えられるライフは7つだけですが、コンティニューは無限に可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Mission%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Final%20Mission%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Mission%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

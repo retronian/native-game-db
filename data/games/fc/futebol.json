@@ -1,0 +1,52 @@
+{
+  "id": "futebol",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Futebol",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 92984
+  },
+  "first_release_date": "1991-12-31",
+  "roms": [
+    {
+      "name": "Futebol (Brazil) (Unl)",
+      "source": "no_intro",
+      "region": "br",
+      "size": 98320,
+      "crc32": "be6ed26e",
+      "md5": "606e1895f77961db61cc27e068f7ec5f",
+      "sha1": "7fad789324b6d6d62015efbb9368723ec6274d2f",
+      "sha256": "beaa793d0e376c8fd9a6e67239a8931f246f8a49efebf357351031a7906d8985"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Futebol%20%28Brazil%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Futebol%20%28Brazil%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Futebol%20%28Brazil%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    }
+  ]
+}

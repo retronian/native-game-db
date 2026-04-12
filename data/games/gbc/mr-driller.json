@@ -1,0 +1,165 @@
+{
+  "id": "mr-driller",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mr. Driller",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ミスタードリラー GB版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ミスタードリラー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "Mr. Driller GB-ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mr. Driller (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "bdf9b05c",
+      "md5": "8ee55a0ad476a0497a483a30c0b28316",
+      "sha1": "6163cc65e7697ef77075a3665a234ce5d720ad9c"
+    },
+    {
+      "name": "Mr. Driller (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "35fd440d",
+      "md5": "19fb34b63e864a72e26073f8e7e7ed01",
+      "sha1": "fb64fa7da6a0fec3e358bb3357e66d68473ada67"
+    },
+    {
+      "name": "Mr. Driller (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "773729af",
+      "md5": "b4c21d6cf67f5742ef3a19860eb31d2e",
+      "sha1": "b0d725dacea717be7109bd6a81817e717641da86"
+    },
+    {
+      "name": "Mr. Driller (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "492c0ebf",
+      "md5": "76fa4014bfbb0ee2b63267af7ac373f2",
+      "sha1": "3bfda5edb7d125ee99b9235434488876dc6d8245"
+    }
+  ],
+  "external_ids": {
+    "igdb": 254519
+  },
+  "descriptions": [
+    {
+      "text": "ミスタードリラーの世界は謎のブロックで覆われています。強力なドリルだけを武器に、空気供給が尽きる前に安全な場所まで掘り進まなければなりません！\n\nミスタードリラーは、瞬時の判断力と少しの計画が求められるリアルタイムパズルゲームです。ゲームプレイはテトリスとボルダーダッシュの組み合わせで、カラフルなブロックを掘り進んで底に到達しなければなりませんが、無謀な掘削の結果（ブロックが落ちてきて潰されること）を避ける必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-06-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mr.%20Driller%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mr.%20Driller%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mr.%20Driller%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mr.%20Driller%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mr.%20Driller%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mr.%20Driller%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mr.%20Driller%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mr.%20Driller%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "strawberry-shortcake-strawberryland-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Strawberry Shortcake - Strawberryland Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Strawberry Shortcake - Strawberryland Games (Europe) (En,Fr,De,Es,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AS5P",
+      "size": 16777216,
+      "crc32": "ab07d1b9",
+      "md5": "fe76b25e271571e00e2ea4af73ffefab",
+      "sha1": "22df4c758b708dba0fe22fd00ebd185d5012fa6b"
+    },
+    {
+      "name": "Strawberry Shortcake - Strawberryland Games (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AS5E",
+      "size": 16777216,
+      "crc32": "34c33bad",
+      "md5": "6419ae1be1603bc95e38a0bd5fd8a4dc",
+      "sha1": "db78cb6da585c8f64c22fde3fdab937d79763e3f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8573
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Strawberry%20Shortcake%20-%20Strawberryland%20Games%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Strawberry%20Shortcake%20-%20Strawberryland%20Games%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Strawberry%20Shortcake%20-%20Strawberryland%20Games%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "roary-the-racing-car",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Roary the Racing Car",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Roary the Racing Car (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C7RX",
+      "size": 8388608,
+      "crc32": "6746dd3e",
+      "md5": "a3554bd713df9476f27c7803ca35b071",
+      "sha1": "f5ed9f4c913feef502b0ae3e95fd245a6b38e955"
+    },
+    {
+      "name": "Roary the Racing Car (United Kingdom)",
+      "source": "no_intro",
+      "serial": "C7RP",
+      "size": 8388608,
+      "crc32": "9748881c",
+      "md5": "5e42af531107c190213cf9375fc37824",
+      "sha1": "471941759c41730cb38582ed4a07d7c5b061113d"
+    },
+    {
+      "name": "Roary the Racing Car (United Kingdom) (Rev 1)",
+      "source": "no_intro",
+      "serial": "C7RP",
+      "size": 8388608,
+      "crc32": "01d6d1f5",
+      "md5": "c6bcadbe0a48f3c5a0976967bfc0081e",
+      "sha1": "abb5e1579db6a132184d8a6c108acac97fbd135e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 223113
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Roary%20the%20Racing%20Car%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Roary%20the%20Racing%20Car%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Roary%20the%20Racing%20Car%20%28United%20Kingdom%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Roary%20the%20Racing%20Car%20%28United%20Kingdom%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

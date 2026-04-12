@@ -1,0 +1,68 @@
+{
+  "id": "robin-lloyd-no-bouken",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Robin Lloyd no Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロビン・ロイドの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Robin Roido no Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Robin Lloyd no Bouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 89791344,
+      "crc32": "4710d541",
+      "md5": "751e890084cbce280b4df4475d67ad75",
+      "sha1": "7eeda3075e9fdd3847441d756140c41258400b02",
+      "sha256": "35f45f752ff821d8314bf1d7c4f9eaa73ded16f792dd45170dcfbcdd8480d6e2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 62988
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Robin%20Lloyd%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Robin%20Lloyd%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Robin%20Lloyd%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

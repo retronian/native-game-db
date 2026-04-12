@@ -1,0 +1,68 @@
+{
+  "id": "black-bass-lure-fishing",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Black Bass - Lure Fishing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ハイパーブラックバス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Hyper Black Bass",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Black Bass - Lure Fishing (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e44977dc",
+      "md5": "a30b8e40344bcfbeb08110c79de4af14",
+      "sha1": "0e8d93cd183a53aba67780372c71cca71e92a9c1",
+      "sha256": "4ad5ce27225972410284882a19a996cf891ce61485ec2ff12411ea93e22a6ebc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7787
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Black%20Bass%20-%20Lure%20Fishing%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Black%20Bass%20-%20Lure%20Fishing%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Black%20Bass%20-%20Lure%20Fishing%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

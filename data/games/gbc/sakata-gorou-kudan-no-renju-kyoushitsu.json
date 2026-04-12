@@ -1,0 +1,64 @@
+{
+  "id": "sakata-gorou-kudan-no-renju-kyoushitsu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sakata Gorou Kudan no Renju Kyoushitsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "坂田吾朗九段の連珠教室",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b5412c6f",
+      "md5": "eeb8a7311a959035e8a3c3822329ea48",
+      "sha1": "f2330533b10c22e98c140bb550827618985253cb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本連珠社副会長の坂田吾朗九段監修のもと、「連珠」は「五目並べ」のルールに基づいたゲームです。また、坂田氏が作成した連珠パズル「ゴールは5」も楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sakata%20Gorou%20Kudan%20no%20Renju%20Kyoushitsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sakata%20Gorou%20Kudan%20no%20Renju%20Kyoushitsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sakata%20Gorou%20Kudan%20no%20Renju%20Kyoushitsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "timmy-time",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Timmy Time",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Timmy Time (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B24X",
+      "size": 8388608,
+      "crc32": "460f70c8",
+      "md5": "4b4c477b6f204fd0f53f0d585575b0da",
+      "sha1": "7bd63d242ead32d13c69bf641321a032a353bea6"
+    },
+    {
+      "name": "Timmy Time (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B24P",
+      "size": 8388608,
+      "crc32": "4d38db0c",
+      "md5": "0d1249cb5ffe19f8d42b6b2305ea5d63",
+      "sha1": "538d6e0c4f68fed422c6894d9d0122f6f9b40bac",
+      "sha256": "bfff626693098cce4728110c187a62b3b161a5525c0262085327284218989574"
+    }
+  ],
+  "external_ids": {
+    "igdb": 113890
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Timmy%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Timmy%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Timmy%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Timmy%20Time%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

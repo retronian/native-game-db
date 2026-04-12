@@ -1,0 +1,112 @@
+{
+  "id": "pc-denjin-punkic-cyborgs",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PC Denjin - Punkic Cyborgs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "PC電人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "PC原人シリーズ PC電人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PC Denjin - Punkic Cyborgs (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "740491c2",
+      "md5": "7320bc8fb2a9417ee63cf77ada108753",
+      "sha1": "7713236070c2d5252faa651b6a8b7726cadb9bf4",
+      "sha256": "e53d2b0a95b0196a7077ab40357106dcbcb4cc723e7b5f9511edfb6c9a040fb2"
+    },
+    {
+      "name": "PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "51982ce2",
+      "md5": "c32cea0d8b1ca79840c12081d1c7e91f",
+      "sha1": "07330c550ce132c43fb9535aae81e8aac482da4f",
+      "sha256": "3d268d585e3af8fa510794eb37f7b70850cfb6e32bea0fc9be0eb29734e20714"
+    },
+    {
+      "name": "PC Denjin - Punkic Cyborgs (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4f8299c8",
+      "md5": "9b7ddd6395c9cea9d8a6da32f2a36b7a",
+      "sha1": "eb2a75daab0c22a397d448c2daa8a52aac3fb612",
+      "sha256": "a38130bf191d7b3776d6baa9a466e9ae3382f3d683ac519c8d2d40b9504894d9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "サイバーパンク風の未来を舞台にした横スクロールシューティングゲームです。エア「ゾンク」は人気のボンクの冒険シリーズのスピンオフです。パワーアップしたゾンクは仲間を集めてチーム・クールを結成し、キング・ドロールの世界征服計画を阻止するために出発します。3つの難易度と3種類のフレンドモードから選択できます。キング・ドロールのサイボーグロボットを撃ち、彼らの攻撃を避けながらエアボーンを集めて様々な攻撃を繰り出しましょう。友達と合体して無敵のハイブリッド形態を作ったり、チャージ攻撃で敵を吹き飛ばしたりするユニークな動きを楽しんでください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/PC%20Denjin%20-%20Punkic%20Cyborgs%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

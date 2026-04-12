@@ -1,0 +1,52 @@
+{
+  "id": "deal-or-no-deal",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Deal or No Deal",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Deal or No Deal (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZNE",
+      "size": 4194304,
+      "crc32": "b6c00edb",
+      "md5": "7618d824c146a521ecaad69d4b8443ea",
+      "sha1": "3691000350db3b36311439c5d9c9879ee756fea6",
+      "sha256": "325d8ed603759f5c5d566bb6d10b7f8493daef1b132c4144391367df75d719c6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248609
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Deal%20or%20No%20Deal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Deal%20or%20No%20Deal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Deal%20or%20No%20Deal%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

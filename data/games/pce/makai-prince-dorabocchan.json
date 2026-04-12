@@ -1,0 +1,65 @@
+{
+  "id": "makai-prince-dorabocchan",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Makai Prince Dorabocchan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔界プリンス どらぼっちゃん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Makai Prince Dorabocchan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "b101b333",
+      "md5": "31b5597ed22d3d143f98d394ee4593ad",
+      "sha1": "66cf002a82828596ed4dbd8a7b998526a624c7c5",
+      "sha256": "6617d1042e0178178b95d1fb07e9621c6b5eb1f2d65a3f647589aa926bef0da7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "魔界プリンス ドラボッチャン（「デーモンプ prince ドラボ」）は、PCエンジン用の2Dプラットフォーマーです。プレイヤーは、主人を救出し、王国に侵入した悪魔たちを倒すための冒険に出る主人公を操作します。\n\n彼自身の魔法の力に加えて、能力を向上させる鎧を見つけたり、ダブルジャンプを可能にする一時的なパワーアップや、敵をスタンさせる注射器の武器、敵に飛び乗って倒すことができるクリートを見つけることで、彼は強化されます。また、鈴のついたコウモリを見つけると、彼はたくましいモアイの守護者を呼び出すことができ、彼らの石の体を使って橋を作り、ドラボが前に進んだり秘密のエリアを見つけたりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Makai%20Prince%20Dorabocchan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Makai%20Prince%20Dorabocchan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Makai%20Prince%20Dorabocchan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

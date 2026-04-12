@@ -1,0 +1,43 @@
+{
+  "id": "kaigo-navi-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaigo Navi DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaigo Navi DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "TK5J",
+      "size": 8388608,
+      "crc32": "2b474bc4",
+      "md5": "82018918a2439fd6b8778bc722f14c68",
+      "sha1": "c36ce75f6bf719516abdd34f2ea13f6d80da3be6",
+      "sha256": "bc97c5e0d90470fb65083947cae67e0b0324c36bcf413fdfc2067317e413120c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kaigo%20Navi%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kaigo%20Navi%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

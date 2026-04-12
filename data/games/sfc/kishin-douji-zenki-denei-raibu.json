@@ -1,0 +1,69 @@
+{
+  "id": "kishin-douji-zenki-denei-raibu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kishin Douji Zenki - Denei Raibu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鬼神童子ZENKI 電影雷舞",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "鬼神童子Zenki ゼンキ 電影雷舞 でんえいライブ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kishin Douji Zenki - Denei Raibu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "068cc21b",
+      "md5": "fbbff1f9f8da69851f3c1d87013ebdb8",
+      "sha1": "9193f29c34dff2d7045120f9402dc21204cedc78",
+      "sha256": "4a613043405ea79c928ae4dedc2b8cbde559725a6a0b21fc872c49b9f1974028"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42538
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kishin%20Douji%20Zenki%20-%20Denei%20Raibu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kishin%20Douji%20Zenki%20-%20Denei%20Raibu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kishin%20Douji%20Zenki%20-%20Denei%20Raibu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

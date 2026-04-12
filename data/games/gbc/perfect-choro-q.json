@@ -1,0 +1,76 @@
+{
+  "id": "perfect-choro-q",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Perfect Choro Q",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チョロQ キュー パーフェクトチョロQ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パーフェクトチョロQ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Perfect Choro Q (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "afa1aac3",
+      "md5": "7dae13af3d7373116e7c7558bc402bef",
+      "sha1": "3c7024086f9bedc223c7d482c309336c250ed039"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63794
+  },
+  "descriptions": [
+    {
+      "text": "海や陸を旅しながらチョロQで町のイベントやレースに参加し、勝利を目指しましょう。レースで得た賞金を使って、タイヤやその他のパーツを購入し、チョロQをカスタマイズできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Perfect%20Choro%20Q%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Perfect%20Choro%20Q%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Perfect%20Choro%20Q%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

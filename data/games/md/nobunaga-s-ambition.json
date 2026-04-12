@@ -1,0 +1,77 @@
+{
+  "id": "nobunaga-s-ambition",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga's Ambition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "信長の野望･全国版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nobunaga no Yabou: Zenkoku-ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nobunaga's Ambition: National Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga's Ambition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-76076-00",
+      "size": 524288,
+      "crc32": "b9bc07bc",
+      "md5": "ce78da1bf01f315899deb913beba757a",
+      "sha1": "394c6b46a9e9b9177a135fd8fd43392eb1099666",
+      "sha256": "6e04186ca19a5e1d686c61ece2260e15d83460f8c47528400afaace6ea050851"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4369
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Nobunaga%27s%20Ambition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

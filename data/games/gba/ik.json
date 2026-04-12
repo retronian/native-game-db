@@ -1,0 +1,76 @@
+{
+  "id": "ik",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "IK+",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "IK+ (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A3KE",
+      "size": 4194304,
+      "crc32": "31c4f03b",
+      "md5": "cce22f4507ceab482392247b74a8b55a",
+      "sha1": "99075504699400430e9817feb4192a6e153fbc9a"
+    },
+    {
+      "name": "IK+ (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A3KP",
+      "size": 4194304,
+      "crc32": "1052a0ea",
+      "md5": "f87c40e2be0e80ddb2c044df9fb97069",
+      "sha1": "844395914641af431c58bbe82ab2513c5f8a60ce"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/IK%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/IK%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/IK%2B%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/IK%2B%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/IK%2B%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/IK%2B%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

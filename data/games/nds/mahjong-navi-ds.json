@@ -1,0 +1,42 @@
+{
+  "id": "mahjong-navi-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Navi DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Navi DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YJ7J",
+      "size": 16777216,
+      "crc32": "3a18afbc",
+      "md5": "b1310143438b48c1e9165c6fb5a417e8",
+      "sha1": "39e96ac910c1502b8b9c23cfb1f403a56917c6a7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mahjong%20Navi%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mahjong%20Navi%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

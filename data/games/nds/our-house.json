@@ -1,0 +1,42 @@
+{
+  "id": "our-house",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Our House",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Our House (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CYHE",
+      "size": 67108864,
+      "crc32": "80ce6de9",
+      "md5": "38224990a58a6195e3dfa8d83fe38577",
+      "sha1": "584f15ec63dece6fc30e6c4b494f372cda6ee865"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Our%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Our%20House%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

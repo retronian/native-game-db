@@ -1,0 +1,69 @@
+{
+  "id": "bit-generations-soundvoyager",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "bit Generations - Soundvoyager",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "bit Generations　Soundvoyager",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "bit Generations - Soundvoyager (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BVGJ",
+      "size": 16777216,
+      "crc32": "b32e0839",
+      "md5": "6632f33046615d90a891259d0b2678f9",
+      "sha1": "b376c61897f810685dbdd55833503a7ea74a235e",
+      "sha256": "5da5e7f49703d489de0bf0158de4c9df009225be7a952b738e1e2f9f7ddea679"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49482
+  },
+  "descriptions": [
+    {
+      "text": "ビットジェネレーションズ: サウンドボイジャーは、2006年7月にリリースされたゲームボーイアドバンス用のビデオゲームです。開発はスキップ株式会社、出版は任天堂が担当しました。残念ながら、このゲームは日本国外ではリリースされませんでした。このゲームは、ゲームボーイアドバンスのスピーカーから発せられる音を聴くことが目的であり、画面を見ずにプレイすることができます。ただし、スピーカーからの音を聴くのはかなりの挑戦であり、ヘッドフォンを使ったり、GBAをステレオに接続する方がずっと簡単です。また、静かな場所にいることも非常に役立ちます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2006-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/bit%20Generations%20-%20Soundvoyager%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/bit%20Generations%20-%20Soundvoyager%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/bit%20Generations%20-%20Soundvoyager%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

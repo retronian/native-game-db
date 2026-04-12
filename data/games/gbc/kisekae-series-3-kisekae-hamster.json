@@ -1,0 +1,69 @@
+{
+  "id": "kisekae-series-3-kisekae-hamster",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kisekae Series 3 - Kisekae Hamster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "きせかえハムスター きせかえシリーズ③",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kisekae Series 3 - Kisekae Hamster (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKHJ",
+      "size": 2097152,
+      "crc32": "a29d862f",
+      "md5": "6736e0dc64fa3584ed48b1a9d845abcb",
+      "sha1": "76c0f2e1559ffec3c77043a6df08b6e7240854e2",
+      "sha256": "acd7c88b7e7ae600712278508cc01edaaeac753c2e38f47cf03d3e67557c27e3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281697
+  },
+  "descriptions": [
+    {
+      "text": "ハムスターの服を集めて、帽子やアクセサリーなどで着せ替えを楽しもう。また、学生生活の3年間をテーマにしたボードゲームをプレイしたり、キャラクターの運勢を占ったりすることもできるよ。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kisekae%20Series%203%20-%20Kisekae%20Hamster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kisekae%20Series%203%20-%20Kisekae%20Hamster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kisekae%20Series%203%20-%20Kisekae%20Hamster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

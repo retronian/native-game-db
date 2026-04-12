@@ -1,0 +1,65 @@
+{
+  "id": "solomon-no-kagi-2-coolmintou-kyuushutsu-sakusen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソロモンの鍵2 クールミン島救出作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "95e80f71",
+      "md5": "812940e682be87ab0346b14bd052d535",
+      "sha1": "69208654186a435f9961dacb97a4b47c74eaf116",
+      "sha256": "7678dd8bcd81b48942a6c908194d3de7ebf1201ecc12496af0d9879e142db137"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "平和な島クールミンは、邪悪な魔法使いドルイドによって送り込まれた炎のモンスターに襲われています。冬の妖精たちの女王は、初心者の魔法使いダナを選び、モンスターを撃退するよう命じます。『ファイアー・アンド・アイス』は、ブロックを押したり落としたりしてすべての炎を消すことを目的としたパズルゲームです。氷のブロックを作成したり破壊したり、ブロックを登ったり、動いているブロックを押したりすることができます。氷は向いている方向に対角線上に作成され、すでに氷のブロックがある場合は破壊されます。ただし、炎がある場所には氷のブロックを作成できないため、炎の隣や上に氷のブロックを作る方法を見つけて、それを押したり落としたりする必要があります。氷のブロックが他の物体や壁の隣に作成されると、それにくっついて動かせなくなり、落ちることもありません。したがって、氷の橋を作って深い谷を越えることも可能です。動いている氷のブロックを押すと、他の物体にぶつかるまで地面の上を滑ります。岩も使用できますが、壊れず、押すと1マスだけ動きます（氷の上では除く）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%20no%20Kagi%202%20-%20Coolmintou%20Kyuushutsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%20no%20Kagi%202%20-%20Coolmintou%20Kyuushutsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%20no%20Kagi%202%20-%20Coolmintou%20Kyuushutsu%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

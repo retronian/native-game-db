@@ -1,0 +1,103 @@
+{
+  "id": "tsuukin-hitofude",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsuukin Hitofude",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "通勤ヒトフデ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsuukin Hitofude (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BIIJ",
+      "size": 4194304,
+      "crc32": "5a7e762b",
+      "md5": "68c38c871cb58802077d3ac695113f15",
+      "sha1": "18dfee7e1ed1e53c70f3686276524a0723eec741"
+    },
+    {
+      "name": "Tsuukin Hitofude (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BIIJ",
+      "size": 4194304,
+      "crc32": "f4c7a95b",
+      "md5": "e38706415aeef12402ea38b8f1f8e0e0",
+      "sha1": "906dbf246cb40954fc27942763048bc09783b1f8"
+    },
+    {
+      "name": "Tsuukin Hitofude (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9542e247",
+      "md5": "8fb4f7b39bd8f82661ede4a32773de65",
+      "sha1": "24b4be7f296fce5eae93d969eb02831951f00b7b",
+      "sha256": "a1f9b0e06afa5734e78886992a1ccffaa3c9a82e76c13427b5e5277246da1b03"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "一筆でラインを消そう！同じ色の横列を作ってボードをクリアします。全365のパズルがあり、さまざまなモードや特別なタイトルがあなたの頭を挑戦させます。ルールに慣れて、いくつかのレベルで練習したり、時間との勝負を楽しんだり、自分だけのパズルを作成してみましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-10-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tsuukin%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tsuukin%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tsuukin%20Hitofude%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tsuukin%20Hitofude%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tsuukin%20Hitofude%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tsuukin%20Hitofude%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

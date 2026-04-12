@@ -1,0 +1,65 @@
+{
+  "id": "solomon-no-kagi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solomon no Kagi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソロモンの鍵",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solomon no Kagi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "2fe9e2ca",
+      "md5": "b6c457da0959a2c8d2abea0a6999a2bd",
+      "sha1": "1a1e09cbc2bfbf499b11741415a751bdfddaaebd",
+      "sha256": "a8d1aad834b855a772c69ae061886d3958d3323567c931d53bc8810509c1e685"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ソロモンの鍵」は、アクションと戦略要素を兼ね備えたプラットフォームゲームです。各レベルでの目標は、出口を開けるために使用できる鍵を取り戻すことです。あなたには魔法の杖があり、ブロックを作成したり破壊したりすることができます（ただし、破壊できないブロックもあります）。鍵に到達するためには、画面上のブロックを慎重に配置し、安全にジャンプして移動する必要があります。各レベルにはさまざまな敵が徘徊しており、捕まるとライフを失ってしまいます。あるクリーチャーは立っているブロックを破壊することで倒すことができますが、他のクリーチャーは避けなければなりません。多くのレベルには隠れたボーナスや魔法があり、時にはブロックの中に隠されていることもあります。いくつかの宝物はボーナスポイントを与え、他のものは敵に対処するための魔法の呪文を形成することができます。ゲームをより難しくするために、各レベルにはクリアするための制限時間があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solomon%20no%20Kagi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solomon%20no%20Kagi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solomon%20no%20Kagi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

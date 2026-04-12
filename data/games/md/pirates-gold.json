@@ -1,0 +1,74 @@
+{
+  "id": "pirates-gold",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pirates! Gold",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pirates! Gold (USA) (Beta 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "f61e5417",
+      "md5": "e726ec63cab7c90ceb9c5b0ebe3188ff",
+      "sha1": "83cb678b447ea277e78225fa20e239b74df62214",
+      "sha256": "bfe76a955273545347225ac3abf1b145d8e43b63992f9bc9e94f8653570796c3"
+    },
+    {
+      "name": "Pirates! Gold (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-104026-02",
+      "size": 1048576,
+      "crc32": "ed50e75c",
+      "md5": "8689ffd6edad02bad1f74fe19fe25c9d",
+      "sha1": "ea597dbefc8f804524606af3c1c4fe6ba55e86e9",
+      "sha256": "3c92fa1cd7d8ad869122f8729d7f3d1da9557975b4b6b81dffd6085916a20e33"
+    },
+    {
+      "name": "Pirates! Gold (USA) (Beta 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "0a525641",
+      "md5": "1fd127cb613c41b4f919a60931992faf",
+      "sha1": "6449aea7af69e6b91c91b654c9ea952a72f0dd7c",
+      "sha256": "0a20cd94d940f8e9f9bcfe49e7723b5ab53226bf90dc214b9399ba5978dc2c17"
+    }
+  ],
+  "external_ids": {
+    "igdb": 9232
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pirates%21%20Gold%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pirates%21%20Gold%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pirates%21%20Gold%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

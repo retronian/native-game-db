@@ -1,0 +1,60 @@
+{
+  "id": "kiss-x-kiss-seirei-gakuen",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kiss x Kiss - Seirei Gakuen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Kiss x Kiss 星鈴学園",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kiss x Kiss - Seirei Gakuen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B2KJ",
+      "size": 4194304,
+      "crc32": "0c368530",
+      "md5": "ae1ab2aeeda397fb25536a6851f43fe1",
+      "sha1": "abbbe9355759d94e98210e91a67585d0af8cfc8f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49640
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kiss%20x%20Kiss%20-%20Seirei%20Gakuen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kiss%20x%20Kiss%20-%20Seirei%20Gakuen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kiss%20x%20Kiss%20-%20Seirei%20Gakuen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

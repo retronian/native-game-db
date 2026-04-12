@@ -1,0 +1,72 @@
+{
+  "id": "out-of-this-world",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Out of This World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Another World",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Out of This World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70106-00",
+      "size": 1048576,
+      "crc32": "2da36e01",
+      "md5": "74ca1efe444d9c0739fffb68334fff46",
+      "sha1": "f00f96fb1b346d5b13c6bc8bc586477fed743800",
+      "sha256": "680c5b7de695a7b525fecb76ed93ec76d3520c88f81111bacbc82a71687b36f9"
+    },
+    {
+      "name": "Out of This World (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "4ffdf6b6",
+      "md5": "965cc4cf2f9a0fa0c061249e3b852aeb",
+      "sha1": "3e87d8e8f0c94ee6c3b3504d9083d4ba305bb5bd",
+      "sha256": "a037cca9ebff75f676a0feb544e4026a6354aa5f83411245bb8734ee02aa7c65"
+    }
+  ],
+  "external_ids": {
+    "igdb": 343451
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Out%20of%20This%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Out%20of%20This%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Out%20of%20This%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

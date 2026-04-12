@@ -1,0 +1,69 @@
+{
+  "id": "happy-my-sweets",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Happy My Sweets",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "프린세스 베이커리",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "ハッピーマイスイーツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Happy My Sweets (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C4WJ",
+      "size": 33554432,
+      "crc32": "530ec358",
+      "md5": "c454be53df7e9f61d66200df17212ea5",
+      "sha1": "908f19c3b53450c6a413e2f4ed015492a60ef5fc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 70675
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Happy%20My%20Sweets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Happy%20My%20Sweets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Happy%20My%20Sweets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "adam-and-eve",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Adam & Eve",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 204500
+  },
+  "first_release_date": "1992-12-31",
+  "roms": [
+    {
+      "name": "Adam & Eve (Spain) (En) (Unl)",
+      "source": "no_intro",
+      "size": 49168,
+      "crc32": "9ee3f692",
+      "md5": "b5c93bf857da3a62281d694892522391",
+      "sha1": "54a6402f00f241bf7992753c893e935b16d69d82",
+      "sha256": "0a429201e3410c5022d0f3477bca636743a6b62873796ea10ce83e41d60f3dea"
+    },
+    {
+      "name": "Adam & Eve (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 49168,
+      "crc32": "9e2d9a66",
+      "md5": "bde4b83d97b239c50aa7ebaafbfcacf9",
+      "sha1": "0adce99f6ce3655e6d0b4eb12852a4d737bd5bb1",
+      "sha256": "c4c57beb7b3979588b9b00cf14773afc66e49aaf28a62b58c4f2cbec33988eeb"
+    }
+  ]
+}

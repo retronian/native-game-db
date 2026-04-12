@@ -1,0 +1,43 @@
+{
+  "id": "music-music-for-everyone",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Music - Music for Everyone",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Music - Music for Everyone (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YONP",
+      "size": 67108864,
+      "crc32": "05eac726",
+      "md5": "43ce9afa6042c7531faf2b9cf12bb448",
+      "sha1": "b84776fc42fa3983763aaa3fd3fad746d0b608a8",
+      "sha256": "00c604bfe175c9eeed3b2b7719b5092fab00255efe28188e8d504c07a89d7a6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Music%20-%20Music%20for%20Everyone%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Music%20-%20Music%20for%20Everyone%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

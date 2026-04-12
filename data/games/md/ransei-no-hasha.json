@@ -1,0 +1,69 @@
+{
+  "id": "ransei-no-hasha",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ransei no Hasha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "乱世の覇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ransei no Hasha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-20053-00",
+      "size": 1048576,
+      "crc32": "a9a0083d",
+      "md5": "c7b87805a851acb069ae2fbf7fe1a504",
+      "sha1": "7c431e26226b99d09d61c4dc64131b2d81ae870e",
+      "sha256": "be22be1850f0e5d470d25789d2430f137ff6ed49559ce10fd5a6e61bffe060ba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46069
+  },
+  "descriptions": [
+    {
+      "text": "「乱世の覇者」は、1991年にSystemSoftがNEC PC-98用に開発した戦略ゲームで、彼らの「天下統一」シリーズの第二作目です。シリーズの第一作は1989年にリリースされました。アスミックは1991年にセガメガドライブ向けに移植しましたが、いずれのバージョンも日本を出ることはありませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ransei%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ransei%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ransei%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

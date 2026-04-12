@@ -1,0 +1,66 @@
+{
+  "id": "aero-blasters",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aero Blasters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エアロブラスターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aero Blasters (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-33013-00",
+      "size": 524288,
+      "crc32": "a00da987",
+      "md5": "401a31b3db4f14820e639c7a3efbb3e6",
+      "sha1": "64d1964c3b6293f521427d3d83e4defe363cc129",
+      "sha256": "97d6241f014ff726e25c0a54d25b655faab6ca5b5e93ff328f5b40ef54576e39"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12491
+  },
+  "descriptions": [
+    {
+      "text": "エアロブラスターズは、スピーディな横スクロールシューティングゲームです。プレイヤーは、小さな宇宙船を操作し、さまざまなレベルを進んでいきます。各レベルの最後にはボスが待ち受けており、一部のセクションではゲームプレイが加速し、横方向や縦方向にスクロールする速い障害物コースが提供されます。飛んでいるオレンジのポッドは、一度に多くのパワーアップを放出し、宇宙船を新しいまたはより強力なレーザー、ウィングマン、シールドで強化します。プレイヤーは、攻撃ボタンを押し続けることで、画面上のすべての敵弾を消し去り、全ての敵にダメージを与えるブラストをチャージすることもできます。容赦ない難易度で、どのヒットも致命的ですが、残 lives とクレジットがあれば、ゲームは任意のポイントから続けることができます。ゲームは2人で協力プレイすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Aero%20Blasters%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Aero%20Blasters%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Aero%20Blasters%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

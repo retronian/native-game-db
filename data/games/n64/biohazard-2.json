@@ -1,0 +1,58 @@
+{
+  "id": "biohazard-2",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Biohazard 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バイオハザード2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Biohazard 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NB5J",
+      "size": 67108864,
+      "crc32": "4f9d569f",
+      "md5": "f77d70959222276491222f31ebff3bf1",
+      "sha1": "7492139f237c547ef32955c7cc6b9a5e6dcaa55d",
+      "sha256": "f64a3c4a3873cf145e577ee710366fd638bb8d03f6f01549f81e04df738fd425"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

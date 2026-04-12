@@ -1,0 +1,66 @@
+{
+  "id": "sydney-2000",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sydney 2000",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 8333
+  },
+  "first_release_date": "2000-07-31",
+  "roms": [
+    {
+      "name": "Sydney 2000 (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 33554432,
+      "crc32": "db7b31b9",
+      "md5": "fc32007ba03ff2510020e979c7bdad4f",
+      "sha1": "ecc18f53e0ca563b3d5fa6876768ef2f94d35e36"
+    },
+    {
+      "name": "Sydney 2000 (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 33554432,
+      "crc32": "5b6673aa",
+      "md5": "2eea8d20bef26f88a5e82fdd39f87e75",
+      "sha1": "711c79790a713e65cc2ecb4857f35898b8e92985"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Sydney%202000%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Sydney%202000%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Sydney%202000%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Sydney%202000%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

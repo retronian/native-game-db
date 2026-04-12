@@ -1,0 +1,69 @@
+{
+  "id": "hamster-paradise-4",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Paradise 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスターパラダイス4",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Paradise 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BCUJ",
+      "size": 4194304,
+      "crc32": "c460dc88",
+      "md5": "1c1f455209d6400eb3c7c091f6608723",
+      "sha1": "177cb46c44346eabbeb06f5d7929c77afc798db9",
+      "sha256": "c9a2edd8f37c7d56993019e32daf115f7b610057c12f7e1b623cf6b0da179b1b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281547
+  },
+  "descriptions": [
+    {
+      "text": "ハムスターパラダイスシリーズがさらに可愛くなりました！\n育てられるハムスターの種類が8種類に増えました：ゴールデン、ジャンガリアン、ロボロフスキー、ブルーサファイア、ホワイト、ブラック、パンダ、そしてプリン！\nさらに、2匹のハムスターを同時に飼うことができるようになりました。\n餌を与えると、2匹のハムスターが共有して食べる可愛い仕草を見ることができます。\n自分のハムスターを結婚させたり、通信機能を使って友達のハムスターと遊んだりすることができます。\nミニゲームの内容がリニューアルされ、新しい散歩場所が追加され、16種類の新しいハムスターを発見することができ、発見したハムスターに「メゾン・ド・ハムスター」で出会うことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Paradise%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Paradise%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Paradise%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

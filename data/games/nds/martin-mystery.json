@@ -1,0 +1,58 @@
+{
+  "id": "martin-mystery",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Martin Mystery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Martin Mystery (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CTYP",
+      "size": 16777216,
+      "crc32": "0d510c3f",
+      "md5": "01ef2b5922fff57838a9caeee380df95",
+      "sha1": "f092c7670dc40810a235c10d39ccbc304b3814af"
+    },
+    {
+      "name": "Martin Mystery (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CTYP",
+      "size": 16777216,
+      "crc32": "9dd92c48",
+      "md5": "7b52fc418f6ee2f10549249a74d7b12d",
+      "sha1": "8e7389bcc3d20178362405708f376a0ff54bf7f0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Martin%20Mystery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Martin%20Mystery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Martin%20Mystery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

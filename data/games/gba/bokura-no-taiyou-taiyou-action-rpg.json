@@ -1,0 +1,65 @@
+{
+  "id": "bokura-no-taiyou-taiyou-action-rpg",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bokura no Taiyou - Taiyou Action RPG",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボクらの太陽 〜太陽アクションRPG〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "U3IJ",
+      "size": 16777216,
+      "crc32": "a09c0807",
+      "md5": "9f1c1202ed1d856c5836cee6818a171e",
+      "sha1": "c51ad84e9403db94cd18a14ac72f8367b52a0d7f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボクらの太陽 〜太陽アクションRPG〜は、日光をゲームプレイに影響を与えるために使用する初めてのゲームボーイアドバンス用ゲームです。ゲームでは、若き吸血鬼ハンターのジャンゴが悪を世界から排除するための冒険を追いかけます。ジャンゴとして、あなたは罠を乗り越え、敵を倒し、ダンジョンの最深部を戦い抜かなければなりません。日光の量に注意してください。ジャンゴは昼間に強く、吸血鬼は夜間に強くなります。このゲームには、カートリッジに搭載されたソーラーセンサーとリアルタイムクロックシステムが特徴です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-07-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bokura%20no%20Taiyou%20-%20Taiyou%20Action%20RPG%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bokura%20no%20Taiyou%20-%20Taiyou%20Action%20RPG%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bokura%20no%20Taiyou%20-%20Taiyou%20Action%20RPG%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

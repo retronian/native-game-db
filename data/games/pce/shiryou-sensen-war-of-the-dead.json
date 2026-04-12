@@ -1,0 +1,60 @@
+{
+  "id": "shiryou-sensen-war-of-the-dead",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shiryou Sensen - War of the Dead",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "死霊戦線",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shiryou Sensen - War of the Dead (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "469a0fdf",
+      "md5": "cfd7fc43a9664979685b8e4358e4555f",
+      "sha1": "8e2510d9930d0e7d0a13bcc9d5ded32f6eed8617",
+      "sha256": "46745be3c3d9226b79b1ae7f219d3a02f08596ca1a249304dd5d7583b73651d4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42041
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Shiryou%20Sensen%20-%20War%20of%20the%20Dead%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Shiryou%20Sensen%20-%20War%20of%20the%20Dead%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Shiryou%20Sensen%20-%20War%20of%20the%20Dead%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

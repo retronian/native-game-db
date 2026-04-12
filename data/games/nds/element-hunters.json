@@ -1,0 +1,62 @@
+{
+  "id": "element-hunters",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Element Hunters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Element Hunters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BELJ",
+      "size": 33554432,
+      "crc32": "3c83e73b",
+      "md5": "698165481c34f41ede97fa9ffb37c92d",
+      "sha1": "6a259aa20f986bea90776ba20dc4118e999ca920"
+    },
+    {
+      "name": "Element Hunters (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "BELK",
+      "size": 33554432,
+      "crc32": "01cb6327",
+      "md5": "f335d08647e48b3adaee9b645be73afa",
+      "sha1": "858de2f82a8a32811cc3d16fb2e846d6e5343c27",
+      "sha256": "e85491275bcb3b9c1654d310a8b97eb598fb668f6633e3e2c12dd8bdfdc30bdd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67640
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Element%20Hunters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Element%20Hunters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Element%20Hunters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

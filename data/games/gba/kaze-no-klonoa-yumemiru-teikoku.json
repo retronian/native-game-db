@@ -1,0 +1,66 @@
+{
+  "id": "kaze-no-klonoa-yumemiru-teikoku",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaze no Klonoa - Yumemiru Teikoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "風のクロノア 〜夢見る帝国〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaze no Klonoa - Yumemiru Teikoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKLJ",
+      "size": 4194304,
+      "crc32": "b51d97de",
+      "md5": "dd311f91e8792544af395c9e3690a478",
+      "sha1": "f46410ec245dbb6fa90285c6d4071c09cc983b05",
+      "sha256": "2e2b76d397e98ec7364833f4bb34ce288c4c0451c6c24ed8bc1b618c8abb0831"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "不機嫌な皇帝が不眠症に悩まされ、夢を見ることを禁じ、法律を破ったクロノアを囚えました。勇気を証明し自由を勝ち取るために、クロノアは帝国中で混乱を引き起こしているモンスターたちを倒さなければなりません。私たちのヒーローを最も危険な旅へと導き、新たなスリルを体験しましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kaze%20no%20Klonoa%20-%20Yumemiru%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kaze%20no%20Klonoa%20-%20Yumemiru%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kaze%20no%20Klonoa%20-%20Yumemiru%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

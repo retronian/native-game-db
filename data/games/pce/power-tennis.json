@@ -1,0 +1,68 @@
+{
+  "id": "power-tennis",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーテニス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Tennis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8def5aa1",
+      "md5": "c40760fa44a7bbe3438c0547541db20d",
+      "sha1": "eef562022a9399586dd4278d7877e408c19b47dd",
+      "sha256": "4158ea392e84d639821a40d213decf5ba42cec82ecca53a6f4b37b6ed0b06e5a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43198
+  },
+  "descriptions": [
+    {
+      "text": "このテニスゲームでは、シングルス、ダブルス、ワールドツアーのモードがあります。26人のプレイヤーから選ぶことができ、そのうち半分のプレイヤーが利用可能です。各プレイヤーにはそれぞれ特有の専門技術があります：サーブ・ボレー、ショートハンドゲーム、左利きです。利用できるコートの種類は、ハード、グラス、クレーの3つです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

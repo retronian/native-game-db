@@ -1,0 +1,53 @@
+{
+  "id": "tinhead",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tinhead",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tinhead (World) (Piko Interactive)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "bfd26228",
+      "md5": "44d4b21f9bb5f77e31eaa489e02a157c",
+      "sha1": "90bc3a78bf2569ddbc1efbc612e8915e5b28df04",
+      "sha256": "07dc47e475219cad193814fd887766060183a247c9d4af529d383188c117f7ee"
+    },
+    {
+      "name": "Tinhead (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1e079ac0",
+      "md5": "15bf8dd13e3d155739f8103b8934cc80",
+      "sha1": "0f5b3db4919f49d905f539f6128b03ccebab20cf",
+      "sha256": "5b8a7309910ae040b6301bdc0ad09fa1991b2b7210a6b76931cd91ce0c82c424"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46593
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tinhead%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tinhead%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

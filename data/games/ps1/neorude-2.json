@@ -1,0 +1,59 @@
+{
+  "id": "neorude-2",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Neorude 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネオリュード２",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Neorude 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 439040128,
+      "crc32": "ea4a9ea5",
+      "md5": "97637e54ff27b964ed0726a58842c7b7",
+      "sha1": "c650964d1e7d6d3ee825fd96e3ca7f1841fc4d35"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206308
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Neorude%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Neorude%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Neorude%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

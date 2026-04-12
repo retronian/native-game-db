@@ -1,0 +1,70 @@
+{
+  "id": "heracles-no-eikou-toujin-makyou-den",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Heracles no Eikou - Toujin Makyou Den",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "闘人魔境伝 ヘラクレスの栄光",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ヘラクレスの栄光 闘人魔境伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Heracles no Eikou - Toujin Makyou Den (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "15985f55",
+      "md5": "0c66d59c5c4e00ca5a99fbe30627ecee",
+      "sha1": "238424f16f8654ba560eff6eaf3e0a9ec49a3265",
+      "sha256": "c53763cecc83b10f224525fc5122ac62e40c29f4a3e473597b9e50b0c1710a52"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48475
+  },
+  "first_release_date": "1987-06-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Heracles%20no%20Eikou%20-%20Toujin%20Makyou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Heracles%20no%20Eikou%20-%20Toujin%20Makyou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Heracles%20no%20Eikou%20-%20Toujin%20Makyou%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

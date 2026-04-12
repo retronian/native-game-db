@@ -1,0 +1,75 @@
+{
+  "id": "grandslam-the-tennis-tournament-92",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GrandSlam - The Tennis Tournament '92",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グランドスラム ザ・テニストーナメント'92",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "グランドスラム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GrandSlam - The Tennis Tournament '92 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49133-00",
+      "size": 524288,
+      "crc32": "30cf37d0",
+      "md5": "e2a0c5f54432464d7179304c0d5901dc",
+      "sha1": "f51c4332235a9545b86a7b121ba30644c33be098",
+      "sha256": "6af6a966c221944449470ac9bf430066aba53d976a8959fde9a3a0df50610d17"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、エキシビション、サーキット、トレーニングのゲームモードを特徴としたテニスゲームです。エキシビションモードでは、シングルスまたはダブルスでプレイできます。サーキットモードでは、プレイヤーがシドニーオープン、パリオープン、ロンドンオープン、フロリダオープンの4つの主要トーナメントで勝利を目指して競います。プレイヤーは、自分のテニス選手を人種、性別、テニスウェアの色を選んでカスタマイズすることもできます。また、テニス選手が右利きか左利きか、スピンのタイプ、フォアハンド、バックハンドを選ぶこともできます。さらに、パワーフォアハンド、バックハンド、フットワーク、ネットプレーなどのスキルにポイントを分配することも可能です。ゲームでは、芝、生地、クレーのいずれかのサーフェスでプレイするオプションも提供されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/GrandSlam%20-%20The%20Tennis%20Tournament%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/GrandSlam%20-%20The%20Tennis%20Tournament%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/GrandSlam%20-%20The%20Tennis%20Tournament%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

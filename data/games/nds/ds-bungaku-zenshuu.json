@@ -1,0 +1,69 @@
+{
+  "id": "ds-bungaku-zenshuu",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DS Bungaku Zenshuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "DS文学全集",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "DS文学全集",
+      "lang": "en",
+      "script": "Jpan",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "DS Bungaku Zenshuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YBNJ",
+      "size": 33554432,
+      "crc32": "ffb861ef",
+      "md5": "2dbfbd9960273f55111aaea5e136b7b1",
+      "sha1": "b0624aba23b2c3cea802774b571e3dd8833825ef",
+      "sha256": "0b77f18bb7bf0e4ad297ade78a59feb79fe9a10ee2e6771a924607d0cc3b3704"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287372
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/DS%20Bungaku%20Zenshuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/DS%20Bungaku%20Zenshuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/DS%20Bungaku%20Zenshuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

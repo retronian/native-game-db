@@ -1,0 +1,60 @@
+{
+  "id": "dreamer-series-shop-owner",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dreamer Series - Shop Owner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Let's Play Shops",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dreamer Series - Shop Owner (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CXSE",
+      "size": 16777216,
+      "crc32": "eec77f4e",
+      "md5": "45677bb883d344f6980072b370746c0c",
+      "sha1": "072d9858e22471f7d192eb00b9b60bd682fdd240"
+    }
+  ],
+  "external_ids": {
+    "igdb": 70549
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dreamer%20Series%20-%20Shop%20Owner%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dreamer%20Series%20-%20Shop%20Owner%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dreamer%20Series%20-%20Shop%20Owner%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

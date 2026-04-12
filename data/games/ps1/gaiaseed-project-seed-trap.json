@@ -1,0 +1,59 @@
+{
+  "id": "gaiaseed-project-seed-trap",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GaiaSeed - Project Seed Trap",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガイアシード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GaiaSeed - Project Seed Trap (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 66720144,
+      "crc32": "b3c28921",
+      "md5": "b5121b4e89270bd371312e95a39f5f4b",
+      "sha1": "8ebc84067521f59fdf2648517a42a6f77e9030d6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43758
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/GaiaSeed%20-%20Project%20Seed%20Trap%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/GaiaSeed%20-%20Project%20Seed%20Trap%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/GaiaSeed%20-%20Project%20Seed%20Trap%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

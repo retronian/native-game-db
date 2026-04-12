@@ -1,0 +1,59 @@
+{
+  "id": "ds-rakubiki-jiten",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DS Rakubiki Jiten",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "DS Rakubiki Jiten (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ADJJ",
+      "size": 67108864,
+      "crc32": "0a918f04",
+      "md5": "247568b265ebcabf2f2e2d050ad8f13c",
+      "sha1": "59cd992159bb6804302917f55bc9c061ac476646"
+    },
+    {
+      "name": "DS Rakubiki Jiten (Japan) (Demo) (Kiosk)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A42J",
+      "size": 67108864,
+      "crc32": "deecda67",
+      "md5": "29c16bbcd065b8f438fc2ed0757595da",
+      "sha1": "f92fcd0b60921b8a6ac29fededca9a3aed0f7e61",
+      "sha256": "b4840d44c10f407e6ba5fbb5fecd22ac47a5823c836daa879f267b3263b79746"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/DS%20Rakubiki%20Jiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/DS%20Rakubiki%20Jiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/DS%20Rakubiki%20Jiten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

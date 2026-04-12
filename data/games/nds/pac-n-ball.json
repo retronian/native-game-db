@@ -1,0 +1,47 @@
+{
+  "id": "pac-n-ball",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pac'n Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pac'n Ball (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "APNK",
+      "size": 33554432,
+      "crc32": "38e8cbc1",
+      "md5": "8f45af2e63c9154a78350aa1a8699912",
+      "sha1": "4df6be21b466607280870fd0f0642600d702374b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pac%27n%20Ball%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pac%27n%20Ball%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pac%27n%20Ball%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

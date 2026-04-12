@@ -1,0 +1,77 @@
+{
+  "id": "benkei-gaiden-suna-no-shou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Benkei Gaiden - Suna no Shou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "弁慶外伝 沙の章",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "弁慶外伝 砂の章",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Benkei Gaiden - Suna no Shou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "2743017d",
+      "md5": "5f579309272216100a6cff92de297479",
+      "sha1": "05a71b38a66f285564ec8447ff4877db74387860",
+      "sha256": "dd72d42b45895f1e235d9fff0c849e27d5d2a9ba80622841bee54b834f7f6c23"
+    }
+  ],
+  "external_ids": {
+    "igdb": 16140
+  },
+  "descriptions": [
+    {
+      "text": "弁慶外伝 沙の章は、モンスターや妖怪で満ちた古代日本のバージョンを舞台にした日本のRPGです。このゲームは、PCエンジンのゲーム「弁慶外伝」の続編または強化版ポートです。\n\nゲームは、ドラゴンクエストのような伝統的なトップダウンターン制RPGです。プレイヤーは男性または女性のアバターを選び、名前を付けることができ、ゲームが進むにつれて他のキャラクターを仲間にすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Benkei%20Gaiden%20-%20Suna%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Benkei%20Gaiden%20-%20Suna%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Benkei%20Gaiden%20-%20Suna%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

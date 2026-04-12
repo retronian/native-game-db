@@ -1,0 +1,50 @@
+{
+  "id": "test-drive-cycles",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Test Drive Cycles",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Test Drive Cycles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e32bb06f",
+      "md5": "4df8d03bb1853f949cf4a99dffd21362",
+      "sha1": "e9242949661fb34ce6d6fd521b04eb1926ead070"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49906
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Test%20Drive%20Cycles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Test%20Drive%20Cycles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Test%20Drive%20Cycles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

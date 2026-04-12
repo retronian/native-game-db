@@ -1,0 +1,76 @@
+{
+  "id": "street-fighter-alpha-3",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Street Fighter Alpha 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Street Fighter Alpha 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AZUP",
+      "size": 8388608,
+      "crc32": "93c5cf69",
+      "md5": "901d68257b8beda85240d55725529fe2",
+      "sha1": "335c216bec0ff27bccdadb4e97c623485ea5902a"
+    },
+    {
+      "name": "Street Fighter Alpha 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AZUE",
+      "size": 8388608,
+      "crc32": "80b707c2",
+      "md5": "91d5986bcb918e636f17e99eb73b923b",
+      "sha1": "7fd4258bcd2bf639e1ec98b7a7ec7218fcf5859e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Street%20Fighter%20Alpha%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Street%20Fighter%20Alpha%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Street%20Fighter%20Alpha%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Street%20Fighter%20Alpha%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

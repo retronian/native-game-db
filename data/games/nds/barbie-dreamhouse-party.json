@@ -1,0 +1,55 @@
+{
+  "id": "barbie-dreamhouse-party",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Barbie - Dreamhouse Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Barbie - Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TBAP",
+      "size": 16777216,
+      "crc32": "deec86e6",
+      "md5": "07b617c669a543a1e168f96b85632e1f",
+      "sha1": "306b0e1c76cc2b22ed920839172c4e67bbc4fb6b"
+    },
+    {
+      "name": "Barbie - Dreamhouse Party (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TBAE",
+      "size": 16777216,
+      "crc32": "515595e2",
+      "md5": "aa47dce09be0f4a09834a659eed16bb0",
+      "sha1": "d4b6f87369b62656ae0725702d75da181111a48b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 345296
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barbie%20-%20Dreamhouse%20Party%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Barbie%20-%20Dreamhouse%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

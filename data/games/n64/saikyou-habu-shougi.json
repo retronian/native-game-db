@@ -1,0 +1,57 @@
+{
+  "id": "saikyou-habu-shougi",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saikyou Habu Shougi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "最強 羽生将棋",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saikyou Habu Shougi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSHJ",
+      "size": 8388608,
+      "crc32": "01794d62",
+      "md5": "c4e47228706bc724d7fbd811231d20c9",
+      "sha1": "b7c977fcd8224595e84714c3fa84221374e1838e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Saikyou%20Habu%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Saikyou%20Habu%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Saikyou%20Habu%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

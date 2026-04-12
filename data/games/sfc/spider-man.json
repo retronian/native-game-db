@@ -1,0 +1,107 @@
+{
+  "id": "spider-man",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spider-Man",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spider-Man (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "02c52d37",
+      "md5": "83b92fbb05fc2418266365f891e8fb57",
+      "sha1": "560a2e7a288462e38aac59488fb8cbb88e3c46aa",
+      "sha256": "8eba68b61e8c2eeed050df43f349dd18e5907d5bb14e3c28c776eccdf7e53408"
+    },
+    {
+      "name": "Spider-Man (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "c99e174e",
+      "md5": "73199b27fe52caa56b12e42122df1fc8",
+      "sha1": "cbaf541f9a1b62e7151f0407a1a4c6266a5610f5",
+      "sha256": "f05d777e3de69aab18d336cac0af07f794f8d00090d085f86cebaed3679cabad"
+    },
+    {
+      "name": "Spider-Man (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "dc57fc0b",
+      "md5": "65c79622f1dab31859a905cf4550a1c7",
+      "sha1": "9c20d719d79d9556aa3cb67b2040cf0505d8bf8d",
+      "sha256": "cae022ac9793a8f03be52f113cc552ef0c757697be8a7c8a5e29c36f9c3db944"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4500
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Spider-Man%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Spider-Man%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spider-Man%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Spider-Man%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Spider-Man%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bust-a-move-2-arcade-edition",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bust-A-Move 2 - Arcade Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パズルボブル2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bust-A-Move 2 - Arcade Edition (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NBUP",
+      "size": 8388608,
+      "crc32": "04731bab",
+      "md5": "094f639a9ba63b2136d2887c8d72bca0",
+      "sha1": "f92a1b19c522ba6cf20a9d7883321e6e283da32f",
+      "sha256": "4536d1d05d0f8cfe84926d758e538ecbf5264debdea9dd87292141a2edbd32d0"
+    },
+    {
+      "name": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NBUE",
+      "size": 8388608,
+      "crc32": "9f54cd2d",
+      "md5": "8897a39e34aee4d3f807af255c6617d6",
+      "sha1": "8f1aad51e733958d1a9a7a0cb7516fc7a293ca7b",
+      "sha256": "fb92418bf3673d128807a13a16afc4b3c75f8c04944eea128435d69a1bdf13e9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3455
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bust-A-Move%202%20-%20Arcade%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bust-A-Move%202%20-%20Arcade%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bust-A-Move%202%20-%20Arcade%20Edition%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bust-A-Move%202%20-%20Arcade%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bust-A-Move%202%20-%20Arcade%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bust-A-Move%202%20-%20Arcade%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

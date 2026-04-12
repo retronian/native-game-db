@@ -1,0 +1,67 @@
+{
+  "id": "moshi-monsters-moshlings-theme-park",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moshi Monsters - Moshlings Theme Park",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moshi Monsters - Moshlings Theme Park (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TMNP",
+      "size": 16777216,
+      "crc32": "06da61fc",
+      "md5": "964c30de127b5a9d285e80eaad2505e2",
+      "sha1": "d2f2501131aafdea6e0478f17e7a47c1e056af8a"
+    },
+    {
+      "name": "Moshi Monsters - Moshlings Theme Park (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TMNE",
+      "size": 16777216,
+      "crc32": "5a159840",
+      "md5": "08dd1f80db61a442727869c7e0acdab6",
+      "sha1": "db8d8aa9b59277bb18317c4a1dd0e4ee213a7aa3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47658
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moshi%20Monsters%20-%20Moshlings%20Theme%20Park%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moshi%20Monsters%20-%20Moshlings%20Theme%20Park%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moshi%20Monsters%20-%20Moshlings%20Theme%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moshi%20Monsters%20-%20Moshlings%20Theme%20Park%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

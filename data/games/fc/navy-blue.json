@@ -1,0 +1,77 @@
+{
+  "id": "navy-blue",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Navy Blue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネイビーブルー New 海戦ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "海戦ゲーム ネイビーブルー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Navy Blue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "c814ff30",
+      "md5": "e83dbe68d157a9db3992d17a6758deda",
+      "sha1": "b9acaab71975f6d2a1892d29dd4437201cd69701",
+      "sha256": "311172816358e69375c1892e6d637f3b46e4470291eb3cc8aca8a5be9a73a7f6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48411
+  },
+  "descriptions": [
+    {
+      "text": "「ネイビーブルー」では、プレイヤーは海軍艦隊を指揮し、敵の海軍力を打ち破り、彼らの本拠地を破壊することを目的としています。ゲームプレイは「バトルシップ」の一般的なルールに基づいています。プレイヤーには4×7のグリッドマップが提示され、このマップを使ってプレイヤーは…",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Navy%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Navy%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Navy%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

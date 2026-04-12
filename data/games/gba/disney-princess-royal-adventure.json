@@ -1,0 +1,80 @@
+{
+  "id": "disney-princess-royal-adventure",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Disney Princess - Royal Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Disney Princess - Royal Adventure (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQNE",
+      "size": 8388608,
+      "crc32": "c6ad2251",
+      "md5": "76cdc3ec8b886f378ebc6de368399220",
+      "sha1": "a033a92eab635c035444b2165fe04631aa3bb118",
+      "sha256": "c9f67fbf3853fd0dea9e656118ff4cd29731547b093dd1360b8b9ccd257aaf7d"
+    },
+    {
+      "name": "Disney Princess - Royal Adventure (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQNP",
+      "size": 8388608,
+      "crc32": "92c695cc",
+      "md5": "669fbbd100f67d864a2028be1217719d",
+      "sha1": "a143cd7260ac39235a4cf223b9f76d9998f8b7c4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49411
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Disney%20Princess%20-%20Royal%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Disney%20Princess%20-%20Royal%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Disney%20Princess%20-%20Royal%20Adventure%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Disney%20Princess%20-%20Royal%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Disney%20Princess%20-%20Royal%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Disney%20Princess%20-%20Royal%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

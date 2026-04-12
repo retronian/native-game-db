@@ -1,0 +1,74 @@
+{
+  "id": "momotarou-dentetsu-happy",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Dentetsu Happy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電鉄 Happy ももたろうでんてつハッピー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "桃太郎電鉄HAPPY",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Dentetsu Happy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "0b8d1474",
+      "md5": "18862a20e311f8ca08d064190c25504f",
+      "sha1": "a0eebf715c93751c6423dc277717e365d69c735f",
+      "sha256": "9fc7a66464e71d0f056fed2b560f527a5af69034c96293a2731107479763a9d8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "すごろくやモノポリーに似たゲームで、プレイヤーは一連の電車、ボート、飛行機を使って富を獲得し、購入を行いながら、ライバルのプレイヤーやキャラクターと競い合います。ゲームの目的は、ゲーム終了時に最も多くの富と財産を持つことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-12-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Momotarou%20Dentetsu%20Happy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Momotarou%20Dentetsu%20Happy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Momotarou%20Dentetsu%20Happy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

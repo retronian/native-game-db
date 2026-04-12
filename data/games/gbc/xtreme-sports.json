@@ -1,0 +1,69 @@
+{
+  "id": "xtreme-sports",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Xtreme Sports",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Xtreme Sports (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "19828751",
+      "md5": "af1d1e17a5c568df796f4004be872649",
+      "sha1": "ffca13207e6284a3cc16f7f130b68fca87663d08"
+    },
+    {
+      "name": "Xtreme Sports (World) (Switch)",
+      "source": "no_intro",
+      "serial": "BXGE",
+      "size": 4194304,
+      "crc32": "c0437e08",
+      "md5": "734f49ccbe8c131bf38e584a00ce7391",
+      "sha1": "5da3ad1c5354f29a74c571c2b598da96213afbe1",
+      "sha256": "af6c246e85a840283161105eb1f3a32584e91ea5014e7c8910aa7bec38a8b1bc"
+    },
+    {
+      "name": "Xtreme Sports (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "b8a3ecdd",
+      "md5": "e384f3789ef10051159217048c62fb16",
+      "sha1": "7ec1e0e88f4827c421dc91cff03ad7932bd652f5",
+      "sha256": "a91eda9bc163cf65b2c0b961558789748f49523dbf60813f34daa342247f7bd0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49869
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Xtreme%20Sports%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Xtreme%20Sports%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Xtreme%20Sports%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

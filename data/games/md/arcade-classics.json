@@ -1,0 +1,52 @@
+{
+  "id": "arcade-classics",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arcade Classics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arcade Classics (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1715-00",
+      "size": 524288,
+      "crc32": "8aed2090",
+      "md5": "1c0b65d3cc82f56f7ad05ce63dc4d097",
+      "sha1": "ec29aec7848dbcea6678adb4b31deba0a6ecf1e2",
+      "sha256": "2b199ec75cf6473f7baa8fc2c2066af9defff19e1f197b3a10a533850ddd84e0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4502
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Arcade%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Arcade%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Arcade%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

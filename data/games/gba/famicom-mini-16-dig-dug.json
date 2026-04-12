@@ -1,0 +1,57 @@
+{
+  "id": "famicom-mini-16-dig-dug",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 16 - Dig Dug",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ16 ディグダグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 16 - Dig Dug (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FDDJ",
+      "size": 1048576,
+      "crc32": "ee4c3504",
+      "md5": "10ea584b14960348548e8528202968f1",
+      "sha1": "0b46e4cabd1f5f624d8391658d9c888dbd29a6ff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2016%20-%20Dig%20Dug%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2016%20-%20Dig%20Dug%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2016%20-%20Dig%20Dug%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

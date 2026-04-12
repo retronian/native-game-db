@@ -1,0 +1,85 @@
+{
+  "id": "famicom-shougi-ryuuousen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Shougi - Ryuuousen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコン将棋 竜王戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Shougi - Ryuuousen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f8abcc27",
+      "md5": "0dd1e4a7f1263203f8e0d62a200db03c",
+      "sha1": "a0f33ddbfd118ddebb8868498dfcdf745adf4428",
+      "sha256": "554650440f00cbd997530acbd589f9921dcdfa76d68e6c44bb4b1b25794c7031"
+    },
+    {
+      "name": "Famicom Shougi - Ryuuousen (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7f83903d",
+      "md5": "a5182646aa7b3d7fbbf2192cf9b9465b",
+      "sha1": "20a66d8323ea1b6a26a9d6fb16f8677953bf4ba9",
+      "sha256": "b1210b2332d9ca79a088a59164cddd78d112a2abd685c98dfe2c129585d2e8e7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famicom%20Shougi%20-%20Ryuuousen%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

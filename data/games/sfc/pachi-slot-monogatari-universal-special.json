@@ -1,0 +1,69 @@
+{
+  "id": "pachi-slot-monogatari-universal-special",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachi-Slot Monogatari - Universal Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチスロ物語 ユニバーサルスペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パチスロ物語 ユニバーサル・スペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachi-Slot Monogatari - Universal Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e47e4ab2",
+      "md5": "fa402e92db8197f56baaf156c0b58a12",
+      "sha1": "2d95a36d79cdd66392d0eb8a92d28f0f95edda79",
+      "sha256": "77cd8ebda2007ee49443f69e4f46c21566d7e28948e04b7a599a4d9bc7260a62"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37896
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pachi-Slot%20Monogatari%20-%20Universal%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pachi-Slot%20Monogatari%20-%20Universal%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pachi-Slot%20Monogatari%20-%20Universal%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "zenkoku-koukou-soccer",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zenkoku Koukou Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全国高校サッカー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zenkoku Koukou Soccer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d575fdfc",
+      "md5": "ac4ae596fe5a0152456a650c336d635b",
+      "sha1": "0195016fd5a062a0382bb123675b54bbbebbe454",
+      "sha256": "7c9daa6e702f0f250d123e71fcfd81f922daac70641cd833133f5d41ea5d5d00"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42351
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zenkoku%20Koukou%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zenkoku%20Koukou%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zenkoku%20Koukou%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

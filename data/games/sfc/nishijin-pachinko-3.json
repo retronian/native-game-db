@@ -1,0 +1,70 @@
+{
+  "id": "nishijin-pachinko-3",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nishijin Pachinko 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "西陣パチンコ3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "西陣パチンコ 3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nishijin Pachinko 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "7d149029",
+      "md5": "c6a96d2a0983b6911a6ec87f751f2370",
+      "sha1": "8a5ef1739570a8b6f2bf054fc7c9cac704b9afc8",
+      "sha256": "1ad0fd256f6a87ca75938b8cb8cf2a2d242996e1aa0d717a218e41c471b06088"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37904
+  },
+  "first_release_date": "1996-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nishijin%20Pachinko%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nishijin%20Pachinko%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nishijin%20Pachinko%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

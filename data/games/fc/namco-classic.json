@@ -1,0 +1,65 @@
+{
+  "id": "namco-classic",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナムコクラシック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Classic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "9a73785b",
+      "md5": "f6a4bc41da9e9a993c4c355b4f5786f5",
+      "sha1": "7f7bb2538747e26d22006774a08577f0699000d0",
+      "sha256": "01b84c20bc935d3d100ca0ba25ad7ab7c9945255669d6f3a0c4dda46c6cd8c1a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ナムコクラシックは、ナムコが開発し、1988年にファミコン向けに発売されたゴルフゲームです。このゲームには、コースを練習したり友達と競い合ったりできるラウンドプレイと、コンピュータの対戦相手と戦い大きな賞金を獲得することを目指すトーナメントモードがあります。また、1991年にはゲームボーイ向けにも発売されました。ゲームボーイ版は異なるコースを特徴としていますが、多くの点で非常に似ています。1996年には、そのバージョンがコンピレーションタイトル「ナムコギャラリー Vol. 1」にも収録されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-05-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Namco%20Classic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

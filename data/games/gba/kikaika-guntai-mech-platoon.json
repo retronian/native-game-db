@@ -1,0 +1,65 @@
+{
+  "id": "kikaika-guntai-mech-platoon",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kikaika Guntai - Mech Platoon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "機械化軍隊",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kikaika Guntai - Mech Platoon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKGJ",
+      "size": 8388608,
+      "crc32": "a2fa4248",
+      "md5": "735502d07870f82fd78fe07badeeb33b",
+      "sha1": "d49ff33cd9fc488c5a018d9f3476fc96c82d778e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "GBA用のリアルタイムストラテジー（RTS）ゲームです。プレイヤーはロボットメカの軍隊を編成し、2つの他国との一連のミッションで5つの惑星を制圧します。プレイヤーのメカは、研究所や基地を建設し、戦場から敵のパーツを回収することで構築・強化されます。クラシックなRTSのすべての重要な要素がGBAで楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-11-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kikaika%20Guntai%20-%20Mech%20Platoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kikaika%20Guntai%20-%20Mech%20Platoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kikaika%20Guntai%20-%20Mech%20Platoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

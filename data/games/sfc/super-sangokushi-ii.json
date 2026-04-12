@@ -1,0 +1,111 @@
+{
+  "id": "super-sangokushi-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Sangokushi II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー 三国志II 復刻版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー三國志II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "スーパー 三国志II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Sangokushi II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0eea5dc1",
+      "md5": "a98570cc6f3651bcea0e54d9cab6bfd9",
+      "sha1": "e58bb9c38b6bf2ce0c116e2bbebd53746b6198ab",
+      "sha256": "44dc745312aeec160f4cca4a461031cd4c76783243f3a9f19f8c3af223600427"
+    },
+    {
+      "name": "Super Sangokushi II (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b8a87909",
+      "md5": "cf5c1de917432a48dfc5c8a1465bbc36",
+      "sha1": "3aefcbbdbeb7e5b6c8a6c4f4bb3bf30140703074",
+      "sha256": "ecd462c64516169cc83dd266af354fe676fcf53811863a361d78cc918619da0d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「三国志」の続編です。ゲームのコンセプトは依然として同じですが、前作「三国志I」から「不快」と考えられる多くの要素が改善されました（例えば、将軍が病気で簡単に死ぬことなど）。「三国志II」は、プレイヤーがゲーム内の時間の長さをそれほど心配する必要がなくなり、より「安定」していると言えます。ゲームはより遅い時間の進行を採用しており、プレイヤーが干渉を受けることなく勢力を築くことができます。「三国志II」のゲームプレイとインターフェースは、「信長の野望II」に非常に似ています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Sangokushi%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Sangokushi%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Sangokushi%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Sangokushi%20II%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

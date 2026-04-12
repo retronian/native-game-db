@@ -1,0 +1,58 @@
+{
+  "id": "jikkyou-world-soccer-pocket",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jikkyou World Soccer Pocket",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実況ワールドサッカーポケット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jikkyou World Soccer Pocket (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJWJ",
+      "size": 8388608,
+      "crc32": "8bd96db9",
+      "md5": "8a8d50c9710ad287d2691546cf40348f",
+      "sha1": "433f41b3c553ad9f943d9fcd2fc37acfe564241f"
+    }
+  ],
+  "first_release_date": "2001-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Jikkyou%20World%20Soccer%20Pocket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Jikkyou%20World%20Soccer%20Pocket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Jikkyou%20World%20Soccer%20Pocket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

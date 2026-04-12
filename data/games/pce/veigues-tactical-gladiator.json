@@ -1,0 +1,78 @@
+{
+  "id": "veigues-tactical-gladiator",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Veigues - Tactical Gladiator",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ヴェイグス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Veigues - Tactical Gladiator (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "99d14fb7",
+      "md5": "757754c27f380ce3f574bb861d641247",
+      "sha1": "88a858feeba77031e7d2fb85e563aafcbd9b0b39",
+      "sha256": "6a4da2c82128221431cc47020ad423e25c50a24fd03ccdd7cbbd5a775f40ba37"
+    },
+    {
+      "name": "Veigues - Tactical Gladiator (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "04188c5c",
+      "md5": "98e5da6e3b6bf779a419149e5d97a53c",
+      "sha1": "da66c085ecbb317cb160cb192142a3d2c044f26f",
+      "sha256": "875068212848f6016ff90ada41d76386e06f7f8f724a1f5935707ac8436b35d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37733
+  },
+  "descriptions": [
+    {
+      "text": "3年間、エイリアンの侵略者たちが地球を焦土に変えてきました。彼らを止められる人間は誰もいません。しかし、今、私たちにはヴェイグスという壊滅的な戦闘マシンがいます！捕獲した敵の技術で作られた彼は、私たちの最後の絶望的な生存の希望です…そして、あなたが操作します！プラズマキャノンで侵略者を叩きのめせ！火力を常に高めて、明日がないかのように戦いましょう。エイリアンを壊滅させなければ、私たちには明日がありません！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Veigues%20-%20Tactical%20Gladiator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Veigues%20-%20Tactical%20Gladiator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Veigues%20-%20Tactical%20Gladiator%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

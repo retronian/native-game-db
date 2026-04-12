@@ -1,0 +1,65 @@
+{
+  "id": "america-daitouryou-senkyo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "America Daitouryou Senkyo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アメリカ大統領選挙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "America Daitouryou Senkyo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ae5de60d",
+      "md5": "910e64778fe0af9b7b57c73ae30937cb",
+      "sha1": "6bc8cb6056604aa24c0d7060f5c995b87f9048b7",
+      "sha256": "14a99c1af0cd463e32619f2b44ac914f9c3c64f47dcafb5eb7848e29c9bdf5ab"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームでは、あなたは新しいアメリカ合衆国大統領になるための候補者となります。複数の候補者（共和党と民主党の両方）から一人を選び、さまざまな州での人気を高めながら他の候補者と競い合います。外交から州の法律の制定まで、政治のあらゆる分野で優れた成果を上げる必要があります。各ステージの後には、あなたの成功が他の大統領と比較された統計が表示されます。また、どのステージでもあなたの行動に対する人々の反応を確認でき、調査を行って自分の評価がどれほど良いかを知ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-10-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/America%20Daitouryou%20Senkyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/America%20Daitouryou%20Senkyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/America%20Daitouryou%20Senkyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "hunter-x-hunter-kindan-no-hihou",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hunter x Hunter - Kindan no Hihou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハンター×ハンター 禁断の秘宝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "HUNTER×HUNTER 禁断の秘宝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hunter x Hunter - Kindan no Hihou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d23c6a75",
+      "md5": "8ac8f913b5f1e31582de191b367648a9",
+      "sha1": "ef131fb2752b8ff996bf1aaaebd22887e380aa31"
+    }
+  ],
+  "external_ids": {
+    "igdb": 62309
+  },
+  "descriptions": [
+    {
+      "text": "ハンター×ハンター 禁断の秘宝は、ITLが開発し、コナミが発売したアクションゲームで、2001年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hunter%20x%20Hunter%20-%20Kindan%20no%20Hihou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hunter%20x%20Hunter%20-%20Kindan%20no%20Hihou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

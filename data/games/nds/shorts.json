@@ -1,0 +1,45 @@
+{
+  "id": "shorts",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shorts",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shorts (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSHE",
+      "size": 33554432,
+      "crc32": "6e3d3492",
+      "md5": "a3a643551def44b1ac3c7f38dc11b786",
+      "sha1": "fc0e9a61081adaa482543383a77e10bc3a2fc545"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91483
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shorts%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shorts%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

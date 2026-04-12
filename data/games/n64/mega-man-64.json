@@ -1,0 +1,96 @@
+{
+  "id": "mega-man-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega Man 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ロックマン DASH 鋼の冒険心",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Rockman Dash: Hagane no Boukenshin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega Man 64 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NM6E",
+      "size": 33554432,
+      "crc32": "1bfc71f0",
+      "md5": "3620674acb51e436d5150738ac1c0969",
+      "sha1": "f24fe0aff01aec018e2dd558ec4f076cf328129f",
+      "sha256": "618d49bf62913b376e4858f1422a51a4352792b070fe6305860dd43e28353999"
+    },
+    {
+      "name": "Mega Man 64 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 67108864,
+      "crc32": "d3562b57",
+      "md5": "cd0824e9405185af434837ba1c8c0cd5",
+      "sha1": "7fc1db2b88cd43a5e76697ee449bc946e9a48c03"
+    }
+  ],
+  "external_ids": {
+    "igdb": 10614
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mega%20Man%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mega%20Man%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mega%20Man%2064%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mega%20Man%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mega%20Man%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mega%20Man%2064%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "shadow-of-the-beast-mashou-no-okite",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shadow of the Beast - Mashou no Okite",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シャドー･オブ･ザ･ビースト 魔性の掟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shadow of the Beast - Mashou no Okite (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-60023-00",
+      "size": 1048576,
+      "crc32": "0cd09d31",
+      "md5": "9cd4a754fcb6793d7470a6fa63903025",
+      "sha1": "6e4bb7fb1a0f642d72cf58376bf2637e0ac6ef50",
+      "sha256": "fcf1ec7b893ba57fc88b70d8420a667b2714c9b635a44bf7307e778578c8b8cf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "幼い頃、アールブロンは獣の主の神官たちに誘拐され、奴隷として扱われました。彼は自らの意志を破壊するために作られた薬物の影響下で育ち、マレトス、獣の主に仕える強力な存在である獣の使者へと変えられていきました。彼はその役割を果たしていましたが、ある日、儀式で生け贄にされる直前の男を見つけ、その顔が古い記憶を呼び起こしました…そして、生け贄のナイフが男の体に降り注ぐと、アールブロンはその顔を認識します。それは彼の父の顔でした。\n父が祭壇で死ぬと、獣の主の手による幼少期の思い出や苦悩が蘇り、捕らえられた者たちへの憎しみが彼を支配しました。彼は復讐を誓い、父を弔うための道が困難であることを知りながら、寺院から逃げ出しました。\n\n「シャドー・オブ・ザ・ビースト」は、16ビットコンピュータ時代におけるサイグノシスの最も人気のあるタイトルの一つで、パララックススクロールを駆使した美しいグラフィック、デイビッド・ウィッタカーによる音楽、ロジャー・ディーンによるアイコニックなカバーアート、そして「非常に挑戦的」と「不可能」の間でバランスを取る厳しいゲームプレイで知られる横スクロールプラットフォーマーです。プレイヤーは敵や罠で満ちた複数のエリアを進みながら、鍵を集めたり、トリガーを作動させて新しいエリアを開放したり、アールブロンがサブボスを克服する手段を得たりしなければなりません。プレイヤーが使える動作は限られており、しゃがむ、ジャンプする、そして攻撃はパンチと飛び蹴りの2つのみです。ほとんどの敵は一撃で倒せますが、プレイヤーは各攻撃のタイミングを正確に合わせる必要があります。しかし、破壊できないオブジェクトの罠も存在し、これらはプレイヤーがジャンプしたり、しゃがんだり、特定の順序で動いたりすることを要求します。プレイヤーは1ライフで12ヒットポイントを持ち、レベル内に隠されたオブジェクト（ルート外の場所やメガリスの下など）を集めることで回復可能ですが、これも難易度を上げる要因となっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shadow%20of%20the%20Beast%20-%20Mashou%20no%20Okite%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shadow%20of%20the%20Beast%20-%20Mashou%20no%20Okite%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shadow%20of%20the%20Beast%20-%20Mashou%20no%20Okite%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "coropata",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Coropata",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コロぱた",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Coropata (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B8TJ",
+      "size": 16777216,
+      "crc32": "6904973a",
+      "md5": "f1c8838ec17bdf4cd1d8caea24ab4d45",
+      "sha1": "55041624813b5d6acce594212ebc312ca05b2c1d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 80582
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Coropata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Coropata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Coropata%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

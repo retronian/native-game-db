@@ -1,0 +1,58 @@
+{
+  "id": "2020-nen-super-baseball",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "2020 Nen Super Baseball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "2020年スーパーベースボール",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "2020 Nen Super Baseball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106273-00",
+      "size": 2097152,
+      "crc32": "2bbee127",
+      "md5": "7a07e37da58c5e8c2750ec7a4c1b37e9",
+      "sha1": "3d00178aecd7611c7e4ad09ea07e8436de6a5375",
+      "sha256": "158421089ff076e9da73e501135b1e8f2d930ce4fd8b95bf599d21f40113035c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/2020%20Nen%20Super%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/2020%20Nen%20Super%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/2020%20Nen%20Super%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

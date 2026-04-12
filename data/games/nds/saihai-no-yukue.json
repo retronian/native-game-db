@@ -1,0 +1,60 @@
+{
+  "id": "saihai-no-yukue",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saihai no Yukue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "采配のゆくえ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saihai no Yukue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CI8J",
+      "size": 67108864,
+      "crc32": "6adfbb12",
+      "md5": "108d6a047cd634729ebc2b8911889983",
+      "sha1": "81feb6a8d1ee2e8453953dedf2c41cdec7b1f59b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 302503
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Saihai%20no%20Yukue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Saihai%20no%20Yukue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Saihai%20no%20Yukue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

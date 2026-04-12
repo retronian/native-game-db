@@ -1,0 +1,51 @@
+{
+  "id": "burger-bot",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burger Bot",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burger Bot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBZE",
+      "size": 16777216,
+      "crc32": "b6a5aea8",
+      "md5": "e5103c67164343ca0b12a8b5008b84ff",
+      "sha1": "a49c1f903fc06de140bb95b25a0bfcf6551fc4ae"
+    }
+  ],
+  "external_ids": {
+    "igdb": 51014
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Burger%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Burger%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Burger%20Bot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

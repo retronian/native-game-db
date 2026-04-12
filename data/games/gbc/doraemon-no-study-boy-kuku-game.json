@@ -1,0 +1,69 @@
+{
+  "id": "doraemon-no-study-boy-kuku-game",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon no Study Boy - Kuku Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんのスタディボーイ 九九ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon no Study Boy - Kuku Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BQQJ",
+      "size": 1048576,
+      "crc32": "a8a353d8",
+      "md5": "7f0d28d7c0268b55bb8682224c178308",
+      "sha1": "9b5c8b89b6e69d3803fbd43b2fe5130ad6d2f50b",
+      "sha256": "dd5508e761ca068e194575162e14ab49500febea8ecad016cbca1d470f937c4a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65537
+  },
+  "descriptions": [
+    {
+      "text": "ドラえもんと一緒に遊びながら九九をマスターできるソフトウェアです。コースは3つあり、「基本問題」ではレベルごとに10問の九九問題が出題されます。「応用問題」では、掛け算の数や掛け算の回数に関する問題に挑戦できます。そして「マスターコース」では、99の計算問題がランダムに出題されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Doraemon%20no%20Study%20Boy%20-%20Kuku%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Doraemon%20no%20Study%20Boy%20-%20Kuku%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Doraemon%20no%20Study%20Boy%20-%20Kuku%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

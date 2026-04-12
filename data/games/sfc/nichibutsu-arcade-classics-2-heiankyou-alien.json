@@ -1,0 +1,65 @@
+{
+  "id": "nichibutsu-arcade-classics-2-heiankyou-alien",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nichibutsu Arcade Classics 2 - Heiankyou Alien",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニチブツアーケードクラシックス2 平安京エイリアン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nichibutsu Arcade Classics 2 - Heiankyou Alien (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "65717023",
+      "md5": "ae3a95252e9cd6a0e83b915a9a9f8836",
+      "sha1": "c40c9bf482f8bfa2b4e1b27ab41cccc737ed8004",
+      "sha256": "0845f29d5f265ab39f34eceb645067a1aaa5b7d12008de89ac5145f9fb36dcfe"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ニチブツアーケードクラシックス2: 平安京エイリアンは、1979年のコンピュータゲーム「平安京エイリアン」の1995年16ビットリマスター版です。また、SNESコントローラーに対応した1979年のオリジナルゲームの再現も含まれています。ゲームの内容は変わらず、プレイヤーは平安時代の警察官となり、肉食エイリアンを捕まえるために穴を掘り、それを埋めてエイリアンを消滅させなければなりません。十分な大きさの穴を掘るには三段階の作業が必要で、エイリアンは大きさが足りない穴をすぐに埋めてしまいます。もしエイリアンに警察官が捕まると、食べられてしまいます。\n\n強化版では、切り倒すことができる木のブロックが追加されましたが、これを取り除くのにかかる時間は穴を掘るのと同じくらいで、その間プレイヤーは危険にさらされます。また、ゲームには二人対戦モードもあり、各プレイヤーには画面の半分が割り当てられます。一方のプレイヤーの側からエイリアンが取り除かれると、もう一方のプレイヤーの側に現れるため、プレイヤーはエイリアンに圧倒されないように素早く取り除かなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Nichibutsu%20Arcade%20Classics%202%20-%20Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Nichibutsu%20Arcade%20Classics%202%20-%20Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Nichibutsu%20Arcade%20Classics%202%20-%20Heiankyou%20Alien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

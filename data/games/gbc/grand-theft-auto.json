@@ -1,0 +1,77 @@
+{
+  "id": "grand-theft-auto",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Grand Theft Auto",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "25ba9231",
+      "md5": "2f4f1776863912bfc63ea49a19e4231b",
+      "sha1": "b6c1693ba5bf2c914d910e94286bda8f3fbd100e"
+    },
+    {
+      "name": "Grand Theft Auto (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "924de366",
+      "md5": "3322493d6b7a70bfdea6f6231ceb1ce0",
+      "sha1": "a0c9d9a95bf2cceca7922f4375555b8edee9ea6b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44870
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Grand%20Theft%20Auto%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Grand%20Theft%20Auto%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Grand%20Theft%20Auto%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Grand%20Theft%20Auto%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

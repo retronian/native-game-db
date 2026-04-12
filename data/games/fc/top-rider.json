@@ -1,0 +1,68 @@
+{
+  "id": "top-rider",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Top Rider",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トップライダー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Top Rider (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "7af1fbdd",
+      "md5": "3bd8707fd6a41c2150658ee4ae85f043",
+      "sha1": "487f4c3691e685c1918fbb796edf5b806511998e",
+      "sha256": "e8a7c73223f73aa254ca076c6835749a9c8aa426692c7fe09adfc2833342af73"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64284
+  },
+  "descriptions": [
+    {
+      "text": "トップライダーは、バイクの後ろからの視点で楽しむオートバイレースゲームです。プレイヤーは、いくつかの連続したレースに参加する「グランプリ」モードと、1つのレースのために4つのコースから選べる「ツーリング」モードの2つから選択できます。このゲームの特徴は、特別なハンドルコントローラーが内蔵されたインフレータブルバイクというユニークな周辺機器です。プレイヤーは、完全に膨らませた後にその周辺機器に座り、ハンドルを使って画面上のバイクを操作します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Top%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

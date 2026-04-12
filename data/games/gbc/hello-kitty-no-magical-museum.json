@@ -1,0 +1,67 @@
+{
+  "id": "hello-kitty-no-magical-museum",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty no Magical Museum",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハローキティのマジカルミュージアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f6768930",
+      "md5": "b868fa9f3cecfa2d39df43a5d1b13b60",
+      "sha1": "462e5120831c2298bb5138bf25b4c8c72b372407"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50562
+  },
+  "descriptions": [
+    {
+      "text": "ハローキティが誕生してから25年が経ちました。私たちは、多くの過去のデザインを集めた博物館を開くことに決めました。しかし、その博物館は魔法にかけられており、絵を見ることができません。それぞれにかけられた魔法を解くために、パズルに挑戦しましょう！全45種類のパズルがあります。挑戦してみてください！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hello%20Kitty%20no%20Magical%20Museum%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hello%20Kitty%20no%20Magical%20Museum%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hello%20Kitty%20no%20Magical%20Museum%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

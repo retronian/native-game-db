@@ -1,0 +1,60 @@
+{
+  "id": "tekichuu-keiba-juku",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tekichuu Keiba Juku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "的中競馬塾",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tekichuu Keiba Juku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "47e09fec",
+      "md5": "65560f43dc2aafc6093c6e992409f75e",
+      "sha1": "6934fbf6fc8134db346429faaa8966af32890680",
+      "sha256": "23eb9fedfec76302ca3a031ef82226c6343a6736f758bcee2cbc00cc67b4a50f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37791
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tekichuu%20Keiba%20Juku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tekichuu%20Keiba%20Juku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tekichuu%20Keiba%20Juku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

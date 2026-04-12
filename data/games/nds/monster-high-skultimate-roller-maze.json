@@ -1,0 +1,67 @@
+{
+  "id": "monster-high-skultimate-roller-maze",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster High - Skultimate Roller Maze",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TMHP",
+      "size": 8388608,
+      "crc32": "bc2233bc",
+      "md5": "426220fecf4ce54d42f57672139c4771",
+      "sha1": "0ee28beeb58a688376e854a18f746628e08b221f"
+    },
+    {
+      "name": "Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TMHE",
+      "size": 8388608,
+      "crc32": "9cbbec34",
+      "md5": "61a492946574db69bebc32156b5dac27",
+      "sha1": "8d5a66a4fe00884f9f05354d29744d86bc5c8efe"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47672
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

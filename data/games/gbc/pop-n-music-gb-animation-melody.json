@@ -1,0 +1,67 @@
+{
+  "id": "pop-n-music-gb-animation-melody",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pop'n Music GB - Animation Melody",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポップンミュージックGB アニメーションメロディ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pop'n Music GB - Animation Melody (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9b2429a7",
+      "md5": "7e6d077d50879c57ff70891aaa312e80",
+      "sha1": "f4442d7e984ebefc7735e205ca759c2be3bd1843"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209619
+  },
+  "descriptions": [
+    {
+      "text": "人気音楽アクションの限定版アニメソングバージョン。ゲームには1960年代から1990年代までの古いヒット曲と新しいヒット曲が収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pop%27n%20Music%20GB%20-%20Animation%20Melody%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pop%27n%20Music%20GB%20-%20Animation%20Melody%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pop%27n%20Music%20GB%20-%20Animation%20Melody%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

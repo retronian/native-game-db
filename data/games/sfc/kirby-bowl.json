@@ -1,0 +1,85 @@
+{
+  "id": "kirby-bowl",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kirby Bowl",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カービィボウル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kirby Bowl (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "2a24fc9b",
+      "md5": "b14696cdc0569a05647f2a3f2756ac07",
+      "sha1": "147a113711758d4d42618d4bed809bed69b85d34",
+      "sha256": "6c59767463e3d210dc24b5b341cc13b4972b07cec6ba70863b9a5c0af3b3b40a"
+    },
+    {
+      "name": "Kirby Bowl (Japan) (Virtual Console, Switch Online)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "e8559141",
+      "md5": "2219c6ae18e4a3ccb419336fc692f61e",
+      "sha1": "005b29fce15e777148dad226be9d49261c274c9a",
+      "sha256": "51d3d7ef681f4708459c145bf604376c65e5a2cb70c6d75f6e6fd51bd561f1ad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%20Bowl%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kirby%20Bowl%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kirby%20Bowl%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kirby%20Bowl%20%28Japan%29%20%28Virtual%20Console%2C%20Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kirby%20Bowl%20%28Japan%29%20%28Virtual%20Console%2C%20Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kirby%20Bowl%20%28Japan%29%20%28Virtual%20Console%2C%20Switch%20Online%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

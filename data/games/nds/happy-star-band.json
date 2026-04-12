@@ -1,0 +1,42 @@
+{
+  "id": "happy-star-band",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Happy Star Band",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Happy Star Band (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CV5J",
+      "size": 33554432,
+      "crc32": "666ddb26",
+      "md5": "fb3cef1e84845ac6994b36bde73ccaae",
+      "sha1": "d6f186fc2b2e65b2c6463af6886f8cd706c14fb7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Happy%20Star%20Band%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Happy%20Star%20Band%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

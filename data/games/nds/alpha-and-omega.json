@@ -1,0 +1,79 @@
+{
+  "id": "alpha-and-omega",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Alpha and Omega",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Alpha and Omega (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHVE",
+      "size": 33554432,
+      "crc32": "9fcdfb1b",
+      "md5": "6f343eab91bf1f0a10fe4646de269dd0",
+      "sha1": "84c9e94d0fe1decbb825afd60fc3235dd48815c5"
+    },
+    {
+      "name": "Alpha and Omega (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHVP",
+      "size": 33554432,
+      "crc32": "159dd46c",
+      "md5": "449cf4f9fe3348edb3779d9408701e59",
+      "sha1": "0be6f66df136ada36fde49033ffcbbbb6e4b02cb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98810
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alpha%20and%20Omega%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alpha%20and%20Omega%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alpha%20and%20Omega%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Alpha%20and%20Omega%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Alpha%20and%20Omega%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Alpha%20and%20Omega%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

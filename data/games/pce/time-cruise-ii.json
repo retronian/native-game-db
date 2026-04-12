@@ -1,0 +1,65 @@
+{
+  "id": "time-cruise-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Time Cruise II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイムクルーズII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Time Cruise II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "cfec1d6a",
+      "md5": "fac1e4b316c405a0477341b3fc22ec08",
+      "sha1": "84bf83124a77ff67aaa0ea3f34ad9edbb755454d",
+      "sha256": "70b97f459faeb09be4e7f6c546bb7d173561fcdf505764e23e7a25605056f541"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37654
+  },
+  "descriptions": [
+    {
+      "text": "タイムクルーズはストーリーのあるピンボールゲームです。物語は、エリックという名の科学者が、ある日、宇宙人を名乗る声を聞き、その声を通じてタイムトラベルの秘密を学ぶところから始まります。数年の間、自らの創造物を作り上げた彼は、ついに完成し、丸い金属製のタイムマシンに乗り込み、時間を旅して宇宙人の友人に会うための冒険に出発します。\n\nゲームの目的は、他の多くのジャンルのゲームと同様に、先史時代から未来までさまざまな時代をテーマにした複数のピンボールテーブルのいずれかで一定のポイントに達することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Time%20Cruise%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Time%20Cruise%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Time%20Cruise%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "simanimals-africa",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SimAnimals - Africa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "SimAnimals - Africa (USA) (En,Ja,Fr,De,Nl,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C27E",
+      "size": 134217728,
+      "crc32": "fc27d31c",
+      "md5": "de6423ee63af35d213fbee045f73b920",
+      "sha1": "9211c0b0b86b1be3e3c2d050d8766c1b6407d564"
+    },
+    {
+      "name": "SimAnimals - Africa (Europe) (En,Ja,Fr,De,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C27P",
+      "size": 134217728,
+      "crc32": "998e4d9a",
+      "md5": "f44999bf069d299cd469dbb128b25d61",
+      "sha1": "8cb4a5ebe85226a58c0025bf00e5e659253064dd",
+      "sha256": "503b3e5a2979c02ac17557d34c5a11eb48b24a86736780b4b2f06c723d56b98b"
+    },
+    {
+      "name": "SimAnimals - Africa (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C27J",
+      "size": 134217728,
+      "crc32": "85733d95",
+      "md5": "7de8638bdb67abfcdd8655598a3cd3a4",
+      "sha1": "e3a5e7c14fda79524909382665d4f7bb78dbf3a4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimAnimals%20-%20Africa%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimAnimals%20-%20Africa%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimAnimals%20-%20Africa%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimAnimals%20-%20Africa%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimAnimals%20-%20Africa%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimAnimals%20-%20Africa%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

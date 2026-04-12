@@ -1,0 +1,67 @@
+{
+  "id": "burger-paradise-international",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burger Paradise International",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーガーパラダイス インターナショナル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burger Paradise International (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9092b0eb",
+      "md5": "a7a083bd154392a188dc8ed62c145ea4",
+      "sha1": "71072a7f0165769649bce8c31c36f67bb0e02963"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65642
+  },
+  "descriptions": [
+    {
+      "text": "さまざまな食材を使ってレシピを作成し、ハンバーガーショップを運営しましょう。自分だけのオリジナルハンバーガーを作り、バーガー・オブ・ザ・イヤーを目指しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Burger%20Paradise%20International%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Burger%20Paradise%20International%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Burger%20Paradise%20International%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

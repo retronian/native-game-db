@@ -1,0 +1,74 @@
+{
+  "id": "maniac-pro-wres-asu-e-no-tatakai",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maniac Pro Wres - Asu e no Tatakai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マニアック プロレス 明日への闘い",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "マニアックプロレス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maniac Pro Wres - Asu e no Tatakai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "99f2865c",
+      "md5": "6fba2dd4c455bb9bafd6892ec204e2bd",
+      "sha1": "d02b38ec1b516f1324dab3499523a306f574f957",
+      "sha256": "8c4edd95fbe3098fe20f8bc5ee9ab07fce068b52eb24853e2fa8c27e4537f229"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイヤーが独自の技セットを設定し、各試合に多様で戦略的にアプローチできる戦略的なレスリングゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-05-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Maniac%20Pro%20Wres%20-%20Asu%20e%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Maniac%20Pro%20Wres%20-%20Asu%20e%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Maniac%20Pro%20Wres%20-%20Asu%20e%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tales-of-hearts-anime-movie-edition",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tales of Hearts - Anime Movie Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "テイルズオブハーツ：アニメムービーエディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tales of Hearts - Anime Movie Edition (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CTUJ",
+      "size": 268435456,
+      "crc32": "82c1282f",
+      "md5": "1c83acf3912aaaaa122215c04ccf8a85",
+      "sha1": "1b56bdb46f7a241381dfebbe5628fa95c936c1cf",
+      "sha256": "15bd0063173989cab81d2d1aeb21b4bd6d51d81347a15d2c1a98562de08f32d4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1210
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tales%20of%20Hearts%20-%20Anime%20Movie%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tales%20of%20Hearts%20-%20Anime%20Movie%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "chrono-trigger",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chrono Trigger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "クロノ・トリガー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chrono Trigger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 295150080,
+      "crc32": "acdb055c",
+      "md5": "f8598dffaf09495c988b9f3c27f9b51a",
+      "sha1": "5438e2343065e9bbaa6295d67fce8b9e98e0ee48"
+    },
+    {
+      "name": "Chrono Trigger (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "bc6aadfc",
+      "md5": "c8f778f2b5f8658d430ab3f345209bb0",
+      "sha1": "71b7b454842042cbbb341b582127dead42710dde"
+    }
+  ],
+  "external_ids": {
+    "igdb": 263446
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chrono%20Trigger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Chrono%20Trigger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Chrono%20Trigger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

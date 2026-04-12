@@ -1,0 +1,56 @@
+{
+  "id": "assault-suits-valken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Assault Suits Valken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "重装機兵ヴァルケン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Assault Suits Valken (World) (En) (Switch)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "c0da0170",
+      "md5": "7bd97dfcbd856af4e8a98632cf8e3b11",
+      "sha1": "4f73754563799ef077f9f8fc182285b08b3c8e28",
+      "sha256": "249efbdeed68e9583fc90919e8323b57633a5f4f6b220812dc096212eecd9364"
+    },
+    {
+      "name": "Assault Suits Valken (USA) (Retro-Bit)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "b802fc5e",
+      "md5": "827a5ebeb49afbba45731f229fdaa0a3",
+      "sha1": "2aa3c2e950c66524b7c481faeabc11355085f4ec",
+      "sha256": "3ac7b769790eac9e5f9941c90bb2f4190854f1469eaa94e56fd0c2e348aab506"
+    }
+  ],
+  "external_ids": {
+    "igdb": 375386
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Assault%20Suits%20Valken%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

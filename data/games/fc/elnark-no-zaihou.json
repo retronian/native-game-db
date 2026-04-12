@@ -1,0 +1,60 @@
+{
+  "id": "elnark-no-zaihou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Elnark no Zaihou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "エルナークの財宝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Elnark no Zaihou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "509ed7d2",
+      "md5": "ed43776d5f27a494fb97578bf6507f23",
+      "sha1": "77fd57398b1e5e91b65ebe0f9a24f7be28482599",
+      "sha256": "28e0962d76268f4d5f3ca24680381e9cb2285f95af5be00364cb93f95fde02a5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48507
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Elnark%20no%20Zaihou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Elnark%20no%20Zaihou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Elnark%20no%20Zaihou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

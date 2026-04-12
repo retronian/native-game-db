@@ -1,0 +1,79 @@
+{
+  "id": "jissen-pachi-slot-hisshouhou-twin",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jissen Pachi-Slot Hisshouhou! Twin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実戦パチスロ必勝法!ツイン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "実戦パチスロ必勝法!TWIN",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "実戦パチスロ必勝法",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jissen Pachi-Slot Hisshouhou! Twin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "acbef43d",
+      "md5": "365c693cf235e0d195ed11a346cd7474",
+      "sha1": "eaee7feadba8c14cbe5f7453300528f91472fc8c",
+      "sha256": "7477dbfa534436368b06eb8894e0cd66a5ed648ce7903aed9956b00090a1714e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42645
+  },
+  "first_release_date": "1997-03-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jissen%20Pachi-Slot%20Hisshouhou%21%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jissen%20Pachi-Slot%20Hisshouhou%21%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jissen%20Pachi-Slot%20Hisshouhou%21%20Twin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

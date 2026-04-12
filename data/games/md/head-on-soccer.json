@@ -1,0 +1,61 @@
+{
+  "id": "head-on-soccer",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Head-On Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Fever Pitch Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Head-On Soccer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-79196",
+      "size": 2097152,
+      "crc32": "dcffa327",
+      "md5": "fb303d5d08b2ea748fe7aced9c0100fd",
+      "sha1": "440835a94ea7c23fc0b0b86564020337a99514f1",
+      "sha256": "8e88ee59bbcdf29f30aa4c352bef84123aaf4ecb6f7eff3f41bf04f7f840d65a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 19758
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Head-On%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Head-On%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Head-On%20Soccer%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

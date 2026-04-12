@@ -1,0 +1,65 @@
+{
+  "id": "bomberman-max-hikari-no-yuusha",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Max - Hikari no Yuusha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマン マックス 闇の戦士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Max - Hikari no Yuusha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7a44ce88",
+      "md5": "c720432fe26cefbb5b177920ce20cd80",
+      "sha1": "9c38166e83e45707cbc2e0aff38fd4590dce7c3f",
+      "sha256": "53b6b5c16b34345974a87d498f787cc816b216373e29568777433112bca99bd3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボンバーマンがゲームボーイカラーに帰ってきました。冒険は以前とほぼ同じで、出口への道を妨げるブロックや敵を爆破するために爆弾を設置します。\n\nポケモンと同様に、マックス：ブルーは冒険の一部です（もう一つはマックス：レッド チャレンジャー エディションです）。両方のゲームでは、「チャラボム」と呼ばれるクリーチャーを拾い、自分のものとして育て、他のプレイヤーのチャラボムと戦うことができます。これはシンプルなボーナスゲームでじゃんけんですが、全ての冒険を完了する唯一の方法は、リンクケーブルを介して両方のゲームをつなぎ、レベルを一つのカートリッジからもう一つに渡すことです。各ゲームにはユニークなレベルがあるため、全てのチャラボムを集めることができます。\n\nマックス：ブルーでは、ボンバーマン自身を操作し、シリーズの初めから続くクラシックなグラフィックとサウンドを楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bomberman%20Max%20-%20Hikari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bomberman%20Max%20-%20Hikari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bomberman%20Max%20-%20Hikari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

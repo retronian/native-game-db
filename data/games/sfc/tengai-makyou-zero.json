@@ -1,0 +1,69 @@
+{
+  "id": "tengai-makyou-zero",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tengai Makyou Zero",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "天外魔境 'Zero' てんがいまきょうゼロ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "天外魔境ゼロ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tengai Makyou Zero (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 5242880,
+      "crc32": "1e327bd9",
+      "md5": "29998124a67deda111d5aca8aaf5dca5",
+      "sha1": "91ff16da242d39736aead4d360bf6bf7c0afce82",
+      "sha256": "8620203da71d32d017bb21f542864c1d90705b87eb67815d06b43f09120318aa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38186
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tengai%20Makyou%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tengai%20Makyou%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tengai%20Makyou%20Zero%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

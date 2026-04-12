@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-matsuri",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Matsuri",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎まつり",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Matsuri (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMMJ",
+      "size": 4194304,
+      "crc32": "bf0523d1",
+      "md5": "e876ddf9aecf8f52caecee2358acd9cc",
+      "sha1": "dfe06bc08d2e3231815e23245a453b54b38ada94"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎まつりとしても知られるこのゲームは、桃太郎電鉄シリーズの架空の世界を舞台にしたロールプレイングゲームで、プレイヤーの目的は生きている中で最も裕福な人になることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Momotarou%20Matsuri%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Momotarou%20Matsuri%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Momotarou%20Matsuri%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

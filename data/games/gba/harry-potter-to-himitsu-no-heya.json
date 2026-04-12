@@ -1,0 +1,65 @@
+{
+  "id": "harry-potter-to-himitsu-no-heya",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Harry Potter to Himitsu no Heya",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハリー・ポッターと秘密の部屋",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Harry Potter to Himitsu no Heya (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A7HJ",
+      "size": 8388608,
+      "crc32": "b485dabf",
+      "md5": "d31db14855a0de7ea8789f853c2af3c6",
+      "sha1": "bacf6db02e14599f5dbc8202243eac134566e96f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "新たな冒険でハリー・ポッターになり、より多くの魔法、友達、そして危険に立ち向かおう。ホグワーツ魔法魔術学校の2年生として、ハリーは学校の過去に潜む暗い章に出くわす。秘密の部屋の中心にある力に立ち向かうために、新しい呪文を学び、新たなクエストに挑み、新しい友達を作り、新たな敵に挑戦する。再び邪悪なロード・ヴォルデモートに直面するかもしれないリスクを取る勇気はありますか？",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-11-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Harry%20Potter%20to%20Himitsu%20no%20Heya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Harry%20Potter%20to%20Himitsu%20no%20Heya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Harry%20Potter%20to%20Himitsu%20no%20Heya%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

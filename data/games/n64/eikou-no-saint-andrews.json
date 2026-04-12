@@ -1,0 +1,61 @@
+{
+  "id": "eikou-no-saint-andrews",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Eikou no Saint Andrews",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "栄光のセントアンドリュース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Eikou no Saint Andrews (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NSTJ",
+      "size": 8388608,
+      "crc32": "1699d2d6",
+      "md5": "935dd85ad198bbde92161cdce47cbfb3",
+      "sha1": "5686b49ac9a60ebfc1d1abf6214f7bc06849abf4",
+      "sha256": "4d7292884c27dc329499dab22a116bbe0d07b62b4b169138c89d7493b09a2bfa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3484
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Eikou%20no%20Saint%20Andrews%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Eikou%20no%20Saint%20Andrews%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Eikou%20no%20Saint%20Andrews%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

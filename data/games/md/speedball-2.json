@@ -1,0 +1,77 @@
+{
+  "id": "speedball-2",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Speedball 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スピードボール2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Speedball 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70086-00",
+      "size": 524288,
+      "crc32": "056a6e03",
+      "md5": "8a9e5724ad9e79b70dca3e7cb81c41ce",
+      "sha1": "9c989b31de7de38bc488f825575b7f6c1db9dbee",
+      "sha256": "3179ba680038bc1231f42271531030216e836f93b96bd330ef96ba587405e6dd"
+    },
+    {
+      "name": "Speedball 2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-68023-00",
+      "size": 524288,
+      "crc32": "f5442334",
+      "md5": "9abbd5b0eb5998c758ed5dc603420e23",
+      "sha1": "7da217a45fafb569baee190be6a660af428cf3e5",
+      "sha256": "e993ec42e30c139c8cb7e29a20aca41982ff29d464747bd616f65272efc2f8e4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ブルータルデラックスはその名に恥じないチームで、実際にはスピードボール史上最悪のチームです。あなたは彼らのマネージャーとして、彼らの運命を変える役割を担います。リーグシステムは2つの8チームのディビジョンから成り立っており、トップに進むことが求められます。また、2つのカップトーナメントもあり、そのうちの1つは2回戦で行われ、合計得点が進出を決定します。\n\n試合をプレイすることもでき、これがゲームの本質です。試合は2つの90秒のピリオドで構成されており、ゲームプレイは未来的で速く、激しいタックルが奨励されてボールを奪い合います。パワーアップやトークンがピッチ上に現れ、選手を特にタフにしたり、相手を凍らせたりするものもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Speedball%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Speedball%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Speedball%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "simcity-2000",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SimCity 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シムシティ2000",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SimCity 2000 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NS2J",
+      "size": 12582912,
+      "crc32": "57767e45",
+      "md5": "244bea64ea209990e9c69a830b507135",
+      "sha1": "f728bd9990b9674533a04cd2fe275236b5cab32f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365476
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/SimCity%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/SimCity%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/SimCity%202000%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

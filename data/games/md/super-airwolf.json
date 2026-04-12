@@ -1,0 +1,58 @@
+{
+  "id": "super-airwolf",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Airwolf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーエアーウルフ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Airwolf (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-29023-00",
+      "size": 524288,
+      "crc32": "fa451982",
+      "md5": "84d0afc448834b369908e3b22ca6d9c2",
+      "sha1": "d24a3d23c9f12eebfbd233fdaab91c4acc362962",
+      "sha256": "6fd23130e7679ebe6735a4ebb546e17db43606eb580873fe629c53b1a50656ff"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45548
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Airwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Airwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Airwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

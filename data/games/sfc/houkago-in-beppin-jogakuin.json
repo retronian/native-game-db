@@ -1,0 +1,69 @@
+{
+  "id": "houkago-in-beppin-jogakuin",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Houkago in Beppin Jogakuin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "放課後 in 別品女学院",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "放課後 in Beppin 女学院",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Houkago in Beppin Jogakuin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "d3871866",
+      "md5": "99792adf7c05868e12513d14dc4bdbdf",
+      "sha1": "6f7739b77b88764b1127babdcd75250289843ddb",
+      "sha256": "4ec5f856d374fefc3a0301eeb6a7f4d964d4c9acb608553afe4ac1667c95cb5f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37982
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Houkago%20in%20Beppin%20Jogakuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Houkago%20in%20Beppin%20Jogakuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Houkago%20in%20Beppin%20Jogakuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

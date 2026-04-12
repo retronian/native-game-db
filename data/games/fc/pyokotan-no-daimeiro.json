@@ -1,0 +1,68 @@
+{
+  "id": "pyokotan-no-daimeiro",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pyokotan no Daimeiro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぴょこたんの大迷路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pyokotan no Daimeiro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8a929318",
+      "md5": "c7113378040636fdb1519a3d061622a3",
+      "sha1": "67fba2e82d78d512466d98bcc9fe11f8e229cb11",
+      "sha256": "0ca72351e1025d5dc18d2ae08f64b55c1c2d2fd74a790c557f593a453e1333bf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48824
+  },
+  "descriptions": [
+    {
+      "text": "ぴょこたんの大迷路は、ファミリーコンピュータ用のアクションゲームです。\n\nゲーム「ぴょこたんの大迷路」の完全な英語翻訳が完了しました。\n\nV0.99からV1.0へのアップデート - ポーズ画面のレベル名の問題を修正し、タイトル画面の再編成と色の不具合を修正しました。また、欠落していたセリフを追加し、ミニゲーム選択メニューにより適した名前に池のゲーム名を変更しました。\nお楽しみください！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pyokotan%20no%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pyokotan%20no%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pyokotan%20no%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

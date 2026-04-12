@@ -1,0 +1,75 @@
+{
+  "id": "teitoku-no-ketsudan",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Teitoku no Ketsudan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "提督の決断 WWIIゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "提督の決断",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Teitoku no Ketsudan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76073-00",
+      "size": 1048576,
+      "crc32": "9b08e4e4",
+      "md5": "6029e93a3d8a1507de330eb6d10caf69",
+      "sha1": "adc4c03636dbd8ca5449a8a66c6a7b7ef281893a",
+      "sha256": "99ad50ef172192f759351361fb93dfeedef7fa8ccd496e97607e3a7485c0edaf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "P.T.Oは、コーエーによる別の軍事シミュレーションゲームです。このゲームでは、日本または連合国のいずれかを選択できます。艦隊を管理し、新しい軍艦を発注することで、紛争のさまざまな側面を制御できます。（艦船の開発、基地防衛、艦隊編成、直接戦闘の指揮、経済的決定）P.T.Oには多くのプレイオプションがあり、数々の有名な戦闘のいずれかを選んでプレイすることも、キャンペーンを進めることもできます。一方の陣営または両方を制御することが可能です。また、勝利条件に関しても限られたコントロールがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

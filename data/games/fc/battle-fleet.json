@@ -1,0 +1,68 @@
+{
+  "id": "battle-fleet",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle Fleet",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルフリート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle Fleet (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "bdb375aa",
+      "md5": "e7576cb96aab333b6ec33edddf709fd7",
+      "sha1": "1a4589ad34a23668bf4676034ff3aa254f9ecd71",
+      "sha256": "e16aa1d2045f6ef9fd9df9b76a17cb6a2040355daf919807acfd9b38be6f92dd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48586
+  },
+  "descriptions": [
+    {
+      "text": "バトルフリートは、AIと対戦するシングルプレイまたは人間のセカンドプレイヤーと対戦することができるターン制ストラテジーゲームです。ゲームには4つの短いシナリオと4つの長いシナリオが用意されており、合計8つのステージがあります。セッティングを選択する際には、水兵帽をかぶったパックマンが登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Fleet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Fleet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Fleet%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

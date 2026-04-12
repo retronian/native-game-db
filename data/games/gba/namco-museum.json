@@ -1,0 +1,109 @@
+{
+  "id": "namco-museum",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Namco Museum",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Namco Museum (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANMP",
+      "size": 4194304,
+      "crc32": "bb82460a",
+      "md5": "0e7e7ed17b4e8e4d09e166d3bd923b40",
+      "sha1": "3e84508a0d2362a0abf31dede1d55b865566213c",
+      "sha256": "0b567456f4fc1f18a5843cd782f1eb82bd1acd5f2dd295b03a36b77316ee1080"
+    },
+    {
+      "name": "Namco Museum (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANME",
+      "size": 4194304,
+      "crc32": "c58a04c1",
+      "md5": "60ac7a006e8a00581b832ceb8a000305",
+      "sha1": "01090d75a45eb4ab326c6299646e946afc7d0be9",
+      "sha256": "c050b53427fd25dbbd57d04ec34c3010a049672540433dca866287d5226a9f5d"
+    },
+    {
+      "name": "Namco Museum (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANMJ",
+      "size": 4194304,
+      "crc32": "818f4e4b",
+      "md5": "e124a5cc941c7aba6a626f687c50fbf6",
+      "sha1": "54d01cf5ac57f5fb454c0e188de9e60f63854a97"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85608
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Namco%20Museum%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Namco%20Museum%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Namco%20Museum%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Namco%20Museum%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Namco%20Museum%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Namco%20Museum%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Namco%20Museum%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Namco%20Museum%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Namco%20Museum%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "bull-fight-ring-no-hasha",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bull Fight - Ring no Hasha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブルファイト リングの覇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bull Fight - Ring no Hasha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "5c4d1991",
+      "md5": "7a48865eddcc5ef4bd998a5bfea05ae4",
+      "sha1": "6cd94e6209da2939752ab6b1c2d46e5b48c8e0cb",
+      "sha256": "2a76afee281e128a9a27c5540c77f1439a96b6f3c2ae7a1be466d554f8bbcb6a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bull%20Fight%20-%20Ring%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bull%20Fight%20-%20Ring%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bull%20Fight%20-%20Ring%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

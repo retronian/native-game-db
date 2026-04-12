@@ -1,0 +1,63 @@
+{
+  "id": "mamegoma-3-kawaii-ga-ippai",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mamegoma 3 - Kawaii ga Ippai!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "まめゴマ3 かわいいがいっぱい！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "まめゴマ3 かわいいがいっぱい",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mamegoma 3 - Kawaii ga Ippai! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BG8J",
+      "size": 16777216,
+      "crc32": "97763a4a",
+      "md5": "b5be8f8be3a4ecc6086fca184ab87510",
+      "sha1": "d5c3d3e2284b2773c040e518e516bbb4b036234a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 241043
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mamegoma%203%20-%20Kawaii%20ga%20Ippai%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mamegoma%203%20-%20Kawaii%20ga%20Ippai%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

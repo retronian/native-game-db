@@ -1,0 +1,78 @@
+{
+  "id": "classic-nes-series-donkey-kong",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - Donkey Kong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファミコンミニドンキーコング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "NES Classics: Donkey Kong",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Famicom Mini: Donkey Kong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - Donkey Kong (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FDKE",
+      "size": 1048576,
+      "crc32": "f53d8b56",
+      "md5": "e0e75f6c714550e652dbaaaba49a1d53",
+      "sha1": "8e3b203630f10c32aa7896afe9b7fbed7e1c8d30",
+      "sha256": "eb95e91780768410ed5236e9e19c30796b69b1f0386564045a2d2c11497c5d09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49160
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20Donkey%20Kong%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20Donkey%20Kong%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20Donkey%20Kong%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

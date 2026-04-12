@@ -1,0 +1,94 @@
+{
+  "id": "rox",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rox",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ROX -ロックス-",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rox (Japan) (En) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "4bd73d99",
+      "md5": "d5cde4a6f4877a71b06278a4802c7cce",
+      "sha1": "196eff1c40b3dc552e6fac9e16cc0f5f0e293434"
+    },
+    {
+      "name": "Rox (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "2e944775",
+      "md5": "c4cd1e337bb76ad0f7307f5cfa1ef6bc",
+      "sha1": "86cb1f29e5d061431978d6dc48d7278b9c290cda"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50066
+  },
+  "descriptions": [
+    {
+      "text": "空からたくさんのサイコロが降ってきます。あなたの役目は、それらを正しい形に並べることです！「テトリス」や「ドクターマリオ」といったパズルのクラシックの伝統を受け継ぎ、緊張感あふれる反射神経のテストが待っています。通常の落ちてくる形状の代わりに六面体のサイコロを使用し、「ROX」ではドミノの要素も加わります。あなたの瞬間的な挑戦は、サイコロを一つ別のサイコロと組み合わせ、そのペアを使って二つの間にあるサイコロを消すことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-03-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rox%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rox%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rox%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rox%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rox%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rox%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "imagine-party-planner",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Imagine - Party Planner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPMP",
+      "size": 33554432,
+      "crc32": "f7a53a4e",
+      "md5": "5ea21fdf40a6ca339aef733298542baa",
+      "sha1": "7f295388d35cd4d30fbae33d83408f061e5236f1"
+    },
+    {
+      "name": "Imagine - Party Planner (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPME",
+      "size": 33554432,
+      "crc32": "7a16e586",
+      "md5": "e14a9e049e2e9c26c06c5b124a2836c8",
+      "sha1": "93010d86de162bcb89440d02b815d0f238c4cbf0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7940
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Party%20Planner%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Party%20Planner%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Party%20Planner%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Party%20Planner%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

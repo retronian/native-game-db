@@ -1,0 +1,68 @@
+{
+  "id": "power-gate",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Gate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーゲイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Gate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "be8b6e3b",
+      "md5": "a797c794f8eef6ebbdacd7a3996e7134",
+      "sha1": "ba5b53a1561a2ecf6bd6aec18a9db34c211c05ea",
+      "sha256": "0d762c80767d14c54da552f4a9338e425643c9826b5c2d73763257d471ef783d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42130
+  },
+  "descriptions": [
+    {
+      "text": "Pack-In-VideoはPCエンジンシステムの中では特に素晴らしいパブリッシャーではありませんでしたが、今回は横スクロールシューティングゲーム「パワーゲート」で戻ってきました。プレイヤーはハイテクの戦闘機を操縦し、峡谷や敵の都市、巨大な戦艦を飛び回ります。戦闘機はシンプルで遅いバルカン砲からスタートし、点滅する敵（多くは飛行機やミサイルの形をしています）を破壊することでゲーム中にアップグレードできます。他にも地上爆弾やエネルギーセルなどのパワーアップアイテムがあり、これらは戦闘機のシールドバーを回復します。また、戦闘機はセカンダリウェポンも装備できます。ホーミングミサイル、ナパーム爆弾、8方向発射など6種類の武器があり、面白いオプションとしては、戦闘機をミラーリングして火力を3倍にするものもあります。これらのセカンダリウェポンは別のアクションボタンで発動し、他のアイテムと同様に収集でき、ストックすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20Gate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

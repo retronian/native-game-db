@@ -1,0 +1,89 @@
+{
+  "id": "advanced-daisenryaku-deutsch-dengeki-sakusen",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Advanced Daisenryaku - Deutsch Dengeki Sakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Advancedド大戦略 ドイツ電撃作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アドバンスド大戦略 ドイツ電撃作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005505-01",
+      "size": 1048576,
+      "crc32": "e0d5e18a",
+      "md5": "d1c8b8474a9c47c5a2457b9549dee728",
+      "sha1": "842430c0465d810576e75851023929fec873580d",
+      "sha256": "47360b90ee077c2df7bb8f8bb6f46bbea25d7e5b1fd975cdf507c1048d80b062"
+    },
+    {
+      "name": "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "6ce17e36",
+      "md5": "f497a6eb25c8bb08a12b85721b997b03",
+      "sha1": "423fdfb037c4a3e6cb97e49bc1cce6f08bd77475",
+      "sha256": "b65fc7d78b78240772670427e4169b6ea2eb3cb2fe5439d52405b392ce68ca1e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65524
+  },
+  "descriptions": [
+    {
+      "text": "「Advancedド大戦略 ドイツ電撃作戦」は、一般的に「Advancedド大戦略」として知られる1991年にセガとシステムソフトが共同開発し、セガが日本国内向けにセガメガドライブ用に発売した戦略ゲームです。システムソフトの大戦略シリーズの一部であり、セガメガネットを介してオンラインプレイが可能な数少ない小売メガドライブゲームの一つです。また、Advancedド大戦略シリーズの始まりでもあり、すべてセガによって発売されています。\n\nセガと現在はシステムソフトアルファに改名された会社は、2006年に「セガエイジス2500」の一環としてこのゲームを再発売しました。\n\n2002年から2006年にかけて、Nebelwurferがこのゲームを英語にファン翻訳し、「Advanced Military Commander」として翻訳マニュアルも提供しました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-06-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Advanced%20Daisenryaku%20-%20Deutsch%20Dengeki%20Sakusen%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Advanced%20Daisenryaku%20-%20Deutsch%20Dengeki%20Sakusen%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Advanced%20Daisenryaku%20-%20Deutsch%20Dengeki%20Sakusen%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

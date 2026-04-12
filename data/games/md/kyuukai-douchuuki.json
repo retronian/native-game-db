@@ -1,0 +1,73 @@
+{
+  "id": "kyuukai-douchuuki",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kyuukai Douchuuki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "球界道中記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kyuukai Douchuuki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14103-00",
+      "size": 524288,
+      "crc32": "de48dce3",
+      "md5": "5407fbb67cc8664760d073c72c04f392",
+      "sha1": "40e771ace8f89e40d3315be698aa68effd617c5c",
+      "sha256": "e4292f814b540a19393d73895a566bc7a34e2c01deab9f03d90758401b6935b1"
+    },
+    {
+      "name": "Kyuukai Douchuuki (Japan) (Rev 1) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14103-00",
+      "size": 524288,
+      "crc32": "cccab8ae",
+      "md5": "7d6722c4813f4a8481346a6aa1472b6a",
+      "sha1": "c90592b3a953357ec31d162d6bbb9c7c34043066",
+      "sha256": "0471d5e8be268a981bc3f60611b924e489c593feedb38b9272e940915535b2ee"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45724
+  },
+  "first_release_date": "1991-07-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Kyuukai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Kyuukai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Kyuukai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

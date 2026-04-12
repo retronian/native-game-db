@@ -1,0 +1,85 @@
+{
+  "id": "arabian-nights-sabaku-no-seirei-ou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arabian Nights - Sabaku no Seirei Ou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アラビアンナイト 砂漠の精霊王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アラビアンナイト Arabian Nights 砂漠の精霊王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arabian Nights - Sabaku no Seirei Ou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "b6dbf57b",
+      "md5": "eb1ad755da3310f392cf8bc94962612e",
+      "sha1": "4c06a9a1f5598869852b9f008136e38e2a39baab",
+      "sha256": "068f334210289f187473584af0522ad1933664e9129a9e712453968f4a87f4ae"
+    },
+    {
+      "name": "Arabian Nights - Sabaku no Seirei Ou (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "db17dcfa",
+      "md5": "ce5090f7f795557c48986ba68cff09db",
+      "sha1": "79883a2816bad5afe68a93f8679190dc1995b4e7",
+      "sha256": "6f01b37c9b6799cfbc07e807ae267ec67692b45c24105b12742a7c6c19f3c612"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38381
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arabian%20Nights%20-%20Sabaku%20no%20Seirei%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arabian%20Nights%20-%20Sabaku%20no%20Seirei%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arabian%20Nights%20-%20Sabaku%20no%20Seirei%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arabian%20Nights%20-%20Sabaku%20no%20Seirei%20Ou%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

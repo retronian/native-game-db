@@ -1,0 +1,60 @@
+{
+  "id": "ai-mahjong-selection",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "AI Mahjong Selection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Major Wave シリーズ AI麻雀セレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "AI Mahjong Selection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "934a36e2",
+      "md5": "ea1b4bf34958f15c43668ea5d7166b77",
+      "sha1": "b0937a2beb20009c6c3fd429fac2001de0efc372",
+      "sha256": "1b8977275cebcc39a634d04ec7ba98ffdd5b99e54a6de1422e0099a38b20d8d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 349952
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/AI%20Mahjong%20Selection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/AI%20Mahjong%20Selection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/AI%20Mahjong%20Selection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

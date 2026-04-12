@@ -1,0 +1,79 @@
+{
+  "id": "chicken-shoot",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chicken Shoot",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chicken Shoot (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6FP",
+      "size": 4194304,
+      "crc32": "5749fdc9",
+      "md5": "ca8bc391def42c66b2e6c7a179b945e9",
+      "sha1": "d80ab8b60d82812dfbc7d7f1f7cbeb302bc85ec1"
+    },
+    {
+      "name": "Chicken Shoot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6FE",
+      "size": 4194304,
+      "crc32": "4b22e081",
+      "md5": "36a92215bc1fd68f9db49c1be06fe088",
+      "sha1": "55235f7f2c427e0684e909f3832567f1f576da02"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248610
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chicken%20Shoot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chicken%20Shoot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chicken%20Shoot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chicken%20Shoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chicken%20Shoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chicken%20Shoot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

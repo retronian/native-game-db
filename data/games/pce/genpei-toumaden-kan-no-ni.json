@@ -1,0 +1,65 @@
+{
+  "id": "genpei-toumaden-kan-no-ni",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genpei Toumaden - Kan no Ni",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "源平討魔伝 巻ノ弐",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genpei Toumaden - Kan no Ni (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8793758c",
+      "md5": "f6b763e45180bd47a689d03890a82344",
+      "sha1": "fc712391b09c3ff2d6c894260f4b4c10b77219af",
+      "sha256": "40ee91aff36d54ee0f2b62a0b78c55ae0f4e64f3f7a20edbf0bb3b71793f29bb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1192年、源氏の暗黒が訪れ、日本全土に広がっています。国は荒廃し、地獄の底から戻れるのは失われた平家の一人だけです。その名は平の影清。\n\n『源平討魔伝』の物語は、日本の歴史における源平合戦を中心に展開され、平の影清が悪の源頼朝や源氏一族と戦う様子が描かれています。\n\nゲームには3つのプレイモードがあります。「サイドモード」は小規模なアクションプラットフォームセクション、「ビッグモード」はタイトーのコインオペレーション『グラディエーター』に匹敵する大規模な戦闘セクション、「フラットモード」は俯瞰視点のセクションです。どのセクションでも、敵を倒し、アイテムを集め、ライフバー（燃えるろうそくで表示）が尽きる前にゴールに到達することが目的です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Genpei%20Toumaden%20-%20Kan%20no%20Ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Genpei%20Toumaden%20-%20Kan%20no%20Ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Genpei%20Toumaden%20-%20Kan%20no%20Ni%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

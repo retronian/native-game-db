@@ -1,0 +1,83 @@
+{
+  "id": "akumajou-dracula",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Akumajou Dracula",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "悪魔城ドラキュラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Akumajou Dracula (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "04379750",
+      "md5": "0ca641e3973edd1aca5f93fcc9c87e0d",
+      "sha1": "5d86e8144587903df90669dee1791917215719b9",
+      "sha256": "329e56851b1b173018e039b3bf4507b0449f8c196ccb7e136fd53a77b07c1b7c"
+    },
+    {
+      "name": "Akumajou Dracula (World) (Castlevania Anniversary Collection)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "2301821e",
+      "md5": "bd492d283f7aecc31fc4d3dd39ee7272",
+      "sha1": "8279b8b093115fcf2c1f67a237ee6553d7e25b0e",
+      "sha256": "f2e7f164ea8eebadef274761130420b9a3431d9ab7fea9a787aadc03da0caede"
+    },
+    {
+      "name": "Akumajou Dracula (Asia) (En) (Kaiser) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "35c8e703",
+      "md5": "14915aaa61856f3c477d7916b509b461",
+      "sha1": "9e6ce3ec3e2fe03bb90ad957480f673876c27d69",
+      "sha256": "d803273c07bfc74035ccac68176cedeaece599b4966d204d34ec64f16d5aabd8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 377248
+  },
+  "descriptions": [
+    {
+      "text": "自己責任で入ってください！\n\n外は怖いと思っているなら、地下室を見たら驚くこと間違いなし。あなたは人生最長の夜を迎えることになります。幽霊、ゴブリン、悪魔、オオカミ、コウモリ – 隅々に潜むクリーチャーたち。深く深く降りていくほど、彼らはますます増えていきます。洞窟の床にしっかりとくっついているのが賢明です - 武器を見つける唯一のチャンスです。あなたはそれを必要とするでしょう。なぜなら、ついにカウントと対面する時が来たら、彼はあなたの首筋を狙ってくるからです。だから、勇気を持ち続け、杭を鋭く保ってください。そして、祈りを捧げましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Akumajou%20Dracula%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Akumajou%20Dracula%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Akumajou%20Dracula%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

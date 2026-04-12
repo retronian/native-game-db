@@ -1,0 +1,72 @@
+{
+  "id": "vapor-trail",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vapor Trail",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "空牙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vapor Trail (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49106-00",
+      "size": 1048576,
+      "crc32": "c49e3a0a",
+      "md5": "cff6076504b1097bb89848c0698ef2a2",
+      "sha1": "d8eb087eeda31f202e6a1a0c4de891ced162abc5",
+      "sha256": "4903ca9198d7b9140f8c596ccbc8e43c5cf1f525473779b2d41307966ab4bdef"
+    },
+    {
+      "name": "Vapor Trail (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49106-00",
+      "size": 1048576,
+      "crc32": "2634bdbd",
+      "md5": "4e69f2ecbfb967d3c1304bc0f337f059",
+      "sha1": "e40afaf318ad7bb375c739273d70d74dd0667862",
+      "sha256": "1897069215a6dd01d4ad06cdcdc990ea44fa8675fe0e59d9e695b7375d634321"
+    }
+  ],
+  "external_ids": {
+    "igdb": 39996
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Vapor%20Trail%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Vapor%20Trail%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Vapor%20Trail%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

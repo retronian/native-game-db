@@ -1,0 +1,48 @@
+{
+  "id": "vs-collection",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "VS. Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Vs. コレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "VS. Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "a9fcfd53",
+      "md5": "6fa817fa8bb28d12151f4cad181e904d",
+      "sha1": "1b651e943b3b8c17815e5619837af600e3097557",
+      "sha256": "99560791eec1707c9140fa9e7495db6c1f7d9ff0fda18b0749827953c406e060"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37771
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーとAIがさまざまな会場で戦うことができる4つのモードを特徴としたゲームです。各モードは互いに全く異なり、さまざまなジャンルを網羅しています。各モードは異なる人数の人間プレイヤーをサポートでき、残りはAIが操作するかオフにすることができます。このゲームの4つのモードは、マジカルドロップゲームに似た卵を移動させる対戦パズルモード、プレイヤーが複数のユニットを同時に動かし、相手の部隊を先に排除するために慎重なタイミングを必要とするリアルタイムストラテジー戦闘モード、障害物を飛び越えることを含むモード7強化のレーシングゲームで、F-ZEROやスーパーマリオカートに似ており、画面の下から相手を落とすことを目指すシングルスクリーンのバトルゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-11-29"
+}

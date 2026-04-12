@@ -1,0 +1,40 @@
+{
+  "id": "horseland",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Horseland",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Horseland (Europe) (En,De,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CH8P",
+      "size": 33554432,
+      "crc32": "05d4df5a",
+      "md5": "5ac4fd7ea71333ab6f3befdadc8de922",
+      "sha1": "ff452a04a032ff1c44f1358d017842e72b4c1507",
+      "sha256": "b584f58f30e30451e4cba477cb4841199e5c29fc1edaf4e1677b5870f9d434bd"
+    },
+    {
+      "name": "Horseland (Europe) (Fr,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CH8X",
+      "size": 33554432,
+      "crc32": "91d27d1f",
+      "md5": "84c25ed387c00144c2b0b97ffd80253e",
+      "sha1": "5ab96062d8cd9606d6590a52dd5b54ddb08010ec",
+      "sha256": "2eabbffdc73c3c4493016aa967e15f766755b328362127c790ab585134f7d528"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kobun-kanbun-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kobun Kanbun DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kobun Kanbun DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BOCJ",
+      "size": 8388608,
+      "crc32": "2d860eac",
+      "md5": "2a16b1b6c05b9830e5d7f4874c958cf2",
+      "sha1": "9353c8006809806fcf9fbe67867538896f7f7dbc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kobun%20Kanbun%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kobun%20Kanbun%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

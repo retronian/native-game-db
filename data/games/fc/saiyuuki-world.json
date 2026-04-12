@@ -1,0 +1,96 @@
+{
+  "id": "saiyuuki-world",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saiyuuki World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "西遊記ワールド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saiyuuki World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "cd1e7133",
+      "md5": "01e8594637accca56e7d1a2e63906db5",
+      "sha1": "a54a1526a7fde2d61958b1dd45e076716718a94b",
+      "sha256": "4b05f6accedb28405a9bd713a806ed9954b2bad97ff29849afe085f9c9c35ccd"
+    },
+    {
+      "name": "Saiyuuki World (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "7081b7ed",
+      "md5": "4f91ed8925e67ef232585eb2e1db8f03",
+      "sha1": "e3e01317e80adb182bcdc90a6b238e67889689b2",
+      "sha256": "b15cb15d8563e051962353d522eaa6c4b8cde9d03271987ed7cb0f2cc2a325df"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48403
+  },
+  "descriptions": [
+    {
+      "text": "西遊記ワールド。孫悟空たちの冒険をテーマにしたアクションRPG。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Saiyuuki%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Saiyuuki%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Saiyuuki%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Saiyuuki%20World%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Saiyuuki%20World%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Saiyuuki%20World%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

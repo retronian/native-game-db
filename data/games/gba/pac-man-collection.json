@@ -1,0 +1,211 @@
+{
+  "id": "pac-man-collection",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pac-Man Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パックマンコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pac-Man Collection (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APCE",
+      "size": 4194304,
+      "crc32": "9a8e2eaa",
+      "md5": "a8af304d0a9a60911018847cdea41eb8",
+      "sha1": "afe4a9dfd653ae2b3589297889105d55eb775c81"
+    },
+    {
+      "name": "Pac-Man Collection (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APCP",
+      "size": 4194304,
+      "crc32": "1585b57b",
+      "md5": "54db03f65d646ff884cc1ede2bf9f2e5",
+      "sha1": "a12acc97936dbe32fb10f58b2585c6189182153f"
+    },
+    {
+      "name": "Pac-Man Collection (Japan) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APCJ",
+      "size": 4194304,
+      "crc32": "0fcb1a0c",
+      "md5": "e963e1b70ddee0657a91f6d857c4e176",
+      "sha1": "c2ae5187a0047b18d4ddee5564310a3257907116",
+      "sha256": "c2d43271d22919fa3d997db1801d9bccdf32627c82ee57898b0ddd3af4583385"
+    },
+    {
+      "name": "Pac-Man Collection (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APCE",
+      "size": 4194304,
+      "crc32": "6e5c16f4",
+      "md5": "ed4304cc4f5bac34adfaa750316784a8",
+      "sha1": "aaaf5496411cdd9315debe866e69ca8665468f9b",
+      "sha256": "87eb602a50fc80f205cab2a22f1455b0d49c7cb777b568e15227aabc0a9b1d71"
+    },
+    {
+      "name": "Pac-Man Collection (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APCJ",
+      "size": 4194304,
+      "crc32": "b0fddb8f",
+      "md5": "4ce8a88300a6d1efa22e34271c60fc64",
+      "sha1": "73c395f79a2615ab2c8fdd4f865219fe2fc5184a"
+    },
+    {
+      "name": "Pac-Man Collection (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APCP",
+      "size": 4194304,
+      "crc32": "e1578d25",
+      "md5": "3b0dae8cd1dd848fe201f7cbaf94ced1",
+      "sha1": "750a6b6c36f75b2605a1dfceefce7f27aa2191e3",
+      "sha256": "4b7837ad31d4be8c61250242f1f9b3240f81be5d6f518cedfc07a2d4e45519c7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6528
+  },
+  "descriptions": [
+    {
+      "text": "ナムコのこのコレクションには、4つのクラシックなパックマンゲームが含まれています：\n\n1. パックマン：オリジナルのアーケードクラシック、完全版です。\n2. パックマニア：1987年のパックマンのアップデート版で、オリジナルのアーケードゲームの要素をアイソメトリックビューに配置し、ジャンプする能力を追加しました。\n3. パックマンアレンジメント：アーケード以外では再現されていないアレンジメントは、再びオリジナルのパックマンの要素を使用し、他の4匹のゴーストと組み合わせることで形やサイズを変えることができる5匹目のゴーストを追加し、パックマンにとっての難易度を上げます。また、画面を素早く移動する能力や、場所を移動するためのワープポイント、新しいゴーストの捕まえ方などの新しいパワーアップも含まれています。\n4. パックアタック：テトリスのように、落ちてくるブロックを組み合わせてラインを完成させ、画面をクリアする必要があります。この場合、落ちてくるタイルにはゴーストも含まれており、パックマンのタイル（パックマンのシンボルが描かれたタイル）が現れると、パックマンは行く手にいるすべてのゴーストを食べ続け、行き止まりに達するまで進みます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-01-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pac-Man%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pac-Man%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pac-Man%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

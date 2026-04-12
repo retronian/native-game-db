@@ -1,0 +1,59 @@
+{
+  "id": "ultima-quest-of-the-avatar",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultima - Quest of the Avatar",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Ultima: Seisha he no Michi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultima - Quest of the Avatar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "edc2ef27",
+      "md5": "ffb77b81aa07543fb9b310c350b6ca5d",
+      "sha1": "f603c7f274cb6db9be0508a9aa150521ff27d14c",
+      "sha256": "2545ac47aba351fc6a028833e13dec0dd773b0d0d8b5977248d945d463db8f30"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48097
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultima%20-%20Quest%20of%20the%20Avatar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultima%20-%20Quest%20of%20the%20Avatar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultima%20-%20Quest%20of%20the%20Avatar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "sesame-street-elmo-s-abcs",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sesame Street - Elmo's ABCs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sesame Street - Elmo's ABCs (Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "20158fbc",
+      "md5": "5da357ef79acb5ab8852d145888dd5cb",
+      "sha1": "e98d4d4179ca13c22d0205f118470ecc795928b1"
+    },
+    {
+      "name": "Sesame Street - Elmo's ABCs (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "cc1fb2a9",
+      "md5": "db9d9e20af969a2ee248ae9af42a5d36",
+      "sha1": "c63ea7ff94250f1f7514a01250bbd5f04a5d2037"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sesame%20Street%20-%20Elmo%27s%20ABCs%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

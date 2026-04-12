@@ -1,0 +1,60 @@
+{
+  "id": "turf-memories",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Turf Memories",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ターフメモリーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Turf Memories (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "60beceed",
+      "md5": "87dc54d475d014d6dbcdc36285f6fdaf",
+      "sha1": "404c0422d14f89be41d30e85acf3677f665e28c6",
+      "sha256": "5f459aba9d9e32d9f4eca094f53b1b0d30da86b27b2ba526ba7eb5d7481f732f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37808
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Turf%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Turf%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Turf%20Memories%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

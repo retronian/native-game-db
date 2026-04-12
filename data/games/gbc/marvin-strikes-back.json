@@ -1,0 +1,59 @@
+{
+  "id": "marvin-strikes-back",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marvin Strikes Back!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Looney Tunes Collector: Martian Revenge!",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marvin Strikes Back! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "11b4788c",
+      "md5": "fdf704aff61ad3e6848642241ddb6032",
+      "sha1": "6e420ef902a52a5a932e0932d0aeb11c3d71fda2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49854
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Marvin%20Strikes%20Back%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Marvin%20Strikes%20Back%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Marvin%20Strikes%20Back%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "generator-rex-agent-of-providence",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Generator Rex - Agent of Providence",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Generator Rex - Agent of Providence (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BYRE",
+      "size": 134217728,
+      "crc32": "7efcb4f8",
+      "md5": "aac39cd02bc06f4ae5d6bcaf4d7fedf9",
+      "sha1": "5dabcd91bbfecb9ceca73bc6db9333325436e95d"
+    },
+    {
+      "name": "Generator Rex - Agent of Providence (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BU7P",
+      "size": 134217728,
+      "crc32": "f553250e",
+      "md5": "0a84509547822f4d3718ff95e20d435f",
+      "sha1": "57a85914945d73d018a3bc5a02c3663f7ea2a314"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8005
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Generator%20Rex%20-%20Agent%20of%20Providence%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Generator%20Rex%20-%20Agent%20of%20Providence%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Generator%20Rex%20-%20Agent%20of%20Providence%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Generator%20Rex%20-%20Agent%20of%20Providence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Generator%20Rex%20-%20Agent%20of%20Providence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Generator%20Rex%20-%20Agent%20of%20Providence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

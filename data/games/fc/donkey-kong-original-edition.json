@@ -1,0 +1,58 @@
+{
+  "id": "donkey-kong-original-edition",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donkey Kong - Original Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong - Original Edition (Europe) (Wii Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "3f26ebc5",
+      "md5": "ead86860981932bee86d82ad547533b7",
+      "sha1": "6733293bea208f66b64e236e83486e7fa4d14670",
+      "sha256": "e21f4d1c9dfa2bebc9672e74a7adc5f28e530f6a0f6cb6c26184498d349efdac"
+    },
+    {
+      "name": "Donkey Kong - Original Edition (USA, Europe) (3DS Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "fa8efbea",
+      "md5": "19328111cb52c586bbe89475637064df",
+      "sha1": "c4b652a641961bdcfe89b2f0778009039e5e2220",
+      "sha256": "fbc8e7d0f7812cf09a6762fdd1cd30dfabf300741226c355d57d8d0bf0eae464"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20-%20Original%20Edition%20%28USA%2C%20Europe%29%20%283DS%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donkey%20Kong%20-%20Original%20Edition%20%28USA%2C%20Europe%29%20%283DS%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donkey%20Kong%20-%20Original%20Edition%20%28USA%2C%20Europe%29%20%283DS%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

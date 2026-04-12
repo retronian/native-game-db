@@ -1,0 +1,77 @@
+{
+  "id": "pocket-monsters-soulsilver",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Monsters - SoulSilver",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - SoulSilver (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "IPGJ",
+      "size": 134217728,
+      "crc32": "cc4c2bef",
+      "md5": "a1211b2d44e551197712177e3d50b491",
+      "sha1": "facb67d1b6eece6e2b9d5c614427ac6f99b653d3"
+    },
+    {
+      "name": "Pocket Monsters - SoulSilver (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "IPGK",
+      "size": 134217728,
+      "crc32": "691a264d",
+      "md5": "65a556d5457feb0d125768813ee63209",
+      "sha1": "1aa8c3e63f9848d8677c02f96db78d0bfa6aaa7f",
+      "sha256": "abb6ddcac6abaa5f99806a636410d21b8648d84fcf0277c826f20929794bdfdd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pocket%20Monsters%20-%20SoulSilver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pocket%20Monsters%20-%20SoulSilver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pocket%20Monsters%20-%20SoulSilver%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pocket%20Monsters%20-%20SoulSilver%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pocket%20Monsters%20-%20SoulSilver%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pocket%20Monsters%20-%20SoulSilver%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

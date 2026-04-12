@@ -1,0 +1,67 @@
+{
+  "id": "ojarumaru-tsukiyo-ga-ike-no-takaramono",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ojarumaru - Tsukiyo ga Ike no Takaramono",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おじゃる丸 月夜が池の たからもの",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ojarumaru - Tsukiyo ga Ike no Takaramono (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "ed7461d2",
+      "md5": "5c3a09f365cfa467a11f14075b0d5517",
+      "sha1": "66d87a06d4d951e7695df73f53793a462509e4d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282393
+  },
+  "descriptions": [
+    {
+      "text": "アニメ「おじゃる丸」の世界が舞台です。サイコロを振って町を移動し、ミニゲームをプレイしてポイントを増やし、ゴールを目指しましょう。対戦プレイも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-07-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ojarumaru%20-%20Tsukiyo%20ga%20Ike%20no%20Takaramono%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ojarumaru%20-%20Tsukiyo%20ga%20Ike%20no%20Takaramono%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ojarumaru%20-%20Tsukiyo%20ga%20Ike%20no%20Takaramono%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

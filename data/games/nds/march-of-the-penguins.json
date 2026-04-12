@@ -1,0 +1,79 @@
+{
+  "id": "march-of-the-penguins",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "March of the Penguins",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "March of the Penguins (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQLP",
+      "size": 8388608,
+      "crc32": "a3c3ae10",
+      "md5": "94658438820f6b9645145e242fe99edf",
+      "sha1": "806c7fa58c9dcbce62cd0013446e6bd534a32f9f"
+    },
+    {
+      "name": "March of the Penguins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQLE",
+      "size": 8388608,
+      "crc32": "ff2b6ea8",
+      "md5": "6ba6d259b1592d688e983490fea394b6",
+      "sha1": "1347dfe1b8d9731560e1e743cc2549391736125c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20648
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "poptropica-adventures",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Poptropica Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Poptropica Adventures (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TPUE",
+      "size": 16777216,
+      "crc32": "27a77db3",
+      "md5": "77c3d612cf668c599183d0919460f34d",
+      "sha1": "5b0f85daadee3cf1ed1a3c0d77f31ed550be638a",
+      "sha256": "c05accf2837ff6bfab9fba9dc53246c949e896ebb35a97fc7f2b540951df263e"
+    },
+    {
+      "name": "Poptropica Adventures (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPUP",
+      "size": 16777216,
+      "crc32": "dbdb6660",
+      "md5": "5e8e093638b328e7e4fa39ab594ddc67",
+      "sha1": "bcb9cbb4d72f307c690e7b131b341fb232cb98bd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47928
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Poptropica%20Adventures%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Poptropica%20Adventures%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Poptropica%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Poptropica%20Adventures%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

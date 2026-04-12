@@ -1,0 +1,80 @@
+{
+  "id": "f-1-world-grand-prix",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F-1 World Grand Prix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "F-1 World Grand Prix (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "8d9a9182",
+      "md5": "cfb6a98bef18c56e466d27b885e20f8f",
+      "sha1": "16aa2e02e9b7f236f12a49c3224ca4cc89cdf98c",
+      "sha256": "78e91740ecdc7aaad788e1c8f3fac21865a5cc7c5feb04c6cc3e016a0c8c93a4"
+    },
+    {
+      "name": "F-1 World Grand Prix (Japan) (En) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5e24811e",
+      "md5": "5dfe3d8c181023b30cfc942a9aa40a69",
+      "sha1": "25c83cb589ce85917b99757090a94e588cb799b9",
+      "sha256": "5c3cb5d698e785eb0fa29d8cf4e3b3b51de00f4096db82cc0c1d411798f7bb38"
+    },
+    {
+      "name": "F-1 World Grand Prix (Japan) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "3122807b",
+      "md5": "9146fdd44befde06269c9c1642678c94",
+      "sha1": "afc4b8f0487b0c6b0ca6470d4002eaca6616a04b",
+      "sha256": "ab3800c1c8a566153863acd28baafee6dcbb27d96cd25798cd90a5ddd03ede0a"
+    },
+    {
+      "name": "F-1 World Grand Prix (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "d6496fe9",
+      "md5": "09c21d37f66cca587663a461c81606be",
+      "sha1": "9285bb4fbab8678b65cc8736f43e4ea3895c1cf4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248741
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/F-1%20World%20Grand%20Prix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/F-1%20World%20Grand%20Prix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/F-1%20World%20Grand%20Prix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

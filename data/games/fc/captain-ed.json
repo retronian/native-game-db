@@ -1,0 +1,77 @@
+{
+  "id": "captain-ed",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Captain ED",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キャプテン えど",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Captain ED（キャプテン・エド）",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Captain ED (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b079e5bf",
+      "md5": "b03841457c926acec2090f1895fb0584",
+      "sha1": "ca8dea229c6be129ad42a2366c5328021fab36ec",
+      "sha256": "48deed404729b78eb990817be41dcda1c788b301f944e083ac4e887145cb9c64"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48539
+  },
+  "descriptions": [
+    {
+      "text": "キャプテン えどは、縦スクロールのシューティングゲームです。プレイヤーは宇宙の7つの異なるレベルを進みながら、友達を囚われから救出し、ドグマを倒すために船を操縦します。敵の船を撃墜することでお金を稼ぐ必要があります。主人公（必ずしもエドとは限りません）は、色とりどりのタイルで表現された宇宙を進みながら、「宇宙の7人のマスター」を倒すために戦わなければなりません。定期的に立ち寄ってガソリンやその他のアイテムを購入する必要があります。7人の幸運の神々は、7人のマスターの対極として登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-08-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Captain%20ED%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Captain%20ED%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Captain%20ED%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

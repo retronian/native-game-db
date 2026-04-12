@@ -1,0 +1,65 @@
+{
+  "id": "advance-rally",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Advance Rally",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アドバンスラリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Advance Rally (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AR7J",
+      "size": 8388608,
+      "crc32": "86ed2599",
+      "md5": "a822dd94ad89ea5fe660a2564d6558a5",
+      "sha1": "020fb5bd11d39aee583fb0e2fea848ed2bbe0bf2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "よりアーケード寄りのシミュレーション。GTアドバンス2は、15台のラリーカーを提供し、レースの合間にチューニング、アップグレード、改造が可能です。42種類の異なるコースで、さまざまな天候条件や路面（アスファルト、ダートなど）でレースが行われ、長いコーナーがあり、パワースライドに最適です。\n\n各レースに勝利することで、新しい車両がアンロックされ、以前の車両のアップグレードも可能になります。チャンピオンシップモードに加え、タイムアタックや友達との対戦、特定のコースエリアをクリアすることでライセンスを取得することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Advance%20Rally%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Advance%20Rally%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Advance%20Rally%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "nekketsu-kakutou-densetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nekketsu Kakutou Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "熱血格闘伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "熱血 格闘伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nekketsu Kakutou Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ecce4bb5",
+      "md5": "c56d957bbe700b422f97cd8fe4515c54",
+      "sha1": "82aa8406b2f02812c6cdcceb1fed0f3c3589c674",
+      "sha256": "290fc03ebe109cb8293aa8d623af6362c65b3e4051eee09e89c34bffb1c0cdea"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "熱血格闘伝説。くにおくんシリーズの格闘アクション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Nekketsu%20Kakutou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Nekketsu%20Kakutou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Nekketsu%20Kakutou%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

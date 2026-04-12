@@ -1,0 +1,64 @@
+{
+  "id": "azarashi-sentai-inazuma-dokidoki-daisakusen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Azarashi Sentai Inazuma - Dokidoki Daisakusen!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "あざらし戦隊イナズマ どきどき大作戦!?",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "98f63bd4",
+      "md5": "e5d8aea67aef0ee94acf1ed35900ea74",
+      "sha1": "f4278b01f445562d17a9a2fd8dd5c9bc9d32008e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "イナズマザラシになり、5つのミニゲームに挑戦しよう。変身パワーを蓄え、ザラシ戦隊イナズマに変身して、悪の組織シロクマンと対決しよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Azarashi%20Sentai%20Inazuma%20-%20Dokidoki%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Azarashi%20Sentai%20Inazuma%20-%20Dokidoki%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Azarashi%20Sentai%20Inazuma%20-%20Dokidoki%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

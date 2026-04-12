@@ -1,0 +1,71 @@
+{
+  "id": "syd-of-valis",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Syd of Valis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "SDヴァリス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Syd of Valis (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-49126 -01",
+      "size": 1048576,
+      "crc32": "6384a63c",
+      "md5": "1c7dbade0d405d306c28a8e312553cac",
+      "sha1": "f4bbf12eb9c007da6bab894bceb504c422751f10",
+      "sha256": "29fe49044df939e9f615084cf2c6e8bac091b6e6cde8d028bf0426ae430225f2"
+    },
+    {
+      "name": "Syd of Valis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49126-01",
+      "size": 524288,
+      "crc32": "37dc0108",
+      "md5": "a81d327574d49aab69c2a6fe4cdc893a",
+      "sha1": "36e010f16791816108d395fce39b39ab0a49268c",
+      "sha256": "14ead5969c26a3450d52efbc80bfe00d07f23335573c9a846a83cb541364c81c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46191
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Syd%20of%20Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Syd%20of%20Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Syd%20of%20Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

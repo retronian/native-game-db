@@ -1,0 +1,67 @@
+{
+  "id": "jewels-of-the-tropical-lost-island",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewels of the Tropical Lost Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewels of the Tropical Lost Island (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJ4P",
+      "size": 8388608,
+      "crc32": "76fd9ceb",
+      "md5": "f363cd395002701fda7115e791478758",
+      "sha1": "e63f9952f78d94d0af7ed8ab463d0f6d2696a800"
+    },
+    {
+      "name": "Jewels of the Tropical Lost Island (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJ4E",
+      "size": 8388608,
+      "crc32": "33ea5cb0",
+      "md5": "dab74c076252aa041b0d94f257366d51",
+      "sha1": "81ba1f166160039669eb4465bd3b74a18b8ad800"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44066
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewels%20of%20the%20Tropical%20Lost%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewels%20of%20the%20Tropical%20Lost%20Island%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewels%20of%20the%20Tropical%20Lost%20Island%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jewels%20of%20the%20Tropical%20Lost%20Island%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

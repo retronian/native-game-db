@@ -1,0 +1,75 @@
+{
+  "id": "atlas-the-renaissance-voyager",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Atlas, The - Renaissance Voyager",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジ・アトラス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Atlas, The - Renaissance Voyager (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "19e09c6b",
+      "md5": "2e90e35bcfa4945a9a914191debe2b61",
+      "sha1": "1d8b3fb116749f6faa7503b9991f85da8382c4a2",
+      "sha256": "833cb0bd2eb9f8796cbe5af216a7207cedc714d909e95e1adbff9e6f4f956971"
+    },
+    {
+      "name": "Atlas, The - Renaissance Voyager (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "dffb7f28",
+      "md5": "9c978bf1c4583e406ec68ba5b14ca126",
+      "sha1": "364665d92b539565a29db474848e97b849faeecd",
+      "sha256": "7bd74f90379a47aa1c151eb0330d93f6a0cbbf5c6e4541a7bc42ff4aa9c4463e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本の開発者アートディンクによる歴史的ビジネス/発見ゲーム。「ジ・アトラス」のドイツ語版はサンフラワーズによって出版されました。ゲームは15世紀を舞台にしています。あなたはポルトガルの王と契約を結んでいます。年間1万ゴールドで、ポルトガルの南1000マイルの地域を5年以内に探索しなければなりません。発見した商品での取引は許可されていますが、旅の途中で得たすべての情報はポルトガルの王の所有物となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Atlas%2C%20The%20-%20Renaissance%20Voyager%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Atlas%2C%20The%20-%20Renaissance%20Voyager%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Atlas%2C%20The%20-%20Renaissance%20Voyager%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "road-rash",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Road Rash",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Road Rash (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "11025eeb",
+      "md5": "f5767f97f44365b703eae78afb7562e6",
+      "sha1": "b3329c0f92c1a6a6cfa894f487f68a7fcceb5844"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249144
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Road%20Rash%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

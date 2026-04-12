@@ -1,0 +1,95 @@
+{
+  "id": "sd-keiji-blader",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Keiji - Blader",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD刑事ブレーダー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ロボッ子ウォーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "SD 刑事 Blader",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    },
+    {
+      "text": "SD刑事 ブレイダー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Keiji - Blader (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "4dae76c7",
+      "md5": "a25f0df585647053b48183247d36ac1c",
+      "sha1": "30fec0b53c179bad6dca2733d2aa3fceb20ba98d",
+      "sha256": "a7696cba5c42c7be1b89b52b478647b08930226a391c60aeefcb31bc36ff6524"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48382
+  },
+  "descriptions": [
+    {
+      "text": "SD刑事ブレーダー。未来警察をテーマにしたアクションシューティング。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Keiji%20-%20Blader%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SD%20Keiji%20-%20Blader%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Keiji%20-%20Blader%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "parlor-mini-2-pachinko-jikki-simulation-game",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parlor! Mini 2 - Pachinko Jikki Simulation Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パーラー!Mini2 パチンコ実機シミュレーションゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パーラー ミニ パチンコ実機シミュレーションゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parlor! Mini 2 - Pachinko Jikki Simulation Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "30fc693d",
+      "md5": "b538e4882c1e36bbc386e6c66d106e91",
+      "sha1": "fff43fffc6b9b52f0710b9f3a78f4d54a0f399fe",
+      "sha256": "c34ca6bc1506b61d1596f875459edaa6174f890b7803150c967ff9980d6c7219"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Parlor%21%20Mini%202%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Parlor%21%20Mini%202%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Parlor%21%20Mini%202%20-%20Pachinko%20Jikki%20Simulation%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

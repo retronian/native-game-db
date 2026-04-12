@@ -1,0 +1,74 @@
+{
+  "id": "jerry-boy",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jerry Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジェリーボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーボンバーマン ぱにっくボンバーW",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jerry Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4ef452f6",
+      "md5": "f487330132177f2182b17bf6ef617a13",
+      "sha1": "9df714226c880ed96b43b2d1cdc0884da26a09b1",
+      "sha256": "75a5c596d2173596f500fd99fcc824ec77671b992de74bbcd7d271ccc7f59f0a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジェリーボーイは、奇妙な世界を旅するゼラチン状の人型ピンクの塊です。彼は、巨大なおもちゃ工場や極寒の雪原などの風景を巡りながら、さまざまな危険な敵や障害物に立ち向かいます。彼はジャンプができ、腹部から大きな拳を発射することもできます（結局、彼は塊ですから）。さらに、異なるレベルには特別なパワーアップがあり、塊が特定の状況で役立つ異なる形態に変身することができます。これには、特別なアイテムに浮かぶための熱気球、障害物のブロックを壊すためのハンマー、海底のボーナスレベルをより効果的に進むための潜水艦、期限内にレベルを駆け抜けるためのスケートボード、そして高くジャンプするためのポゴスティックが含まれます。ただし、すべてのパワーアップが役立つわけではありません。あるアイテムはジェリーボーイをブロックに変えてしまい、数秒間動けなくなります。\n\nジェリーボーイはパワーメーターの代わりに音符を集めます。攻撃を受けると、集めた音符がすべて失われ、音符がない状態で再度攻撃を受けるとライフを失います。ジェリーボーイは旅の途中でさまざまな果物も集めます。果物を十分に集めることで追加のライフを得ることができます。特定の種類の果物には他の副作用もあります（オレンジ = 時計の時間が増える、アボカド = 無敵）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Jerry%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Jerry%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Jerry%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

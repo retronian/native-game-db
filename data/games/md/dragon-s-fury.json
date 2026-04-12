@@ -1,0 +1,69 @@
+{
+  "id": "dragon-s-fury",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon's Fury",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "デビルクラッシュMD",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Devil Crash MD",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon's Fury (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-48116-00",
+      "size": 524288,
+      "crc32": "58037bc6",
+      "md5": "5fabe199a9dbc28df33598944140e1db",
+      "sha1": "bcbafa6c4ab0b16ddb4f316a1ef8c0eecd0cd990",
+      "sha256": "0817b65803bc206ee88f346b6ce0699ebee37b5175b7b995c7b30b1ccd43d165"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45586
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dragon%27s%20Fury%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dragon%27s%20Fury%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dragon%27s%20Fury%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

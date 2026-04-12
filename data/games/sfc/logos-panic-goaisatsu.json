@@ -1,0 +1,65 @@
+{
+  "id": "logos-panic-goaisatsu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Logos Panic Goaisatsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロゴスパニック Go.A.I.Sa.Tu. ごあいさつ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Logos Panic Goaisatsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "4808e2b2",
+      "md5": "325a085d8350f91f5f4759b4aa64dcda",
+      "sha1": "73d817b43224c3fa5e1bee697d25b7090c23b099",
+      "sha256": "9a54c0fefa6e85239ea84b322ec78dee2f7d0234ba3e8b1e50d5e530fa00ec62"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ロゴスパニックは、挨拶の言葉が混乱したバージョンについてのゲームです。「ごあいさつ」や挨拶は、ゲーム内で「ガーブル」されており、単なる挨拶だけでなく、かなりランダムな言葉が含まれています。プレイヤーは「挨拶 ???」という言葉に頭を悩ませます。2人のプレイヤーは、画面の左右に表示される赤、黄、青の言葉を作成する必要があります。考慮すべき要素は、プレイヤーと注意を払うべき青いラインであり、カタカナを正しい文法の位置に正しく配置することが求められます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-11-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Logos%20Panic%20Goaisatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Logos%20Panic%20Goaisatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Logos%20Panic%20Goaisatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "glocal-hexcite",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Glocal Hexcite",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グローカルヘキサイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Glocal Hexcite (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f1908391",
+      "md5": "e019b0790ef6e7b2dd39afdbec8ba651",
+      "sha1": "7d13220593c8d89af1b4cae955caacff7df3817a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヘキサイトは、ハニカム状のプレイフィールドで遊ぶパズルゲームです。中央には六角形があり、さらに六つの六角形が全体のプレイフィールドを構成しています。ターン制のゲームプレイにより、二人が一つのシステムを使ってプレイすることができます。また、二人対戦モードもサポートされています。\n\nプレイヤーは、まず中央の六角形に幾何学的な形（三角形、六角形、平行四辺形など）を置きます。その後、CPUまたは人間の対戦相手が、既に置かれたピースに隣接し（完全に一面が接触するように）別の形を置きます。プレイヤーは、完全な六角形を完成させることでボーナスポイントを獲得します。このゲームの戦略の多くは、相手を騙してボーナスを取らせることにあります。また、二つの面が得点に寄与するようにピースを置くことでボーナスも得られます。すべてのピースが置かれるか、残りのピースが置けなくなるとゲームは終了します。その場合、残ったピースの形の複雑さに基づいてポイントが減点されます（六角形は三角形の二倍のポイントが減点されます）。\n\n日本では、このゲームはいくつかのWindows版が登場し、ボードゲームとしても発売されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-09-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Glocal%20Hexcite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Glocal%20Hexcite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Glocal%20Hexcite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

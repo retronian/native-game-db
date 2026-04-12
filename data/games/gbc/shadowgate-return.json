@@ -1,0 +1,64 @@
+{
+  "id": "shadowgate-return",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shadowgate Return",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シャドウゲイト リターン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shadowgate Return (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1bcd7d70",
+      "md5": "4c18b5d470b105344ec55d195a05d2de",
+      "sha1": "15c4a88e7fbbeed6f529b86601285794e92ccf0c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "12人の魔法使いからなる評議会がカール・トリンの平和を守っていました。しかし、その中の一人が黒魔術を学び、土地に破壊をもたらすようになりました。彼は「ウォーロック・ロード」として知られるようになりました。幸運なことに、他のメンバーはウォーロック・ロードを打ち倒し、シャドウゲイト城の地下に彼を封印しました。しかし今、彼は牢獄から脱出し、シャドウゲイト城を支配しています。さらに、彼は世界を滅ぼすほどの力を持つクリーチャー「ビヒモス」を召喚しようと脅かしています。忘れられた王家の最後の一員として、あなたがウォーロック・ロードを止め、カール・トリンを救う唯一の存在です。シャドウゲイト城を進む旅は容易ではなく、心と体の強さが求められます。あなたはSHADOWGATE CLASSICでウォーロック・ロードを止めることができるでしょうか？",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-08-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Shadowgate%20Return%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Shadowgate%20Return%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Shadowgate%20Return%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

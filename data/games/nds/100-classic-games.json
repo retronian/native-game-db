@@ -1,0 +1,61 @@
+{
+  "id": "100-classic-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "100 Classic Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "100 Classic Games (Europe) (En,Fr,De,Es,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BX6P",
+      "size": 8388608,
+      "crc32": "17c3aa61",
+      "md5": "ed5bc83ce7b72445165fd2e89f86a935",
+      "sha1": "e1c6bd6e8e812f332e2e655bb3f39e7b8b9f3082"
+    },
+    {
+      "name": "100 Classic Games (Europe) (En,Fr,De,Es,Nl) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BX6P",
+      "size": 8388608,
+      "crc32": "873f3da3",
+      "md5": "dbc9e5a2bdc8c10dd002454ebb0bd4d6",
+      "sha1": "ab0f2fa9afc7ca6b2a949b82cfba236e72730974"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97232
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/100%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/100%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/100%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

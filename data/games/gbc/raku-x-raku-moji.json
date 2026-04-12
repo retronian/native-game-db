@@ -1,0 +1,63 @@
+{
+  "id": "raku-x-raku-moji",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Raku x Raku - Moji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラッキーモンキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Raku x Raku - Moji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "abe58a8b",
+      "md5": "b39c09e1a033f08d8160bf5dfa4082bc",
+      "sha1": "d9502543c6cd05c7e06a3b89286eec155aff83a0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "実際のミシンとゲームボーイを接続して使用する、かなり特定のソフトウェアです。ラッキーモンキーは、カタカナ、ひらがな、一部のラテン文字や記号、そしていくつかの漢字の刺繍に関わります。ラッキーモンキー ミシンとは異なり、これらのデザインは非常に複雑で、20や30のステッチではなく、数百のステッチで構成されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Raku%20x%20Raku%20-%20Moji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Raku%20x%20Raku%20-%20Moji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Raku%20x%20Raku%20-%20Moji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

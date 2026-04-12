@@ -1,0 +1,74 @@
+{
+  "id": "gokuraku-chuuka-taisen",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gokuraku! Chuuka Taisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "極楽! 中華大仙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "極楽!中華大仙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gokuraku! Chuuka Taisen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "e749a22c",
+      "md5": "144eb9109d75c8fd1fa09a20bde6a6cd",
+      "sha1": "b58e94e3e0c778e678c5d08c708ac4e37bedbbe3",
+      "sha256": "6cc9bc2e760c5e1485e549d95fb3b941035dc87d22f9035372eb0daf9a845cb4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "『クラウドマスター』、または日本では『中華大戦』として知られるこのゲームは、横スクロールのシューティングゲームで、文学作品『西遊記』の登場人物である孫悟空（モンキー・キング）をフィーチャーしています。英語版では、主人公の名前がマイク・チェンに変更されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gokuraku%21%20Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gokuraku%21%20Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gokuraku%21%20Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

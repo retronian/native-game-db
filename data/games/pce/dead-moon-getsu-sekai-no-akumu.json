@@ -1,0 +1,71 @@
+{
+  "id": "dead-moon-getsu-sekai-no-akumu",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dead Moon - Getsu Sekai no Akumu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "DEAD MOON 月世界の悪夢",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "「月世界の悪夢」",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dead Moon - Getsu Sekai no Akumu (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "56739bc7",
+      "md5": "e133de02b11031cf8a010e07bd772f3f",
+      "sha1": "d86ba171b459c286243306407311d85d013a2833",
+      "sha256": "a5de15f1b5be3ae4fcacb0e26224414febcbeff5602d3a38bbd26f7e44496507"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "約200年後、太陽系の端で彗星が発見されます。天文学者たちはそれが地球の近くを通過することを確認し、調査のためにプローブを送り出します。プローブが彗星に近づくと、突然進行方向を変え、地球に向かって進んでいきます。最後の瞬間、地球の人々は地表から彗星に向けてミサイルを発射し、その衝突を月に逸らすことに成功します。衝突クレーターの中心には、エイリアンの戦闘機械が集まっています！国連は、エイリアンの脅威を排除するために月に単独の宇宙船を派遣します。\n\n『デッドムーン』は、地球、宇宙、月の6つのレベルで展開される横スクロールシューティングゲームです。4種類の異なる主武器といくつかの副武器が用意されています。各レベルにはミニボスとレベルの最後にボスが登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Dead%20Moon%20-%20Getsu%20Sekai%20no%20Akumu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Dead%20Moon%20-%20Getsu%20Sekai%20no%20Akumu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Dead%20Moon%20-%20Getsu%20Sekai%20no%20Akumu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "jimmy-white-s-cueball",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jimmy White's Cueball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jimmy White's Cueball (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "27632f4f",
+      "md5": "8e23226758be3ae7a83803f9147ada5e",
+      "sha1": "ed9a76a235edd862f642b4dc974cd37126a267a8"
+    },
+    {
+      "name": "Jimmy White's Cueball (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "62c49da9",
+      "md5": "12d8b6827053a17b8301efeb1586c83f",
+      "sha1": "54a72ed5ef210b947a97e81208752c4431ef715c",
+      "sha256": "b1219350cfc8fa87b5df16b90de092e76a9b4eb4fd27315613f2ab3cdcfbdb69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jimmy%20White%27s%20Cueball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jimmy%20White%27s%20Cueball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jimmy%20White%27s%20Cueball%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

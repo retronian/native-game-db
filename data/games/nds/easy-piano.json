@@ -1,0 +1,62 @@
+{
+  "id": "easy-piano",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Easy Piano",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Easy Piano (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEPE",
+      "size": 16777216,
+      "crc32": "c3955ce1",
+      "md5": "64cb3f39e428c128bf738eed116a5706",
+      "sha1": "13a63b4ee23da5e21438773d2d6777344fd5446e"
+    },
+    {
+      "name": "Easy Piano (Europe) (Beta) (2009-07-22)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NTRJ",
+      "size": 16777216,
+      "crc32": "e2e1b7a0",
+      "md5": "1af19cf179463dc3a182ce8e9c368157",
+      "sha1": "54ea25d31032ecca28ffb6d71af976f8d8d2fa52",
+      "sha256": "a39601fd0e191b8e50cfa8c79f5eaa0cfaebb630055530ce68f2d59d5201e812"
+    }
+  ],
+  "external_ids": {
+    "igdb": 25168
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Easy%20Piano%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Easy%20Piano%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Easy%20Piano%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

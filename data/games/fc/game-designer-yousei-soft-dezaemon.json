@@ -1,0 +1,65 @@
+{
+  "id": "game-designer-yousei-soft-dezaemon",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Designer Yousei Soft - Dezaemon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームデザイナー養成ソフト 絵描衛門",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Designer Yousei Soft - Dezaemon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "185282c4",
+      "md5": "38422e73476ccacd221a7cef234b0535",
+      "sha1": "854a1dc7b2bbf948fb52f6fa861835595ab0c858",
+      "sha256": "d443b880a1765c88253b6e7750d60be2e82d047c63bcd30466a60f536d9a9ac5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "デザエモンは、志望する開発者が自分だけの縦スクロールシューティングゲームを作成できるゲームデザインアプリケーションです。プレイヤーは自分の船の見た目をカスタマイズし、最大3つのレベルのデザインを行い、タイトル画面も作成できます。デザエモンはアクションゲームで、キッドが開発し、アテナが発売したもので、1991年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-09-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Game%20Designer%20Yousei%20Soft%20-%20Dezaemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Game%20Designer%20Yousei%20Soft%20-%20Dezaemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Game%20Designer%20Yousei%20Soft%20-%20Dezaemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

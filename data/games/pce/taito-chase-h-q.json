@@ -1,0 +1,65 @@
+{
+  "id": "taito-chase-h-q",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taito Chase H.Q.",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイトーチェイスH.Q.",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taito Chase H.Q. (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "6f4fd790",
+      "md5": "12d5098d64869e784cf10029838df21f",
+      "sha1": "f4cd413a1f87027194b7cadfbaaa714c137e877f",
+      "sha256": "74e008fa5cf97f2d14320baf52d3f69d87eb55375509f885e7a96a8055220254"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "チェイス本部の潜入捜査官として、あなたの仕事は街をパトロールし、5人の犯罪者を追跡することです。任務を開始する前に、容疑者に関する情報や彼らが運転している車についてのブリーフィングが行われます。その後、他の車にぶつからないように注意しながら街を走り、犯罪者の車に追いつきます。容疑者を逮捕するためには、彼らの車に何度もぶつかり、機能しなくなるまで追い詰める必要があります。この作業は厳しい時間制限の下で行わなければなりません。車や建物にぶつかると、再び走り出すのに時間を無駄にしてしまいます。\n\nしかし、一度容疑者に追いつくと、さらに時間が与えられます。また、あなたの車にはターボブーストが装備されており、犯罪者から大きく遅れている場合には追加のスピードを得るために使用できます。各逮捕は「疑い」に基づいて行われます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Taito%20Chase%20H.Q.%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

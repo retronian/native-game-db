@@ -1,0 +1,41 @@
+{
+  "id": "free-fall",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Free Fall",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Free Fall (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "9b1d4572",
+      "md5": "80481746b1fe2917e8c0837508128a0d",
+      "sha1": "ea3c8944322ed2111b2ce0e27a7b6547f63e5762",
+      "sha256": "ae3dcaf5e6e504a09f300a58485c29451cb4918817a797ecdd2ca017ecc82d2a"
+    },
+    {
+      "name": "Free Fall (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "20e0c0ad",
+      "md5": "799779eb58a760ece01a36dbce306f04",
+      "sha1": "9df7a5ec27168c538978ad0f84afb6f0bfa1d341",
+      "sha256": "61d738fda2ec15cb82622a57419a98e30765018040c032ba50d1bf3ad79745c8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267940
+  }
+}

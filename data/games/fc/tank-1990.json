@@ -1,0 +1,51 @@
+{
+  "id": "tank-1990",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tank 1990",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "90 坦克",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 48901
+  },
+  "first_release_date": "1990-01-14",
+  "roms": [
+    {
+      "name": "Tank 1990 (China) (En) (Rev 1) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 40976,
+      "crc32": "1bc164c3",
+      "md5": "2aa049b5dab8b79ca97b9afadedc2de5",
+      "sha1": "056c79ccb6492df1b2732c723f74851ccd4a39b6",
+      "sha256": "3a1cc81292c82c291855e59378060cdd251063b9e9ad64ac161f7eaedf701a55"
+    },
+    {
+      "name": "Tank 1990 (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 24592,
+      "crc32": "dddd46e4",
+      "md5": "2f5317479fd2b1b0847254ce3559ef4d",
+      "sha1": "97a9ae8836316b459545604b293a1cfde3214db0",
+      "sha256": "4e1d9f800eb8710b831f5b9a2b29d21aea9e7fe9feac8e1b36ff285a66231bc2"
+    }
+  ]
+}

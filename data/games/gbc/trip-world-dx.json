@@ -1,0 +1,38 @@
+{
+  "id": "trip-world-dx",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Trip World DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "トリップワールド DX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Trip World DX (World) (Limited Run Games)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "af17b3eb",
+      "md5": "55bd8b9da0d4bf94a93e56d91c8219dc",
+      "sha1": "6871dd15e2081432ab4c7727f88491f7bbd95099",
+      "sha256": "c7c49fb9a71e69d94bf54e2e31cc5ee943c92b1afc3f5413bb16375bb8214904"
+    }
+  ],
+  "external_ids": {
+    "igdb": 263533
+  }
+}

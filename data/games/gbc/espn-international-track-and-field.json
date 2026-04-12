@@ -1,0 +1,57 @@
+{
+  "id": "espn-international-track-and-field",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ESPN International Track & Field",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "International Track & Field: Summer Games",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "がんばれ！ニッポン！オリンピック 2000",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Ganbare! Nippon! Olympics 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "ESPN International Track & Field (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4005d541",
+      "md5": "e1fcd22f776dc38d0bcffa697794cb1e",
+      "sha1": "397d76c85859d0fa9b58b49f7eae16f76ad45a17",
+      "sha256": "221a3d10567319eb975431ff855e665506b92cfd9481b66037bb1929fb32860f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 266557
+  }
+}

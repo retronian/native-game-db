@@ -1,0 +1,65 @@
+{
+  "id": "outer-world",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Outer World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アウター・ワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Outer World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8d004dbb",
+      "md5": "e5780316d3969260a93668a267685547",
+      "sha1": "6dea2ecad28782748dac38489a7afa493fb93c77",
+      "sha256": "82f306a31927e08e55c4502b982b1abd9d125f9a255278ba611298a7c9aec290"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたはレスターという若い物理学教授を操作します。彼は粒子実験中に雷に打たれ、突然奇妙な異星の世界に迷い込んでしまいます。今、彼は命をかけて戦わなければなりません。最初は素手で、次に見つけた銃で。彼に勇気を与えるのは、彼が一人ではないということです。彼と共に脱出した異星人の一人が、危険な冒険を助けてくれます。友情はすべての障害を乗り越えることができます。\n\n『アウター・ワールド』はアクションアドベンチャーゲームで、冒険要素は一見典型的なプラットフォームシューティングゲームの背後に隠されています。ゲームプレイは主に物理的および環境パズルに基づいています。画面上のインターフェースはなく、ゲーム内の対話もありません。各敵には異なる戦略が必要で、しばしば問題を解決する方法は一つだけです。通常、敵はゲームの初めに見つけた銃を使って倒します。この銃は、後ろに隠れて安全に発砲できるシールドを作るために使用できます。\n\nゲームはレベルに分かれており、それぞれのレベルはクリア後に学んだコードを入力することでアクセスできます。死んでしまった場合（これはよくあります）、レベルは最初からやり直しになります。ゲームはベクターグラフィックスとアニメーションカットシーンを特徴としています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Outer%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Outer%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Outer%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

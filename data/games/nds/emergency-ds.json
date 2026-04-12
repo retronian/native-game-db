@@ -1,0 +1,44 @@
+{
+  "id": "emergency-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Emergency DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Emergency DS (Germany)",
+      "source": "no_intro",
+      "serial": "CEOD",
+      "size": 33554432,
+      "crc32": "875c3654",
+      "md5": "4e7b84e10f1fe5721e6bbdbeef748d0a",
+      "sha1": "714d24f9bc561502b3f956cfe4ed1f145835e5a4",
+      "sha256": "8594066c079e0cb39eea2705a7ef25dc0bcad3ac8689bf815d4f09c96058b03e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Emergency%20DS%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Emergency%20DS%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Emergency%20DS%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

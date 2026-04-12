@@ -1,0 +1,51 @@
+{
+  "id": "burger-island",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burger Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burger Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CVAE",
+      "size": 16777216,
+      "crc32": "28e9728d",
+      "md5": "7f312ac64607aa6d2e0388da135570ac",
+      "sha1": "81cb59d4e5a84d18907b237f5eb8c331dfb28062"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6575
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Burger%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Burger%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Burger%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

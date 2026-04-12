@@ -1,0 +1,86 @@
+{
+  "id": "wizardry-ii-llylgamyn-no-isan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry II - Llylgamyn no Isan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィII・リルガミンの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウィザードリィII リルガミンの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "組曲ウィザードリィ II リルガミンの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry II - Llylgamyn no Isan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "91dcbd49",
+      "md5": "ae8dea041250898a6a496156f38c94a5",
+      "sha1": "410e3f31b1f00a39e3ed08d2aa3aafd355aeeb31",
+      "sha256": "5d1418c3cb73741162eec110667b7c30966eb2134513122d8bf26c4677dce427"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50047
+  },
+  "descriptions": [
+    {
+      "text": "冒険者たちがグニルダの杖とダイヤモンドの騎士の鎧を取り戻してから、世代が過ぎ去り、土地は平和を保っていました。しかし今、自然そのものがリルガミンの地を攻撃しているかのように、地震や津波が土地を ravage しています。賢者たちは、スクリーニングのオーブがこの街の救いであると信じていますが、それはドラゴンのルクブレスによって守られています。探検者たちは再びオーブを求めて冒険に出なければなりません。\n\n「リルガミンの遺産」は、ウィザードリィシリーズの第三作目です。前作同様、プレイヤーは最大6人のキャラクターを編成し、迷路のような大きなダンジョンを探索する一人称視点のダンジョン探索型ロールプレイングゲームです。プレイヤーはランダムに現れる敵とターン制の戦闘を行い、時折唯一の町に戻って休息を取り、物資を購入し、キャラクターの装備を整えます。キャラクターは、第一作または第二作からインポートする必要があります。\n\nキャラクタークラス、戦闘システム、全体的なゲームプレイのメカニクスは、前の二作と非常に似ています。しかし、善、悪、中立のアライメントがより大きな役割を果たします。ダンジョンの第一階層は誰でもアクセス可能ですが、他の五つの階層にはアライメント制限があり、パーティーには少なくとも一人の善または悪のキャラクターが必要であるか、中立のキャラクターを含まない必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-02-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "new-3d-golf-simulation-devil-s-course",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New 3D Golf Simulation - Devil's Course",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "New 3Dゴルフシミュレーション デビルズコース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "デビルズコース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "New 3D Golf Simulation - Devil's Course (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "640d734f",
+      "md5": "c05fc3328007b478495eb0bb5f23eaa8",
+      "sha1": "b66adea4a4a3aec6e3bcad6c0540d8f454184dad",
+      "sha256": "f404943c01d4afdce1e2ab4f833264ba2ea4fe4b39d3a56c980221762e1af008"
+    },
+    {
+      "name": "New 3D Golf Simulation - Devil's Course (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e983b63a",
+      "md5": "c565ea5042b5f2500217e8ab3221636d",
+      "sha1": "cd7c4627fb3d2db77fcb0e97798d0d7804f71c37",
+      "sha256": "d00e76e121a80ee58833c65ef9d032eb4903fcb506060480faea1facd5e6209f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/New%203D%20Golf%20Simulation%20-%20Devil%27s%20Course%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/New%203D%20Golf%20Simulation%20-%20Devil%27s%20Course%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/New%203D%20Golf%20Simulation%20-%20Devil%27s%20Course%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

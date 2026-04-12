@@ -1,0 +1,78 @@
+{
+  "id": "montezuma-s-return",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Montezuma's Return!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Montezuma's Return! (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "659693de",
+      "md5": "ee44254c96fa9318a26a1a5b0a9b48fe",
+      "sha1": "014b174f569984360442fb2142a0e4ae09366dc4"
+    },
+    {
+      "name": "Montezuma's Return! (USA) (En,Es) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "de04772f",
+      "md5": "5f821976274f5e6147f2354a6d01f098",
+      "sha1": "616bb04e0254ef2ba9e1ea629493efdcc37d807c",
+      "sha256": "003097c7a363da268fa2853262c1924ee72fe23fc546834b247c359f69a684aa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 135103
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Montezuma%27s%20Return%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Montezuma%27s%20Return%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Montezuma%27s%20Return%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Montezuma%27s%20Return%21%20%28USA%29%20%28En%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Montezuma%27s%20Return%21%20%28USA%29%20%28En%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Montezuma%27s%20Return%21%20%28USA%29%20%28En%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

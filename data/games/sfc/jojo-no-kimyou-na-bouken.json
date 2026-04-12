@@ -1,0 +1,60 @@
+{
+  "id": "jojo-no-kimyou-na-bouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "JoJo no Kimyou na Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "ジョジョの奇妙な冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "JoJo no Kimyou na Bouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "56ba694a",
+      "md5": "cd17d26a8c27b57e0a50043a686923b4",
+      "sha1": "8f1c62568c930c47b271c960be9bb9bb9276b782",
+      "sha256": "f070b0c1f01654927a9a6bf863b6e961bffca97f1b00aea4bb35b8b6e586a933"
+    }
+  ],
+  "external_ids": {
+    "igdb": 221257
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/JoJo%20no%20Kimyou%20na%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/JoJo%20no%20Kimyou%20na%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/JoJo%20no%20Kimyou%20na%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

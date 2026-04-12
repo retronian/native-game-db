@@ -1,0 +1,70 @@
+{
+  "id": "wings-of-wor",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wings of Wor",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Gynoug",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "ジノーグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wings of Wor (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-25076-00",
+      "size": 524288,
+      "crc32": "210a2fcd",
+      "md5": "911ef3d3909b19609f76f0d70a017d85",
+      "sha1": "91caad60355f6bd71949118bd30ea16d0f4c066e",
+      "sha256": "12962a34ddb87886f715903df711c5838984f6a109c2d54ec1d63a92c6df8c2a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 105255
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wings%20of%20Wor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wings%20of%20Wor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wings%20of%20Wor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

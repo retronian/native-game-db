@@ -1,0 +1,67 @@
+{
+  "id": "shougi-meikan-92",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shougi Meikan '92",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーズテイルII ディスティニー・ナイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "将棋名鑑 '92",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shougi Meikan '92 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3d22f8c7",
+      "md5": "b4abfbaa6c145fefe9350f131279c016",
+      "sha1": "52ddddea64a9d27214ccaafda330075a97244074",
+      "sha256": "7f9bdeeffb4dd176390bb84fb353e3ac041987d6224a66825a9201307bcc2217"
+    }
+  ],
+  "first_release_date": "1992-01-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shougi%20Meikan%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shougi%20Meikan%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shougi%20Meikan%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

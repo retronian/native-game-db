@@ -1,0 +1,42 @@
+{
+  "id": "mini-yonku-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini Yonku DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini Yonku DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C34J",
+      "size": 67108864,
+      "crc32": "96fd65f6",
+      "md5": "13880926d35e4c321b774227b9a804e3",
+      "sha1": "5e07703b1d0732915072b35a6f6217250787a5e8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mini%20Yonku%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mini%20Yonku%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

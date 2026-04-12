@@ -1,0 +1,96 @@
+{
+  "id": "kamen-rider",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kamen Rider",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "仮面ライダー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kamen Rider (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "f3c44423",
+      "md5": "d5e83ce15bb7895376ae59eedfa2455d",
+      "sha1": "70db2d8e6e98c9436f7c24d9b1cd03082e7d9fad",
+      "sha256": "6f2dc2486d680fe557ed6e2e7082480aad6537c6a04845bb6a6b8ef5e3d698ef"
+    },
+    {
+      "name": "Kamen Rider (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "3f5aeb53",
+      "md5": "6044449557166cbea0197620688fa3d2",
+      "sha1": "57107e9156677d6466da6636fed6cdd5fb71a086",
+      "sha256": "53a8838dab582e76f7544eaca37a50db5b29f5649a392df7f0bf6fcbdd925b44"
+    }
+  ],
+  "external_ids": {
+    "igdb": 76063
+  },
+  "descriptions": [
+    {
+      "text": "仮面ライダーは、1993年にスーパーファミコンでリリースされた2D横スクロールのビートエムアップゲームです。プレイヤー1は本郷猛を、プレイヤー2は一文字隼人を操作します。彼らは人間の姿からスタートしますが、いつでも仮面ライダーに変身することができ、ボスモンスターにとどめを刺すことができるのは仮面ライダーだけです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kamen%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kamen%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kamen%20Rider%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kamen%20Rider%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kamen%20Rider%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kamen%20Rider%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

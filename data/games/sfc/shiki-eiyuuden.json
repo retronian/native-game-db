@@ -1,0 +1,65 @@
+{
+  "id": "shiki-eiyuuden",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shiki Eiyuuden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "史記英雄伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shiki Eiyuuden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "4c2bea69",
+      "md5": "a983663c02ae8cf51a3e42c3f8e9506c",
+      "sha1": "ebcb587dfe8ba85a98f8109f1c957f6f666f6dc4",
+      "sha256": "5d6439a38bc84f8f4a89dcac22229060527a17afdaaeddbe6049942ae946f3ef"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "史記英雄伝：神竜伝説は、スーパーファミコン用のターン制RPGです。アウトリガー工房によって発売され、同社はロバータ・ウィリアムズの「ファンタズマゴリア」の日本専用セガサターン版も発売しました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shiki%20Eiyuuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shiki%20Eiyuuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shiki%20Eiyuuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

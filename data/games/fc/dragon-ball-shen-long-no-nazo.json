@@ -1,0 +1,65 @@
+{
+  "id": "dragon-ball-shen-long-no-nazo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball - Shen Long no Nazo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボール 神龍の謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball - Shen Long no Nazo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "2506fb77",
+      "md5": "b5b0d9a7624f12e39ca0048ffe6b7b77",
+      "sha1": "11d42cac06ad78f8b138fe87209fb170df8f1ceb",
+      "sha256": "2a7e4c99771c4292cc9d1261a01af1d93f4d94e6865d1c257e2a19fc4dca6451"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンパワーは、1988年3月3日にバンダイによってNintendo Entertainment System向けに開発・発売されたアクションアドベンチャーゲームです。これは、日本のゲーム「ドラゴンボール 神龍の謎」の大幅にローカライズされたバージョンで、元々1986年11月27日にリリースされました。一部のヨーロッパ版では「ドラゴンボール」の資産が保持されていますが、北米版ではフランチャイズに関するほとんどの言及が削除されています。このゲームは、ドラゴンボール漫画の最初の2巻に基づいており、若い猿の尻尾を持つ少年・悟空（北米版ではノラとして知られるティーンエイジャーの友人・ブルマと共に）、7つのドラゴンボール（北米版ではクリスタルボール）を探す冒険に出ます。これらを集めることで、ユーザーは望む願いをかなえてもらえると信じられています。旅の途中で、亀仙人・亀仙人（北米版ではハーミット）、変身能力を持つ人間のような豚・ウーロン（北米版ではパッジー）、砂漠の盗賊・ヤムチャ（北米版ではランサー）など、さまざまなキャラクターと出会います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ball%20-%20Shen%20Long%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20-%20Shen%20Long%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20-%20Shen%20Long%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

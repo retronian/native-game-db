@@ -1,0 +1,74 @@
+{
+  "id": "jackie-chan",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jackie Chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "成龍 ジャッキー・チェン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ジャッキー・チェン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jackie Chan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "c6fa6373",
+      "md5": "6a855357252a38e29f99cc1bc9560990",
+      "sha1": "44c9ce3b37ca9c5edfe840f78485048e2bd1bf41",
+      "sha256": "1796d5a84b197f120cbc7ad113d4286c75c493535b4978d20714e453d0091807"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジャッキー・チェンと彼の双子の妹ジョセフィーヌは、中国で素晴らしいカンフーの使い手として名を馳せ、偉大な師匠のもとで修行をしていました。ある日、ジャッキーとジョセフィーヌが散歩をしていると、師匠の宿敵である魔法使いが現れました。魔法使いは中国を支配しようと考えており、双子が彼の邪魔になることを知っていたため、ジョセフィーヌを消してしまう呪いをかけました。今、ジャッキー・チェンは魔法使いを追いかけ、妹を救い、中国を救うために彼の手下たちと戦うことになります。\n\n「ジャッキー・チェンのアクションカンフー」は、横スクロールの格闘ゲームです。ジャッキーの操作は、ジャンプ用のボタンと攻撃用のボタンがあり、方向キーと組み合わせることで特別な攻撃も可能です。ジャッキーは、カエル、忍者、鳥、その他の敵をパンチやキックで倒しながら進んでいきます。ジャッキーは、トルネード攻撃、180度回転キック、360度回転キック、スカイアタックなどの特別な技を習得できます。他にもエネルギーの補充やボーナスポイントなどのパワーアップアイテムがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

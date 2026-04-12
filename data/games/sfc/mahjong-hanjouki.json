@@ -1,0 +1,60 @@
+{
+  "id": "mahjong-hanjouki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Hanjouki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀繁盛記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Hanjouki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8a9d74f6",
+      "md5": "651682092954793759d7a92b5ffaad6d",
+      "sha1": "58483c2e1dff773236a512d1278829806fa5a913",
+      "sha256": "79a0d1293a814666f109695a36e1ec428db08110e66f2759b175f64f883f1c1f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37938
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mahjong%20Hanjouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mahjong%20Hanjouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mahjong%20Hanjouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

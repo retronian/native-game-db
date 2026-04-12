@@ -1,0 +1,65 @@
+{
+  "id": "hi-hi-puffy-amiyumi",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hi Hi Puffy AmiYumi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "HiHi! Puffy Ami Yumi 史上最大のワールドツアー！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hi Hi Puffy AmiYumi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BHHJ",
+      "size": 8388608,
+      "crc32": "90239c3d",
+      "md5": "283969c5d1c1e46b94b565c6da5ecd5c",
+      "sha1": "aa2107c994dabb928d31b7b2c586abf556bb973e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アミとユミが彼女たちの厄介なナンバーワンファン、ハーモニーを追い詰め、楽器を取り戻し、マネージャーのカズを救出する手助けをしてください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hi%20Hi%20Puffy%20AmiYumi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hi%20Hi%20Puffy%20AmiYumi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hi%20Hi%20Puffy%20AmiYumi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

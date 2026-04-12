@@ -1,0 +1,68 @@
+{
+  "id": "pocket-zaurus-juu-ouken-no-nazo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Zaurus - Juu Ouken no Nazo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットザウルス 十王剣の謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Zaurus - Juu Ouken no Nazo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c7a10910",
+      "md5": "160d6e1266728c2d2e9cc3693af134e1",
+      "sha1": "97f330772ebff916361e9fbb00d538caab1ea4a9",
+      "sha256": "784424ae2698e4481528a707b6875a203cffb60d55c2448e636ea5e455a32fcc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48339
+  },
+  "descriptions": [
+    {
+      "text": "ポケットザウルス：十王剣の謎は、バンダイが開発し1987年2月に発売したアクションゲームです。このゲームの発売時、バンダイはポケットザウルスというブランド名のもと、恐竜のペンや文房具、同様のテーマの学校用品を製造していました。そのため、ゲーム自体には少し教育的な要素も含まれています。\n\nゲームは横スクロールのアクションゲームです。プレイヤーは、バンダイの社員である橋本にちなんで名付けられた橋本ザウルスを操作します。製品ラインと同じ名前を持ちながらも、製品に使われるキャラクターに似たものはほとんど登場せず、敵キャラクターも全く関連性がありません。このゲームのアイデアは、徳間書店が発行していたゲーム雑誌「ファミリーコンピューターマガジン」の読者によって提案されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-02-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pocket%20Zaurus%20-%20Juu%20Ouken%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pocket%20Zaurus%20-%20Juu%20Ouken%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pocket%20Zaurus%20-%20Juu%20Ouken%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

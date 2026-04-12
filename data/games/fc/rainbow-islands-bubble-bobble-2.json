@@ -1,0 +1,60 @@
+{
+  "id": "rainbow-islands-bubble-bobble-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rainbow Islands - Bubble Bobble 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "レインボーアイランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rainbow Islands - Bubble Bobble 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "86797ee5",
+      "md5": "269376e58bf6c2c5e1fa04671e8656c2",
+      "sha1": "eb6ee1674eff64bb7800c2f55d96bb5c8264e302",
+      "sha256": "0dddd2583d32bc972f214b6da11df74b2cbc69ae6af9f7c5115bb931c78eb77b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 194446
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rainbow%20Islands%20-%20Bubble%20Bobble%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rainbow%20Islands%20-%20Bubble%20Bobble%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rainbow%20Islands%20-%20Bubble%20Bobble%202%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

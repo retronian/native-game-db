@@ -1,0 +1,65 @@
+{
+  "id": "okumanchouja-game-nottori-daisakusen",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Okumanchouja Game - Nottori Daisakusen!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "億万長者ゲーム のっとり大作戦！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Okumanchouja Game - Nottori Daisakusen! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AOKJ",
+      "size": 4194304,
+      "crc32": "07022c3a",
+      "md5": "247ec2c581b6c5d9bafbda6c51d7c119",
+      "sha1": "16df457aca6b402d1042205cf7940d7f0a759c8e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「億万長者ゲーム のっとり大作戦！」は、「人生ゲーム」に似たボードゲームですが、プレイヤーはすでに億万長者です。目的は、できるだけ多くの不動産を購入し、最終的にはグローバルな帝国を築くことです。アニメスタイルのグラフィックがライバルキャラクターの感情を表現し、時にはAI制御のキャラクターが人間プレイヤーを挑発することもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-11-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Okumanchouja%20Game%20-%20Nottori%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Okumanchouja%20Game%20-%20Nottori%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Okumanchouja%20Game%20-%20Nottori%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

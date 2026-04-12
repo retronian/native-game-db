@@ -1,0 +1,67 @@
+{
+  "id": "velldeselba-senki-tsubasa-no-kunshou",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Velldeselba Senki - Tsubasa no Kunshou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベルデセルバ戦記：翼の勲章",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Verdecelba Senki: ~Tsubasa no Kunshou~",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Velldeselba Senki - Tsubasa no Kunshou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 305566432,
+      "crc32": "685e94f9",
+      "md5": "f971c05129cb6c1e2ced2d22631462d6",
+      "sha1": "f2fa4be8d859ae7b7fdc6f9d062cc5253693600d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 140026
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Velldeselba%20Senki%20-%20Tsubasa%20no%20Kunshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Velldeselba%20Senki%20-%20Tsubasa%20no%20Kunshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Velldeselba%20Senki%20-%20Tsubasa%20no%20Kunshou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

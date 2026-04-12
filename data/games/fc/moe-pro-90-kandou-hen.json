@@ -1,0 +1,74 @@
+{
+  "id": "moe-pro-90-kandou-hen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moe Pro! '90 - Kandou Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "燃えプロ! '90 感動編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "燃えプロ!'90感動編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moe Pro! '90 - Kandou Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "452a8ae6",
+      "md5": "7e97cbbce696d20b2e3c0fbd68004d47",
+      "sha1": "76b2c679a6e0a67650fcd767b6a1e482d0cbe4fe",
+      "sha256": "27679be64180abf00914964341fd7857e4eb9ec0145e938424579b0ce5dd9a77"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ベースボールロード 3」は、1991年にジャレコが発表した人気野球シリーズの最新作です。前作からの変更点には、少し詳細になった守備選手、新しいフィールドの視点（画面の上にホームプレート、下にセンターフィールド）、編集可能なチーム、そして新たな目標が含まれています。それは、コンピュータ相手に完璧な野球の試合を行うことです。単に試合に勝つだけでは不十分で、エラーを犯したり三振したりするなどの一般的な野球のミスを避ける必要があり、完璧な評価を得るためには難易度が上がります。非常に賢いコンピュータのピッチングに対抗するのは、かなりの難しさを伴うでしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Moe%20Pro%21%20%2790%20-%20Kandou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Moe%20Pro%21%20%2790%20-%20Kandou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Moe%20Pro%21%20%2790%20-%20Kandou%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

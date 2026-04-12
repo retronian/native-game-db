@@ -1,0 +1,124 @@
+{
+  "id": "chessmaster-the",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chessmaster, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "チェスマスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chessmaster, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "d84bdfd5",
+      "md5": "ac870a1817f2445522b224e3a591ab2d",
+      "sha1": "24ac8daf2fae3a61ea833252a1c9ad0c41b63b5a",
+      "sha256": "9f072794e9f379e35dabd50a714e08b98deab61e3dd97ef982d7504b85b28d24"
+    },
+    {
+      "name": "Chessmaster, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "15c93942",
+      "md5": "a53044f9b786003813f175948ea7a69e",
+      "sha1": "0dd9487159b0dbe8d29efb6d5ec218b90651e071",
+      "sha256": "a1c4e6912835ce0ed0c9ab52d53adc381de795d93ea188b0f95a60754f6fe11b"
+    },
+    {
+      "name": "Chessmaster, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "bc671e15",
+      "md5": "3fd137462f559063672f66fcbdc38329",
+      "sha1": "549966c7960ceeac332c7b4512761bb26483d29f",
+      "sha256": "ee0e51d922d1cf8abe3dfc6b0d84a988a6635dc96b2a96962007c41aaa542774"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12909
+  },
+  "descriptions": [
+    {
+      "text": "チェスマスターは、プレイヤーがCPU制御のチェスマスターと標準のチェスゲームを対戦できるゲームです。\n\nゲームをプレイするには、プレイヤーは手のカーソルでチェスの駒を拾い、標準のチェスゲームのルールに従って希望の位置に置く必要があります。難易度は16段階あり、初心者向けの2つのレベル、標準レベルの13段階（レベルによって平均5秒から4.5分の持ち時間）、そして完璧な手が打てるまで考え続ける無限レベルがあります。また、選択した駒のすべての可能な動きを示す指導モードも用意されています。2人のプレイヤーがそれぞれコントローラーを使って対戦することもでき、チェスマスターが自分自身でプレイするオプションもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-02-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chessmaster%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chessmaster%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Chessmaster%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chessmaster%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chessmaster%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Chessmaster%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chessmaster%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "rokudenashi-blues",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rokudenashi Blues",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ろくでなしBlues ブルース",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ろくでなしBLUES",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rokudenashi Blues (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "07301c3f",
+      "md5": "a261eb50fa38ee9382d2cf0fffff26c6",
+      "sha1": "8abcb1e4747aad1098085685f5593488a3679eab",
+      "sha256": "3b809ae066ecd053f353e61f5576a5a18ad95971995d6e25b5e08ecb333ac803"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48820
+  },
+  "descriptions": [
+    {
+      "text": "ろくでなしBluesは、森田まさのりによる日本の漫画を基にしたロールプレイングゲームです。このゲームでは、前田大尊をはじめとする3人のキャラクターを操作することができ、それぞれに独自のストーリーがあります。ゲームの大部分は高校を舞台に展開されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rokudenashi%20Blues%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rokudenashi%20Blues%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rokudenashi%20Blues%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

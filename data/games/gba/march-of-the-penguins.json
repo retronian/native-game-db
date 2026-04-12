@@ -1,0 +1,79 @@
+{
+  "id": "march-of-the-penguins",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "March of the Penguins",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "March of the Penguins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQLE",
+      "size": 4194304,
+      "crc32": "5195429f",
+      "md5": "de2924a164d2b89f5080e0003d16894c",
+      "sha1": "fed20df4c0093bfdc59122362bc7b17c62b727ab"
+    },
+    {
+      "name": "March of the Penguins (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQLP",
+      "size": 4194304,
+      "crc32": "f680b0f3",
+      "md5": "21d31c0f9843e08ae60419098b0105f3",
+      "sha1": "e8dabca44763139c8c148359916be8dbe98ecf83"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20648
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/March%20of%20the%20Penguins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/March%20of%20the%20Penguins%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

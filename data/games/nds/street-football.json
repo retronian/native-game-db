@@ -1,0 +1,45 @@
+{
+  "id": "street-football",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Street Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Street Football (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YIGP",
+      "size": 33554432,
+      "crc32": "b8d4b905",
+      "md5": "82c9dd8b7c0385a70216c77ae535a4ed",
+      "sha1": "f50ec94130bd03b9e3ed35d52a3f8aec6c8b6217"
+    }
+  ],
+  "external_ids": {
+    "igdb": 393440
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Street%20Football%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Street%20Football%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

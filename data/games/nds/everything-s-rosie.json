@@ -1,0 +1,48 @@
+{
+  "id": "everything-s-rosie",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Everything's Rosie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Everything's Rosie (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TERP",
+      "size": 8388608,
+      "crc32": "dc719938",
+      "md5": "5eb0e3c02ef82cb027046eb9962cfa99",
+      "sha1": "4c0eb18459d564072eac860debad8e33c8a244ba"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Everything%27s%20Rosie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Everything%27s%20Rosie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Everything%27s%20Rosie%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

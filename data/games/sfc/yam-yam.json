@@ -1,0 +1,65 @@
+{
+  "id": "yam-yam",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yam Yam",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヤムヤム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yam Yam (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "4620c386",
+      "md5": "7173bbd34ac961cab1901568f1aa8bc4",
+      "sha1": "f9e132c783bc6df4b065739e4bb0be11e4470cd2",
+      "sha256": "176434d387c9f3396acf74a87e93982e1c5e99c09408eb37a694f9526b5bc2f7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヤムヤムは、パンドラボックスとバンダイがスーパーファミコン専用に制作したファンタジーゲームです。プレイヤーはマグマグという若い男の子となり、友達である巨大な淡いピンク色の飛べない（主に）鳥、ヤムヤムと共に世界を旅します。二人はさまざまな村を巡り、NPCと会話をしながらクエストを受けます。\n\n村と村の間を移動する際、ゲームはコアゲームプレイモードに切り替わります。これは『スペースハリアー』を彷彿とさせるZ軸シューティングゲームで、プレイヤーは自動的に前方にスクロールしながら左右に移動します。敵やさまざまな便利なアイテムが地平線から飛び出してきて、プレイヤーは次の地点までの旅を生き延びなければなりません。敵を倒すことで得られる経験値を使って強くなったり、現金を増やしてアップグレードやパワーアップを購入することができます。すべてのクエストが完了すると、ゲームはプレイヤーのレベルと現金を初期状態にリセットします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-02-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yam%20Yam%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yam%20Yam%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yam%20Yam%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

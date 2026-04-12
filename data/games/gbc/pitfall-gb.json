@@ -1,0 +1,73 @@
+{
+  "id": "pitfall-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pitfall GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピットフォール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピットフォールGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pitfall GB (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "fa09cebe",
+      "md5": "ae9b4ed5cd8c80029a3c01096963ee19",
+      "sha1": "5b8ed6b038084890ce198133a7ae8ca93257d0f8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "悪の力「スカージ」がレッドルセンスを操り、ジャングルを支配しようとしています。今、ピットフォール・ハリー・ジュニアがブルールセンスを使って土地に平和を取り戻す使命を担っています。あなたはハリーを操作し、ジャングル、火山、刑務所、洞窟を含む15のレベルを戦い抜きます。各ワールドには独自のバリエーションがあり、例えばジャングルのステージではツタを使って swinging し、ピッケルを使ってサソリや他のモンスターと戦う必要があります。ハリーは素早い反射神経を持っており、弾をかわしたり、悪者を飛び越えたりすることができます。さらに、ハリーの特技に加えて、レベル中にはエクストラライフ、金塊、クリスタル、エクストラヘルスなどのパワーアップが散らばっています。PITFALL: ビヨンド・ザ・ジャングルでハリーがジャングルに平和を取り戻す手助けをしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-05-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pitfall%20GB%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pitfall%20GB%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pitfall%20GB%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

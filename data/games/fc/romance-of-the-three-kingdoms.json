@@ -1,0 +1,68 @@
+{
+  "id": "romance-of-the-three-kingdoms",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Romance of the Three Kingdoms",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "三國志",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Sangokushi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Romance of the Three Kingdoms (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "26c54dab",
+      "md5": "ea5c4d5944df6917c84e5baa0ce634f4",
+      "sha1": "e5e77ff3aa7c761b9f599e36f82d5a181388473e",
+      "sha256": "4d1a12eb1ee02096f794719de6d70a6315ffc3b8826c7db5f6324636b98a8f44"
+    }
+  ],
+  "external_ids": {
+    "igdb": 350709
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Romance%20of%20the%20Three%20Kingdoms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Romance%20of%20the%20Three%20Kingdoms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Romance%20of%20the%20Three%20Kingdoms%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

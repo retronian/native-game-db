@@ -1,0 +1,39 @@
+{
+  "id": "neorude",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Neorude",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネオリュード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Neorude (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 473314912,
+      "crc32": "f70a0e74",
+      "md5": "7544fe248138d00f5527bf8b6d25606e",
+      "sha1": "aad071cbab634a2b6aba3a35e60e6d6b3ab112d6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56360
+  }
+}

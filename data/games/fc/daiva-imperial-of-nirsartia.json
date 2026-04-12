@@ -1,0 +1,65 @@
+{
+  "id": "daiva-imperial-of-nirsartia",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daiva - Imperial of Nirsartia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ディーヴァ ストーリー6 ナーサティアの玉座",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daiva - Imperial of Nirsartia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "d6d55eff",
+      "md5": "d6d2398db2032cb17807e2c4da77dc54",
+      "sha1": "fbbb7107580cf0a07ba96b6a386aaadbde86a873",
+      "sha256": "b74ec6667a6271ae88c63188c5f5b6bd5b20c0ef0e15c9498633c71f7481e0a8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ディーヴァ ストーリー6: ナーサティアの玉座は、東芝EMIによって開発された7部作の第6部です。このシリーズは連続した物語の集まりではなく、同じ物語を7つの異なる視点から提示するものです。「アクティブシミュレーションウォー」として宣伝されており、各ゲームではプレイヤーが異なる主人公（または「ヒーロー」）を指揮し、銀河の戦争を戦います。ほとんどのバージョンでは、プレイヤーは惑星から惑星へと移動し、敵の防衛艦隊を打ち破り、モバイル攻撃スーツで惑星に突入し、できるだけ多くの防衛システムを破壊しながら、その惑星を支配することを目指します。\n\nファミコン版のゲームを設計する際、東芝EMIはシステムの能力と若い市場の観客を考慮しました。このゲームはコンピュータ版に比べて大幅に簡略化されています。アクションシーケンスを開始する前に、プレイヤーはステージのマップ上に3つのパワーアップを配置することができます。プレイヤーがこれらの指定された場所に到達すると、指定されたパワーアップが空から降ってきて、プレイヤーが収集できるようになります。ゲームは、プレイヤーが特定の2つの惑星、ヴリトラ製造惑星とナーサティアを見つけて征服すると終了します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-12-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Daiva%20-%20Imperial%20of%20Nirsartia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Daiva%20-%20Imperial%20of%20Nirsartia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Daiva%20-%20Imperial%20of%20Nirsartia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

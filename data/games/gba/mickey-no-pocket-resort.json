@@ -1,0 +1,65 @@
+{
+  "id": "mickey-no-pocket-resort",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey no Pocket Resort",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミッキーのポケットリゾート",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey no Pocket Resort (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BM4J",
+      "size": 8388608,
+      "crc32": "edb264b8",
+      "md5": "4398aa3e3d1f826a99f5286efda20488",
+      "sha1": "df700b7c594b8588462cb83623bf4008af0cb2ff"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "新しいテーマパークがスクルージおじさんによってオープンされる予定ですが、ドクター・ニッケルが登場し、パワーシステムを奪い、パーク全体に魔法の力を散りばめてしまいます。パークを再オープンさせるためには、ミッキー、ミニー、ドナルド、デイジーが魔法の力を見つけ出し、パークを元の状態に戻さなければなりません。\n\nそのためには、仲間たちはゲームボードを進みながらさまざまなパーティーゲームをクリアする必要があります。プレイヤーは順番にサイコロを振り、自分のキャラクターを移動させます。ボードの特定の部分ではミニゲームが開放され、それをクリアしなければ先に進むことができません。勝者は、ボードの青いスペースに止まることで得られる魔法の力の星を最も多く持っているプレイヤーです。\n\nボードは4つあり、それぞれがアミューズメントパークのアトラクションをテーマにしています。最大4人のプレイヤーが1つのコンソールでプレイすることも、4つのコンソールを使ってミニゲームのセットで互いに挑戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-04-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mickey%20no%20Pocket%20Resort%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mickey%20no%20Pocket%20Resort%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mickey%20no%20Pocket%20Resort%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

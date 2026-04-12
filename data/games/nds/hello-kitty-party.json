@@ -1,0 +1,54 @@
+{
+  "id": "hello-kitty-party",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty - Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Happy Party with Hello Kitty and Friends",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty - Party (USA) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YW3E",
+      "size": 16777216,
+      "crc32": "473e7609",
+      "md5": "630de0be82449d087db7eb20d25d7879",
+      "sha1": "85179dfeb9ce1af72d39057c05aafb15225b1d34"
+    }
+  ],
+  "external_ids": {
+    "igdb": 24342
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hello%20Kitty%20-%20Party%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hello%20Kitty%20-%20Party%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

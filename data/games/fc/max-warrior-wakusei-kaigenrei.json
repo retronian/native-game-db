@@ -1,0 +1,65 @@
+{
+  "id": "max-warrior-wakusei-kaigenrei",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Max Warrior - Wakusei Kaigenrei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マックス・ウォーリアー 惑星戒厳令",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Max Warrior - Wakusei Kaigenrei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "45f73611",
+      "md5": "5d1fda404b62df64d2cb120d784fab4a",
+      "sha1": "60826aefaf6b604bcd3ffcc758d0c9fcf1272498",
+      "sha256": "5cdda3d0c15dcdec36db998b6f71fba886c7fb7ed13a1600fa7517c38ff64775"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マックス・マーベリックは、壊滅的なエイリアン侵略の後、彼の惑星の特殊部隊で唯一生き残ったメンバーです。落胆するどころか、マックスはエイリアンの脅威を一人で排除することを決意します。\n\n「アイソレイテッド・ウォリアー」は、常に動き続けるシューティングゲーム（シューティング・エム・アップ）で、主人公はアイソメトリックな上方視点から常に前に歩いたり飛んだりします。主人公は最初に基本的なレーザーガンを持っていますが、パワーアップを集めることで、ガンが複数の方向に発射できるようになります。また、ジャンプ中に複数の方向に発射できる爆弾やシールドのパワーアップも集めることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-02-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Max%20Warrior%20-%20Wakusei%20Kaigenrei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Max%20Warrior%20-%20Wakusei%20Kaigenrei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Max%20Warrior%20-%20Wakusei%20Kaigenrei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

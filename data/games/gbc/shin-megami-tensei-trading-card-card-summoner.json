@@ -1,0 +1,84 @@
+{
+  "id": "shin-megami-tensei-trading-card-card-summoner",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shin Megami Tensei Trading Card - Card Summoner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "真・女神転生トレーディングカード カードサマナー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "真・女神転生 トレーディング カード カード サマナー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Shin Megami Tensei Toreedingu Kaado: Kaado Samanaa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shin Megami Tensei Trading Card - Card Summoner (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "85264877",
+      "md5": "4ef95a30c72008dee31ab836742c9acf",
+      "sha1": "67daaf5aad65d91109b122e61c1eb3a864437fd4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 94503
+  },
+  "descriptions": [
+    {
+      "text": "子供向けの「真・女神転生」スピンオフで、当時リリースされたコレクティブルトレーディングカードゲームに基づいています。あなたは初心者のカードサマナーとなり、基本的なデッキを持って街に出て、他のカードサマナーに挑戦し、究極のチャンピオンになることを目指します。\n\nこのゲームはRPGで、オーバーヘッドマップから各都市のロケーションを探索し、他のサマナーやNPCに近づいてアイテムやチャレンジを受けます。あなたの目的は、デーモンカードを使って他のサマナーと戦うことで、トレーディングカードゲームと同じルールに従います。勝利すると、デッキに追加のカードを加えたり、特別なカードを購入するために使えるお金を得ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Shin%20Megami%20Tensei%20Trading%20Card%20-%20Card%20Summoner%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Shin%20Megami%20Tensei%20Trading%20Card%20-%20Card%20Summoner%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Shin%20Megami%20Tensei%20Trading%20Card%20-%20Card%20Summoner%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

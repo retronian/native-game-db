@@ -1,0 +1,42 @@
+{
+  "id": "scripps-spelling-bee",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Scripps Spelling Bee",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Scripps Spelling Bee (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VSPE",
+      "size": 33554432,
+      "crc32": "e819f868",
+      "md5": "c4119ca4dd865966f02daf941030daff",
+      "sha1": "fd260995d732d87fc56bb27442fc4afb84ac6011"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Scripps%20Spelling%20Bee%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Scripps%20Spelling%20Bee%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

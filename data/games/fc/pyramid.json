@@ -1,0 +1,51 @@
+{
+  "id": "pyramid",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pyramid",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "セクシーピラミッド クレオパトラ危機一髪",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 185891
+  },
+  "first_release_date": "1992-12-31",
+  "roms": [
+    {
+      "name": "Pyramid (USA) (NINA-03) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "072ec558",
+      "md5": "ed862faddf7fe5299968b7e7dccdb4d1",
+      "sha1": "999c6ed2b7607b0bd1ed14c5431d4dc9927941ef",
+      "sha256": "87a61cd1cd1ed5cc0aa9227c271a538ade09b0fe625357916a37bdb4fc7242ed"
+    },
+    {
+      "name": "Pyramid (USA) (NINA-06) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 24592,
+      "crc32": "a75401e0",
+      "md5": "a7f9db88e925336a9d491ed1bd45948b",
+      "sha1": "d3a78680a563d7d32af305deca367ee1feb297eb",
+      "sha256": "5e25541cb63e62b1a4ed95130107214bc4141b5a72750f962b546e4870cf0dc4"
+    }
+  ]
+}

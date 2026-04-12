@@ -1,0 +1,65 @@
+{
+  "id": "mickey-to-minnie-no-magical-quest",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey to Minnie no Magical Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミッキーとミニーのマジカルクエスト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey to Minnie no Magical Quest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3MJ",
+      "size": 4194304,
+      "crc32": "bbae85c8",
+      "md5": "62977938536a270190bcb89ecd5c207d",
+      "sha1": "409ce308ce8b6f1df7c361e55418e30b64fcea78"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プルートが悪の皇帝ペートにさらわれてしまった。ミッキーが彼を救うために立ち上がる。ミッキーはプルートを取り戻すために、6つのレベルを進み、サブレベルやボス戦をクリアしなければならない。\nその途中で、彼はブロックやアイテムを敵に投げたり、敵の頭に飛び乗ったりすることができる。また、後のステージではコスチュームを活用することもできる。魔法使いのローブを着ると、ミッキーは魔法の弾を発射できる。消防士のコスチュームを着ると、ミッキーは消防ホースを使ってブロックを敵に押し付けたり、道を開けたりできる。そして、コマンドーの制服を着ると、ミッキーはフックを使ってレベルを登り回ることができる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mickey%20to%20Minnie%20no%20Magical%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mickey%20to%20Minnie%20no%20Magical%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mickey%20to%20Minnie%20no%20Magical%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

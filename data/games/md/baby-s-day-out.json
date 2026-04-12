@@ -1,0 +1,52 @@
+{
+  "id": "baby-s-day-out",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Baby's Day Out",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "베이비즈 데이 아웃",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Baby's Day Out (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-112056-00",
+      "size": 1048576,
+      "crc32": "b2e7cc49",
+      "md5": "4414423f27efd460b578833a270ee04c",
+      "sha1": "5cc32a2826b3cc5c581043fe6c481ffb753321dd",
+      "sha256": "fbb5ed91c02c4c65cb10158a73d1a567dc09b75f2dee512bbbc18b8efd3f0a0d"
+    },
+    {
+      "name": "Baby's Day Out (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TSNEAKE-RS",
+      "size": 1048576,
+      "crc32": "459b891c",
+      "md5": "1412b2ee0dcc0cd191edf1cc3c3631f6",
+      "sha1": "99983282e75e1cf01a47d00f0be15e20eaae0907",
+      "sha256": "cd82a1a0cb1e9f04c60fc5aba8a7e1f9eac31df18b80c5d34f7640e1b9867c81"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45740
+  }
+}

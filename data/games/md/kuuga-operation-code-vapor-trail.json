@@ -1,0 +1,66 @@
+{
+  "id": "kuuga-operation-code-vapor-trail",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kuuga - Operation Code 'Vapor Trail'",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "空牙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kuuga - Operation Code 'Vapor Trail' (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49043-00",
+      "size": 1048576,
+      "crc32": "83b6b6ba",
+      "md5": "225bd87db2600496720424fe73908099",
+      "sha1": "54d257ad1f941fdb39f6f7b2a3a168eb30ebd9ff",
+      "sha256": "3420342545f9895fd1f30a45a2ee26d525a7948ea0f8e3281c9841858ce1ac81"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1999年、テロ組織「ダガー」が世界の軍事基地に通信を提供するシステムを破壊しました。テロリストたちは衛星通信ネットワークを掌握し、核爆弾で世界の大都市を破壊すると脅迫しています。彼らは、世界の指導者たちがダガーに権力を譲る準備が整うまで、脅迫を解除するつもりはありません。\n\n対抗措置として、アメリカ合衆国大統領は特殊部隊の空軍ユニットを招集しました。その空軍ユニットのコードネームは「ベイパートレイル」。世界の最後の希望は、今あなたの手の中にあります...\n\nこのゲームは縦スクロールのシューティングゲームです。3機の飛行機から選ぶことができます。速いが弱い機体「セイレン」、平均的な性能の「シルフ」、遅いが非常に強力な「バルキリー」です。\nゲーム中にはさまざまなアイテムを拾うことができます。これらのアイテムには、スピードアップ、パワーアップ、エクストラライフが含まれます。特に便利な機能はスピンダッシュで、数秒間無敵になります。この機能を使用するには、パワーが完全に回復するまでしばらく待つ必要があります。また、各レベルには複数のボスが登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Kuuga%20-%20Operation%20Code%20%27Vapor%20Trail%27%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Kuuga%20-%20Operation%20Code%20%27Vapor%20Trail%27%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Kuuga%20-%20Operation%20Code%20%27Vapor%20Trail%27%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

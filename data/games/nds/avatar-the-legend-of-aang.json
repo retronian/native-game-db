@@ -1,0 +1,60 @@
+{
+  "id": "avatar-the-legend-of-aang",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Avatar - The Legend of Aang",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Avatar - The Legend of Aang (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "CAVK",
+      "size": 33554432,
+      "crc32": "5eb518d1",
+      "md5": "493186281092957cc8184f63e1651d06",
+      "sha1": "6fc7407d24899537154c6e80885953bd0c5154db",
+      "sha256": "96bb18f0f76aa5ea15fac288657e25010221f2e531aaa4feb944602eb2b05761"
+    },
+    {
+      "name": "Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVAP",
+      "size": 67108864,
+      "crc32": "bedf86d9",
+      "md5": "be32dc1ac25760770ec73992ab072709",
+      "sha1": "ddd284c0bb2e20704bb4f10c40b7306f052b3376",
+      "sha256": "791fd4de168ce42e6069446012f7efbf3afea0a51ccbb7c89b7a4790fb904340"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Avatar%20-%20The%20Legend%20of%20Aang%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Avatar%20-%20The%20Legend%20of%20Aang%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Avatar%20-%20The%20Legend%20of%20Aang%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

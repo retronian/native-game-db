@@ -47,10 +47,45 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "大航海時代 II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Daikoukai Jidai II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1994-01-01",
   "external_ids": {
-    "wikidata": "Q845526"
-  }
+    "wikidata": "Q845526",
+    "igdb": 45539
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Daikoukai%20Jidai%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Daikoukai%20Jidai%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Daikoukai%20Jidai%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

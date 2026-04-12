@@ -1,0 +1,66 @@
+{
+  "id": "mega-lo-mania-jikuu-daisenryaku",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega lo Mania - Jikuu Daisenryaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メガロマニア 時空大戦略",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メガロマニア Mega lo Mania 時空大戦略",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega lo Mania - Jikuu Daisenryaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f23bc69e",
+      "md5": "34d8995fe25908757ad225b4d7a17581",
+      "sha1": "dc3474067ccadf7ff9b980b414d2d45b538aee9a",
+      "sha256": "d64f4804f898b5cab249f6873a2ba28c37e479de04d3a77f154339b95b8c0f35"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20lo%20Mania%20-%20Jikuu%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mega%20lo%20Mania%20-%20Jikuu%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mega%20lo%20Mania%20-%20Jikuu%20Daisenryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

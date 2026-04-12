@@ -1,0 +1,71 @@
+{
+  "id": "polaris-snocross",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Polaris SnoCross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "SnowCross",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Polaris SnoCross (USA) (Rumble Version)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "dd8b189e",
+      "md5": "d0ca48aee3ffb5fd44fc4d4359c5d44b",
+      "sha1": "e893808fe227a1608c0604382d6a0340ec704c3b",
+      "sha256": "84eb1a0f7ce82719ec81c4cfcb764841b6b0a605eb65bb6d5def4401d60cd080"
+    },
+    {
+      "name": "Polaris SnoCross (USA) (Beta) (Rumble Version)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VPSE",
+      "size": 1048576,
+      "crc32": "673623c4",
+      "md5": "6b953a346e1fe063d66d8a23f3bfa27d",
+      "sha1": "4176ef1f9fd37156a4cac37a2d146ed2deeb5a7b",
+      "sha256": "13cf8cb2661faac4f6f6cca30b09dda0d2a108afcdf90338aebb1fd520f8fc15"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249122
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Polaris%20SnoCross%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Polaris%20SnoCross%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Polaris%20SnoCross%20%28USA%29%20%28Rumble%20Version%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

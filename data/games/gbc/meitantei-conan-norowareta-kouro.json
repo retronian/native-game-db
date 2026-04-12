@@ -1,0 +1,73 @@
+{
+  "id": "meitantei-conan-norowareta-kouro",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Meitantei Conan - Norowareta Kouro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "名探偵コナン Detective Conan 呪われた航路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "名探偵コナン 呪われた航路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "cabdd802",
+      "md5": "ea991b38b2a74d10c6d075f509d9b555",
+      "sha1": "0858a619d716b0191713734d506d9f113f0d1c62"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気漫画「名探偵コナン」を基にしたゲームです。コナンとしてプレイし、蘭、平次、または園子の中からパートナーを選んで事件を解決しましょう。パートナーによってイベントが変化します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-06-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Meitantei%20Conan%20-%20Norowareta%20Kouro%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Meitantei%20Conan%20-%20Norowareta%20Kouro%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Meitantei%20Conan%20-%20Norowareta%20Kouro%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

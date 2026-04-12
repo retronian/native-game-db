@@ -1,0 +1,102 @@
+{
+  "id": "ryuuko-no-ken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ryuuko no Ken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "龍虎の拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "装甲騎兵ボトムズ ザ・バトリングロード",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ryuuko no Ken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0db2d9ab",
+      "md5": "5a87f18403de943e597f0280a26d4ffe",
+      "sha1": "13c3f829dd73f49ac68ff49473aac6dff94b8432",
+      "sha256": "5b9faf6498b1eee76f0002ae6ddd5e251f82219d4856342fee1c1a2dfb434d16"
+    },
+    {
+      "name": "Ryuuko no Ken (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b565f452",
+      "md5": "226a75439bff8aeac5ac9540f1408e66",
+      "sha1": "d76ea72e0ac530e97e7961506ee3954fdf214368",
+      "sha256": "12419890de560c5e0435f9c94a11a140dd2f5603a1a43bd6addab6ed73911dfa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ユリ・サカザキが誘拐されてしまった！彼女の兄、リョウ・サカザキと彼の親友ロバート・ガルシアは、サウスタウンの街で彼女を探し始める。彼らが深く進むにつれて、誘拐を命じた人物、サカザキ家とマフィアの関係、そして彼らの過去に関わる人物に関する手がかりを見つけていく。\n\nこの格闘ゲームは、同名のネオジオのヒット作をアーケードに移植したもので、すべてのキャラクター、ステージ、技がアーケードユニットに登場する。オリジナルのアーケード版とは異なり、プレイヤーはミスター・ビッグや神秘的なミスター・カラテとしてもプレイできるようになった。\n\nゲームプレイはほとんどの格闘ゲームとは異なる。このゲームでは、スピリットメーターが存在する。スピリットメーターは特別な技を使うと減少し、再充電が可能だが、その際は攻撃にさらされることになる。体力がほとんどなくなったとき、スピリットメーターが満タンであれば、相手に致命的な攻撃を放つ秘密のコンビネーションを行うことができる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ryuuko%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ryuuko%20no%20Ken%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ryuuko%20no%20Ken%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ryuuko%20no%20Ken%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

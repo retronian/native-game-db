@@ -1,0 +1,47 @@
+{
+  "id": "pokemon-toroje",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon Toroje",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon Toroje (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "APTK",
+      "size": 16777216,
+      "crc32": "018996b2",
+      "md5": "787253188ee5b73247bacc18ac10cb0c",
+      "sha1": "c293abd152120386047144552f6190a44305bda6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pokemon%20Toroje%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pokemon%20Toroje%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pokemon%20Toroje%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

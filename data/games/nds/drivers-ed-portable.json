@@ -1,0 +1,67 @@
+{
+  "id": "drivers-ed-portable",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Drivers Ed Portable",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Drivers Ed Portable (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCEE",
+      "size": 16777216,
+      "crc32": "0778bcea",
+      "md5": "cdf5d93ef2373f15a7ee901f85ac2a6b",
+      "sha1": "c2757f7b625f36582805a267051de694e108381e"
+    },
+    {
+      "name": "Drivers' Ed Portable (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCEP",
+      "size": 16777216,
+      "crc32": "0e9f0e25",
+      "md5": "37ebec9b2bdda9b544b49f51093c4ff4",
+      "sha1": "c95bcfdd9ff59d87c64f50af1caeae07e56b0730"
+    }
+  ],
+  "external_ids": {
+    "igdb": 70425
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drivers%20Ed%20Portable%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drivers%27%20Ed%20Portable%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Drivers%27%20Ed%20Portable%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drivers%27%20Ed%20Portable%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

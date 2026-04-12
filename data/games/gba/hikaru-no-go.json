@@ -1,0 +1,89 @@
+{
+  "id": "hikaru-no-go",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hikaru no Go",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヒカルの碁",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hikaru no Go (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AHKJ",
+      "size": 8388608,
+      "crc32": "53116fd7",
+      "md5": "a0451dbc9fabbd40a86b76c30e60794a",
+      "sha1": "c61227f6ccfdc196ef810c1986322b0b1988e508",
+      "sha256": "cc0f3733fb8f4681151c0a219e0568fe408bfed2ec2ab0dd5c4a04264e2937c2"
+    },
+    {
+      "name": "Hikaru no Go (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AHKJ",
+      "size": 8388608,
+      "crc32": "5a6c7537",
+      "md5": "889fbc49115ce1f21e89490e0a2fe457",
+      "sha1": "a96299f55026b959ed806bff0fb4a440d33e65af"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49630
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hikaru%20no%20Go%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hikaru%20no%20Go%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hikaru%20no%20Go%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hikaru%20no%20Go%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hikaru%20no%20Go%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hikaru%20no%20Go%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

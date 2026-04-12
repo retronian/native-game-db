@@ -1,0 +1,60 @@
+{
+  "id": "sorcerer-s-maze",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sorcerer's Maze",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sorcerer's Maze (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 39227216,
+      "crc32": "c2a3c133",
+      "md5": "9d625957f2fa767f574fe9db4991cb1b",
+      "sha1": "31e0c28660433dc31937c1424df0fe08ebb01dfb"
+    },
+    {
+      "name": "Sorcerer's Maze (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 25986000,
+      "crc32": "c03642d5",
+      "md5": "9a69cad75df0410a47f4c387d8e2c1df",
+      "sha1": "1358d6fe07c290ad5e7ce78282801f5369861291",
+      "sha256": "cddc9d9cd1b7b9fadf55d01fc3ce9c8ed26fad3a375e263b92919e4bc5c2c773"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45061
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Sorcerer%27s%20Maze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Sorcerer%27s%20Maze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Sorcerer%27s%20Maze%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

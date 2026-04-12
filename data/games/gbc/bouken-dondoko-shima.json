@@ -1,0 +1,67 @@
+{
+  "id": "bouken-dondoko-shima",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bouken! Dondoko Shima",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "冒険! ドンドコ島",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bouken! Dondoko Shima (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5fe759c7",
+      "md5": "889e643c52ca6916a4948f4d1b8b955b",
+      "sha1": "c054abfea01a3ceb7b20b27e7ea937abe5157834"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65645
+  },
+  "descriptions": [
+    {
+      "text": "モンスターたちを助けて島を発展させ、島から脱出しましょう。島を探検し、素材を集め、野生のモンスターを捕まえて仲間にしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-04-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bouken%21%20Dondoko%20Shima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bouken%21%20Dondoko%20Shima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bouken%21%20Dondoko%20Shima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

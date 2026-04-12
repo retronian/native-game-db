@@ -1,0 +1,63 @@
+{
+  "id": "ultraman-club-supokon-fight",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultraman Club - Supokon Fight!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラマンクラブ スポ根ファイト!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウルトラマン倶楽部 スポ根ファイト!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultraman Club - Supokon Fight! (Japan) (Datach)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "19db90c4",
+      "md5": "7681e9a71b38637b04b82cb4b8f1191f",
+      "sha1": "4ee182f34f68f5acb51369aa7d9398749e55b3f1",
+      "sha256": "3bfe0216c485534c10e9931389e0265e6f27382c2eed3b102cc53434b2920f1b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48516
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultraman%20Club%20-%20Supokon%20Fight%21%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultraman%20Club%20-%20Supokon%20Fight%21%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

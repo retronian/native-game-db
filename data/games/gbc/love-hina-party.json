@@ -1,0 +1,67 @@
+{
+  "id": "love-hina-party",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Love Hina Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ラブひな Love♥Hina ラブひなパーティ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Love Hina Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "034d2686",
+      "md5": "ba01289e8d646e1407f70275a50114b3",
+      "sha1": "d3551d99bb03e7945862cc8f1c3c095477119cf2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50063
+  },
+  "descriptions": [
+    {
+      "text": "ラブひなパーティでは、ケイタロウの立場になり、彼がホテルのマネージャーとしての任務を再開します。アドベンチャーモードでは、特定の場所を訪れ、出会ったキャラクターと会話をすることができます。会話中には、時々あなたの答えを選ぶ場面もあります。ストーリーの中では、ヒナタアパートの女の子たちが「ラブひな」アニメに関するクイズを出題してくることもあります。ゲームのアクションモードは、アドベンチャーモードとは異なり、3人称視点で行われる4つの異なるミニゲームを通じて展開されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-01-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Love%20Hina%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Love%20Hina%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Love%20Hina%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

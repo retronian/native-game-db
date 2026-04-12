@@ -1,0 +1,68 @@
+{
+  "id": "fune-tarou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fune Tarou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ふね太郎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fune Tarou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5d6ba598",
+      "md5": "52fe0ff8d539e8a69ea1746e7e83cf3e",
+      "sha1": "2c26f7432fe35c58545063ae44ea7daacbd50de3",
+      "sha256": "e31b7f0de372e254a21a6645bbebbbed22c7ab6748e24d48c826de0210b543f0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42241
+  },
+  "descriptions": [
+    {
+      "text": "ふね太郎は、1997年末に発売されたスーパーファミコン用の釣りゲームです。1994年に同じ開発者からリリースされたつり太郎の続編で、再びタロウという少年が大物を釣ろうと奮闘する物語です。\n\nゲームは川から海へと移り、プレイヤーはさまざまな場所で船のデッキから釣りを行います。しかし、プレイヤーは限られた餌を持っているため、あまり多くの魚を逃がさないように注意しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1997-08-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fune%20Tarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fune%20Tarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fune%20Tarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

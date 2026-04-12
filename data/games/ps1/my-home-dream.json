@@ -1,0 +1,59 @@
+{
+  "id": "my-home-dream",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Home Dream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マイホームドリーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Home Dream (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 342314592,
+      "crc32": "bb752da1",
+      "md5": "2daaeb1fe29b93170ba7de7eed2dc535",
+      "sha1": "df1bb0f25b54c60f82548334f2efe7cb32a7bb66"
+    }
+  ],
+  "external_ids": {
+    "igdb": 384769
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/My%20Home%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/My%20Home%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/My%20Home%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

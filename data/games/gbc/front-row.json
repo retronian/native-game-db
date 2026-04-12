@@ -1,0 +1,67 @@
+{
+  "id": "front-row",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Front Row",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フロントロウ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Front Row (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6eea9243",
+      "md5": "579291571dac53916fd552ccea5b0bb9",
+      "sha1": "64c8a9459d7c80e297774dab7775b5edf59432cc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92582
+  },
+  "descriptions": [
+    {
+      "text": "リアルなF1のように、詳細でリアルなマシン設定（エンジン、タイヤ、ボディ）を簡単に楽しむことができます。マシン（チーム）は8種類から選択可能です。日本、イギリス、オーストラリアを含む全16コースでレースを行い、世界チャンピオンを目指す本格的なワールドツアーモードを搭載しています。さらに、お気に入りのコースを選んでレースを楽しむことができるシングルレースモードや、最速ラップを目指すタイムアタックモードも用意されています。もちろん、通信機能を使えば2人で熱いバトルを繰り広げることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Front%20Row%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Front%20Row%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Front%20Row%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

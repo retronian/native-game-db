@@ -1,0 +1,62 @@
+{
+  "id": "zidane-football-generation",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zidane - Football Generation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zidane - Football Generation (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZSP",
+      "size": 1048576,
+      "crc32": "e96dbfb5",
+      "md5": "0044c80fb6c6c7c49466dafe6637d61a",
+      "sha1": "06385470bb0b4ef6c743ab6a5e7f8d7a97f6100b"
+    },
+    {
+      "name": "Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMHP",
+      "size": 1048576,
+      "crc32": "c2fde3c4",
+      "md5": "9afe57208b564946dec44244409a9a15",
+      "sha1": "cba5d2fc5dbbe184e9ed58afe8525044bd8ea040",
+      "sha256": "52bb6f91996017fbe732b1fa0503bf9c8597f13ee2a6c06612229c9e785f7398"
+    }
+  ],
+  "external_ids": {
+    "igdb": 144652
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Zidane%20-%20Football%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Zidane%20-%20Football%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Zidane%20-%20Football%20Generation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

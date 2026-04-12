@@ -1,0 +1,68 @@
+{
+  "id": "cheer-we-go",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cheer We Go",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キラキラリズムコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Kirakira Rhythm Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cheer We Go (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VCGE",
+      "size": 67108864,
+      "crc32": "b9b62cab",
+      "md5": "163a9925f36cc066075b80f9dd94640f",
+      "sha1": "d57f44fe0727c616386ed8249aaa869ba1b0fd55"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91722
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

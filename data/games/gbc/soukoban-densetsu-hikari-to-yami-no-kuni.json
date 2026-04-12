@@ -1,0 +1,64 @@
+{
+  "id": "soukoban-densetsu-hikari-to-yami-no-kuni",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soukoban Densetsu - Hikari to Yami no Kuni",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "倉庫番伝説 光と闇の国",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "081d7fcb",
+      "md5": "47e8dcb47a5e87f74441bb735f255aba",
+      "sha1": "cb249bd50dc8c7d503544383af6fb5df0e874ae5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "クラシックパズルゲーム「倉庫番」の移植版です。魔王にさらわれた姫を救うストーリーモードと、オリジナルパズルを作成するためのエディットモードが追加されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Soukoban%20Densetsu%20-%20Hikari%20to%20Yami%20no%20Kuni%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Soukoban%20Densetsu%20-%20Hikari%20to%20Yami%20no%20Kuni%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Soukoban%20Densetsu%20-%20Hikari%20to%20Yami%20no%20Kuni%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

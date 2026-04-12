@@ -1,0 +1,65 @@
+{
+  "id": "sansuu-2-nen-keisan-game",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sansuu 2 Nen - Keisan Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "けいさんゲーム 算数2年",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sansuu 2 Nen - Keisan Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "6f551eeb",
+      "md5": "f407916cbfde6b970b859f5d55df47ec",
+      "sha1": "09870979f5edc9f6b51523f906026c2ae887c502",
+      "sha256": "3be3fb6a8531e085a0d51269614ff302d44c4a9253023d649dcf25ad542313f0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "教育的なゲームで、4つの異なるミニゲームで構成されています。含まれているミニゲームは次の通りです：足し算と引き算1 - プレイヤーはダンジョンの迷路の中で矢印を操作します。プレイヤーは宝箱を見つけるまでダンジョンから出ることができません。宝箱を探しながら、",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-04-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sansuu%202%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sansuu%202%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sansuu%202%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

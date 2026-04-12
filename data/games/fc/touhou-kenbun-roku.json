@@ -1,0 +1,68 @@
+{
+  "id": "touhou-kenbun-roku",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touhou Kenbun Roku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "東方見文録",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touhou Kenbun Roku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6b258e03",
+      "md5": "cf89ce8c4db5ca595b67d2a3aa4a0d1a",
+      "sha1": "942da4536b30c368184be5b0094f397c101fcf2d",
+      "sha256": "120d406ff4a987d3acb0aacfdb8fdba6224a6508d8f66b79a171bf45cbca1848"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48878
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは、当時一般的だったコマンド選択型アドベンチャーゲームで、ストーリーを通じてキャラクターを切り替えることができます。ゲームのパッケージは「ニューウェーブサイケデリックアドベンチャー」として宣伝されており、物語は非常に奇妙とされており、キャラクターが1275年にタイムスリップし、マルコ・ポーロと出会い、アジアとヨーロッパの貿易を確立しようとするポーロの努力に干渉するという内容です。このゲームはコメディを意図しており、当時一般的だったいくつかのゲームデザイン要素をパロディ化しています。日本国外では一度もリリースされておらず、原作の日本語から翻訳されたこともありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-11-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Touhou%20Kenbun%20Roku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Touhou%20Kenbun%20Roku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Touhou%20Kenbun%20Roku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

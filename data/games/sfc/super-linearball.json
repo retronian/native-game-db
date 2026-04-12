@@ -1,0 +1,62 @@
+{
+  "id": "super-linearball",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Linearball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーリニアボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Linearball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "689ac35c",
+      "md5": "ef5f11d518ba98875c07349605313c19",
+      "sha1": "73cd9170c5935e3367da84956ca59aa4f851c671",
+      "sha256": "a47aa7860ea7278575c441ab697ffcb825a0b89f06a776b39b5e3b1746c7e508"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "未来的なスポーツゲーム「スペースフットボール」では、2人のプレイヤーがホバークラフトを操り、ホバーボールを拾ってタッチダウンエリアに運ぶことで得点を競います。ホバークラフトは加速、後退、ホバーボールの追跡が可能で、相手プレイヤーに攻撃を仕掛けてボールを落とさせることもできます。プレイヤーのホバークラフトがホバーボールを拾った場合、4秒以内にタッチダウンエリアに到達しなければ、自動的にホバーボールがファンブルされます。各ゲームは500タイムユニットの時間制限があり、時間切れ時に最も高い得点を持つプレイヤーが勝者となります。\n\nプレイフィールド自体には試合の進行に影響を与える要素が含まれています。一部のプレイフィールドにはジャンプ、スピナー、フォースアローなどがあり、プレイヤーの動きを助けたり妨げたりします。\n\n選べるドライバーは合計12人で、各スピードレベル（遅い、中くらい、高速）ごとに4人ずつ用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Linearball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Linearball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Linearball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

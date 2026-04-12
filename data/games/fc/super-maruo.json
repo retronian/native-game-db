@@ -1,0 +1,55 @@
+{
+  "id": "super-maruo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Maruo",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "スーパーマルオ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 238973
+  },
+  "first_release_date": "1986-12-31",
+  "roms": [
+    {
+      "name": "Super Maruo (Japan) (Unl)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "637222c9",
+      "md5": "4ba82ac2133533108dc3808cee776959",
+      "sha1": "343612fb33bed9eeb29663d6f9ca8e4e5af8d92e",
+      "sha256": "6797ee96ad507b22ec9187c2c7a3dc831d52d50631eb3a2084cfc550a030a240"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Maruo%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Maruo%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

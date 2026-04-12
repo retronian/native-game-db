@@ -1,0 +1,60 @@
+{
+  "id": "taikyoku-igo-goliath",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taikyoku Igo - Goliath",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "対局囲碁 ゴライアス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taikyoku Igo - Goliath (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "01afec9c",
+      "md5": "1cfea3cff71f5aaad50f2e5ee84aea7d",
+      "sha1": "8f3641977e2cbc93f851e5931fc3e3c440da109e",
+      "sha256": "e07fa2d7be1c9a73fa7338ce6d23afcc4af81457efa59a0caa1f55302e545bde"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37797
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taikyoku%20Igo%20-%20Goliath%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taikyoku%20Igo%20-%20Goliath%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taikyoku%20Igo%20-%20Goliath%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

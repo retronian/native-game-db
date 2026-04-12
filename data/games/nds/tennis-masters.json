@@ -1,0 +1,48 @@
+{
+  "id": "tennis-masters",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tennis Masters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tennis Masters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AXTP",
+      "size": 8388608,
+      "crc32": "dee61294",
+      "md5": "6fbd57362dc2dacb7bf472ec4196fea5",
+      "sha1": "5f71e118cb121474affa0fbfb7a6e1b8cf739e4e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tennis%20Masters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Tennis%20Masters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tennis%20Masters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

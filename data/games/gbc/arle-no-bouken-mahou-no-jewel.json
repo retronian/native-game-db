@@ -1,0 +1,67 @@
+{
+  "id": "arle-no-bouken-mahou-no-jewel",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arle no Bouken - Mahou no Jewel",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アルルの冒険 まほうのジュエル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8ee043ea",
+      "md5": "9abaf0dfeb58b76d6b5cce4b42756c8e",
+      "sha1": "fb781637ddac30cebb1865ba939f49bb2b0b5146"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50020
+  },
+  "descriptions": [
+    {
+      "text": "「アルルの冒険 まほうのジュエル」は、ぷよぷよのゲーム世界を舞台にしたモンスター収集RPGです。若き見習い魔法使いアルルが、魔法のジュエルを集め、再び世界征服を企む邪悪なサタンを倒すために土地を探索します。\n\nゲームは上からの視点で進行し、アルルを操作して町やダンジョンを探索し、NPCと会話したり、アイテムを見つけたり購入したりします。戦闘ではキャラクターが横からの視点に切り替わり、標準的なターン制の形式で行動を選択し、多くのモンスターや敵キャラクターと戦います。モンスターを倒すたびに、そのユニークなカードを手に入れることができ、そのカードを使ってモンスターを呼び出し、冒険に参加させることができます。常に2体までのモンスターがあなたの側で戦うことができ、彼らもあなたと同様にレベルアップし、経験値を得ます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Arle%20no%20Bouken%20-%20Mahou%20no%20Jewel%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Arle%20no%20Bouken%20-%20Mahou%20no%20Jewel%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Arle%20no%20Bouken%20-%20Mahou%20no%20Jewel%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

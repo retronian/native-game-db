@@ -1,0 +1,58 @@
+{
+  "id": "ai-shougi-3",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "AI Shougi 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "AI将棋3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "AI Shougi 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NS3J",
+      "size": 8388608,
+      "crc32": "86df90e6",
+      "md5": "4a5c509a20db7a429dc1dd4e219ad4a2",
+      "sha1": "8d87d888e8916c4c148dad32ee0519dd297d1fa6",
+      "sha256": "05265ab26612612b5573971c217709a073b44640182333ea87269975c324c9b9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/AI%20Shougi%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/AI%20Shougi%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AI%20Shougi%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

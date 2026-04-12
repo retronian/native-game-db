@@ -1,0 +1,48 @@
+{
+  "id": "penny-racers",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Penny Racers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Penny Racers (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AQAP",
+      "size": 4194304,
+      "crc32": "8fddd48b",
+      "md5": "b48f441dc1d55a69a325ad812aef764f",
+      "sha1": "7c097634fadc6270873a4a5cf2eb0a8beb3c9e6e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Penny%20Racers%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

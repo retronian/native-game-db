@@ -1,0 +1,70 @@
+{
+  "id": "waku-waku-volley",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Waku Waku Volley",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "わくわくバレー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Waku Waku Volley (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 19618352,
+      "crc32": "2ee32531",
+      "md5": "dc40ab8ed4e474fc7f5ce2998991571a",
+      "sha1": "0ce1c4d50e61f60837896e306b2094da4d9f99b4",
+      "sha256": "0d57b6261c8f1578c7a5f19ed106a2e5da690d70a615520aff9bb0630008e3e5"
+    },
+    {
+      "name": "Waku Waku Volley (Japan) (Alt)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 19609088,
+      "crc32": "93c73224",
+      "md5": "b7a2450dbbabacc4639105facc47fe0e",
+      "sha1": "de9d18897b342c95866ca4c9c5d4b6ec48a3d41a",
+      "sha256": "f00c1e86f84b045d7e883c8ae77cbec726bc16a0008aa905f42160f0347a3edd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98205
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Waku%20Waku%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Waku%20Waku%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Waku%20Waku%20Volley%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

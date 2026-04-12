@@ -1,0 +1,52 @@
+{
+  "id": "metal-force",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metal Force",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 48325
+  },
+  "first_release_date": "1994-07-17",
+  "roms": [
+    {
+      "name": "Metal Force (Korea) (En) (Unl)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 524304,
+      "crc32": "5d158972",
+      "md5": "fc75d521575fc9896fb658edcd6cec7c",
+      "sha1": "e8b232fdeff19577298b31b75a681a0440b19179",
+      "sha256": "0de66c35d6d4c3208e6b2d0c5de3cb2f5533ab7ffe42e22860c75a36ca6900b3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Force%20%28Korea%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Force%20%28Korea%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Force%20%28Korea%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

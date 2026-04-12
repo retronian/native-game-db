@@ -1,0 +1,113 @@
+{
+  "id": "beauty-and-the-beast",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beauty and the Beast",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "美女と野獣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beauty and the Beast (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "2e70c844",
+      "md5": "bb020351b395958c60aaac53ca0233e7",
+      "sha1": "9cbdf2a2c8e136768130f04b060589d90964c1fb",
+      "sha256": "c4e24d25dbfbe6fb35a40185a0c74dfabbbad6512a5fab99bbc0a7eaa55d52a9"
+    },
+    {
+      "name": "Beauty and the Beast (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "956e183c",
+      "md5": "509ab1888290b42dde397c02e4371576",
+      "sha1": "a8943fd4911b67f3ddf25fb05e7ce049775d0f62",
+      "sha256": "d7271ca08400bbf5ae165b0aaa6e8a8a1b266f72e6e0ae10aae529732a472f7c"
+    },
+    {
+      "name": "Beauty and the Beast (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "fff9deab",
+      "md5": "a60d94e4cee19dd176d3b8e094a5cef3",
+      "sha1": "4129133e5ba6752321ec3cdd61a1b4ff740928f1",
+      "sha256": "4a1c89c9909ecd09ba2faf5903960c679791423ad8cf4e57a981b091ed56b451"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Beauty%20and%20the%20Beast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Beauty%20and%20the%20Beast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Beauty%20and%20the%20Beast%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Beauty%20and%20the%20Beast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Beauty%20and%20the%20Beast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Beauty%20and%20the%20Beast%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Beauty%20and%20the%20Beast%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Beauty%20and%20the%20Beast%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Beauty%20and%20the%20Beast%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

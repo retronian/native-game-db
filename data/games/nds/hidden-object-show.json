@@ -1,0 +1,42 @@
+{
+  "id": "hidden-object-show",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hidden Object Show",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hidden Object Show (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHUP",
+      "size": 67108864,
+      "crc32": "6d4c667b",
+      "md5": "b09c7722cfb778051b29b44dc930754a",
+      "sha1": "96954decdebd85dc712c23a102b5684e65735909"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hidden%20Object%20Show%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hidden%20Object%20Show%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

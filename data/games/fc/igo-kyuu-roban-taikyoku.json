@@ -1,0 +1,70 @@
+{
+  "id": "igo-kyuu-roban-taikyoku",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Igo - Kyuu Roban Taikyoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "囲碁 九路盤対局",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "囲碁九路盤対局",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Igo - Kyuu Roban Taikyoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "3fe679c4",
+      "md5": "27574eec34d082bf88ab1df0c72575b4",
+      "sha1": "5dbacdf01a0f12635703b2d0839d9a95bac52ba7",
+      "sha256": "b9aa749dd7ffec4a1eb8d463a76e7c75e069970b878bc1ace91b4c1b17b8c195"
+    }
+  ],
+  "external_ids": {
+    "igdb": 41367
+  },
+  "first_release_date": "1987-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Igo%20-%20Kyuu%20Roban%20Taikyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Igo%20-%20Kyuu%20Roban%20Taikyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Igo%20-%20Kyuu%20Roban%20Taikyoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

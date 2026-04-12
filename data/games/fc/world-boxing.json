@@ -1,0 +1,68 @@
+{
+  "id": "world-boxing",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドボクシング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Boxing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b154de68",
+      "md5": "bf28924c7ecbace0eac6886c809fd30e",
+      "sha1": "64ea1aa5bcb09cf4f917755d34603ecc4deea67e",
+      "sha256": "495fbb8255b8958e3ab47b1ed8353a01824015d3fa0a9c3bc03d91af1aeb7e68"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48599
+  },
+  "descriptions": [
+    {
+      "text": "ワールドボクシングは、ナツメが開発しTSSが出版したスポーツゲームで、1990年に日本でリリースされました。これはパイレーツクローンです。興味深い日本独占の作品で、アメリカにも進出しました。素晴らしいグラフィックと独特の視点を持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/World%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/World%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

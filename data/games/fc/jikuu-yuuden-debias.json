@@ -1,0 +1,77 @@
+{
+  "id": "jikuu-yuuden-debias",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jikuu Yuuden - Debias",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "時空勇伝 Debias デビアス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "時空勇伝デビアス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jikuu Yuuden - Debias (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "0794aae5",
+      "md5": "84f377d0f86bb3022aa074591fdfb7d0",
+      "sha1": "6cfd47fd8cf15560656b2e2c27a729491f0195a6",
+      "sha256": "9f20a4c81dca19afe6bdca115e19e33732792ec4b636423e5cafacf4a608d65d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48610
+  },
+  "descriptions": [
+    {
+      "text": "主人公は伝説の戦士デビアスの転生であり、悪魔と三体のゴルゴンの支配からアラムタ王国を救わなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jikuu%20Yuuden%20-%20Debias%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jikuu%20Yuuden%20-%20Debias%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jikuu%20Yuuden%20-%20Debias%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

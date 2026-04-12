@@ -1,0 +1,39 @@
+{
+  "id": "golf-daisuki",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Golf Daisuki!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴルフだいすき",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "80444a86",
+      "md5": "ef24106662ae769dba0c410933736332",
+      "sha1": "d245a267b1b1d056e0f5af4ba732c66c8deadde2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228552
+  }
+}

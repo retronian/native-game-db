@@ -1,0 +1,78 @@
+{
+  "id": "pocket-cooking",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Cooking",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットクッキング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Cooking (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "f5ab554d",
+      "md5": "ed002e5b29f7082a6a37191bf5af1d08",
+      "sha1": "60a13fc904100655a52dfb61d9abe77cc126e58c"
+    },
+    {
+      "name": "Pocket Cooking (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APJJ",
+      "size": 4194304,
+      "crc32": "fb9594a1",
+      "md5": "c69bf9512a815c37363da0e7ff418d68",
+      "sha1": "13bbc290c706aebbd0e4abb518a716d65a5250ea",
+      "sha256": "f424a4d81003eb5703634b102d9af27cd11197b0dc21b754cf76e5b82d1e2933"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282417
+  },
+  "descriptions": [
+    {
+      "text": "父のレストランを再建するために、彼と天から降りてきた料理の天使は、100種類以上の異なる料理に挑戦します。彼らが作る料理を食べるお客様は、料理の出来栄えによってさまざまな反応を示します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-08-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20Cooking%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20Cooking%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20Cooking%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

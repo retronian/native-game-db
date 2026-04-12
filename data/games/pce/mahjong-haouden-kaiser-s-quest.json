@@ -1,0 +1,79 @@
+{
+  "id": "mahjong-haouden-kaiser-s-quest",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Haouden - Kaiser's Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀覇王伝 カイザーズ・クエスト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "麻雀覇王伝カイザーズクエスト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "麻雀覇王伝 Kaiser's Quest カイザーズ クエスト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Haouden - Kaiser's Quest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "df10c895",
+      "md5": "79f0b287d9c185416c155616515ec2dc",
+      "sha1": "e539de46a672e7ec3eecca58adb924d622a78c98",
+      "sha256": "0667737c46c83a238ff57991f7b191eda7c455c78797c298e1cf63b1a0e4f4f3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38098
+  },
+  "first_release_date": "1992-02-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mahjong%20Haouden%20-%20Kaiser%27s%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mahjong%20Haouden%20-%20Kaiser%27s%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mahjong%20Haouden%20-%20Kaiser%27s%20Quest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

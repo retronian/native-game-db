@@ -1,0 +1,83 @@
+{
+  "id": "bakushou-jinsei-gekijou-3",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakushou!! Jinsei Gekijou 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆笑!! 人生劇場3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "爆笑!!人生劇場3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "爆笑 人生劇場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakushou!! Jinsei Gekijou 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "cb4706ce",
+      "md5": "670fa92a139badfc569555751f38b9df",
+      "sha1": "6b4252d93ecc566106a8bb4c99a49aaf44930918",
+      "sha256": "e8a11b17cdd7b6f5cac5ec119b297f3c4a125fa43b152276fd90c6bd2dd20a5d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「爆笑！人生劇場」シリーズの第3作は、最初の2作と同じ原則に従っています。これは最大4人のキャラクターの人生をシミュレーションするボードゲームです。すべてのキャラクターを自分で作成することも、コンピュータのAIに任せることも、他のプレイヤーと一緒にプレイすることもできます。ゲームの世界の中でキャラクターを移動させます（最初の2作のようなボードには見えませんが、同じように機能します）。移動するステップ数はランダムに決定されます：回転するインジケーターが最終的に1から6のいずれかの数字で止まります。最初の2作とは異なり、ボード上には特別なアイコンはなく、見えるのは普通の住宅街や通りなどです。キャラクターの人生の中でランダムなイベントが発生します。これらのイベントのほとんどは、キャラクターのパラメータを変更します。例えば、学校のイベントは知識を増やし、スポーツは体力を向上させるなどです。イベントによってお金を得たり失ったりします。キャラクター同士が出会い、恋に落ちたり、良いことや悪いことを経験したりします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bakushou%21%21%20Jinsei%20Gekijou%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bakushou%21%21%20Jinsei%20Gekijou%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bakushou%21%21%20Jinsei%20Gekijou%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

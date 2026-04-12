@@ -1,0 +1,68 @@
+{
+  "id": "alex-kidd-tenkuu-majou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Alex Kidd - Tenkuu Majou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アレックスキッド 天空魔城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "天空魔城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Alex Kidd - Tenkuu Majou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054004-00",
+      "size": 262144,
+      "crc32": "8a5ed856",
+      "md5": "fdfc9df027de832b93d6f88e8bb2f819",
+      "sha1": "0bd83099edd3938a0f127ed399cb01046e36ac32",
+      "sha256": "bd412e0c8861db976e3ed7ded7389080e54fc29895e4325295297786fdac519e"
+    }
+  ],
+  "first_release_date": "1989-02-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Alex%20Kidd%20-%20Tenkuu%20Majou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Alex%20Kidd%20-%20Tenkuu%20Majou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Alex%20Kidd%20-%20Tenkuu%20Majou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

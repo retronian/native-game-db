@@ -1,0 +1,46 @@
+{
+  "id": "dragon-quest-i-and-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Quest I & II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンクエストI・II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンクエスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Quest I & II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "98bb6853",
+      "md5": "1def71b5557cc6bb7402281d888cae80",
+      "sha1": "1c0c6d78bf2bc29160adf48b17ebf5a5bc46230e",
+      "sha256": "b698dd6e1db1a3fb2026dbc78c2cfbfd834f7c64fccb76139d5075c8b5233f28"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "tenryuu-genichirou-no-pro-wres-revolution",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenryuu Genichirou no Pro Wres Revolution",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天龍源一郎のプロレス Revolution プロレス レヴォリューション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "天龍源一郎のプロレスレヴォリューション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenryuu Genichirou no Pro Wres Revolution (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "d5fb8c83",
+      "md5": "a2029c66518db9e91baf303e94287167",
+      "sha1": "5260f47ab74dd1de5eb222c5a4687ad52333f968",
+      "sha256": "4d65ad9924a9efda7f373ba20d153f79649c1e3ea5a839bfa1684fc01501bb1b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ハンマーロック・レスリングは、ジャレコによるプロレスゲームで、サタデーナイト・スラムマスターズにインスパイアされたスタイルが特徴です。プレイヤーは12人の架空のレスラーから選択し、4つの異なるプレイモードで競い合うことができます。また、60種類の異なる技や、各レスラーに特有のフィニッシャーも用意されています。\n\nエキシビションモードでは、最大4人のプレイヤーがシングルマッチまたはタッグチーム形式で対戦できます。チャンピオンリーグマッチは、6人の異なるレスラーがリーグチャンピオンシップを争うラウンドロビン形式のトーナメントです。トーナメントは、8人の異なるレスラーが参加する標準的なトーナメント形式で、トップランキングマッチでは、プレイヤーが他の11人のレスラーと戦い、全員を倒してチャンピオンになる必要があります。\n\nゲームは時折、3つの異なる画面に分かれます。中央部分にはリング内での現在のアクションが表示され、画面の上部と下部はパワームーブや違法技、フィニッシングムーブなどのアクションシーケンスのクローズアップに使用されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tenryuu%20Genichirou%20no%20Pro%20Wres%20Revolution%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tenryuu%20Genichirou%20no%20Pro%20Wres%20Revolution%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tenryuu%20Genichirou%20no%20Pro%20Wres%20Revolution%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "sd-gundam-gachapon-senshi-2-capsule-senki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Gundam - Gachapon Senshi 2 - Capsule Senki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SDガンダム ガチャポン戦士2 カプセル戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "SDガンダムワールド ガチャポン戦士2 カプセル戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d9f92dff",
+      "md5": "166b069427bbc75f41a42c0330c1f1de",
+      "sha1": "30c8796dfe781c937f9512450989c4d4fe3f1bb7",
+      "sha256": "9b1a2a12a79a136a0cc3feb7bccec3b9ba2e43b618806cb4aacf9673d36e05e7"
+    },
+    {
+      "name": "SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) (Wii Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5a99e045",
+      "md5": "9c384341f6265abdb206be81c9998325",
+      "sha1": "9e0cf647e372549e970090c0948849f43b8f10ee",
+      "sha256": "d54ea2cf57f9a76a5f7a99d9c2427f09a4bc8980c15c6c1fb57ee476e54c0258"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、ガンダムをテーマにしたファミコン用の戦略ゲームシリーズの第2作目です。あなたの目標は、自軍のメカ部隊を指揮して敵を打ち倒し、土地を征服することです。今回は、1ターンで最大12ユニットが移動できるようになりました。また、最大7つの占領された工場も利用可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Gundam%20-%20Gachapon%20Senshi%202%20-%20Capsule%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SD%20Gundam%20-%20Gachapon%20Senshi%202%20-%20Capsule%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Gundam%20-%20Gachapon%20Senshi%202%20-%20Capsule%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

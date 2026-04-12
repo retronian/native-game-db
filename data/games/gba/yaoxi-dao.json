@@ -1,0 +1,57 @@
+{
+  "id": "yaoxi-dao",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yaoxi Dao",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "耀西岛",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yaoxi Dao (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "A3AC",
+      "size": 4194304,
+      "crc32": "9c32a829",
+      "md5": "1b7e12284e562915aa7acd260c06771d",
+      "sha1": "d5ed374c8d353cf27ee9160f1c4c27a7dabe5845",
+      "sha256": "789a75cd1936acbfbe133ce2fac233d269703a809ccd3b33bb0ad0bc71b600d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yaoxi%20Dao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yaoxi%20Dao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yaoxi%20Dao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

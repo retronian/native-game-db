@@ -1,0 +1,51 @@
+{
+  "id": "famicom-mini-collection",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini Collection",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 137808
+  },
+  "roms": [
+    {
+      "name": "Famicom Mini Collection (China) (En) (Proto)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "FICC",
+      "size": 4194304,
+      "crc32": "b9283b7c",
+      "md5": "79250ef146cefc22695aea4c80244649",
+      "sha1": "288e48dbd2cb20790e4093b4606b5dac2c6dac6c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%20Collection%20%28China%29%20%28En%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%20Collection%20%28China%29%20%28En%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%20Collection%20%28China%29%20%28En%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

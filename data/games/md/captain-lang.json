@@ -1,0 +1,66 @@
+{
+  "id": "captain-lang",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Captain Lang",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キャプテン ラング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Captain Lang (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-13103-00",
+      "size": 1048576,
+      "crc32": "61ba8199",
+      "md5": "c2aa79a9bdfccf691ff07b9fc0e34355",
+      "sha1": "7c305a4b8cc220f5321eac80ea3fc104a9f5897a",
+      "sha256": "5e26cb3a7bb266612a98400664404aeb78205d7c94d6ca0b2ed06f6640c3a457"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ハボックは若き旅人であり、宝探しの冒険者です。彼は船仲間のタイドと共に海を旅しています。ある日、彼は海岸で意識を失った少女を見つけます。彼女はハボックに自分の名前はブリジットで、伝説の宝エメラルダの場所を示す宝の地図を持っていると告げます。しかし、悪の海賊ベルナルドがブリジットとタイドを誘拐し、宝の地図を奪ってしまいました。ハボックは友達を救出し、地図を取り戻さなければなりません！\n\nこれはアクションプラットフォーマーです。ハボックは転がったり、ジャンプしたり、ジャンプ中に敵を攻撃したり、単に敵の頭に飛び乗って攻撃することができます。また、様々なアイテムを集めたり、道中で宝箱を開けたりすることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Captain%20Lang%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Captain%20Lang%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Captain%20Lang%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

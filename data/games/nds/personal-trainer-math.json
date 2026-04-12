@@ -1,0 +1,54 @@
+{
+  "id": "personal-trainer-math",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Personal Trainer - Math",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Professor Kageyama's Maths Training",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Personal Trainer - Math (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AIZE",
+      "size": 16777216,
+      "crc32": "d6a09e69",
+      "md5": "8bdb7e5454677182de2b336ede4387aa",
+      "sha1": "6e01c22e3a66ba2b11553d56584e1d2be765f7fe"
+    }
+  ],
+  "external_ids": {
+    "igdb": 78996
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Personal%20Trainer%20-%20Math%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Personal%20Trainer%20-%20Math%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

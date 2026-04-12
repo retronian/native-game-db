@@ -1,0 +1,78 @@
+{
+  "id": "indiana-jones-and-the-last-crusade",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Indiana Jones and the Last Crusade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Indiana Jones and the Last Crusade (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79046-50",
+      "size": 1048576,
+      "crc32": "eb8f4374",
+      "md5": "bc40ee0ea033ba893f4f2ee17368f2b6",
+      "sha1": "70b5b4bc3f6d7ee7fbc77489bcfa4a96a831b88d",
+      "sha256": "393cfd813137d01d9d918c2dfc6eec0d330ee504c50413a491d2276524d569c4"
+    },
+    {
+      "name": "Indiana Jones and the Last Crusade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-79046-00",
+      "size": 1048576,
+      "crc32": "3599a3fd",
+      "md5": "e927417e67f1ff3170cc027ff1e96726",
+      "sha1": "82758a8a47c4f1f0e990bd50b773b2c4300f616e",
+      "sha256": "8ca662474aa318d775f04e2fc9aa49a43e1972474897ba3b2819e07e19bf58da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

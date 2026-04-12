@@ -1,0 +1,56 @@
+{
+  "id": "sudoku-ball-detective",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sudoku Ball Detective",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sudoku Ball Detective (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C3BE",
+      "size": 8388608,
+      "crc32": "b0201dda",
+      "md5": "5f594b10befb1a6a594e2c721e57404c",
+      "sha1": "27198601374243fadc79ecdd69e10055696266d3"
+    },
+    {
+      "name": "Sudoku Ball Detective (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C3BP",
+      "size": 8388608,
+      "crc32": "ccfe92eb",
+      "md5": "cb2eced590459c27f8373f09b3408f1a",
+      "sha1": "c809d83d6754738ccc509f62b7dc483efd6dd0c7",
+      "sha256": "385ccf82c58e0f30a4a9fc3ab96c7c54ef9f8f0290d4eb6bbd2e586198b952a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 24349
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sudoku%20Ball%20Detective%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sudoku%20Ball%20Detective%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

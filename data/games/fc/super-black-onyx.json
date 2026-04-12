@@ -1,0 +1,68 @@
+{
+  "id": "super-black-onyx",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Black Onyx",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーブラックオニキス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Black Onyx (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "90585409",
+      "md5": "d4374dd100c815fd17044de91748ba25",
+      "sha1": "0fb01f3a70886c868b1c0f7fdcefc28bd29e7a30",
+      "sha256": "74614b33a702f6ccf1beece1118bdd52d501980d109edefdf5d6bacf17cfa0ad"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48704
+  },
+  "descriptions": [
+    {
+      "text": "伝説のアーティファクト「ブラックオニキス」は、永遠の若さと幸福をもたらすと言われており、町の近くにあるブラックタワーの中に隠されていると噂されています。あなたは勇敢な冒険者たちを集め、タワーに挑むことになります。道中でモンスターを倒しながら、偉大な宝物を目指します。\n\n「ブラックオニキス」は、日本の会社が制作した最初のRPGです。初期のウィザードリィやアルティマシリーズに似たゲームプレイで、モンスターを倒し、ダンジョンを探索するスタイルで、ダークでリアルなビジュアルが特徴です。あなたはパーティー（最大5人）を編成し、迷路のような3Dダンジョンを探索しながら、ランダムな敵と戦います。また、あなたのパーティーに参加するよう説得できる冒険者とも出会います。戦闘はターン制です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-07-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Black%20Onyx%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Black%20Onyx%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Black%20Onyx%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

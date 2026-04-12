@@ -1,0 +1,65 @@
+{
+  "id": "shinsenden",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinsenden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "神仙伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinsenden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f4dbc87d",
+      "md5": "93586577d4ff5a52f3c5e0ab3d157753",
+      "sha1": "7bed195dc5dcf9cb0d9faa04be8bfd875f7f62c2",
+      "sha256": "ce36ddc8eaf4661814a0b1cf7947b122666c54140e6e2581f10e8a93d13074dd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "神仙伝は、タムテックスとアイレムがファミコン向けに制作したRPGで、東洋の神秘主義をテーマにした舞台で、僧侶や中国・日本の民間伝承に登場するクリーチャーが登場します。ゲームのストーリーは、僧侶が彼のパートナーであるライチと共に修行に出かけ、負傷した時間旅行者を発見することから始まります。その後、ライチが誘拐され、主人公は彼女の誘拐犯を追いかけることになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shinsenden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shinsenden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shinsenden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

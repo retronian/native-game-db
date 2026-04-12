@@ -1,0 +1,77 @@
+{
+  "id": "challenge-me-word-puzzles",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Challenge Me - Word Puzzles",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Challenge Me - Word Puzzles (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BWPE",
+      "size": 8388608,
+      "crc32": "dec9ad51",
+      "md5": "a869701ce5664325e78b81cde0531086",
+      "sha1": "93f841be0ab39aa0e809e58a15f517a204386068"
+    },
+    {
+      "name": "Challenge Me - Word Puzzles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BWPP",
+      "size": 8388608,
+      "crc32": "f1672caa",
+      "md5": "d5aa4f384ef3d5ea695cd31a3cbb0384",
+      "sha1": "8bbe629886595cfb2cc4e8e177af3183618c1761",
+      "sha256": "53460d96f8d94fd5943f3cc13296abf8443839317e6d5967f3b990a05db4b483"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Challenge%20Me%20-%20Word%20Puzzles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Challenge%20Me%20-%20Word%20Puzzles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Challenge%20Me%20-%20Word%20Puzzles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

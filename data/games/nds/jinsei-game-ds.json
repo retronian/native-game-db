@@ -1,0 +1,52 @@
+{
+  "id": "jinsei-game-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jinsei Game DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jinsei Game DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJGJ",
+      "size": 8388608,
+      "crc32": "46f48c82",
+      "md5": "8796a9997691d07313aced77be9b7669",
+      "sha1": "abe42c1fe913ae26543f2e73637512809bab3b82",
+      "sha256": "896df177644ac049c102eb512fa9a0bdcf974fbabdc3176358bb52d74d2b5790"
+    }
+  ],
+  "external_ids": {
+    "igdb": 269781
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jinsei%20Game%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Jinsei%20Game%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jinsei%20Game%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

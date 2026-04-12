@@ -1,0 +1,66 @@
+{
+  "id": "kyoto-ryuu-no-tera-satsujin-jiken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kyoto Ryuu no Tera Satsujin Jiken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "京都龍の寺殺人事件",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "山村美紗 京都龍の寺殺人事件",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kyoto Ryuu no Tera Satsujin Jiken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5f17dbba",
+      "md5": "f3afe4cdc5f5d18797f79dc5266b7578",
+      "sha1": "bb29ecc12bec8c319b9a1cfdf1b070b3d3632fa1",
+      "sha256": "de8c4e471aad07647a3a78f93a64c82bc137b04dd4529e5ea130b9774a787618"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kyoto%20Ryuu%20no%20Tera%20Satsujin%20Jiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kyoto%20Ryuu%20no%20Tera%20Satsujin%20Jiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kyoto%20Ryuu%20no%20Tera%20Satsujin%20Jiken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

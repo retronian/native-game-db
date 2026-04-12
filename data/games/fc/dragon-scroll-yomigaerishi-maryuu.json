@@ -1,0 +1,65 @@
+{
+  "id": "dragon-scroll-yomigaerishi-maryuu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Scroll - Yomigaerishi Maryuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンスクロール 甦りし魔竜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Scroll - Yomigaerishi Maryuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "169b8310",
+      "md5": "e923d5e059cc86a1a6865eb5e25438cc",
+      "sha1": "f06be0fa8ef550fbd5caea90294c6adf149576f2",
+      "sha256": "ec43032fab2dd0959b7018427e35fa4c96805994d1249da8ccd8cd27c4c7cf7d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "数千年前、二匹のドラゴンとその信者たちが互いに戦っていました。「ブラックメイジ」は三頭のクロームドラゴンを崇拝し、「ホワイトメイジ」は輝くゴールドドラゴンを崇拝していました。領土と理想のために戦われた戦争は終わりがありませんでした。長い戦いの末、神ナルメはクロームドラゴンを山の中で眠らせ、ゴールドドラゴンを砂漠で眠らせて戦争を止めました。そして彼はメイジたちから魔法を奪い、それを8冊の魔法書に封印し、神聖な砂漠の塔に隠しました。\n\n数百年後、三人の盗賊が砂漠の塔にたどり着き、魔法書を見つけました。彼らはそれを分け合い、それぞれが自分の道を歩み始めました。魔法書が失われた今、クロームドラゴンはその眠りから目覚めました。ナルメはゴールドドラゴンに正義の精神を注入し、「フェラム」という名の英雄の姿で彼を呼び出しました。今、彼が魔法書を見つけ出し、再びクロームドラゴンを眠らせることが求められています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-12-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Scroll%20-%20Yomigaerishi%20Maryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Scroll%20-%20Yomigaerishi%20Maryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Scroll%20-%20Yomigaerishi%20Maryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

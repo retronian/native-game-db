@@ -1,0 +1,42 @@
+{
+  "id": "koma-neko-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koma Neko DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koma Neko DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CKMJ",
+      "size": 16777216,
+      "crc32": "7964a471",
+      "md5": "21d8ea5f876e3c12a909f53fcf21c007",
+      "sha1": "c3a0e199679da8a9870fb3e338b565c49de11f38"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Koma%20Neko%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Koma%20Neko%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

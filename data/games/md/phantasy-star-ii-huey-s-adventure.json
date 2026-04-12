@@ -1,0 +1,77 @@
+{
+  "id": "phantasy-star-ii-huey-s-adventure",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star II - Huey's Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタシースターII テキストアドベンチャー ヒューイの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "1a076f83",
+      "md5": "4efb0bc21c9df35ff39eb1862f972c47",
+      "sha1": "abc5a7ac58aefc055ed8ca5fd0f7c802ab3e1ad5",
+      "sha256": "98c47d54f7ddf6c70a997303d16ee0d340cc3de1e83a8604d082ad1cbde03997"
+    },
+    {
+      "name": "Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 175576,
+      "crc32": "bccf4fa7",
+      "md5": "f2e40667c514ade048945ea7d06b19b7",
+      "sha1": "1fc99fc7ebd97697e2f4eb0605ad8dfd078e16b0",
+      "sha256": "9cf96bf31162b54429bc15720cb0e7d6477fb429d25264798cec2df170038bd1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームはAW 1284年の夏、ファンタシースターIIの出来事の直前に設定されています。\n\nヒュー・トンプソン（またはヒューイ・リーン）は、モタビア大学の生物学者です。彼は大学の学長に呼ばれ、キャンパスを徘徊するエネルギーを吸収する植物のような生物の事件を調査することになります。この生物は電気を食べて成長し続けています。生物が大学の原子炉を通じてメインエネルギーセンターに広がり、クヴァルツの町全体の電力を奪う脅威をもたらすと、ヒューはそれを止めるために立ち上がります。この冒険が、最終的にヒューが生物怪物と戦うために解剖学の知識を応用するきっかけとなり、ファンタシースターIIのロルフを助けることになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20II%20-%20Huey%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20II%20-%20Huey%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20II%20-%20Huey%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

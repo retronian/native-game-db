@@ -1,0 +1,79 @@
+{
+  "id": "family-dog",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Dog",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Dog (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "d95ca497",
+      "md5": "695ec96497567a637ba8cdf3f8ff7ab3",
+      "sha1": "60db54f5301cc62826c824853c14b3199391a7d7",
+      "sha256": "b0d2439944b6ae85d4ec6f39c91e3c8b9c740a43d077f4d0675dc2c2235204df"
+    },
+    {
+      "name": "Family Dog (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "1b53c15a",
+      "md5": "346c07631b7f2a25b2ec0382ed6e893d",
+      "sha1": "5c49fbab775ca3ebc2a27fe55bcdf043499fe24f",
+      "sha256": "2891f1eab285133364ecc379a5c9e1d0026d60f425f1a458d149014f386cfa50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42570
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Dog%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Family%20Dog%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Dog%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Dog%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Family%20Dog%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Dog%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

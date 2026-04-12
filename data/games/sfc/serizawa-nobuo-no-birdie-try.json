@@ -1,0 +1,66 @@
+{
+  "id": "serizawa-nobuo-no-birdie-try",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Serizawa Nobuo no Birdie Try",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "芹沢信雄のバーディトライ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "芹沢信雄のBirdie Try バーディートライ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Serizawa Nobuo no Birdie Try (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "987a96d0",
+      "md5": "6a7908e4bd1778ab3d4e53f8a6fce068",
+      "sha1": "08340e93001760ef1668e12a3c8dcbf3cb22a8d2",
+      "sha256": "011dd57ae1abd21dc72dc4542726abe091b0048d102caed2153c8c3a1ae2569d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Serizawa%20Nobuo%20no%20Birdie%20Try%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Serizawa%20Nobuo%20no%20Birdie%20Try%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Serizawa%20Nobuo%20no%20Birdie%20Try%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

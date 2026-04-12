@@ -1,0 +1,59 @@
+{
+  "id": "koguru-guruguru-guruguru-to-nakayoshi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koguru Guruguru - Guruguru to Nakayoshi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コグルグルグル ぐるぐるとなかよし",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "こぐるぐるぐる ぐるぐるとなかよし",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koguru Guruguru - Guruguru to Nakayoshi (Japan) (SGB Enhanced, GB Compatible) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d6050f64",
+      "md5": "7187fe377729db40928fb6c6ee5a0809",
+      "sha1": "6bf1d7517c762a8b692e149529d826504b8f483e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Koguru%20Guruguru%20-%20Guruguru%20to%20Nakayoshi%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Koguru%20Guruguru%20-%20Guruguru%20to%20Nakayoshi%20%28Japan%29%20%28SGB%20Enhanced%2C%20GB%20Compatible%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

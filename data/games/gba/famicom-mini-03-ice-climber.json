@@ -1,0 +1,58 @@
+{
+  "id": "famicom-mini-03-ice-climber",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 03 - Ice Climber",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ03 アイスクライマー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 03 - Ice Climber (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FICJ",
+      "size": 1048576,
+      "crc32": "d0aef472",
+      "md5": "e64966be355fe570221cef39344973ea",
+      "sha1": "c64a586144dd33d4e30d02801519cbf0b93a0f09",
+      "sha256": "231935df9e0ddabb0b997459c6d582ef024dcd8e6e9ba5ba2b88aa62ee12f045"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2003%20-%20Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2003%20-%20Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2003%20-%20Ice%20Climber%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

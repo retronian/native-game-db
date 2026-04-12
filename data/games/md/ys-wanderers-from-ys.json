@@ -1,0 +1,66 @@
+{
+  "id": "ys-wanderers-from-ys",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ys - Wanderers from Ys",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワンダラーズ フロム イース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ys - Wanderers from Ys (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-49063-00",
+      "size": 1048576,
+      "crc32": "52da4e76",
+      "md5": "bb632143831215d57f45765b5dccea58",
+      "sha1": "28dc01d5dde8d569bae3fafce2af55ee9b836454",
+      "sha256": "e56a3acc70e79a5e0c3f714257872fbb0dda1458f3f6b1be9957a8da4c87e63b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アドルの長年の友人、ドギは、レッドモントの故郷で起こっている奇妙な騒動を聞き、帰りたいと思っています。冒険を求めるアドルは彼に同行し、この新たな悪の原因をすぐに突き止めます。\n\n「イースIII」は、前作の2つのゲームの「敵にぶつかる」バトルシステムから脱却し、アドルが剣をさまざまな方向に振ることができるようになりました。バトルシステムが変更されたほか、ゲームはこれまでの上からの視点から横スクロールに変わりました。アドルは今やジャンプする能力も持っています。シリーズにはお馴染みの魔法のリングも登場し、アドルに回復や防御などのさまざまなパワーアップ能力を与えます。また、ゲームは進行中に見つけるさまざまなキーアイテムを使用して小さなパズルを解き、ストーリーを進めていきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ys%20-%20Wanderers%20from%20Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ys%20-%20Wanderers%20from%20Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ys%20-%20Wanderers%20from%20Ys%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "super-nazo-puyo-rulue-no-roux",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Nazo Puyo - Rulue no Roux",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "す〜ぱ〜なぞぷよ ルルーのルー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Super Mystery Puyo: Rulue's Roux",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Nazo Puyo - Rulue no Roux (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "ba1dba22",
+      "md5": "bf4658e6ab66ec4f5388e17d63b33157",
+      "sha1": "00b56744af9b5147ff38e72f12206ee0ea06ed67",
+      "sha256": "2c481008cffe2e0636762baf7e8a529a0246a3669be93bdce7efa8c13bdf7837"
+    },
+    {
+      "name": "Super Nazo Puyo - Rulue no Roux (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "748d1412",
+      "md5": "af806d095c5cf01dc850dbfe1d5c5113",
+      "sha1": "783e9405989722667a4bc98df129ec5b8ffe5d1b",
+      "sha256": "6d52f7306bd0e1e1c4ebbf007bfc925da7c2149e0172c0370a97f3c3cfbd65ef"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37806
+  },
+  "descriptions": [
+    {
+      "text": "成功したアクションパズルシリーズ「ぷよぷよ」のスピンオフで、ひねりの効いた作品です。メインの「ぷよぷよ」シリーズは、AIや人間の対戦相手を倒すことを目的としたパズルデュエルに焦点を当てています（各プレイヤーは自分専用のプレイエリアで色分けされた「ぷよ」を落とし、相手よりも早くそれを消す必要があります）。一方、「なぞぷよ」は、特定の目標を達成することが求められるさまざまなシングルプレイヤーシナリオでプレイヤーに挑戦します（例えば、赤いぷよだけを消す、特定のコンボのシーケンスを行うなど）。\n\nこのゲームは、トップダウンRPGの形式を採用しており、若き魔法使いアルルを操作し、冒険を求めて町やダンジョンを探索します。各クエストでは、前述のシナリオのいずれかを引き起こすNPCを見つけることが含まれ、アルルは経験値やステータスを上げるユニークなアイテムを報酬として得ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Nazo%20Puyo%20-%20Rulue%20no%20Roux%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Nazo%20Puyo%20-%20Rulue%20no%20Roux%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Nazo%20Puyo%20-%20Rulue%20no%20Roux%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kulaquest",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "KulaQuest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "KulaQuest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 197911472,
+      "crc32": "92a2e772",
+      "md5": "343621aac192e5b8ee066dcafc7ef2c6",
+      "sha1": "ee67ca5b218ce35a68647e389680a39a312daf28",
+      "sha256": "35df7059073f36488029df78e46429f3d982f5b52ba26a5918ce140f952cbb30"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/KulaQuest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/KulaQuest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/KulaQuest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

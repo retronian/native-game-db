@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-densetsu-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Densetsu II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎伝説II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Densetsu II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "d9e1549a",
+      "md5": "4c3f3bbbe5a3f0ab2970adf55a867328",
+      "sha1": "bc891a5703895551c8b8618b176065918317dee9",
+      "sha256": "87e9d64abdedb78f1bc372e2ebbe585fb1c4f298176e3d13c63e880fcab2856e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃から生まれた少年が主人公のロールプレイングゲーム",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Momotarou%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Momotarou%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Momotarou%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

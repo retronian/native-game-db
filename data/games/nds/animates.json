@@ -1,0 +1,40 @@
+{
+  "id": "animates",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "AniMates!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "My Little Flufties",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "AniMates! (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A6YE",
+      "size": 16777216,
+      "crc32": "e64ee620",
+      "md5": "9b7724dee35bc1f53d4f28dbd0fab1b4",
+      "sha1": "302d76465b1d9ac99f52726d779e588d3743e81f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 93977
+  }
+}

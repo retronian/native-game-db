@@ -1,0 +1,68 @@
+{
+  "id": "supapoon",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Supapoon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "すぱぽーん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Supapoon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6d971e71",
+      "md5": "934f500b6aa2e759bb28895c612d98e5",
+      "sha1": "473fd8168166e3f73accc6f2d2a71f14ce223ab8",
+      "sha256": "c05d263d808bd468759527c81cc40b4a678cb82b68ad019e6df23c466b38c015"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42324
+  },
+  "descriptions": [
+    {
+      "text": "すぱぽーんは1995年末に発売されたスーパーファミコンのゲームで、ドラゴンクエストのスライムを思わせる弾力のある青いヒーローが登場するカラフルな世界を描いています。ヒーローの太陽系は三角形のサングラスをかけた黄色いボールの集団に侵略されており、彼は彼らを追い払うために行動を起こします。\n\nすぱぽーんはブレイクアウトやアルカノイドといったゲームにインスパイアされていますが、パドルの固有の弾力性を利用してボールをより強力に打ち出すことができるなど、独自のひねりも加えられています。また、パドルがスカルドロップや敵の攻撃を受けると、カウントダウンが速くなる常時タイマーも特徴です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-10-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Supapoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Supapoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Supapoon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

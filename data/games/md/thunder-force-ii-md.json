@@ -1,0 +1,56 @@
+{
+  "id": "thunder-force-ii-md",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Thunder Force II MD",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンダーフォースII MD",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Thunder Force II MD (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18013-00",
+      "size": 524288,
+      "crc32": "e75ec3e0",
+      "md5": "5b134b597779c5d6c2783fe3ee401766",
+      "sha1": "44b173b74225e5b562cdf3982926a051f05ed98e",
+      "sha256": "4b3a8becebfddafb70781dd10c28d007fec7655d7200d0502e77deeccfed73c1"
+    }
+  ],
+  "first_release_date": "1989-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Thunder%20Force%20II%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Thunder%20Force%20II%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Thunder%20Force%20II%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

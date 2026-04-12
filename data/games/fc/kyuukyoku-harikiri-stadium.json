@@ -1,0 +1,71 @@
+{
+  "id": "kyuukyoku-harikiri-stadium",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kyuukyoku Harikiri Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "究極ハリキリスタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kyuukyoku Harikiri Stadium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "40b41bf4",
+      "md5": "9ec9e0b9938998b719c9dab4a07d0785",
+      "sha1": "244968b87e56ea40794be4cafc53d73856adffb5",
+      "sha256": "02054ad883d7ae0879790d1f9d17233b69b713f186f44afbe7a36efd1b990ced"
+    },
+    {
+      "name": "Kyuukyoku Harikiri Stadium (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ae644e81",
+      "md5": "b9b391eca0ead5a60d2a600fea2501eb",
+      "sha1": "d1c863a65c748c6657d3035647676311a0336b8b",
+      "sha256": "63d7097cb5701aaf02ef261b632f0aa7756b8fe6ccd8faa9642ed79943598293"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48309
+  },
+  "first_release_date": "1988-06-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kyuukyoku%20Harikiri%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kyuukyoku%20Harikiri%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kyuukyoku%20Harikiri%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

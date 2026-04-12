@@ -1,0 +1,51 @@
+{
+  "id": "dancing-on-ice",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dancing on Ice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dancing on Ice (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CISP",
+      "size": 67108864,
+      "crc32": "07164c96",
+      "md5": "b3d3e1b85eba8f27773e8bc6e6bb407f",
+      "sha1": "74d3c4f418447e4213edf9ddf4f21c777bed9ef4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20419
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dancing%20on%20Ice%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Dancing%20on%20Ice%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Dancing%20on%20Ice%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

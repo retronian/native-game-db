@@ -1,0 +1,69 @@
+{
+  "id": "bit-generations-orbital",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "bit Generations - Orbital",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "bit Generations　ORBITAL",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "bit Generations - Orbital (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BVEJ",
+      "size": 16777216,
+      "crc32": "d5d43b4b",
+      "md5": "2885a1d384a596a6098855bd155a24a6",
+      "sha1": "437e3093928ce9b0705476053a059d70f9f84ae3",
+      "sha256": "e83c877144062a912a0e56aed2480a51f7d3e8753624526ad2778b2ea837acaf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49513
+  },
+  "descriptions": [
+    {
+      "text": "bit Generations: オービタルは、bit Generationsシリーズの第2弾として日本専用にリリースされたゲームボーイアドバンス用のビデオゲームです。この革新的なタイトルでは、プレイヤーが各ステージで多数の惑星を集めて一つの大きな岩を作り上げます。WiiWareではArt Style: ORBIENTというタイトルでリメイクされ、Art Styleシリーズの中で少なくとも3つのタイトルのうちの最初の作品となりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2006-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/bit%20Generations%20-%20Orbital%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/bit%20Generations%20-%20Orbital%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/bit%20Generations%20-%20Orbital%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

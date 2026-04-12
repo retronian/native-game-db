@@ -1,0 +1,95 @@
+{
+  "id": "return-of-double-dragon",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Return of Double Dragon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リターン・オブ・双截龍 ダブルドラゴン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "リターン・オブ・ダブルドラゴン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "리턴 오브 더블 드래곤",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Return of Double Dragon (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "10470b58",
+      "md5": "ef37e657e2bb1fbff7c1c09a184028b5",
+      "sha1": "5f03e04ce7bca88f8c2c11934056a3a67bfb319b",
+      "sha256": "b61addb0abd36ebd29e5c2988ae642b174bfec18a899cfe40866000dc934f658"
+    },
+    {
+      "name": "Return of Double Dragon (World) (Evercade)",
+      "source": "no_intro",
+      "size": 1572864,
+      "crc32": "bb2684c3",
+      "md5": "686da540762c1e280bd081dd396e7109",
+      "sha1": "c26c6ae19fb0e9efd2c30b89c88e671180243c63",
+      "sha256": "8091fd2ba2f758770b80eca3dd12d7047dc820a8923b83d45a06dc15e9ae039f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248131
+  },
+  "descriptions": [
+    {
+      "text": "ビリーとジミー・リーが再び冒険に戻ってきました。今回は、武道のインストラクターであり麻薬捜査官でもあるマリアンが、冷酷な犯罪組織「ブラックシャドウウォリアーズ」に潜入しようとして行方不明になってしまいました。\n\n再び、あなた（と友達）がサイドスクロールのベルトスクロールアクションのレベルを戦い抜き、シャドウウォリアーズとそのリーダー・デュークを倒し、マリアンを救う任務を果たさなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Return%20of%20Double%20Dragon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Return%20of%20Double%20Dragon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Return%20of%20Double%20Dragon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

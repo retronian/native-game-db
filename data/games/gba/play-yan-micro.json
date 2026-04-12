@@ -1,0 +1,49 @@
+{
+  "id": "play-yan-micro",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Play-Yan Micro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Play-Yan Micro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ZMBJ",
+      "size": 1048576,
+      "crc32": "9fd40094",
+      "md5": "c89bbbb8a6ce5c51b6361f9739827e44",
+      "sha1": "17b5f7ad459448b447fa94617d09886cd4f9c554",
+      "sha256": "4a46655eda7ba75e426cecc26b79cad46de33358d011fd6b2709f01d5a23e166"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Play-Yan%20Micro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Play-Yan%20Micro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Play-Yan%20Micro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

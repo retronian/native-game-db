@@ -1,0 +1,96 @@
+{
+  "id": "thunder-spirits",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Thunder Spirits",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "サンダースピリッツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Thunder Spirits (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "41a933a6",
+      "md5": "4dcb347551a5d8a232e972f3adbe9c23",
+      "sha1": "ec812f490a1453b94c04de52b0a73bb2e2fd8820",
+      "sha256": "d9ea1d47e71ea4fd0181517a4b62c2edbf552762d22acfe4361bd661c4fbc5f5"
+    },
+    {
+      "name": "Thunder Spirits (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "522fe837",
+      "md5": "b8249a26bfedeb4c723cc021c23f2652",
+      "sha1": "b0519f373bde918d5d03d13d6e1b0e82599f9102",
+      "sha256": "d50aaa41e153ca356eee16a9deccb1a763ee56ebbe6c80cd28c5ad1db66a5316"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46662
+  },
+  "descriptions": [
+    {
+      "text": "アーケード専用の「サンダーフォース AC」の移植版で、アーケード用に特別に改良された「サンダーフォース III」のバージョンです。グラフィックが再構築され、全てのトップダウンステージが新しい横スクロールステージに置き換えられています。「サンダースピリッツ」では、孤独なスターファイターの操縦席に座り、オルン帝国の敵勢力を全て壊滅させるために、様々な宇宙のロケーションに設定された8つの敵がひしめくステージをクリアしていきます。\n\nゲームでは、ヘルスバーが表示され、集めた武器を瞬時に切り替える能力が与えられます。武器はパワーアップをキャッチすることで入手でき、いつでもアクティブにすることが可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Thunder%20Spirits%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Thunder%20Spirits%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Thunder%20Spirits%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Thunder%20Spirits%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Thunder%20Spirits%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Thunder%20Spirits%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

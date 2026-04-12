@@ -1,0 +1,62 @@
+{
+  "id": "son-son",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Son Son",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソンソン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Son Son (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "6ad03ab3",
+      "md5": "f624795fda6d9229eec000a4737f7e65",
+      "sha1": "208e86563881f2969bf981b29cca5a9a81793add",
+      "sha256": "ceb0afd2af8274b46d7c4266927923391035336d59d2bf0b447c0854b87b1c92"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームでは、ソンソンまたはトンタンの役割を担い、目の前で誘拐された三人の友達を悪党から救出しようとします。このゲームは横スクロールアドベンチャーで、ゲームフィールドは自動的に進行し、画面は六つの異なるフロアに分かれており、すべてのフロアには触れると死んでしまう敵や障害物が配置されています。しかし、ソンソンとトンタンはそれぞれ魔法の杖とクワを使って、小さな弾を敵に向かって発射して攻撃します。彼らの攻撃は多くの敵の弾も止めることができます！選んだキャラクターはフロア間をジャンプし、ハンターやコウモリ、魚、像、昆虫、頭蓋骨コイン、狂った爆弾魔を避けなければなりません！進むにつれて、スコアを増やすための食べ物アイテムを拾うことができます。敵を画面から排除すると、いくつかの大きなボーナスも得られます。\n\n物語は「西遊記」に強く基づいており、プレイヤーキャラクターと誘拐されたキャラクターは物語の主要キャラクターに基づいています。このゲームはカプコンのオリジナルアーケードゲームの移植版でもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-02-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Son%20Son%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Son%20Son%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Son%20Son%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

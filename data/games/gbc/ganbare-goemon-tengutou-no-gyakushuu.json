@@ -1,0 +1,73 @@
+{
+  "id": "ganbare-goemon-tengutou-no-gyakushuu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ganbare Goemon - Tengutou no Gyakushuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "がんばれゴエモン 天狗党の逆襲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "がんばれゴエモン〜天狗党の逆襲〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ganbare Goemon - Tengutou no Gyakushuu (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d829eb2f",
+      "md5": "18b2c4989209373c0cba9bc58075b2fd",
+      "sha1": "337cbcbd185a74c6fd5b10823fda3dcf8dca30e4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このRPGでは、あなたは大江戸に迷い込んだ少年を操作し、ゴエモンや彼の仲間たちと協力して犯罪を解決します。特別な技や仲間との連携攻撃を駆使して、バトルシーンで敵を打ち倒します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ganbare%20Goemon%20-%20Tengutou%20no%20Gyakushuu%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ganbare%20Goemon%20-%20Tengutou%20no%20Gyakushuu%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ganbare%20Goemon%20-%20Tengutou%20no%20Gyakushuu%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

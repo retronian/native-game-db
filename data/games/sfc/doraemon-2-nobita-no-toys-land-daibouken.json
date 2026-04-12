@@ -1,0 +1,67 @@
+{
+  "id": "doraemon-2-nobita-no-toys-land-daibouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon 2 - Nobita no Toys Land Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもん2 のび太のトイズランド大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon 2 - Nobita no Toys Land Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d343b398",
+      "md5": "3908a11b8a82bc2e99766a1ed9ca17e4",
+      "sha1": "8672e208c3716b8fae3fd612bc80679a5459b616",
+      "sha256": "3fe6952b916dd6b4495eb9efc9e2a69c2e88317fbc82c01efbec490dac9ce5b4"
+    },
+    {
+      "name": "Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "140a1723",
+      "md5": "9ebc0625bd24eff82333c124bac469b3",
+      "sha1": "23eb6f2c4ad77622b000f2fd04983b8ba60d6c55",
+      "sha256": "737be0ea7bfb94118a7d1a1308bb8d639374d1a9c901d8bad4ce5b21669983c8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Doraemon%202%20-%20Nobita%20no%20Toys%20Land%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Doraemon%202%20-%20Nobita%20no%20Toys%20Land%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Doraemon%202%20-%20Nobita%20no%20Toys%20Land%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

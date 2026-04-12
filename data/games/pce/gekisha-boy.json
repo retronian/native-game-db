@@ -1,0 +1,65 @@
+{
+  "id": "gekisha-boy",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gekisha Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "激写ボーイ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gekisha Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e8702d51",
+      "md5": "355f281d002a139a05525264a28fb526",
+      "sha1": "ee2665acb440d8b01da0d14feb51d4e0bb50c400",
+      "sha256": "f0cf5f74c9aa303f8ee3ec592b0f172b22dfec11e4eb616f6e6356cb1f12a829"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "街を歩きながら、最もニュース性のある出来事の写真を撮ってポイントを稼ぐ新しいゲームです。これには、人が転んだり、飛行機が墜落したり、UFOが現れたりといった奇妙な出来事が含まれます。フィルムの枚数は限られており、バウンドするボールやスケートボードなどの障害物を避ける必要があります。接触するとフィルムをいくつか落としてしまい、フィルムがなくなるとレベルが終了します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-10-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gekisha%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gekisha%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gekisha%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

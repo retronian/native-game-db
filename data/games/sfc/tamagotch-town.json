@@ -1,0 +1,65 @@
+{
+  "id": "tamagotch-town",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tamagotch Town",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "たまごっちタウン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tamagotch Town (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "2c877794",
+      "md5": "c9bfaa0cf1365a1ae1d9be62abe0366b",
+      "sha1": "e5fa0a457278c831750213014f859e535de06734",
+      "sha256": "a5fd9970e5d2a23f1f910952823f481572db8bb49f59587b2b901feb66b9b19a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームの目的は、さまざまな風景が広がる土地に大きなたまごっち社会を築くことです。このゲームでは、環境とのインタラクションを通じてたまごっちを育てる独自の方法が特徴です。ゲームに登場するすべてのたまごっちキャラクターは、1996年から1998年のクラシックなたまごっちおもちゃからのものであり、ゲーム独自の新しいキャラクターもいくつか登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-05-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tamagotch%20Town%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tamagotch%20Town%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tamagotch%20Town%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "tom-sawyer-no-bouken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom Sawyer no Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トムソーヤの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "トム・ソーヤーの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom Sawyer no Bouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d3b92789",
+      "md5": "514c21f764ef09ca501da06fe593572f",
+      "sha1": "e5681af4479d6ef091ae9c8032b4a1259da39a8d",
+      "sha256": "6491c18742e3a456e36482b43b4b04bb9e815d018842097a42732107ea7c2e90"
+    }
+  ],
+  "external_ids": {
+    "igdb": 280978
+  },
+  "descriptions": [
+    {
+      "text": "「トムソーヤの冒険」では、トム・ソーヤの有名な文学的冒険が生き生きと描かれ、プレイヤーはトム・ソーヤ（または2人プレイの場合はハック・フィン）を操作します。冒険は、トムが学校で眠っている間の夢の中から始まります。\n\nこの典型的なプラットフォームゲームでは、ジャンプや石を投げることで操作します。転がる樽などの多くの障害物を避け、海賊やネズミ、さらには巨大なタコといったしつこい敵を倒しましょう。トムがミシシッピ川を下り、森やお化け屋敷、そして空を越えて進む手助けをしてください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-02-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tom%20Sawyer%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tom%20Sawyer%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tom%20Sawyer%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

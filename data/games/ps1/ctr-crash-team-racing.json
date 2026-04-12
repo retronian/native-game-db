@@ -1,0 +1,89 @@
+{
+  "id": "ctr-crash-team-racing",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "CTR - Crash Team Racing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "CTR - Crash Team Racing (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 338947056,
+      "crc32": "63237741",
+      "md5": "1a630e860c6afcfbcffb7c3464ce08a2",
+      "sha1": "6e748cedd90983323991ce2a72f887171e23b292"
+    },
+    {
+      "name": "CTR - Crash Team Racing (Germany)",
+      "source": "no_intro",
+      "size": 339004448,
+      "crc32": "53b9997d",
+      "md5": "8f377a2419a8bb8a2e51164fba2a7149",
+      "sha1": "d7320e9ace3860e844fd46f145ab848c60a16d4b"
+    },
+    {
+      "name": "CTR - Crash Team Racing (Italy)",
+      "source": "no_intro",
+      "size": 338987280,
+      "crc32": "5a69e476",
+      "md5": "fdeea22a9d6dcfde6eac1d0468b46407",
+      "sha1": "3bff36681dc53268ec77bc7038134ee3628b2c7e"
+    },
+    {
+      "name": "CTR - Crash Team Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 326550096,
+      "crc32": "872eacfc",
+      "md5": "0b98d9878384e814852cf4716b212044",
+      "sha1": "09f96e9941820476a783703ae1e6f3ff567fc794"
+    },
+    {
+      "name": "CTR - Crash Team Racing (France)",
+      "source": "no_intro",
+      "size": 338990128,
+      "crc32": "04305937",
+      "md5": "ad4ac40ebb14b0d72704db144ec64385",
+      "sha1": "c49792ced9d1797b5555a4219f91eb5b278ade08",
+      "sha256": "cc5b8186dd7c3e2e7e8c2deac321ea690f37b6d23318a526478ed4e5a7c43297"
+    },
+    {
+      "name": "CTR - Crash Team Racing (Spain)",
+      "source": "no_intro",
+      "size": 338976496,
+      "crc32": "867204f3",
+      "md5": "3d32b1fdba0dbe454c817dc9d02dfc57",
+      "sha1": "f6407b23ecd894f438f5891c8853560ab3b628fd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/CTR%20-%20Crash%20Team%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/CTR%20-%20Crash%20Team%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/CTR%20-%20Crash%20Team%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "wakataka-oozumou-yume-no-kyoudai-taiketsu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wakataka Oozumou - Yume no Kyoudai Taiketsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "若貴大相撲 夢の兄弟対決",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wakataka Oozumou - Yume no Kyoudai Taiketsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "05eafa58",
+      "md5": "d000c12d80a110e87176428a3003a260",
+      "sha1": "90941d796f88a5e5f9d0af32a434bc65ca40c173",
+      "sha256": "c21eda36665b9d94ca5e443ebb5801431e11b79b315c6eb27628160e684fd544"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61180
+  },
+  "descriptions": [
+    {
+      "text": "若貴大相撲 夢の兄弟対決は、スーパーファミコン用の相撲ゲームです。若貴とは、横綱に昇進した有名な兄弟、若乃花と貴乃花を指します。\n\nこの相撲ゲームは珍しく、各試合はじゃんけんのようなシステムに基づいており、2人のプレイヤーが選択肢から次の動きを選び、その選んだ動きに応じて試合の次の展開が決まります。相撲取りが土俵の端に達するか、スタミナをすべて失うと、試合に敗れます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wakataka%20Oozumou%20-%20Yume%20no%20Kyoudai%20Taiketsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wakataka%20Oozumou%20-%20Yume%20no%20Kyoudai%20Taiketsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wakataka%20Oozumou%20-%20Yume%20no%20Kyoudai%20Taiketsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

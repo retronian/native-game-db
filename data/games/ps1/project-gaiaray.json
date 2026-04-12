@@ -1,0 +1,39 @@
+{
+  "id": "project-gaiaray",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Project GaiaRay",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロジェクトガイアレイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Project GaiaRay (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 165260688,
+      "crc32": "c20ea105",
+      "md5": "38a4097b1c33e2359035923cedea2e8a",
+      "sha1": "3d3c2bafbbfacb6c7c6bfa5271ebacbbc6e51388"
+    }
+  ],
+  "external_ids": {
+    "igdb": 71022
+  }
+}

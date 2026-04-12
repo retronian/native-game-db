@@ -1,0 +1,62 @@
+{
+  "id": "gotouchi-kentei-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gotouchi Kentei DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gotouchi Kentei DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANCJ",
+      "size": 67108864,
+      "crc32": "1466dc30",
+      "md5": "328a0cb6087bd3db270effc3a84f3b45",
+      "sha1": "ce03517e2f3b5f6fdce694d4fe406e8b492a519e"
+    },
+    {
+      "name": "Gotouchi Kentei DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANCJ",
+      "size": 67108864,
+      "crc32": "340521b1",
+      "md5": "a624c44e61178fb48f3a4a4aad9a609b",
+      "sha1": "656fa6207da765068a4d0bdea73fd99ee28354cf",
+      "sha256": "fcee5cc2f9c2672618598853a1f0e92bcf0b971c724561472422f01302b3fd56"
+    }
+  ],
+  "external_ids": {
+    "igdb": 124018
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gotouchi%20Kentei%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gotouchi%20Kentei%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gotouchi%20Kentei%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

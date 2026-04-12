@@ -1,0 +1,119 @@
+{
+  "id": "kingdom-hearts-re-coded",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kingdom Hearts - Re-coded",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キングダム ハーツ Re:コーデッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kingdom Hearts - Re-coded (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BK9J",
+      "size": 268435456,
+      "crc32": "9460197d",
+      "md5": "c026664916359c0a733f05117839ec72",
+      "sha1": "da757493beb39dabd19bc762b502059eb2775bb8",
+      "sha256": "5e4646e2cb0ace7d6e887a481ca6b7c5580a2ea0e7c4c7208ee912ef59f7aa48"
+    },
+    {
+      "name": "Kingdom Hearts - Re-coded (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BK9E",
+      "size": 268435456,
+      "crc32": "28acd394",
+      "md5": "74ac28831afefd79c88b5cb487c501a0",
+      "sha1": "3e5e84d606bd3951c6d5572e3aa143e6cbbd5611",
+      "sha256": "929f36f1e09b6b0962ac718332033bbd519f2edede18a3ab65f425ddc66e3fd3"
+    },
+    {
+      "name": "Kingdom Hearts - Re-coded (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BK9P",
+      "size": 268435456,
+      "crc32": "3bba1498",
+      "md5": "605567dc2a710b2fdbd40853b1a04239",
+      "sha1": "b9d45dcd654265fc7b8ba83f1bb3c15f011d6acf",
+      "sha256": "44e8420cffac48382a49fbfa2b6bbf2c0318a29cd446ee75dd67a28a17deab09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1225
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kingdom%20Hearts%20-%20Re-coded%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kingdom%20Hearts%20-%20Re-coded%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kingdom%20Hearts%20-%20Re-coded%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kingdom%20Hearts%20-%20Re-coded%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kingdom%20Hearts%20-%20Re-coded%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kingdom%20Hearts%20-%20Re-coded%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kingdom%20Hearts%20-%20Re-coded%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kingdom%20Hearts%20-%20Re-coded%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kingdom%20Hearts%20-%20Re-coded%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

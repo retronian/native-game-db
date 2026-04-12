@@ -1,0 +1,69 @@
+{
+  "id": "shinri-game-the-akuma-no-kokoroji",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinri Game, The - Akuma no Kokoroji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザ・心理ゲーム 悪魔のこころじ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "The心理ゲーム 悪魔のココロジー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinri Game, The - Akuma no Kokoroji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4ed29f52",
+      "md5": "d7d0075575d9a5793e20b5e52b86d544",
+      "sha1": "c452005ad97a81426dc03a22cb0654dd65fffcc4",
+      "sha256": "b41e60407e2acd57e7ed7e9907151a524bde21e434cbb2444b9225a37232b675"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61684
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shinri%20Game%2C%20The%20-%20Akuma%20no%20Kokoroji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shinri%20Game%2C%20The%20-%20Akuma%20no%20Kokoroji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shinri%20Game%2C%20The%20-%20Akuma%20no%20Kokoroji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

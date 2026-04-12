@@ -1,0 +1,69 @@
+{
+  "id": "poporogue",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PoPoRoGue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポポローグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PoPoRoGue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 270211312,
+      "crc32": "2b685f1b",
+      "md5": "7b7eb8506f0f5004411183a0a53fe44d",
+      "sha1": "b6c264d1c285e98c67ccdb91e69c78160926834c"
+    },
+    {
+      "name": "PoPoRoGue (Japan) (Alt)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 270684816,
+      "crc32": "0e725043",
+      "md5": "b68a835c453709cd077ab93578de4731",
+      "sha1": "c74c1d52d41ab826936c7358343eebec3a592b41",
+      "sha256": "a544585adcbb6cfc197ea50bb856f0b12e61a8b100739e7600cccfd865c8b9bf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79937
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/PoPoRoGue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/PoPoRoGue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/PoPoRoGue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

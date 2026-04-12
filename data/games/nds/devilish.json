@@ -1,0 +1,49 @@
+{
+  "id": "devilish",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Devilish",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Devilish (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADVP",
+      "size": 16777216,
+      "crc32": "15f55fe8",
+      "md5": "3ce8bc204d0bd6390e24c6fc0236000f",
+      "sha1": "0e8cb0f8700ec03f6c55cf1d2587a7c522dbfaec",
+      "sha256": "c096b59e320343640d82be40f611a89e3557e6dc76e3cec935d67a5089073d9e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Devilish%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Devilish%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Devilish%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

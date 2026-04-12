@@ -1,0 +1,61 @@
+{
+  "id": "cyber-cop",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cyber-Cop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Corporation",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cyber-Cop (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70016-00",
+      "size": 1048576,
+      "crc32": "01e719c8",
+      "md5": "0d4d655d51f1e2343c655bb1e95d6654",
+      "sha1": "72470ea83064046a0b1dfba3047032c26d610df8",
+      "sha256": "98838ed8d69349ab64a99e4a4e0ea72843d47b175b69fda36957283932f0aba9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 80869
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Cyber-Cop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Cyber-Cop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Cyber-Cop%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

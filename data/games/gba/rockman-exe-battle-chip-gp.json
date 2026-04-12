@@ -1,0 +1,95 @@
+{
+  "id": "rockman-exe-battle-chip-gp",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman EXE - Battle Chip GP",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "冒険遊記プラスターワールド 〜プラストオンGP〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman EXE - Battle Chip GP (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A89J",
+      "size": 8388608,
+      "crc32": "9217fb18",
+      "md5": "e7970a74b423e6b4e842ec640eba3630",
+      "sha1": "f39992851257a1567f3bfca81dd269f37469bb67",
+      "sha256": "6c3ac853d06b0fa70d9ac5a0705841ddb4f0e06cd246894e60bcb1cf824ef025"
+    },
+    {
+      "name": "Rockman EXE - Battle Chip GP (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A89J",
+      "size": 8388608,
+      "crc32": "f37bf038",
+      "md5": "2152c7ff7aea128267279e1a3c5db3ee",
+      "sha1": "9816fdb5f076c601287f5dfb3c7218150a75f2f6",
+      "sha256": "9a80c92a3470f5a4626a9fa1dbd1cb97a302063f3f083ebe8a008771a28d1fb5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ラン、ショード、デックスなどの「ロックマン バトルネットワーク」シリーズのキャラクターたちが、バトルチップGPで激闘を繰り広げます！お気に入りのキャラクターを操作し、多くの対戦相手と戦いながらGPの頂点を目指し、非常にレアなバトルチップという究極の賞品を手に入れましょう！\n\nゲームプレイは「ロックマン バトルネットワーク」シリーズに基づいており、プレイヤーはさまざまなバトルチップを購入して対戦相手と戦います。しかし、メインゲームとは異なり、プレイヤーはネットナビを直接操作することはできません。代わりに、プレイヤーは事前にバトルチップを選択し、その中の1つが対戦相手との戦闘で使用されます。選択が完了すると、ゲームは自動的に戦闘を進行します。\n\nまた、「スロットイン」というプロセスもあり、戦闘中にスロットインゲージが満タンのときにLまたはRを押すことで実行できます。スロットインを行うと、ゲームプレイ中に追加のバトルチップを使用できるようになり、戦闘をサポートします。成功すれば、そのチップが使用され、回復や追加ダメージなどで助けてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-03-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20EXE%20-%20Battle%20Chip%20GP%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

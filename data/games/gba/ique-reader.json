@@ -1,0 +1,48 @@
+{
+  "id": "ique-reader",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "iQue Reader",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "iQue Reader (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "!none",
+      "size": 4194304,
+      "crc32": "8724750b",
+      "md5": "fb659da8c345e1c26227d345efc76c79",
+      "sha1": "2192e37d069ad42834f124c66de2df278d330ca2",
+      "sha256": "7eec71024ad178b53437b8cbafa5e7125a84eb1bae548f1c2c19636f59bc4107"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/iQue%20Reader%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/iQue%20Reader%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/iQue%20Reader%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

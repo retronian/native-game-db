@@ -1,0 +1,90 @@
+{
+  "id": "tangled",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tangled",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tangled (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6TP",
+      "size": 67108864,
+      "crc32": "7390970a",
+      "md5": "20a0c680282aa77bb737385b66478977",
+      "sha1": "d1251e14814e05c175757a27441865618b535d4a"
+    },
+    {
+      "name": "Tangled (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6TE",
+      "size": 67108864,
+      "crc32": "8f0f64d6",
+      "md5": "9021ed328857de1c4539f21311f9d134",
+      "sha1": "7f04ef885bdf28d658fe62dfccefe8aa5a53dad9",
+      "sha256": "29e2c302a2b71d38f9906a4b0c4890f252c23f9e77fde57f4c5db25cf42e4400"
+    },
+    {
+      "name": "Tangled (Europe) (En,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B6TX",
+      "size": 67108864,
+      "crc32": "2e9ffa6e",
+      "md5": "ff3bc292b4ec857413ac11cf72b894bb",
+      "sha1": "5bae30ef824a3336f15ba561138f0934f4cfa31a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 376725
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tangled%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tangled%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tangled%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tangled%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tangled%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tangled%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

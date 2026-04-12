@@ -1,0 +1,75 @@
+{
+  "id": "hardcore-pool",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hardcore Pool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hardcore Pool (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHOP",
+      "size": 4194304,
+      "crc32": "2be4f2bc",
+      "md5": "a4bf3aa27a7c5c3ffd0dcaf27da99486",
+      "sha1": "f1755e575b4a8e19a7f30bcc3ef3450ba6cb31ea"
+    },
+    {
+      "name": "Hardcore Pool (France)",
+      "source": "no_intro",
+      "serial": "BHOF",
+      "size": 4194304,
+      "crc32": "44779175",
+      "md5": "185ea59c28f2d64063865ac94744635d",
+      "sha1": "bfb0a17c4463d73e597640ab88299adc5f26a270"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130627
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hardcore%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hardcore%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hardcore%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hardcore%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hardcore%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hardcore%20Pool%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

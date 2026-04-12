@@ -1,0 +1,77 @@
+{
+  "id": "sorcer-kingdom",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sorcer Kingdom",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソーサルキングダム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sorcer Kingdom (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25113-00",
+      "size": 1048576,
+      "crc32": "944135ca",
+      "md5": "c5290a39f86cff65ddf10f9913e94d4a",
+      "sha1": "16394aebece9d03f43505eab0827889e1c61857f",
+      "sha256": "63d99751e0a5212f8a82f3e6a7885f0780a286d961db798fc032fb784e8a8b65"
+    },
+    {
+      "name": "Sorcer Kingdom (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-25113-00",
+      "size": 1048576,
+      "crc32": "3dbc3130",
+      "md5": "0b1cc08ca6020c00bafbf623b7c79d23",
+      "sha1": "f969f7def85fb1a994a1041c72028a35978c9659",
+      "sha256": "a1f961b13ddfc5b554ee6ffeed40c7295e9013c9e15abf47c7f6328d02e0415a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ソーサルキングダムは、RPGと戦略ゲームが融合した作品です。あなたは若き冒険者となり、王から派遣されて、土地を脅かすモンスターの増加の理由を探り、王国に平和を取り戻す使命を担います。冒険者としてスタートし、クエストを達成することで王からより高い称号を授与されます。\n\nゲームは典型的なRPGのように進行しますが、バトルは少し独特です。攻撃を受けたり、現在の範囲内にいるモンスターを攻撃したりすると、即座にターン制のバトルが始まり、別の戦闘エリアに移動することはありません。バトルが始まった瞬間に視界に入っていたすべての敵と戦わなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sorcer%20Kingdom%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sorcer%20Kingdom%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sorcer%20Kingdom%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

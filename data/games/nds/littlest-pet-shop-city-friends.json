@@ -1,0 +1,67 @@
+{
+  "id": "littlest-pet-shop-city-friends",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - City Friends",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - City Friends (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLCP",
+      "size": 67108864,
+      "crc32": "0df0c9a9",
+      "md5": "d76e30c7f2fb7d36a4fb4852f1ebb2d7",
+      "sha1": "2d12e59811605edb5f911808600961276897b916"
+    },
+    {
+      "name": "Littlest Pet Shop - City Friends (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLCE",
+      "size": 67108864,
+      "crc32": "21b2a4a7",
+      "md5": "32df3490de21a06d653865983a1072db",
+      "sha1": "bb93259a07efc7394dab68cb4e3b9b665425ec79"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48022
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20City%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20City%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20City%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20City%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

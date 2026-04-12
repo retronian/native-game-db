@@ -1,0 +1,64 @@
+{
+  "id": "looney-tunes-collector-martian-quest",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes Collector - Martian Quest!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マーシャンクエスト!",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes Collector - Martian Quest! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "bc46a2d2",
+      "md5": "74f0ca3425914df4af3210541ff619c8",
+      "sha1": "450e43cf2d9cfa18856b3f3312e2194f132dbb1b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マーシャン・クエスト！の忠実な仲間K-9は、宇宙船を掃除していました。その際、K-9は偶然にもマーヴィンの地球を破壊する計画に必要なテレポーターのパーツを10個捨ててしまいました。バックス・バニーは偶然にもマーチャンの計画を聞いてしまい、今や彼は世界中を旅して他のルーニー・テューンズのキャラクターを47人集めなければなりません。バックスは基本的なタスクをこなすことができますが、ゲームのすべてのパズルを解き、10個のテレポーターのパーツを集めるには、各キャラクターの特別なスキルと才能が必要です。例えば、エルマー・ファッドは銃で障害物を吹き飛ばすことができ、ダフィー・ダックは泳いで深い水に潜ることができます。各キャラクターをどのように、いつ使うかを学ぶことが、LOONEY TUNES COLLECTOR: Alert! での成功の鍵となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Looney%20Tunes%20Collector%20-%20Martian%20Quest%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Looney%20Tunes%20Collector%20-%20Martian%20Quest%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Looney%20Tunes%20Collector%20-%20Martian%20Quest%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ninja-ryuuken-den-ii-ankoku-no-jashin-ken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Ryuuken Den II - Ankoku no Jashin Ken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者龍剣伝II 暗黒の邪神剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c0414aaa",
+      "md5": "3f228c866fcc4fde639e90ba82ac608e",
+      "sha1": "2c31f79577138772f389dc75d359a1162c07b742",
+      "sha256": "92a0dbae318f014ba4ad4a249b1a68ac703c9bc29249bb3ebcde6ac8899b18b4"
+    },
+    {
+      "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "2d19c365",
+      "md5": "86715fe6bdcdfee378eda2914fd4d831",
+      "sha1": "4474b9b1024b9648f7614b86247fb204bd9daea9",
+      "sha256": "7a6265ab515ad4627a16997cb46bd5b187beb7296bd7b18d860d144eb3e03bdc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja%20Ryuuken%20Den%20II%20-%20Ankoku%20no%20Jashin%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja%20Ryuuken%20Den%20II%20-%20Ankoku%20no%20Jashin%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja%20Ryuuken%20Den%20II%20-%20Ankoku%20no%20Jashin%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

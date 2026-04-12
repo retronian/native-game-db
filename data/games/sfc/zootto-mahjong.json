@@ -1,0 +1,116 @@
+{
+  "id": "zootto-mahjong",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zootto Mahjong!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぞーっと麻雀!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ZOOっと麻雀!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ず〜 Zooっと麻雀! まーじゃん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "Zooっと麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zootto Mahjong! (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "c167987d",
+      "md5": "a990ae4416dd75f7c68c5db06425d648",
+      "sha1": "21286747d360c03e3bf86cd4504508ce55deff8f",
+      "sha256": "13e6073e0dccbbfcdd8436b2f6dd9b96b6a200529b409aebb53620b4e820ec6b"
+    },
+    {
+      "name": "Zootto Mahjong! (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "4833c585",
+      "md5": "c61dfcd839b71b76d2fa773a9d519476",
+      "sha1": "77a3a972a80246d09e935969fec70a90be82e933",
+      "sha256": "8441ce66da49ec7d1e1159f2ae3b67b5de0e0963a587bf5c89591fc764ab3a27"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37744
+  },
+  "first_release_date": "1998-07-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zootto%20Mahjong%21%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zootto%20Mahjong%21%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zootto%20Mahjong%21%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zootto%20Mahjong%21%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zootto%20Mahjong%21%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zootto%20Mahjong%21%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

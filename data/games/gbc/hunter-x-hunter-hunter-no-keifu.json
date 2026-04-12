@@ -1,0 +1,73 @@
+{
+  "id": "hunter-x-hunter-hunter-no-keifu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hunter x Hunter - Hunter no Keifu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハンター×ハンター Hunter×Hunter ハンターの系譜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "HUNTER×HUNTER ハンターの系譜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ハンター×ハンター ハンターの系譜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hunter x Hunter - Hunter no Keifu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "a1361642",
+      "md5": "62922e55a0a4a4e9e90248ceb13b3c56",
+      "sha1": "cf31b713b6039ba18675fa5d4caa83934ae1f216"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65245
+  },
+  "descriptions": [
+    {
+      "text": "人気の週刊少年ジャンプ漫画「ハンター×ハンター」の世界を再現したシミュレーションゲームです。プレイヤーはゴンやヒソカなどお馴染みのキャラクターと共にハンター試験に挑戦します。このゲームは単なるバトルSLGではなく、試験に応じて料理（アイテム合成）などのさまざまなアクションも必要とします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hunter%20x%20Hunter%20-%20Hunter%20no%20Keifu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

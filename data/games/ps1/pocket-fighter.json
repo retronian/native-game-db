@@ -1,0 +1,87 @@
+{
+  "id": "pocket-fighter",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ポケットファイター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Fighter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 231448304,
+      "crc32": "c99b1db5",
+      "md5": "c4c39aedd908cd7ccef318471a3ee0c3",
+      "sha1": "da731acb68b1088419e4fbcfc54a357506ec3608"
+    },
+    {
+      "name": "Pocket Fighter (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 166490672,
+      "crc32": "2fcc70b2",
+      "md5": "1bf663d25ff429dbb118810afc9bab6c",
+      "sha1": "238b551dbbf92d277eaff5849827b110f1e9ab69",
+      "sha256": "d7f6ffaea6f7e06153b57b32f86bb1e4f980b25b66b3e06e3f967eafe64bb914"
+    }
+  ],
+  "external_ids": {
+    "igdb": 23094
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Pocket%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Pocket%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Pocket%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Pocket%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Pocket%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Pocket%20Fighter%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

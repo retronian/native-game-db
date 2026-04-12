@@ -1,0 +1,42 @@
+{
+  "id": "logic-cubes",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Logic Cubes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Logic Cubes (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3QP",
+      "size": 8388608,
+      "crc32": "463c2767",
+      "md5": "f5bdaecbfd1c8f8dbdef73ce9f8e65ad",
+      "sha1": "1c55f7bd4d8e42e4a050532dfa75cd8bc16fa0bf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Logic%20Cubes%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Logic%20Cubes%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

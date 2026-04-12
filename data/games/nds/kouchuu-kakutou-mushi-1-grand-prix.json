@@ -1,0 +1,71 @@
+{
+  "id": "kouchuu-kakutou-mushi-1-grand-prix",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kouchuu Kakutou - Mushi-1 Grand-Prix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "甲虫格闘 ムシ-1 グランプリ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kouchuu Kakutou - Mushi-1 Grand-Prix (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKFJ",
+      "size": 8388608,
+      "crc32": "109d29fe",
+      "md5": "650204edecd6011554a56f33c17fe22e",
+      "sha1": "2fa4166ac3d2d7a9230efb732d966f21187ca1a8",
+      "sha256": "1d180e24d2f1606448b15db45501849c74ffa77edf675157df9440f659e631dc"
+    },
+    {
+      "name": "Kouchuu Kakutou - Mushi-1 Grand-Prix (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AKFJ",
+      "size": 8388608,
+      "crc32": "4b55edbb",
+      "md5": "fa6036e62f04ce1dbb4399e32cb8f636",
+      "sha1": "17fdad2cde84f8725cf0a7c45f96c5ec581a23fd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122898
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kouchuu%20Kakutou%20-%20Mushi-1%20Grand-Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kouchuu%20Kakutou%20-%20Mushi-1%20Grand-Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kouchuu%20Kakutou%20-%20Mushi-1%20Grand-Prix%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

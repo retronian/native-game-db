@@ -1,0 +1,67 @@
+{
+  "id": "gb-harobots",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Harobots",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GBハロボッツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Harobots (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "1c0368fa",
+      "md5": "07de70bd0e839dd1d4be2670b2e1d33f",
+      "sha1": "0fc2198938fcd259c525591f74c8aae4b048f298"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281454
+  },
+  "descriptions": [
+    {
+      "text": "GBハロボッツは、サンライズインタラクティブが発表したロールプレイングゲームで、2000年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/GB%20Harobots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/GB%20Harobots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/GB%20Harobots%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

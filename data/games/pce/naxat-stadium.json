@@ -1,0 +1,77 @@
+{
+  "id": "naxat-stadium",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Naxat Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナグザット スタジアオム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Naxat Stadium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "20a7d128",
+      "md5": "7029f280c42ce2a25d435b8b1a3181d3",
+      "sha1": "203338d5535457df7504b0fc0cc61e2940ef2127",
+      "sha256": "af7b69aa7d02f7e5672eee8d09ff119358378f8a5c12bf3a0c101c5b0248777a"
+    },
+    {
+      "name": "Naxat Stadium (Hong Kong) (Ja) (Unl)",
+      "source": "no_intro",
+      "size": 524288,
+      "crc32": "fba3a1a4",
+      "md5": "70f8a8a8704602e94997f509323b9a56",
+      "sha1": "50fa09b8c65aa7805e200377bfaafdfe85a99af6",
+      "sha256": "debe5d49ed06c835c4c6f0abdf30eff56139f03213ae7b2e06c8bd11179076f6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37670
+  },
+  "descriptions": [
+    {
+      "text": "とてもドジな選手たちが登場する野球ゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Naxat%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Naxat%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Naxat%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

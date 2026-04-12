@@ -1,0 +1,65 @@
+{
+  "id": "gojira-kaijuu-dairantou-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gojira - Kaijuu Dairantou Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴジラ 怪獣大乱闘 アドバンス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gojira - Kaijuu Dairantou Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AG4J",
+      "size": 4194304,
+      "crc32": "3157a4fc",
+      "md5": "f05f356facb38a1c330fa3d80ff3bd28",
+      "sha1": "985599e9f65d58d67170ca9ad3eb406c6ed25217"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "六体の怪獣が、地球上で最も偉大な怪獣であることを証明するために、七つの破壊的な場所で戦います。各怪獣は、競争相手を圧倒するための独自のパンチ、キック、特別な技を持っています。\n\nゲームの特徴には、各怪獣ごとに専用のアリーナと特技を持つ7体の怪獣、建物を破壊することで得られるパワーアップや武器、4人の友達と対戦できるリンクモードを含む5つの異なるモード、無限のスタイルで楽しめるカスタマイズバトルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gojira%20-%20Kaijuu%20Dairantou%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gojira%20-%20Kaijuu%20Dairantou%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gojira%20-%20Kaijuu%20Dairantou%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

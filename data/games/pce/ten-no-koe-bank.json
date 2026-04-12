@@ -1,0 +1,57 @@
+{
+  "id": "ten-no-koe-bank",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ten no Koe Bank",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天の声バンク",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ten no Koe Bank (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131072,
+      "crc32": "3b3808bd",
+      "md5": "e0047b06dc84cb242cced8c5fa7efafe",
+      "sha1": "8ade1c698e0cb96ce3ed01986c7e5268aa5a1451",
+      "sha256": "16d43e32b34ed40b0a59f4122370f4d973af33a6122c9ccbfab6bb21cf36f1b3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Ten%20no%20Koe%20Bank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Ten%20no%20Koe%20Bank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Ten%20no%20Koe%20Bank%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

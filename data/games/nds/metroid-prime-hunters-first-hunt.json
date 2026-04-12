@@ -1,0 +1,70 @@
+{
+  "id": "metroid-prime-hunters-first-hunt",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metroid Prime Hunters: First Hunt",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "メトロイドプライムハンターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "메트로이드 프라임 헌터즈",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 119521
+  },
+  "first_release_date": "2004-11-21",
+  "roms": [
+    {
+      "name": "Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo) (Not for Resale)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMFE",
+      "size": 16777216,
+      "crc32": "c2fb5233",
+      "md5": "4886695ad984a7048122567de1f02f1e",
+      "sha1": "345a5fcc1c1174506a61c34ddf313b90c95c6496",
+      "sha256": "6dc3bf10058b8621d565c1aa6fbbc03545b384a7175ecb70131ee0bb5eb6a7dc"
+    },
+    {
+      "name": "Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Demo) (Not for Resale)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMFP",
+      "size": 16777216,
+      "crc32": "1276fb36",
+      "md5": "cbe453b8e6b7cbf143fa3218b54b4d41",
+      "sha1": "52ff7f9d52076e5a5efc1659dea1f202ff4e2072",
+      "sha256": "4980d6e15762377d26d0547cdc6bacd87b4e93f59feb68195919d2d58b122f06"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metroid%20Prime%20-%20Hunters%20-%20First%20Hunt%20%28USA%2C%20Australia%29%20%28Demo%29%20%28Not%20for%20Resale%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

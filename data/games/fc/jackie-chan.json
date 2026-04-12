@@ -1,0 +1,71 @@
+{
+  "id": "jackie-chan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jackie Chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "成龍 ジャッキーチェン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ジャッキーチェン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jackie Chan (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "e291e9d6",
+      "md5": "1e5807bbc691916abeaf778048940088",
+      "sha1": "17b9c4f6e9234d062e488c7d2b354dc51790a8c0",
+      "sha256": "5b0ee7b8b82f4b8515b8d1f803f98c2e82492530af018308d315c09b52d92312"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジャッキー・チェンと彼の双子の妹ジョセフィーヌは、中国で素晴らしいカンフーの使い手であり、偉大な師匠のもとで修行をしていました。ある日、ジャッキーとジョセフィーヌが散歩をしていると、師匠の宿敵である魔法使いが現れました。魔法使いは中国を支配しようとし、双子が彼の邪魔になることを知っていたため、ジョセフィーヌを消してしまう呪いをかけました。今、ジャッキー・チェンが魔法使いを追いかけ、彼の手下たちと戦いながら妹を救い、中国を救う使命を担っています。\n\n「ジャッキー・チェンのアクションカンフー」は、横スクロールの格闘ゲームです。ジャッキーの操作は、ジャンプ用のボタンと攻撃用のボタンがあり、方向キーと組み合わせることで特別な攻撃を行うこともできます。ジャッキーは、カエルや忍者、鳥などの敵をパンチやキックで倒しながら進んでいきます。ジャッキーは、トルネードアタック、180度スピンキック、360度スピンキック、スカイアタックなどの特別な技を習得できます。その他のパワーアップには、エネルギーの補充やボーナスポイントがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jackie%20Chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

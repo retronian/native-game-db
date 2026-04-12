@@ -1,0 +1,56 @@
+{
+  "id": "space-invaders-90",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space Invaders 90",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スペースインベーダー90",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Space Invaders 90 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11053-00",
+      "size": 262144,
+      "crc32": "22adbd66",
+      "md5": "9b77f861e9a75bfd2eb5b27137f17e3b",
+      "sha1": "d15830fd1070960d1696c1a9d48c9f7db3aa89e4",
+      "sha256": "d8fd0ab8a7bffd5743b598928148bd625c81bc8f10c525db6c77444a7fa23881"
+    }
+  ],
+  "first_release_date": "1990-09-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Space%20Invaders%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Space%20Invaders%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Space%20Invaders%2090%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "vehicle-cavalier",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vehicle Cavalier",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヴィークル・キャヴァリアー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vehicle Cavalier (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 45685520,
+      "crc32": "e05fd907",
+      "md5": "afbd9d08f8980f37880d71120d54d98d",
+      "sha1": "943c3d5b04ee15a2eab0f3b02b0f2220529682ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64199
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Vehicle%20Cavalier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Vehicle%20Cavalier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Vehicle%20Cavalier%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

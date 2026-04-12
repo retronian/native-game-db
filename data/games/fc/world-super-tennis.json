@@ -1,0 +1,65 @@
+{
+  "id": "world-super-tennis",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Super Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドスーパーテニス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Super Tennis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "bd55fb21",
+      "md5": "44022b2e6740375d184f10d46ee9a08f",
+      "sha1": "a800ee6a631405f1391f7fca02a4d60048be87bd",
+      "sha256": "cd97634517ea55af5b9148e5ba5aa5ebd5d517333484ec9d281d3aa625882269"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オーストラリアオープン、フレンチオープン、ウィンブルドン、そして全米オープン - テニス界のビッグネームたちが毎年これらのトーナメントで名誉あるグランドスラムを勝ち取るために競い合います。それなら、あなたも挑戦してみませんか？アスミックの「トッププレイヤーズテニス」では、プロたちと一緒にグランドスラムを目指して競うことができます。\n\nさまざまなモードから選択できます - シングルス（コンピュータまたは他のプレイヤーとの対戦）、ダブルス、さらにはネットの向こう側にいる二人のプレイヤーに対して一人で挑む「ワンプレイヤー対ツープレイヤー」もあります。シングルスモードでは、クリス・エバートやエバン・ランドルを使ってツアーに出たり、自分自身のトーナメントプレイヤーを育てたりすることができます。もし一人で挑むことに決めたら、スピード、スタミナ、力、敏捷性、集中力、テクニック、ミラクルショット能力など、さまざまなスキルにポイントを振り分けます。アスミックオープンで競い合い、グランドスラムトーナメントに参加するために十分な予選ラウンドを勝ち抜いて高いランクを目指しましょう。試合に勝つことでプレイヤーはポイントを獲得し、さまざまなスキルレベルが強化されます。パスワードモードを利用すれば、同じプレイヤーで続けることも可能です。\n\n友達が数人集まったら、ここにはあなたのためのゲームがあります。シングルスで対戦したり、ダブルスを一人でプレイしたり、または最大三人までのプレイヤーと一緒に任天堂サテライトを使って遊ぶこともできます。ダブルスプレイでは、直接グランドスラムトーナメントに進むことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-10-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Super%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/World%20Super%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/World%20Super%20Tennis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "fc-genjin-freakthoropus-computerus",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "FC Genjin - Freakthoropus Computerus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "FC原人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "FC原人 Freakthoropus Computerus",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "FC Genjin - Freakthoropus Computerus (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "7a3d3c21",
+      "md5": "6b470175b31aca0e0dcae7d900ab5eb6",
+      "sha1": "5adf44b56654c7557574170a7ac1d12972de5c38",
+      "sha256": "8bca105727c46896a52659009f254c1789c28b8985c923c31f1f2e6a79a472f6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プラットフォームゲームで、頑固な小さな洞窟の少年ボンクを導き、さまざまな敵を避けながら6つの先史時代の世界を進んでいきます。恐竜の国を旅して、邪悪なキング・ドゥルールからムーンプリンセスを救いましょう。\n\nゲームプレイは他のプラットフォームゲームに似ていますが、ボンクには独自の能力があります。例えば、歯を使って垂直の壁を登ったり、敵を「ボンク」するために頭突きを使ったりできます。一時的なパワーアップは肉の塊の形で現れ、ボンクに力を与え、パワーアップの第2段階では無敵になります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/FC%20Genjin%20-%20Freakthoropus%20Computerus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/FC%20Genjin%20-%20Freakthoropus%20Computerus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/FC%20Genjin%20-%20Freakthoropus%20Computerus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

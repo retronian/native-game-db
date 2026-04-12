@@ -1,0 +1,75 @@
+{
+  "id": "bust-a-move-4",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bust-A-Move 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パズルボブル4",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Puzzle Bobble 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Simple 1500 Series Vol. 93: The Puzzle Bobble - Puzzle Bobble 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bust-A-Move 4 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 68062448,
+      "crc32": "3dbc24d1",
+      "md5": "895f5dd96a41d5b9c137c75ffc2ea529",
+      "sha1": "7a9084dfbaf245c5ec980ff9b5a5570ade173a2c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6826
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bust-A-Move%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bust-A-Move%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bust-A-Move%204%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "power-league-93",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power League '93",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーリーグ'93",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パワーリーグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power League '93 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 786432,
+      "crc32": "7d3e6f33",
+      "md5": "d77a24f6fff7183ed377e7753fccefda",
+      "sha1": "0e710ee789206baceec43df7f24a8e80bdbc7154",
+      "sha256": "4873ed81d60c6257fb4b71684dc3026bcc36517090e233ea654c5bdc92e3c972"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37662
+  },
+  "descriptions": [
+    {
+      "text": "新鮮に刈り取られた芝生の香りを感じ、審判のコールを聞き、世界的に有名な野球アクションに備えましょう！パワーリーグ'93は、1993年の国際野球シーズンを舞台にした素晴らしいスポーツアドベンチャーです！チームを選び、コンピュータと対戦し、守備、投球、そして最終的にはボールをスタジアムの外に打ち出すという素晴らしいゲームのすべての側面を体験しましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20League%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20League%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20League%20%2793%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "j-league-champion-soccer",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "J. League Champion Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Jリーグ チャンピオンサッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "リーグチャンピオンサッカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "J. League Champion Soccer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-105013-00",
+      "size": 524288,
+      "crc32": "453c405e",
+      "md5": "b35d0a4ed54efa6a5c3ef4975aadcd35",
+      "sha1": "c28d8dac0f5582c3c2754342605764ee6e5b8af3",
+      "sha256": "ac99a58935fcadb93c9c27b4899b017379ad4633c7f74d4f078bcf9e09c4c377"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46170
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/J.%20League%20Champion%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/J.%20League%20Champion%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/J.%20League%20Champion%20Soccer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "atv-racing",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ATV Racing",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 142042
+  },
+  "first_release_date": "2001-02-23",
+  "roms": [
+    {
+      "name": "ATV Racing (Europe) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "7987d5cd",
+      "md5": "3426bfe0c82da4c6705f996891579a24",
+      "sha1": "b3c6c2970c3bfa95fb2eef10e2160f55f52d8e1a",
+      "sha256": "adc849a78ffd6ee3438789ce8dc17f9b6d6b4eca0fa6e7b7ac4888801b747bd0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/ATV%20Racing%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/ATV%20Racing%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

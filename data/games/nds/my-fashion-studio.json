@@ -1,0 +1,54 @@
+{
+  "id": "my-fashion-studio",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Fashion Studio",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Fashion Designer: Style Icon",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Fashion Studio (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YF9E",
+      "size": 33554432,
+      "crc32": "88ec8a69",
+      "md5": "ea3c2a59dbeab1aee44d6e2a46800c06",
+      "sha1": "2382cf5c0d430712762523b5f3ab6e0f7bedf5c3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122553
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Fashion%20Studio%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Fashion%20Studio%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "korg-m01-music-workstation",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Korg M01 Music Workstation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Korg M01 Music Workstation (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZMJ",
+      "size": 67108864,
+      "crc32": "a48b9a92",
+      "md5": "b9e73be5f4fdf82ae62abc0d779a7d7c",
+      "sha1": "5ec33b57448b0e7ad4956dec4c01e0a086619e72"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Korg%20M01%20Music%20Workstation%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Korg%20M01%20Music%20Workstation%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "super-tetris-2-bombliss",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Tetris 2 + Bombliss",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーテトリス2+ボンブリス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Tetris 2 + Bombliss (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8ae5e443",
+      "md5": "e1c86d4289ef84f5151f341f62876ef0",
+      "sha1": "3ac3c616dfe4d36496303b38275d15d7aceb8572",
+      "sha256": "8dda3b0888a32005041f2feb9be4e14807d40291f951a4612461cf41dac9cb78"
+    },
+    {
+      "name": "Super Tetris 2 + Bombliss (Japan) (En) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4ae93c10",
+      "md5": "dad417dc031d7515d878fafdbe8b737b",
+      "sha1": "5fa25d027940907b769578d7bf85a9d5ba94911a",
+      "sha256": "c8629decb4f4575c8f1ade82811fc002e2b1c6f9709a38da30091ceb0618d532"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66791
+  },
+  "descriptions": [
+    {
+      "text": "スーパーテトリス2 + ボンブリスは、有名なソビエトのパズルゲームの多くのバージョンの一つで、スーパーファミコン向けに初めて登場したものであり、テトリス2 + ボンブリスのアップデート版です。\n\nタイトルが示すように、このゲームには標準のテトリスと、ボンブリスという別の類似ゲームが含まれています。テトリスには、標準マラソン（Aタイプ）、ゴミからスタート（Bタイプ）、上昇するゴミ（Cタイプ）の3つのゲームモードがあります。また、行を消すと相手にゴミが送られる2人対戦モードも用意されています。\n\nボンブリスは通常のテトリスとは少し異なります。ボード上には爆弾のマスが配置されており、落ちてくるピースの中にも爆弾が含まれています。行を完成させてもその行のブロックは消えず、行内の爆弾が発動してブロックを破壊します。異なるサイズの爆弾はより大きな爆発を引き起こします。ボンブリスは標準マラソンモード、決まったボードを決まったピースでクリアするパズルモード、そして2人対戦モードで楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Tetris%202%20%2B%20Bombliss%20%28Japan%29%20%28En%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wizardry-iii-diamond-no-kishi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry III - Diamond no Kishi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィIII ダイヤモンドの騎士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ウィザードリィIII・ダイヤモンドの騎士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry III - Diamond no Kishi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "98f7fe0d",
+      "md5": "ac2a796a755eda7906c7510db3082c98",
+      "sha1": "7fa267ac3604dc7a0abd2d733746e37f775523aa",
+      "sha256": "4dc491872a55a301188ad23ef835472d7fc3951809afe4900784cdbc77b62a48"
+    }
+  ],
+  "first_release_date": "1990-03-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "mystery-case-files-ravenhearst",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mystery Case Files - Ravenhearst",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "레이븐 허스트의 미스터리",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TRHP",
+      "size": 33554432,
+      "crc32": "7066fc08",
+      "md5": "164a331161c2e2683fa04278c8188b28",
+      "sha1": "5d10e93d2c0edc4c2e3cc3d74b95a461c627f400"
+    },
+    {
+      "name": "Mystery Case Files - Ravenhearst (Germany)",
+      "source": "no_intro",
+      "serial": "TRHX",
+      "size": 33554432,
+      "crc32": "1c3c0e37",
+      "md5": "cba47ebae424ef13fcd5e25ba83f8804",
+      "sha1": "0a596a37788d6269c2c5e7db3f5aa6ed2ecc4442"
+    }
+  ],
+  "external_ids": {
+    "igdb": 5511
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

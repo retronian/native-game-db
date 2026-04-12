@@ -1,0 +1,60 @@
+{
+  "id": "double-dragon",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Double Dragon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダブルドラゴン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Double Dragon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 80525552,
+      "crc32": "7d525e12",
+      "md5": "55d6d24c9132b5eb7635a64a9b7f2e31",
+      "sha1": "8f6a2a76e93b796d25d7c7870c46414b3c88d0bd",
+      "sha256": "5680500c22b812cc5f2b6300b6e5f6915e0ee4c10c9175de4087fefc6632aa4a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138806
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Double%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Double%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Double%20Dragon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

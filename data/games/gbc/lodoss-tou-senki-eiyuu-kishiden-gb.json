@@ -1,0 +1,67 @@
+{
+  "id": "lodoss-tou-senki-eiyuu-kishiden-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lodoss-tou Senki - Eiyuu Kishiden GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロードス島戦記 英雄騎士伝GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "66e166bb",
+      "md5": "b14bf550163b000a7d1ba3caa43ac508",
+      "sha1": "3431247ffae511b6c2a836759e5ed0545d11ba05"
+    }
+  ],
+  "external_ids": {
+    "igdb": 80222
+  },
+  "descriptions": [
+    {
+      "text": "人気の「ロードス島の戦い」シリーズの小説の後半を基にしたボードゲームです。プレイヤーは限られたターン数内であらかじめ設定された目標を達成することによって、マップを進んでいきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lodoss-tou%20Senki%20-%20Eiyuu%20Kishiden%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lodoss-tou%20Senki%20-%20Eiyuu%20Kishiden%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lodoss-tou%20Senki%20-%20Eiyuu%20Kishiden%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

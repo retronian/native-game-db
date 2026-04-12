@@ -1,0 +1,49 @@
+{
+  "id": "outback-joey",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Outback Joey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Outback Joey (USA) (HeartBeat Catalyst)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-122026-00",
+      "size": 1048576,
+      "crc32": "10abd93f",
+      "md5": "a42d1b41ce25d329e869216715ca02cf",
+      "sha1": "ec2eef751bc8515bc99293d96f833270916c9af7",
+      "sha256": "4a8ff12edd8202648cd5d1891118fad6759b2783d3c6f62b84036b2407810a9d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281554
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Outback%20Joey%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Outback%20Joey%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Outback%20Joey%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

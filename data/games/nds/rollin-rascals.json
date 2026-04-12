@@ -1,0 +1,42 @@
+{
+  "id": "rollin-rascals",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rollin' Rascals",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rollin' Rascals (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CPLE",
+      "size": 16777216,
+      "crc32": "df7a6cbe",
+      "md5": "73657a9fb363c23b8af80a58ac156da5",
+      "sha1": "d65eb916e9eda911d5d580000e9fa956b1255175"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rollin%27%20Rascals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rollin%27%20Rascals%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

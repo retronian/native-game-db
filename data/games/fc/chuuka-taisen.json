@@ -1,0 +1,65 @@
+{
+  "id": "chuuka-taisen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuuka Taisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "中華大仙",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuuka Taisen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "72945aff",
+      "md5": "939ff67c17aa8f68e0778302e54f6f1f",
+      "sha1": "a50ef0669df0141ca73ff8674bc3ad9b4a6c0cb4",
+      "sha256": "6c8c4c77789b5caf623ef5f1a1bbaf7902eb3818ccf4aa5b455a1a3edb1b6271"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは小さなキャラクターを操作し、雲の上を浮遊しながら、画面の左右から飛んでくる悪者たちにエネルギーの小さな玉を発射します。パワーアップを集めたり、ショップを訪れて攻撃力や防御力をアップグレードすることができます。さまざまなステージがあり、途中でミニボスが登場し、最後には巨大なボスが待ち受けています。\n\nこれは、飛ぶヌードルボウルや銃を持ったクマが登場する数少ないゲームの一つです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chuuka%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

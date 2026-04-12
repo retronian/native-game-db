@@ -1,0 +1,61 @@
+{
+  "id": "klashball",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "KlashBall",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "KlashBall (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "a0ef6e1a",
+      "md5": "dcb02c99fdf225e2cd51324598d70ba8",
+      "sha1": "48e01e02e21783ed625d17b383ef3e1f3d116260",
+      "sha256": "090484da6f0d289172dc78c49c986896cddd8e1fde9c9d6caf6010420ba766a2"
+    },
+    {
+      "name": "KlashBall (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "76922a1a",
+      "md5": "c63bdbde0147bcfd5ce018351ec52b92",
+      "sha1": "7bf2819eef4b9c708325459436840734bdb49e44",
+      "sha256": "7a29dd192fee9c3144963f35ac4282ccf11002d37dd5fe3cf0979594a28ef927"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67941
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/KlashBall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/KlashBall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/KlashBall%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

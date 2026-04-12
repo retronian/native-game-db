@@ -1,0 +1,45 @@
+{
+  "id": "ico-soccer",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ico Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ico Soccer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C3SP",
+      "size": 16777216,
+      "crc32": "931d081f",
+      "md5": "7b987b2f04d9ede942062bf1eb9a36e7",
+      "sha1": "a8b44b3ee3b55af4f9d4ba9d8214a3439bc765ac"
+    }
+  ],
+  "external_ids": {
+    "igdb": 269637
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ico%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ico%20Soccer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

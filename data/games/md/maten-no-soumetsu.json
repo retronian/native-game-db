@@ -1,0 +1,69 @@
+{
+  "id": "maten-no-soumetsu",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maten no Soumetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔天の創滅",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maten no Soumetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-46023-00",
+      "size": 1048576,
+      "crc32": "b804a105",
+      "md5": "e1bd8ccb5c427b4f95f65a4ea771b345",
+      "sha1": "31bc44b019310e18174eb5e1a6d8e7d351103e4e",
+      "sha256": "642018741320a5c7684991467e2bebcd514ea2caf51e4355f554c75572db864c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46073
+  },
+  "descriptions": [
+    {
+      "text": "魔天の創滅は、若い少年（好きな名前を付けてください）が、ザファンという名の戦士に森で見つけられる物語です。ザファンは少年を自宅に連れ帰り、彼はその物語を知らずに成長します。16歳になったとき、ザファンはモンスターに襲われて亡くなります。彼は養子の息子を国の王に会わせるために送り出し、戦士の道を歩むように、そしておそらく彼の真の出自を発見するために...\n\nこのゲームは中世の環境を舞台にした伝統的な日本のRPGで、ランダムに現れる敵とターン制で戦い、戦闘フィールドを一人称視点で見ることができます。旅の途中で、他のキャラクターと出会い、彼らが仲間に加わります。ゲームには昼夜のサイクルがあります。\n\nSNES用のポストアポカリプスRPG「魔天伝説」と混同しないでください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Maten%20no%20Soumetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Maten%20no%20Soumetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Maten%20no%20Soumetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

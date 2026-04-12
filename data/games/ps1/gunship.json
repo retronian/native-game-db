@@ -1,0 +1,60 @@
+{
+  "id": "gunship",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gunship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gunship (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 100235040,
+      "crc32": "e09019db",
+      "md5": "f481bc87899071816a72d412e6581248",
+      "sha1": "0a26c3997ad7de929e1831e3df3280df3cbf2866",
+      "sha256": "5b9750ca8a2534982de3adcb5723fb906b74c88efaec4d4c06f9d740de2788a5"
+    },
+    {
+      "name": "Gunship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 103843552,
+      "crc32": "6fc0e55d",
+      "md5": "65c735faf57c604e67a8270c2ea35278",
+      "sha1": "6bad7e9f7606becfa518661e2c6cf5b47f4c29a3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20295
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Gunship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Gunship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Gunship%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "solitaire",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solitaire",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 74206
+  },
+  "first_release_date": "1992-12-31",
+  "roms": [
+    {
+      "name": "Solitaire (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "064c417c",
+      "md5": "4d6ccef5aebd1fdaf2fd209df1687724",
+      "sha1": "8f591c836b604913ab364ec7f7e1c69b655594a4",
+      "sha256": "266bfc4132bbd07c3b84f82afb4df29837cf2d1ea672c0d626b54e6631a4df70"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Solitaire%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Solitaire%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Solitaire%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

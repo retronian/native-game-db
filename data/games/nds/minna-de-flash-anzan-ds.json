@@ -1,0 +1,60 @@
+{
+  "id": "minna-de-flash-anzan-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Minna de Flash Anzan DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Minna de Flash Anzan DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AVFJ",
+      "size": 16777216,
+      "crc32": "bda830da",
+      "md5": "af3965e3dbb83ab4d5b190d587761973",
+      "sha1": "d96ce2dd22933791b22b700ff538cb81fe02cabd",
+      "sha256": "c0c86feba352059b8217a7ac9363535c3ad6a6424667184852e2162c7b2c4057"
+    },
+    {
+      "name": "Minna de Flash Anzan DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AVFJ",
+      "size": 16777216,
+      "crc32": "78227689",
+      "md5": "ef6e6db6aea0fbc6337ce3f725ba0775",
+      "sha1": "ec6aaf52fdeedf8a522625910fe82a59fe5d50a5",
+      "sha256": "a17882d690572c8b69dbec94e1afb2bafee95d5ef4dab544f6dfd8f8733a8dad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Minna%20de%20Flash%20Anzan%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Minna%20de%20Flash%20Anzan%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Minna%20de%20Flash%20Anzan%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

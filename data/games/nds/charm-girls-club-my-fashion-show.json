@@ -1,0 +1,96 @@
+{
+  "id": "charm-girls-club-my-fashion-show",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Charm Girls Club - My Fashion Show",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "チャームガールズクラブ わたしのファッションショー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Charm Girls Club: Watashi no Fashion Show",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Charm Girls Club - My Fashion Show (Europe) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCSX",
+      "size": 67108864,
+      "crc32": "ec812907",
+      "md5": "241507934ad01205d4ee0c3bd1299901",
+      "sha1": "b52bb6628c602e73f0830f4e9d0d294e4f8b8eb1"
+    },
+    {
+      "name": "Charm Girls Club - My Fashion Show (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCSE",
+      "size": 67108864,
+      "crc32": "66ab1bc4",
+      "md5": "9ab05be41c76570ab33cdd834c4a6381",
+      "sha1": "155c27df45af2b3ce5de8bcb59830d9412275076"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68085
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

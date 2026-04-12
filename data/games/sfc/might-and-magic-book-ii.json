@@ -1,0 +1,65 @@
+{
+  "id": "might-and-magic-book-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Might and Magic - Book II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マイト&マジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Might and Magic - Book II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e60eb6c0",
+      "md5": "2fbbb990042af576c74c6eb5f05eca0f",
+      "sha1": "562d0fd49642ee0c3f36f051dd256ba181e488be",
+      "sha256": "8d63d6ac3bbe8e7a63080fb4a26a51af71de874f7d372e90d912ff5a4893274b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "成功を収めた「マイト&マジック I」の続編であり、より優れたグラフィックと広大な世界を誇りますが、基本的には同じゲームエンジンとプレゼンテーションです。栄光の旅に出発し、CRONの世界と自分自身を救いましょう。\n\nこのゲームではバランスの取れたパーティーが必要です。特定の性別、アライメント、または種族に制限された場所やアイテムがいくつか存在します。善良な人間男性だけで構成されたパーティーでは、あまり遠くまで進むことはできません。時間はこのゲームにおいて大きな役割を果たします。タイムトラベルが含まれていますが、より基本的なレベルでは、ゲームが進むにつれてキャラクターが年を取ることがわかります。長く待ちすぎると、キャラクターの統計が年齢を反映するように変化します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Might%20and%20Magic%20-%20Book%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Might%20and%20Magic%20-%20Book%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Might%20and%20Magic%20-%20Book%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

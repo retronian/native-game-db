@@ -1,0 +1,71 @@
+{
+  "id": "oshaberi-inko-club",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oshaberi Inko Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おしゃべりインコ倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oshaberi Inko Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AICJ",
+      "size": 8388608,
+      "crc32": "df6901f0",
+      "md5": "e83c6421a55f4af4394fc8b5fb47efdd",
+      "sha1": "82e48090b9615282c58747a1f7b105196866f8c9"
+    },
+    {
+      "name": "Oshaberi Inko Club (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AICJ",
+      "size": 8388608,
+      "crc32": "f896bb9e",
+      "md5": "9476b0a926165be6a5cb30378beece99",
+      "sha1": "e293d18a8a0fb856edafafa03b33454b2d04efd9",
+      "sha256": "284e982f5b7aa3ddcbe8a75004b501d547479f8de28193a5abd8eb4af8961ae7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49734
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Oshaberi%20Inko%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Oshaberi%20Inko%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Oshaberi%20Inko%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "haisei-mahjong-ryouga",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Haisei Mahjong - Ryouga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "牌聖麻雀 龍雅",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "牌勢麻雀 凌駕",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Haisei Mahjong - Ryouga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cf7b57e0",
+      "md5": "e550f158f2ccda961ed0c624341b4228",
+      "sha1": "e0da04a08540e3156ffea47823f6ec0b49de3198",
+      "sha256": "ffb373dc1f005edcc86983fbea8b74d83895aea44d5fd4fa1a6fe33050c77419"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38012
+  },
+  "first_release_date": "1995-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Haisei%20Mahjong%20-%20Ryouga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Haisei%20Mahjong%20-%20Ryouga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Haisei%20Mahjong%20-%20Ryouga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

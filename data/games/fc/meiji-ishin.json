@@ -1,0 +1,68 @@
+{
+  "id": "meiji-ishin",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Meiji Ishin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "明治維新",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Meiji Ishin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "29459ec9",
+      "md5": "2ced85d491ebe06ab7868ea7109fd44a",
+      "sha1": "a79e8ab6f17fc1dd4e5e062276a160b5590e3483",
+      "sha256": "6f6dd18003dd77961df9679afe98179de7e83303a501ef7c5dcd3020ea365688"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48781
+  },
+  "descriptions": [
+    {
+      "text": "明治維新は、プレイヤーが明治維新時代において積極的な役割を果たすことができるアドベンチャーゲームです。この時代は、国の支配権が幕府から天皇に戻される過程を描いています。ゲームの前半では、同盟者を集めるために地域を移動し、指導者や侍と会話し、時には決闘で敵と戦うことになります。後半では、プレイヤーが recruited forces を率いて江戸（東京）に進軍し、幕府に立ち向かう戦略シミュレーションへと移行します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Meiji%20Ishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Meiji%20Ishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Meiji%20Ishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

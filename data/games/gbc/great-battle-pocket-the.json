@@ -1,0 +1,67 @@
+{
+  "id": "great-battle-pocket-the",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Great Battle Pocket, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザ・グレイトバトルPOCKET",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b471c095",
+      "md5": "e952d78a439e47ab4d77b563973797d5",
+      "sha1": "617752e18894590b5959f565f1cdbfd218141e7d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228554
+  },
+  "descriptions": [
+    {
+      "text": "ザ・グレイトバトルPOCKETは、アルファユニットが開発し、バンプレストが発売した雑多なゲームで、1999年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-12-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Great%20Battle%20Pocket%2C%20The%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Great%20Battle%20Pocket%2C%20The%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Great%20Battle%20Pocket%2C%20The%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

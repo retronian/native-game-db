@@ -1,0 +1,60 @@
+{
+  "id": "waterworld",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Waterworld",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Waterworld (USA) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-164106-00",
+      "size": 2097664,
+      "crc32": "ecec5647",
+      "md5": "76b090a5576d688e846cad8c54844da2",
+      "sha1": "af8a093ad8f84b993f37d8c02f88b6f7c4b638bd",
+      "sha256": "062a01ac2e579ce6018737b666233799400420dc6ba17de18a1752834ae66cd6"
+    },
+    {
+      "name": "Waterworld (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-8142650",
+      "size": 2097152,
+      "crc32": "51c80498",
+      "md5": "1b578a6a735966aa8ccfd677eaa3812a",
+      "sha1": "35e4186654a677a43d16861f9832199c5cb5e0ef",
+      "sha256": "d91972bc43f3e6bf8c892b3e2a4d0f7f861e513141ce70e2930b6110f6f1cf12"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Waterworld%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Waterworld%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Waterworld%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

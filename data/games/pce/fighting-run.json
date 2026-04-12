@@ -1,0 +1,68 @@
+{
+  "id": "fighting-run",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fighting Run",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイティングラン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fighting Run (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1828d2e5",
+      "md5": "0c04100ec80cb330d8deade60f4fbb24",
+      "sha1": "fdd2962412b401cd2d72a85ddb516071468bd9ff",
+      "sha256": "f259e527c1d7c9098b6009b5035070bc5a394ee2326393ac6441225cdd21e441"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44333
+  },
+  "descriptions": [
+    {
+      "text": "ファイティングランは、ニホンブッサンによるアクションゲームで、レースと戦闘が独特に組み合わさっています。プレイヤーは、人型の二足歩行ロボットを操作し、他の対戦相手と一連の死闘レースに挑みます。しかし、このレースにはひとひねりがあります。各レーサーは、レースに勝利しポイントを獲得するために、相手を攻撃することができます。シングルプレイヤーモードでは、まずコースと対戦相手を選択します。その後、スピード、パワー、アーマーなどのさまざまな能力を向上させるためにポイントを割り振ります。準備が整ったらレースが始まります。各レーサーはコース上を自由に移動し、お互いを攻撃したり、進行中に集めた特殊攻撃（雷、手榴弾など）を使用したりできます。各ロボットにはライフバーがあり、それがゼロになるとレースは終了します。さらに、ファイティングランには、2人のプレイヤーまたは2体のAI対戦相手が対戦できるバーススモードや、8体のロボットとそのパイロットが（2体ずつ）金のトロフィーを目指してレースを行うトーナメントモードも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Fighting%20Run%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Fighting%20Run%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Fighting%20Run%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

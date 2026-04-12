@@ -1,0 +1,59 @@
+{
+  "id": "rockman-zx-advent",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman ZX - Advent",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman ZX - Advent (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YZXJ",
+      "size": 67108864,
+      "crc32": "6b256b2a",
+      "md5": "fddde92dd86fc96e674e22d0b08b9f1f",
+      "sha1": "b059109fa7a450eabe8a70d6e2f1be4c507605b2",
+      "sha256": "d9d60d69fbda8a698199cecc06c2d3ea7dc79148bb21026ed6c8b698dc1473ae"
+    },
+    {
+      "name": "Rockman ZX - Advent (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YZXJ",
+      "size": 67108864,
+      "crc32": "89c919bc",
+      "md5": "396ab0f79547b774ad51d934c7710fea",
+      "sha1": "e0b869b83fe6b56ee11d2fe53a6464fae50303c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rockman%20ZX%20-%20Advent%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Rockman%20ZX%20-%20Advent%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rockman%20ZX%20-%20Advent%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

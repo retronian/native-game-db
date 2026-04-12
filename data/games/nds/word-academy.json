@@ -1,0 +1,48 @@
+{
+  "id": "word-academy",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Word Academy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Word Academy (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CYCP",
+      "size": 33554432,
+      "crc32": "2d7b426a",
+      "md5": "cbe5040a42fd6fe0593b70fbf3e670fc",
+      "sha1": "316eb80e1863c552536c5a372e8d8141b4126163"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Word%20Academy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Word%20Academy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Word%20Academy%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

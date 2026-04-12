@@ -1,0 +1,85 @@
+{
+  "id": "punch-king-arcade-boxing",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Punch King - Arcade Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Punch King - Arcade Boxing (Europe) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APGP",
+      "size": 8388608,
+      "crc32": "3e4cb21c",
+      "md5": "06f7ff2db5abcbd59e4f4816b1890dd9",
+      "sha1": "4e1b38303da8a11bd7adfa50e4ed45216020793d"
+    },
+    {
+      "name": "Punch King - Arcade Boxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APGE",
+      "size": 8388608,
+      "crc32": "540b6cc1",
+      "md5": "74d3fd11921e0cd02955a6b59fe75e0f",
+      "sha1": "021fdd9420a81a3aa8f37de884ac2b8f42e691ed"
+    },
+    {
+      "name": "Punch King - Arcade Boxing (World) (Evercade)",
+      "source": "no_intro",
+      "size": 8388608,
+      "crc32": "2afd6ff9",
+      "md5": "308d1f33a1d96df55de6e16523dc9c8c",
+      "sha1": "9e145758d3727c664c0612407f4b4d04f7b1733d",
+      "sha256": "4f26b59e7d2bf4a4fd6e4fb75534d12ad5e3d4c167fa8f951ac5626d6100be25"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Punch%20King%20-%20Arcade%20Boxing%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Punch%20King%20-%20Arcade%20Boxing%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Punch%20King%20-%20Arcade%20Boxing%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Punch%20King%20-%20Arcade%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Punch%20King%20-%20Arcade%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Punch%20King%20-%20Arcade%20Boxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

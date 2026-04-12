@@ -1,0 +1,65 @@
+{
+  "id": "dokapon-q-monster-hunter",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dokapon Q - Monster Hunter!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドカポンQ モンスターハンター！",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dokapon Q - Monster Hunter! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ADQJ",
+      "size": 8388608,
+      "crc32": "45b3edc4",
+      "md5": "1fa9862e396758ee4eb6923e5ce4f9bc",
+      "sha1": "84099bb38a979b30fe5dd8e663d52ccf6cfb89aa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドカポンは、ポポンガの町にあるドッカノ島を舞台にした、深く、長時間楽しめる、非常に没入感のあるRPGです。このゲームの目標は、ライセンスを持つ冒険者になることです。そのためには、いくつかの任務をクリアして冒険者試験に合格しなければなりません。その途中で、さまざまなモンスターと戦い、倒す必要があります。一度倒すと、そのモンスターを収集して「モンスターパートナー」として仲間にすることができ、今後の戦闘で敵を倒すために使用できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-08-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dokapon%20Q%20-%20Monster%20Hunter%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dokapon%20Q%20-%20Monster%20Hunter%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dokapon%20Q%20-%20Monster%20Hunter%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

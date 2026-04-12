@@ -1,0 +1,66 @@
+{
+  "id": "takahashi-meijin-no-bouken-jima",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Takahashi Meijin no Bouken-jima",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "高橋名人の冒険島",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Takahashi Meijin no Bouken-jima (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "0bb95602",
+      "md5": "96c9f88e3f241055b4b4169a89669429",
+      "sha1": "305e90eb8d051ed28677d95d8970c88b7ada5234",
+      "sha256": "4bbf30ea40dec2f2cd89ae37140bd6f6475c41ce1ad0bef977744163d35cf6c8"
+    },
+    {
+      "name": "Takahashi Meijin no Bouken-jima (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 65552,
+      "crc32": "cba4a108",
+      "md5": "f0be9510396bef40508cb833402a7a15",
+      "sha1": "e7208c9bfba4686e7939201de8ac30270d11a0ff",
+      "sha256": "6e37d647641688da39413a660f0c3ae75abcce76c2a1ae28c86f37b77fe5eb17"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takahashi%20Meijin%20no%20Bouken-jima%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

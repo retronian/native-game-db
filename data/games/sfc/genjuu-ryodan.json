@@ -1,0 +1,68 @@
+{
+  "id": "genjuu-ryodan",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Genjuu Ryodan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "幻獣旅団",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Genjuu Ryodan (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "8d9bffc8",
+      "md5": "022261f6add3432435df430166ea9bd2",
+      "sha1": "ea5c8080945d6923e40e4ac7bd37526e64df30a1",
+      "sha256": "d88d00525b90b94e11bb6da1c0c5dc71435db34aea2e5384e1076529c9df0cf0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38019
+  },
+  "descriptions": [
+    {
+      "text": "幻獣旅団は、Créa-Tech Inc.が開発した戦略ゲームです。あなたは、豚の王国を征服することを決意した人間の軍を指揮します。弓兵、騎士、魔法使いなど、さまざまなタイプのユニットが登場します。戦略と鋭い判断力が、あなたの部隊を勝利へと導くために必要です…。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-06-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Genjuu%20Ryodan%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Genjuu%20Ryodan%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Genjuu%20Ryodan%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

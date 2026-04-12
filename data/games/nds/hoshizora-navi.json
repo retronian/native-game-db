@@ -1,0 +1,46 @@
+{
+  "id": "hoshizora-navi",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hoshizora Navi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hoshizora Navi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "UEIJ",
+      "size": 67108864,
+      "crc32": "026be8c8",
+      "md5": "be16a575b7773cfaa83002cedafc12d1",
+      "sha1": "1e3c7d554f2b74cfd0990ee22c99a9f574a6b85b",
+      "sha256": "a3998f4677925e39b4aa3cd8228ca071dc12d40a63575bcb99c8b1e176bea2e0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92412
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hoshizora%20Navi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hoshizora%20Navi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

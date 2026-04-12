@@ -1,0 +1,65 @@
+{
+  "id": "zool-no-yume-bouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zool no Yume Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ズールのゆめぼうけん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zool no Yume Bouken (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5c2a701d",
+      "md5": "720de2f44de00c8677094a6cfb780709",
+      "sha1": "f650083142d9f3eb2bf1b315b44d18077743fe17",
+      "sha256": "0fd4050517daa209ef8561d1385510d7d26baa00b4a07ca265c9e32f7551c8d8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "彼の名前はズール。彼は2345次元の忍者で、6つの世界にそれぞれ3つのステージがあります。\n\nこのプラットフォーマーでは、走ったり、ジャンプしたり、壁を登ったり、敵を撃ったりすることができます。ステージ内にはズールのためのパワーアップもあります。ライフを消費するハート、スマートボム、シールド、より強力なジャンプスキル、そしてツインズールがあります。この「ツイン」は、あなたが行動した数秒後にすべての動きを真似します。\n\nオプションでは、難易度やゲームスピードを2段階変更でき、コンティニューやバックグラウンドミュージック（ロックまたはファンク）も設定できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-07-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zool%20no%20Yume%20Bouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zool%20no%20Yume%20Bouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zool%20no%20Yume%20Bouken%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

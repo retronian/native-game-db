@@ -1,0 +1,45 @@
+{
+  "id": "reversal-challenge",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Reversal Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Reversal Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YSWE",
+      "size": 8388608,
+      "crc32": "dc8e7c56",
+      "md5": "1e25c02387d162d30fa746f52be1cc17",
+      "sha1": "5457a83dd2c35c554a8c56ddf5b2f98da64f54f6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209197
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Reversal%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Reversal%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

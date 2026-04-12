@@ -1,0 +1,61 @@
+{
+  "id": "mahjong-gokuu-special",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Gokuu Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀悟空スペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Gokuu Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "f8861456",
+      "md5": "937699175649a98430a64c20cb19ae60",
+      "sha1": "8cd848c675c50f72589170f973b5eab869173a03",
+      "sha256": "ec61a4e3f730b4590bce642bd82b86244ccf1d7f1406689c9466ea313a176122"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37677
+  },
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mahjong%20Gokuu%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mahjong%20Gokuu%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mahjong%20Gokuu%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

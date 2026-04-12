@@ -1,0 +1,45 @@
+{
+  "id": "tom-and-jerry",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom and Jerry",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トムとジェリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom and Jerry (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-166013-00",
+      "size": 1048576,
+      "crc32": "f800c814",
+      "md5": "f9ba25f978dac5d0bae9170d0ef6fc15",
+      "sha1": "736d015e29fa98980399dfaa8118b4baa5dff393",
+      "sha256": "77218ea8db0e1a4509a1ddf15764a88c4e232db0b88a6b25105b0d6131cceebb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気アニメを題材にしたアクションゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "lupin-sansei-pandora-no-isan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lupin Sansei - Pandora no Isan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルパン三世 パンドラの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lupin Sansei - Pandora no Isan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "b86381ce",
+      "md5": "7df229fd06eb8359a1d1d8aa666cf027",
+      "sha1": "9fd37ad1b34bf0ad3e69e2f72b1244924f1d5a6e",
+      "sha256": "bbedc7b8735c8cdbb6f313011df7ca87d520dcedd21a252131641cf4bf77171a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ルパン三世 パンドラの遺産は、モンキー・パンチの人気シリーズ「ルパン三世」を基にしたファミリーコンピュータ用のビデオゲームで、映画「カリオストロの城」の続編的な作品です。開発はTOSEが行い、ナムコのナムコットレーベルから1987年11月6日に日本のみで発売されました。\n\nこのゲームは、ナムコが以前にリリースしたアーケードタイトル「ローリングサンダー」に似ており、複数のガジェットや3人の主要キャラクターを切り替える能力が追加されています。ルパンと彼の仲間たちは、各ステージで情報を得るために賄賂を渡すことができる他のキャラクターを見つけることができます。また、執拗なゼニガタも登場し、各ステージでルパンを逮捕しようとします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-11-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Lupin%20Sansei%20-%20Pandora%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Lupin%20Sansei%20-%20Pandora%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Lupin%20Sansei%20-%20Pandora%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

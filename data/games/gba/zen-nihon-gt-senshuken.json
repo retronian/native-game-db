@@ -1,0 +1,65 @@
+{
+  "id": "zen-nihon-gt-senshuken",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zen-Nihon GT Senshuken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全日本GT選手権",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zen-Nihon GT Senshuken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGTJ",
+      "size": 4194304,
+      "crc32": "d320a965",
+      "md5": "9455cef784b0e4d3b3e706037c552892",
+      "sha1": "9e837491e9f9c94b937cd1f3e9b70ac9c2a20832"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「トゥイティーのハーティーパーティー」は、公式の日本GTタイトルを持ち、プレイヤーがさまざまなGTトラックで速い車をレースさせることができます。ゲームには、クイックレースとチャンピオンシップの2つの主要なゲームモードがあります。クイックレースでは、プレイヤーは一人で、他の人間プレイヤーと対戦するか、カスタムコースを作成することができます。これはさらに、コンピュータとの対戦ゲームとタイムアタックに分かれています。また、モバイルフォンを通じて接続し、グローバルランキングを確認したり、ローカルランキングにエントリーしたり、ゴーストや新しいコースをダウンロードすることも可能です。\n\nチャンピオンシップモードでは、プレイヤーはコースを固定の順序でクリアする必要があり、ランキングが維持されます。車は三人称視点で表示され、さまざまなAI制御のレーサーを打ち負かす必要があります。レースの前には、フリーランを行ったり、予選を行ったり、最終的にレースを開始したり、車のチューニングをさらに行うことができます。天候は晴れと雨の2種類があり、車のハンドリングに影響を与えます。\n\n選べる車やコースは多様で、ギア比、ステアリング、ブレーキ、タイヤ、空力設定、高さハンディキャップに基づいた広範なチューニングオプションがあります。また、難易度は3つのレベルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zen-Nihon%20GT%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

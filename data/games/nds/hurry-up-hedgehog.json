@@ -1,0 +1,79 @@
+{
+  "id": "hurry-up-hedgehog",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hurry Up Hedgehog!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hurry Up Hedgehog! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YHUE",
+      "size": 8388608,
+      "crc32": "da68b34c",
+      "md5": "57f1ae27dde53cb1e45b68252b03d025",
+      "sha1": "c45960085ce15bde7f0ed1e877b5b82a6b0bdfe7"
+    },
+    {
+      "name": "Hurry Up Hedgehog! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YHUP",
+      "size": 8388608,
+      "crc32": "4964b55c",
+      "md5": "98888ed849cac32af966cbfa52203647",
+      "sha1": "57157a11e6d092f063d943602b9d67afb97f0236"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47855
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hurry%20Up%20Hedgehog%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hurry%20Up%20Hedgehog%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hurry%20Up%20Hedgehog%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hurry%20Up%20Hedgehog%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Hurry%20Up%20Hedgehog%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hurry%20Up%20Hedgehog%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

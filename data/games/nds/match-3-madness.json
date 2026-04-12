@@ -1,0 +1,45 @@
+{
+  "id": "match-3-madness",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Match 3 Madness",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Match 3 Madness (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BUVP",
+      "size": 33554432,
+      "crc32": "02f03f82",
+      "md5": "b9bcd052620a6698f92635e699852557",
+      "sha1": "7fc664f075107da52e632538a0e701458de555e5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209552
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Match%203%20Madness%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Match%203%20Madness%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

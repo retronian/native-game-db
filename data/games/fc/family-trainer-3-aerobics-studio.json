@@ -1,0 +1,74 @@
+{
+  "id": "family-trainer-3-aerobics-studio",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Trainer 3 - Aerobics Studio",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリートレーナー 3 エアロビクススタジオ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミリートレーナーシリーズ3 エアロビスタジオ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Trainer 3 - Aerobics Studio (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "83e42c5b",
+      "md5": "421793191cd86b739cd2d0cf73cd13b6",
+      "sha1": "327ba735b9ea196f00dbfb93188312d70ad2c0e2",
+      "sha256": "772dcf1a85c07aee34f0397a8ff9d8202b2ce2f5c3d57a72b17c06f1e27b6845"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファミリートレーナー第3弾。パワーパッド対応のエアロビクスフィットネス。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Trainer%203%20-%20Aerobics%20Studio%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20Trainer%203%20-%20Aerobics%20Studio%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Trainer%203%20-%20Aerobics%20Studio%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "command-and-conquer",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Command & Conquer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Command & Conquer (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NCCP",
+      "size": 33554432,
+      "crc32": "f3da8a26",
+      "md5": "42da4c7d040f9e7cd046a42ec3e68027",
+      "sha1": "0d5211e211e7fc063c63c3e8235b62bc288ce305",
+      "sha256": "55ad032b303c0006da8d2efe732af32ea2cd7c1f3d2b2b0bcab3c71201229cb7"
+    },
+    {
+      "name": "Command & Conquer (Germany)",
+      "source": "no_intro",
+      "serial": "NCCD",
+      "size": 33554432,
+      "crc32": "6cd0fc99",
+      "md5": "1a9195662c89dcbea88bcfa99b096cde",
+      "sha1": "725083ece68d5deb9724d3fa3f2a65f0291b2d5d",
+      "sha256": "2c43a3277d7b3664ec4aad9e3db65a65d82da229bbf6808802cdf9fe1a39ab72"
+    },
+    {
+      "name": "Command & Conquer (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NCCE",
+      "size": 33554432,
+      "crc32": "3e9069ef",
+      "md5": "b436f4717ac585b0d847756468fd6393",
+      "sha1": "b559e86d98de598b1d25583ca082faa4b7c62641",
+      "sha256": "cd9113ba6ca54912c08378eef084e1bbb47f0609a8543702e1c07f89d053f908"
+    }
+  ],
+  "external_ids": {
+    "igdb": 647
+  }
+}

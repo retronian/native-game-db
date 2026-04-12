@@ -1,0 +1,68 @@
+{
+  "id": "mutsu-water-looper-mutsu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mutsu - Water Looper Mutsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "MUTSU ウォータールーパームツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mutsu - Water Looper Mutsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMUJ",
+      "size": 4194304,
+      "crc32": "3a45a6d9",
+      "md5": "0a4b60e0f15350b991624763526a85d1",
+      "sha1": "9b8e60d5bab2e4013afa49da4f551aa85b0b2858"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49709
+  },
+  "descriptions": [
+    {
+      "text": "ウォータールーパームツは、もともとタカラトミーが製造した日本の玩具で、水槽の中でプラスチック製の小さな水生生物が生きています。これはタマゴッチに似ていますが、実際に水の中で動くプラスチック製のおもちゃです。しかし、ゲームボーイアドバンスのゲームは、このコンセプトのデジタル再現であり、実際にはタマゴッチにより近いものとなっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mutsu%20-%20Water%20Looper%20Mutsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mutsu%20-%20Water%20Looper%20Mutsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mutsu%20-%20Water%20Looper%20Mutsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

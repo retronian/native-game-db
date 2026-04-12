@@ -1,0 +1,69 @@
+{
+  "id": "bomberman-selection",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Selection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Selection (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 1048576,
+      "crc32": "af2b426e",
+      "md5": "d0c6ffc3602d91c0b2b1b0461553de33",
+      "sha1": "52451464a9f4dd5faefe4594954cbce03bff0d05"
+    },
+    {
+      "name": "Bomberman Selection (Korea) (Beta 2)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 1048576,
+      "crc32": "06cc1e9d",
+      "md5": "c768e670d408f2dc1cc41f42de981087",
+      "sha1": "a3ce5d9ea4aa4203ea4bc17461e28257e4bd0a62",
+      "sha256": "194b48f91fe91f8180005b28a9c6447a8e426e8fbb13fc62286324cbe7a1e668"
+    },
+    {
+      "name": "Bomberman Selection (Korea) (Beta 1)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 1048576,
+      "crc32": "005ad4b7",
+      "md5": "921074a40d44b70db878f88f7c3b51de",
+      "sha1": "206a19a48a35bcff18d5872b85ba4e8963827cb3",
+      "sha256": "6fc7367c5c2c70b7122bbdd6e4a43e307b30283e60ed06f5733c2618267feff3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56467
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Bomberman%20Selection%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Bomberman%20Selection%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Bomberman%20Selection%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

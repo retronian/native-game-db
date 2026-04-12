@@ -1,0 +1,60 @@
+{
+  "id": "hissatsu-pachinko-collection",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hissatsu Pachinko Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "必殺パチンココレクション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hissatsu Pachinko Collection (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a1bf047b",
+      "md5": "a25e227d4c4a1fe3cc2d946ef9480122",
+      "sha1": "0c315c653f8778d1cef906e9843f054f7e839cc0",
+      "sha256": "b60c7826e2ad2c6a3dd0a05995b45abe8871d5a388fa244a49605e709a4aab89"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37997
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hissatsu%20Pachinko%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hissatsu%20Pachinko%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hissatsu%20Pachinko%20Collection%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

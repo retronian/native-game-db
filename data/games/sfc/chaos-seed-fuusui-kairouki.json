@@ -1,0 +1,74 @@
+{
+  "id": "chaos-seed-fuusui-kairouki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chaos Seed - Fuusui Kairouki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カオスシード 風水回廊記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "カオスシード〜風水回廊記〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chaos Seed - Fuusui Kairouki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "76e01ccb",
+      "md5": "ab6cbbe55068a36718e223ee98090946",
+      "sha1": "19a6b27dff5d1e7e1790405a9cf29ae80fd5df3c",
+      "sha256": "f6e308d437f89059986d779d1b5b7a30999b7a819108da91bd313f25e231c3a8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このアクションストラテジーRPGハイブリッドでは、洞窟に住む戦士の若者としての役割を果たします。惑星が死にかけている中、あなたの使命は、エネルギーを惑星に戻すために必要な神秘的な部屋を洞窟に築くことですが、地上に住む者たちはあなたが現在の状況の原因だと考え、常に探検者や冒険者の波を送り込んで「ダンジョン」を清掃しようとします。\n\nゲームは2Dエンジンを使用したトップダウン視点で進行し、異なるフェーズでプレイされます。まず、自由に洞窟を探索し、壁を押したり引いたりすることでエネルギーを地球に流し込むための部屋を作ったり、キャラクターのアップグレードを行ったり、モンスターを召喚して助けてもらったりします。タイマーが切れると、メニュー形式のインターフェースに移行し、エネルギー生産を管理し、アップグレードや装備を決定します。そして、新しいターンのためにこのプロセスを繰り返します。各ターンでは、地上に住む冒険者たちが新たな挑戦をもたらし、あなたは武器や魔法を使って戦いながら部屋を築かなければなりません。\n\nエネルギー生産の一定のクォータに達すると、別の洞窟の新しいシナリオに進むことができます。前述の通り、戦闘を助けたり、エネルギーや他の資源を集めたりするためのクリーチャーを召喚する部屋を作成することができます。\n\n特定の風水の原則に従って部屋を配置することでボーナスやアップグレードを得ることができ、洞窟に住むモンスターと戦ったり、あなたを助けるかもしれないNPCと出会ったりします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-03-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chaos%20Seed%20-%20Fuusui%20Kairouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Chaos%20Seed%20-%20Fuusui%20Kairouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Chaos%20Seed%20-%20Fuusui%20Kairouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

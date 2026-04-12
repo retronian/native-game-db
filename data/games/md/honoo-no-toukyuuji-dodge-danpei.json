@@ -1,0 +1,70 @@
+{
+  "id": "honoo-no-toukyuuji-dodge-danpei",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honoo no Toukyuuji - Dodge Danpei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "炎の闘球児 ドッジ弾平",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "炎の闘球児ドッジ弾平",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004076-00",
+      "size": 524288,
+      "crc32": "630f07c6",
+      "md5": "9b2d173d8f9f666886d62639ead35b4e",
+      "sha1": "ebdf20fd8aaeb3c7ec97302089b3330265118cf0",
+      "sha256": "0d476b9f1c7245d408a2c1a6d22bc0f37e7fe3be9850b7d9c9fac5b18f616511"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45621
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

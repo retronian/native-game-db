@@ -1,0 +1,51 @@
+{
+  "id": "galileo",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Galileo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Galileo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CGYJ",
+      "size": 67108864,
+      "crc32": "4e8fd779",
+      "md5": "7d82a08c29cd7d0c6efc7230e064a4ad",
+      "sha1": "4f7f0f41c04cf546f2751cad4bbeea28a61899bf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 125676
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Galileo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Galileo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Galileo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

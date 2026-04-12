@@ -1,0 +1,77 @@
+{
+  "id": "barbie-software-groovy-games",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Barbie Software - Groovy Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Barbie Software - Groovy Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AVBE",
+      "size": 4194304,
+      "crc32": "aa017567",
+      "md5": "c1b8fbfc0f67a1f8e0c60543167b7dba",
+      "sha1": "055db9f8f3ba18358162a1411cf24300a6de6046"
+    },
+    {
+      "name": "Barbie Software - Groovy Games (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AVBP",
+      "size": 4194304,
+      "crc32": "749339b2",
+      "md5": "44c77bcf2a866a1a76cf46bd979b64a4",
+      "sha1": "e41751c52d5cd84b204ac4d73eefc5b360f56f1d",
+      "sha256": "181e22a3d5a530001c7add9b577e26b25592e7564f3781c91373847b414d1bdb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Barbie%20Software%20-%20Groovy%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Barbie%20Software%20-%20Groovy%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Barbie%20Software%20-%20Groovy%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Barbie%20Software%20-%20Groovy%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Barbie%20Software%20-%20Groovy%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Barbie%20Software%20-%20Groovy%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

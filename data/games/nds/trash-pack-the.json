@@ -1,0 +1,65 @@
+{
+  "id": "trash-pack-the",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Trash Pack, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Trash Pack, The (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TPAE",
+      "size": 33554432,
+      "crc32": "498d7c7d",
+      "md5": "05ba7d14f5c51df9844b188180e15450",
+      "sha1": "104061a6f6db52c8d1872d20b5633d84735ba223",
+      "sha256": "91dd646cdf95c0f8bb9afe6389209ea3d040b17cf12c9e11f79ececbd61c4fe6"
+    },
+    {
+      "name": "Trash Pack, The (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPAP",
+      "size": 33554432,
+      "crc32": "f944b0f9",
+      "md5": "43558898c46fb7431fe660f4b22adee0",
+      "sha1": "9ae45ec4733d1982b7f95b221e29939f7c6dee15"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trash%20Pack%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trash%20Pack%2C%20The%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Trash%20Pack%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Trash%20Pack%2C%20The%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

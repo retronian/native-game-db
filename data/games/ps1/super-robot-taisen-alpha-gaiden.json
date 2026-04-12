@@ -1,0 +1,59 @@
+{
+  "id": "super-robot-taisen-alpha-gaiden",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen Alpha Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦 α 外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen Alpha Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 451915232,
+      "crc32": "c2538d85",
+      "md5": "632f42e86629a3edf96e4b0479526aae",
+      "sha1": "da6a25e240314ddddd1cde9676466314dc606c93"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44850
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Super%20Robot%20Taisen%20Alpha%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Super%20Robot%20Taisen%20Alpha%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Super%20Robot%20Taisen%20Alpha%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

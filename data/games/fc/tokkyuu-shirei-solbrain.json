@@ -1,0 +1,68 @@
+{
+  "id": "tokkyuu-shirei-solbrain",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tokkyuu Shirei Solbrain",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "特救指令ソルブレイン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tokkyuu Shirei Solbrain (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0cb8cbce",
+      "md5": "236f1d3246b35b8bfaefa1b98f366ab0",
+      "sha1": "db5170c1051fca111a98980bc3342883f95cc848",
+      "sha256": "21728c46646e497219b9607b50cb30b5e1ca04b64d9684c86274b08355b7cb0f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215134
+  },
+  "descriptions": [
+    {
+      "text": "シャッターハンドは、8方向にスクロールするアクションゲームです。プレイヤーはシャッターハンドを操作し、メタルコマンドのリーダーであるグローバー将軍を見つけて倒すための冒険に挑みます。ゲーム内では、さまざまな機械やバイオメカニカルクリーチャーと遭遇します。シャッターハンドの主な武器はサイボーグの拳であり、ほとんどの敵はパンチで倒さなければなりません。\n\n追加の助けとして、8つの浮遊する衛星ロボットから支援を受けることができます。それぞれの衛星ロボットは独自の武器を持ち、シャッターハンドがパンチを繰り出すと自動的に発射されます。これらの衛星ロボットは、各ステージに散らばっている白い箱をパンチすると現れるアルファベットの組み合わせを集めることで入手できます。\n\nゲームは7つのステージで構成されています。最初のステージと最後のステージはそれぞれ最初と最後にプレイする必要がありますが、中間の5つのステージは好きな順番でプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tokkyuu%20Shirei%20Solbrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tokkyuu%20Shirei%20Solbrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tokkyuu%20Shirei%20Solbrain%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

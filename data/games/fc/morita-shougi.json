@@ -1,0 +1,57 @@
+{
+  "id": "morita-shougi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Morita Shougi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "森田将棋",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Morita Shougi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 139280,
+      "crc32": "39c0e345",
+      "md5": "14c6b68473ca30bb7371d4683f955891",
+      "sha1": "9cba3f9e5077c5216cefb57ac0915058683d0fd7",
+      "sha256": "364b687c0e7c82758b959680d0820fb8da61f0331c4f079d9d3ac82194754f3a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Morita%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Morita%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Morita%20Shougi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

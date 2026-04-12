@@ -1,0 +1,65 @@
+{
+  "id": "new-zealand-story-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New Zealand Story DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニュージーランドストーリーDS",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "New Zealand Story DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANZJ",
+      "size": 16777216,
+      "crc32": "f2882412",
+      "md5": "07d60ca8e392e3f3b5f545618424b75c",
+      "sha1": "b3bd48bf318e94c3c2fd60f22a415127aca28d86"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、クラシックなプラットフォーマー「ザ・ニュージーランド・ストーリー」のリメイクです。オリジナルと同様に、プレイヤーはキーウィのティキを操作し、悪のアシカから友達を救うために冒険に出ます。各レベルの目標は、囚われたキーウィの鳥の檻に到達し、解放することです。レベルをクリアするために、ティキは常に再出現する敵を排除するための弓を装備しています。リメイク版には、ダブルジャンプや異なる健康システム（旧作ではティキは一撃で死ぬ）などの新しいメカニクスが追加されており、タッチスクリーンで遊ぶいくつかのミニゲーム（例：違い探し）も含まれています。通常のゲームモードでは、下画面が現在のレベルのマップとして機能します。難易度は2段階あります。\n\nこのゲームは、ワイヤレスモードで4人同時プレイが可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2007-05-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/New%20Zealand%20Story%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/New%20Zealand%20Story%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/New%20Zealand%20Story%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

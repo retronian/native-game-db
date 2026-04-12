@@ -1,0 +1,107 @@
+{
+  "id": "fishdom",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fishdom",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fishdom (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFDE",
+      "size": 8388608,
+      "crc32": "d6df7fab",
+      "md5": "13d1d3281841e2a7886ef43e0b9c1d97",
+      "sha1": "f70ddfd8e6d0ccd425257c4b80614691e5361a55"
+    },
+    {
+      "name": "Fishdom (Europe) (Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFDX",
+      "size": 8388608,
+      "crc32": "adadf180",
+      "md5": "34f30312223be035a35febc0110be5ec",
+      "sha1": "7dc2d4c4e80c69c65a870a19576a780fba48eda3"
+    },
+    {
+      "name": "Fishdom (Europe) (Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFDY",
+      "size": 8388608,
+      "crc32": "d4b19cf5",
+      "md5": "a7974d8fa956ddf546c881caaa24efbf",
+      "sha1": "384da960e9b784b1df38d0af76078280a5b0662f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85147
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fishdom%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fishdom%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fishdom%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fishdom%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fishdom%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fishdom%20%28Europe%29%20%28Fr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fishdom%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fishdom%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fishdom%20%28Europe%29%20%28Fr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

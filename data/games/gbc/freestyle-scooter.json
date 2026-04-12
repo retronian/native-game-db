@@ -1,0 +1,48 @@
+{
+  "id": "freestyle-scooter",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Freestyle Scooter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Freestyle Scooter (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRZP",
+      "size": 1048576,
+      "crc32": "ee79117d",
+      "md5": "0155bb1d60a477eeeb148033210eecf3",
+      "sha1": "cf6ae174584bbfb5ae30478841114443adc00245"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Freestyle%20Scooter%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

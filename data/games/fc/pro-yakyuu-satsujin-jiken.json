@@ -1,0 +1,69 @@
+{
+  "id": "pro-yakyuu-satsujin-jiken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Yakyuu Satsujin Jiken!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロ野球? 殺人事件!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "プロ野球？殺人事件！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Yakyuu Satsujin Jiken! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "86d0d19b",
+      "md5": "93f3f4d7f704778af1895dc7c2d7f251",
+      "sha1": "bb85cd8325557f2d00149bb89d9aa1e9b1fc339a",
+      "sha256": "d941c3d4cde0c33d208a719493ed84c15dbe9f5b793de0bd8cbcb176073e5f7d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48826
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Yakyuu%20Satsujin%20Jiken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Yakyuu%20Satsujin%20Jiken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Yakyuu%20Satsujin%20Jiken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

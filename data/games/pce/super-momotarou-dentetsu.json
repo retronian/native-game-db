@@ -1,0 +1,73 @@
+{
+  "id": "super-momotarou-dentetsu",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Momotarou Dentetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎電鉄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Momotarou Dentetsu (Japan) (Alt)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "69d52e7a",
+      "md5": "ef3f7d0333b5ee8f09068c6a1bed71af",
+      "sha1": "e4c6129e98cf37fce6cfc5352d112b1ec728d166",
+      "sha256": "16fa9659f5f1ea9de66a5276244027b2f9788246eaaf0b1bf145ed37ed65e046"
+    },
+    {
+      "name": "Super Momotarou Dentetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "3eb5304a",
+      "md5": "f365369bf476cebccb48f3a38fe39cc6",
+      "sha1": "353a1ff7997df5d7be6ee03f1157fd746939ed61",
+      "sha256": "2eb951205aa86a8d062b92fefc8c784ca4a7227a188f7d448ed645734d5a7fc9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Super%20Momotarou%20Dentetsu%20%28Japan%29%20%28Alt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

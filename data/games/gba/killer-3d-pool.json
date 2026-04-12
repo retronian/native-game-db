@@ -1,0 +1,79 @@
+{
+  "id": "killer-3d-pool",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Killer 3D Pool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Killer 3D Pool (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3LP",
+      "size": 4194304,
+      "crc32": "e6fda065",
+      "md5": "e698ff3702ff76c42fc8d0bb80154d22",
+      "sha1": "a4e3107f0797d42ee8888488cf0f87af140b8652"
+    },
+    {
+      "name": "Killer 3D Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3LE",
+      "size": 4194304,
+      "crc32": "1f12d048",
+      "md5": "16bf8504460b72db612adc0e17831221",
+      "sha1": "9e988cb32c8b56ee2c3521ce1800e82289048840"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49187
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Killer%203D%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Killer%203D%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Killer%203D%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Killer%203D%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Killer%203D%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Killer%203D%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

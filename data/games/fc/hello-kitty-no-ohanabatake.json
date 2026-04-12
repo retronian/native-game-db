@@ -1,0 +1,65 @@
+{
+  "id": "hello-kitty-no-ohanabatake",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty no Ohanabatake",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハローキティのおはなばたけ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty no Ohanabatake (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "474730cd",
+      "md5": "ecad791e35a0166752839786926319c4",
+      "sha1": "6c9b6821b0217eb5a6b5dd3961918336d82d3c19",
+      "sha256": "e8940655233f626411abb5a951f31999f815ad0aeb9da15025f12369c153ac44"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このビデオゲームの中で、ハローキティは各ステージで全ての花に水をやりながら、さまざまな動物や昆虫を避けなければなりません。キティのリボンは常に耳の左側に留まっており、プレイヤーがキャラクターの向きを変えても変わりません。彼女は大きなハンマーを使って自分を守ることができます。敵にぶつかると彼女は泣き出し、それが原因でキティは怒ってライフを失います。ゲーム内のポイントはレジのためのお金として集められます。制限時間が切れると、プレイヤーもライフを失います。しかし、無限にコンティニューが可能で、「ゲームオーバー」の唯一のペナルティは得点を失うことです。ゲームには18のステージがあり、18ステージをクリアした後は繰り返しません。ゲームの後半は前半の9レベルよりも難易度が高いですが、プレイヤーがゲームの操作に慣れればクリア可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hello%20Kitty%20no%20Ohanabatake%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hello%20Kitty%20no%20Ohanabatake%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hello%20Kitty%20no%20Ohanabatake%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

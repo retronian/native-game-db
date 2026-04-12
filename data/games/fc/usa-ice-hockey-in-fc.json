@@ -1,0 +1,76 @@
+{
+  "id": "usa-ice-hockey-in-fc",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "USA Ice Hockey in FC",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "USAアイスホッケー in FC",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "USA ICE HOCKEY in FC",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ユーエスエーアイスホッケー　イン　エフシー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "USA Ice Hockey in FC (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7f32c2be",
+      "md5": "520a647c561b573fd21d71ef59a1be69",
+      "sha1": "f16ad458335e11625a941f82b980c8a4928e7351",
+      "sha256": "3a2096ef17e3b7d090fd1b6e59979d68ce0155cd12345b7ef1fcf3a392836dfb"
+    }
+  ],
+  "first_release_date": "1993-03-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/USA%20Ice%20Hockey%20in%20FC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/USA%20Ice%20Hockey%20in%20FC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/USA%20Ice%20Hockey%20in%20FC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

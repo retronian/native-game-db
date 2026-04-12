@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Aero Fighters Assault",
@@ -56,12 +56,21 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "Sonic Wings Assault",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1997-10-30",
   "external_ids": {
     "wikidata": "Q14761493",
-    "mobygames": 4923
+    "mobygames": 4923,
+    "igdb": 47677
   },
   "roms": [
     {
@@ -123,6 +132,21 @@
       "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/AeroFighters%20Assault%20%28USA%29.png",
       "source": "libretro_thumbnails",
       "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Sonic%20Wings%20Assault%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Sonic%20Wings%20Assault%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Sonic%20Wings%20Assault%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

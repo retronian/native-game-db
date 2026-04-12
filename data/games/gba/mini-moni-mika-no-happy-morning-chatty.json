@@ -1,0 +1,65 @@
+{
+  "id": "mini-moni-mika-no-happy-morning-chatty",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini Moni. - Mika no Happy Morning Chatty",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミニモニ。ミカのハッピーモーニングchatty",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini Moni. - Mika no Happy Morning Chatty (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AHCJ",
+      "size": 8388608,
+      "crc32": "492cf823",
+      "md5": "f9ab5e9200dfae863f30e9332d7fcd95",
+      "sha1": "96a102b974e00aa27d060952a770ea49f5639ef5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ミニモニ。ミカのハッピーモーニングチャッティは、ミニモニ。フランチャイズ（かつての日本のアイドルグループ）を基にしたゲームです。このゲームは日本のプレイヤーに英語を教え、ショッピングや料理などの探索や日常活動を楽しむことができ、さまざまなミニゲームが用意されています。パッケージの表面には、幼児向けの英語教育プログラムである小学館ホームパルプログラムの印刷があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-04-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mini%20Moni.%20-%20Mika%20no%20Happy%20Morning%20Chatty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mini%20Moni.%20-%20Mika%20no%20Happy%20Morning%20Chatty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mini%20Moni.%20-%20Mika%20no%20Happy%20Morning%20Chatty%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

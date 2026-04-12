@@ -1,0 +1,74 @@
+{
+  "id": "mesopotamia",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mesopotamia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メソポタミア 摩訶不思議",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メソポタミア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mesopotamia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e87190f1",
+      "md5": "04ff555eafb23e45d55c61e9a29db815",
+      "sha1": "70186b4d823a48aae09ed7e2bc8e16edfcaf4335",
+      "sha256": "761f639940a0cde4da5703727a920cb923fd0b6bf5af6977923507105da56e1e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ソマーアサルト」は説明が難しいゲームです。このゲームでは、銃を装備したピンクのスリンキーキャラクターを操作します。迷路の中を移動し、壁や天井を登ったり、ショートカットを通ったりしながら、ゴールを目指します。その途中で、多くの敵を撃退しなければなりません。そして最後には、厄介なボスが待ち構えています。\n\nストーリーは奇妙で、ゲームのコンセプトにぴったり合っています。魔女が世界を支配しようと企んでおり、そのために12の獣を召喚しました。それぞれは星座に基づいています。あなたの役目は、ピンクのスリンキーとして、この12の星座を倒すことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mesopotamia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mesopotamia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mesopotamia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "rockman-mega-world",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman - Mega World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロックマンメガワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman - Mega World (Japan) (Mega Drive Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-12053-00",
+      "size": 2097152,
+      "crc32": "e8f5668e",
+      "md5": "f36771942c483192c6f4c3e1127888b1",
+      "sha1": "77de1a2bdc359044e8aec5a3bcd6a5d878d23837",
+      "sha256": "2db2c7f80c9dd9186cb992ca76701e9aac32d832e055d6055395f18c03a573b4"
+    },
+    {
+      "name": "Rockman - Mega World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-12053-00",
+      "size": 2097152,
+      "crc32": "85c956ef",
+      "md5": "520d081a450b5e9f127369e6ec1be43e",
+      "sha1": "a435ac53589a29dbb655662c942daab425d3f6bd",
+      "sha256": "390dcd13bbde5e5aab352c456c3ab7d40df60edaae65687cda4598cb1387a3d6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ロックマンメガワールドは、最初の3つのNESロックマンタイトルを収めたコレクションです。グラフィックとサウンドが強化されており、3つのゲームから敵を組み合わせた短編ゲーム「ワイリータワー」も収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rockman%20-%20Mega%20World%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rockman%20-%20Mega%20World%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rockman%20-%20Mega%20World%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rockman%20-%20Mega%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rockman%20-%20Mega%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rockman%20-%20Mega%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

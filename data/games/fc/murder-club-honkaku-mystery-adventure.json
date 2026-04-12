@@ -1,0 +1,66 @@
+{
+  "id": "murder-club-honkaku-mystery-adventure",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Murder Club - Honkaku Mystery Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マーダークラブ 本格ミステリーアドベンチャー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "マーダークラブ 本格ミステリー・アドベンチャー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Murder Club - Honkaku Mystery Adventure (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "80a39cd5",
+      "md5": "7436448e677f078c38cbd6201d561be4",
+      "sha1": "bb1fb4700ad1cf83bd32acb640747f2a9d337238",
+      "sha256": "f663106edbf968b78d704960cc7d7a57bb66040eee8b48a0d4655c2341389fe8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Murder%20Club%20-%20Honkaku%20Mystery%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Murder%20Club%20-%20Honkaku%20Mystery%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Murder%20Club%20-%20Honkaku%20Mystery%20Adventure%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

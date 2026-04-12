@@ -1,0 +1,67 @@
+{
+  "id": "drama-queens",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Drama Queens",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Drama Queens (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CYQP",
+      "size": 67108864,
+      "crc32": "8c68bdd9",
+      "md5": "c9efebea72a6819ee9edb5d49432ded0",
+      "sha1": "b027967b071a501287b1ee1f9e5225c60bdbb207"
+    },
+    {
+      "name": "Drama Queens (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CYQE",
+      "size": 67108864,
+      "crc32": "500fca9d",
+      "md5": "e7b24df0ddccc24b0231afd2e5d477f8",
+      "sha1": "89ca575aaae17185cf8f6462202ad6a8b3a123e4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 90949
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drama%20Queens%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drama%20Queens%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drama%20Queens%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drama%20Queens%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

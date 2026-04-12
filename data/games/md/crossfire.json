@@ -1,0 +1,81 @@
+{
+  "id": "crossfire",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "CrossFire",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "CrossFire (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-29016-00",
+      "size": 524288,
+      "crc32": "cc73f3a9",
+      "md5": "8072f5025e9f874c0ccf0341c2081c74",
+      "sha1": "cc681bb62483dfb3ee3ef976dff29cc80ad01820",
+      "sha256": "440c21b2a725b1e547490b4b81b8719dd61f5b4f578e673a9d2899bfa17fb67f"
+    },
+    {
+      "name": "CrossFire (USA) (Sample)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-29023-00",
+      "size": 524288,
+      "crc32": "ff9e9f45",
+      "md5": "d3cc36984a31ed76c0d54df348677c47",
+      "sha1": "f33995fbb6d5378de0ce246c237e28fd7de1a3d9",
+      "sha256": "0a839ad8553c5fd40bdd958cdafc11a4569eac00f1ac1eb6beb843f5d9991ae8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138120
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/CrossFire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/CrossFire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/CrossFire%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/CrossFire%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/CrossFire%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/CrossFire%20%28USA%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "waliou-xunbao-ji",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Waliou Xunbao Ji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "瓦力欧寻宝记",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Waliou Xunbao Ji (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "AWAC",
+      "size": 8388608,
+      "crc32": "cf7585f1",
+      "md5": "3d8fcfa27f2a659ab5f3ab0d70b9c99d",
+      "sha1": "229dde72ad6b4282f2e85bea49e3d877c473d4a9",
+      "sha256": "316d8beeaacb99d39fc0ed70b0cc3c593d85478b409e989813d83307ff2e6ab4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Waliou%20Xunbao%20Ji%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Waliou%20Xunbao%20Ji%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Waliou%20Xunbao%20Ji%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

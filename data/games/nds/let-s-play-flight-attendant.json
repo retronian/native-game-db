@@ -1,0 +1,67 @@
+{
+  "id": "let-s-play-flight-attendant",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Let's Play Flight Attendant",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Let's Play Flight Attendant (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFJE",
+      "size": 16777216,
+      "crc32": "04d44417",
+      "md5": "3c6d6452edcd722448bda0d8cf3484e9",
+      "sha1": "97f1045e5d098f2c555bb1e1f1e7296f7e8dd990"
+    },
+    {
+      "name": "Let's Play Flight Attendant (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCFP",
+      "size": 16777216,
+      "crc32": "c0c7e20f",
+      "md5": "f359b169dcc0282e63267381c870bad1",
+      "sha1": "89ea4e44875d50ec273fbd0d0a566a7fa30baadc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 201909
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Play%20Flight%20Attendant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Play%20Flight%20Attendant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Play%20Flight%20Attendant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Play%20Flight%20Attendant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "kinniku-banzuke-kongou-kun-no-daibouken",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kinniku Banzuke - Kongou-kun no Daibouken!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "筋肉番付 金剛君の大冒険!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kinniku Banzuke - Kongou-kun no Daibouken! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AK4J",
+      "size": 8388608,
+      "crc32": "94519d2a",
+      "md5": "e7939307d25e65cbecc764f55ad49e34",
+      "sha1": "80824bef46247f4b45f89ff5817ce3b35b0e74fc",
+      "sha256": "d8f552707b384c8b4bd372a234f2d56949fdf96341d2bd17d145aed902a5ebb2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "テレビ番組「筋肉番付」を基にした冒険ゲームです。ゲームの目的は、「キックターゲット」や「モンスターボックス」などのお馴染みの競技をクリアし、行方不明の父親を見つけることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kinniku%20Banzuke%20-%20Kongou-kun%20no%20Daibouken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kinniku%20Banzuke%20-%20Kongou-kun%20no%20Daibouken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kinniku%20Banzuke%20-%20Kongou-kun%20no%20Daibouken%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

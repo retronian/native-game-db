@@ -1,0 +1,86 @@
+{
+  "id": "bust-a-move-99",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bust-A-Move '99",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パズルボブル3デラックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Bust-A-Move 3 DX",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Puzzle Bobble 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Puzzle Bobble 3 DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bust-A-Move '99 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NB3E",
+      "size": 8388608,
+      "crc32": "c285fc69",
+      "md5": "8567382d3cd5bc0406b7b4c780f621dc",
+      "sha1": "8d874677cfbfa88c5e52bc13327d518be3b756ba",
+      "sha256": "2932dae8bcce7cb86bbc15c5f1cca96ba5838c486398d445b248276f1203b501"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44958
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bust-A-Move%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bust-A-Move%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bust-A-Move%20%2799%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "violent-soldier",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Violent Soldier",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バイオレント・ソルジャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Violent Soldier (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "1bc36b36",
+      "md5": "6e1f6d152f17b6008d1968d016c34a1a",
+      "sha1": "76581fe7acb707b1e5bab2ac27cd27e3ed06078a",
+      "sha256": "63f78218d18ded32fa291a6ad26c2c8812c623d3c61cd934cc9676a8d8e47740"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44323
+  },
+  "descriptions": [
+    {
+      "text": "「シニストロン」は、R-Typeに似た横スクロールシューティングゲームですが、独自の武器システムを持っており、シールドを開閉することで火力を向上させる代わりに、艦船が脆弱になるという特徴があります。また、ミサイルやさまざまなタイプのレーザーなど、いくつかの異なるパワーアップアイテムを拾うこともできます。\n\nゲームのストーリーは、取扱説明書によるとあまり明確ではありません。「シニストロン」と呼ばれる何かがあなたの銀河の区画に侵入してきており、ただ単にそれを吹き飛ばさなければならないようです。\n\nこのゲームには大きな敵スプライトと大きなボスキャラクターが登場します。レベルは主に宇宙空間や異星の環境で展開されます。一部のスプライトはマクロスのようなメカです。\n\n日本版の「バイオレントソルジャー」では、グラフィックが若干異なっていました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Violent%20Soldier%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Violent%20Soldier%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Violent%20Soldier%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

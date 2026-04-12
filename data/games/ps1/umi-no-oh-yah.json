@@ -1,0 +1,59 @@
+{
+  "id": "umi-no-oh-yah",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Umi no Oh! Yah!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海のＯh! Yah!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Umi no Oh! Yah! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 269110848,
+      "crc32": "3e1dd043",
+      "md5": "e3b96e8aa2fd98a1795a80dc791429cd",
+      "sha1": "0c9ee82cc73b820d81f7aaafb27e7e5614a6ad5f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 384496
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Umi%20no%20Oh%21%20Yah%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Umi%20no%20Oh%21%20Yah%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Umi%20no%20Oh%21%20Yah%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

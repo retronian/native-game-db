@@ -1,0 +1,69 @@
+{
+  "id": "hiryuu-no-ken-s-hyper-version",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hiryuu no Ken S - Hyper Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "飛龍の拳S ハイパーバージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "飛龍の拳S HyperVersion ハイパーバージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hiryuu no Ken S - Hyper Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "b035ec54",
+      "md5": "9311670ca6bc4470d66dfdb1e60d0ebf",
+      "sha1": "63099652c7601adde3bfb3a700d7394ed40250c3",
+      "sha256": "2b3670211b95e070d37f794cedc2624c4fd2aa2cfabb0ed4051c96cafa001aaf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38126
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hiryuu%20no%20Ken%20S%20-%20Hyper%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hiryuu%20no%20Ken%20S%20-%20Hyper%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hiryuu%20no%20Ken%20S%20-%20Hyper%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

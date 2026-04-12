@@ -1,0 +1,64 @@
+{
+  "id": "nisemon-puzzle-da-mon-feromon-kyuushutsu-daisakusen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nisemon Puzzle da Mon! - Feromon Kyuushutsu Daisakusen!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニセモン パズルdaモン! フェロモン救出大作戦!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nisemon Puzzle da Mon! - Feromon Kyuushutsu Daisakusen! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2f7d62f3",
+      "md5": "5c7ecb62a755ce577e7d8a943838d45f",
+      "sha1": "8d60e4af5504fe68277e1da162e6352d8438900e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイヤーがハンマーで「ニセモン」を叩いて救出し、解放装置に運ぶパズルゲームです。救出されたニセモンは友達になります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Nisemon%20Puzzle%20da%20Mon%21%20-%20Feromon%20Kyuushutsu%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Nisemon%20Puzzle%20da%20Mon%21%20-%20Feromon%20Kyuushutsu%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Nisemon%20Puzzle%20da%20Mon%21%20-%20Feromon%20Kyuushutsu%20Daisakusen%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

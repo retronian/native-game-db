@@ -1,0 +1,67 @@
+{
+  "id": "honkaku-hanafuda-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honkaku Hanafuda GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "本格花札GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honkaku Hanafuda GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "05dcbd55",
+      "md5": "efe18a36fc03264e23ccbb81fef2beba",
+      "sha1": "24e116249e569d79a280c8f4104934b369c32d79"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281568
+  },
+  "descriptions": [
+    {
+      "text": "このソフトウェアでは、プレイヤーが「こいこい」を楽しむことができ、花札を使って役を作る速さを競います。また、「おいちょ」では、2枚から3枚のカードを使って得点を競い、「花合わせ」では、場にあるすべてのカードを引き、最後に作った役で得点を競います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-02-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Honkaku%20Hanafuda%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Honkaku%20Hanafuda%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Honkaku%20Hanafuda%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

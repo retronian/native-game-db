@@ -1,0 +1,51 @@
+{
+  "id": "telly-addicts",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Telly Addicts",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Telly Addicts (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YADP",
+      "size": 16777216,
+      "crc32": "fac9db8d",
+      "md5": "f7fd8427cb32b493e85c865cbef8ed33",
+      "sha1": "b39ad1f68ce73e615706e899fa06b9a9ca82d2b8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43213
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Telly%20Addicts%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Telly%20Addicts%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Telly%20Addicts%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

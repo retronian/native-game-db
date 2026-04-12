@@ -1,0 +1,65 @@
+{
+  "id": "makaimura",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Makaimura",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔界村",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Makaimura (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "1bf83927",
+      "md5": "8724d32fbac0b927ec5e650c7279b7da",
+      "sha1": "f803298e3a8e8d4abe40aa00985bef0969537e65",
+      "sha256": "b1ca53bc69a291b52e8c8f38415e118c3b10ac0ebbfb1cd72a408caadcc108e0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 284100
+  },
+  "descriptions": [
+    {
+      "text": "「魔界村」は、横スクロールのアクションプラットフォーマーで、全六つのレベルから構成されています。各レベルは三分以内にクリアしなければならず（さもなければライフを失います）、森林、村、山、洞窟などの舞台が用意されており、難易度が徐々に上がっていきます。\n\n勇敢な騎士アーサーは、悪魔王アスタロトとその軍勢から愛するプリンセスを救わなければなりません。敵には様々なアンデッド（ゴースト、ゾンビ）、コウモリ、オーガ、ゴブリンが含まれています。その他の挑戦としては、動くプラットフォーム、はしご、水や火の危険があります。\n\nこのジャンルのほとんどのゲームと同様に、プレイヤーはゲームの進行中にダガーや爆弾などのパワーアップを拾うことができ、より強力な攻撃が可能になります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-06-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Makaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Makaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Makaimura%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dokidoki-densetsu-mahoujin-guruguru",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dokidoki Densetsu - Mahoujin Guruguru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドキドキ♥伝説 魔法陣グルグル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドキドキ伝説 魔法陣グルグル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dokidoki Densetsu - Mahoujin Guruguru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "83e47a1a",
+      "md5": "e6a3d906bc47516138ca14578601af02",
+      "sha1": "1b4627699b45af36a42e75c1a217b40fb5bec4ba"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ「魔法陣グルグル」を基にしたRPGで、プレイヤーは4つの異なるシステムと属性を組み合わせた魔法陣を使ってモンスターを倒します。プレイヤー同士はカードを使って対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-11-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dokidoki%20Densetsu%20-%20Mahoujin%20Guruguru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dokidoki%20Densetsu%20-%20Mahoujin%20Guruguru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dokidoki%20Densetsu%20-%20Mahoujin%20Guruguru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

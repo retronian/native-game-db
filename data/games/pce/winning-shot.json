@@ -1,0 +1,77 @@
+{
+  "id": "winning-shot",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Winning Shot",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウイニングショット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウィニングショット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Winning Shot (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "9b5ebc58",
+      "md5": "039fb7644dc73ded9744a1d73fde9e72",
+      "sha1": "039ff38e6221b4b7722144e85dc7c84873d7efe6",
+      "sha256": "96f41bd8e07a8a745e7fee4999e2726dfcd39c10c829cb71f759ce2f0173efcd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43190
+  },
+  "descriptions": [
+    {
+      "text": "ウィニングショットはPCエンジン/Turbografx-16用のゴルフゲームで、このシステム向けにリリースされた最初のスポーツゲームです。最大4人のプレイヤーが参加できますが、ゴルフの特性上、各プレイヤーはホールからの距離に応じて交互にターンを取ります。このゲームはこの時代のゴルフゲームと多くの共通点があり、プレイヤーは使用するクラブを選択したり、ボールの軌道を調整するためにわずかに角度をつけて打つかどうか、ボールをどの方向に打つかを決めたりします。そして、ボールをできるだけホールに近づけるために、必要なパワーゲージを適切なタイミングで打つことでボールを飛ばします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-03-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Winning%20Shot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Winning%20Shot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Winning%20Shot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "dahna-megami-tanjou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dahna - Megami Tanjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダーナ 女神誕生",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dahna - Megami Tanjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "64013-00",
+      "size": 1048576,
+      "crc32": "4602584f",
+      "md5": "731b77ec3acab4aaf3b76cd3c8d82a41",
+      "sha1": "da0246a063e6f70933e251b9ae84587fe620d4f0",
+      "sha256": "47852507efd0e4df061149284fc295b811b470dff1a7926ef6ee252da01aabea"
+    },
+    {
+      "name": "Dahna - Megami Tanjou (China) (Ja) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "13dc2724",
+      "md5": "5bbc7ead9d9923296645e4695a7ff88a",
+      "sha1": "0966eafd5ea54b9f0ced4172f2698ccf86c66abd",
+      "sha256": "b60daf1a76457bc7f787a013058615cf6416c6d3c45bbc69f28a80e745d171ce"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46185
+  },
+  "descriptions": [
+    {
+      "text": "ダーナ：女神誕生は、RPG要素を含むベルトスクロールアクションゲームです。プレイヤーはダーナを操作し、横または縦にスクロールするレベルを進んでいきます。ダーナは剣を使って敵と戦い、二段階のジャンプができ、しゃがんだり這ったりすることもできます。また、ダーナには魔法メーターがあり、いくつかの色のレベルがあります。魔法の異なるレベルは、異なる魔法効果を生み出します（『ゴールデンアックス』のように）。彼女の魔法は、敵の魔法使いを倒すと落とす魔法のオーブを集めることで補充できます。敵は健康オーブも落とします。\n\n彼女はゲームの最初で巨大な生物に「乗って」おり、ゲームの他の部分でも馬やグリフィンなどの他の生物に乗ることがあります。生物に乗っている間、ダーナは魔法の力を使うことができません。\n\n敵を倒しオーブを集めることで、ダーナは経験値を獲得し、レベルアップを果たします。レベルアップは彼女の健康にのみ影響を与え、より多くの健康ポイントを得ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dahna%20-%20Megami%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dahna%20-%20Megami%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dahna%20-%20Megami%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

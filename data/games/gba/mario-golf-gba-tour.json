@@ -1,0 +1,88 @@
+{
+  "id": "mario-golf-gba-tour",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mario Golf - GBA Tour",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マリオゴルフGBAツアー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mario Golf - GBA Tour (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMGJ",
+      "size": 16777216,
+      "crc32": "a8342a16",
+      "md5": "de0fd2e4e4c888eed0719511095efd22",
+      "sha1": "ccd3a22c65336a65290d641c17ffd0d2a5a57be2",
+      "sha256": "58e6fb2fcee1f5398243f33aa75d573f7b5d0e21aabfc6e2d340f8c87977251c"
+    },
+    {
+      "name": "Mario Golf - GBA Tour (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BMGJ",
+      "size": 16777216,
+      "crc32": "78c8140f",
+      "md5": "71b728433530fd17f4a7f86e15309734",
+      "sha1": "eb096694f094ca3bc6d75555c757dc98fd9a7cea",
+      "sha256": "1cb988a7490c433aaf380e898d8c0426245f635f28624c86b1777a6b54848f04"
+    }
+  ],
+  "first_release_date": "2004-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mario%20Golf%20-%20GBA%20Tour%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "touch-darts",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touch Darts",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touch Darts (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A4ZE",
+      "size": 8388608,
+      "crc32": "5b599a4f",
+      "md5": "5e51c54d7f054116fd81f5aaebad321b",
+      "sha1": "eb2c7a55e861b84cf920dcb9946a63650644e88e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21434
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Touch%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Touch%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Touch%20Darts%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

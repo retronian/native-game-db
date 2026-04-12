@@ -1,0 +1,53 @@
+{
+  "id": "star-control",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Star Control",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 4497
+  },
+  "first_release_date": "1990-12-31",
+  "roms": [
+    {
+      "name": "Star Control (USA, Europe) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACLD002-03",
+      "size": 1572864,
+      "crc32": "8e2bceaf",
+      "md5": "de54c1ae7099b15d6c6ccb31932927b3",
+      "sha1": "108e00cdbcb339834b54fb11819591627fe4b351",
+      "sha256": "70d392b95a0e526e10bb5882ffd3c791d28bbd7603aabb36689b18d79494b03c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Star%20Control%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Star%20Control%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Star%20Control%20%28USA%2C%20Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

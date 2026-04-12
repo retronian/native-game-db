@@ -1,0 +1,68 @@
+{
+  "id": "konchuu-monster-battle-master",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konchuu Monster - Battle Master",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "昆虫モンスター・バトルマスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konchuu Monster - Battle Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BQBJ",
+      "size": 8388608,
+      "crc32": "3aa0ce79",
+      "md5": "a7ad5647f3788ae37870e6dffe2122e7",
+      "sha1": "eb352a51e2e7cd54906a60abb4098d4b22ac6312"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97816
+  },
+  "descriptions": [
+    {
+      "text": "ポケモンに明らかにインスパイアされたロールプレイングゲームで、プレイヤーは昆虫を探し、それらがバトルアリーナに入ることになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-05-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Konchuu%20Monster%20-%20Battle%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Konchuu%20Monster%20-%20Battle%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Konchuu%20Monster%20-%20Battle%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

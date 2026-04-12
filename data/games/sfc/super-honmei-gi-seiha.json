@@ -1,0 +1,74 @@
+{
+  "id": "super-honmei-gi-seiha",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Honmei - GI Seiha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジーワン スーパー本命 GI制覇 スーパーほんめい ジーワンせいは",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー本命 GI制覇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Honmei - GI Seiha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "7ceb9f66",
+      "md5": "2e266609f3df6b21e48be9a3eabd43bf",
+      "sha1": "4a8e3c93e8f7e3087adf5105f201e58e2ab68ada",
+      "sha256": "44e566859387b9f749668d929b72bcb5d0e48a7cdf295e4a9dcc42eddab50787"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーほんめい：GI制覇は、スーパーファミコン用の競馬育成・レースゲームです。プレイヤーは競走馬の厩舎を築き、レースに出走させてお金を稼がなければなりません。\n\n同時期の「ダービースタリオン」や「サラブレッドブリーダー」とは異なり、スーパーほんめいは続編が制作されることはありませんでした。ただし、ゲームボーイ版として「ほんめいボーイ」が登場しました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Honmei%20-%20GI%20Seiha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Honmei%20-%20GI%20Seiha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Honmei%20-%20GI%20Seiha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

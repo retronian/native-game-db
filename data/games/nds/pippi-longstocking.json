@@ -1,0 +1,42 @@
+{
+  "id": "pippi-longstocking",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pippi Longstocking",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pippi Longstocking (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TPLP",
+      "size": 67108864,
+      "crc32": "c7f961b6",
+      "md5": "dfc902c450e4875a53f0c360881e84aa",
+      "sha1": "61c84be2c434de25abbb68d8887f2e76bc7f64fb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pippi%20Longstocking%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pippi%20Longstocking%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

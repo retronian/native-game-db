@@ -1,0 +1,75 @@
+{
+  "id": "shin-megami-tensei-devil-children-yami-no-sho",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shin Megami Tensei Devil Children - Yami no Sho",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "真・女神転生デビルチルドレン 闘の書",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shin Megami Tensei Devil Children - Yami no Sho (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AC5J",
+      "size": 8388608,
+      "crc32": "e0e153b7",
+      "md5": "8a8dc5dc9bc9a49d35ba263e1ba9f4a7",
+      "sha1": "236fd0e7c14f5d6db7fa2083766324341b9e5b39"
+    },
+    {
+      "name": "Shin Megami Tensei Devil Children - Yami no Sho (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AC5J",
+      "size": 8388608,
+      "crc32": "81f30ebc",
+      "md5": "fab0e663d83fa071089cc626b84c92eb",
+      "sha1": "c2db9b977758b4f350340f981baffcc0bba0c6c2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "年は200X年。ジン、アキラ、レナは一緒に育った6年生の友達です。彼らは「ミステリークラブ」のメンバーでもあり、面白くて神秘的なものを探しています。\n\n学校の図書館を探検していると、さまざまな呪文や魔法が書かれた不思議な本を見つけます。好奇心に駆られた彼らは、召喚儀式を行うことに決めますが、その結果に対する準備はできていませんでした…。すると、驚くべきことに悪魔が現れ、彼らの唯一の希望は、新しい転校生のエイミーです。エイミーはジンとアキラに、銃のようなデミロックを使って悪魔を捕まえ、召喚する力を与えます。さらに、彼らを守るために送られた守護悪魔のランドとゲイルも加わります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-11-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Shin%20Megami%20Tensei%20Devil%20Children%20-%20Yami%20no%20Sho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Shin%20Megami%20Tensei%20Devil%20Children%20-%20Yami%20no%20Sho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Shin%20Megami%20Tensei%20Devil%20Children%20-%20Yami%20no%20Sho%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

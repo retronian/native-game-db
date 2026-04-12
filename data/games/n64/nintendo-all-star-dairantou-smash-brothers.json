@@ -1,0 +1,75 @@
+{
+  "id": "nintendo-all-star-dairantou-smash-brothers",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintendo All-Star! Dairantou Smash Brothers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニンテンドーオールスター! 大乱闘スマッシュブラザーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ニンテンドウオールスター!大乱闘 スマッシュブラザーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintendo All-Star! Dairantou Smash Brothers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NALJ",
+      "size": 16777216,
+      "crc32": "04c9d3b1",
+      "md5": "66db457b130d31a286a23d6e4dd9726e",
+      "sha1": "4b71f0e01878696733eefa9c80d11c147ecb4984",
+      "sha256": "527bdd5a36d6f1b90988523ac8d44276e32b44cf93f609ef6d76f399c9733f25"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「大乱闘スマッシュブラザーズ」は、マリオ、カービィ、ドンキーコングなどの馴染み深い任天堂キャラクターたちを戦わせるゲームです！各キャラクターに対応した8つの完全インタラクティブなステージがあり、それぞれのゲームとの関連性が感じられます。操作はアナログベースで、スティックの方向や押し具合によって異なる技が繰り出されます。野球バットやボム兵、回復アイテムなどがランダムにアリーナに落ちてきて、近くのキャラクターが利用することができます。ゲームは固定視点でスクロールしますが、キャラクターは3Dで描画されています。\n\n1人用モードには14のステージが用意されています。最大4人のプレイヤーが同時に戦うことができ、チームプレイや全員対戦のアクションが楽しめます。隠しキャラクターやボーナスラウンドも用意されており、巨大な手との戦いもあります（そう、あなたは正しく読みました！）。\n\nプレイ可能なキャラクターには、キャプテン・ファルコン*（F-Zero）、ドンキーコング、フォックス（スターフォックス）、カービィ、プリン*（ポケモン）、リンク（ゼルダの伝説）、ルイージ*（マリオ）、マリオ、ネス*（マザー/アースバウンド）、ピカチュウ（ポケモン）、サムス（メトロイド）、ヨッシー（マリオ）が含まれます。\n\n*キャラクターは最初にアンロックする必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-01-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Nintendo%20All-Star%21%20Dairantou%20Smash%20Brothers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Nintendo%20All-Star%21%20Dairantou%20Smash%20Brothers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Nintendo%20All-Star%21%20Dairantou%20Smash%20Brothers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

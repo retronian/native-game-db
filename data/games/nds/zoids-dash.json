@@ -1,0 +1,42 @@
+{
+  "id": "zoids-dash",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoids Dash",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoids Dash (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AZHJ",
+      "size": 67108864,
+      "crc32": "37b00486",
+      "md5": "ee9d9cfb4c8be80537d6f0a2fe26fb89",
+      "sha1": "c2cba7d5e3362d8d798cb992ac8e815e8f1a1b40"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoids%20Dash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoids%20Dash%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

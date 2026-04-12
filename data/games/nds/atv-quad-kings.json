@@ -1,0 +1,67 @@
+{
+  "id": "atv-quad-kings",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ATV Quad Kings",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "ATV Quad Kings (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQKE",
+      "size": 16777216,
+      "crc32": "e71780b5",
+      "md5": "ba362ebc0fb70e97b6cd12414cf0df7e",
+      "sha1": "6504df4089738447e285a73f421ca8e13a8a16f3"
+    },
+    {
+      "name": "ATV Quad Kings (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BQKP",
+      "size": 16777216,
+      "crc32": "4af31b14",
+      "md5": "4ce4cb2026cf54e9ccaa9f649aa9abc9",
+      "sha1": "4f402b345be136cd605ab541dfa200e2d619f5d2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 51012
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ATV%20Quad%20Kings%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/ATV%20Quad%20Kings%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ATV%20Quad%20Kings%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/ATV%20Quad%20Kings%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

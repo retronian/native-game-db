@@ -1,0 +1,59 @@
+{
+  "id": "shougi-no-hoshi",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shougi no Hoshi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "将棋の星",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shougi no Hoshi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-67013-00",
+      "size": 262144,
+      "crc32": "4148f816",
+      "md5": "f523b8886dc72ea54f639baa25423bd6",
+      "sha1": "097fc6e7b7d9152f538d973a1837c09b711bf9d2",
+      "sha256": "5a25484c620bf9317f2ffea58340df78c1d03d921ef0a0bfac9674c8760cc4fb"
+    }
+  ],
+  "first_release_date": "1991-10-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shougi%20no%20Hoshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shougi%20no%20Hoshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shougi%20no%20Hoshi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

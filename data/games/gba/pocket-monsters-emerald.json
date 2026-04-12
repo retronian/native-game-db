@@ -1,0 +1,66 @@
+{
+  "id": "pocket-monsters-emerald",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Monsters - Emerald",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットモンスター エメラルド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Monsters - Emerald (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BPEJ",
+      "size": 16777216,
+      "crc32": "4881f3f8",
+      "md5": "92eecf93f1ab828bdf2a83daddacf3e5",
+      "sha1": "d7cf8f156ba9c455d164e1ea780a6bf1945465c2",
+      "sha256": "33f5610b9186b4add09fef68895deb00f552b997b3d133b5a961e5123506343c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ホウエン地方は不安定です──レイクザが目覚めました！あなたのトレーナーとしてのスキルがこれまでにないほど試される中、カイオーガとグラードンのバランスを保つために挑戦します。バッジを獲得し、ポケモンバトルの最前線であるバトルフロンティアにアクセスして、あなたのスキルを証明しましょう。これまでに経験したことのないバトルが待っています！\n\n- ホウエン地方での新しいエピソードを含む第三の冒険！\n- 驚くべきプロットのひねりや、特定のポケモンを捕まえる場所や頻度の変更など、たくさんの新機能！\n- ゲームボーイアドバンス ワイヤレスアダプタを使用して、ポケモンエメラルドとポケモンファイアレッド・リーフグリーン版の間でトレードやバトルが可能。\n- 友達とトレードすることでコレクションを拡張。ゲームリンクケーブルを使用して、ポケモンルビー・サファイア、ポケモンファイアレッド・リーフグリーン、またはポケモンコロシアムとリンクして、すべてのポケモンを捕まえよう！詳細は取扱説明書を参照してください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-09-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pocket%20Monsters%20-%20Emerald%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pocket%20Monsters%20-%20Emerald%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pocket%20Monsters%20-%20Emerald%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "parlor-parlor",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Parlor! Parlor!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "京楽 三洋 豊丸 Parlor! パーラー! パチンコ3社・実機シミュレーションゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Parlor! Parlor! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2ea12170",
+      "md5": "acffe81652ada62e58b079f9bffb6ff4",
+      "sha1": "80215a04136f5c2e994f0a8e91db39a0bb01dc5b",
+      "sha256": "8200107cfa92b2b13b156337685c4a02935b1c7aa367db982494cccf9c900b1b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "京楽 三洋 豊丸 パーラー! パーラー! は、ニッポンテレネットによるパチンコゲームで、同名のシリーズの第一作目です。\n\nタイトルの「京楽」、「三洋」、「豊丸」は、実際のパチンコ機の異なる3つのメーカーを指しており、これらのパチンコ機はこのゲーム内で仮想的に再現されており、パチンコファンが練習できるようになっています。このゲームは、平和パチンコワールドなどの以前のメーカー提供のパチンコシミュレーターが設定した類似の例に従っています。\n\nシリーズの第二作目である「京楽 三洋 豊丸 パーラー! パーラー! 2」は、5ヶ月後にリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Parlor%21%20Parlor%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Parlor%21%20Parlor%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Parlor%21%20Parlor%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

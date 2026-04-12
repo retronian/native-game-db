@@ -1,0 +1,57 @@
+{
+  "id": "chaoji-maliou-shijie",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chaoji Maliou Shijie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "超级马力欧世界",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chaoji Maliou Shijie (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "AA2C",
+      "size": 4194304,
+      "crc32": "d97d4156",
+      "md5": "96dbd1bef3587b60b612f0d30fc94415",
+      "sha1": "1da3124a73b2f22ed29f53b057e759191dc1f3f3",
+      "sha256": "9906d344891803eaa9de77bc91869f818b9072ef0532617004c74c647edbadc3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chaoji%20Maliou%20Shijie%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chaoji%20Maliou%20Shijie%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chaoji%20Maliou%20Shijie%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

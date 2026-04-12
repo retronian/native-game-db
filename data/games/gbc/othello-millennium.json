@@ -1,0 +1,67 @@
+{
+  "id": "othello-millennium",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Othello Millennium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オセロミレニアム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Othello Millennium (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c7800576",
+      "md5": "03e6a11b8040b4d56b3c1402c92bbf6d",
+      "sha1": "1546e2b676931c87b4a48e77c761f49a8e39b9e7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50552
+  },
+  "descriptions": [
+    {
+      "text": "競技モードでは他のプレイヤーやコンピュータと対戦することができ、アドベンチャーモードも選べます。アドベンチャーモードをクリアすると証明書が発行され、マニュアルに記載された方法で日本オセロ協会に申し込むと、本物の証明書を受け取ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Othello%20Millennium%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Othello%20Millennium%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Othello%20Millennium%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "bubble-bobble",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bubble Bobble",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "バブルボブル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bubble Bobble (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 163856,
+      "crc32": "67ad56c4",
+      "md5": "ddae059bbda49dd30aaf9d14d329cd29",
+      "sha1": "2b3909cb784e2f76da64d0169a718020418ae03e",
+      "sha256": "5e7e049beb5c8404819c7ed270b9d6d217cfe390cfceb0236f35babca307bb36"
+    },
+    {
+      "name": "Bubble Bobble (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "77f5ab9b",
+      "md5": "9f08eff58f4727d0d172ca008d3894e2",
+      "sha1": "b220cb06a7e23c55a982fd75b32554d0bf511b7b",
+      "sha256": "e34901acf6917495890ef79ddb33e4641ea309a803d777a27a198e8802c9b4a0"
+    },
+    {
+      "name": "Bubble Bobble (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 163856,
+      "crc32": "be2c496e",
+      "md5": "60ab8663c9f56826506a47d75d15d738",
+      "sha1": "c6d0a8bdf53653b01d588a8701ad9962ed9a1c9d",
+      "sha256": "640519eb068e6d1339cbf7b1d0703fd7160b843e0a4272a9140a2db96dc014b4"
+    },
+    {
+      "name": "Bubble Bobble (USA) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "7e46792e",
+      "md5": "6d76a4eba85bb03ec3e6b574d97ce3e0",
+      "sha1": "14916d023b2ebd150091333cdcdbf57b8e86147e",
+      "sha256": "87e9460e110d97661e72a94a2c52ad4248aa26f884cfbc0c48c530f3dcff56f3"
+    },
+    {
+      "name": "Bubble Bobble (Korea) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "kr",
+      "size": 163856,
+      "crc32": "48643053",
+      "md5": "c75182f99cfb587eb921fddeddd51941",
+      "sha1": "58d3edac89298d1f2ca9f2164004a8470f68677f",
+      "sha256": "005826da737be4c4b5ee5e01aa42327bb0f21e9117affac67235c06735be2e1c"
+    },
+    {
+      "name": "Bubble Bobble (Asia) (En) (v1.1) (Whirlwind Manu) (Pirate)",
+      "source": "no_intro",
+      "size": 98320,
+      "crc32": "8ff2cb6d",
+      "md5": "dab6ae2fcba54d2db7e219ec98cd8608",
+      "sha1": "eec0c96ad3ab9fd818116cc1619ea4444cc949c4",
+      "sha256": "ae2f4aa47e889d9032a9d2df9ef423e925558d68b6f61eea7927b37ac17b69d8"
+    },
+    {
+      "name": "Bubble Bobble (Asia) (En) (Kaiser) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "063068e7",
+      "md5": "367f5e838495b2420051b48c1b411d45",
+      "sha1": "270c37b499ec213ef3d42bfe40df6b5a9dd93e7e",
+      "sha256": "83b9ed35bb01cff2d26bb86eceedd277ab92ffd3f84863965eee88458996144f"
+    },
+    {
+      "name": "Bubble Bobble (Asia) (En) (DH-08) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "3a34ef3c",
+      "md5": "f2369ed1b4f97e7287ec3bc532a90fa5",
+      "sha1": "1d0b4483f39d1795c372f29e2b69b513a0176427",
+      "sha256": "8a56730197c8c4fe1436a98d0384caf70240b299a889ff7cf1d579aa9e9e786f"
+    },
+    {
+      "name": "Bubble Bobble (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 163856,
+      "crc32": "2101722f",
+      "md5": "e8b2a1efca7d80914c5237b452cd141d",
+      "sha1": "a52c71607652981342e4ea6e4a41ba1a1f491608",
+      "sha256": "0ec40d1204e3dcf80a673edf5b1b318ce4e78fdc67973c4f364a2dee2f9a3872"
+    }
+  ],
+  "external_ids": {
+    "igdb": 194444
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bubble%20Bobble%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bubble%20Bobble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bubble%20Bobble%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Bubble%20Bobble%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20%28USA%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Bubble%20Bobble%20%28Asia%29%20%28En%29%20%28Kaiser%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Bubble%20Bobble%20%28Asia%29%20%28En%29%20%28Kaiser%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

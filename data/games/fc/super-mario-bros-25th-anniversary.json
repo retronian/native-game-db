@@ -1,0 +1,85 @@
+{
+  "id": "super-mario-bros-25th-anniversary",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Mario Bros. - 25th Anniversary",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーマリオブラザーズ 25周年バージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Mario Bros. - 25th Anniversary (Japan) (En) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "d26844e6",
+      "md5": "bad279bb2927d9ed7ab31d3d805f8542",
+      "sha1": "47adeb36eb595140f5e1f69a972165366e8db7ac",
+      "sha256": "fe0ae935e0fa3353c9e12a1070b3de7d2561c5507be9cd1ccbaa419e5117737d"
+    },
+    {
+      "name": "Super Mario Bros. - 25th Anniversary (Australia) (Virtual Console)",
+      "source": "no_intro",
+      "region": "au",
+      "size": 40976,
+      "crc32": "3a323123",
+      "md5": "3032be29131d06bf4bfcf7ab595e55c6",
+      "sha1": "cb301e125d9dccc2d2d1678ba8c622d3b6bce801",
+      "sha256": "cac8c06d9058442c6a2183f742276635b7509606068a72979f0fba454d538709"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Japan%29%20%28En%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Australia%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Australia%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20Bros.%20-%2025th%20Anniversary%20%28Australia%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "au"
+    }
+  ]
+}

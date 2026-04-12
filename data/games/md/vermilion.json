@@ -1,0 +1,95 @@
+{
+  "id": "vermilion",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vermilion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヴァーミリオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vermilion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005502-00",
+      "size": 655360,
+      "crc32": "e400dfc3",
+      "md5": "5def9f18e261692490fd53c1adafcc91",
+      "sha1": "697fb165051179a2bbca77c8cfd0c929e334f8c1",
+      "sha256": "a76f3437700cff110bdd13c6a7d3192933ae8eea65488f71da9128c6917e1baf"
+    },
+    {
+      "name": "Vermilion (Japan) (Mega Drive Mini)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00005502-00",
+      "size": 655360,
+      "crc32": "5af97a22",
+      "md5": "873e78eccbc92ea9844f7ea0388cd3e4",
+      "sha1": "26c52544272ed6fef8811da0cdff5f2fb4cdee52",
+      "sha256": "b0340294fddf98319c71b5c68997b61ceb324f03df1d56c19c1c4d819274aff2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "セガのRPG「ファンタシースターII」のいとこにあたる「ヴァーミリオン」は、中世ファンタジーの設定の中でアクション、アドベンチャー、RPGの要素を含んでいます。町を移動する際には三人称のトップダウン視点が使用され、町の外を移動する際には一人称視点が採用されています。戦闘シーケンスでは、三人称の横視点（「ダブルドラゴン」や「ファイナルファイト」のスタイル）が用いられます。プレイヤーは普通の若者としての役割を担い、実は故エリック王の息子である王子であることを発見します。彼はエクスカラビアの土地を旅し、八つの魔法の「グッドリング」を集め、悪の王ツァルコンに立ち向かうために数多くのボス敵を倒す使命を負っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Vermilion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Vermilion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Vermilion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Vermilion%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Vermilion%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Vermilion%20%28Japan%29%20%28Mega%20Drive%20Mini%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

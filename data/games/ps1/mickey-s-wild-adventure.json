@@ -1,0 +1,59 @@
+{
+  "id": "mickey-s-wild-adventure",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey's Wild Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey's Wild Adventure (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 62171568,
+      "crc32": "b0acd26d",
+      "md5": "abe0662a513a228c972709c178896c10",
+      "sha1": "316cd8137f336064573c7f80ee0684622574a8b7"
+    },
+    {
+      "name": "Mickey's Wild Adventure (Italy)",
+      "source": "no_intro",
+      "size": 62168832,
+      "crc32": "9cb632cd",
+      "md5": "afca8f5396627b29faeb4d94d7a1b765",
+      "sha1": "bf1d42a090ac6314df2da236b9f350f0a569491a",
+      "sha256": "5623a7cca86095c89621d38506eea79130b781bcbeb59856addff52d09ba6e74"
+    }
+  ],
+  "external_ids": {
+    "igdb": 256368
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Mickey%27s%20Wild%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Mickey%27s%20Wild%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Mickey%27s%20Wild%20Adventure%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

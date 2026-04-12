@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "D",
@@ -56,11 +56,37 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "D no Shokutaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1995-04-01",
   "external_ids": {
     "wikidata": "Q975529",
-    "mobygames": 4410
-  }
+    "mobygames": 4410,
+    "igdb": 4319
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/D%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/D%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/D%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

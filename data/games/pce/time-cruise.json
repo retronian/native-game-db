@@ -1,0 +1,51 @@
+{
+  "id": "time-cruise",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Time Cruise",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Time Cruise (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "02c39660",
+      "md5": "28efe8b957a43facba53afe2aec38a69",
+      "sha1": "55557a972375e58e5fcc5ee113d0ca40b332bbb2",
+      "sha256": "8ab675036971d15538f0c63ea17d2542dcb437c6467ff3098ac083201d1d8764"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66089
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Time%20Cruise%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Time%20Cruise%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Time%20Cruise%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "baseball-fighter",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Baseball Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベースボールファイター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Baseball Fighter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "54bb19ec",
+      "md5": "33f827d5cd2e366a2996a21626ea3a64",
+      "sha1": "28e3da2b3c1bcce107c6aea454524ce0a34d3517",
+      "sha256": "d94dc27dc3f2d9d094894f50f609825d89c07a318a0033ca794834393a2ca448"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48615
+  },
+  "descriptions": [
+    {
+      "text": "ベースボールゲームにアクション要素を加えた異色作。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Baseball%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Baseball%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Baseball%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

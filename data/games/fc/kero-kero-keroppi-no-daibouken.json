@@ -1,0 +1,77 @@
+{
+  "id": "kero-kero-keroppi-no-daibouken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kero Kero Keroppi no Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "けろけろけろっぴの大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "けろけろけろっぴ の大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kero Kero Keroppi no Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "8aba7d17",
+      "md5": "5b4ad5163d43facfbf3b350295de7b3c",
+      "sha1": "6a4c9e5e79e0cbc117b7d49e2e02bc4cd9dc3d7e",
+      "sha256": "d1616dcae57759058fd8dde39d07433d446fca1d00aa04a817f9347711e0a13b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48351
+  },
+  "descriptions": [
+    {
+      "text": "けろけろけろっぴの大冒険は、人気のサンリオキャラクターけろっぴを基にした子供向けのパズルゲームです。けろっぴは、城に閉じ込められた彼女のけろりんを救うために、アクションベースのパズルを解かなければなりません。そのためには、異なるテーマの7つのワールドで、4種類のステージ（迷路の表面、飛行機を操縦するステージ、オセロのようなレベル、溶岩のフィールドを進むステージ）をクリアする必要があります。ゲーム内のアイテムはすべて事前に決まっており、プレイヤーは各プレイごとにパターンを記憶する必要があります。そうすることで、ゲームにある程度の熟練度を持った後は、より迅速にレベルを進めることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kero%20Kero%20Keroppi%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kero%20Kero%20Keroppi%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kero%20Kero%20Keroppi%20no%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

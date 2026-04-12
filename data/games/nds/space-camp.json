@@ -1,0 +1,67 @@
+{
+  "id": "space-camp",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space Camp",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Space Camp (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C5AE",
+      "size": 33554432,
+      "crc32": "de1a431b",
+      "md5": "c5f8a3a0641a040d6be235a1b0a98567",
+      "sha1": "6b66312aed1312e7e8f0ea2005527cce10d2e57b"
+    },
+    {
+      "name": "Space Camp (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C5AP",
+      "size": 33554432,
+      "crc32": "85baea42",
+      "md5": "f5ed50f197cb7e65f826ea277782213a",
+      "sha1": "04315bd65953aa3b56a12f13cd8271e5523fcc7d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68734
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Camp%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Camp%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Space%20Camp%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Space%20Camp%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

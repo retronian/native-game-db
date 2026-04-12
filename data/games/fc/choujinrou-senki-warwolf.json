@@ -1,0 +1,66 @@
+{
+  "id": "choujinrou-senki-warwolf",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Choujinrou Senki - Warwolf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "超人狼戦記 ウォーウルフ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "超人狼戦記 Warwolf ウォーウルフ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Choujinrou Senki - Warwolf (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3e59eb31",
+      "md5": "5b724e95910db8881e8a4ef5097a4489",
+      "sha1": "62b99b5affa448ccd25a39bfa3b2155a5419aa8d",
+      "sha256": "46ddd7ed2f7ab2b8dd9a5d0e7c62710f36baffd42ae857bc6f58960d4b744d3c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Choujinrou%20Senki%20-%20Warwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Choujinrou%20Senki%20-%20Warwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Choujinrou%20Senki%20-%20Warwolf%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

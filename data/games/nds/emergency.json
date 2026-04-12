@@ -1,0 +1,48 @@
+{
+  "id": "emergency",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Emergency",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Emergency (Europe) (En,Fr,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIQP",
+      "size": 33554432,
+      "crc32": "10f88349",
+      "md5": "618de0d0bc219cc4bcacaa65a15acbb8",
+      "sha1": "44dea05a632591739bd2bbef34ee846a287c4e2c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Emergency%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Emergency%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Emergency%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

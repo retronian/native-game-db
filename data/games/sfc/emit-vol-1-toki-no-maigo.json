@@ -1,0 +1,77 @@
+{
+  "id": "emit-vol-1-toki-no-maigo",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Emit Vol. 1 - Toki no Maigo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エミット Vol.1 時の迷子",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "EMIT Vol.1: 時の迷子",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Emit Vol. 1 - Toki no Maigo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "d1aacc2d",
+      "md5": "768ded334f415d7f3cc83e39be5a238d",
+      "sha1": "17c98203efcb832b38f80891d3523014f3ccf76e",
+      "sha256": "dcb14c95f058a32f40cc329793f5d95fd6cf1755cffe02c0594d1c583a06d356"
+    }
+  ],
+  "external_ids": {
+    "igdb": 60972
+  },
+  "descriptions": [
+    {
+      "text": "エミット Vol.1: 時の迷子は、若い少女ユリが不思議な老人と出会い、時計職人を探す旅に出ることで、時間旅行に巻き込まれていく冒険ゲームのトリロジーの第一作です。\n\nこのゲームは、CDオーディオを使用している点が特徴で、プレイヤーはゲームからの指示に従って正しいトラックにスキップし、バックグラウンドミュージックやボイスオーバーを楽しむことができます。また、日本語と英語の字幕が組み合わさっており、英語学習の副次的な役割も果たしています。1995年にいくつかのシステムでリリースされ、その後、エミット Vol.2: 命がけの旅とエミット Vol.3: 私にさよならをが続きました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Emit%20Vol.%201%20-%20Toki%20no%20Maigo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Emit%20Vol.%201%20-%20Toki%20no%20Maigo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Emit%20Vol.%201%20-%20Toki%20no%20Maigo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

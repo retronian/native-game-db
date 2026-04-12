@@ -1,0 +1,42 @@
+{
+  "id": "music-for-kids",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Music for Kids",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Music for Kids (Europe) (En,De) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VM4P",
+      "size": 33554432,
+      "crc32": "060a507f",
+      "md5": "e624ca37018462bd8640a3786dd88048",
+      "sha1": "0e6ba6cd05684c2e86fefab2c82b5a673153fdff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Music%20for%20Kids%20%28Europe%29%20%28En%2CDe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Music%20for%20Kids%20%28Europe%29%20%28En%2CDe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

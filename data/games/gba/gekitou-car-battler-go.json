@@ -1,0 +1,65 @@
+{
+  "id": "gekitou-car-battler-go",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gekitou! Car Battler Go!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "激闘！ カーバトラーGO！！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gekitou! Car Battler Go!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ACBJ",
+      "size": 8388608,
+      "crc32": "321b19b6",
+      "md5": "386358b358d4a578d7cdc195529016ee",
+      "sha1": "cd3d70e6cf3c7dec72d4f1f3678113d44a00facc"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "暴れ回る無法者たちが、あなたの村を取り囲む高速道路や小道を徘徊しています。もし噂を信じるなら、あなたの行方不明の父親が車両暴力の増加の原因だと非難するでしょう。だからこそ、あなたはカーバトラーとしての生活を選び、町と町の間で貨物を運び、あなたの道を横切る愚かな凶暴者たちを排除することに決めました。この厳しい仕事は簡単ではありません。他のカーバトラーたちはお金や名声のために戦いますが、あなたにはより高い目的があります。あなたは家族の失われた名誉を取り戻し、父親を家に連れ帰る決意をしています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-11-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gekitou%21%20Car%20Battler%20Go%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gekitou%21%20Car%20Battler%20Go%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gekitou%21%20Car%20Battler%20Go%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

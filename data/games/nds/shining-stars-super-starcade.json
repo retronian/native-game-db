@@ -1,0 +1,79 @@
+{
+  "id": "shining-stars-super-starcade",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shining Stars - Super Starcade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shining Stars - Super Starcade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CS2E",
+      "size": 8388608,
+      "crc32": "2cd92908",
+      "md5": "0307e32cada5e5a4dcbd49332e0e7cc9",
+      "sha1": "15d1e11aee736a9299fad4c502375645888c57ba"
+    },
+    {
+      "name": "Shining Stars - Super Starcade (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CSSP",
+      "size": 8388608,
+      "crc32": "19b7dcc2",
+      "md5": "b12500632b51f023b5fd19cdd4b61949",
+      "sha1": "bc2a12df9d4de468cad04997f1b527d69ab8c66f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48038
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shining%20Stars%20-%20Super%20Starcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shining%20Stars%20-%20Super%20Starcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shining%20Stars%20-%20Super%20Starcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shining%20Stars%20-%20Super%20Starcade%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Shining%20Stars%20-%20Super%20Starcade%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shining%20Stars%20-%20Super%20Starcade%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

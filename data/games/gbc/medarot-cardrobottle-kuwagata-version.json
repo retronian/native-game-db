@@ -1,0 +1,77 @@
+{
+  "id": "medarot-cardrobottle-kuwagata-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot Cardrobottle - Kuwagata Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット カードロボトル Medarot Cardrobottle: Kuwagata Version クワガタバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "メダロットカードロボトル クワガタバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot Cardrobottle - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "a3735f81",
+      "md5": "6eab24805e2dea9c991d679fd00a5d87",
+      "sha1": "26b5516170ea0fa1669cafb9484e1aeb5d2cae6c",
+      "sha256": "0494c0cbd9a03222ab056837107c48cb44ce6ed405087876fb63df2a32edbe6f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228618
+  },
+  "descriptions": [
+    {
+      "text": "「メダロット カードゲーム」がゲームボーイでプレイ可能になりました。カードの組み合わせにより、コンボ技を繰り出して相手に大ダメージを与えることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Medarot%20Cardrobottle%20-%20Kuwagata%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Medarot%20Cardrobottle%20-%20Kuwagata%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Medarot%20Cardrobottle%20-%20Kuwagata%20Version%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

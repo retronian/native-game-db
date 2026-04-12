@@ -1,0 +1,65 @@
+{
+  "id": "undake-30-same-game-daisakusen-mario-version",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Undake 30 - Same Game Daisakusen - Mario Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鮫亀大作戦 マリオバージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Undake 30 - Same Game Daisakusen - Mario Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "54aec111",
+      "md5": "dc4a45430f1e74c34a440c1882172ae6",
+      "sha1": "d98a8ec2688ee657b1255771afe988f1b07a2006",
+      "sha256": "b66da2a23f249e525b1dd444596a3f10559cb3c30fa3c0bca83ed8f4405fcfcf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ウンダケ30: セイムゲーム - マリオバージョン」は、ハドソンが開発し、任天堂が発売したパズルゲームで、1995年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Undake%2030%20-%20Same%20Game%20Daisakusen%20-%20Mario%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Undake%2030%20-%20Same%20Game%20Daisakusen%20-%20Mario%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Undake%2030%20-%20Same%20Game%20Daisakusen%20-%20Mario%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

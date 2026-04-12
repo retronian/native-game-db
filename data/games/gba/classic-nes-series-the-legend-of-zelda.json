@@ -1,0 +1,78 @@
+{
+  "id": "classic-nes-series-the-legend-of-zelda",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - The Legend of Zelda",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファミコンミニ Hyrule Fantasy ゼルダの伝説 1",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "NES Classics: The Legend of Zelda",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Famicom Mini: Zelda no Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - The Legend of Zelda (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FZLE",
+      "size": 1048576,
+      "crc32": "6d49cabf",
+      "md5": "df78967cea5f519d6477fe68edbfbb77",
+      "sha1": "28aac26365bf41ba84e67f97e98d15c4678cb99d",
+      "sha256": "a03c97b16ba1ba62361d5b3fed71e14fdafad814ff33671994b695f7bf0f2d20"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18066
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20The%20Legend%20of%20Zelda%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20The%20Legend%20of%20Zelda%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20The%20Legend%20of%20Zelda%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

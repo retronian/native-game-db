@@ -1,0 +1,47 @@
+{
+  "id": "ds-gostop",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DS GoStop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "DS GoStop (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YG5K",
+      "size": 67108864,
+      "crc32": "45096002",
+      "md5": "3f948af960906993627748fde62b914b",
+      "sha1": "6c7b429edf9cef68d20cc3eed047d7c312619a64"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/DS%20GoStop%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/DS%20GoStop%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/DS%20GoStop%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

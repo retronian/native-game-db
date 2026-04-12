@@ -1,0 +1,87 @@
+{
+  "id": "littlest-pet-shop-garden",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Garden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "리틀리스트 펫샵 가든",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Garden (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl,Cs)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CPSP",
+      "size": 67108864,
+      "crc32": "d879d290",
+      "md5": "0f37c18a547dd90e16ae40ef82b8e4c2",
+      "sha1": "f0b9bf9d5f37370b9b252428b18a41f30102b17e"
+    },
+    {
+      "name": "Littlest Pet Shop - Garden (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CPSE",
+      "size": 67108864,
+      "crc32": "cf270baa",
+      "md5": "e46e375f985bf40688e15764d622cb04",
+      "sha1": "a10d6726721b8e6821872ea174d120f94c4da2f7"
+    },
+    {
+      "name": "Littlest Pet Shop - Garden (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "CPSK",
+      "size": 67108864,
+      "crc32": "37dd657d",
+      "md5": "503cc41fab99b0c4849412a2dc47800e",
+      "sha1": "9e8b8b4d9ffb178a3554e4f9056aa2be50b90cd3",
+      "sha256": "deda7604f0d0d75776f4d169e424d88d2ffd54a86a433dfbd39c06d9a4bdcc88"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48020
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Garden%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Garden%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Garden%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Garden%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

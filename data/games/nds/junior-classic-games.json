@@ -1,0 +1,89 @@
+{
+  "id": "junior-classic-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Junior Classic Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Junior Classic Games (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIJE",
+      "size": 8388608,
+      "crc32": "860312ce",
+      "md5": "e48f55273350181682355d9c48f4e605",
+      "sha1": "7f09d39432b40f44861dc4d654314641081d541e"
+    },
+    {
+      "name": "Junior Classic Games (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIJP",
+      "size": 8388608,
+      "crc32": "10dbf065",
+      "md5": "20860d2d5cda3b84b8e68c92c259d765",
+      "sha1": "6f0f608051b57c6d52325ce403f182fe8cac7cdd"
+    },
+    {
+      "name": "Junior Classic Games (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CIJP",
+      "size": 8388608,
+      "crc32": "85f5cb24",
+      "md5": "5a435a683d91ea678ef09ffee035a459",
+      "sha1": "4a402ce81ec78c13935d120b663599a21b8a9688"
+    }
+  ],
+  "external_ids": {
+    "igdb": 338790
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Classic%20Games%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Classic%20Games%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

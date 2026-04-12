@@ -1,0 +1,57 @@
+{
+  "id": "feji",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Feji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Feji (Russia)",
+      "source": "no_intro",
+      "serial": "CDFR",
+      "size": 67108864,
+      "crc32": "ec18db81",
+      "md5": "f85c4e48045bd44dcafecd4b0980e9eb",
+      "sha1": "ba93edfddb3792905b85297ef2800da4dfd6872e"
+    },
+    {
+      "name": "Feji (Russia) (Beta)",
+      "source": "no_intro",
+      "serial": "CDFR",
+      "size": 67108864,
+      "crc32": "56fe90a9",
+      "md5": "b14725c8fbe89b4c679fcbb4ef94850f",
+      "sha1": "decfa477cb7e8a40f822980020cce348571204c8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Feji%20%28Russia%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Feji%20%28Russia%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Feji%20%28Russia%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Feji%20%28Russia%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

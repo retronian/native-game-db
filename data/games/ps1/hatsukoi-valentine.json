@@ -1,0 +1,59 @@
+{
+  "id": "hatsukoi-valentine",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hatsukoi Valentine",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "初恋ばれんたいん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hatsukoi Valentine (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 152290560,
+      "crc32": "8cd62f48",
+      "md5": "94f22fd1eb6fba07be5dd9d4d815a839",
+      "sha1": "d2248fbcf23f9103b11e020af9578f58c32a753d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138995
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Hatsukoi%20Valentine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Hatsukoi%20Valentine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Hatsukoi%20Valentine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

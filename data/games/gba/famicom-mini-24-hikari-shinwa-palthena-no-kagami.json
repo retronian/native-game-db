@@ -1,0 +1,66 @@
+{
+  "id": "famicom-mini-24-hikari-shinwa-palthena-no-kagami",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ 光神話 パルテナの鏡",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FPTJ",
+      "size": 4194304,
+      "crc32": "f311edac",
+      "md5": "76759e14e1a4072397c105419d702735",
+      "sha1": "cca6eb41ea8edc8115994fad2a0b329af44bb659",
+      "sha256": "7a2118c605713898a8befa0dce2835998481bcbdd92850379620450de6209e4b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ディスクシステムソフトの再発行です。このアクションアドベンチャーでは、エンジェルビットが光の女神パルテナを闇の女神メデューサから救い出し、エンジェルランドに平和を取り戻します。画面は縦スクロールで進行します。ゲームが終了すると、ビットは「やられちゃった」と言います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2024%20-%20Hikari%20Shinwa%20-%20Palthena%20no%20Kagami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2024%20-%20Hikari%20Shinwa%20-%20Palthena%20no%20Kagami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2024%20-%20Hikari%20Shinwa%20-%20Palthena%20no%20Kagami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

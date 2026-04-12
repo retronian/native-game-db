@@ -1,0 +1,68 @@
+{
+  "id": "seirei-gari",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Seirei Gari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "星霊狩り",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Seirei Gari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8025aefe",
+      "md5": "c2cafa01ec4b5f8f4e9912fd075ddfe4",
+      "sha1": "4e12e3cca303f5c06509ead3c0b79a2117714371",
+      "sha256": "1b78813efd0993ea64877f5e6e0b80d29b88306c54c6603e4134644751b50c1c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48398
+  },
+  "descriptions": [
+    {
+      "text": "少年ミチムネと少女ミウは、賢い老祖父と共に小さな家で幸せに暮らしていました。ある日、ミウの誕生日を祝おうとしていた矢先、部屋が突然暗くなり、邪悪な悪魔の姿がどこからともなく現れました。皮肉なことに、その暗い存在は祖父に向かって「久しぶりだ」と声をかけました。どうやら祖父もこの存在が誰であるかを知っていたようで、「ローゼンクルーツ」と呼びました。ローゼンクルーツは、彼が百年待っていたこと、そして今や悪の神を復活させ、世界を支配することが可能だと説明します。しかし、理由は不明ですが、彼はミウが必要だと言います。ローゼンクルーツは祖父を襲い、ミウを誘拐してしまいます！祖父が死ぬ前に言えたのは「助けて…ミウ…」という言葉だけでした。こうして、ミチムネはミウをローゼンクルーツの手から救うため、悪の地への危険な旅に出発します。\n\n「星霊狩り」は、より知られた「アンインバイテッド」や「デジャヴ」に似たホラーテーマのアドベンチャーゲームです。すべての行動はメニューからコマンドを選択することで行います。物体が「見える」ようになり、相互作用できるようになる前に、すべての場所を調べる必要があります。時には、あなたの冒険を助けてくれる仲間がそばにいることもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Seirei%20Gari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Seirei%20Gari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Seirei%20Gari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

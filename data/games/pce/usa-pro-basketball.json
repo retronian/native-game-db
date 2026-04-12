@@ -1,0 +1,60 @@
+{
+  "id": "usa-pro-basketball",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "USA Pro Basketball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "USAプロバスケットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "USA Pro Basketball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1cad4b7f",
+      "md5": "63b5ffe340e140aa2b4b2c6c8635934b",
+      "sha1": "62f3e0c56d22c015bea15fe04cd16fae380fefcd",
+      "sha256": "1f1c0158a3bfc25001ac7ccf0e65ca320109199c6d20af666d71f608a26456de"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44331
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/USA%20Pro%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/USA%20Pro%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/USA%20Pro%20Basketball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

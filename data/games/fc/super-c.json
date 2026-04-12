@@ -1,0 +1,101 @@
+{
+  "id": "super-c",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super C",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Super 魂斗羅",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Super Contra",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super C (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "8be2ac58",
+      "md5": "6cc6e1799a44f836b8183f7bb9143545",
+      "sha1": "032708cc9eb6e25d7ab43f50a3e572222f755239",
+      "sha256": "d291f87376798251cc96828b91ec36c884594194cea1d90cee7f3c103f943a25"
+    },
+    {
+      "name": "Super C (World) (Konami Collector's Series)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "d2d9df8d",
+      "md5": "16f8450f359aa1198ef6bf072cd0c110",
+      "sha1": "9c59b0c40e5e1c3aefc4929fda2b050b35af9c73",
+      "sha256": "84de0362f7f845415bbc820da5a58d5e2fb7c291e8f31ca18d70f3e3c4ca7160"
+    },
+    {
+      "name": "Super C (World) (Contra Anniversary Collection)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "d7195666",
+      "md5": "22087b0c14c726dc14fa87923f917a0b",
+      "sha1": "bf37560ba4788bb978a0e917a50d4ce2977361c6",
+      "sha256": "3e972afcd7d855744a94b5c318e5e9d83fd75a860a593243209dd297b15b1bf4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 84919
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20C%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20C%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20C%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20C%20%28World%29%20%28Contra%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20C%20%28World%29%20%28Contra%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20C%20%28World%29%20%28Contra%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

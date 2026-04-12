@@ -1,0 +1,42 @@
+{
+  "id": "puzzle-time",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Time",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B5TE",
+      "size": 8388608,
+      "crc32": "61b1e0a9",
+      "md5": "111525c5262638a2f50a9b8d5aee5223",
+      "sha1": "c054689cf7ef9b757dc4a2dee33a11ede50b21d6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Time%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

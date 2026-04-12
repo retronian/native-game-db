@@ -1,0 +1,68 @@
+{
+  "id": "monster-maker-4-flash-card",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Maker 4 - Flash Card",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスターメーカー4 フラッシュカード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Maker 4 - Flash Card (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AA4J",
+      "size": 8388608,
+      "crc32": "5e2c90ae",
+      "md5": "0d5f0320a5921f1fa6c74dd86234d305",
+      "sha1": "d3ce5b2175125730d3f2fdd92b6f463e35220ce1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49715
+  },
+  "descriptions": [
+    {
+      "text": "モンスターメーカー4 フラッシュカードは、プレイヤーがさまざまな体の部位、能力、エレメントを組み合わせて自分だけのモンスターを作成できるゲームです。これらのモンスターはトレーニングを行い、他のプレイヤーの作品と戦わせることができます。また、ゲームにはフラッシュカードシステムがあり、プレイヤーは物理的なカードを使用してレアなモンスターの部位や能力などの新しいコンテンツをアンロックすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-12-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Monster%20Maker%204%20-%20Flash%20Card%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Monster%20Maker%204%20-%20Flash%20Card%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Monster%20Maker%204%20-%20Flash%20Card%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

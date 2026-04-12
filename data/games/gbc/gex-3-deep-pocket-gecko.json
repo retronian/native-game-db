@@ -1,0 +1,60 @@
+{
+  "id": "gex-3-deep-pocket-gecko",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gex 3 - Deep Pocket Gecko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Gex 3: Deep Cover Gecko",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gex 3 - Deep Pocket Gecko (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "85a98c7d",
+      "md5": "91eb6db42e92e2df05cc2b40f0dbc2f0",
+      "sha1": "0da71536a3e92dd537c7067ec1014a262dbc3837",
+      "sha256": "af1c1c11d7039fbf03932b17629b8ad17c275d1cb638fdb2e00dab5084919cb9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49929
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gex%203%20-%20Deep%20Pocket%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gex%203%20-%20Deep%20Pocket%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gex%203%20-%20Deep%20Pocket%20Gecko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

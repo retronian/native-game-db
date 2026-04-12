@@ -1,0 +1,64 @@
+{
+  "id": "burai-senshi-color",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burai Senshi Color",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "無頼戦士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burai Senshi Color (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e52fbd12",
+      "md5": "7bbd65416ced257da963faa58536cf84",
+      "sha1": "a3b140586aac09f959260c5673dfed2ed58c1469"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "無頼戦士、悪の超知性エイリアンの種族が、半有機・半ロボットのクリーチャーであるロボミュータントの軍団を使って宇宙征服の計画を実行に移しました。彼らを止めるのはプレイヤーの役目です！ジェットパックを装着し、究極の無頼戦士になる準備を整えましょう。\n\nスペースマローダーは、2つのプレイモードを持つスクロールシューティングゲームです。ほとんどのレベルは、事前に設計されたレイアウトの横スクロールおよび縦スクロールですが、いくつかのレベルは異なり、上からの視点でランダム化されたレイアウトとなっています。いずれの場合も、プレイヤーはさまざまな武器（レーザー、ミサイル、リング）や、画面上のすべてを一掃する強力なコバルト爆弾を装備しています。\n\nスペースマローダーは、無頼戦士のゲームボーイカラー版です。ゲームプレイは全く同じで、無頼戦士と同様に3つの難易度（イーグル、アルバトロス、エース）を提供していますが、レベルのレイアウトは異なります。対戦モードは含まれていません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Burai%20Senshi%20Color%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Burai%20Senshi%20Color%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Burai%20Senshi%20Color%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

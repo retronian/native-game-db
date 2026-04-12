@@ -1,0 +1,69 @@
+{
+  "id": "taikou-risshiden",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taikou Risshiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "太閤立志伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taikou Risshiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76123-00",
+      "size": 1310720,
+      "crc32": "f96fe15b",
+      "md5": "ef127d6c09f56274822771e83487be37",
+      "sha1": "a96d6492d4e89687d970bc010eb0b93ee2481a44",
+      "sha256": "b9c90c26ea2dc2b43d5da67fa1ed7fe5349e9e4af4ab8f4529e47fe7a2acb9b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37798
+  },
+  "descriptions": [
+    {
+      "text": "太閤立志伝は、コーエーのレコエイションシリーズによるシミュレーションゲームです。1992年に日本のさまざまなコンピュータ向けに初めてリリースされ、その後、1993年にはセガメガドライブ向けに移植されましたが、日本国外では発売されませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-05-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Taikou%20Risshiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Taikou%20Risshiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Taikou%20Risshiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

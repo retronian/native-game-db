@@ -1,0 +1,65 @@
+{
+  "id": "super-arabian",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Arabian",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーアラビアン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Arabian (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "574374a2",
+      "md5": "e9f74b80e8d8dcc12626736ad28ebdd6",
+      "sha1": "2679269ca26e89ca0f546ca156d804afc7735faf",
+      "sha256": "ded5347d6c3e3b40eefc3513f8048295db00a2cb09a06834ce6d8105b5d98c68"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48665
+  },
+  "descriptions": [
+    {
+      "text": "「スーパーアラビアン」の目的は、画面上のすべての壺を集めることですが、道を阻む鳥や虫などの害虫を避けなければなりません。もし彼らに阻まれたり、攻撃されたりした場合は、彼らのアラビアンのお尻を蹴って画面から追い出すことができます。一度に二体以上の敵を蹴ることに成功すると、数秒間無敵になるアイテムが出現します。\n\n壺を集める順番は関係ありませんが、各壺には異なる文字が書かれており、画面右上に表示される順番で壺を集めると、なんと5000ポイントを獲得できます。壺を集めた後は次のレベルに進みます。各パート（セクション）には4つのレベルがあり、それぞれテーマがあります。例えば、パート1のレベル1では、ANIMALという単語を構成する文字を集める必要があります。次のレベルでは、実際の動物の名前（HORSE、RABBIT、MONKEY）を作る必要があります。また、レベルをクリアするのに時間がかかりすぎると、赤いジーニーが壺の一つから現れて攻撃してきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1985-07-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Arabian%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Arabian%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Arabian%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

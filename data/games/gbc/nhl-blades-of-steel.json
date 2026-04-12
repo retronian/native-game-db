@@ -1,0 +1,50 @@
+{
+  "id": "nhl-blades-of-steel",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NHL Blades of Steel",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "NHL Blades of Steel (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a890adb2",
+      "md5": "39f214540d2042865211e07c0536cc14",
+      "sha1": "9a93f90645b929ff0344fd256815f02b3bf33a99"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45125
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/NHL%20Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/NHL%20Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/NHL%20Blades%20of%20Steel%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

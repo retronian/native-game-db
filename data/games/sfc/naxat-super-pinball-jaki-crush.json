@@ -1,0 +1,65 @@
+{
+  "id": "naxat-super-pinball-jaki-crush",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Naxat Super Pinball - Jaki Crush",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナグザット スーパーピンボール 邪鬼破壊",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Naxat Super Pinball - Jaki Crush (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f696d5a9",
+      "md5": "db70950cbf7ff13c94ce249494b0b4d5",
+      "sha1": "ebdf6c39725cce8794fda1fd97d57354a7cc6eea",
+      "sha256": "1cc5aa732b9a6a77a30aafc20128f6c106d577c6ee78ff84b9868eae2a64a8e4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ジャキクラッシュは、クランシュピンボールシリーズの第3作で、独特の悪魔とホラーのテーマを持っています。また、このピンボールシリーズの中で、日本以外でリリースされていない唯一のタイトルです。日本の神話に登場する悪魔「ジャキ」をテーマにしており、3つのレベルに分かれた1つのテーブルと6つのフリッパーがあります。2人プレイヤー（交代制）でプレイでき、ボールの速度を変更するオプションもあります。動くターゲットや静止ターゲット、破壊可能なクリーチャーが多数存在します。開いている悪魔の口にボールを打ち込むことでアクセスできる6つのボーナスステージがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Naxat%20Super%20Pinball%20-%20Jaki%20Crush%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Naxat%20Super%20Pinball%20-%20Jaki%20Crush%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Naxat%20Super%20Pinball%20-%20Jaki%20Crush%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

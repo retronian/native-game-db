@@ -1,0 +1,38 @@
+{
+  "id": "k3-karaoke",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "K3 Karaoke",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "K3 Karaoke (Netherlands)",
+      "source": "no_intro",
+      "serial": "TKAH",
+      "size": 33554432,
+      "crc32": "1e82ac1a",
+      "md5": "1c2e31ec285c61024951522ce35caf4c",
+      "sha1": "dcea509940dec53faf5cf373e39e7a4d5f7bbccf"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/K3%20Karaoke%20%28Netherlands%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/K3%20Karaoke%20%28Netherlands%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

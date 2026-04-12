@@ -1,0 +1,48 @@
+{
+  "id": "solitaire-overload",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solitaire Overload",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solitaire Overload (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YOVE",
+      "size": 8388608,
+      "crc32": "8b8fe107",
+      "md5": "6eb40e95fa2dd814b70e521df874b205",
+      "sha1": "4b0d4970f3e36ad10ca99967d495176243188128"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Solitaire%20Overload%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Solitaire%20Overload%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Solitaire%20Overload%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

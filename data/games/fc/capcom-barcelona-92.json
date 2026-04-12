@@ -1,0 +1,74 @@
+{
+  "id": "capcom-barcelona-92",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Capcom Barcelona '92",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バルセロナ '92",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "CAPCOMバルセロナ'92",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Capcom Barcelona '92 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b054f576",
+      "md5": "a17eef159c7a743deaeac453eb09ba4c",
+      "sha1": "8a17081f0a9b31f70f4046b00e9f2444ce68c72a",
+      "sha256": "f87747ac697d34f6742783849c3acd650f919916c1af00a0690889128e84824a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "世界クラスの競技の精神を感じよう！カプコンの「ゴールドメダルチャレンジ '92」で、最大7人の友達と共に18のスリリングなイベントでトレーニングし、競い合おう。今こそ本気で体を動かす時だ！ウエイトリフティングで友達を圧倒し、100メートルダッシュで彼らを置き去りにしよう。水泳競技では大きな波を立てて、他の選手を引き離そう。跳馬では完璧な10点を獲得し、観客が熱狂する様子を楽しもう！カプコンの「ゴールドメダルチャレンジ '92」では、世界クラスの競技のスリルと興奮があなたの指先にある！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Capcom%20Barcelona%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Capcom%20Barcelona%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Capcom%20Barcelona%20%2792%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

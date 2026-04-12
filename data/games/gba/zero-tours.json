@@ -1,0 +1,77 @@
+{
+  "id": "zero-tours",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zero-Tours",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゼロ・ツアーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Mugen Kinogyou Zero Tours",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zero-Tours (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AZTJ",
+      "size": 4194304,
+      "crc32": "de7c1ae8",
+      "md5": "ec8fde05b426bc7fb37fc6589018c7d9",
+      "sha1": "e22ec490683e26dff591459da377c101638b0ed0",
+      "sha256": "4cb55fff4e7daecb16ebeec1b5fb11fc866776c03ae1d472ad8a8dbf0dc6a254"
+    }
+  ],
+  "external_ids": {
+    "igdb": 278098
+  },
+  "descriptions": [
+    {
+      "text": "ツアーコンダクターフェアリーと共に冒険するRPGです。モバイルアダプターGBを使って新しい「ツアーレコーダー」をダウンロードすることで、別の街に行くことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zero-Tours%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zero-Tours%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zero-Tours%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

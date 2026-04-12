@@ -1,0 +1,64 @@
+{
+  "id": "space-invaders-x",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space Invaders X",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スペースインベーダーX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Space Invaders X (Japan) (En) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c016bc79",
+      "md5": "a1304bdefa239600bd6116081bae2e23",
+      "sha1": "40d16062bf170647cdf060359fc65ff02350f40a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1978年、地球は「タンク」のおかげで宇宙からの侵略を見事に撃退しました。タンクは、数年前にスカウトシップが墜落した際に発見された異星技術に基づいていました。今から20年以上が経ち、1978年の侵略時に回収された技術を基に新しいタンクが作られました。そして、まさにその時、侵略者たちが戻ってきました！\n\n「スペースインベーダー」は、アクティビジョンによるもう一つのクラシックアーケードゲームのリメイクです。（「バトルゾーン」や「アステロイド」を参照。）今回は、アクティビジョンがアタリではなくタイトーからゲームのライセンスを取得しました。ゲームはそのルーツに忠実でありながら、多くのパワーアップや敵を追加しています。\n\nプレイヤーは1人または2人で、整然とした列と行で画面を進む侵略者たちと戦うことができ、3つのスキルレベルから選べます。最初は冥王星から始まり、太陽系を通って火星、金星、そして最終的には地球へと進んでいきます。一般的なエイリアンは赤、緑、青、黄色の4種類に加え、さらに7種類の珍しいエイリアンが登場します。同じ種類の侵略者を4体連続で撃つことで、特別な一回限りのパワーアップを獲得できます。オリジナルのゲームと同様に、アクションの上空を飛ぶマザーシップも存在しますが、このバージョンではそれに当たることでシールドやダブルショットなどの便利なパワーアップを手に入れることができます。さらに、各惑星で数波の敵を撃退した後には、ユニークなボスと対決します。ゲームをクリアすると、オリジナルのコインオペレーション版をプレイできるようになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Space%20Invaders%20X%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Space%20Invaders%20X%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Space%20Invaders%20X%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

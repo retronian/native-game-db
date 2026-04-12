@@ -1,0 +1,76 @@
+{
+  "id": "beatmania-gb-gotcha-mix-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beatmania GB - Gotcha Mix 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガッチャミックス2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ビートマニアGB ガッチャミックス2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beatmania GB - Gotcha Mix 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b92a6d16",
+      "md5": "490cf7b762f7b735f249c3a3107c3e55",
+      "sha1": "dcd054d461cde099df09ed61a77b05fbacd7af0b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65667
+  },
+  "descriptions": [
+    {
+      "text": "落ちてくるバーに合わせて、適切なタイミングで正しいボタンを押すお馴染みの音楽アクション。ゲームには、誰もが知っているメジャーな曲を中心に、20曲以上が収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Beatmania%20GB%20-%20Gotcha%20Mix%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Beatmania%20GB%20-%20Gotcha%20Mix%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Beatmania%20GB%20-%20Gotcha%20Mix%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

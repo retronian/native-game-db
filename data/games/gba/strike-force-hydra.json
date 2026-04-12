@@ -1,0 +1,79 @@
+{
+  "id": "strike-force-hydra",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Strike Force Hydra",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Strike Force Hydra (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFHP",
+      "size": 4194304,
+      "crc32": "277d2c89",
+      "md5": "468fba45dbd02710705e3fdbddb3a6df",
+      "sha1": "4203315be9e7ce1801cddf294cd18e98c9c9e8b0"
+    },
+    {
+      "name": "Strike Force Hydra (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFHE",
+      "size": 4194304,
+      "crc32": "5aeea1de",
+      "md5": "531b1f6688e0c646b23f78d4019dd42e",
+      "sha1": "39fcdd20cb253d9a0292208902994381a3ba7c27"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49381
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Strike%20Force%20Hydra%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Strike%20Force%20Hydra%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Strike%20Force%20Hydra%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Strike%20Force%20Hydra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Strike%20Force%20Hydra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Strike%20Force%20Hydra%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

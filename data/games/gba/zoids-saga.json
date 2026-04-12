@@ -1,0 +1,80 @@
+{
+  "id": "zoids-saga",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoids Saga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoids Saga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATZJ",
+      "size": 8388608,
+      "crc32": "5975dda8",
+      "md5": "36545c66bf7abdbced2b294a7dd8d419",
+      "sha1": "75d8c15ac281ea93c8ac7cc7641c490799557081"
+    },
+    {
+      "name": "Zoids Saga (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATZJ",
+      "size": 8388608,
+      "crc32": "28e8b0d9",
+      "md5": "1793a537f75831900b1131b8bcaba63d",
+      "sha1": "70bb546a7d00126d452c1d2c1ccddafb2cb91b37",
+      "sha256": "c307db042aed8d4cdd97dbfe3a169b5880ef5360dc672f7ec9352ba9a6be56e1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49460
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zoids%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zoids%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zoids%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zoids%20Saga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zoids%20Saga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zoids%20Saga%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

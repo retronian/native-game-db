@@ -1,0 +1,44 @@
+{
+  "id": "card-sharks",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Card Sharks",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 392954
+  },
+  "roms": [
+    {
+      "name": "Card Sharks (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "e2b2dcfe",
+      "md5": "20bcf9a299d0f8de3c36f01c16813162",
+      "sha1": "f5e1850efa9ac1df8a879815d4193a1157408ca3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Card%20Sharks%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Card%20Sharks%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

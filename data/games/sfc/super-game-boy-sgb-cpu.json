@@ -1,0 +1,43 @@
+{
+  "id": "super-game-boy-sgb-cpu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Game Boy SGB-CPU",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Game Boy SGB-CPU (World) (Enhancement Chip)",
+      "source": "no_intro",
+      "size": 256,
+      "crc32": "ec8a83b9",
+      "md5": "d574d4f9c12f305074798f54c091a8b4",
+      "sha1": "aa2f50a77dfb4823da96ba99309085a3c6278515",
+      "sha256": "0e4ddff32fc9d1eeaae812a157dd246459b00c9e14f2f61751f661f32361e360"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Game%20Boy%20SGB-CPU%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Game%20Boy%20SGB-CPU%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Game%20Boy%20SGB-CPU%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

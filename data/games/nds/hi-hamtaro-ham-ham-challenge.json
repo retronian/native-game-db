@@ -1,0 +1,85 @@
+{
+  "id": "hi-hamtaro-ham-ham-challenge",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hi! Hamtaro - Ham-Ham Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "とっとこハム太郎 はーい！ハムちゃんずのハムハムチャレンジ！あつまれはーい！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Hi! Hamtaro: Little Hamsters Big Adventures - Ham-Ham Training",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hi! Hamtaro - Ham-Ham Challenge (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A8CP",
+      "size": 33554432,
+      "crc32": "97e127e9",
+      "md5": "444be6271961a31bab16b70a7fbb60b6",
+      "sha1": "f94d33b6151a4dda2e92fc2136849745f59112fa"
+    },
+    {
+      "name": "Hi! Hamtaro - Ham-Ham Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A8CE",
+      "size": 33554432,
+      "crc32": "2f39d4af",
+      "md5": "d8cabb9c897e82a58f19957109dc167a",
+      "sha1": "7ee08fa051e9d343d6c071e0163c5222c9775105"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77875
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hi%21%20Hamtaro%20-%20Ham-Ham%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hi%21%20Hamtaro%20-%20Ham-Ham%20Challenge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hi%21%20Hamtaro%20-%20Ham-Ham%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hi%21%20Hamtaro%20-%20Ham-Ham%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "world-jockey",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Jockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドジョッキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Jockey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a9ab2954",
+      "md5": "5614339b28e660212ab596311f4f59d3",
+      "sha1": "9fdeb0c34ea8b8d2a09aeb476435ef9d92e75573",
+      "sha256": "5d6d21bafad1daddce338da166b3258210b5c03e5cfbab835c41ed694986c7bb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37650
+  },
+  "first_release_date": "1991-09-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/World%20Jockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/World%20Jockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/World%20Jockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

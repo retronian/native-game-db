@@ -1,0 +1,74 @@
+{
+  "id": "kabushiki-doujou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kabushiki Doujou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "株式道場 実践編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "株式道場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kabushiki Doujou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3eea69fc",
+      "md5": "590c9a2edffb48eacbc2f66105a72aed",
+      "sha1": "2ab9e1f567ee074edd7bcc8983c0b323bcc609a7",
+      "sha256": "b5313d089b856e4ebc2b28827c256b4fe00094117e306693b6e44f396aa5ae14"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "株式道場 実践編は、株式取引のシミュレーションゲームです。プレイヤーは株式市場に賢く投資し、豊かなポートフォリオを築くことを目指します。定期的に設定される金銭目標を達成するために、株を購入、売却、管理し、できるだけ多くの富を得ることが求められます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-05-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kabushiki%20Doujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kabushiki%20Doujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kabushiki%20Doujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

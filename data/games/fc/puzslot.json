@@ -1,0 +1,68 @@
+{
+  "id": "puzslot",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzslot",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズロット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzslot (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "08449023",
+      "md5": "71a1e83a46701ad26839c35b61fbe8ae",
+      "sha1": "8d0fcbeadd4524d5f648b88c2bf47506025d466a",
+      "sha256": "e59a6d5e4291d6840a9c28c96b76b774bd713fd5ff0e325381522e814c365881"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267755
+  },
+  "descriptions": [
+    {
+      "text": "パズロットは、ユニークなスロットマシンメカニクスを持つ落下ブロックパズルゲームです。ブロックはペアで落下し、Aボタンで回転させることができ（ぷよぷよに似ています）、3つ以上の同じブロックが直線で揃うと消えます（カラムズに似ています）。ユニークな要素は、落下するブロックがすべての絵柄をサイクルし、ブロックが着地するか、プレイヤーがBボタンを押すと停止することです。得点は、どの絵柄が揃ったか（7とBARは非常に高得点）、消去されたラインのブロック数、そしてチェインコンボに基づいて与えられます。各レベルには、ブロックカウンターが0になる前にクリアしなければならないスコア目標があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-02-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Puzslot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Puzslot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Puzslot%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

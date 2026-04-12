@@ -1,0 +1,60 @@
+{
+  "id": "bomberman-users-battle",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman - Users Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマン ユーザーズバトル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman - Users Battle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "1489fa51",
+      "md5": "dccedf6d85ea5cf9c37c1c963b328735",
+      "sha1": "96ba02050843cacb149859128a8f3313bff44358",
+      "sha256": "48f1521e854a79824bc21de8cdc94b3358d90e986b4f211c289895f824a3aad6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42055
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Bomberman%20-%20Users%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Bomberman%20-%20Users%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Bomberman%20-%20Users%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

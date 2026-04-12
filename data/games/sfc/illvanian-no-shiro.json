@@ -1,0 +1,67 @@
+{
+  "id": "illvanian-no-shiro",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Illvanian no Shiro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "イルバニアンの城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Illvanian no Shiro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "f568579f",
+      "md5": "3431098aee5ccbb4586a9627a38b6299",
+      "sha1": "0398f95ce8efc27fe794ae677e68b21f96c2e78d",
+      "sha256": "a91ad46841b7481a4a5dce158586a7391582c72e117b9e11ce5b183193f6ec5f"
+    },
+    {
+      "name": "Illvanian no Shiro (Japan) (Beta) (1994-08-23)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5f693504",
+      "md5": "c2ba60d99413cf97b0b1530e5d506820",
+      "sha1": "006c75233f5ea1a4f3fdfb4ed656f0e3e595c799",
+      "sha256": "738c2cbaa713ccb22714ea16a9abe585caff1cd2d1aa0bc1ba306160723363c0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Illvanian%20no%20Shiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Illvanian%20no%20Shiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Illvanian%20no%20Shiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

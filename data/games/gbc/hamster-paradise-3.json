@@ -1,0 +1,76 @@
+{
+  "id": "hamster-paradise-3",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Paradise 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスターパラダイス3 ちゅりー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ハムスターパラダイス3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Paradise 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "14cac67c",
+      "md5": "18eca52a51880410614cfc4ad65ee34c",
+      "sha1": "9d8e482afad5b8786bf289640fc275b7787fbea3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281546
+  },
+  "descriptions": [
+    {
+      "text": "この作品では、ゴールデンハムスター、ジャンガリアンハムスター、ロボロフスキーハムスターの中からお気に入りのハムスターを育てることができます。前作で人気だったミニウサギに加え、リスも登場しました。ハムスターと一緒に遊べる楽しいミニゲームもたくさんあります。ハムスターホイールやハムキャッチなどのお馴染みのゲームに加え、新しいゲームも追加されており、その数は数十種類以上です。ケージは二階建ての建物に変身しました。上下に移動しながら遊ぶことができます。公園やお店だけでなく、ハムスターと一緒に出かけられる遊園地や学校も増えました。ゲーム内のさまざまな場所で手に入るステッカーを集めたり、赤外線通信を通じて友達とメールを交換したりすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Paradise%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Paradise%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Paradise%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

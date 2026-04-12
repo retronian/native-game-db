@@ -1,0 +1,69 @@
+{
+  "id": "miracle-casino-paradise",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Miracle Casino Paradise",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミラクルカジノパラダイス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "みらくるカジノパラダイス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Miracle Casino Paradise (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "db6b9db1",
+      "md5": "205bce99c37da293f370e81310632c20",
+      "sha1": "723bcab119f733d0ca9b7e46cc94c83ff83f4a9f",
+      "sha256": "62a04e735c673a41448602db82ee24255e4a82f00ed4f5153123da7fe2de7eba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37926
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Miracle%20Casino%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Miracle%20Casino%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Miracle%20Casino%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

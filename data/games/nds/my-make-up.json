@@ -1,0 +1,80 @@
+{
+  "id": "my-make-up",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Make-Up",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Make-Up (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMUP",
+      "size": 16777216,
+      "crc32": "0f92a1c8",
+      "md5": "738c172c2d8eb4753c06654bbdf1546d",
+      "sha1": "9c66cbb7f4145ac40b957df814819d542ffe8946",
+      "sha256": "487dd9929eeb95927c55c7b3b91035f5d13b75f3d0a0823c70ca28ffe42be02b"
+    },
+    {
+      "name": "My Make-Up (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CMUE",
+      "size": 16777216,
+      "crc32": "5aab7e1e",
+      "md5": "371fc6528e112ed8bd8e9bccb725c893",
+      "sha1": "395ae8b285f636f940eb0030c83eb1f79a626511"
+    }
+  ],
+  "external_ids": {
+    "igdb": 93985
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Make-Up%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Make-Up%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Make-Up%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Make-Up%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Make-Up%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Make-Up%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

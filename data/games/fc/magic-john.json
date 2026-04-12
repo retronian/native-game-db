@@ -1,0 +1,77 @@
+{
+  "id": "magic-john",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magic John",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マジック・ジョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "マジックジョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magic John (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3693622e",
+      "md5": "ed254c574dc76e00570fe6b70debe6aa",
+      "sha1": "8b2b3cacdf147496f4830f40860d62efb0f00e82",
+      "sha256": "9016edf86ec64c49a4244ef1d223d743e0ab0d74757a2b9ad72755534d1ff9b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215143
+  },
+  "descriptions": [
+    {
+      "text": "トータリー・ラッドは、マジシャン志望のジェイクを操作するアクションアドベンチャーゲームです。彼はマスター・マジシャンのゼベダイアに訓練を受けています。ある日、訓練中にジェイクは不意に襲われ、彼のガールフレンドであるアリソンが誘拐されてしまいます。そこで、ジェイクは彼女を救い出し、この襲撃の背後にある真実を探ることになります。\n\nこのゲームは横スクロール型で、同じカテゴリーに属する多くのゲームに共通する基本的な操作方法があります：移動、ジャンプ、攻撃です。基本の武器はエネルギーボールのようなもので、ボタンを数秒間押し続けることで最大パワーまでチャージできます。ジェイクはゼベダイアからまだ魔法を学んでいるはずですが、最初からすべての魔法の力を使うことができます。スタートボタンを押すと表示されるリストから、使用したい魔法を選択できます。利用可能な魔法の力には、回復、時間停止、無敵、元素の力（火、水、風、土）、そして3種類の変身があります。変身すると、ブーメランのようなものを投げる飛行型、忍者の星を投げて泳げる魚型、手から電撃を放ち、ジャンプ中は無敵になる猫型のキャラクターに変身できます。ゲーム中に成長することはなく、健康と魔法のバーは増えません。\n\nトータリー・ラッドは、その名の通り、トータリー、ナリー、デュード、エクセレント、ディーセント、ライトフルなどのスラングが常に使われるゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20John%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magic%20John%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20John%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

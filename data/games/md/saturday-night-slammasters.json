@@ -1,0 +1,78 @@
+{
+  "id": "saturday-night-slammasters",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saturday Night Slammasters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saturday Night Slammasters (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-12066-00",
+      "size": 4194304,
+      "crc32": "08fa5a3f",
+      "md5": "46cf34781f2edca26059e99d422cdfe3",
+      "sha1": "f67f324165abdf148f80aabb319375dc3a504e17",
+      "sha256": "6c1d2906fcbfb7b67499c7b2007f50dbe4380c2c1c2662755a1ddbbeb2595173"
+    },
+    {
+      "name": "Saturday Night Slammasters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-12066-00",
+      "size": 4194304,
+      "crc32": "2fb4eaba",
+      "md5": "6531e481e57e9243f492718a88a2419b",
+      "sha1": "7252006bf41e41b92c6261c6722766a1352a6dca",
+      "sha256": "57931d7ead3a222f9fbd49dc37422bc821b8c39c16489bbc4f28656e1b18f52f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Saturday%20Night%20Slammasters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Saturday%20Night%20Slammasters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Saturday%20Night%20Slammasters%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Saturday%20Night%20Slammasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Saturday%20Night%20Slammasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Saturday%20Night%20Slammasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "littlest-pet-shop-spring",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Spring",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Spring (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "COQP",
+      "size": 67108864,
+      "crc32": "a9239fca",
+      "md5": "9bbaf0fdbf4b7e535214ddd8c519d703",
+      "sha1": "c072691a13eeaa71aa673692eb99a21e835c0f85",
+      "sha256": "5895dd9b4ff5f575e458c04e70fa5dfd60db9297e05c555cc85f1d752c71e4e5"
+    },
+    {
+      "name": "Littlest Pet Shop - Spring (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "COQE",
+      "size": 67108864,
+      "crc32": "bca0b810",
+      "md5": "519d515814ce6acf6cddae7b67dfb971",
+      "sha1": "c6a669d746ec800d6e34d425c5371ada7ea3552d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68040
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Spring%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Spring%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Spring%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Spring%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

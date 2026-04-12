@@ -1,0 +1,96 @@
+{
+  "id": "tenkaichi-bushi-keru-naguuru",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenkaichi Bushi - Keru Naguuru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ケルナグール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenkaichi Bushi - Keru Naguuru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "76d59753",
+      "md5": "48f8ffe105f409f6f8d83c199f94fda7",
+      "sha1": "d8cf617ee52b34fa2b8813b7f84c575b50ea76e6",
+      "sha256": "d2f3daa866ee3b4c64d41480eb9a1e772a0c42ec43c7e860bc4ceaeabe75cb6c"
+    },
+    {
+      "name": "Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 196624,
+      "crc32": "07933d22",
+      "md5": "234831bbd8692aa7a88289378ad71eb0",
+      "sha1": "69897ab3f89bbab330af121b42253755e98cbe74",
+      "sha256": "e7ece758b3f52c9b225c6911394c70eb282babc8be07c16859417543df5c96e7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48389
+  },
+  "descriptions": [
+    {
+      "text": "天下一武士は、古代中国を舞台にした1対1の武道格闘ゲームです。\n\n独特のカートゥーンデザインの2D横スクロールグラフィックを使用し、プレイヤーは1人のファイターを操作して、単発の戦いで対戦相手を打ち倒そうとします。戦闘は、方向キーと組み合わせて押すことで様々な技を繰り出せる単一の攻撃ボタンで制御されます。これらの技は各ファイターごとに異なり、プレイヤーは15人の異なるファイターから選択でき、それぞれに独自のステータスと技があります。他のファイターと競い合い、グランドマスターの名誉を手に入れることを目指します。\n\nさらに、ゲームにはストーリーモードがあり、プレイヤーは1人の武道家を操作し、挑戦者を求めて田舎を巡ることができます（その際は上から見下ろすマップビューで行います）。初期の能力と体力は最小限ですが、対戦相手を打ち負かすことでプレイヤーの体力が増加し、ファイターは新しい技を習得し、究極の戦士へと成長していきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-07-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tenkaichi%20Bushi%20-%20Keru%20Naguuru%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

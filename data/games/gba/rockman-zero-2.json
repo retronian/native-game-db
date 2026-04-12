@@ -1,0 +1,95 @@
+{
+  "id": "rockman-zero-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman Zero 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロックマン ゼロ2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman Zero 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A62J",
+      "size": 8388608,
+      "crc32": "9b5c8a4c",
+      "md5": "4b59ceea0351defb6eb4bad1dcfb38bd",
+      "sha1": "4d5063c9729ef32f6470088fe4d3cde5375baf3c",
+      "sha256": "1f1642657e7f5ed3215de287d414aa141d6d70402ffe6d6ad2cf7ef0bcd4943d"
+    },
+    {
+      "name": "Rockman Zero 2 (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A62J",
+      "size": 8388608,
+      "crc32": "b88847aa",
+      "md5": "18d8c779e0b0c50be33b84374d1f57b8",
+      "sha1": "1c77beeddf2511b3e1dcc1500d655b6db671eb45",
+      "sha256": "9b2d7135323509a32086ab409e6146f73f32940cc4d69e8ddac26b8627be8a13"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "『ロックマン ゼロ2』の物語は、『ロックマン ゼロ』の出来事から1年後に始まります。英雄ゼロは、再び世界を救うための戦いに巻き込まれています。レプリロイドと人間の間で揺れ動く中、ネオアルカディアの新しい指揮官は、ゼロを騙して彼女を助けさせていますが、その理由は不明です。\n\n問題を解決するために、ゼロはレベルを次々とクリアしなければなりません。新しい武器「チェインロッド」を使って、足場にグラップルし、手の届かないアイテムを集めたり、上から敵を攻撃したりすることで有利に戦いを進めます。また、サイバーエルフを集めることで、役立つパワーアップを得ることができます。\n\nシリーズに新たに加わったのは、2人対戦チャレンジモードです。レベルを最初にクリアした方が勝利となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-05-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Rockman%20Zero%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Rockman%20Zero%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Rockman%20Zero%202%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

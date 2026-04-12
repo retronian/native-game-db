@@ -1,0 +1,54 @@
+{
+  "id": "tsukibito",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsukibito",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ツキビト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsukibito (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C2VJ",
+      "size": 268435456,
+      "crc32": "6d4ba346",
+      "md5": "3c832a1461d0ee327c404fdd9acc57b0",
+      "sha1": "9454be81d9acbd62a0fc260640b8e1f46ee0810e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59402
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tsukibito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tsukibito%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

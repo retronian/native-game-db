@@ -1,0 +1,124 @@
+{
+  "id": "rush-n-attack",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rush'n Attack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "グリーンベレー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Green Beret",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rush'n Attack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "04e161f5",
+      "md5": "e24f4acd4105059a8b04266ea11477ec",
+      "sha1": "1c9fb9df3e7faad766fff0e17b5a9757e75b47ce",
+      "sha256": "c342eb3224fdcac12ddff0e0dae51ee557022c543427e62e446712ec9cb2729f"
+    },
+    {
+      "name": "Rush'n Attack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "7aebb5e7",
+      "md5": "3d8d171cfa55940d7f0ceff045cbe2f4",
+      "sha1": "d9119cfb91c2980c542aff19600432119939cf0b",
+      "sha256": "5196bbc8a62e49853cdfba36bc23648fe25334faeb8dd0ec74a772424bf70777"
+    },
+    {
+      "name": "Rush'n Attack (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "edc37091",
+      "md5": "8d42752a5b0526188a6f2f27c01d877d",
+      "sha1": "65a8a66caee3c37cb3e1e4fe92396be95ad5d0ed",
+      "sha256": "d7ac1bbf918ea06962fe2e132d94a320cc5367be92a8e0b148cd45dfdf8526af"
+    },
+    {
+      "name": "Rush'n Attack (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "d471960d",
+      "md5": "afecef2485b17fce11400696892947d1",
+      "sha1": "ae824d6f963d3cd26d427d030e0aa3b40d6b7aa9",
+      "sha256": "d9c54175415323c759754a5d739ddb1376f602dc697c3360d0720e168f9a9f32"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287587
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rush%27n%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rush%27n%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rush%27n%20Attack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Rush%27n%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rush%27n%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rush%27n%20Attack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rush%27n%20Attack%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rush%27n%20Attack%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

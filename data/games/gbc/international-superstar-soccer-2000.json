@@ -1,0 +1,95 @@
+{
+  "id": "international-superstar-soccer-2000",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "International Superstar Soccer 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ワールドサッカーGB 2000",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "World Soccer GB 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "International Superstar Soccer 2000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 2097152,
+      "crc32": "57ea1ec8",
+      "md5": "c202f380d697a36347aa1fb628e89c4b",
+      "sha1": "3ef4adaff3a9d36dc6986a5944280162768c441d",
+      "sha256": "de653c9e7effe16fb298e2d58201ca4722fb72a87304f13fe23e1e4c7d919ce5"
+    },
+    {
+      "name": "International Superstar Soccer 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "e8fa7203",
+      "md5": "344b42a5bf2f591c0ec86cae24238d6d",
+      "sha1": "117415d3620fab07066cd5a3ffb438d05bfd940a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 220857
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/International%20Superstar%20Soccer%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/International%20Superstar%20Soccer%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/International%20Superstar%20Soccer%202000%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/International%20Superstar%20Soccer%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/International%20Superstar%20Soccer%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/International%20Superstar%20Soccer%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

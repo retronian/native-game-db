@@ -1,0 +1,102 @@
+{
+  "id": "super-okumanchouja-game",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Okumanchouja Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "億万長者ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパー億万長者ゲーム THE GAME OF BILLIONAIRE",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Okumanchouja Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4998a9d6",
+      "md5": "864fea76885e76577e56378b56f47012",
+      "sha1": "a29958db07c3bf3f9731da75844a0835f21b34e7",
+      "sha256": "ccc82628011ed3fa82a23cbc528850223038a75c7c9b2c98ae1a8b6789bf16a0"
+    },
+    {
+      "name": "Super Okumanchouja Game (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "12d589f8",
+      "md5": "471b32bed8a1b45ae295a7aa944d18a8",
+      "sha1": "389f94cf62740311b0713c2511c9644af75bf471",
+      "sha256": "9d1de158e5d8721dd0182a84aa2a9904a475b4979b8a05bab65c5055dd132bd4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパ億万長者ゲームは、商業と不動産開発をテーマにしたマルチプレイヤーのバーチャルボードゲームで、モノポリーに似ています。世界の国々を基にしたマップ、未来的な東京を基にしたマップ、歴史的な江戸を基にしたマップの3つの異なるマップで、プレイヤーはボードを移動し、止まった物件を購入・開発します。目標は、最も多くのお金を稼ぐこと、または対戦相手を破産させることです。\n\nこのゲームは「億万長者」シリーズの第3作ですが、スーパーファミコンでリリースされた唯一の作品です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-11-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Okumanchouja%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Okumanchouja%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Okumanchouja%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Okumanchouja%20Game%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Okumanchouja%20Game%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Okumanchouja%20Game%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

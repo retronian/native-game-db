@@ -1,0 +1,56 @@
+{
+  "id": "sted-iseki-wakusei-no-yabou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "STED - Iseki Wakusei no Yabou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ステッド 遺跡惑星の野望",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "STED - Iseki Wakusei no Yabou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "cdb4062c",
+      "md5": "763a622cef50884dc7135dc7d3d6e6ee",
+      "sha1": "221586bd1270da6e1b6b9cbd9b8c66af1999abbb",
+      "sha256": "380b3fd55af800cc2b5332f4dc0dc774f054afdac91068e6c633542886427ca3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48703
+  },
+  "descriptions": [
+    {
+      "text": "星の日付 0991... 銀河系... 銀河内でモンスターの活動が突然増加。私たちのヒーローたちは、近くの惑星からの神秘的な救難信号を受信し、それを調査し始めます。\n\nこのゲームは、1人称視点でのターン制バトルを特徴としており、攻撃中または攻撃されている敵のみが表示されます。町では、キャラクターは武器（充電が必要なエネルギー兵器を含む）、アイテム、防具、魔法（ESPと呼ばれる）、または怪我の手当て（異なる部位がダメージを受けることがあります）を購入することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/STED%20-%20Iseki%20Wakusei%20no%20Yabou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

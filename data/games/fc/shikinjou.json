@@ -1,0 +1,68 @@
+{
+  "id": "shikinjou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shikinjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "紫禁城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shikinjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "cccd87ce",
+      "md5": "d2b173c03655258aa42919374d699240",
+      "sha1": "46bc15e30d2ac5a9333b7fab85669d1c33f2e711",
+      "sha256": "8656ef0a7bd47705a8a31ac003e7c0f01be75c2dd2a26779bb1e72ddd98eec79"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267756
+  },
+  "descriptions": [
+    {
+      "text": "紫禁城。中国の古い都市を舞台にしたアドベンチャーRPG。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "backyard-football",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backyard Football",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backyard Football (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YARE",
+      "size": 16777216,
+      "crc32": "72fd1674",
+      "md5": "e73987e6342c192a42cd15c5c3ccf054",
+      "sha1": "d862fe489239c05460c09eaa1ba9e5b6e1eb76c0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122751
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Backyard%20Football%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

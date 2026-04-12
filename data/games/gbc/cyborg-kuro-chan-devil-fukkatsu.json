@@ -1,0 +1,76 @@
+{
+  "id": "cyborg-kuro-chan-devil-fukkatsu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cyborg Kuro-chan - Devil Fukkatsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サイボーグクロちゃん デビル復活!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "サイボーグクロちゃん 〜デビル復活!!〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cyborg Kuro-chan - Devil Fukkatsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "392d630f",
+      "md5": "2082a3c919f07c076aa7de6363544536",
+      "sha1": "b544d1a49128bc5ab3664ced872d2d1dcc51b667"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65612
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーがステージ上のすべての敵やオブジェクトを破壊するアクションゲームです。さまざまな武器を集めて、強力なボスに挑みましょう。他のプレイヤーと武器を競うこともできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Cyborg%20Kuro-chan%20-%20Devil%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Cyborg%20Kuro-chan%20-%20Devil%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Cyborg%20Kuro-chan%20-%20Devil%20Fukkatsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

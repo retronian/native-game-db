@@ -1,0 +1,67 @@
+{
+  "id": "classic-word-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic Word Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic Word Games (USA) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VCWE",
+      "size": 33554432,
+      "crc32": "741e5dac",
+      "md5": "9e28b09f23e58fe9314f80e0615f73fd",
+      "sha1": "7c263db1c5aee33e48365e3c05d3c00fb35f5572"
+    },
+    {
+      "name": "Classic Word Games (Europe) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VCWV",
+      "size": 33554432,
+      "crc32": "1baade63",
+      "md5": "30ad70c9b492458d02f019398b379bfb",
+      "sha1": "0b3373878324510526951f27325699de09270fa3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79535
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Classic%20Word%20Games%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Classic%20Word%20Games%20%28USA%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Classic%20Word%20Games%20%28Europe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Classic%20Word%20Games%20%28Europe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

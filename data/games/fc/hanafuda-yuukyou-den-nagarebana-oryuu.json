@@ -1,0 +1,86 @@
+{
+  "id": "hanafuda-yuukyou-den-nagarebana-oryuu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hanafuda Yuukyou-den: Nagarebana Oryuu",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "Hanafuda Yuukyou Den - Nagarebana Oryuu",
+      "lang": "en",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": false
+    },
+    {
+      "text": "花札遊侠伝 流れ花お竜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "花札侠遊伝 流れ花　お竜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 267655
+  },
+  "first_release_date": "1991-12-31",
+  "descriptions": [
+    {
+      "text": "花札遊侠伝。任侠をテーマにした花札ゲームで流れ花のお竜が主人公。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 98320,
+      "crc32": "bba0a39a",
+      "md5": "5b0bd90d58ea52d508b9e9246357ee0b",
+      "sha1": "0bb14c4ee14e2cf63d3327bc476376746be24081",
+      "sha256": "04656c808d1845f69ceaa21592cc281babed0b40d7dc384988ebf807aa26e1a9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hanafuda%20Yuukyou%20Den%20-%20Nagarebana%20Oryuu%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hanafuda%20Yuukyou%20Den%20-%20Nagarebana%20Oryuu%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hanafuda%20Yuukyou%20Den%20-%20Nagarebana%20Oryuu%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

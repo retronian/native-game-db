@@ -1,0 +1,108 @@
+{
+  "id": "escape-the-museum",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Escape the Museum",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Escape the Museum (Germany)",
+      "source": "no_intro",
+      "serial": "BE3D",
+      "size": 67108864,
+      "crc32": "f061940f",
+      "md5": "9e2c42d21646f5dfd3612c9532cc1ee6",
+      "sha1": "ffc918b757ba190504800a22b5f9f023470061fb"
+    },
+    {
+      "name": "Escape the Museum (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BESE",
+      "size": 67108864,
+      "crc32": "27aea4aa",
+      "md5": "dd142df4b448ba2c1b9683f96a573ad3",
+      "sha1": "85be414cb5cfc984cf4cf2821124bf4dbef38e9a"
+    },
+    {
+      "name": "Escape the Museum (Europe) (En,Fr,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BE3P",
+      "size": 67108864,
+      "crc32": "f1f75c1d",
+      "md5": "405475830b75dd5e75513f5d78ae7834",
+      "sha1": "aaead62cc2b32d1cd1ba1e9b27cb336432cef796"
+    },
+    {
+      "name": "Escape the Museum (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BE3X",
+      "size": 67108864,
+      "crc32": "b9ed9b11",
+      "md5": "63f1352083adb2c18ebf3245d64831d0",
+      "sha1": "6b0159624895a1f2192d8eb42283e5b2c83b89e5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6668
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Escape%20the%20Museum%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Escape%20the%20Museum%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Escape%20the%20Museum%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Escape%20the%20Museum%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Escape%20the%20Museum%20%28Europe%29%20%28En%2CFr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Escape%20the%20Museum%20%28Europe%29%20%28En%2CFr%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Escape%20the%20Museum%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Escape%20the%20Museum%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

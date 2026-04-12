@@ -1,0 +1,65 @@
+{
+  "id": "karura-ou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Karura Ou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "迦楼羅王 カルラオウ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Karura Ou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5cf9a482",
+      "md5": "991e0ce11a72fb64932a2f94ba2b8e09",
+      "sha1": "b040563783bd9ce68d4e7d1db8f1fe3f06d2d615",
+      "sha256": "f9ec39546e18b15b8f6a738204d0227c1542cd8157e3e0ea16934e76f39e288c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "若き魔女アリアナはアシュラに誘拐されてしまった。スカイは彼女を救うために命をかけることを誓った。スカイは多彩なステージや美しい背景効果を通り抜けなければならない。\n\n『スカイブレイザー』は、横スクロールの戦闘と魔法スキルが融合したゲームだ。エネルギーを回復するポーションを見つけたり、敵を叩きのめすための魔法ポイントを獲得することがゲームプレイの重要な要素となる。スカイは壁に張り付いて垂直に登ることもできる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Karura%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Karura%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Karura%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

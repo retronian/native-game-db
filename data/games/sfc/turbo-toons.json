@@ -1,0 +1,58 @@
+{
+  "id": "turbo-toons",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Turbo Toons",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Turbo Toons (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "26a9c3f4",
+      "md5": "3dfd2c576e5ad135a58d12e8197f1254",
+      "sha1": "a2fd56b1507f36189756e5089e45b053df508553",
+      "sha256": "dbf11d4c77b9aa3416f687201d57d71a23bb8fb0b8fe5e9e8212db3fac036631"
+    },
+    {
+      "name": "Turbo Toons (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "3d34fc7e",
+      "md5": "22399656483ec9a37281d93ec538ff70",
+      "sha1": "004f54bfb1a15f5bdf8179d0de3d6d4799f5ea17",
+      "sha256": "02301ff1a2154e9d40998f6ff12f5de4cb277373fa3e09719042e1a816bf359f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Turbo%20Toons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Turbo%20Toons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Turbo%20Toons%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "zakuro-no-aji",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zakuro no Aji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ざくろの味",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zakuro no Aji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "6391f9b3",
+      "md5": "11d9989addde931cacb476f8ae66fb01",
+      "sha1": "6b1c7e9dfe934da5559427efe50b0a373f9f8157",
+      "sha256": "4e0a7f639c185b49abe70de16bf7ef062a316d986753c7aabd9b98e6b956d0b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37748
+  },
+  "descriptions": [
+    {
+      "text": "ざくろの味は、イマジニアによるビジュアルノベルで、当時人気のあった静止背景にテキストを表示し、効果音や音楽を使って雰囲気を作り出すスタイルを採用しています。\n\nゲームのストーリーは、大地震の後に突然地面に沈んでしまった五階建てのオフィスビルに関するものです。主人公のドモンと他のオフィスワーカーたちは最初はパニックに陥り、脱出方法を探すことに決めます。ドモンが地下に向かう途中、プレイヤーが以前に選んだ選択肢によって、さまざまな状況が発生する可能性があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zakuro%20no%20Aji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zakuro%20no%20Aji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zakuro%20no%20Aji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "table-game-daishuugou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Table Game Daishuugou!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "テーブルゲーム大集合!! 将棋・麻雀・花札・トゥーサイド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Table Game Daishuugou!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "661e791e",
+      "md5": "062085558f71849332276f7d0a4c4002",
+      "sha1": "5d4bfe205a35af01c3dd787ec7ff599b848ae3da",
+      "sha256": "1008d931e1a1611d69bbf8e0a8a3e9f23a7d8ed17fb972f7c535316b4d234c6e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "テーブルゲーム大集合！！は、バリエによって出版されたスーパーファミコン用のボードゲームコンピレーションで、一部のゲームプログラミングはナツシステムに委託されています。麻雀、将棋、「二人対戦」（リバーシ）、そして花札を使った2つのゲームの計5つの異なるゲームが収録されています。各ゲームには、徐々に賢くなる5人のAI対戦相手が用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-07-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Table%20Game%20Daishuugou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Table%20Game%20Daishuugou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Table%20Game%20Daishuugou%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

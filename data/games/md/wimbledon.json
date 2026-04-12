@@ -1,0 +1,58 @@
+{
+  "id": "wimbledon",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wimbledon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "ウィンブルドン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wimbledon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1224-50",
+      "size": 1048576,
+      "crc32": "b791a435",
+      "md5": "7bb99ff11b04544600ffe56dc79d72b3",
+      "sha1": "6b7d8aa9d4b9d10c26dc079ab78e11766982cef2",
+      "sha256": "3c93c5a61d76e6a627530d9327fc861d9efaec48adec6f7da71826be7c44db91"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wimbledon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wimbledon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wimbledon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

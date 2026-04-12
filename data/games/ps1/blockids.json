@@ -1,0 +1,88 @@
+{
+  "id": "blockids",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blockids",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブロキッズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Blockids (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NPEF-00176",
+      "size": 74411200,
+      "crc32": "f330d140",
+      "md5": "8a8e1ca61c82623ecb5eee6a2838204c",
+      "sha1": "c4cd5a569bd5f0fb6f73a13504a276e9574ebffb",
+      "sha256": "35028236c4bf8e6cdacb584e62cffd85787713db64a933df06c91177c3dc81c9"
+    },
+    {
+      "name": "Blockids (Japan) (PS3 v2.42) (PSP v4.05)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 83538784,
+      "crc32": "47abba01",
+      "md5": "06086c51eae7a73f645e424c795b16d9",
+      "sha1": "4e2410ed3113a981223c07a27f2773737220de90"
+    },
+    {
+      "name": "Blockids (Japan) (PS3 v4.70) (PSP v6.60)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 83531184,
+      "crc32": "2993ef19",
+      "md5": "560a7d2740d605702244783c4f94ef79",
+      "sha1": "feec3910032a49e006b43128608d4300bfee5e31"
+    },
+    {
+      "name": "Blockids (Japan) (PS3 v4.70) (PSP v6.61)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 83531584,
+      "crc32": "271b4efb",
+      "md5": "b26f28e39cd6fcd50fc5e738b65a6251",
+      "sha1": "84dd3cdfbadb2440ba2a831a270e737d20e5fc2e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45082
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Blockids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Blockids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Blockids%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

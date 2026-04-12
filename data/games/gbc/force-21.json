@@ -1,0 +1,51 @@
+{
+  "id": "force-21",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Force 21",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Force 21 (USA) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "2dcd0a0a",
+      "md5": "2a447279016f60776b5c0f515b5b97f5",
+      "sha1": "a1a912851bf265d6228dc807c58339cd51ec9d44",
+      "sha256": "1e81354b488f29e77512d9f40b4fa916065ccbaa027846c1805141514556efd6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1859
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Force%2021%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Force%2021%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Force%2021%20%28USA%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

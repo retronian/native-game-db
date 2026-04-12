@@ -1,0 +1,64 @@
+{
+  "id": "hamster-monogatari-gb-magi-ham-no-mahou-shoujo",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Monogatari GB + Magi Ham no Mahou Shoujo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスター物語GB + マジハームの魔法少女",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Monogatari GB + Magi Ham no Mahou Shoujo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "abd59939",
+      "md5": "9c6a9c38b987e50001153ad12eb5fcc8",
+      "sha1": "b3300b1df2cd6a42f112624d5eb2803d45eb3054"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この2つのゲームは、「ハムスター物語」と、さまざまなキャラクターのハムスターを育てながら訓練するシミュレーションゲームです。そして「マジハームの魔法少女」は、プレイヤーが魔法でハムスターに変身し、ハムスターの世界を救うための冒険に出るゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Monogatari%20GB%20%2B%20Magi%20Ham%20no%20Mahou%20Shoujo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Monogatari%20GB%20%2B%20Magi%20Ham%20no%20Mahou%20Shoujo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Monogatari%20GB%20%2B%20Magi%20Ham%20no%20Mahou%20Shoujo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

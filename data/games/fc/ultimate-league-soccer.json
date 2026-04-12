@@ -1,0 +1,80 @@
+{
+  "id": "ultimate-league-soccer",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultimate League Soccer",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 48265
+  },
+  "first_release_date": "1991-12-31",
+  "roms": [
+    {
+      "name": "Ultimate League Soccer (Europe) (Unl)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 98320,
+      "crc32": "2349882d",
+      "md5": "6a2b768aa1d80dffa42ab314f5528f06",
+      "sha1": "3cea2a0b4fe414112408d2a96570e534191f8700",
+      "sha256": "b73a173861d4732e21183fae318847fb7def497fbe73bb7271ed59f3983650a6"
+    },
+    {
+      "name": "Ultimate League Soccer (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 98320,
+      "crc32": "1f89a8f4",
+      "md5": "8f84146f579487a4bee02b0f9c98bb52",
+      "sha1": "a55c40c4476966ef1c8ee97cf4533271f6badbb3",
+      "sha256": "8515f0ce3d67d8b77c1bb1e3a01b49e346d1fa7f77ac634c8a38644778ec5c48"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20League%20Soccer%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20League%20Soccer%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20League%20Soccer%20%28Europe%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultimate%20League%20Soccer%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultimate%20League%20Soccer%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultimate%20League%20Soccer%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

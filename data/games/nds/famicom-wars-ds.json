@@ -1,0 +1,58 @@
+{
+  "id": "famicom-wars-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Wars DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Wars DS (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "WUP-N-DA3J",
+      "size": 33554432,
+      "crc32": "6614d234",
+      "md5": "c1968bec44d9377f06bdbd77fcc6d61c",
+      "sha1": "525bb6b408baf10f4b1b11705a105953ef55151c"
+    },
+    {
+      "name": "Famicom Wars DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AWRJ",
+      "size": 33554432,
+      "crc32": "28dc469a",
+      "md5": "44f7d625f1cca24cb5e203119faafa4e",
+      "sha1": "3504f626668a0e71846d285eb231ceaf76bee58a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Famicom%20Wars%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Famicom%20Wars%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Famicom%20Wars%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

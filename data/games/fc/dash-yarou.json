@@ -1,0 +1,62 @@
+{
+  "id": "dash-yarou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dash Yarou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダッシュ野郎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dash Yarou (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "ba1a80b4",
+      "md5": "4bd78c576c3109940414d556d44219b2",
+      "sha1": "0ac2e0af5d8da4e474176ce5321044e51ee0d718",
+      "sha256": "317210ec485c869d9e6e88230f01402c5aebd94107cfeea22ac08914b6b85b49"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "サンフランシスコからニューヨークまでの横断バイクラリーが開催されます。「ダッシュ野郎」では、プレイヤーの唯一の目標は、レーサーのランクを上げ、次のレースに出場するために十分な順位を獲得することです。ゲームには6つのステージが用意されています。\n\nプレイヤーはバイクを操作し、設定された数の競争相手のバイクよりも先にゴールラインを越えなければなりません。障害物や対戦相手のレーサー、車両に衝突したり、ガスが切れたりしないように注意する必要があります。レース中には、プレイヤーがガスを補充できる特定のエリアがありますが、給油のために止まると、競争相手のバイクがその隙を突いてプレイヤーを追い越してしまいます。競争相手は燃料が切れることはありませんが、障害物に衝突することでレースから脱落することがあります。\n\nレース中には、時折ヘリコプターが飛んできてアイテムを落とします。プレイヤーはこれらのアイテムを拾うことができます。アイテムには、1000ポイントのボーナス、他のレーサーをクラッシュさせるのを助けるヘルパーバイク、追加のガソリン、通常よりも長持ちするハイグレードガソリン、追加のスピードを提供するターボチャージャー、そして無敵を提供するヘルメットがあります。\n\nプレイヤーがレースでトップ10に入ると、バイクの装備をアップグレードすることができます。プレイヤーはバイクのエンジン（2サイクルタイプまたは4サイクルタイプ）やタイヤ（雨用、ブロック用、またはスティック用）を改良することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dash%20Yarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dash%20Yarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dash%20Yarou%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

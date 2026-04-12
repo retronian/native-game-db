@@ -1,0 +1,83 @@
+{
+  "id": "chip-to-dale-no-daisakusen-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chip to Dale no Daisakusen 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チップとデールの大作戦 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "チップとデールの大作戦2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chip to Dale no Daisakusen 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "65f1a62b",
+      "md5": "e7b846123e68f372010b0fec500b1ca4",
+      "sha1": "1d3eab4845ab414f1809aa79e2bc738905fafa96",
+      "sha256": "16a17cc97483c7e29c342ad5f2dd0304934f2868c50ad60336cc2fbe2720b9e0"
+    },
+    {
+      "name": "Chip to Dale no Daisakusen 2 (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "487d815d",
+      "md5": "42865bb386fec41031d599534a9a8eec",
+      "sha1": "a70a14f6d7f326eb6be0e02259e857a44e532126",
+      "sha256": "c0bb2d4dc8cd1e2a03e7d7562afe55e840d677e98223fefe8b3370d11d48c2f9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「チップとデールの大作戦 2」は、最初の「レスキュー・レンジャーズ」ゲームの続編です。レンジャーたちは宿敵ファットキャットの陰謀を打破し、彼を刑務所に閉じ込めました。しかし、ファットキャットの手下たちが飛行船で彼を脱獄させてしまいます。突然、テレビのニュースキャスターが地元のレストランで爆弾の脅威があると報じます。レスキュー・レンジャーズはこの危機を救うために立ち上がりますが、実はこの爆弾騒ぎはファットキャットが「ファラオの壺」と呼ばれるアーティファクトを盗むための陽動作戦だったのです。チームはファットキャットを追跡し、彼が盗んだ品物に何を企んでいるのかを突き止めなければなりません。\n\n前作と同様に、「チップとデールの大作戦 2」は横スクロールアクションゲームで、2人のプレイヤーが同時にチップとデールを操作することができます。または、1人のプレイヤーがどちらかのリスを操作することも可能です。ヒーローたちは、ファットキャットの悪事を阻止するために、彼らの視点から見て巨大なステージを攻略しなければなりません。例えば、最初のステージではリスたちがレストランのテーブル、椅子、カウンターを飛び越え、キッチンを通り抜けます。多くの敵がプレイヤーの進行を妨げようとします。リスたちの攻撃能力は、周囲に散らばるブロックを拾い上げ、5つの方向（横、上、斜め上）に投げることです。途中にはヒーローたちが集めるためのRRブロックも散らばっています。レスキュー・レンジャーズの他のメンバー、モンティ、ギジェット、ジッパーも、重要な場面で助けに駆けつけてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chip%20to%20Dale%20no%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chip%20to%20Dale%20no%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chip%20to%20Dale%20no%20Daisakusen%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

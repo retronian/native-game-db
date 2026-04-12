@@ -1,0 +1,66 @@
+{
+  "id": "mahjong-hishouden-shin-naki-no-ryuu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Hishouden - Shin Naki no Ryuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀飛翔伝 新・哭きの竜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "真 哭きの竜 麻雀飛翔伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Hishouden - Shin Naki no Ryuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "66fbe563",
+      "md5": "a140273115c543c46e8e629e1bca52aa",
+      "sha1": "ebaf486f64af90eab6f7735598e0d5f8da7c5806",
+      "sha256": "afb2beb354bafd8c47d4f03088e47a807bcbc5098d7e3daa6695248489733538"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mahjong%20Hishouden%20-%20Shin%20Naki%20no%20Ryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mahjong%20Hishouden%20-%20Shin%20Naki%20no%20Ryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mahjong%20Hishouden%20-%20Shin%20Naki%20no%20Ryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

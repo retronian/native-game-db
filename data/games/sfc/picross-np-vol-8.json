@@ -1,0 +1,123 @@
+{
+  "id": "picross-np-vol-8",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Picross NP Vol. 8",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピクロスNP Vol.8",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピクロスNP Vol.1",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ピクロス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ピクロス NP Vol.8",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Picross NP Vol. 8 (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "a473148c",
+      "md5": "728878c15773d06b468dffae11b83e3f",
+      "sha1": "ce59cde92d21655e2fb8eecc473318d25adc7f4b",
+      "sha256": "b8c571358782bc46e7814bfbd9117432d715f6178f0183a696c5b94873d8de19"
+    },
+    {
+      "name": "Picross NP Vol. 8 (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "2fbeea6e",
+      "md5": "025e26bf17d70636264039070fa995e2",
+      "sha1": "b34537a0efdae9cf25eab0e3c4f4dd802a98a63b",
+      "sha256": "4fafee3fce3438648224e69c65adf1fca8ee45b98c1b995c65e20cfcf126ff2d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 148434
+  },
+  "descriptions": [
+    {
+      "text": "ピクロス NP Vol. 1は、1999年に日本のニンテンドーパワーカセット向けに隔月でリリースされた8つのピクロス NPゲームの最初の作品です。このゲームは基本的なピクロスゲームで、プレイヤーはグリッド上の数字を使って、どのマスを塗りつぶし、どのマスを空白のままにするかを判断し、最終的に隠された絵を明らかにします。これらのゲームは、ジュピターの以前のピクロスタイトル「マリオのスーパーピクロス」と同じゲームエンジンを使用していますが、各作品はパズルの数が少なく、ヒエログリフや考古学のテーマを省き、より基本的なペンと紙スタイルに置き換えられています。Vol. 1のユニークなキャラクターセットはポケモンをテーマにしています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%208%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%208%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%208%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%208%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%208%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%208%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

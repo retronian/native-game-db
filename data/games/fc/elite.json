@@ -1,0 +1,70 @@
+{
+  "id": "elite",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Elite",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Elite (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "eab04ed0",
+      "md5": "362453648b3d373ca2a94ae6bdaf686f",
+      "sha1": "121f3c9d820eaebe34ae9799edfa5fccd0f78472",
+      "sha256": "20be710443dab4417bc8a30b920064ed3c36b19a17cfe14bac88d136a9424627"
+    },
+    {
+      "name": "Elite (World) (En,Fr,De) (Unl)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "f2790778",
+      "md5": "4a2a33232c0ba12c2b8c409f6a246c73",
+      "sha1": "9bcc7f810aacab2b9d98fea33ff719ce7eb1f4c6",
+      "sha256": "42c53eb159ba38be691378cfa4a0f92a9c21b4427cf5e1fe2427b0fd3e4bd202"
+    },
+    {
+      "name": "Elite (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "ae5aeb04",
+      "md5": "adc58f50269d34e977ea76080f41c41d",
+      "sha1": "b1f1c2fff0f00e04fe197bf456d538b0ce971457",
+      "sha256": "da7bd9ac1e740530da756b318136f04ee0ee957bfe6daac1e7ac828bc3462690"
+    }
+  ],
+  "external_ids": {
+    "igdb": 2951
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Elite%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Elite%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Elite%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

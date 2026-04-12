@@ -1,0 +1,32 @@
+{
+  "id": "quake",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quake",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 239551
+  },
+  "roms": [
+    {
+      "name": "Quake (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ABTE",
+      "size": 33554432,
+      "crc32": "10e16dd4",
+      "md5": "b10afb07357cb31ac7c77d431894ea61",
+      "sha1": "91da59c27f06beb7d5ee1531300a0d1b7e4bfde2",
+      "sha256": "1cc084d228983744ac954dc0a40f847f442f124f8369438b17625270b00a7404"
+    }
+  ]
+}

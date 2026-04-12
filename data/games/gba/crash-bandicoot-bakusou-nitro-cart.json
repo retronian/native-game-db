@@ -1,0 +1,65 @@
+{
+  "id": "crash-bandicoot-bakusou-nitro-cart",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crash Bandicoot Bakusou! Nitro Cart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クラッシュ・バンディクー 爆走!ニトロカート",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crash Bandicoot Bakusou! Nitro Cart (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BCNJ",
+      "size": 8388608,
+      "crc32": "70f8291f",
+      "md5": "10e701d275bb9b34b4c451bf8a611495",
+      "sha1": "9f80049a5c79894931651f47c634fee9f8cb62ad"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "クラッシュ・バンディクーがアーケードシーンに戻ってきました！冒険シリーズからの多くのキャラクターたちと共に、今回はネオ・コルテックスとエンペラー・ヴェロの脅威に立ち向かいます。ヴェロはクルーを遠い惑星に連れて行き、彼らはネオ・コルテックスとその多くの悪党たちに対抗して命がけのレースを強いられています。\n\nアーケードモードでのアクション満載のゲームプレイから、クラッシュと仲間たちが地球を救うための物語を追うアドベンチャーモードまで、さまざまなゲームモードから選択できます。マルチプレイヤーバトルモードでは4人の友達と競い合い、さらにゲームキューブに接続して追加オプションを利用したり、高得点をインターネットランキングシステムにアップロードすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-08-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Bandicoot%20Bakusou%21%20Nitro%20Cart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Bandicoot%20Bakusou%21%20Nitro%20Cart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Bandicoot%20Bakusou%21%20Nitro%20Cart%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

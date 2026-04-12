@@ -1,0 +1,80 @@
+{
+  "id": "crash-nitro-kart",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crash Nitro Kart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crash Nitro Kart (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCNE",
+      "size": 8388608,
+      "crc32": "e6d58aa0",
+      "md5": "9e6ff628db81caa74dca356eaadadac9",
+      "sha1": "292001bbd3a99ce503f36ddab9d092ff07aca7e7"
+    },
+    {
+      "name": "Crash Nitro Kart (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCNP",
+      "size": 8388608,
+      "crc32": "03925772",
+      "md5": "41832956ab0723ca79d6883c4492fe84",
+      "sha1": "91904f5ba5c501b761fc01a48e4efc41ee5b8e41",
+      "sha256": "7634554efcef8bb51095c4d4291fdf49d42cbf28d7de858941740377326a9b31"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210237
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Nitro%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Nitro%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Nitro%20Kart%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crash%20Nitro%20Kart%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crash%20Nitro%20Kart%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crash%20Nitro%20Kart%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

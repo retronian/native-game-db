@@ -1,0 +1,65 @@
+{
+  "id": "kaizou-choujin-shubibinman",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaizou Choujin Shubibinman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "改造町人シュビビンマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaizou Choujin Shubibinman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a9084d6e",
+      "md5": "8041a028a666cc0adc7a06c20a99d172",
+      "sha1": "4db72b3a934e6255135ebc0533f900e1d5d828c8",
+      "sha256": "4d1204735ba743d70f5eca34abeea9f3ec15eba59a6e6419a19d695109b3c708"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "悪のロボット・ダークスカルがドクの制御から逃げ出し、悪のロボット軍団を使って街を破壊しようとしています。今、ドクの最新の創造物であるサイボーグ・タスケとキャピコだけが彼の計画を阻止することができます。\n\nシュビビンマンは2Dの横スクロールアクションプラットフォーマーで、シュビビンマンのいずれか（または協力プレイの2人モードでは両方）を操作し、ダークスカルの軍勢を刃とサイボーグパワーを使って倒すことを目指します。ゲームは街のマップから始まり、次に挑戦するステージを選択します。各ステージには人質と倒さなければならないボスサイボーグがいます。これらの目標を成功裏に達成すると、お金が手に入り、それを「ドク」に持ち帰ることで、既存のパワーを強化したり新しいパワーを追加したりするアップグレードが可能です。これらのパワーは、最終戦に向けて必ず必要となるでしょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-03-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Kaizou%20Choujin%20Shubibinman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Kaizou%20Choujin%20Shubibinman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Kaizou%20Choujin%20Shubibinman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

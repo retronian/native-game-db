@@ -1,0 +1,68 @@
+{
+  "id": "hototogisu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hototogisu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "不如帰",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hototogisu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "d1255366",
+      "md5": "84cc0ebd00f3e58cc4c8588bebfb7144",
+      "sha1": "aacdbf31df8c924d3eb975dc9e2e7b70e4718d49",
+      "sha256": "c6d8eafed87bd4815e89665cb797415d4bad64e9d28d7aff02b708bddee938f8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64355
+  },
+  "descriptions": [
+    {
+      "text": "不如帰は、日本の戦国時代を舞台にした戦争シミュレーションゲームです。この時代は、コーエーの「信長の野望」など、多くの日本の戦争シミュレーションゲームが設定されている歴史的な時期でもあります。ゲームの名前は、日本に生息する鳥、ホトトギスに由来しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hototogisu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hototogisu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hototogisu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

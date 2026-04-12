@@ -1,0 +1,55 @@
+{
+  "id": "petz-nursery-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Petz - Nursery 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Petz: Playschool",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Petz - Nursery 2 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3UE",
+      "size": 33554432,
+      "crc32": "898e9316",
+      "md5": "819d060e5c7a82a3e1c0347a1ee6c346",
+      "sha1": "60e0b2d5b981e5f8b12c462d1586452a785fd22d",
+      "sha256": "efae37d3cd02154a505f4e4e7acf70714fdb940e0304af4171c04a065d56c429"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47894
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Petz%20-%20Nursery%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Petz%20-%20Nursery%202%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

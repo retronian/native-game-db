@@ -1,0 +1,90 @@
+{
+  "id": "monopoly",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monopoly",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "モノポリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monopoly (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-89026-00",
+      "size": 524288,
+      "crc32": "c10268da",
+      "md5": "40794bbfc3f9a73df5255fe6d10b5107",
+      "sha1": "8ff34d2557270f91e2032cba100cd65eb51129ca",
+      "sha256": "304594f7215f09fbffd5b597336929ffc99fec16fa563bcaca10da0add20fa03"
+    },
+    {
+      "name": "Monopoly (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-89026-00",
+      "size": 524288,
+      "crc32": "dfbcc3fa",
+      "md5": "32ca66e6a43413fbfded7848d876384f",
+      "sha1": "ca808cc27e3acb7c663a8a229aed75cb2407366e",
+      "sha256": "5866db86f5cf07f8664ce20b690032a9a970cc86e7d096d1d2785ea59c0a4251"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122241
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Monopoly%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Monopoly%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Monopoly%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Monopoly%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

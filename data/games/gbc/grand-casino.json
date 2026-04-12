@@ -1,0 +1,39 @@
+{
+  "id": "grand-casino",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Grand Casino",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "グランドカジノ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 295032
+  },
+  "roms": [
+    {
+      "name": "Grand Casino (Japan) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8ba3988b",
+      "md5": "e31b25f35267460f474f7079e445025d",
+      "sha1": "556e1a6c27c792605925f6f67daa953809f81bfb"
+    }
+  ]
+}

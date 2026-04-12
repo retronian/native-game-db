@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Soul Edge",
@@ -19,7 +19,7 @@
       "region": "us",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "소울 엣지",
@@ -79,6 +79,24 @@
   "first_release_date": "1996-05-16",
   "external_ids": {
     "wikidata": "Q1418354",
-    "mobygames": 3676
-  }
+    "mobygames": 3676,
+    "igdb": 305428
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Soul%20Edge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Soul%20Edge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Soul%20Edge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "hana-taaka-daka",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hana Taaka Daka!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "はなたーかだか!?",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hana Taaka Daka! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ba4d0dd4",
+      "md5": "38cddbab28df38cb8d3f447e6b2bea7c",
+      "sha1": "664ccd11372b04739e388fb921ac507eb71986cd",
+      "sha256": "ed35ab6e73011ab2844cbb4386de8bf88f156cb606ac6b42cf3dfa9c368d04e9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38076
+  },
+  "descriptions": [
+    {
+      "text": "小さな狐のコンタは困っています。彼は彼女のイナリと散歩中に、うっかり悪のたぬきジカンダとその手下たちを囚われの状態にしていた魔法の封印を破ってしまいました。ジカンダはイナリをさらってしまい、コンタは大きな絶望に陥ります。彼は神々に助けを求めることを決意します。すると、空を飛ぶ天狗が彼の必死の叫びに応えてくれました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Hana%20Taaka%20Daka%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Hana%20Taaka%20Daka%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Hana%20Taaka%20Daka%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

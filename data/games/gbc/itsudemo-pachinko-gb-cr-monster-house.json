@@ -1,0 +1,60 @@
+{
+  "id": "itsudemo-pachinko-gb-cr-monster-house",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Itsudemo Pachinko GB - CR Monster House",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "いつでもパチンコGB CRモンスターハウス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Itsudemo Pachinko GB - CR Monster House (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "834091ba",
+      "md5": "d5b4fd7fd703b447bcb8e1f78865208f",
+      "sha1": "c07c9fc27e0c2cab09a55cd7c6a3ecc06da13aec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281587
+  },
+  "first_release_date": "2000-07-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Itsudemo%20Pachinko%20GB%20-%20CR%20Monster%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Itsudemo%20Pachinko%20GB%20-%20CR%20Monster%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Itsudemo%20Pachinko%20GB%20-%20CR%20Monster%20House%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

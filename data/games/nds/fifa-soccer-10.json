@@ -1,0 +1,42 @@
+{
+  "id": "fifa-soccer-10",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "FIFA Soccer 10",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "FIFA Soccer 10 (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFAE",
+      "size": 33554432,
+      "crc32": "9e59890d",
+      "md5": "5679d2c5d4bdacd6bb37b36d577643b4",
+      "sha1": "72887ace6f0d27d3e869793264efc611f8766e5d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/FIFA%20Soccer%2010%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/FIFA%20Soccer%2010%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

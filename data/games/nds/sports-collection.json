@@ -1,0 +1,64 @@
+{
+  "id": "sports-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sports Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sports Collection (Europe) (En,Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2UP",
+      "size": 33554432,
+      "crc32": "ddd79efe",
+      "md5": "e713e404ab4d1e2ff16c8de7034fe580",
+      "sha1": "ad522452ed7921fe1cb034b40277951fb4a262f5"
+    },
+    {
+      "name": "Sports Collection (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2UE",
+      "size": 33554432,
+      "crc32": "fe0f8a61",
+      "md5": "9eed140a4308f3317cc1d4b83bf03bcb",
+      "sha1": "63accfc086d3ec5a40a0fc8505190a6b06db4dcb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sports%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sports%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sports%20Collection%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sports%20Collection%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

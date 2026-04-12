@@ -1,0 +1,55 @@
+{
+  "id": "princess-in-love",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Princess in Love",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Princess in Love (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6VP",
+      "size": 33554432,
+      "crc32": "03a198ff",
+      "md5": "38261fd3be16d47e1650ae0fca125a70",
+      "sha1": "17e05f96625b9e34d37d7a051b8897ac47fe737a"
+    },
+    {
+      "name": "Princess in Love (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6VE",
+      "size": 33554432,
+      "crc32": "673c1b2d",
+      "md5": "eec68560956ed5fa49ee56314000217e",
+      "sha1": "4b7e45d7b56bea48d37e165644f12f49b838e370"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67663
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Princess%20in%20Love%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Princess%20in%20Love%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

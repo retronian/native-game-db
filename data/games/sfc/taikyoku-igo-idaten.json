@@ -1,0 +1,60 @@
+{
+  "id": "taikyoku-igo-idaten",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taikyoku Igo - Idaten",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "対局囲碁 韋駄天",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taikyoku Igo - Idaten (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b5db72b6",
+      "md5": "af01c01b15e3775a184d233bc613ec71",
+      "sha1": "ab83bf94b9830e7335090f00980a16934e3acff7",
+      "sha256": "a722686b4d974ca0f474832c3bb8d3ff71549e66e26c26cb106e01ca45bc3f19"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37796
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Taikyoku%20Igo%20-%20Idaten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Taikyoku%20Igo%20-%20Idaten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Taikyoku%20Igo%20-%20Idaten%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

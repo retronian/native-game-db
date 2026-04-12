@@ -1,0 +1,66 @@
+{
+  "id": "moto-roader-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moto Roader II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モトローダーII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "モトローダー II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moto Roader II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "0b7f6e5f",
+      "md5": "61bf2f34550c6f0db25c9f5221ede032",
+      "sha1": "101f6e3c90b314496b73ee9feab9a98f8d9b7821",
+      "sha256": "db6bd728b98f6c2ec32043a315f4d9abad524f523eca7b6a2809b6b49aa8c693"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37708
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Moto%20Roader%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Moto%20Roader%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Moto%20Roader%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

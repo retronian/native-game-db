@@ -1,0 +1,73 @@
+{
+  "id": "jra-pat-wide-taiouban",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "JRA PAT - Wide Taiouban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワイド対応版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "JRA PAT - Wide Taiouban (Japan) (TJDJ)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1fc1915d",
+      "md5": "f8e661954bf8f574d4a4c9944452c197",
+      "sha1": "52718d5ea0982905254648da88df36ab6025f2a8",
+      "sha256": "c53894319a00fd16c9f7fa9132e4f182b4f3273a9e7e599010311b7fdb1405b0"
+    },
+    {
+      "name": "JRA PAT - Wide Taiouban (Japan) (TJEJ)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "673468c8",
+      "md5": "5595a1051d085f7d88713b625b5111f0",
+      "sha1": "f3344c19bccca1cf1647a72c1a113a702b5bdf8b",
+      "sha256": "6a7cc9d71d96c5567b1c53e344544e888cb9f3382802314497ff2fb655f6acae"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/JRA%20PAT%20-%20Wide%20Taiouban%20%28Japan%29%20%28TJDJ%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/JRA%20PAT%20-%20Wide%20Taiouban%20%28Japan%29%20%28TJDJ%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/JRA%20PAT%20-%20Wide%20Taiouban%20%28Japan%29%20%28TJEJ%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/JRA%20PAT%20-%20Wide%20Taiouban%20%28Japan%29%20%28TJEJ%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

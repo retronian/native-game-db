@@ -1,0 +1,69 @@
+{
+  "id": "sansan",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sansan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンサン 囲碁通信対局ネットワーク",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sansan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-147013-00",
+      "size": 1048576,
+      "crc32": "5b85deed",
+      "md5": "13d52a1991a6569edb71cfb939318949",
+      "sha1": "e882c3af57884862bafc764226c88c287752e9d6",
+      "sha256": "158745b4116169f8c1bbeb43752296046b596e12bff3829bf76befb66776d0db"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45609
+  },
+  "descriptions": [
+    {
+      "text": "サンサンは、人気のボードゲーム囲碁をベースにしたゲームで、プレイヤーがゲームのネットワークサービスを通じて遠くの対戦相手とオンライン対局できるようになっています。現在オンラインでない対戦相手とも対局できる機能を提供しており、これは郵便将棋のような形式です。また、他のプレイヤーに短いメッセージを送ることも可能です。ほとんどのメガネットタイトルとは異なり、サンサンは独自に運営されている有料サービスを通じて提供されており、セガのサービスが終了した後も長期間にわたり運営を続けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sansan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sansan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sansan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pachi-slot-monogatari-pal-kougyou-special",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachi-Slot Monogatari - PAL Kougyou Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチスロ物語 PAL工業スペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パチスロ物語 パル工業スペシャル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachi-Slot Monogatari - PAL Kougyou Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "9eb5c153",
+      "md5": "78c0b329757d2c0850a1aeb9ce5727b6",
+      "sha1": "83f2b48ecaca85cc2e32ae7ebe85f697f18289a8",
+      "sha256": "1d02e4f3d09eaf737a13d682119c87aeb1b974933d948401df75e89c560a8cf8"
+    }
+  ],
+  "first_release_date": "1995-10-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pachi-Slot%20Monogatari%20-%20PAL%20Kougyou%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pachi-Slot%20Monogatari%20-%20PAL%20Kougyou%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pachi-Slot%20Monogatari%20-%20PAL%20Kougyou%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "wanwan-meitantei",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wanwan Meitantei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "わんわん名探偵",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wanwan Meitantei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BWMJ",
+      "size": 8388608,
+      "crc32": "5f41c9fe",
+      "md5": "be5b6787b02bda5b6283185e643a9fcf",
+      "sha1": "d438e3b030a814818ed7e96777ac3e46043922f9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは私立探偵となり、探偵学校で助手として子犬を育てながら、町で発生するさまざまな事件を解決する冒険物語です。町では幽霊のローブが現れるなど、さまざまな事件が起こります。私たちは町やさまざまな場所を調査し、犯人を見つけ出します！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-12-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Wanwan%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Wanwan%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Wanwan%20Meitantei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

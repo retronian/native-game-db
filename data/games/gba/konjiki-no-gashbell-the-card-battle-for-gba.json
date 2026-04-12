@@ -1,0 +1,65 @@
+{
+  "id": "konjiki-no-gashbell-the-card-battle-for-gba",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Konjiki no Gashbell!! The Card Battle for GBA",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "金色のガッシュベル!! THE CARD BATTLE for GBA",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Konjiki no Gashbell!! The Card Battle for GBA (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKEJ",
+      "size": 16777216,
+      "crc32": "e1e26f2a",
+      "md5": "f59054ea92eca5911aa6e3fc002fe545",
+      "sha1": "5ce26f86da63d9c662b6ace75e327d033b152078"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本限定のカードバトルゲームで、人気漫画「金色のガッシュベル!!」を基にしています。西洋では「ザッチベル！」として知られています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-07-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Konjiki%20no%20Gashbell%21%21%20The%20Card%20Battle%20for%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Konjiki%20no%20Gashbell%21%21%20The%20Card%20Battle%20for%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Konjiki%20no%20Gashbell%21%21%20The%20Card%20Battle%20for%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

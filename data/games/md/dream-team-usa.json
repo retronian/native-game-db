@@ -1,0 +1,75 @@
+{
+  "id": "dream-team-usa",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dream Team USA",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドリームチーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドリームチームUSA",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dream Team USA (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50376-00",
+      "size": 1048576,
+      "crc32": "e2e21b72",
+      "md5": "af092db5ba7221fc207865448ada05b4",
+      "sha1": "48b36852b31f74d33e00b33df04ae1e9e9b0cb1c",
+      "sha256": "d6b8cf06287bc5a42ce4aee860c6d18d328916ad09df1055b7b10d5691486bc7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1992年版のエレクトロニック・アーツのバスケットボールシリーズは、バルセロナで開催された1992年オリンピックを舞台にしており、マイケル・ジョーダン、マジック・ジョンソン、ラリー・バード、デビッド・ロビンソン、ジョン・ストックトン、チャールズ・バークレー、パトリック・ユーイング、カール・マローンといった伝説的な選手たちが揃ったアメリカの「ドリームチーム」をフィーチャーしています。\n\nアメリカチームに加えて、実在のチームロースターを持つ13の他国のナショナルチームも登場します。また、アメリカ以外の選手たちの中から選ばれたベストメンバーで構成された「オールワールド」チームも存在します。\n\nゲームエンジンとゲームプレイのメカニクスは、NBAプレイオフシリーズの前作から再利用されています。新しいシグネチャームーブが追加され、国際ルールに基づいたゲームプレイが特徴です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dream%20Team%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dream%20Team%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dream%20Team%20USA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

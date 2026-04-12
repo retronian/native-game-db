@@ -1,0 +1,68 @@
+{
+  "id": "power-lode-runner",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Lode Runner",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロードランナー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Lode Runner (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "dfc1d7dc",
+      "md5": "da9cffa3d81b14cb77af0d84787fbf19",
+      "sha1": "6bbf69275a9f350e04c644df0c037e413f39a3a7",
+      "sha256": "d8757342d947c64269a391eed3ff1b1a954d15e700ba9bb9fcba5afa73f49bc0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38243
+  },
+  "descriptions": [
+    {
+      "text": "ストライクガンナー S.T.G. は、遠い未来の西暦2008年を舞台にした縦スクロールのジェットファイターアドベンチャーです。プレイヤーは、自機を操作しながら周囲のシーンが展開していく中で、空、陸、海から次々と襲いかかる敵を迎え撃ちます。プレイヤーは一定のライフからスタートし、上手くプレイすることでライフを増やすことができます。ライフが尽きるとミッションは終了です - セーブはありません！\n\n各レベルの前に、プレイヤーは通常の武器に加えて、しばしば補充されるメーターを通じて使用できる特別な武器を1つ選択します。しかし、慎重に選んでください。ラウンドごとに使用できる特別な武器は1つだけで、一度使用すると後のラウンドでは使用できなくなります！ ソロプレイまたは人間のウィングマンと一緒にプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Lode%20Runner%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Power%20Lode%20Runner%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Lode%20Runner%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

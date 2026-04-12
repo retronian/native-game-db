@@ -1,0 +1,65 @@
+{
+  "id": "kentou-ou-world-champion",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kentou Ou World Champion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "拳闘王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kentou Ou World Champion (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e8359cdb",
+      "md5": "d3598c2a13c17b9a376d2ea7918780ac",
+      "sha1": "e7d46120a5869955e5255c46fc34d379f1da9c4a",
+      "sha256": "9d50d0a259731bdb3ff80b0a22ab66ba556e7f5049207c78248857b52bab7bda"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "チャンピオンシップモードと1人または2人用のエキシビションマッチモードを備えたボクシングゲームです。\n\nチャンピオンシップモードでは、プレイヤーは8人のボクサーの中から1人を選び、他の7人のボクサーと対戦しながら世界チャンピオンを目指します。プレイヤーはボクシングリングで3分間のラウンドを戦い、相手をノックダウンさせることを目的にフックやジャブを繰り出します。各パンチはボクサーのスタミナを消費し、そのスタミナはボクシンググローブのアイコンで示されます。全てのボクサーのスタミナが尽きると、しばらくの間パンチを繰り出せなくなり、スタミナが回復するまで待つ必要があります。試合が終わると、プレイヤーはジムに行き、縄跳びやベンチプレスなどのさまざまなトレーニングを行います。これらのエクササイズは、スピードやパワーなど、ボクサーのさまざまな能力を向上させます。\n\nオプションには、ラウンド数（1から10まで）や難易度（初級、中級、上級）の設定が含まれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kentou%20Ou%20World%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kentou%20Ou%20World%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kentou%20Ou%20World%20Champion%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

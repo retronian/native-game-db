@@ -1,0 +1,71 @@
+{
+  "id": "kaijuu-busters",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaijuu Busters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaijuu Busters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKXJ",
+      "size": 67108864,
+      "crc32": "3716fc95",
+      "md5": "7bb8d60b1fe75acff2e8d4a002b1e9ca",
+      "sha1": "024cfe30964184ff594347d69f76b1566a19c1f4"
+    },
+    {
+      "name": "Kaijuu Busters (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKXJ",
+      "size": 67108864,
+      "crc32": "eb3cc166",
+      "md5": "e23e0ca97d70447807d20b7d48006047",
+      "sha1": "bf4faa213f29f2fd1314deb8b209c29fe2eed087",
+      "sha256": "8a355edd8bf38c550fb8b24f0b98138d177c2d3ffad4267789a3b2af446a9a8c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kaijuu%20Busters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kaijuu%20Busters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kaijuu%20Busters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kaijuu%20Busters%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kaijuu%20Busters%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

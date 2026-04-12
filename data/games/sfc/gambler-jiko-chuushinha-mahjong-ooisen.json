@@ -1,0 +1,66 @@
+{
+  "id": "gambler-jiko-chuushinha-mahjong-ooisen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gambler Jiko Chuushinha - Mahjong Ooisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ギャンブラー自己中心派 麻雀大一選",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ぎゅわんぶらあ自己中心派 麻雀皇位戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gambler Jiko Chuushinha - Mahjong Ooisen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8ebd1223",
+      "md5": "9056db0bda2b6a835732f2905f50f804",
+      "sha1": "433366cc5fe3a8ce20de52399b66ee73570d5aaa",
+      "sha256": "329304824f0de99e3087b182a67ac06eeebbc6efcceb8c3563a1b29b06c912bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gambler%20Jiko%20Chuushinha%20-%20Mahjong%20Ooisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Gambler%20Jiko%20Chuushinha%20-%20Mahjong%20Ooisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Gambler%20Jiko%20Chuushinha%20-%20Mahjong%20Ooisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

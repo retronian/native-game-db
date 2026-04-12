@@ -1,0 +1,78 @@
+{
+  "id": "aero-blasters",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aero Blasters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "エアロブラスターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Aero Blasters (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "25be2b81",
+      "md5": "3d3b872d9031fa3227d68f2239b00b82",
+      "sha1": "748ec92246140565d95f6fb727de6167227b85d3",
+      "sha256": "5d935d9c122c9fd851770428de21ebe82fd4d10553f485b9dfd7e694f43cf024"
+    },
+    {
+      "name": "Aero Blasters (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "b03e0b32",
+      "md5": "b2b62baab5fefafc5db6538720b503c3",
+      "sha1": "23b7da6a6067563af5fdf303d83adeae818cdcdf",
+      "sha256": "d2fe59cf24053bbbb1b5da2521a958e38a981cce9baba0af825ea5189d8408dc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12491
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーは、小さな宇宙船を操作して多くの敵がいるさまざまなレベルを進んでいきます。各レベルの最後にはボスが待ち受けており、一部のセクションではゲームプレイが加速し、横スクロールや縦スクロールの速い障害物コースが提供されます。飛んでいるオレンジ色のポッドは、一度に多くのパワーアップを放出し、宇宙船を新しいまたはより強力なレーザー、援護機、シールドで強化します。プレイヤーは、発射ボタンを押し続けることで、画面上のすべての敵弾を消し去り、すべての敵にダメージを与える大技をチャージすることもできます。容赦ない難易度で、どんな攻撃を受けても致命的ですが、残りのライフとクレジットがあれば、ゲームは任意の地点から再開できます。ゲームは2人で協力プレイすることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Aero%20Blasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Aero%20Blasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Aero%20Blasters%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

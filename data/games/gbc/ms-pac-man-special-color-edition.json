@@ -1,0 +1,49 @@
+{
+  "id": "ms-pac-man-special-color-edition",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ms. Pac-Man - Special Color Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AQCE",
+      "size": 524288,
+      "crc32": "103e212d",
+      "md5": "4d090ceaa53d571db00d7160ca4be69d",
+      "sha1": "a468f7ad011c1b42ea3144e65607694493e7e4a7",
+      "sha256": "8e556307f484b3451429f695391820e896202b1046312473911abb72222acee3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ms.%20Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ms.%20Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ms.%20Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

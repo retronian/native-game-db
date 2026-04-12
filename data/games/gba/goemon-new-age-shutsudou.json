@@ -1,0 +1,60 @@
+{
+  "id": "goemon-new-age-shutsudou",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Goemon - New Age Shutsudou!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴエモン ニューエイジ出動!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Goemon - New Age Shutsudou! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGNJ",
+      "size": 4194304,
+      "crc32": "86d6c574",
+      "md5": "842f50e8321d16d33566839d76635448",
+      "sha1": "10eec7513511f0b891f32e44eff383a3a090f787"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49598
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Goemon%20-%20New%20Age%20Shutsudou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Goemon%20-%20New%20Age%20Shutsudou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Goemon%20-%20New%20Age%20Shutsudou%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

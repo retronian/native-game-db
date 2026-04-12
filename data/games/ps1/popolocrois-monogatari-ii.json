@@ -1,0 +1,47 @@
+{
+  "id": "popolocrois-monogatari-ii",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PoPoLoCrois Monogatari II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポポロクロイス物語 II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PoPoLoCrois Monogatari II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 936744848,
+      "crc32": "ced9ba26",
+      "md5": "e0d3db963430f42ea4cd6a9ebd238841",
+      "sha1": "c2e5f2b73d90ab38660565fbbbae8deee1e75f53"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63016
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/PoPoLoCrois%20Monogatari%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "metal-gear-solid-vr-missions",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metal Gear Solid - VR Missions",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Metal Gear Solid: Special Missions",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metal Gear Solid - VR Missions (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 325443904,
+      "crc32": "4b6de813",
+      "md5": "c0a2303990e7e9e04a3500f927617efc",
+      "sha1": "3dd1ff19d3bb315df2355aace8d302b8c8631ebc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18683
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

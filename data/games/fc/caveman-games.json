@@ -1,0 +1,51 @@
+{
+  "id": "caveman-games",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Caveman Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Caveman Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "2d734f45",
+      "md5": "bc5033d57419f0e1d56bde1b16da3cb8",
+      "sha1": "d1731009be95b08b315796156de52fb5cf271b1c",
+      "sha256": "15eb2903cd894b19ae4b8c989e8766d8116a48852b80f59ea17840982d7bbb98"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48100
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Caveman%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Caveman%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Caveman%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

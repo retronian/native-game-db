@@ -1,0 +1,67 @@
+{
+  "id": "gem-gem-monster",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gem Gem Monster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジェムジェムモンスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gem Gem Monster (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "de7505c0",
+      "md5": "286b53aa6f97e97a8d2c26801c8b2e91",
+      "sha1": "8b1396cf9dbc77246b3443810282b8b9bcb65a67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228551
+  },
+  "descriptions": [
+    {
+      "text": "エネルギークリスタルで満ちた世界では、特別な缶を使ってモンスターに変えることができます。何世紀にもわたり、人間はモンスター同士を戦わせるために訓練してきました。しかし、「クール・ジョー」という名のトレーナーが戦いのルールを破り続けており、彼が何を企んでいるのかを突き止めるのはあなたの役目です。クリスタルを集めてモンスターに変えましょう。あなたのモンスターを他のモンスターと戦わせて経験値を獲得し、能力を向上させることができます。また、バトルに勝つことでさらに多くのクリスタルを手に入れることも可能です。モンスターを作成するだけでなく、クリスタルはモンスターが攻撃や回復能力を学ぶためにも使用できます。60種類以上のモンスターを集めることができるので、あなたを忙しくさせる要素がたくさんあります。「リル・モンスター」でクール・ジョーに関する真実を見つけ出してみてください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gem%20Gem%20Monster%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gem%20Gem%20Monster%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gem%20Gem%20Monster%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

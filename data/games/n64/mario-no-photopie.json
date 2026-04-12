@@ -1,0 +1,58 @@
+{
+  "id": "mario-no-photopie",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mario no Photopie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マリオのふぉとぴー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mario no Photopie (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NMPJ",
+      "size": 16777216,
+      "crc32": "176b3683",
+      "md5": "7f4ed2aaf94a2197b0ad63c6ece9dea9",
+      "sha1": "3d591ea869696f067913308886edea544b77ed3f",
+      "sha256": "616f74a23cd5730fed7059892cc87420e4f7da174b425ebe8eff088366a7d252"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Mario%20no%20Photopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Mario%20no%20Photopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Mario%20no%20Photopie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

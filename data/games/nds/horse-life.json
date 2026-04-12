@@ -1,0 +1,51 @@
+{
+  "id": "horse-life",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Horse Life",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Horse Life (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YHXE",
+      "size": 16777216,
+      "crc32": "e16cfc36",
+      "md5": "718f0f08c3a9e8e5c3381d60be6d1f90",
+      "sha1": "88ff9d4d23110aa2e04586a510ef060c8482d053"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47948
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Horse%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Horse%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Horse%20Life%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "derby-stallion-zenkoku-ban",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Derby Stallion - Zenkoku Ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダービースタリオン 全国版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Derby Stallion - Zenkoku Ban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0f88b090",
+      "md5": "a29a8a9370bf5edb78e75aa057cc2138",
+      "sha1": "270fffc6fc99a34a93a9ca9c4311d54106fdc591",
+      "sha256": "750b4c525c02e84dcfe73520b286f3bfe375f9f6bc01a017990ba58b21a72a6b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Derby%20Stallion%20-%20Zenkoku%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Derby%20Stallion%20-%20Zenkoku%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Derby%20Stallion%20-%20Zenkoku%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "magic-carpet-1001",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magic Carpet 1001",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 222580
+  },
+  "first_release_date": "1991-12-31",
+  "roms": [
+    {
+      "name": "Magic Carpet 1001 (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "fa09fa15",
+      "md5": "4e7bf2ba68e7af64016555ab47d8c850",
+      "sha1": "fed65ff6ff9a534a19db07e23edb33cd8b0f6e5a",
+      "sha256": "3aa0eb5ccbf2bf38df6017804fe89fcce6f7772785dad5b07e2e2163adf9fe8c"
+    },
+    {
+      "name": "Magic Carpet 1001 (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 65552,
+      "crc32": "bd61c240",
+      "md5": "6d009f3e112d8803486c3347cb98ff6f",
+      "sha1": "c9b7e72747c94c676582abda883ac881a57e401d",
+      "sha256": "369a931a549bc3643e02b10b4c9b0a148415808e235c74c951264b6d8231a95a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Magic%20Carpet%201001%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Magic%20Carpet%201001%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Magic%20Carpet%201001%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

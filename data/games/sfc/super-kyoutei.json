@@ -1,0 +1,96 @@
+{
+  "id": "super-kyoutei",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Kyoutei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "競艇 スーパーきょうてい",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Kyoutei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "c6fe7f3a",
+      "md5": "3819ad55dcab756feb2798755b84c65d",
+      "sha1": "fb31014e12f106daf1bad8653fe69906a5abe54d",
+      "sha256": "5da4c75ea5097532405fad0039d4bc49b928a9adbfc80a8fcc4060ee8b2f452a"
+    },
+    {
+      "name": "Super Kyoutei (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "593c10b1",
+      "md5": "2ece0b2d0a505857105770f792402e76",
+      "sha1": "0db0f1a07bf783ca63e6be4ca3f8046cc0b24dbe",
+      "sha256": "ff0d2309105a0644121b9be80b133ed6cf012b39217798b953d9ae6629933915"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37817
+  },
+  "descriptions": [
+    {
+      "text": "スーパーきょうていは、ニホンブッサン（ニチブツ）によるシミュレーションゲームで、プレイヤーはモーターボートレースに賭けたりスポンサーになったりします。このゲームは、スーパーファミコンの多くの競馬シミュレーションと構造が似ており、レースはCPUによって自動的に進行し、プレイヤーのインタラクションはシミュレーション要素に限られています。また、プレイヤーは自分自身のレースを慎重に定義されたパラメータで作成することもでき、実際のモーターボートレースをシミュレートして賭けることが可能です。\n\nこのゲームは、同じテーマの「実戦競艇」が同月にイマジニアから発売された後に登場しました。1996年には続編の「スーパーきょうてい2」がリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Kyoutei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Kyoutei%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Kyoutei%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Kyoutei%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

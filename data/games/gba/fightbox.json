@@ -1,0 +1,48 @@
+{
+  "id": "fightbox",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "FightBox",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "FightBox (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BOXP",
+      "size": 4194304,
+      "crc32": "928b4e05",
+      "md5": "8d4b0e1203548601a7c34c20680c0b75",
+      "sha1": "0e3a4509df4ef1c2f292b9b450bae66522dfe8df"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/FightBox%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/FightBox%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/FightBox%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

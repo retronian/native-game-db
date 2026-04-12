@@ -1,0 +1,67 @@
+{
+  "id": "doraemon-no-study-boy-kanji-yomikaki-master",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon no Study Boy - Kanji Yomikaki Master",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもんのスタディボーイ かんじよみかきマスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon no Study Boy - Kanji Yomikaki Master (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "70156da7",
+      "md5": "e599e5aab2cfe2fc95d340a5c910d87e",
+      "sha1": "4b7ec303305daed053243b125a9aebc44f3e221e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65540
+  },
+  "descriptions": [
+    {
+      "text": "小学生向けのドラえもん学習ゲームです。このゲームは、小学校で学ぶ「勉強漢字」の習得に特化しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-07-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Doraemon%20no%20Study%20Boy%20-%20Kanji%20Yomikaki%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Doraemon%20no%20Study%20Boy%20-%20Kanji%20Yomikaki%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Doraemon%20no%20Study%20Boy%20-%20Kanji%20Yomikaki%20Master%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ultra-baseball-jitsumei-ban-2",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultra Baseball Jitsumei Ban 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルトラベースボール 実名版2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウルトラベースボール 実名版 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultra Baseball Jitsumei Ban 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0b108549",
+      "md5": "b03f6535a9030cb74ad8f066430c2a21",
+      "sha1": "39d716b70698fd4790a0ad97983a83e28c16adec",
+      "sha256": "fa8d039946cc7056fffba029de534ae88fdd19a865ebd558ea4503a16e03b16a"
+    },
+    {
+      "name": "Ultra Baseball Jitsumei Ban 2 (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a76144a2",
+      "md5": "68ab0ab25b27d3a4b1bc8d5567ca703e",
+      "sha1": "dba0c6585315ed6e92cfabfeec03495010612634",
+      "sha256": "ea1292443badcbca652f7cdc4652e6373ba1c4ad7fb17bb8a8668eb159bfcd14"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38235
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ultra%20Baseball%20Jitsumei%20Ban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ultra%20Baseball%20Jitsumei%20Ban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ultra%20Baseball%20Jitsumei%20Ban%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

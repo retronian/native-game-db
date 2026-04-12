@@ -1,0 +1,66 @@
+{
+  "id": "kyuukyoku-harikiri-stadium-88-senshu-shin-data-version",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "究極ハリキリスタジアム '88選手新データ版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "究極ハリキリスタジアム '88選手 新データバージョン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5ef272fa",
+      "md5": "cb9ef54701e7881f2b4528c7ab390daa",
+      "sha1": "2736f85931281ef90f38fade188a5d404f1ee5a4",
+      "sha256": "5d85562d2b0d26b0ce158cb41d5f7bb2697527d956d62aac0a18c186c608005f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kyuukyoku%20Harikiri%20Stadium%20-%20%2788%20Senshu%20Shin%20Data%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kyuukyoku%20Harikiri%20Stadium%20-%20%2788%20Senshu%20Shin%20Data%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kyuukyoku%20Harikiri%20Stadium%20-%20%2788%20Senshu%20Shin%20Data%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

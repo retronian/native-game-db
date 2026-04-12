@@ -1,0 +1,51 @@
+{
+  "id": "virtual-pool-3",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Virtual Pool 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Virtual Pool 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 128360624,
+      "crc32": "d250247c",
+      "md5": "87fa188b26eb0f63e23bda12054ffd8a",
+      "sha1": "368dfed835f64b86cc6ed599ded0ae701e8eefc0",
+      "sha256": "c32800442101c319ceafbc03500d610e921d1310c9e9fe7ea16510c7a982af98"
+    }
+  ],
+  "external_ids": {
+    "igdb": 938
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Virtual%20Pool%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Virtual%20Pool%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Virtual%20Pool%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

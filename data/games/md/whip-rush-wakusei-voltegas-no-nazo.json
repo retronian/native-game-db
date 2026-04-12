@@ -1,0 +1,75 @@
+{
+  "id": "whip-rush-wakusei-voltegas-no-nazo",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Whip Rush - Wakusei Voltegas no Nazo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィップ ラッシュ 惑星ボルテガスの謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウィップラッシュ 惑星ボルテガスの謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Whip Rush - Wakusei Voltegas no Nazo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G4031-00",
+      "size": 524288,
+      "crc32": "8084b4d1",
+      "md5": "d0325f369183f1153e0ce825283e6d7a",
+      "sha1": "c7aac47bd0ecd6018ec1f1f4b42e53f27e318b15",
+      "sha256": "862e61f06bbacd4f2724c919e3e0f15645ee57c53dc566842ce3931750fff629"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウィップ ラッシュは、ガイアレスやRタイプに似た横スクロール（特定の垂直スクロールの下降と上昇を含む）シューティングゲームです。\n\n選択した難易度に応じて、3、4、または6機の宇宙船からスタートします。\n\n移動と射撃に加えて、あなたの宇宙船にはパワークローがあり、攻撃と防御の目的で回転させたり伸ばしたりすることができます。パワークローは最大で2ユニット装備でき、弾を発射することができます。\n\nアップグレード可能な武器には、レーザー、ミサイル、ファイアボール、パワークローがあります。\n\nレーザーは前方にのみ発射されますが、速くて強力です。ミサイルは前後に発射でき、パワークローから発射すると敵に自動追尾します。ファイアボールは宇宙船の進行方向とは逆に発射されます。\n\nほとんどの他のゲームとは異なり、あなたの宇宙船は可変速度を持っており、さまざまな障害物や敵を乗り越える際に役立ちます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Whip%20Rush%20-%20Wakusei%20Voltegas%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Whip%20Rush%20-%20Wakusei%20Voltegas%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Whip%20Rush%20-%20Wakusei%20Voltegas%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

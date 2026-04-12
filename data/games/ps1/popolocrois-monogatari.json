@@ -1,0 +1,59 @@
+{
+  "id": "popolocrois-monogatari",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PoPoLoCrois Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポポロクロイス物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PoPoLoCrois Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 268479136,
+      "crc32": "6cf91810",
+      "md5": "1bc1421605cb28155d6d3e4b8bc0ecf1",
+      "sha1": "cc0d3e1f8dfa2ff052b76e8a7f07c7d1b2816b27"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63015
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/PoPoLoCrois%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/PoPoLoCrois%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/PoPoLoCrois%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

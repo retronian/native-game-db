@@ -1,0 +1,51 @@
+{
+  "id": "play-yan",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Play-Yan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Play-Yan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "27f7b403",
+      "md5": "05ad07333f42c2e6f727ac6e72a1a5bd",
+      "sha1": "7f432bbf6f0e5e1b8324c7d6bb1d81a254a6e870",
+      "sha256": "dafc062def38af51534d1738be2fb0646c58b0d60dec8daa25754b8b97af050a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49765
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Play-Yan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Play-Yan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Play-Yan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

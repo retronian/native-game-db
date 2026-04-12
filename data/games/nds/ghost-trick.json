@@ -1,0 +1,49 @@
+{
+  "id": "ghost-trick",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ghost Trick",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ghost Trick (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BGTJ",
+      "size": 134217728,
+      "crc32": "105ddd9e",
+      "md5": "2e0629dbacef1e5f55bb254377fc0367",
+      "sha1": "323901c81e6e9300e2221e5cc42289cc5be73dce",
+      "sha256": "eda64046a4cf4903e965a25d6be4255388b71f0d2bb3ae58c95cf6c7dd1e7772"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghost%20Trick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ghost%20Trick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ghost%20Trick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

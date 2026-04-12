@@ -1,0 +1,61 @@
+{
+  "id": "marko",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Marko's Magic Football",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marko (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-88086-00",
+      "size": 2097152,
+      "crc32": "2b8c8cce",
+      "md5": "74e2d605309f3d23174d6ac15d7c9608",
+      "sha1": "b73d01599d8201dc3bd98fdc9cc262e14dbc52b4",
+      "sha256": "6604862fc06f2c7f0f50941390c9e265e45dfaec4643eb3ae515e530898a30c6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 19774
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Marko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Marko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Marko%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "daisenryaku-expert-wwii-war-in-europe",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daisenryaku Expert WWII - War in Europe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大戦略エキスパート",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "大戦略エキスパートWWII WAR IN EUROPE",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daisenryaku Expert WWII - War in Europe (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "4cd45939",
+      "md5": "812c6119d209925116a0903d7dc92102",
+      "sha1": "142d2529d9045856d554c567baef27e4668bb2ad",
+      "sha256": "12d86886648e965381c92e02e1b32254d170d35f0596abd95a582bb7c659eb67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44420
+  },
+  "descriptions": [
+    {
+      "text": "軍事ターン制ストラテジーゲームです。六角形のマップ上でユニットを移動させながらプレイします。シナリオモードとキャンペーンモードがあります。プレイヤーは通常、デフォルトで第三帝国を操作しますが、ゲーム開始前に変更可能です。戦闘は東部戦線と西部戦線の両方で行われます。最終決戦では、ベルリンを防衛するか、占領を試みることになります。ほとんどの大戦略エキスパートシリーズと同様に、航空機は空港でのみ製造でき、艦船はドックでのみ製造でき、陸上ユニットは本部に最も近い都市の六角形でのみ製造できます。ダイブボンバーは都市や空港を破壊し、人々や物資を壊滅させることができます。撤退中でも、敵の戦闘員は撤退するユニットに追いつき、十分な弾薬とガソリンがあればそれを排除することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Daisenryaku%20Expert%20WWII%20-%20War%20in%20Europe%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Daisenryaku%20Expert%20WWII%20-%20War%20in%20Europe%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Daisenryaku%20Expert%20WWII%20-%20War%20in%20Europe%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

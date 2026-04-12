@@ -1,0 +1,65 @@
+{
+  "id": "dragon-s-magic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon's Magic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンズ マジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon's Magic (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0cf53835",
+      "md5": "495a4b0cc1249fab9d41b7717c619b55",
+      "sha1": "f5271ac9111920c26378a27188c228d531415684",
+      "sha256": "f1331e982e86362fe5c5b41279d3d676d54626db0b31f51dcb91a566c8808648"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この「ドラゴンズ マジック」は、以前のアーケードタイトルとは異なるバージョンです。オリジナルのアーケード体験を再現するのではなく、ゲームはアクションやプラットフォーム要素に焦点を当てており、コナミの「キャッスルヴァニア」シリーズに似ています。\n\n物語は、勇敢な英雄ダークが悪のドラゴン、シンジからプリンセス・ダフネを救うための冒険を始めるところから始まります。しかし、彼がプリンセスを救う前に、敵や障害物で満ちた24のレベルを克服しなければなりません。幸いなことに、ダークは信頼できる剣と、遠距離武器（斧、ナイフ、手裏剣）を使う能力を持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%27s%20Magic%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dragon%27s%20Magic%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%27s%20Magic%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

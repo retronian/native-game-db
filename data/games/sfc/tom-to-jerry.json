@@ -1,0 +1,62 @@
+{
+  "id": "tom-to-jerry",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom to Jerry",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トムとジェリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom to Jerry (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ba2de054",
+      "md5": "5ca81cef38f609c6eb3aef7d567137f5",
+      "sha1": "8ae694dd0113f4c8dc6dd878b85a5f68dad374ec",
+      "sha256": "87c233dc7d31ccc1de31587cf3341f0d4cf0eaa4999a789cbab1b742ddd103c7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "MGMの世界的に有名なアニメを基にしたこのゲームでは、プレイヤーはジェリー、ネズミを操作します（2人プレイモードでは、P2がジェリーの甥のタフィーを操作します）。彼は映画館、ゴミ捨て場、おもちゃのステージ、家の内部という4つの異なる世界を探索します。ゲームの操作はシンプルで、Bボタンを押すとジェリーやタフィーがジャンプします（着地後に軽く再度押すとスーパージャンプが発動します）。A/Y/Xボタンを使うことで、敵に向かって上に向けてビー玉を投げたり（Yボタン）、下に向けて投げたり（X/Yボタン）します。\n\nゲームを進める中でエクストラライフを獲得する方法は2つあります。最も珍しく、時には難しい方法は1アップアイコンを見つけることですが、最も簡単な方法はレベル内に散らばっている100個の小さなチーズボール（チーズビット）を集めることです。また、ジェリーとタフィーの体力メーターは4つのハートの形で表示され、集めた大きなチーズのウェッジ（チーズチャンク）で回復できます。各世界の最後では、ジェリーとタフィーがトム、猫と対決します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Tom%20to%20Jerry%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Tom%20to%20Jerry%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Tom%20to%20Jerry%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

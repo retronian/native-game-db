@@ -1,0 +1,79 @@
+{
+  "id": "fabulous-finds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fabulous Finds",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fabulous Finds (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFBP",
+      "size": 16777216,
+      "crc32": "5c893068",
+      "md5": "e71fba83201310b291132830dcf5a7a3",
+      "sha1": "5702d17c97448d8827529dd1532e5f62f9d6773d"
+    },
+    {
+      "name": "Fabulous Finds (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFBE",
+      "size": 16777216,
+      "crc32": "7020ed89",
+      "md5": "d1db568bae246a4d2c936ebbd8f6ae8e",
+      "sha1": "d403cea9ff1f32ad84d908bb63663042f2774794"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67652
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fabulous%20Finds%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fabulous%20Finds%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fabulous%20Finds%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fabulous%20Finds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Fabulous%20Finds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fabulous%20Finds%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

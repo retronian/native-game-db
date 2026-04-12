@@ -1,0 +1,93 @@
+{
+  "id": "solstice-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solstice II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソルスティスII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solstice II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "21d280f8",
+      "md5": "670b523fc13f30128fd27bb571fe5c77",
+      "sha1": "1003e952d151bda8d69714df51e2595eab96f9dd",
+      "sha256": "ac5539d6102e892e66c23cd16c1c0e8c06a68e06b135c05ecf3b78a850e82a22"
+    },
+    {
+      "name": "Solstice II (Japan) (Beta) (1993-03-03)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "37c2ec0c",
+      "md5": "4e307a48e81f791bb4ed7f9b8afe52a9",
+      "sha1": "a20974aeb0b3d23e13313ceca0831b1e00d34cb1",
+      "sha256": "aee6797bfdaa51611779b12689c94e3d8e1514d7cbd630c6ffe3d0e6feeb6735"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "エクイノックスは、クラシックなNESゲーム「ソルスティス」の続編です。非常にカラフルなグラフィックで3Dアイソメトリックビューで表現されています。このゲームは、次のダンジョンに進むためにパズルを解くことに基づいています。あなたは、前作の英雄シャダックスの息子を操作します。シャダックスは邪悪な魔女に誘拐されており、彼を救出するのはあなたの使命です。冒険の途中で使用できるさまざまな武器や強力な魔法があり、その中にはパズルを解くために必要なものもあります。エクイノックスでは、地上のマップと地下のマップの両方を移動できますが、戦闘を除くすべてのアクションは地下で行われます。もし以前にゼルダのゲームをプレイしたことがあれば、多くの要素が馴染み深いでしょう：鍵を探し、モンスターを撃破または避け、エンドレベルの守護者に会うために物理的なパズルを解かなければなりません。その守護者を倒すことで次に進むことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Solstice%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Solstice%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Solstice%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Solstice%20II%20%28Japan%29%20%28Beta%29%20%281993-03-03%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Solstice%20II%20%28Japan%29%20%28Beta%29%20%281993-03-03%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Solstice%20II%20%28Japan%29%20%28Beta%29%20%281993-03-03%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

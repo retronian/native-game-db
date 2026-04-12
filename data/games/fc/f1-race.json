@@ -1,0 +1,77 @@
+{
+  "id": "f1-race",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F1 Race",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "F1 レース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F1 Race (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "ce272fef",
+      "md5": "cd8549debeac55480a4f5c550d25b126",
+      "sha1": "671f1a0b7023c42a2cf08b2da4bb475cc6f00832",
+      "sha256": "998189d584533897788e4722b3ece6c7248d39f6d7004b3cc1514335f81f636f"
+    },
+    {
+      "name": "F1 Race (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "217ce97a",
+      "md5": "d7379fd0d784fad3786f8aedb6c47086",
+      "sha1": "84bf502ee500adfbeb320b701b2adcf9caa80bf3",
+      "sha256": "82098c98b50b7aca32ad2d5bfcb12309a3386463de8d87ff440f99c9eb0b4fdf"
+    },
+    {
+      "name": "F1 Race (Russia) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "4d4c49ae",
+      "md5": "fe9ce3307cbc448e3fffa3f0e97f1a74",
+      "sha1": "29136cdfd25c46afb68c98af65f03b5ece164974",
+      "sha256": "ecd6d451b38d552144426663960a4d32d07416dfac03ac5dbd1139d5e2f88f56"
+    },
+    {
+      "name": "F1 Race (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "48e07d90",
+      "md5": "c2809c98037dc3c9c10d65f39614a04b",
+      "sha1": "e26944ca70191933a88620985c940a319b236590",
+      "sha256": "d1d28f5e40e80faf77abb99075d5e9892a75f3692e066b2e92ee552540fd6220"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/F1%20Race%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/F1%20Race%20%28Russia%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

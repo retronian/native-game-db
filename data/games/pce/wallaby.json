@@ -1,0 +1,47 @@
+{
+  "id": "wallaby",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wallaby!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワラビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wallaby!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "0112d0c7",
+      "md5": "597331c0b7cf491d042a055ed1e2ab9e",
+      "sha1": "03ad5a8b2bb65eabebe73c1e2ca1e1846cc172bf",
+      "sha256": "fec522ab9fe4474338138341b21dd593844f8a6eb0227d96f72133a9f8e9efa2"
+    },
+    {
+      "name": "Wallaby!! (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "7d023b19",
+      "md5": "37701ac2f3ec40d21a75c2aa879a5f57",
+      "sha1": "8348f52019a47598c3fb7583350bbb0fc56d642c",
+      "sha256": "827458cfb2dab26986703fa1411fbd8d34ff7af97e219873eeb9a7631d5dff7d"
+    }
+  ]
+}

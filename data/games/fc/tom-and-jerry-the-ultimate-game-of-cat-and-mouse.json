@@ -1,0 +1,50 @@
+{
+  "id": "tom-and-jerry-the-ultimate-game-of-cat-and-mouse",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom & Jerry - The Ultimate Game of Cat and Mouse!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "トムとジェリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom & Jerry - The Ultimate Game of Cat and Mouse! (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262160,
+      "crc32": "cd2fd883",
+      "md5": "a5c98fc44dcd01c1539506d4ef404300",
+      "sha1": "e1abdb8fa1e12f68fe052e760d4aae3db9b0c878",
+      "sha256": "97e7cb6ad466ed48f4bbc26651cfa90d4c16eb538c76a8de795aa5772021e4ac"
+    },
+    {
+      "name": "Tom & Jerry - The Ultimate Game of Cat and Mouse! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6d82d2cf",
+      "md5": "26856505d49d067ece52b169a3959147",
+      "sha1": "705c8b0886cd9eb37b898011815f66305d601449",
+      "sha256": "13c6f478367901754a857bc1ba53dfbd8e1c117c13761a45d9b094543cdd8cec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8023
+  }
+}

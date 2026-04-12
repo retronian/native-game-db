@@ -1,0 +1,64 @@
+{
+  "id": "noddy-in-toyland",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Noddy in Toyland",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Noddy in Toyland (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2ZP",
+      "size": 8388608,
+      "crc32": "e1a8fc99",
+      "md5": "059f2f4aedf3c46e97cbbe5362bceafb",
+      "sha1": "ec77e3a5e66ea88c0e4b5a03a44af4da83214caf"
+    },
+    {
+      "name": "Noddy in Toyland (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2ZX",
+      "size": 8388608,
+      "crc32": "372086fd",
+      "md5": "92fd65a0b303c4faa4fe3dc78b4c4bc5",
+      "sha1": "adc4a01c10f9f9acd62c989e87449fe2e7d1aa69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Noddy%20in%20Toyland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Noddy%20in%20Toyland%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Noddy%20in%20Toyland%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Noddy%20in%20Toyland%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

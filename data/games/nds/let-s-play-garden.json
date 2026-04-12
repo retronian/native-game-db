@@ -1,0 +1,42 @@
+{
+  "id": "let-s-play-garden",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Let's Play Garden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Let's Play Garden (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPYE",
+      "size": 8388608,
+      "crc32": "42664541",
+      "md5": "8edfb809d96931cbfd157d0164fbf522",
+      "sha1": "cb1dd8bc1f76fa3794c17665f7f01a7205ebcc1f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Play%20Garden%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Play%20Garden%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

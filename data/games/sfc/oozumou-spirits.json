@@ -1,0 +1,74 @@
+{
+  "id": "oozumou-spirits",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oozumou Spirits",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大相撲魂 スピリット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "大相撲魂",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oozumou Spirits (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "f78b76e9",
+      "md5": "c45215a3ad7f1e8581aca7f4982f6e1b",
+      "sha1": "a38d39d6f1e71878c53523fb9d1177210c453be1",
+      "sha256": "178fbb928d73baca439e315890f311c8d34d1571f427dc77539ba9e40fc43b9d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "大相撲魂 スピリットは、相撲のシミュレーションゲームです。プレイヤーは力士を作成し、トレーニングや他のCPU力士との対戦を通じてさまざまなステータスを向上させます。このゲームは、よりカジュアルなレスリングゲームの体験を提供するのではなく、リアルな相撲の技や組み技に重点を置いています。\n\n相撲の日本中心の文化のため、このゲームはローカライズされることはありませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Oozumou%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Oozumou%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Oozumou%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

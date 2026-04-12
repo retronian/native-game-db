@@ -1,0 +1,68 @@
+{
+  "id": "logic-machines",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Logic Machines",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Logic Machines (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CV7E",
+      "size": 8388608,
+      "crc32": "d8c05bf5",
+      "md5": "87a1c4e93ad155c9e4b8827bc8eed38f",
+      "sha1": "0618be10b9e50b3cedf36fd45436b066a45f9ac2"
+    },
+    {
+      "name": "Logic Machines (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CV7P",
+      "size": 8388608,
+      "crc32": "f6d0c84b",
+      "md5": "ce8f7a2e5b458c6b4ec3fcc4b2f50bb8",
+      "sha1": "0609a18f90e240cc77e6936f003b4b15c913e474",
+      "sha256": "988b447b4b9d2cc612eda73275e674fe404bb74387d11a9e0bf5c2a920a9e28b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47770
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Logic%20Machines%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Logic%20Machines%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Logic%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Logic%20Machines%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "spanish-buddy",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spanish Buddy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spanish Buddy (Europe) (Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSBX",
+      "size": 67108864,
+      "crc32": "43c07319",
+      "md5": "bec453a6430ca7b9e32ce389a0b73ca0",
+      "sha1": "1a767720b1015896b5be3b322c37e8bc58412cde"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Spanish%20Buddy%20%28Europe%29%20%28Fr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Spanish%20Buddy%20%28Europe%29%20%28Fr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

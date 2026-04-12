@@ -1,0 +1,83 @@
+{
+  "id": "super-momotarou-dentetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Momotarou Dentetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー桃太郎電鉄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "SUPER桃太郎電鉄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "桃太郎電鉄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Momotarou Dentetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "4667456d",
+      "md5": "921f02ff4d08e3843c70e0bc9e6c0932",
+      "sha1": "14aa2022e2c3978ef67e4793f1253a62f4ae3184",
+      "sha256": "6549a069f4c58044f8fdba96c55f710e21ce041baf7e9ad66d29c611e3d30553"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーモモタロウ電鉄は、ハドソンのモモタロウキャラクターをフィーチャーした、財務要素を含む列車と輸送をテーマにしたボードゲームです。このゲームは、同名の日本の民話の英雄に基づいています。モモタロウ電鉄シリーズの第2作目であり、16ビットコンソールで初めてリリースされた作品 - PCエンジン - であるため、タイトルに「スーパ－」が付いています。PCエンジン版のリリースから数年後、スーパーモモタロウ電鉄は任天堂ファミコンやゲームボーイでも発売されました。続編としてスーパーモモタロウ電鉄IIや多くの後続作が登場しました。\n\nゲームの目的は、地図を旅し、ビジネス取引を通じて領地を獲得することです。これは、モノポリーやいただきストリートに似ています。プレイヤーは限られた資源を巡って競い合い、貧乏神のようなCPUの脅威にも対処しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Momotarou%20Dentetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

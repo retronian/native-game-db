@@ -1,0 +1,49 @@
+{
+  "id": "more-touchmaster",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "More TouchMaster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "More TouchMaster (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCMP",
+      "size": 67108864,
+      "crc32": "a0542b30",
+      "md5": "459852be21fc91d66cc650558236e616",
+      "sha1": "01f17fd0f37b085a0f71b27f4781d8ed49b63160",
+      "sha256": "0c2ed6d590f699d3f84d878e4346bfb2ae8168f397dd6afff15e32bdac93dccd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/More%20TouchMaster%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/More%20TouchMaster%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/More%20TouchMaster%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

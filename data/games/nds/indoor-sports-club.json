@@ -1,0 +1,36 @@
+{
+  "id": "indoor-sports-club",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Indoor Sports Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Indoor Sports Club (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYRP",
+      "size": 8388608,
+      "crc32": "cf954d0c",
+      "md5": "0c22cf291340ccfea927d7250384b78d",
+      "sha1": "c68190b31bb5e73a91e65a1f2bda33f354724e3d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Indoor%20Sports%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

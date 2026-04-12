@@ -1,0 +1,64 @@
+{
+  "id": "beatmania-gb-2-gotcha-mix",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beatmania GB 2 - Gotcha Mix",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガッチャミックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "59beb372",
+      "md5": "25f20cdc0f6f70d0bc5430a9b0d48742",
+      "sha1": "b6273c434e880d6f9b5f4f6f53307bda9902fff1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは、リズムに合わせてボタンをタイミングよく押すアクションゲームの第2のゲームボーイ移植版です。ポップソングやアニメソングを含む合計25曲が収録されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Beatmania%20GB%202%20-%20Gotcha%20Mix%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Beatmania%20GB%202%20-%20Gotcha%20Mix%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Beatmania%20GB%202%20-%20Gotcha%20Mix%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

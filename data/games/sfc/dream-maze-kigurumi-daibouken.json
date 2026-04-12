@@ -1,0 +1,65 @@
+{
+  "id": "dream-maze-kigurumi-daibouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dream Maze - Kigurumi Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "きぐるみ大冒険 どりいむめいず 夢迷宮",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dream Maze - Kigurumi Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4b17a200",
+      "md5": "72d7859813a830721e15cc784da11b6e",
+      "sha1": "5a15a4d4ed812f814370209ac70c1ac933b66005",
+      "sha256": "041a0c64d551fc4902ecc6f317d969abdf8c3713124a973026f17bc56c6ebb76"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "毎晩、若い少年は不思議な夢を見ます。その夢の中で、声が彼を呼びます。この夢の世界には、エンデリアという魔法の王国があります。エンデリアの女王と彼女の娘たちは悪魔アクマに誘拐され、彼が今や君臨しています。少年は夢の世界に入り、悪魔を倒して貴族たちを救わなければなりません。\n\n「夢迷宮：きぐるみ大冒険」は、ステップ移動とランダムエンカウンターを特徴とする一人称ダンジョンクローラーで、ターン制のエンジンを使用したダンジョンマスターシリーズの簡略版のようなゲームです。主な違いの一つは、そのプレゼンテーションです。通常の湿っぽく暗いダンジョンの代わりに、このゲームではケーキやキャンディでできた表面があります。敵として登場するのは骸骨やオークではなく、毛むくじゃらで可愛い擬人化された動物たちです。これらの生き物を倒すと、時々彼らの皮を残し、英雄はそれを集めて装備することで統計や新しい能力を変えることができます。また、時折キャンディをドロップし、これはゲーム内の通貨となります。各レベルにはいくつかのショップがあります：皮を変更・保存するためのテーラーショップ（最大で6つの皮を持ち運ぶことが可能）、ポーションや健康ブーストのショップなどです。\n\nランダムな敵との遭遇が発生すると、戦うか逃げるかの選択肢があるメニューが表示されます。戦うことを選ぶと、さらに別のメニューが表示され、そこには「パンチ」「キック」「タレント」「防御」「アイテム」というコマンドがあります。最初の二つのいずれかを選ぶと、プレイヤーは敵の体の一部の上にアイコン（拳や足）を配置できるグリッドが表示されます。これにより、異なる敵には異なる弱点があり、それを利用する戦略的要素がゲームに加わります。「タレント」オプションでは、皮が持つ特別な能力にアクセスできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dream%20Maze%20-%20Kigurumi%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dream%20Maze%20-%20Kigurumi%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dream%20Maze%20-%20Kigurumi%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

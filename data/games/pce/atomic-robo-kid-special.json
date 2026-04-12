@@ -1,0 +1,74 @@
+{
+  "id": "atomic-robo-kid-special",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Atomic Robo-Kid Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トミックロボキッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アトミックロボキッドスペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Atomic Robo-Kid Special (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "dd175efd",
+      "md5": "548ca5eb135f526f3a2837f5259d795f",
+      "sha1": "1ea46287855ef25e4614a3f37a7037baa5a49545",
+      "sha256": "538ee65174b39b792620a613b7c39cc5dc55dae2fda1af73ee79228035161a38"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42090
+  },
+  "descriptions": [
+    {
+      "text": "『アトミックロボキッドスペシャル』は、1988年にUPLがアーケード用にリリースした『アトミックロボキッド』のPCエンジン版です。他のシステム向けにリリースされたバージョンはすべてアーケードの直訳でしたが、PCエンジン版はゼロから作り直されているため、タイトルに「スペシャル」という修飾語が付いています。PCエンジン版は日本国外ではリリースされませんでした。ゲームプレイは、標準の『アトミックロボキッド』と同様に、主人公のロボット戦闘機が一連のステージを通過して出口を探します。各出口はボス敵によってブロックされており、出口にアクセスできるようになる前にボスを倒す必要があります。アトミックロボキッドは最大3つの武器アップグレードを収集し、それらを切り替えることができます。ライフを失うと現在装備しているアップグレードを失いますが、他のアップグレードは保持されます。ゲームは各ステージのプレゼンテーションを変化させます。最初の2つのステージは横スクロール型ですが、他にはライバルとの単画面「デュエル」や、プレイヤーがさまざまな方向に探索する迷路のようなステージなど、さまざまな変化があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Atomic%20Robo-Kid%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Atomic%20Robo-Kid%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Atomic%20Robo-Kid%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

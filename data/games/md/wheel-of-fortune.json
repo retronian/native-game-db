@@ -1,0 +1,52 @@
+{
+  "id": "wheel-of-fortune",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wheel of Fortune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wheel of Fortune (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-83016-00",
+      "size": 524288,
+      "crc32": "c8d8efc3",
+      "md5": "98ea706cf962844253ebb9863a3213c8",
+      "sha1": "ab00e1caa8c86a37e7766b3102d02d433f77470e",
+      "sha256": "9fed0d1928c425e4cb27aaf5431fa12f40941919ed9d1e0420ba187941b2600c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 194569
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

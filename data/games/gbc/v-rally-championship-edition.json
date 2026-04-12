@@ -1,0 +1,103 @@
+{
+  "id": "v-rally-championship-edition",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "V-Rally - Championship Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Vラリー チャンピオンシップエディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "V-Rally Edition '99",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "V-Rally - Championship Edition (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1312b3f7",
+      "md5": "ec1a1e432cba04e33c408a7dad314997",
+      "sha1": "5447f2c317deee8ca6da8f098a7d78f52b87e0cb"
+    },
+    {
+      "name": "V-Rally - Championship Edition (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "fab9d941",
+      "md5": "09fbebc41df99d534290d3033b09814e",
+      "sha1": "c05473dcf45fd4e185f9f3aec3f4e429e4f12bbd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 271979
+  },
+  "descriptions": [
+    {
+      "text": "オフロードラリーのバンプ、ジャンプ、スリル、スピルを手の中で体験できる「Vラリー エディション '99」がゲームボーイカラーに登場。実在のラリーカーから、プジョー 306 マキシ、三菱 ランサー WRC、Vラリー フォード エスコート WRC、スバル インプレッサ WRCの4台を選択できます。そして、インドネシア、サファリ、コルシカ、ニュージーランド、アルプス、イギリス、ギリシャ、アルゼンチン、イタリア、スウェーデンなどのエキゾチックなロケーションで40コースをレースします。各トラックの地形は車のパフォーマンスに影響を与え、雪、土、アスファルトはそれぞれ異なる反応を示すため注意が必要です。地形に加えて、岩、オイルスリック、丘、ジャンプなどの障害物にも注意を払う必要があります。「Vラリー エディション '99」で、あなたが望むすべてのオフロードアクションを手に入れましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/V-Rally%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/V-Rally%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/V-Rally%20-%20Championship%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/V-Rally%20-%20Championship%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/V-Rally%20-%20Championship%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/V-Rally%20-%20Championship%20Edition%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wizardry-empire-fukkatsu-no-tsue",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry Empire - Fukkatsu no Tsue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィ エンパイア 〜復活の杖〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry Empire - Fukkatsu no Tsue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1a10552b",
+      "md5": "fa8360094cae37a838fabcfd333ae300",
+      "sha1": "07a197f0b5e2ab6379faa95eb1e7a519e1306e09"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50049
+  },
+  "descriptions": [
+    {
+      "text": "3DダンジョンRPG「ウィザードリィ エンパイア」シリーズ。完全オリジナルストーリー。崩壊した帝国を再建するために、主人公は王位継承の証である杖を取り替え、新たに開かれた魔法使いに挑む。200種類以上のモンスターとアイテム、130種類の魔法が登場。通信ケーブルを使って前作のデータを引き継ぐことができ、さらに楽しさが増す。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wizardry%20Empire%20-%20Fukkatsu%20no%20Tsue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wizardry%20Empire%20-%20Fukkatsu%20no%20Tsue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wizardry%20Empire%20-%20Fukkatsu%20no%20Tsue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "street-smart",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Street Smart",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ストリートスマート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Sutoriitosmaato",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Street Smart (Japan, USA) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-24083-00",
+      "size": 524288,
+      "crc32": "b1dedfad",
+      "md5": "7a926aaea9e526066a75c253738b633c",
+      "sha1": "a9cb2295b9cd42475904cba19b983e075a1b6014",
+      "sha256": "99235ec69d6c53d8a8cc07c588a5294cdf80762f65f46c2e78c25f336f3c795b"
+    },
+    {
+      "name": "Street Smart (Japan, USA) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "????????-00",
+      "size": 524288,
+      "crc32": "d1de6a2e",
+      "md5": "1e439309c5cced355fb7e94454c82f41",
+      "sha1": "d8f0b2695adf4653b463c6a52ac6b6d41cdb771d",
+      "sha256": "4f43ed7fca37054a4749e0b9c17ee43d7124bfb4e8a01c4c441495ede0e49c7c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 41084
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Street%20Smart%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Street%20Smart%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Street%20Smart%20%28Japan%2C%20USA%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

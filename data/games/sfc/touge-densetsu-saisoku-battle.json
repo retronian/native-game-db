@@ -1,0 +1,85 @@
+{
+  "id": "touge-densetsu-saisoku-battle",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touge Densetsu - Saisoku Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "峠伝説 最速バトル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "峠・伝説 最速バトル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touge Densetsu - Saisoku Battle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "03fd7ad4",
+      "md5": "51e0ff237ec249972dfae3a679d5fee4",
+      "sha1": "d72c79911eb1ed54a22010ed29a37748bc3334cd",
+      "sha256": "3c527034549d98f2545473aa2195aeaf08e067fe0022fb7c0c1009dd7231468c"
+    },
+    {
+      "name": "Touge Densetsu - Saisoku Battle (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "cba34e28",
+      "md5": "8c7f8de639d0b3c3b98509be154fb5e9",
+      "sha1": "e7ee469fb440552a276645c8214b14f438dfa1f7",
+      "sha256": "6ab8a534685b42ecb043c51c46b63052161634b8e8f8eb078f1bee6f15a08fe1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38125
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Touge%20Densetsu%20-%20Saisoku%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Touge%20Densetsu%20-%20Saisoku%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Touge%20Densetsu%20-%20Saisoku%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Touge%20Densetsu%20-%20Saisoku%20Battle%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

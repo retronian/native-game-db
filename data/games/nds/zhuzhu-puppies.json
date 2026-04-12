@@ -1,0 +1,53 @@
+{
+  "id": "zhuzhu-puppies",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ZhuZhu Puppies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "ZhuZhu Puppies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZ8E",
+      "size": 8388608,
+      "crc32": "e0b3ef43",
+      "md5": "94ef4f61af7dc1f9f32e8dd7b123b7c1",
+      "sha1": "af6666eb24b9cb17950ac59f042ebfe8eb9c19c3"
+    },
+    {
+      "name": "ZhuZhu Puppies (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZ8P",
+      "size": 16777216,
+      "crc32": "2df65388",
+      "md5": "614423a88f5af75aee9e120e3f792def",
+      "sha1": "20ce2fedbe2b388f90560fc16d37c46f75d7c5c1",
+      "sha256": "75ba50a726638b91046d9e44fb00200a394f9a3626e1aaca914a3b23c928aaca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ZhuZhu%20Puppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ZhuZhu%20Puppies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "phantasy-star-collection",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star Collection (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYCE",
+      "size": 8388608,
+      "crc32": "e5a7fe17",
+      "md5": "af7e218eb4a7f28f1887b3504647854e",
+      "sha1": "9f2dc591c9b1526f9f965b1c375fb4ea7101fd16",
+      "sha256": "6747a17af7ccb082bab1f2a8ed7d88952ab93879d93173b12331b1e5e8ec1c4e"
+    },
+    {
+      "name": "Phantasy Star Collection (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYCP",
+      "size": 8388608,
+      "crc32": "4d9c671b",
+      "md5": "6c36961dc125f8507c941888640a0272",
+      "sha1": "8b8b31a2bc023121205f4bb87f20240fc0a98c66"
+    }
+  ],
+  "external_ids": {
+    "igdb": 136803
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Phantasy%20Star%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Phantasy%20Star%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Phantasy%20Star%20Collection%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Phantasy%20Star%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Phantasy%20Star%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Phantasy%20Star%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

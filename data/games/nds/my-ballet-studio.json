@@ -1,0 +1,54 @@
+{
+  "id": "my-ballet-studio",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Ballet Studio",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Diva Girls: Diva Ballerina",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Ballet Studio (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPDE",
+      "size": 67108864,
+      "crc32": "b05a266a",
+      "md5": "8cede6233bbd11b433b5dadd98bb29a3",
+      "sha1": "dffc827372c070a8eb8669a44f2c5d7856d2c2af"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20415
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Ballet%20Studio%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Ballet%20Studio%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

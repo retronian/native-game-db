@@ -1,0 +1,105 @@
+{
+  "id": "hoshigami",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hoshigami",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hoshigami (France)",
+      "source": "no_intro",
+      "serial": "AHKF",
+      "size": 67108864,
+      "crc32": "1aebe469",
+      "md5": "81a992a7c2a189d9f495cf9ecd3e6b5e",
+      "sha1": "1b702bc1f80a531fcd213fdeabe96265f58ad730"
+    },
+    {
+      "name": "Hoshigami (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AHKJ",
+      "size": 67108864,
+      "crc32": "df6b487b",
+      "md5": "a3aac5e1936841feab5a57d6663c2f3c",
+      "sha1": "8d3c7ef8a2da0de07cf2923597cc299f37ee4382"
+    },
+    {
+      "name": "Hoshigami (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "AHKK",
+      "size": 67108864,
+      "crc32": "61493d9a",
+      "md5": "0789e5dc8f33566b072a6b326a787250",
+      "sha1": "364d70186f725cf2f4540862d9ee13720803fbce"
+    },
+    {
+      "name": "Hoshigami (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AHKP",
+      "size": 67108864,
+      "crc32": "b64b393b",
+      "md5": "673f785afdaa207c53d1096b7131cfc4",
+      "sha1": "f6249b132fc07a4a6701dcf8b9e0db99d959df18"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hoshigami%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hoshigami%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hoshigami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hoshigami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hoshigami%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hoshigami%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hoshigami%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hoshigami%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

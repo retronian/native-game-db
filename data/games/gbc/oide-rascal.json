@@ -1,0 +1,67 @@
+{
+  "id": "oide-rascal",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oide Rascal",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おいでラスカル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oide Rascal (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9e0799f4",
+      "md5": "8f43bc56783f98e97fe7f51603c1a025",
+      "sha1": "9b73a9dc4424029261579193fdbd5a30ca84052b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 125422
+  },
+  "descriptions": [
+    {
+      "text": "テーマはアニメ「ラスカル」。ラスカルに優しく撫でたり褒めたりして、良い友達になりましょう。ミニゲームをクリアすることで、食べ物などのアイテムを手に入れることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Oide%20Rascal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Oide%20Rascal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Oide%20Rascal%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

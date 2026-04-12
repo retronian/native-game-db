@@ -1,0 +1,64 @@
+{
+  "id": "puzz-loop",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzz Loop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズループ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzz Loop (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "af858234",
+      "md5": "c4354362e13a4dcda40b063d96bd6580",
+      "sha1": "f8b299c665552621ca067886a8f16e842f699487"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バリスティックは、プレイヤーが3つのパターンのボールを隣接させて消す必要があるパズルゲームです。この点では『ぷよぷよ』に似ています。しかし、バリスティックではプレイヤーが画面の中心にいて、ボールを外に向かって発射します。パニック！モードでは、常にボールが出現し、プレイヤーは同じボールを次々と消して、ボールの列を短く保ち、画面の中央に達するのを防がなければなりません。チェックメイトモードでは、限られた数のボールがプレイヤーに与えられ、それを使って画面上のすべてのボールを消さなければなりません。ここでは、消すボールの数を最大化するための戦略が求められます。\n\nバリスティックには対戦モードもあり、プレイヤー同士が挑戦し合うことができます。他のパズルゲームの対戦モードと同様に、1人のプレイヤーが成功すると、もう1人のプレイヤーの画面に追加のボールが出現し、それを消さなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Puzz%20Loop%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Puzz%20Loop%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Puzz%20Loop%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "miffy-s-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Miffy's World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Miffy's World (Europe) (En,Fr,Es,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMWY",
+      "size": 67108864,
+      "crc32": "3f1c44ae",
+      "md5": "528baffd7970ced9e0394e122a6e452e",
+      "sha1": "f18b1ce40e4d9618a1bdfcd360dfcdb5df94eff1"
+    },
+    {
+      "name": "Miffy's World (Europe) (En,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMWX",
+      "size": 67108864,
+      "crc32": "c5d907c1",
+      "md5": "1d8dc1d3acfb4e1d3fba2129dc4f500c",
+      "sha1": "68fdd09c0f6fb631db4c6bb705aa66c9be77db7c",
+      "sha256": "5a59dfd72e52ac9464d5441fcd015cfba8895810aa0715b7d0b317aaa80045f2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Miffy%27s%20World%20%28Europe%29%20%28En%2CFr%2CEs%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Miffy%27s%20World%20%28Europe%29%20%28En%2CFr%2CEs%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Miffy%27s%20World%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Miffy%27s%20World%20%28Europe%29%20%28En%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

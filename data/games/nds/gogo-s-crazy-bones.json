@@ -1,0 +1,80 @@
+{
+  "id": "gogo-s-crazy-bones",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gogo's Crazy Bones",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gogo's Crazy Bones (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TGGP",
+      "size": 8388608,
+      "crc32": "cfa1f22b",
+      "md5": "30f47c25671fd18bdcd3a12ecdecb915",
+      "sha1": "57146555a71640d3dd1134596352776e3a20389e",
+      "sha256": "c0f0925a7ffad38a1aa3b7ca151436332e9c21a85c6e391117a547b44da56e15"
+    },
+    {
+      "name": "Gogo's Crazy Bones (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TGGE",
+      "size": 8388608,
+      "crc32": "33c662d1",
+      "md5": "889c03717b75d7315aadbdea3fdea759",
+      "sha1": "6e2c301eb1e5ec317ab8a4d7b1ac699a34ce956b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47901
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gogo%27s%20Crazy%20Bones%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gogo%27s%20Crazy%20Bones%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gogo%27s%20Crazy%20Bones%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gogo%27s%20Crazy%20Bones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gogo%27s%20Crazy%20Bones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gogo%27s%20Crazy%20Bones%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

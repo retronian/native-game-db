@@ -1,0 +1,67 @@
+{
+  "id": "nakayoshi-pet-series-1-kawaii-hamster",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nakayoshi Pet Series 1 - Kawaii Hamster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "なかよしペットシリーズ① かわいいハムスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nakayoshi Pet Series 1 - Kawaii Hamster (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "98d0fcb0",
+      "md5": "eb14f75bda32d51b8f5751869743bf7a",
+      "sha1": "aaa59f2500aa82454cb74aeafa342f8907c82aaf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282467
+  },
+  "descriptions": [
+    {
+      "text": "ハムスターの行動をリアルに再現した育成シミュレーションゲームです。目的は、指定された日数内にハムスターたちとできるだけ仲良くなりながら、彼らの世話をすることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-01-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Nakayoshi%20Pet%20Series%201%20-%20Kawaii%20Hamster%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Nakayoshi%20Pet%20Series%201%20-%20Kawaii%20Hamster%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Nakayoshi%20Pet%20Series%201%20-%20Kawaii%20Hamster%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "my-hero-doctor",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Hero - Doctor",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Hero - Doctor (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CHCE",
+      "size": 16777216,
+      "crc32": "6d1eb967",
+      "md5": "4e4917916c1147691a34b20656afe94e",
+      "sha1": "54c08f5c13c5d9abe8eade6bc049e7c9f42e46b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206773
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Hero%20-%20Doctor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Hero%20-%20Doctor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Hero%20-%20Doctor%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

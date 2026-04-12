@@ -1,0 +1,42 @@
+{
+  "id": "petz-playschool",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Petz - Playschool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Petz - Playschool (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3UP",
+      "size": 33554432,
+      "crc32": "623851f7",
+      "md5": "63b591e1ec38cc15e01a10af9feef81f",
+      "sha1": "9867cb1cbc2d030d631baab4df7d9bfad949329f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Petz%20-%20Playschool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Petz%20-%20Playschool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "koutetsu-teikoku",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Koutetsu Teikoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鋼鉄帝国",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Koutetsu Teikoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-28033-00",
+      "size": 1048576,
+      "crc32": "755d0b8a",
+      "md5": "fb185d5bd814d7d51d3f15c6f20e75f3",
+      "sha1": "7ff88050ae9b2f12afe80432781ba25aa3a15e1c",
+      "sha256": "5a2f5b67a5cf02241cdbc379720a7e3a7d1170cd2411dbc4f3d4e936fb02d246"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは「HOT-Bフィルムコーポレーション」によって制作された古き良き戦争映画として展開されます。映画の中で、未来は鋼鉄時代であり、軍事独裁政権「モーターヘッド」が人間の人口を奴隷化しています。自由への唯一の希望は「シルバーヘッド共和国」で、彼らは独立を保ち、モーターヘッドを打倒するための武器を持っているのです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Koutetsu%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Koutetsu%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Koutetsu%20Teikoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

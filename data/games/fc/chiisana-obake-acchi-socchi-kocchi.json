@@ -1,0 +1,65 @@
+{
+  "id": "chiisana-obake-acchi-socchi-kocchi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chiisana Obake - Acchi Socchi Kocchi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちいさなおばけ アッチ コッチ ソッチ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chiisana Obake - Acchi Socchi Kocchi (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a1754f7e",
+      "md5": "56cad6f2a0cd0b1d45936c80d9fbc1f2",
+      "sha1": "c64c33a2b40201a3c29744002fa6d7126f15f1c4",
+      "sha256": "b24666bd8a0b748c2122803c819e6b3e125242b7e4bc263a4eaa4bf26a7f1894"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48537
+  },
+  "descriptions": [
+    {
+      "text": "アッチ、コッチ、ソッチは、すべてのリンゴを食べるために走り回らなければなりません。すべての箱が空になると、レベルクリアです。パワーアップを消える前に集めましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chiisana%20Obake%20-%20Acchi%20Socchi%20Kocchi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chiisana%20Obake%20-%20Acchi%20Socchi%20Kocchi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chiisana%20Obake%20-%20Acchi%20Socchi%20Kocchi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

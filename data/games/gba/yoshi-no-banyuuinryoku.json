@@ -1,0 +1,66 @@
+{
+  "id": "yoshi-no-banyuuinryoku",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yoshi no Banyuuinryoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヨッシーの万有引力",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yoshi no Banyuuinryoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "KYGJ",
+      "size": 8388608,
+      "crc32": "31594b7a",
+      "md5": "91e86d6adb495236293e75d5f0fa82b8",
+      "sha1": "a3f2035ca2bdc2bc59e9e46efbb6187705ebe3d1",
+      "sha256": "048d6b0f8f2f823007f0ef93438e394ff7e67dd2e0cbdb85f25ca40ebc44388a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ボウザーの悪戯を止めるために、偉大なる本の精霊ホンゴは、ボウザーをポップアップブックに封印しました。その際、ボウザーがいたヨッシーアイランドも一緒に封印されました。驚きを愛する精霊が現れ、恐竜のヨッシーにヨッシーアイランドを取り戻す方法があると伝えました。\n\nヨッシーが日を救うのは「ヨッシーの万有引力」です。このゲームは6つの章に分かれており、それぞれに多数のステージが含まれています。プレイヤーは世界を傾ける（傾斜センサーを使用して）ことで、ヨッシーが壁を登ったり、新しい道を開いたり、敵を転がして追い払ったりするのを助けなければなりません。ハピネスメダルを獲得することで、ヨッシーが精霊からの特定の目標を達成すれば次の章に進むことができます。途中、ヨッシーは船やボール、風船に変身します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-12-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Yoshi%20no%20Banyuuinryoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Yoshi%20no%20Banyuuinryoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Yoshi%20no%20Banyuuinryoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

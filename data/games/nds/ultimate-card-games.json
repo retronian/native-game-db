@@ -1,0 +1,43 @@
+{
+  "id": "ultimate-card-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultimate Card Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultimate Card Games (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACGE",
+      "size": 8388608,
+      "crc32": "9402471c",
+      "md5": "a5b003f21555660314764115dad12215",
+      "sha1": "2141da7780e7686d3253793d7ee37ea547994001"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6645
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ultimate%20Card%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ultimate%20Card%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "looney-tunes-double-pack",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes Double Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes Double Pack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLNP",
+      "size": 8388608,
+      "crc32": "dca23b31",
+      "md5": "60782a90b8d365bf0dbe723034f8b3da",
+      "sha1": "2e8a157daa0b0031f629940846412b9f8197f8a1"
+    },
+    {
+      "name": "Looney Tunes Double Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLNE",
+      "size": 8388608,
+      "crc32": "ecadd047",
+      "md5": "678cff8d9901d9c7abedb2272968a74e",
+      "sha1": "0cf436e0db36bdc87da7e55c6ff504969a6f1398",
+      "sha256": "8dc3f58ee5261bc525e26cf4035bfebe5f0de53505359e09068a204c10f6b82f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8131
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Looney%20Tunes%20Double%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Looney%20Tunes%20Double%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Looney%20Tunes%20Double%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Looney%20Tunes%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Looney%20Tunes%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Looney%20Tunes%20Double%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

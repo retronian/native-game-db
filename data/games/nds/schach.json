@@ -1,0 +1,46 @@
+{
+  "id": "schach",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Schach",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Schach (Germany) (En,De)",
+      "source": "no_intro",
+      "serial": "A8SP",
+      "size": 8388608,
+      "crc32": "7c7c0e62",
+      "md5": "92aea0c68c0663d11163bee5724388e3",
+      "sha1": "fd27177bcc30bb8ae311b047001b750047faad25"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122738
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Schach%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Schach%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Schach%20%28Germany%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

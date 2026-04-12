@@ -1,0 +1,60 @@
+{
+  "id": "sonic-compilation",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sonic Compilation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sonic Compilation (USA, Europe, Korea) (En) (Rev A)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1190-01",
+      "size": 3145728,
+      "crc32": "95b5e8d7",
+      "md5": "59a5029e58a43c40b715fb8906e6634f",
+      "sha1": "2196cbe754cfcd1d7bbbd0a8a45ae44de4deb2fb",
+      "sha256": "3bbd0399213a9b8dec30e266f4b3bd7ea31ef22e2f555e388e8446a6ba977aaa"
+    },
+    {
+      "name": "Sonic Compilation (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1190",
+      "size": 3145728,
+      "crc32": "8c70b84e",
+      "md5": "1e8c38878d4184977718b8b3c90642b8",
+      "sha1": "109e6d7b31d00fbdb9d4ecb304d4ea19e96c8607",
+      "sha256": "78bd9a48bc2c4a4ef09c8a0e1814dfde9013d4e6fe42c1e6ce9b94bdc142def2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sonic%20Compilation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sonic%20Compilation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sonic%20Compilation%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "gun-sight",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gun Sight",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガン サイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ガンサイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gun Sight (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a16b9bd0",
+      "md5": "b21c3d1149514ef495e4e81d8dd02d01",
+      "sha1": "9490bc82dbf6bed96de896e141a76ad8fd87388d",
+      "sha256": "ad7e7042d6a68f1b108c3acb7bdfcb308f09ea09fa29de59d70e6a54483f1c4c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「レーザーインベージョン」では、敵が新型の超兵器を展開するのを阻止し、捕らえられた潜入エージェントを救出することが目的です。\n\nゲームはお馴染みのゲームプレイスタイルを組み合わせたものです。第一ステージは『トップガン』のようなヘリコプターの空中戦です。第二ステージは『オペレーションウルフ』のような一人称の横スクロールシューティングです。第三ステージは『ゴルゴ13』の影響を受けた迷路ハントです。\n\nゲームは四つのレベルで展開されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gun%20Sight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gun%20Sight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gun%20Sight%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

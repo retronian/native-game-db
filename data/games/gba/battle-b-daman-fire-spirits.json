@@ -1,0 +1,59 @@
+{
+  "id": "battle-b-daman-fire-spirits",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle B-Daman - Fire Spirits!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "B-Densetsu! Battle B-Daman Honoo Tamashii",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle B-Daman - Fire Spirits! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BBME",
+      "size": 8388608,
+      "crc32": "5789f441",
+      "md5": "e1b689a5776e8e35840e3a676fa11853",
+      "sha1": "d57084c399bbd4b37d145b712ff6ca22db9b1c49"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49364
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20B-Daman%20-%20Fire%20Spirits%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20B-Daman%20-%20Fire%20Spirits%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20B-Daman%20-%20Fire%20Spirits%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

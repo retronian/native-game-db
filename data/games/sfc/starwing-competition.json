@@ -1,0 +1,54 @@
+{
+  "id": "starwing-competition",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Starwing - Competition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Starwing - Competition (Europe) (Competition Cart)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "17c8fe56",
+      "md5": "01633ba7e39e0ded24bdc23e8ad80320",
+      "sha1": "c7d4f1a7a5261fc3b95280f302056226fd8aa68a",
+      "sha256": "2a25bf4c1a4fc64f9312ddf039f5b3e8949054cbaeb4f86d1ccd9ea2bb779643"
+    },
+    {
+      "name": "Starwing - Competition (Germany) (Competition Cart)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "b25f606a",
+      "md5": "9a668dce0a5589e7209949f441f0180e",
+      "sha1": "daf6c7bdbf8c9733705b1c586c85be9edd864a23",
+      "sha256": "e4df822294a12919b35cd73a1ca24105418ca2c2bc5e08f887fe1d10b3e4f200"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Starwing%20-%20Competition%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Starwing%20-%20Competition%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Starwing%20-%20Competition%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

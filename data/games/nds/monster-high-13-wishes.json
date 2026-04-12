@@ -1,0 +1,68 @@
+{
+  "id": "monster-high-13-wishes",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster High - 13 Wishes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TM6P",
+      "size": 16777216,
+      "crc32": "c5ff4cfd",
+      "md5": "d81d5a5d57f4967ee758a3acfd2fd777",
+      "sha1": "d0c61df71553477cb5954559d933072c215c4663",
+      "sha256": "2ecb633b535217e7c8daac4935d98394a8988d5e8812d07cf7ffb81b30cfa548"
+    },
+    {
+      "name": "Monster High - 13 Wishes (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TM6E",
+      "size": 16777216,
+      "crc32": "363b7344",
+      "md5": "cd4fc2c6820423198fb9b40d3603f40c",
+      "sha1": "c4005446eac3332702cf1312dd3b9ff034e8337c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 25142
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20High%20-%2013%20Wishes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20High%20-%2013%20Wishes%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20High%20-%2013%20Wishes%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20High%20-%2013%20Wishes%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

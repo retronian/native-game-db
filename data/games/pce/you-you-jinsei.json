@@ -1,0 +1,65 @@
+{
+  "id": "you-you-jinsei",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "You-You Jinsei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "遊々人生",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "You-You Jinsei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "c0905ca9",
+      "md5": "e25d51114a230e039f8dd3b761fd23d3",
+      "sha1": "c59f0d5248373bc00ea19a9e4f08e461c27e5fea",
+      "sha256": "98e17bb13d41fc737999c488a5db97360c11f67af408bcb71bbe35c003f0d738"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ユウユウ人生」、または「ビクトリーライフ」は、ミルトン・ブラッドリーの「ライフゲーム」といくつかの類似点を持つボードゲームシミュレーションです。特に、自動車のプレイヤーピースや、さまざまなランダムなイベントを通じて人生のさまざまな段階を進むプレイヤーの旅が挙げられます。このゲームは、ボードゲームの日本の出版社タカラにライセンスされており、彼ら自身もいくつかの「ライフゲーム」ビデオゲームを制作しています。\n\n目標は、最も多くの資産を持って退職することです。プレイヤーは結婚したり、子供を持ったり、さまざまな重要な人生の変化を経験することもできますが、主な目標は資金の獲得です。また、プレイヤーは資金を投資したりギャンブルをすることもでき、その結果は純粋な運に依存します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-04-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/You-You%20Jinsei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/You-You%20Jinsei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/You-You%20Jinsei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

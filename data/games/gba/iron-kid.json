@@ -1,0 +1,50 @@
+{
+  "id": "iron-kid",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Iron Kid",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Iron Kid (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "BIRK",
+      "size": 16777216,
+      "crc32": "326e7a8e",
+      "md5": "6d7d6cd0d1bde4855b230ad510e16771",
+      "sha1": "2a6f502d3f1f1c2507104a08563d1623b58adf9d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49618
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Iron%20Kid%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Iron%20Kid%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Iron%20Kid%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

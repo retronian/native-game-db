@@ -1,0 +1,58 @@
+{
+  "id": "puyo-puyo",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puyo Puyo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぷよぷよ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puyo Puyo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4082-00",
+      "size": 524288,
+      "crc32": "7f26614e",
+      "md5": "c723d1079157ab78e160b26ac5091d74",
+      "sha1": "02656b5707cf9452d4cf48378ffd3a95dc84e9c5",
+      "sha256": "963abf6672c5875b26fd4cd010aa6d280ba9fe3081be46ec86b399e61262b167"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

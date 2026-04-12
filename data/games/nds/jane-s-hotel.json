@@ -1,0 +1,64 @@
+{
+  "id": "jane-s-hotel",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jane's Hotel",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jane's Hotel (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BJAE",
+      "size": 16777216,
+      "crc32": "6c87f0a6",
+      "md5": "2d51701f76de4f63d3810616c01a09ec",
+      "sha1": "32451605abe3ae2cacd9858a9e4f6331b1ee2058"
+    },
+    {
+      "name": "Jane's Hotel (Germany)",
+      "source": "no_intro",
+      "serial": "BJAD",
+      "size": 16777216,
+      "crc32": "28dbe175",
+      "md5": "d3d6b16f0fe107365c415eb5333826de",
+      "sha1": "82a48e72e34a37a1d2dbfba40912cda7df2bef30"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210009
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jane%27s%20Hotel%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jane%27s%20Hotel%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jane%27s%20Hotel%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Jane%27s%20Hotel%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "bit-generations-dotstream",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "bit Generations - Dotstream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "bit Generations　dotstream",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "bit Generations - Dotstream (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BVCJ",
+      "size": 16777216,
+      "crc32": "f0760400",
+      "md5": "00fc773fff582dc53604a7229f64e82f",
+      "sha1": "d0883352702f812a03b3c794163af0ff558bd4c7",
+      "sha256": "ffb57892f1e709460df835e3a64e7dbad8d8bc907d9cf358dc2506e9a793eb53"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドットストリームは、ゲームボーイアドバンス用のシンプルなレーシングゲームです。ゲームの目的は、他のラインと競い合いながら、色付きのラインを操作して1位を目指すことです。できるだけラインを真っ直ぐに保つことが重要で、真っ直ぐ進むほど速く移動できます。しかし、対戦相手があなたの進行を妨げ、曲がったり減速したりする原因になります。また、コース上に散らばる障害物を避ける必要もあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2006-07-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/bit%20Generations%20-%20Dotstream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/bit%20Generations%20-%20Dotstream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/bit%20Generations%20-%20Dotstream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

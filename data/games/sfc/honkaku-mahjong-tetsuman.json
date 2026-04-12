@@ -1,0 +1,60 @@
+{
+  "id": "honkaku-mahjong-tetsuman",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honkaku Mahjong - Tetsuman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "本格麻雀 徹萬",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honkaku Mahjong - Tetsuman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "53f03db9",
+      "md5": "6696ae3d37309fbab8abd0057fc46687",
+      "sha1": "1dbeaed5412bff4efc9f9962300debe9783dac82",
+      "sha256": "ff632ee6bd02b9fcf7806c520561457850dccf42269e69768a724958e464d18c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37990
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Honkaku%20Mahjong%20-%20Tetsuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Honkaku%20Mahjong%20-%20Tetsuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Honkaku%20Mahjong%20-%20Tetsuman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

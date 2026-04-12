@@ -1,0 +1,40 @@
+{
+  "id": "astrohawk",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "AstroHawk",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 62503
+  },
+  "first_release_date": "2013-12-31",
+  "roms": [
+    {
+      "name": "Astrohawk (World) (Unl)",
+      "source": "no_intro",
+      "size": 786432,
+      "crc32": "183e3bbf",
+      "md5": "e0061c14bf01b138cf6da6a2e073c3fe",
+      "sha1": "09fd2d689305e93355c660f09e352d32f1246141",
+      "sha256": "0fa55595241cee06923ebe43418fb95b09784a6bfcf8c79228fe3398bdabb558"
+    },
+    {
+      "name": "Astrohawk (World) (Beta) (Unl)",
+      "source": "no_intro",
+      "size": 720896,
+      "crc32": "41d59381",
+      "md5": "bb1689799d82d47d35a55e88592471bf",
+      "sha1": "7e205edc8a45198f0403033fa6a30c3c3c28bc70",
+      "sha256": "2758d76a2bf7f8b14fce46bfefcc5143321b3c5c41d04141284f6b744a1aae9b"
+    }
+  ]
+}

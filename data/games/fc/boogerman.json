@@ -1,0 +1,42 @@
+{
+  "id": "boogerman",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Boogerman",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 242091
+  },
+  "first_release_date": "1997-12-31",
+  "roms": [
+    {
+      "name": "Boogerman (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524304,
+      "crc32": "fc5ae371",
+      "md5": "48732f77ed856f3d8604c2129bc07e9e",
+      "sha1": "08b7deba3ee441003fcf4cb2931df27f89c7c9ec",
+      "sha256": "01d418db78ce608809a649d6b7cd62fcdd1cc6bbc00948b2b2ac38f98c898e59"
+    },
+    {
+      "name": "Boogerman (Taiwan) (En) (Beta) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524304,
+      "crc32": "84192cc5",
+      "md5": "0856c2c8e52c4ee532087d318cdf4665",
+      "sha1": "be5487df254930410320921465210acc64ea44c2",
+      "sha256": "5b9ed18911c92cd495a3420bb2bafec44a66f3a48a5d2ac02d5d1cbd85750502"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "imagine-artist",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Imagine - Artist",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Imagine - Artist (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "VATE",
+      "size": 33554432,
+      "crc32": "6d509874",
+      "md5": "0bf7ca0f1641bbc39fef9c18ebba66ac",
+      "sha1": "3ce204690a6104afa151b77c9f18f7587386f218"
+    },
+    {
+      "name": "Imagine - Artist (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VATV",
+      "size": 33554432,
+      "crc32": "d91cf040",
+      "md5": "a4cc7a9e38f12ab32eb7f12b8585e23e",
+      "sha1": "0d570050741e2f6c88e1a5a9a0927900429c33e9",
+      "sha256": "4086dab613d63bcc81952088f6ed9af325e81a30e7604116736e8d37cfd8ece8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7944
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Artist%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Artist%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Artist%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Artist%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "petz-vet",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Petz Vet",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Himawari Doubutsu Byouin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Petz Vet (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNBE",
+      "size": 8388608,
+      "crc32": "1dbf4d3d",
+      "md5": "43cf1c2b7601db441295f12c538ae3a3",
+      "sha1": "9755a6eaf65d10131e591c4c75b9c77554cd1dad"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49459
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Petz%20Vet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Petz%20Vet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Petz%20Vet%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

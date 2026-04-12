@@ -1,0 +1,42 @@
+{
+  "id": "new-touch-party-game",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New Touch Party Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "New Touch Party Game (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWQP",
+      "size": 16777216,
+      "crc32": "c81e4eaf",
+      "md5": "415872072e2d3a0b2ab02a778f9ec290",
+      "sha1": "037c837d5e14ce33c207a5d7d75a98c7c953722b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/New%20Touch%20Party%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/New%20Touch%20Party%20Game%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "pro-mahjong-kiwame",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Mahjong Kiwame",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロ麻雀極",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プロ麻雀 極",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "Pro Mahjong Extreme",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Mahjong Kiwame (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "1210816b",
+      "md5": "dcf3cb1a84792c42a00b406aa98ef177",
+      "sha1": "7637e0a1fc86d3b815972e44c60acecfc1f8c1f2",
+      "sha256": "7e7051dae4e81e7af58ef01218e86d24aef1cd9ae11e6533d010dccb9ee65d7f"
+    },
+    {
+      "name": "Pro Mahjong Kiwame (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "59b6b116",
+      "md5": "28b8e576c413402e2fc99b6e77907414",
+      "sha1": "9717e310aa3c83f8e2081e93f7a008764a5cbd55",
+      "sha256": "0df5a754c49f5b8596af27854b23e8734b34fa36c96d6a35cf8a58d044d673f9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138094
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Mahjong%20Kiwame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Mahjong%20Kiwame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Mahjong%20Kiwame%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Mahjong%20Kiwame%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Mahjong%20Kiwame%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Mahjong%20Kiwame%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

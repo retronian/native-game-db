@@ -1,0 +1,60 @@
+{
+  "id": "kaitou-rousseau",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaitou Rousseau",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "怪盗ルソー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaitou Rousseau (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ARSJ",
+      "size": 134217728,
+      "crc32": "faf05535",
+      "md5": "aafbbeb32a727703d0529f138965628c",
+      "sha1": "4a54f6ec2d64bc1a7e0082bfa63d4c8d265400f7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 214573
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kaitou%20Rousseau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kaitou%20Rousseau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kaitou%20Rousseau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

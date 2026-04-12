@@ -1,0 +1,77 @@
+{
+  "id": "kattobi-takuhai-kun",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kattobi! Takuhai-kun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カットビ!宅配くん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "カットビ! 宅配くん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kattobi! Takuhai-kun (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "4f2844b0",
+      "md5": "4ddd59aff152e8fc1a4b510c9fedd4e0",
+      "sha1": "00e33d4f55c4dbe0ac493053bfebc9d6dbd469ea",
+      "sha256": "cc8d852042909ec12e4555e0032ee73b45d01d2b6ea107388ca91318455f50c5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37682
+  },
+  "descriptions": [
+    {
+      "text": "『カットビ！宅配くん』は、アドバンスコミュニケーションズとトンキンハウスによるトップダウンアクション/ドライビングゲームです。プレイヤーは宅配便の配達員となり、町中でますますシュールな配達を行う必要があります。時には国を超えて麻薬密売に巻き込まれることもあります。仕事をこなすことで得た報酬を使って、ペダル自転車からモペッド、最先端のオートバイへと、より良い二輪の配達用車両を購入することができます。車両を破壊してしまう（ライフを失う）と、通常のペダル自転車に戻されてしまいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Kattobi%21%20Takuhai-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Kattobi%21%20Takuhai-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Kattobi%21%20Takuhai-kun%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

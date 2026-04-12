@@ -1,0 +1,69 @@
+{
+  "id": "mickey-no-tokyo-disneyland-daibouken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey no Tokyo Disneyland Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "ミッキーの東京ディズニーランド大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ミッキーの東京ディズニーランド 大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey no Tokyo Disneyland Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "e235f0c6",
+      "md5": "3f26c6bfad366d6fc84666d7d5e22c2f",
+      "sha1": "1ad723c995c8aa6393569f68489811585f5a1c12",
+      "sha256": "1d881e75db3ae9b1501bfbd26aec48309ece7ab170a1dfaea0866edb2b7cb3b7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42543
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mickey%20no%20Tokyo%20Disneyland%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Mickey%20no%20Tokyo%20Disneyland%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Mickey%20no%20Tokyo%20Disneyland%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

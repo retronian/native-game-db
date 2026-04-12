@@ -1,0 +1,65 @@
+{
+  "id": "medarot-5-susutake-mura-no-tenkousei-kabuto",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Medarot 5 - Susutake Mura no Tenkousei - Kabuto",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メダロット5 すすたけ村の転校生 カブト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Medarot 5 - Susutake Mura no Tenkousei - Kabuto (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "a3c1756e",
+      "md5": "6cc1cfbd1fc01b948e03f507c530260d",
+      "sha1": "7f52ecb2a057d99b0448d82e3b5263eb92c2396c",
+      "sha256": "a7fe92c60171456d7b6f664e749ace7b424700f27a3b307ae140582be2177358"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは村の新しい学校に転校してきた主人公の役割を担い、他のメダロットと戦って対戦相手を打ち負かします。スタート時に持っているメダロットを含む、さまざまなバージョンのメダロットが存在します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Medarot%205%20-%20Susutake%20Mura%20no%20Tenkousei%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Medarot%205%20-%20Susutake%20Mura%20no%20Tenkousei%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Medarot%205%20-%20Susutake%20Mura%20no%20Tenkousei%20-%20Kabuto%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

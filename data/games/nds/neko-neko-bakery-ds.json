@@ -1,0 +1,42 @@
+{
+  "id": "neko-neko-bakery-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Neko Neko Bakery DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Neko Neko Bakery DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CLOJ",
+      "size": 16777216,
+      "crc32": "82fc4618",
+      "md5": "b74c424685b3cc13fc0737a9827cea34",
+      "sha1": "7aa3f15e40bd887766273cf079403ffa198f532f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Neko%20Neko%20Bakery%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Neko%20Neko%20Bakery%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

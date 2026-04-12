@@ -1,0 +1,68 @@
+{
+  "id": "tiny-bullets",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiny Bullets",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "티니 브릿",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "タイニーバレット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tiny Bullets (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 305929536,
+      "crc32": "d00e1831",
+      "md5": "2faee6aeef40ccbdae1385136d539bfe",
+      "sha1": "778bac3f7c416bb3d2832cd11d83ef8d0360077d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4146
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Tiny%20Bullets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Tiny%20Bullets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Tiny%20Bullets%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

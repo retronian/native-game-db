@@ -1,0 +1,78 @@
+{
+  "id": "yakouchuu-ii-satsujin-kouro",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yakouchuu II - Satsujin Kouro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "夜光虫II 殺人航路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "夜光虫 II 殺人航路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Yakouchuu II: Satsujin Kouro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yakouchuu II - Satsujin Kouro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NYKJ",
+      "size": 33554432,
+      "crc32": "4538c41a",
+      "md5": "e24942948f7140ee4260268db763d0fd",
+      "sha1": "09929ca361d47fb9fc0eb4077cf1fb77cb843cef",
+      "sha256": "c6a52c2377f3d6236ba2d29557461b9af106d99afeba2156e21e2477b00ddffd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64868
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Yakouchuu%20II%20-%20Satsujin%20Kouro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Yakouchuu%20II%20-%20Satsujin%20Kouro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Yakouchuu%20II%20-%20Satsujin%20Kouro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

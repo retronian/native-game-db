@@ -1,0 +1,67 @@
+{
+  "id": "slap-stick",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Slap Stick",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スラップスティック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Slap Stick (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "53fb163b",
+      "md5": "eea1d6e9c25d39d0ba92be05e61f75f5",
+      "sha1": "af9bcfaa13d2cdbed7d946fcb68e7028210a2489",
+      "sha256": "08144ea1ce3cf6ab107837278d308e4e859574a047a2ee8eb456f7900ad4be21"
+    },
+    {
+      "name": "Slap Stick (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "b50154bc",
+      "md5": "c5de54195aeceef0a4cbad20f92056aa",
+      "sha1": "747a90284af5c03befbd23de99366c7d02a4e57f",
+      "sha256": "e25636fa1af78f147b75a62eb243052274125f8539693e8743f9b5fb9c1572da"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Slap%20Stick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Slap%20Stick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Slap%20Stick%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

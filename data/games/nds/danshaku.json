@@ -1,0 +1,48 @@
+{
+  "id": "danshaku",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Danshaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Danshaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ANSJ",
+      "size": 16777216,
+      "crc32": "2dea3aff",
+      "md5": "ff1802985d942ecf26e48ba609250b6d",
+      "sha1": "fb85b8b9b8be6181c9dfa2b299eb13240a4b203e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Danshaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Danshaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Danshaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

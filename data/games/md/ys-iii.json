@@ -1,0 +1,63 @@
+{
+  "id": "ys-iii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ys III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ys III (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49146-00",
+      "size": 1048576,
+      "crc32": "ea27976e",
+      "md5": "fc016fc52d0d6baacda12df3a89d5b06",
+      "sha1": "b3331b41a9a5e2c3f4fb3b64c5b005037a3b6fdd",
+      "sha256": "e720dcc1fc24e710ec64787b81589e4ef813d5090379aa4f62136849c8cf98ba"
+    },
+    {
+      "name": "Ys III (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49063-00",
+      "size": 1048576,
+      "crc32": "69994c44",
+      "md5": "b73adce079985c1e68cefae35801f873",
+      "sha1": "d50060178b0b966c60c954bde4828c63a6647df4",
+      "sha256": "6903d2ffae64bd4ded27ea13a8124de995c28af2ca4bd5794cbc7a1d8a68f08b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 206522
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ys%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ys%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ys%20III%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

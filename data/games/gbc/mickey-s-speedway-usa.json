@@ -1,0 +1,51 @@
+{
+  "id": "mickey-s-speedway-usa",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mickey's Speedway USA",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "11763934",
+      "md5": "ff9b78e1f399fc2bd665b8a08ba27456",
+      "sha1": "edd7f3fecfef81bcd5445b6b5df89ca2be897d2f",
+      "sha256": "9263a2138f5852177ea8a2436c6ddf6ec4ad41fc155d184b1773749533d6a470"
+    }
+  ],
+  "external_ids": {
+    "igdb": 229851
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mickey%27s%20Speedway%20USA%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mickey%27s%20Speedway%20USA%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mickey%27s%20Speedway%20USA%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

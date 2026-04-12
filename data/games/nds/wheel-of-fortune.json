@@ -1,0 +1,45 @@
+{
+  "id": "wheel-of-fortune",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wheel of Fortune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wheel of Fortune (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BW7E",
+      "size": 33554432,
+      "crc32": "2012bd2a",
+      "md5": "426b91ae5a248aa63d0d0ba9755ac312",
+      "sha1": "13bbf5c253568646e21c208610637f195297d097"
+    }
+  ],
+  "external_ids": {
+    "igdb": 285292
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

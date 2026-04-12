@@ -1,0 +1,64 @@
+{
+  "id": "soul-getter-houkago-bouken-rpg",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soul Getter - Houkago Bouken RPG",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ソウルゲッター 〜放課後冒険RPG〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soul Getter - Houkago Bouken RPG (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "3ffcd45b",
+      "md5": "053d55b23c41c5e0e3227239f4844fea",
+      "sha1": "ded83fde342a5dc9e56cdbb91acad2cd5f4ac754"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ソウルゲッター 〜放課後冒険RPG〜は、マイクロキャビンが出版したロールプレイングゲームで、2000年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Soul%20Getter%20-%20Houkago%20Bouken%20RPG%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Soul%20Getter%20-%20Houkago%20Bouken%20RPG%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Soul%20Getter%20-%20Houkago%20Bouken%20RPG%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

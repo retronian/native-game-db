@@ -1,0 +1,65 @@
+{
+  "id": "gremlin-2-shinshu-tanjou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gremlin 2 - Shinshu Tanjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グレムリン2 新種誕生",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gremlin 2 - Shinshu Tanjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "ea0ff772",
+      "md5": "ac748b0974f9876d4056522f6324d2cc",
+      "sha1": "cc319206fd3c82722f13c4fa77c921878dc9c769",
+      "sha256": "a5a89e5fe79339c28785ce833ea59dbe8ff5c64118e0be11b9fb5e453d1ad8eb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ギズモとして、グレムリンコントロールセンターに到達し、彼らを一掃しなければなりません。これは、エリートタイトルとは異なるアイソメトリックアクションゲームです。各レベルの後には、弓矢やマッチなどのアイテムを獲得できるので、それらを活用しましょう。また、ウィング氏の店には多くのグッズが揃っているので、魔法のように現れるその扉に注意してください。危険な要素としては、クモ、電気が流れるワイヤー、地面に設置された障害物、そして各レベルの最後にはボスが待ち受けています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gremlin%202%20-%20Shinshu%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gremlin%202%20-%20Shinshu%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gremlin%202%20-%20Shinshu%20Tanjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

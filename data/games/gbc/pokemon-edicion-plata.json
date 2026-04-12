@@ -1,0 +1,42 @@
+{
+  "id": "pokemon-edicion-plata",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon - Edicion Plata",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon - Edicion Plata (Spain) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "1d9faac5",
+      "md5": "2d83fb454dd5687a802425c501854dc2",
+      "sha1": "05bd978ab2cb104b0aff3f696896e30885203a18"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pokemon%20-%20Edicion%20Plata%20%28Spain%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pokemon%20-%20Edicion%20Plata%20%28Spain%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pokemon%20-%20Edicion%20Plata%20%28Spain%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

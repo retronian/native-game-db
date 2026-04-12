@@ -1,0 +1,65 @@
+{
+  "id": "new-york-nyankies",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "New York Nyankies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ニューヨーク・ニャンキーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "New York Nyankies (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "967ad398",
+      "md5": "6be3479b8b5dcdebbdf68bd2f7a8e4fe",
+      "sha1": "56b4df374bdb385c33ddd456d86e0e4230617936",
+      "sha256": "9e8edbb2e585263d0692d9bb7de7e1a6742107520202e53318ccfe5409963cef"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウィリーは「ロッキン・キャット」という名前の若いジャズキャットです。彼のガールフレンド、ジルは地元の犯罪ボス、マグジに誘拐されてしまいました。\n\nこの横スクロールゲームでは、ロッキン・キャットのウィリーを助けて彼のガールフレンドを救うために7つのステージをクリアしなければなりません。各ステージはテレビの異なるチャンネルで放送されるテレビ番組であり、どのチャンネルでプレイするかを選ぶ必要があります。チャンネルを通じてウィリーは西部劇やギャング映画など、さまざまなテーマのショーやボーナスチャンネルに送られます。\n\nウィリーは歩いたりジャンプしたりでき、スプリング式のスーパーパンチガンを武器として持っています。この武器はさまざまな使い方ができます：\n\n1. 敵をノックアウト：Aボタンを押す。\n2. 高くジャンプ：ジャンプ（Bボタン）しながら下 + Aボタンを押す。\n3. スピンアタック： ledgeをつかんで（Aボタン）、Dパッドで回転する。\n4. スピンジャンプ： ledgeをつかんで（Aボタン）、Dパッドで回転しながらジャンプ（Bボタン）。\n5. キャッチ＆スロー：Aボタンを押し続けて物をつかみ、Aボタンを放す。\n\nまた、ウィリーは武器を強化するためのアタッチメントを購入することもできます。例えば、ボンバー、ツインボール、ハンマーパンチ、ジェットスニーカーなどがあります。\n\nロッキン・キャッツは非常にカートゥーン風で、土曜日の朝のテレビで見ることができるかのようです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/New%20York%20Nyankies%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/New%20York%20Nyankies%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/New%20York%20Nyankies%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

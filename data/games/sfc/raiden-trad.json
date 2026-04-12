@@ -1,0 +1,61 @@
+{
+  "id": "raiden-trad",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Raiden Trad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Raiden Trad (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "02ce6c96",
+      "md5": "4e3a04e52dddc4e8a676386bea87d3ad",
+      "sha1": "b80ab440635c149f86b7cb8ab39d19fce2ea934c",
+      "sha256": "5fd7666e509f9d3cf1fd6b209dc22f2f3848f74eae7b83239d1090e031fc6df2"
+    },
+    {
+      "name": "Raiden Trad (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "7a384a02",
+      "md5": "be9b8dbdee50b1c94f521d9c3c3fa49a",
+      "sha1": "01bee3646d06b2f7fdd59afac9b43d0a4eda076f",
+      "sha256": "8450aec6fd045d2fa6f7cdf663fd3f6cb22140a34f49346b33d1099653c7cf9e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46211
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Raiden%20Trad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Raiden%20Trad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Raiden%20Trad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

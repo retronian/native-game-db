@@ -1,0 +1,133 @@
+{
+  "id": "super-puyo-puyo",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Puyo Puyo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "す〜ぱ〜ぷよぷよ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "すーぱーぷよぷよ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Puyo Puyo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c5a482bd",
+      "md5": "eff3d011ee28a5a58ccdb3487bf10a78",
+      "sha1": "fdf69d36d9ca5d902e9859d2ac4c6a323094a8ea",
+      "sha256": "9fb3e3c952a30f880d58b9bb11d93a3a97b1189a5aa07f12db34727288ef8e4e"
+    },
+    {
+      "name": "Super Puyo Puyo (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9b386875",
+      "md5": "997531b50a83c782eb2c612d3c536a46",
+      "sha1": "ac5305fc7919f62f5e21712c290c119a88e0ac2e",
+      "sha256": "840c72a9c80ca92ce8431e3a0d4039b74dd6e5429e29364299c92a692044c0ff"
+    },
+    {
+      "name": "Super Puyo Puyo (Japan) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3addba0b",
+      "md5": "db8f24c5d9f49317914c8216e0a818d7",
+      "sha1": "a3b87d1f5cac33c61cb92dfcfea59690249f8b81",
+      "sha256": "8a7cd64b0a098dc6bcdfdf8cf51241b7ef6a78b6232940d9fca89c2777b507ea"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42406
+  },
+  "descriptions": [
+    {
+      "text": "これは落ち物パズルゲームで、ぷよぷよはMSXシステムで誕生し、その後アーケード版に展開されました。同じ色のぷよを4つつなげると消すことができます。さらに同じ色のぷよがつながると、追加で消えることもあります。このゲームは2人同時にプレイでき、競争的なゲームプレイを楽しむことができます。複数のぷよの組み合わせを作って、相手を妨害しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Puyo%20Puyo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Puyo%20Puyo%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

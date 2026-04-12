@@ -1,0 +1,64 @@
+{
+  "id": "chitei-senkuu-vazolder",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chitei Senkuu Vazolder",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "地底戦空バゾルダー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chitei Senkuu Vazolder (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c3f953b7",
+      "md5": "f2a54b36df9d62f5bbcd3908dc34a442",
+      "sha1": "d015f8df3d5feb9ec3436178dd6f174df9c2edce",
+      "sha256": "7080be0cf26f753adfe6f23d32698664ae7b5bdf8dac46912deaf02e3320070f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "地底戦空バゾルダー。アイレムのシューティングゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chitei%20Senkuu%20Vazolder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chitei%20Senkuu%20Vazolder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chitei%20Senkuu%20Vazolder%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

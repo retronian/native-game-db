@@ -1,0 +1,61 @@
+{
+  "id": "mamegoma-honobono-nikki",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mamegoma - Honobono Nikki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "まめゴマほのぼの日記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mamegoma - Honobono Nikki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A5MJ",
+      "size": 33554432,
+      "crc32": "703ce061",
+      "md5": "50be03c721f6aeeae8d328bc4e61e60e",
+      "sha1": "9e50b358a65b829b077bd0f1c6969c442b8ff9dd",
+      "sha256": "54f70c1a466a2d7650a5174541f096f73dca08554593f67ac5a9f41f354e8bae"
+    }
+  ],
+  "external_ids": {
+    "igdb": 241009
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mamegoma%20-%20Honobono%20Nikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mamegoma%20-%20Honobono%20Nikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mamegoma%20-%20Honobono%20Nikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ojarumaru-mangan-jinja-no-ennichi-de-ojaru",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ojarumaru - Mangan Jinja no Ennichi de Ojaru!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おじゃる丸 満願神社の縁日でおじゃる!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ojarumaru - Mangan Jinja no Ennichi de Ojaru! (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d86507c9",
+      "md5": "a4df533c6b9b3423f71385e68bd5c421",
+      "sha1": "f17175f7744f97ad4f9943c5dadd4776ad85e5cb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ「おじゃる丸」のキャラクターたちが登場するミニゲーム集です。シューティングゲームや金魚すくいなどを楽しむことができます。また、高得点を獲得することで手に入る「メンコ」を使って、他のプレイヤーと対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Ojarumaru%20-%20Mangan%20Jinja%20no%20Ennichi%20de%20Ojaru%21%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Ojarumaru%20-%20Mangan%20Jinja%20no%20Ennichi%20de%20Ojaru%21%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Ojarumaru%20-%20Mangan%20Jinja%20no%20Ennichi%20de%20Ojaru%21%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "fleet-commander",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fleet Commander",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フリートコマンダー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fleet Commander (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "d7d5e3d5",
+      "md5": "389a46e1befd0a637907e3eb9c7d77c4",
+      "sha1": "743bea57020860c4f7bb162d13c3264edace6102",
+      "sha256": "02a25d3c49d3dd777b49faffa537d5a076a2c183b8616c74f203374be6d87d43"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48493
+  },
+  "descriptions": [
+    {
+      "text": "フリートコマンダーは、1988年にアスキーエンターテイメントによってファミコン向けに開発・発売された戦略ゲームです。このゲームは、システム向けにリリースされた初の海戦ゲームです。架空の二国間の戦闘を描いているとされていますが、実際には第二次世界大戦末期に日本とアメリカの間で起こった重要な海戦の再現として広く認識されています。プレイヤーは、日本の重巡洋艦、戦艦、潜水艦、航空母艦からなる艦隊を指揮します。\n\nこのゲームは、一般的なファミコンゲームとはいくつかの点で異なります。まず、カートリッジとマニュアルに加えて、大きな地図と船や飛行機を表現するプラスチックモデルが同梱されていました。ゲームは水面全体を表示することがなく、プレイヤーは持っている情報を使って、プラスチックモデルを用いて地図上の戦闘の表現を更新する必要があります。次に、このゲームではプレイ中にバックグラウンドミュージックが流れません。最後に、このゲームはアスキーが製造・販売した「ターボファイル」と呼ばれるデバイスを使用しています。このデバイスはファミコン用のハードウェアアドオンで、ゲームの進行状況を保存するために使用され、他のいくつかのタイトルとも互換性がありました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-03-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Fleet%20Commander%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Fleet%20Commander%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Fleet%20Commander%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

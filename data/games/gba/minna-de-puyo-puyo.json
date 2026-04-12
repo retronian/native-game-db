@@ -1,0 +1,66 @@
+{
+  "id": "minna-de-puyo-puyo",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Minna de Puyo Puyo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "みんなでぷよぷよ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Minna de Puyo Puyo (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "APYJ",
+      "size": 8388608,
+      "crc32": "857fb1ef",
+      "md5": "62e74f9b0928b578764e8f466dac412d",
+      "sha1": "927bd890ed5e1573022f9806f91e554a12de5429",
+      "sha256": "c6c5c6d73329d4af28d9a52ab0a000fdb6038c60969a0a0fce6b4a0ee3a7cc19"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アーリとカーバンクルが家に帰る手助けをしよう！出会うすべての奇妙なキャラクターに挑戦し、ぷよぷよの難しいゲームをクリアして、土地を進み、安全な場所に戻ろう。ぷよを消し、連鎖コンボを作り、相手のプレイフィールドを埋めるための狂った競争が繰り広げられる、スピーディーなパズルゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-10-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Minna%20de%20Puyo%20Puyo%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Minna%20de%20Puyo%20Puyo%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Minna%20de%20Puyo%20Puyo%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

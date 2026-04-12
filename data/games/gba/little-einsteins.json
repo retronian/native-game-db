@@ -1,0 +1,48 @@
+{
+  "id": "little-einsteins",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Einsteins",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Einsteins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEIE",
+      "size": 8388608,
+      "crc32": "c8340b37",
+      "md5": "5a20b7af9d051a12d80986a2980fc1c2",
+      "sha1": "77554bd4a954a34023571d5976c5f0696b6fe744"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Little%20Einsteins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Little%20Einsteins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Little%20Einsteins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "shinobi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinobi",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 309488
+  },
+  "first_release_date": "1989-12-01",
+  "roms": [
+    {
+      "name": "Shinobi (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "6580e686",
+      "md5": "4cd160b79dc9204c7fc8168e6175b47f",
+      "sha1": "515c0c8db50ae6361087dbebbf8fa17df7434506",
+      "sha256": "24e1e425b84776ab2116b4dd1a85545f78e9a507caa8367a490cc77adab46874"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shinobi%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shinobi%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shinobi%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

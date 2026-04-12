@@ -1,0 +1,60 @@
+{
+  "id": "naruto-shippuden-shinobi-rumble",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Naruto Shippuden - Shinobi Rumble!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Naruto 疾風伝 忍術全開！チャクラッシュ！！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Naruto Shippuden - Shinobi Rumble!! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNXE",
+      "size": 67108864,
+      "crc32": "79092e85",
+      "md5": "dedee2560906891a2fda5c3e1b103b9d",
+      "sha1": "9ab12f6d7d792b7f635ed71dac7c1b6eb2c98fc2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 24287
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Naruto%20Shippuden%20-%20Shinobi%20Rumble%21%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Naruto%20Shippuden%20-%20Shinobi%20Rumble%21%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Naruto%20Shippuden%20-%20Shinobi%20Rumble%21%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

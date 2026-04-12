@@ -1,0 +1,69 @@
+{
+  "id": "donald-duck-no-mahou-no-boushi",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donald Duck no Mahou no Boushi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドナルドダックの魔法のぼうし",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donald Duck no Mahou no Boushi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ADDJ",
+      "size": 1572864,
+      "crc32": "1ed5d2fa",
+      "md5": "c7cf4c193dc8600d8c2a02ee728023f4",
+      "sha1": "e5a2e94af71509dee1e8ed86a80c7fec9c40d51f",
+      "sha256": "90dbc1130af7555d3086afcd657f3cb510c52686a0f242d073c6caeb720affad"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79059
+  },
+  "descriptions": [
+    {
+      "text": "「ドナルドダックの魔法のぼうし」は、スーパーファミコン用のプラットフォーマーゲームで、気難しいディズニーキャラクターのドナルドダックが、彼女のデイジーのために名付けられた魔法の帽子を買うためのお金を稼ごうとするところから始まり、その後その帽子によってさらなる冒険に巻き込まれていく物語です。\n\nこのゲームはオープンな構造を持っており、プレイヤーはステージを好きな順番で挑戦できます。最初のグループには、ドナルドが現金を稼ぐために行うさまざまなアルバイトが含まれており、新聞配達や窓拭き、賞金をかけた障害物競走に参加することなどがあります。\n\nこのゲームは、エポック社が出版した数少ないタイトルの一つで、特別なケーブルを通じてバーチャルバトラーIIデバイスと互換性があります。バーコードをスキャンすることで、新しいコンテンツがゲームに追加されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donald%20Duck%20no%20Mahou%20no%20Boushi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Donald%20Duck%20no%20Mahou%20no%20Boushi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Donald%20Duck%20no%20Mahou%20no%20Boushi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

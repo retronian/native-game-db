@@ -1,0 +1,73 @@
+{
+  "id": "pocket-billiards-funk-the-9-ball",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Billiards - Funk the 9 Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットビリヤード ファンク The 9 ナイン ボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ポケットビリヤード ファンク・ザ・9ボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Billiards - Funk the 9 Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3b46e7c9",
+      "md5": "5b5f4bbec087abc00ce1f834a86bdae3",
+      "sha1": "24673a0d0c274d8eda3b3952d63772c65778b8c3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ポケットビリヤード ファンク The 9 ナイン ボール」では、ボールの中にいるモンスターを使って9ボールプールをプレイします。これらのモンスターはタマッピーと呼ばれ、ゲームに影響を与える特別な能力を持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20Billiards%20-%20Funk%20the%209%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20Billiards%20-%20Funk%20the%209%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20Billiards%20-%20Funk%20the%209%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

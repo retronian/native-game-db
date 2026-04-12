@@ -1,0 +1,68 @@
+{
+  "id": "yuyu-hakusho-sunset-fighters",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "YuYu Hakusho - Sunset Fighters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "幽 遊 白書 魔強統一戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "YuYu Hakusho: Makyou Toitsusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "YuYu Hakusho - Sunset Fighters (Brazil)",
+      "source": "no_intro",
+      "region": "br",
+      "serial": "G-004122-00",
+      "size": 3145728,
+      "crc32": "fe3fb8ee",
+      "md5": "2a2165b2be91810f5b97e8d7d2f76ad5",
+      "sha1": "e307363837626d47060f5347d0fccfc568a12b18",
+      "sha256": "e5b2c15a6b7546884cd941661d33b1b61d0d3169313e446040c25471a7fa3546"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45607
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/YuYu%20Hakusho%20-%20Sunset%20Fighters%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/YuYu%20Hakusho%20-%20Sunset%20Fighters%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/YuYu%20Hakusho%20-%20Sunset%20Fighters%20%28Brazil%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    }
+  ]
+}

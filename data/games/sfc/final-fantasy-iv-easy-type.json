@@ -1,0 +1,69 @@
+{
+  "id": "final-fantasy-iv-easy-type",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Fantasy IV - Easy Type",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルファンタジーIV イージータイプ IV",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ファイナルファンタジーIV イージータイプ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Fantasy IV - Easy Type (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "6cda700c",
+      "md5": "87ad91e3000895ba53956b3bd021717d",
+      "sha1": "a2d04c5f3948ca930d2c0bc4e6f34d62f06a9fa5",
+      "sha256": "0e7ef033b982f961ee087ab1c347dd0b359767cd38a59cd4722c72b11138006e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205703
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20IV%20-%20Easy%20Type%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Final%20Fantasy%20IV%20-%20Easy%20Type%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Fantasy%20IV%20-%20Easy%20Type%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

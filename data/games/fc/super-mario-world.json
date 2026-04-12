@@ -1,0 +1,53 @@
+{
+  "id": "super-mario-world",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Mario World",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 150031
+  },
+  "first_release_date": "1995-12-31",
+  "roms": [
+    {
+      "name": "Super Mario World (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 786448,
+      "crc32": "489282f3",
+      "md5": "975eae92b05481c406876b3d6559bf5c",
+      "sha1": "a9d568e5db93033ad11128f2db82df3f49085ee2",
+      "sha256": "58abdb8a4e3b6fcf17b023f04b55673e1866c9341cb6a135614dc5a40dbc5542"
+    },
+    {
+      "name": "Super Mario World (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 786448,
+      "crc32": "41f0f2f9",
+      "md5": "f15c34b41a4cf956e5830dc2f86bbd8c",
+      "sha1": "59d06ff85d10f259df76dc30a53abf7b504ceda6",
+      "sha256": "d7b989f6c4ceb874288cbaa837c606f1ab6b1a75bb4e9b1be1890132ea92e685"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Mario%20World%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Mario%20World%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

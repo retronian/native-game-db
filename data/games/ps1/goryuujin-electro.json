@@ -1,0 +1,60 @@
+{
+  "id": "goryuujin-electro",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Goryuujin + Electro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "五竜陣 エレクトロ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Goryuujin + Electro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16,
+      "crc32": "33c46a2e",
+      "md5": "189cb5127e8a6bca29f99c0016a031f9",
+      "sha1": "d23b62e24ffcf165153db2722ff4bc15094e71db",
+      "sha256": "752cd7c2c9f985b2bb7adeb031c1489f056ee5219ae0045275cc95422900b793"
+    }
+  ],
+  "external_ids": {
+    "igdb": 384780
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Goryuujin%20%2B%20Electro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Goryuujin%20%2B%20Electro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Goryuujin%20%2B%20Electro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

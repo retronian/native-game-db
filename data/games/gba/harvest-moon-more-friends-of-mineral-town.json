@@ -1,0 +1,68 @@
+{
+  "id": "harvest-moon-more-friends-of-mineral-town",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Harvest Moon - More Friends of Mineral Town",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "牧場物語 ミネラルタウンのなかまたち for ガール",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Bokujou Monogatari: Mineral Town no Nakama Tachi for Girl",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Harvest Moon - More Friends of Mineral Town (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFGE",
+      "size": 16777216,
+      "crc32": "1736b957",
+      "md5": "fcbf93f8859d8500319e0d80a8c02150",
+      "sha1": "3aa4d46cbbf152e440942acd5f5d37ddc7b05e1d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49188
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

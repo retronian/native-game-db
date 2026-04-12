@@ -1,0 +1,51 @@
+{
+  "id": "100-classic-book-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "100 Classic Book Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "100 Classic Book Collection (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBNP",
+      "size": 67108864,
+      "crc32": "7cc015e2",
+      "md5": "7365f8f9c5711c8f02f5ddd483c981d6",
+      "sha1": "f438b3d199aec12d221f8c2cde67d9ebcb289b35"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47939
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/100%20Classic%20Book%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/100%20Classic%20Book%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/100%20Classic%20Book%20Collection%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

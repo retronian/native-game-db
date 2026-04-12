@@ -1,0 +1,66 @@
+{
+  "id": "play-novel-silent-hill",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Play Novel - Silent Hill",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プレイノベル サイレントヒル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Play Novel - Silent Hill (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ASHJ",
+      "size": 8388608,
+      "crc32": "318a1e9b",
+      "md5": "df9bd674970714489629e97a8bcd32f7",
+      "sha1": "04f5f6f796672501ae05c879a77adc73f5a7ede7",
+      "sha256": "3beab851017b0c95339469d640dd0689270a055bee08a7a951b84989f91d17e8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイノベル サイレントヒルは、オリジナルのサイレントヒルのサイドストーリーです。日本のみでリリースされました。このゲームは「自分で選ぶ冒険」形式のアドベンチャーゲームです。イラスト付きのテキストが提示され、その後に次に何をするかを2つまたは3つの選択肢から選びます。\n\nプレイヤーは、オリジナルのハリーのゲームと同時に展開される冒険の中で、サイビル・ベネット警官を操作します。ただし、サイレントヒルをプレイしたからといって、この物語の結末を知っているとは限りません。\n\nこのゲームは日本のみでリリースされており、メニュー以外はすべて日本語で表示されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Play%20Novel%20-%20Silent%20Hill%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Play%20Novel%20-%20Silent%20Hill%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Play%20Novel%20-%20Silent%20Hill%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

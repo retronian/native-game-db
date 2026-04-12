@@ -1,0 +1,68 @@
+{
+  "id": "pachio-kun-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチ夫くん2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a6348b50",
+      "md5": "af5cc03610ba63651d359378e70ce559",
+      "sha1": "f603edbf6c6eebbb51c97522af1140e73b614bfa",
+      "sha256": "3f7c5dbc1e58d09543b87a591a1659c75c279565f466966022754c556c20610c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48836
+  },
+  "descriptions": [
+    {
+      "text": "画期的なパチンコゲーム「パチ夫くん」の続編です。前作から店舗数が10に増加しました。コングテーブルやUFOテーブルなど、ユニークなパチンコ台の種類も増えました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pachio-kun%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "risk",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Risk",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Risk (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-89036-00",
+      "size": 524288,
+      "crc32": "80416d0d",
+      "md5": "7a1ef516a2a741aefdaa543c3a7c472a",
+      "sha1": "6f4bf5e1dc0de79e42934e5867641e1baadba0d9",
+      "sha256": "d727ae4d2a00d33fe5d3a024b901eb7d98fa4741455cff4026e404b377fcd170"
+    }
+  ],
+  "external_ids": {
+    "igdb": 81575
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Risk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Risk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Risk%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

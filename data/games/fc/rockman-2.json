@@ -1,0 +1,61 @@
+{
+  "id": "rockman-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rockman 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Dr.ワイリーの謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rockman 2 (Japan) (Capcom Town)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "686c6fb9",
+      "md5": "0ba8d2e847f94f0084100b8dee29a739",
+      "sha1": "b4f2410e995499f2f914d7782d27ac29604915d1",
+      "sha256": "fa8acc04e4c23553713bae93468690a6248da3c772716edf5eb0428a04e4f3f9"
+    },
+    {
+      "name": "Rockman 2 (Taiwan) (En) (Rockman 123)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 262160,
+      "crc32": "b758a407",
+      "md5": "0bb3540f0ec871e33f8190b151053656",
+      "sha1": "b3e9ccf45a1c422f96762b9be92be2624c0bb436",
+      "sha256": "837715b33da413aa744a379c2284df0d41ccd924b51365b86356f2a52d9e05e3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Rockman%202%20%28Japan%29%20%28Capcom%20Town%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Rockman%202%20%28Japan%29%20%28Capcom%20Town%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

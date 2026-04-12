@@ -1,0 +1,54 @@
+{
+  "id": "puzzle-mate-ds-crossword-mate",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Mate DS - Crossword Mate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルメイトDS クロスワードメイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Mate DS - Crossword Mate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YXWJ",
+      "size": 16777216,
+      "crc32": "1ca19b18",
+      "md5": "d5cc8a6caa5f1cb1a8eefea0f4b4eaab",
+      "sha1": "3f24481f84c6bb1bdf2c6286ad059bab5acefc39"
+    }
+  ],
+  "external_ids": {
+    "igdb": 306451
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Mate%20DS%20-%20Crossword%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Mate%20DS%20-%20Crossword%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

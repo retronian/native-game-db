@@ -1,0 +1,48 @@
+{
+  "id": "my-pet-chimp",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Pet Chimp",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Pet Chimp (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCQE",
+      "size": 16777216,
+      "crc32": "7f2eeea6",
+      "md5": "77c9f1c1e24cb15d8f5bea636ac472e9",
+      "sha1": "f67eb776f33a14aad99a85757f7c591013468d93"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Pet%20Chimp%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Pet%20Chimp%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Pet%20Chimp%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

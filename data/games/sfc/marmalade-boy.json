@@ -1,0 +1,79 @@
+{
+  "id": "marmalade-boy",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marmalade Boy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ママレード・ボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ママレードボーイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marmalade Boy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5299b3a6",
+      "md5": "0605a0f14051f95b959ec34f9256c1e6",
+      "sha1": "50e72aebb03e3ea8c20146edcc5ad6ab40bc60ca",
+      "sha256": "e2f247a327e3289fbd85809b0ca32015364e72bc511d78b88eb59bda6bb65705"
+    },
+    {
+      "name": "Marmalade Boy (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a02c0e1e",
+      "md5": "4c1399c1c48c0a37cc62a4727abc73e8",
+      "sha1": "b8d2d6f73a2639da0f55e095890be8544df4507d",
+      "sha256": "a2aa8a630610e6dec8122f5dd388bd9f2c82214c833f2995fb14531ef5c868fa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38339
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Marmalade%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Marmalade%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Marmalade%20Boy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

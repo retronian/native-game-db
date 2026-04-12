@@ -1,0 +1,43 @@
+{
+  "id": "bomber",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomber",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomber (USA) (Sega Gopher)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TECTOY 2005-01",
+      "size": 131072,
+      "crc32": "6389a658",
+      "md5": "fd36dc99f8915416005880427fdae2d9",
+      "sha1": "fe6415e4cd3754316606cae0f0d85856d8ee00e0",
+      "sha256": "a7069cc52c34a15eb6dc7ba9cab799b69101719d0807645a6c9fb1068bb0d376"
+    },
+    {
+      "name": "Bomber (Europe) (Sega Reactor)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TECTOY 2005-01",
+      "size": 131072,
+      "crc32": "2a8c91cf",
+      "md5": "c9869441d68892b32ce4fa806e6d8464",
+      "sha1": "418e688e5e8639eb349047c38994c17ed05b4248",
+      "sha256": "9d1f4240ff4c2c95c90f574e78942c21458b0398e607a580f538a647b38fe4fd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 230682
+  }
+}

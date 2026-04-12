@@ -1,0 +1,74 @@
+{
+  "id": "battle-dodge-ball",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle Dodge Ball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルドッジボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バトルドッジボール 闘球大激突!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle Dodge Ball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "99a1f158",
+      "md5": "405d96a6a530484f70049400b78f5e6e",
+      "sha1": "a31fec86afce976ff586fc066561329c416187dd",
+      "sha256": "a36fe6256139b8dd859dd92b5a43e517dc6f556c79f4e42d2c5b86d533b7c1e0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「モビルスーツガンダム」、「ウルトラマン」、「仮面ライダー」のキャラクターが登場するクロスオーバー格闘ドッジボールゲームです。テクノスの「スーパードッジボール」と同様に、各プレイヤーにはヘルスメーターがあり、ドッジボールに当たると減少します。強力な投げはより多くのダメージを与え、キャラクターのHPがゼロになると、アリーナを離れます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battle%20Dodge%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Battle%20Dodge%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Battle%20Dodge%20Ball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

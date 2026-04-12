@@ -1,0 +1,71 @@
+{
+  "id": "astro-robo-sasa",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Astro Robo Sasa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アストロロボ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アストロロボSASA",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Astro Robo Sasa (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "57aa8e2f",
+      "md5": "ac46e8b414b8b7864bc7f5a57deaba00",
+      "sha1": "85993a1febccbde24468f8bc741e99955de76834",
+      "sha256": "90286c3bed688eb88ce98356e7e9da7115026d4cfc26abe4984bdc5e036e27c8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは一味違ったシューティングゲームです。あなたは小さなキャラクターを操作し、一連のステージを進んでいきます。各ステージは1つの画面で構成されており、さまざまな障害物の後ろに隠されたエネルギーパックがいくつかあります。あなたの目標は、与えられたステージで全てのエネルギーパックを食べること、または（時にはこちらの方が簡単ですが、後のステージに深刻な影響を与えることになります）それらを破壊することです。エネルギーパックを食べることに成功すれば、次のステージに持ち越せるエネルギーポイントが得られます。このエネルギーポイントは必要で、なぜならあなたの銃からの一発の弾薬は1ポイント消費され、周囲を飛び回る敵との衝突は大量のポイントを失う原因となるからです。\n\nこのゲームのひねりは動きにあります。単に飛び回るのではなく、目的の方向とは逆に撃たなければなりません。例えば、左に何度も撃つと、右に投げ出されます。すべてはあなたの銃の反動と重力の力に基づいており、連続して撃たないと徐々に地面に降下してしまいます。貴重なエネルギーポイントを保持し、エネルギーパックに向かう途中で破壊しなければならない障害物に正確に自分を推進することが、ゲームを成功裏にクリアする唯一の方法です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1985-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Astro%20Robo%20Sasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Astro%20Robo%20Sasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Astro%20Robo%20Sasa%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

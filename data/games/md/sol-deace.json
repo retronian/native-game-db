@@ -1,0 +1,80 @@
+{
+  "id": "sol-deace",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sol-Deace",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sol-Deace (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49206",
+      "size": 1048576,
+      "crc32": "a77e4e9f",
+      "md5": "46250bf62ede204cd72cee92dd211d71",
+      "sha1": "c10545e20a147d4fbf228db4a2b6e309799708c3",
+      "sha256": "7bb786d542620914065d0d4fa5af9bcba861e2e1bad74947159af5fb62448442"
+    },
+    {
+      "name": "Sol-Deace (USA) (Rev 1) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49206",
+      "size": 1048576,
+      "crc32": "a7994615",
+      "md5": "e848b033a7339ebd405781a5efd0603a",
+      "sha1": "b2d7e71eb55f90646ca0b0be6fdd4b458b629e71",
+      "sha256": "8f3a39f8929c5ad08214903c662a73cf268c1cb335c44910adcbda0cbc688619"
+    },
+    {
+      "name": "Sol-Deace (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-49206",
+      "size": 1048576,
+      "crc32": "84935bc3",
+      "md5": "58215d06b877fb829ed0799d73bcfdf3",
+      "sha1": "4d8e7a647c03c138acc8e93dfcdcb9d93b95bad7",
+      "sha256": "83c0e769fafc2dd18eef129fabf1e3e00c82586f6293fd3669a3630a807d59b6"
+    },
+    {
+      "name": "Sol-Deace (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49206",
+      "size": 1048576,
+      "crc32": "82991b5f",
+      "md5": "219eeacd424580933ac11c8589389481",
+      "sha1": "e6704af4feb6effa16b8f460be784d062b6d3346",
+      "sha256": "9320541c772d5d300272f130546d9afa0490fcd19fa6fa6901fe69e867479bde"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sol-Deace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sol-Deace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sol-Deace%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

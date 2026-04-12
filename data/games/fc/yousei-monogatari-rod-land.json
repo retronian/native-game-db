@@ -1,0 +1,65 @@
+{
+  "id": "yousei-monogatari-rod-land",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yousei Monogatari - Rod Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "妖精物語 Rod・Land ロッド・ランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yousei Monogatari - Rod Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "aa6479fd",
+      "md5": "2bc1c371780210733471eff3c04b20ca",
+      "sha1": "5c2977be8206a7abcec0f81ec15cd2d71896502b",
+      "sha256": "12f7f325339c67006cf4d6b773f56771a8417fb040d566510996a1668a0e3360"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「妖精物語 Rod・Land ロッド・ランド」は、「スラップスティック・ユーモア」という言葉を文字通りに捉えたゲームで、タムとリットという二人の妖精が主人公です。彼女たちの使命は、捕らえられて城に連れ去られた母親を救出することです。\n\nクリアすべきスクリーンは40あり、すべて敵で満ちています。敵は棒を使って捕まえ、左右に振り回すことでダメージを与えます。攻撃は一度にすべて行う必要はなく、敵を放して移動させることも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Yousei%20Monogatari%20-%20Rod%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

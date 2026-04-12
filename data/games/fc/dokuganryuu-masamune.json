@@ -1,0 +1,65 @@
+{
+  "id": "dokuganryuu-masamune",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dokuganryuu Masamune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "独眼竜政宗",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dokuganryuu Masamune (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1884f6fb",
+      "md5": "ceab2855e540de8370a9b993dc99ed68",
+      "sha1": "380702c15f5e80c28031b12206e03295422188d7",
+      "sha256": "bff52af669add50a040d06161611d991a95852a821f5f138ab540e26572c280e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "独眼竜政宗は、1988年にナムコがファミコン用に開発・制作した歴史シミュレーションゲームです。これは、コーエーの『信長の野望』やHOT-Bの『武田信玄』を含む、ファミコンで1か月の間に登場した3番目のゲームです。このゲームは、江戸時代初期に日本で権力を握った伊達政宗の生涯に基づいています。優れた戦略家であり、片目を失ったことでさらに象徴的な存在となり、伊達はしばしば独眼竜と呼ばれました。\n\nゲームでは、プレイヤーは戦国大名となり、11の地域を一つの支配下に統一することを目指します。同時期にリリースされた他の歴史シミュレーションゲームと比較すると、このゲームは少しシンプルで、即座に戦闘シーンが展開され、六角形のマップを使用し、金鉱探しや馬上弓術などのミニゲームが含まれています。ゲームは軽快で、ほぼユーモラスなトーンを保ち、ナムコ新聞を通じてゲーム内の更新を提供し、会話のトーンや対戦相手の感情の変化を示します。ゲームの難易度は設定可能で、8つのコマンドと4種類の戦闘部隊があります。このゲームは日本国内のみでリリースされており、原作の日本語から翻訳されたことはありません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-04-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dokuganryuu%20Masamune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dokuganryuu%20Masamune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dokuganryuu%20Masamune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

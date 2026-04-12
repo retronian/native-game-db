@@ -1,0 +1,94 @@
+{
+  "id": "final-fantasy-i-ii-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Fantasy I, II Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "FINAL FANTASY I・II ADVANCE",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Fantasy I, II Advance (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BFFJ",
+      "size": 16777216,
+      "crc32": "0f3bd723",
+      "md5": "3b3db67a969c970421af875adacb5efa",
+      "sha1": "3d1c580b9b3007f6f910d80f4c7421f5d2e19dbe",
+      "sha256": "b654190a7e0292dab2a70bf2621559294718a7f19ec9ffc595f78ff21a40294a"
+    },
+    {
+      "name": "Final Fantasy I, II Advance (Japan) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BFFJ",
+      "size": 16777216,
+      "crc32": "2c58c9c1",
+      "md5": "6eb4a3639f10155ad9a09bbaf46144d5",
+      "sha1": "ee60276f72ce0d1852f741f02bf1f4478b8f2d61"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファイナルファンタジー I：これまでにない方法でファイナルファンタジーを体験し、グラフィックが向上し、新たに追加された「カオスの魂」ダンジョンを探索しよう。四人の光の戦士の役割を担い、混沌とした世界に秩序を取り戻せ！\n\nファイナルファンタジー II：ファイナルファンタジー IIは、プレイヤーにより深いキャラクターと魅力的なストーリーを提供しました。この強化版では、世界を救うために命を捧げた英雄たちの物語「再生の魂」が追加され、これまで語られなかったサーガを体験できます！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-07-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20I%2C%20II%20Advance%20%28Japan%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

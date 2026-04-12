@@ -1,0 +1,81 @@
+{
+  "id": "from-tv-animation-one-piece-mezase-king-of-berry",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "From TV Animation One Piece - Mezase! King of Berry",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "From TV animation ONE PIECE めざせ！キングオブベリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "From TV Animation One Piece - Mezase! King of Berry (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AUSJ",
+      "size": 8388608,
+      "crc32": "e6f5bdd5",
+      "md5": "b4b64ffa04795ef56f3925702a2be291",
+      "sha1": "9b4e610a2f342f06de3704f7f0b35e6e562da928"
+    },
+    {
+      "name": "From TV Animation One Piece - Mezase! King of Berry (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 8388608,
+      "crc32": "4e63dce0",
+      "md5": "66b9f4c2c0025de207e1dc3a71340d5e",
+      "sha1": "fa92e37f0a08be40429b82f7bef868de3f3c2baf",
+      "sha256": "1c1ae516fe191107e4847020f80199baf369c2251b5c5c9eb907ac2d2b5692bb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同名のアニメを基にしたゲームです。サイコロを振って指定された島へ進みながら、海賊たちと戦いましょう。目標に到達するか、追いかけている海賊を倒せば勝利です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-03-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/From%20TV%20Animation%20One%20Piece%20-%20Mezase%21%20King%20of%20Berry%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/From%20TV%20Animation%20One%20Piece%20-%20Mezase%21%20King%20of%20Berry%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/From%20TV%20Animation%20One%20Piece%20-%20Mezase%21%20King%20of%20Berry%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/From%20TV%20Animation%20One%20Piece%20-%20Mezase%21%20King%20of%20Berry%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

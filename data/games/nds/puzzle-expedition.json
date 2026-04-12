@@ -1,0 +1,45 @@
+{
+  "id": "puzzle-expedition",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Expedition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Expedition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BEXE",
+      "size": 16777216,
+      "crc32": "ac757b2d",
+      "md5": "8ac352c2d08bc12714fa86593a4dc115",
+      "sha1": "05d695583954b75a0b9720ccb0318029ffb62206"
+    }
+  ],
+  "external_ids": {
+    "igdb": 35614
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Expedition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Expedition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

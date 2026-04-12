@@ -1,0 +1,42 @@
+{
+  "id": "rollercoaster-park",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rollercoaster Park",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rollercoaster Park (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRCP",
+      "size": 67108864,
+      "crc32": "d6d7f58c",
+      "md5": "5fbbdee7c7ad6a76b724dcc01b825294",
+      "sha1": "3d93437059e2d821de476ac00b156c5c7349092d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rollercoaster%20Park%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rollercoaster%20Park%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

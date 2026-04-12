@@ -1,0 +1,76 @@
+{
+  "id": "jinsei-game-tomodachi-takusan-tsukurou-yo",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jinsei Game - Tomodachi Takusan Tsukurou yo!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "人生ゲーム 友達たくさんつくろうよ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "人生ゲー 友達たくさんつくろうよ！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c8d46e99",
+      "md5": "3c2a7051b554cf70183cfa5d99ad021f",
+      "sha1": "d2c4ae3808d9a24cbd4c6c8e43184ca0ef2d8373"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228565
+  },
+  "descriptions": [
+    {
+      "text": "有名なボードゲーム「人生ゲーム」の最新作です。モンタージュでキャラクターを作成し、赤ちゃんからゲームをスタートします。能力を向上させながら、ミリオネアを目指しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jinsei%20Game%20-%20Tomodachi%20Takusan%20Tsukurou%20yo%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jinsei%20Game%20-%20Tomodachi%20Takusan%20Tsukurou%20yo%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jinsei%20Game%20-%20Tomodachi%20Takusan%20Tsukurou%20yo%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

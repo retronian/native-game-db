@@ -1,0 +1,62 @@
+{
+  "id": "osomatsu-kun-hachamecha-gekijou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Osomatsu-kun Hachamecha Gekijou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おそ松くん はちゃめちゃ劇場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Osomatsu-kun Hachamecha Gekijou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004005-01",
+      "size": 262144,
+      "crc32": "2453350c",
+      "md5": "b415c3b6feeed744be6508ba4f62890f",
+      "sha1": "bf82cb1c4d2144bd0e0d45629f346988cc4cc5b2",
+      "sha256": "0e00cdc31140e3fca7e2fb5e671becb94306802905aeb7bf797c6b60f54a2698"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4432
+  },
+  "first_release_date": "1988-12-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Osomatsu-kun%20Hachamecha%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Osomatsu-kun%20Hachamecha%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Osomatsu-kun%20Hachamecha%20Gekijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

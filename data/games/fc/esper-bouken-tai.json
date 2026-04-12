@@ -1,0 +1,74 @@
+{
+  "id": "esper-bouken-tai",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Esper Bouken Tai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エスパ冒険隊 魔王の砦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "エスパ冒険隊",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Esper Bouken Tai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "23d9bea5",
+      "md5": "e84686675ea47eae7172fe7ec05c54ca",
+      "sha1": "85c07547156833b08d23765f7fb3ba3ca16df0df",
+      "sha256": "09bfc36da45e094878f45386aa1d72c3a414e516eb8f7304dd4125af8478996b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「エスパ冒険隊 魔王の砦」は、ジャレコのアーケードゲーム「サイキック5」を基にした探索ゲームです。ゲーム内では、様々なキャラクターを使用し、それぞれ異なる特性を持っています。特性には、ジャンプ能力、中空でのホバリング能力、力強さなどが含まれます。アーケード版と同様に、一部のキャラクターはプレイ可能にするために救出する必要があります。このゲームには、各レベルでアニメーションされた敵として登場する50以上の家庭用品が登場します。このゲームは日本国外では販売されず、日本語から他の言語に翻訳されることもありませんでした。\n\nアキオは、世界中の悪と戦うとされるエスパー軍団の一員です。彼の任務は非常にシンプルで、友達や他の誰かを魔王の城から救出することです。彼は強力なハンマーと... 非常に高くジャンプする足を使います...（実際にプレイすればその意味がわかります）。このゲームはかなり長く、迷路のような部分もあるので、その場所の奇妙な住人たちと話すことをお勧めします（STARTボタンを使って会話することを恐れないでください）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-10-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Esper%20Bouken%20Tai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Esper%20Bouken%20Tai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Esper%20Bouken%20Tai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

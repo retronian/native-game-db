@@ -1,0 +1,89 @@
+{
+  "id": "battlecity",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "BattleCity",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルシティー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "BattleCity (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "b9c34f28",
+      "md5": "ab8ee82f19d5266c5868405d6ed6cb7b",
+      "sha1": "941ad7ca825e3f86407472113aad00520cb45783",
+      "sha256": "166ec235b062aa337045832843e2916f96f12dcf08972ad747016dbe77db761c"
+    },
+    {
+      "name": "BattleCity (World) (Namcot Collection, Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "806042f8",
+      "md5": "6c07ed348e8034679e013fd80b1e62ca",
+      "sha1": "3d1abffba539edc8cdbde445c97d3bfb86060976",
+      "sha256": "acb91aa75ba0e1b3da5497dee9a87ee228025eecb07be78b441c55f4b6419030"
+    },
+    {
+      "name": "BattleCity (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 24592,
+      "crc32": "dab37082",
+      "md5": "bde07933e4700fc31a6a2df4739e067a",
+      "sha1": "0409249b8affd7584b2fa8cd3b48496eb0049362",
+      "sha256": "485a9686cee1f48e19f05b48981fb749579060028135726740c87959c8954de5"
+    },
+    {
+      "name": "BattleCity (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 24592,
+      "crc32": "f441fdb6",
+      "md5": "feb670c12d6c696738384d9ca4339de1",
+      "sha1": "21dd982e807e2d8b0df8f766d1e5a2c30931d28b",
+      "sha256": "112b8238b0257e107fb909afabe93aeb20aa2e6a69da90c201475fd6d6730c61"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ナムコの名作戦車ゲーム。司令部を守りながら敵戦車を撃破。2人同時プレイ可能。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/BattleCity%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

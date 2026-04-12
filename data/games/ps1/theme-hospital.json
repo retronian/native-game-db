@@ -1,0 +1,127 @@
+{
+  "id": "theme-hospital",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Theme Hospital",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "テーマホスピタル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Theme Hospital (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 126581440,
+      "crc32": "102524f5",
+      "md5": "e46c312295c8a6d146c531e97be86dcc",
+      "sha1": "f38b61ea97b2453a160a3513e1ca5c3d8d8464cb"
+    },
+    {
+      "name": "Theme Hospital (France)",
+      "source": "no_intro",
+      "size": 126603648,
+      "crc32": "1bcbf5c8",
+      "md5": "ce6421ccd3d9e6afc854cf747cb3e4be",
+      "sha1": "d8f85181de5f8f06b6d9a9270eda81e22ff25596"
+    },
+    {
+      "name": "Theme Hospital (Germany)",
+      "source": "no_intro",
+      "size": 126566640,
+      "crc32": "a9f1e48a",
+      "md5": "d438bb21a07bd44b284c2d6e43579ad0",
+      "sha1": "a0514e5b169da30b89e9e4429eeea2975dbf2e08"
+    },
+    {
+      "name": "Theme Hospital (Italy)",
+      "source": "no_intro",
+      "size": 126602112,
+      "crc32": "28c98cc1",
+      "md5": "e287289e61e5dc91003b5bc0946e7375",
+      "sha1": "7ba58d2681bc323c190dea9c851ef8dc5ad912d4"
+    },
+    {
+      "name": "Theme Hospital (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 96615808,
+      "crc32": "d7a73cf6",
+      "md5": "24c9853fbb586673b30cc0a8b11d5a0f",
+      "sha1": "723325618beaaaaf242561ccfa5ce2867654eea5"
+    },
+    {
+      "name": "Theme Hospital (Spain)",
+      "source": "no_intro",
+      "size": 126596432,
+      "crc32": "d4ea6d94",
+      "md5": "130b42fae9b5d4f719b7a3c905e26c67",
+      "sha1": "f3080329fe0aef1fa2c0482d8633a5438f59fce9"
+    },
+    {
+      "name": "Theme Hospital (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 128617520,
+      "crc32": "64d7c18c",
+      "md5": "121c3973cb97b97170de546ff925e21e",
+      "sha1": "7404217cc8d21799357aba7de6a58c01657a90d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 216009
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Theme%20Hospital%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Theme%20Hospital%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Theme%20Hospital%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Theme%20Hospital%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Theme%20Hospital%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Theme%20Hospital%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

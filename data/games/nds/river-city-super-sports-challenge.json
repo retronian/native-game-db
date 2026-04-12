@@ -1,0 +1,62 @@
+{
+  "id": "river-city-super-sports-challenge",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "River City - Super Sports Challenge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "くにおくんの超熱血! 大運動会",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Kunio-kun no Chou Nekketsu! Daiundoukai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "River City - Super Sports Challenge (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BUDE",
+      "size": 16777216,
+      "crc32": "9f3f6f03",
+      "md5": "364eee7fa0a7cfc661ea5703bd0ceeb7",
+      "sha1": "a36df97e257d2b9944e912fc4372e08a1f66a141"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47973
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/River%20City%20-%20Super%20Sports%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/River%20City%20-%20Super%20Sports%20Challenge%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

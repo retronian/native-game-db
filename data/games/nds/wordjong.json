@@ -1,0 +1,64 @@
+{
+  "id": "wordjong",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "WordJong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "WordJong (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWJP",
+      "size": 8388608,
+      "crc32": "5473eec5",
+      "md5": "f4f5efe3cae238ce73c6b728be108e5b",
+      "sha1": "97123d04c3cab6a8c601c3a84fb226a8664aff1d"
+    },
+    {
+      "name": "WordJong (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YWJE",
+      "size": 8388608,
+      "crc32": "03b2915e",
+      "md5": "9b5b4a9936fa84d4e14af74d2c65704a",
+      "sha1": "06ebaf4237573d3e8f743d6d19863b0a92a826dc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WordJong%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WordJong%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/WordJong%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/WordJong%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

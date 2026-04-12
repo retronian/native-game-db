@@ -1,0 +1,60 @@
+{
+  "id": "initial-d-another-stage",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Initial D - Another Stage",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "頭文字 D Another Stage",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Initial D - Another Stage (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AINJ",
+      "size": 8388608,
+      "crc32": "23110a94",
+      "md5": "ead0c0d58712a968db6ff1c2c08f6946",
+      "sha1": "abc8a136e00e38132bf07d38cf28e52a2719fab9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49621
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Initial%20D%20-%20Another%20Stage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Initial%20D%20-%20Another%20Stage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Initial%20D%20-%20Another%20Stage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

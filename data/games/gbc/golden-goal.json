@@ -1,0 +1,70 @@
+{
+  "id": "golden-goal",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Golden Goal",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "bb9b597d",
+      "md5": "51f21f61592f05e712b36a0bf10a34a6",
+      "sha1": "1501ea3bb5aa70562306f6df40e5b61cea93de7e"
+    },
+    {
+      "name": "Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "14d1adbe",
+      "md5": "781afd1e98b3743c835fcc16df624895",
+      "sha1": "aba65e7eca59f6fd90d4266df1478bad68d1e74e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Golden%20Goal%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Golden%20Goal%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Golden%20Goal%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Golden%20Goal%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Golden%20Goal%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Golden%20Goal%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

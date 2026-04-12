@@ -1,0 +1,72 @@
+{
+  "id": "puzzle-city",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle City",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle City (Germany)",
+      "source": "no_intro",
+      "serial": "CCCD",
+      "size": 33554432,
+      "crc32": "33b97bc1",
+      "md5": "5b9c5dc0643a04c1a5935048f4f566a5",
+      "sha1": "c530cabdf9b644abef33302a72148782d9a4b297"
+    },
+    {
+      "name": "Puzzle City (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCCE",
+      "size": 16777216,
+      "crc32": "188907f1",
+      "md5": "7d2e9e03e6b4f1203dc0f15324223dfd",
+      "sha1": "80f870af85642869ebe719fbef0e50268739734b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20City%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Puzzle%20City%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20City%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Puzzle%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20City%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

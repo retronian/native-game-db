@@ -1,0 +1,65 @@
+{
+  "id": "super-puzzle-bobble-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Puzzle Bobble Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドナルドダック アドバンス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Puzzle Bobble Advance (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ABMJ",
+      "size": 4194304,
+      "crc32": "f2bc49ce",
+      "md5": "d2a5a5ccd519b50603ecba358d085ef4",
+      "sha1": "133d8844449cb11961297e517b82eeec2c034433"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーバストアムーブは、シリーズのすべてのエンターテイニングなパズルアクションを新しいマルチプレイヤーモードとグラフィックの改善を加えて提供します。\n\nゲームの目的は、シリーズの前作と同様に、画面上の色付きバブルを一定数取り除くことです。そのために、画面の下部からバブルを発射するためのランチャーを使い、バブルを上に送り込んでいきます。同じ色のバブルを3つ以上揃えることで、画面から取り除くことができます。もし遅すぎると、バブルの集まりが画面の下に向かって移動し、底に達するとゲームが終了します。\n\nクラシックモードでは、バストアムーブシリーズで以前に見られたバブルパズルがいくつか登場し、ノーマルモードではバブルを取り除くテーマに新しいバリエーションが加わっています。また、2人のプレイヤーが対戦することも可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Puzzle%20Bobble%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Puzzle%20Bobble%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Puzzle%20Bobble%20Advance%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ex-ranza",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ex-Ranza",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エクスランザー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ex-Ranza (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-004097-00",
+      "size": 1048576,
+      "crc32": "349bb68d",
+      "md5": "604453e2dda349306d573adfba6e6fb7",
+      "sha1": "0006f55e826148cff9e717b582a39a04adf100df",
+      "sha256": "73d0702f0dcc1366cd0289015821405ba1268b8090cf9f44822bfc3155a6e922"
+    },
+    {
+      "name": "Ex-Ranza (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-00000-00",
+      "size": 1048576,
+      "crc32": "c642fdf4",
+      "md5": "d47e977300ed8014428974d19e1e39db",
+      "sha1": "f1c883f3bc6343c8a8181261ead3a534520a447f",
+      "sha256": "7190575e533bff363aad751af0b480c7b7af09a4c6d06ce4bba6e04b2d2b5d74"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「エクスランザー」はメガドライブのライフサイクルの後期にリリースされました。無名の開発者からの作品で、あまり宣伝もされずに発売されましたが、ジェネシス/メガドライブの能力を示す最高のデモの一つとなっています。\n\nこのゲームはサイドスクロールシューティングゲームの一種です。プレイヤーは大きなメカ（ロボット）を操作し、その横に小さなサイドキックメカがあり、これは車のような存在です。二つのメカは合体することで別の射撃モードを提供します。しかし、メインのメカだけを操作している間は、異なるボタンを使うことで前方と後方の両方に射撃が可能です。また、メカはロケットパックを使って地面からブーストし、短時間ホバリングすることもできます。レベルは必ずしも左から右に進むわけではなく（大部分はそうですが）、プラットフォームゲームとシューティングゲームの興味深いブレンドとなっています。\n\nこのゲームはハードウェアの制限を考慮した革新的なグラフィックを特徴としており、ほとんどのレベルには3Dのイントロがあり（コンソールには3D機能がなく、タイルベースのレンダラーを使用していることを考慮）、一部のレベルではラインベースのスクロール効果を使用して3D背景の印象を与えています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ex-Ranza%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ex-Ranza%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ex-Ranza%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

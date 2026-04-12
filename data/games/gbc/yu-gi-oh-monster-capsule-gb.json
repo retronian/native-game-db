@@ -1,0 +1,77 @@
+{
+  "id": "yu-gi-oh-monster-capsule-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu-Gi-Oh! - Monster Capsule GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "遊☆戯☆王 モンスターカプセルGB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "遊戯王モンスターカプセルＧＢ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1371e872",
+      "md5": "b980da92693762bd3a7a4791fe08766e",
+      "sha1": "4ed5607dd83ebe7975c492b08d36870f8dd6e302",
+      "sha256": "daf4055a1e873944130b0e3e4a61ed9991831fb66a7c91ae52fca7da0e2d61db"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56977
+  },
+  "descriptions": [
+    {
+      "text": "セット・カイバはミレニアムリングを手に入れ、その力に捕らわれてしまう。彼の心は「デス・ティー」でダーク・ユーギに敗れた後、粉々になっていた。カイバはその後、遊戯と彼の友人たちを「デュエルタワー」に招待する。タワーに入ると、リングはその力を使って城之内克也、真崎杏子、本田ヒロト、バクラリョウ、そして武藤双六の魂を転送してしまう。友人たちと祖父を取り戻すために、遊戯は「モンスターカプセル」を使って「モンスターワールドトーナメント」でカイバと彼の手下たちを倒さなければならない。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Yu-Gi-Oh%21%20-%20Monster%20Capsule%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Yu-Gi-Oh%21%20-%20Monster%20Capsule%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Yu-Gi-Oh%21%20-%20Monster%20Capsule%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

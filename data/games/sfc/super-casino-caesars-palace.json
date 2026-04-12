@@ -1,0 +1,102 @@
+{
+  "id": "super-casino-caesars-palace",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Casino - Caesars Palace",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カジノ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーカジノ シーザースパレス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Casino - Caesars Palace (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "6f9632d7",
+      "md5": "249cf91b9341cf8572f4bdd4b8d944e6",
+      "sha1": "22650e997555d3cf40eb82ffbc743d31ccb219dd",
+      "sha256": "8196bd037450980036b646ce48be3808c3eb9deeefe4cd05fb3251d7579c9476"
+    },
+    {
+      "name": "Super Casino - Caesars Palace (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "53193b87",
+      "md5": "80541ad79f0bcaa7869eabf18f035639",
+      "sha1": "7a51cf4dda4cabb1fef9825afacad80c117e9c3e",
+      "sha256": "ef531c4585e464fdf7c08ea5902d51a4ed11d972f9a97c555b28320784cb6e77"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーカジノパレスは、オリジナルのカジノパレスのアップグレード版で、NES向けにリリースされました。このバージョンでは、ブラックジャック、キノ、ルーレット、スクラッチ、競馬、レッドドッグ、クラップス、ビデオポーカー、スロットマシンの9つの異なるゲームから選ぶことができ、それぞれに異なる難易度と戦略があります。\n\nプレイヤーが十分な資金に達すると、V.I.P.ルームに行き、これらのゲームのより高額なバージョンで大勝ちするか、大負けするかの挑戦ができます。リアリズムを高めるために、プレイヤーはATMを訪れて現金を引き出し、手持ちの現金が不足している場合に備えることもできます。また、パスワード機能があり、プレイヤーは後でゲームを再開することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Casino%20-%20Caesars%20Palace%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

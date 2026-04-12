@@ -1,0 +1,65 @@
+{
+  "id": "network-boukenki-bugsite-alpha-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Network Boukenki Bugsite - Alpha Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ネットワーク冒険記バグサイト α アルファ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Network Boukenki Bugsite - Alpha Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "d65c8ba1",
+      "md5": "7f9dbafd6d16957e9687f89e33765f0b",
+      "sha1": "a5be33b3cefa2af0865caddb287814c8cca19edd",
+      "sha256": "7364361ce26d8a48355f19952a61de8f8ca436ee91d7acc53b73784ddd4d4d21"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ネットワーク冒険記バグサイト α アルファは、KAZeが開発し、Smilesoftが日本で発売したゲームボーイカラー用のビデオゲームです。ゲームはアルファ版とベータ版の2つのバージョンがあります。このゲームには、バグセンサーと呼ばれる周辺機器が含まれており、これはテレファングゲームに同梱されていたパワーアンテナと機能的に同じです。バグセンサーは限定版のコピーのみが含まれる予定でしたが、非限定版は一切製造されませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-11-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Network%20Boukenki%20Bugsite%20-%20Alpha%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Network%20Boukenki%20Bugsite%20-%20Alpha%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Network%20Boukenki%20Bugsite%20-%20Alpha%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

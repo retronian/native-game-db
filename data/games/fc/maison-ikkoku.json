@@ -1,0 +1,77 @@
+{
+  "id": "maison-ikkoku",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maison Ikkoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "めぞん一刻",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "めぞん一刻 〜想いでのフォトグラフ〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maison Ikkoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "096b9505",
+      "md5": "713be8bad4e3edca926fe6a95bec1322",
+      "sha1": "bed52c6554ddc068373cc9bcedfffb6e90a6ba01",
+      "sha256": "4a6ab2343cd607f8dec0104244861157cf229b0dbdf26d78ac25dbbe6d1d248a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 41803
+  },
+  "descriptions": [
+    {
+      "text": "めぞん一刻。高橋留美子原作のアパート恋愛アドベンチャー。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-09-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Maison%20Ikkoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Maison%20Ikkoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Maison%20Ikkoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

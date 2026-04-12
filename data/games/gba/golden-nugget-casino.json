@@ -1,0 +1,51 @@
+{
+  "id": "golden-nugget-casino",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Golden Nugget Casino",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Golden Nugget Casino (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGGE",
+      "size": 4194304,
+      "crc32": "56b9e9e1",
+      "md5": "4df2176d0f881b309b9077d18a422f00",
+      "sha1": "5ecf4ead4b22a5916086a34bbf2abf299aaf3401"
+    }
+  ],
+  "external_ids": {
+    "igdb": 128368
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Golden%20Nugget%20Casino%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Golden%20Nugget%20Casino%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Golden%20Nugget%20Casino%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

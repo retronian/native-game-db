@@ -1,0 +1,67 @@
+{
+  "id": "super-me-mail-gb-me-mail-bear-no-happy-mail-town",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Me-Mail GB - Me-Mail Bear no Happy Mail Town",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーミメルGB ミメルベアのハッピーメールタウン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Me-Mail GB - Me-Mail Bear no Happy Mail Town (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "315caa18",
+      "md5": "5d4cdbf3b54b6857c29cb24ebfaf2470",
+      "sha1": "4b96d2447b763f08d079eb07b95b6627d3fc120b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282662
+  },
+  "descriptions": [
+    {
+      "text": "「ICカード」を使ってメールを交換し、「ハート」を集めて友達を増やしましょう。ゲームが進むにつれて、友達とミニゲームをプレイすることができます。友達とのメール交換も楽しめます！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Super%20Me-Mail%20GB%20-%20Me-Mail%20Bear%20no%20Happy%20Mail%20Town%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Super%20Me-Mail%20GB%20-%20Me-Mail%20Bear%20no%20Happy%20Mail%20Town%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Super%20Me-Mail%20GB%20-%20Me-Mail%20Bear%20no%20Happy%20Mail%20Town%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

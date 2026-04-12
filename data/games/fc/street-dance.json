@@ -1,0 +1,46 @@
+{
+  "id": "street-dance",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Street Dance",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 247292
+  },
+  "first_release_date": "2008-12-31",
+  "roms": [
+    {
+      "name": "Street Dance (China) (En) (Unl)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524304,
+      "crc32": "e147b62d",
+      "md5": "76ce02febd3233c9fe4d29b649121a49",
+      "sha1": "2397a5db6a6360ce3d91940ec72d4ebf9b1b9ead",
+      "sha256": "cadc7cfb8eebf642f20dde01d280ad42953f3e8811865ddae0ee9be1eba0ca75"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Street%20Dance%20%28China%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Street%20Dance%20%28China%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

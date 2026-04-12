@@ -1,0 +1,65 @@
+{
+  "id": "metal-stoker",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metal Stoker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メタルストーカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metal Stoker (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "25a02bee",
+      "md5": "fdad7cca269ed1a0676df12fa07eae01",
+      "sha1": "06ae3e73fe8a83aac0159995e6db1c087799a9c5",
+      "sha256": "41c857f15eb479109996c24a403bb624afdf4b51d93564ad7f131b082839c280"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42059
+  },
+  "descriptions": [
+    {
+      "text": "『メタルストーカー』は、2Dのトップダウン型マルチディレクショナルシューティングゲームです。プレイヤーは、プロトタイプのCS-05戦車を操縦する女性パイロット（カットシーンでのみ登場）を操作します。戦車は画面上を自由に移動でき、エリアの端に達するまでゲームがスクロールします。戦車は敵を倒し、出口を見つける必要があります。レーザー、ホーミングミサイル、地雷、フォースフィールドなど、いくつかの武器があります。戦車の砲塔は一つの位置に固定して発射することができるため、ストレイフ移動が可能です。時には、進行するためにすべての敵やボスを倒さなければならないこともあります。ゲームは合計7つのレベルがあり、多くの部分が迷路になっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Metal%20Stoker%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Metal%20Stoker%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Metal%20Stoker%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

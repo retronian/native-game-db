@@ -1,0 +1,79 @@
+{
+  "id": "atari-anniversary-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Atari Anniversary Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Atari Anniversary Advance (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AAVP",
+      "size": 4194304,
+      "crc32": "b9b89fdf",
+      "md5": "e91540a58d8c28d15137c7fc6504f78a",
+      "sha1": "57ce9a691989503ff0b94f578664397385a471af"
+    },
+    {
+      "name": "Atari Anniversary Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AAVE",
+      "size": 4194304,
+      "crc32": "4505a638",
+      "md5": "5557fb798b7e5b05016d8269ddb9e20b",
+      "sha1": "aba3caa1f7ef8df5036ed735916fa04f74f2f29f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 80442
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Atari%20Anniversary%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Atari%20Anniversary%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Atari%20Anniversary%20Advance%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Atari%20Anniversary%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Atari%20Anniversary%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Atari%20Anniversary%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

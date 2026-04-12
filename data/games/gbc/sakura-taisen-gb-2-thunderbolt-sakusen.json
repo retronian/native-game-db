@@ -1,0 +1,64 @@
+{
+  "id": "sakura-taisen-gb-2-thunderbolt-sakusen",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sakura Taisen GB 2 - Thunderbolt Sakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サクラ大戦GB2 サンダーボルト作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sakura Taisen GB 2 - Thunderbolt Sakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "47636a2c",
+      "md5": "5b36285c8491be0e1cb0c2c741d2b793",
+      "sha1": "13092603ea1d54264bc48f02c2796947badb462c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "花組の一員となり、サクラや彼女の仲間たちと共に帝都を襲う敵を打ち倒そう。主人公の甲冑・改をカスタマイズし、アップグレードしよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Sakura%20Taisen%20GB%202%20-%20Thunderbolt%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Sakura%20Taisen%20GB%202%20-%20Thunderbolt%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Sakura%20Taisen%20GB%202%20-%20Thunderbolt%20Sakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

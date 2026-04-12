@@ -1,0 +1,83 @@
+{
+  "id": "same-same-same",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Same! Same! Same!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鮫! 鮫! 鮫!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "鮫!鮫!鮫!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Same! Same! Same! (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-40013-00",
+      "size": 524288,
+      "crc32": "77bbd841",
+      "md5": "9b399dee13e33613a4bed61b76d0233d",
+      "sha1": "b0d2552c5aae75dbe2d63600c0dbd64868c2f2c5",
+      "sha256": "bf78228abd10196cdeb0cb5ce008036726f7bb4b24ab8c502b1b8256247c164a"
+    },
+    {
+      "name": "Same! Same! Same! (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-34016-00",
+      "size": 524288,
+      "crc32": "6fd46dc2",
+      "md5": "bbb6f58eae06f574fcdfb010cc1e3c22",
+      "sha1": "798646ff94c867077ebd7188a3c87dbad1a23844",
+      "sha256": "e67b44f96437b564a4e603f1a018a2fc56661aaa6b19a5ff51a98e1498377037"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファイアシャークは、レーザーと爆弾を装備した改造バイプレーンを操縦する縦スクロールのエアシューティングゲームです。地上、空中、海上の敵の波に立ち向かい、パワーアップや武器のアップグレードを集め、南太平洋の島を進む中でミッションの合間にボーナスを獲得します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Same%21%20Same%21%20Same%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Same%21%20Same%21%20Same%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Same%21%20Same%21%20Same%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

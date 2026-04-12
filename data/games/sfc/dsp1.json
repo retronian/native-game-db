@@ -1,0 +1,43 @@
+{
+  "id": "dsp1",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DSP1",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "DSP1 (World) (Enhancement Chip)",
+      "source": "no_intro",
+      "size": 8192,
+      "crc32": "e359f184",
+      "md5": "428fdb968d54353d9c9eced1b0586671",
+      "sha1": "188d471fefea71eb53f0ee7064697ff0971b1014",
+      "sha256": "91e87d11e1c30d172556bed2211cce2efa94ba595f58c5d264809ef4d363a97b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/DSP1%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/DSP1%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/DSP1%20%28World%29%20%28Enhancement%20Chip%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "monster-trucks-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Trucks DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Trucks DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AMXE",
+      "size": 16777216,
+      "crc32": "1ec21b14",
+      "md5": "f6b4bd22d81854c19c9dbcbbab349c50",
+      "sha1": "66f94261a927a6f714927ac8f3ec39b72223eca8"
+    },
+    {
+      "name": "Monster Trucks DS (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AMXP",
+      "size": 33554432,
+      "crc32": "f192781a",
+      "md5": "2ed2393bcf3a6c8479bec2e78a30bb8b",
+      "sha1": "cde075bd20852d54c9f3db0c5204b5d1f73ddd88"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47864
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Trucks%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Trucks%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Trucks%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Trucks%20DS%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

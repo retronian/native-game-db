@@ -1,0 +1,68 @@
+{
+  "id": "takeda-shingen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Takeda Shingen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "武田信玄",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Takeda Shingen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "ae8cd4a7",
+      "md5": "deb64316962000e1327594f65b31f6aa",
+      "sha1": "2a790e1a910fd2502e6d688568c9b8c7163d565e",
+      "sha256": "2cfa8710660af475db768077698b5628eb2e1f839b89a8bfa46d626047498d5d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 81334
+  },
+  "descriptions": [
+    {
+      "text": "この戦略シミュレーションゲームでは、プレイヤーは16世紀の日本の戦国時代における伝説の大名であり軍事の天才、武田信玄を操ります。目標は、信玄の支配下で日本を統一することです。本作はアナザーによって開発され、ホットビーから発売されました。そして1989年には続編「武田信玄2」が登場しました。続編はアメリカ版（タイトルは「シンゲン・ザ・ルーラー」に改名）もリリースされましたが、オリジナルは日本専用のリリースとなりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-03-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takeda%20Shingen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takeda%20Shingen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takeda%20Shingen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

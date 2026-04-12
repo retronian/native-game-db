@@ -1,0 +1,61 @@
+{
+  "id": "idol-hanafuda-fan-club",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Idol Hanafuda Fan Club",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    },
+    {
+      "text": "アイドル花札ファンクラブ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "external_ids": {
+    "igdb": 37664
+  },
+  "first_release_date": "1991-12-01",
+  "roms": [
+    {
+      "name": "Idol Hanafuda Fan Club (Japan) (Unl)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9ec6fc6c",
+      "md5": "b218d95cc1b2e827be76282d726c6244",
+      "sha1": "55ccdf9f02339f02a2f62c61a10180ea8a24817d",
+      "sha256": "e0a41cbf6fd446c63ecf36630e2f37afbcbc4e706ce43303a86e7cb50233c046"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Idol%20Hanafuda%20Fan%20Club%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Idol%20Hanafuda%20Fan%20Club%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Idol%20Hanafuda%20Fan%20Club%20%28Japan%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

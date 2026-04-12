@@ -1,0 +1,76 @@
+{
+  "id": "pop-n-music-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pop'n Music GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポップンミュージックGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ポップンミュージック GB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pop'n Music GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "07e6ca95",
+      "md5": "10e6dcd0a350076e28b9c598c278b6a2",
+      "sha1": "f2b31ecdd1dbd3c7c120d436ed8d5e19743e9cf0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 191417
+  },
+  "descriptions": [
+    {
+      "text": "ポップンミュージックは、コナミの軽快な音楽ゲームです。ビートマニアに似たゲームですが、明るい色合い、弾むような音楽、クールなアニメキャラクターが特徴です。アーケード版とコンソール版は9ボタンのコントローラーを使用しますが、ゲームボーイ版は簡略化された5ボタンの操作システムを採用しています。このゲームは明らかに若いプレイヤーをターゲットにしていますが、決して簡単ではなく、コナミの音楽ゲーム全般に言えることですが、難易度はプレイヤー次第です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pop%27n%20Music%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pop%27n%20Music%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pop%27n%20Music%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

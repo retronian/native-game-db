@@ -1,0 +1,48 @@
+{
+  "id": "my-horse-club",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Horse Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Horse Club (Europe) (En,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMQX",
+      "size": 33554432,
+      "crc32": "34be2644",
+      "md5": "f9a4166d17ec70b29801a331eb885775",
+      "sha1": "4af3bd38563305dc2a48e8617e446675c1d2ec0e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Horse%20Club%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Horse%20Club%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Horse%20Club%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

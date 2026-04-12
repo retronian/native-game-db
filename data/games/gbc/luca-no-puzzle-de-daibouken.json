@@ -1,0 +1,67 @@
+{
+  "id": "luca-no-puzzle-de-daibouken",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Luca no Puzzle de Daibouken!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルーカのぱずるで大冒険!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "3aebfad8",
+      "md5": "74a6b62520a30ff28d5a7d19a7108c27",
+      "sha1": "3c06fe05909ad632b761c6a1c00bc69da81aa358"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228606
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは、プレイヤーが数字を縦横の列や色分けされたエリアに重複させずに配置するパズルゲームです。また、20問のパズルをクリアするごとにミニゲームが楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-06-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Luca%20no%20Puzzle%20de%20Daibouken%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Luca%20no%20Puzzle%20de%20Daibouken%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Luca%20no%20Puzzle%20de%20Daibouken%21%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

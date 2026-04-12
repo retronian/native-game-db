@@ -1,0 +1,67 @@
+{
+  "id": "murder-in-venice",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Murder in Venice",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Murder in Venice (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BNQP",
+      "size": 33554432,
+      "crc32": "df32023c",
+      "md5": "8a38829340cd1e7b85e7d591e341d824",
+      "sha1": "d6cb2fa8fcf526ecc20e20cfaf9f1924dc5b3a12"
+    },
+    {
+      "name": "Murder in Venice (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNQE",
+      "size": 33554432,
+      "crc32": "e078ddde",
+      "md5": "bb9ff45463b538a8ea6df6afeb5e4cbb",
+      "sha1": "6871cdec5c1516a1e054d3aec51aec5ffe134891"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47792
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Murder%20in%20Venice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Murder%20in%20Venice%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Murder%20in%20Venice%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Murder%20in%20Venice%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

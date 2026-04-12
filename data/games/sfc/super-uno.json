@@ -1,0 +1,121 @@
+{
+  "id": "super-uno",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Uno",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーウノ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Uno (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "61441201",
+      "md5": "de0738cf93d84da56719d7ea2165ae73",
+      "sha1": "8130449b2b9a9ccf01b9472e17f7ed01fbc49b76",
+      "sha256": "fddc6634f727899152a5b8b1ca3b8938a4e4ccdd5a6adb9e1579363e3b676f20"
+    },
+    {
+      "name": "Super Uno (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "aa0a7c43",
+      "md5": "089292c3c040be5c976a76f1159390c5",
+      "sha1": "00ae5d4667e179d9677611edf6a05f50b2d3ee6f",
+      "sha256": "c31bdb54d4842cb0b1de1f209e82b444f41e6a7a5e9957980f425a99a45ac984"
+    },
+    {
+      "name": "Super Uno (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1b751aaa",
+      "md5": "a34d70e43e43523288167d5049343b0c",
+      "sha1": "636bd1b8053ff5f8c3b57863aefb48c958050870",
+      "sha256": "f49288463d3772186616b86823b42ed602f559f45bb1132a8b7ad32e84a2c753"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37946
+  },
+  "descriptions": [
+    {
+      "text": "スーパーウノは、スーパーファミコン用のカードゲームで、人気のカードゲームウノを再現したものです。プレイヤーは、プレイヤー数、特別ルール、その他の機能に関して多くのカスタマイズオプションを持っています。ゲームは明るいカートゥーンスタイルで、プレイヤーが使用できるいくつかのアニメ風ポートレートも用意されています。\n\nオリジナルのカードゲームと同様に、目標はプレイヤーキャラクターの手札のカードをすべて最初にプレイすることです。各プレイヤーは、現在の捨て札のカードと同じ数字または色のカードしかプレイできず、そうでない場合は新しいカードを引かなければなりません。色を変更できるワイルドカードなど、いくつかの例外があります。他のカードは、プレイヤーの対戦相手を困難な状況に追い込み、デッキにさらにカードを追加させたり、ターンの順番を逆転させたりすることができます。\n\nこのゲームは、トミー株式会社によってスーパーファミコン専用に日本でのみ発売されました。トミーは、競合するおもちゃ大手マテルからウノブランドのライセンスを取得しました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Uno%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Uno%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Uno%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Uno%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Uno%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Uno%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Uno%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

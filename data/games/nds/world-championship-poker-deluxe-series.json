@@ -1,0 +1,77 @@
+{
+  "id": "world-championship-poker-deluxe-series",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Championship Poker - Deluxe Series",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Championship Poker - Deluxe Series (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWPE",
+      "size": 16777216,
+      "crc32": "b5cabb37",
+      "md5": "060712a5047f412b9137487d3cd4d6b5",
+      "sha1": "876203efaeb0e72c29b3a4495cb769b11f3e1405"
+    },
+    {
+      "name": "World Championship Poker - Deluxe Series (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AWPP",
+      "size": 16777216,
+      "crc32": "3b359184",
+      "md5": "9866a8dcc5bd9f8cec81559286cf89ec",
+      "sha1": "89a7daee989a4427b2db6209c6ed9d35cd353468",
+      "sha256": "e54e926bf5a030b4718e584d1aca6128330367df3a6125bb561f1c8cd5f8c7cc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/World%20Championship%20Poker%20-%20Deluxe%20Series%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

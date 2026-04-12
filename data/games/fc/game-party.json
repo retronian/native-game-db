@@ -1,0 +1,68 @@
+{
+  "id": "game-party",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Game Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲームパーティー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Game Party (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0d5ea16b",
+      "md5": "29c6a9a7deeda6370736d1a722526849",
+      "sha1": "792ca77433314439795086413dcc311dad794c85",
+      "sha256": "fab3a7869831c036cc45e9870dc76c176e97ec0c26761a3cb553f8c8ae42525a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 208265
+  },
+  "descriptions": [
+    {
+      "text": "ゲームパーティーでは、1つのカートリッジで5つの異なるゲームを楽しむことができます。含まれているゲームは、エアホッケー、ホッケー、ピンボール、バスケットボール、そしてマインド-Qです。友達を誘って、楽しいマルチプレイヤーゲームを始めましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Game%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Game%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Game%20Party%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

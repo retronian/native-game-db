@@ -1,0 +1,42 @@
+{
+  "id": "metropolis-crime",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metropolis Crime$",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metropolis Crime$ (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BMQP",
+      "size": 67108864,
+      "crc32": "92a9b1aa",
+      "md5": "769513670da5c0cc63708e547d8b0fe9",
+      "sha1": "bc22c63ff4f5269530e2b280d6a607e424dc2691"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Metropolis%20Crime%24%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Metropolis%20Crime%24%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

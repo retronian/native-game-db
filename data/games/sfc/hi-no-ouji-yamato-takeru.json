@@ -1,0 +1,68 @@
+{
+  "id": "hi-no-ouji-yamato-takeru",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hi no Ouji - Yamato Takeru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "火の皇子 ヤマトタケル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hi no Ouji - Yamato Takeru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "2fc4c8a2",
+      "md5": "346926e5b753679b0f149991cad8e095",
+      "sha1": "9a8ba4260537ebff78018514e1e02ac29b3b4c0d",
+      "sha256": "81b415022922576c864074b20ae3afcbd85e8cc900822d7a0723431f26826a97"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44438
+  },
+  "descriptions": [
+    {
+      "text": "火の皇子 ヤマトタケルは、1世紀に生きた皇子オウスの伝説に基づいたターン制RPGです。プレイヤーはパーティを編成し、NPCと出会い、モンスターのモデルを強調した別視点モードでターン制バトルを行う、伝統的なトップダウンの日本のRPGのようにプレイします。\n\nこのゲームは、1994年に公開された怪獣映画『オロチ：八岐大蛇』を基にしたヤマトタケルの物語の幻想的な再想像に特に基づいています。この映画の製作会社である東宝も、このゲームを出版しました。彼らは、アトラスの『真・女神転生』スピンオフを制作したことで知られるマルチメディア・インテリジェンス・トランスファーにゲームの開発を依頼しました。\n\n混乱した出来事により、皇子オウスは兄を殺してしまいます。兄は一時的に制御できない怒りに駆られたためです。その後、皇子は父である天皇によって、破壊的な力を抑え、クマソ地域に住む野蛮人を討伐することで自らを贖うよう命じられます。この任務に加えて、皇子オウスは、仲間のスサノオとオトタチバナの助けを借りて、ヤマタノオロチ、クマソの野蛮人の神クマソガミ、そして敵対的な神ツクヨミに立ち向かわなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hi%20no%20Ouji%20-%20Yamato%20Takeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hi%20no%20Ouji%20-%20Yamato%20Takeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hi%20no%20Ouji%20-%20Yamato%20Takeru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

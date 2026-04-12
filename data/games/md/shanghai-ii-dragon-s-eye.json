@@ -1,0 +1,75 @@
+{
+  "id": "shanghai-ii-dragon-s-eye",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shanghai II - Dragon's Eye",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shanghai II - Dragon's Eye (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-130016-00",
+      "size": 1048576,
+      "crc32": "ebe9e840",
+      "md5": "13d128c626d9024f40390ad2bb7ab3cc",
+      "sha1": "7d6dc54b8943880a5fd26af10364eb943e9724c2",
+      "sha256": "e4ebb85bd51292818d14362c359de9c8c7c1d23e99b7af5a083663e6c656cd19"
+    },
+    {
+      "name": "Shanghai II - Dragon's Eye (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-130016-00",
+      "size": 1048576,
+      "crc32": "154aca2d",
+      "md5": "12466c6e0928a3c5583b2e787d7e26aa",
+      "sha1": "89150c5d976870868e2a11b474b4c0f9e2a786a9",
+      "sha256": "3b37a04da21f592eda6c5cafcbdca132102d06496dc33c9c0ed022daba6ff92f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4450
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shanghai%20II%20-%20Dragon%27s%20Eye%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shanghai%20II%20-%20Dragon%27s%20Eye%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shanghai%20II%20-%20Dragon%27s%20Eye%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shanghai%20II%20-%20Dragon%27s%20Eye%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shanghai%20II%20-%20Dragon%27s%20Eye%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "barbie-ocean-discovery",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Barbie - Ocean Discovery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Barbie - Ocean Discovery (United Kingdom) (GB Compatible)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "fdc8e7f1",
+      "md5": "0d4f6b00b4a1b047ef13a91537f7314a",
+      "sha1": "c0c37864e17f11fffa8b8a61a0abe4b2b80c235c"
+    },
+    {
+      "name": "Barbie - Ocean Discovery (USA) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "746936c6",
+      "md5": "89de435cb69325b42d569015ca09f49f",
+      "sha1": "fab988692a19d53e71fc754dea3a01506b104d9f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 200588
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Barbie%20-%20Ocean%20Discovery%20%28United%20Kingdom%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Barbie%20-%20Ocean%20Discovery%20%28United%20Kingdom%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Barbie%20-%20Ocean%20Discovery%20%28United%20Kingdom%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Barbie%20-%20Ocean%20Discovery%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Barbie%20-%20Ocean%20Discovery%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Barbie%20-%20Ocean%20Discovery%20%28USA%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

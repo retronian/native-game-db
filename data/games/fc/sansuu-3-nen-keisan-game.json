@@ -1,0 +1,74 @@
+{
+  "id": "sansuu-3-nen-keisan-game",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sansuu 3 Nen - Keisan Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "算数3年 計算ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "けいさんゲーム 算数3年",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sansuu 3 Nen - Keisan Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "61a3eef9",
+      "md5": "c445c214796045ad0953fc6de530d48f",
+      "sha1": "41f39803504e53349a0e52e46f343365f840a276",
+      "sha256": "a730b723bf33bb797a66fb2acabd657d399422150ce98f8b4c4f52d91f1ae6e6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "算数3年計算ゲーム。小学3年生向けの教育ソフト。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-09-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sansuu%203%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sansuu%203%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sansuu%203%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

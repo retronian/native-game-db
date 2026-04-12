@@ -1,0 +1,105 @@
+{
+  "id": "wizap-ankoku-no-ou",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizap! - Ankoku no Ou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザップ! 暗黒の王",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Wizap! -ウィザップ 〜暗黒の王-",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizap! - Ankoku no Ou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "630f8d0d",
+      "md5": "4545954576ba00a92dd8a21e95142b95",
+      "sha1": "b144609c720df7303bf03d566d28a376dc59b559",
+      "sha256": "c5adeb3c9219d453be000de1229b65b620376a4bed959f603c3c941e7eb04737"
+    },
+    {
+      "name": "Wizap! - Ankoku no Ou (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "2cbc2f72",
+      "md5": "5b5559048923cd609e2ea96269b15c86",
+      "sha1": "d0450f09729844188a0a17a2fb9fc365dd0484cc",
+      "sha256": "b1bd846603e2d09e222e2faf6cf1c21c6cdd3dc010fd7d8c26845c7d40d6c8ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42294
+  },
+  "descriptions": [
+    {
+      "text": "ウィザップ! 暗黒の王は、日本国外では発売されなかったスーパーファミコン用のJRPGです。これは、アスキーのダークロード三部作の第2作目で、すべて同じ世界観でつながっています。ゲームは、トップダウンのターン制戦略バトルを特徴としています。\n\nこのゲームは、1991年のファミコンRPG「ダークロード」と、1997年の後期スーパーファミコンRPG「ダークロー」シリーズの間に位置しています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Wizap%21%20-%20Ankoku%20no%20Ou%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

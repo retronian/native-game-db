@@ -1,0 +1,65 @@
+{
+  "id": "waratte-iitomo-tamolympic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Waratte Iitomo! Tamolympic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "笑っていいとも! タモリンピック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Waratte Iitomo! Tamolympic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "14cc9c86",
+      "md5": "1bb97fb16d10ef06aa2ace3ef589a0c7",
+      "sha1": "031bb1a01a3067f71a8372afd5543328f72f9198",
+      "sha256": "9c7ff7cb6285a02172ff0e55d658411b6499b6840df95901baa39f1ff9e4118c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "笑っていいとも! タモリンピックは、日本の同名テレビ番組を基にしたパーティーミニゲームコレクションです。この番組は、毎日放送される1時間のコメディバラエティ番組で、常連ゲストやさまざまなコントやインタビューが特徴で、サングラスをかけたコメディアンのタモリ（本名：森田一義）が司会を務めていました。1982年から2014年まで放送され、その過程でいくつかの長寿記録を樹立しました。\n\nゲームは最大4人までプレイ可能ですが、同時にプレイするのは2人だけです。ほとんどのミニゲームは、設定された時間内にタスクを完了するか、特定の精度で行うことに基づいているため、全員が同時にプレイする必要はありません。最初のペアのプレイヤーが各ミニゲームをプレイし、その後に2番目のペア（または3人プレイモードが選択された場合は2人と1人）が続きます。これらのミニゲームはコメディの要素があり、スヌーカークラブを使ったボウリングから、タモリが作るユーモラスなポーズに合わせて正しい拍手をする「サイモンセッズ」ゲームまで多岐にわたります。\n\nライセンスの関係で、このゲームは日本以外では発売されませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Waratte%20Iitomo%21%20Tamolympic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Waratte%20Iitomo%21%20Tamolympic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Waratte%20Iitomo%21%20Tamolympic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

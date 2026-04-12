@@ -1,0 +1,68 @@
+{
+  "id": "nintama-rantarou-64-game-gallery",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintama Rantarou 64 Game Gallery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍たま乱太郎64 ゲームギャラリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "Nintama Rantarō 64 Game Gallery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintama Rantarou 64 Game Gallery (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NHBJ",
+      "size": 8388608,
+      "crc32": "8c7c2dca",
+      "md5": "b04957d052ef850c5edece69db7377b3",
+      "sha1": "1bf5217924c5fb00f8e8829e9ebf3fbceb89b9cd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97956
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Nintama%20Rantarou%2064%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Nintama%20Rantarou%2064%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Nintama%20Rantarou%2064%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

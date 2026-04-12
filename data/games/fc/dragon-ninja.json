@@ -1,0 +1,102 @@
+{
+  "id": "dragon-ninja",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ninja",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンニンジャ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ninja (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1677bf25",
+      "md5": "202a0006482d916c38782a23684adde5",
+      "sha1": "6e1a3ef4109ea423d5dfb20a21c223513a84f309",
+      "sha256": "2180d05535f3a7896c066851166fb0ee4cb2d72065857185c8ecfae6be47a8b7"
+    },
+    {
+      "name": "Dragon Ninja (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "16efb030",
+      "md5": "07905c2bfe6a133360f2315df3fecd8f",
+      "sha1": "6338ada9e132b1384dda7e47aacdce26faa194f3",
+      "sha256": "3e33797b9caa782920bdf56facfb01268dcb3d90eab30f88e0bea8459bfe1bf4"
+    },
+    {
+      "name": "Dragon Ninja (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "c66e1887",
+      "md5": "39922d23128ff7fa7b2209cf7058530a",
+      "sha1": "6acf941281cc2e9ddbef10b419cf0a99aaaea9cc",
+      "sha256": "7c2adfa31121a6e62040929fe87b9bdf9b8cebbf3d5c84d2693e8b1456019c67"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この6レベルのアクションゲームは、データイーストのコインオペレーションから移植されました。ゲームプレイは、レベルをクリアするために次々と敵を倒し、最後にボスキャラクターを倒すというものです。アクションは画面の2つの異なるレベルで展開され、ジャンプや梯子を使って移動できます。パンチやキックなどの技が用意されていますが、横にジャンプするのは少し難しい操作です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-07-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ninja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ninja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ninja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Ninja%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ninja%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ninja%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

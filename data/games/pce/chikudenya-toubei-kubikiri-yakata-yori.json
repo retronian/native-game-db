@@ -1,0 +1,65 @@
+{
+  "id": "chikudenya-toubei-kubikiri-yakata-yori",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chikudenya Toubei - Kubikiri Yakata Yori",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "逐電屋 藤兵衛",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "cab21b2e",
+      "md5": "230232534784e6b36c0e8b5df1572cbc",
+      "sha1": "75805bfd024c105bf450d5367953d0f9d4517eef",
+      "sha256": "858f8dbe72c0a3771ae4a2b93d148737e5d4c822bcf0cf07dcf65b1c5cf42e41"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "『チクデンヤ トウベイ』（別名トウビー、トベ）は、1989年にMSX2で最初にリリースされ、翌年にPCエンジンに移植されたアドベンチャーゲームです。プレイヤーはコマンドメニューを使って移動したり、アイテムを拾ったり、NPCと会話したり、その他の必要な手順を行います。\n\n「デジタルコミック」と呼ばれるこのゲームには、物語のよりドラマチックな部分で展開されるカットシーンがいくつか含まれています。また、プレイヤーが記憶を頼りに傷や眉毛などの顔の特徴を使って被害者の顔を再現するシーケンスを含むパズルもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-01-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Chikudenya%20Toubei%20-%20Kubikiri%20Yakata%20Yori%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Chikudenya%20Toubei%20-%20Kubikiri%20Yakata%20Yori%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Chikudenya%20Toubei%20-%20Kubikiri%20Yakata%20Yori%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

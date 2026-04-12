@@ -1,0 +1,65 @@
+{
+  "id": "astro-boy-tetsuwan-atom-atom-heart-no-himitsu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ASTRO BOY 鉄腕アトム アトムハートの秘密",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BTAJ",
+      "size": 8388608,
+      "crc32": "e2d94b0d",
+      "md5": "0e24f5e435b0cf651017103de24f4f92",
+      "sha1": "ca16dc4044b9ae98a26c826bb3cc19a7e8315315"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人間の心を持つロボットヒーロー、アトムと共に、ロボットの種族と人間を再び結びつける冒険に出かけよう。アトムは、アトラスやブルーナイト、さらに40以上のキャラクターたちと対峙するために、7つの超能力を駆使します。このゲームは、オリジナルの7エピソードストーリーと共に、クラシックな2Dゲームをゲームボーイアドバンスに持ち込みます。アトムボーイとしてプレイしながら、正義、思いやり、悪、勇気、そしてアトムボーイの歴史について学び、アトムのオメガファクターを育て、彼のキャラクターや超人的な能力を強化していきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Astro%20Boy%20-%20Tetsuwan%20Atom%20-%20Atom%20Heart%20no%20Himitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Astro%20Boy%20-%20Tetsuwan%20Atom%20-%20Atom%20Heart%20no%20Himitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Astro%20Boy%20-%20Tetsuwan%20Atom%20-%20Atom%20Heart%20no%20Himitsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

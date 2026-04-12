@@ -1,0 +1,68 @@
+{
+  "id": "tetris-party-deluxe",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tetris Party Deluxe",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tetris Party Deluxe (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B4TE",
+      "size": 16777216,
+      "crc32": "b623f3d1",
+      "md5": "7da7954fce54b106be48684241fd4bcf",
+      "sha1": "629d6bb731eb56d3c755d9a1a21cc2587365667c"
+    },
+    {
+      "name": "Tetris Party Deluxe (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4TP",
+      "size": 16777216,
+      "crc32": "8e13a21b",
+      "md5": "1a2f1ab193122409e920330e56858204",
+      "sha1": "b374f40c31030f7db26b443971a6f74e2e87228e",
+      "sha256": "1e2250b71a75bc905c53fdee7a79844950d1ace4f96370d71b9981207c42ac7b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21099
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tetris%20Party%20Deluxe%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tetris%20Party%20Deluxe%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tetris%20Party%20Deluxe%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tetris%20Party%20Deluxe%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

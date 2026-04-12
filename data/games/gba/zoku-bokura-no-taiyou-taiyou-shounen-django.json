@@ -1,0 +1,94 @@
+{
+  "id": "zoku-bokura-no-taiyou-taiyou-shounen-django",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoku Bokura no Taiyou - Taiyou Shounen Django",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "続・ボクらの太陽 〜太陽少年ジャンゴ〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "U32J",
+      "size": 16777216,
+      "crc32": "2804e589",
+      "md5": "f4e3dead5af182598623cf89f9a428f4",
+      "sha1": "54a4dcdeca2ee9a22559eb104b88586386639097",
+      "sha256": "dbdd96dc07d23f12f9044e072507d2be1915fd4f40b6f40876bc0ebf34b11fc7"
+    },
+    {
+      "name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "U32J",
+      "size": 16777216,
+      "crc32": "71e2cd01",
+      "md5": "6449dc62cdf67c4d4d293febd38dcfda",
+      "sha1": "1a81843c3070decea4cbca20c4563541400b2437"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "続・ボクらの太陽では、太陽少年ジャンゴの冒険が続き、悪の吸血鬼や悪魔をこの世から一掃するために旅立ちます。このシリーズの第2作目では、自然光をゲームプレイに取り入れる太陽センサー技術が再登場します。ゲームボーイアドバンスのカートリッジに搭載された太陽センサーを利用して、自然光を活用し、60以上の武器やアイテムをパワーアップさせたり融合させたりしましょう。屋外に出て、より多くの武器や新しいキャラクター、そして広大なゲーム環境で敵と戦うことができるようになりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-07-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zoku%20Bokura%20no%20Taiyou%20-%20Taiyou%20Shounen%20Django%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "gift",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gift",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gift (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "1b0034e8",
+      "md5": "75b4faffd8e9c0277b911d1d0e6ece6a",
+      "sha1": "a8c6b7ca2e4ed75cf037625b603cfc8ab67c0aef"
+    },
+    {
+      "name": "Gift (Europe) (Sample)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "d8e357ba",
+      "md5": "bcf3e2445346b4ef40c1278b4b46408c",
+      "sha1": "a9e2d5e1fd5d3993acb87888d287612a09ecaa8b"
+    },
+    {
+      "name": "Gift (Europe) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "19681ac2",
+      "md5": "0f3161b9427b5540ff20f0d793a5d047",
+      "sha1": "12561be4c0979b9dc8ba22caff8ac3513e1611a6",
+      "sha256": "8ce509fd63fed603bc82c60e02c1e6c2e7c22b2da14a52df379becd45d8cede2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 102076
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gift%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gift%20%28Europe%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gift%20%28Europe%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

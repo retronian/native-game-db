@@ -1,0 +1,65 @@
+{
+  "id": "battletech-3050",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "BattleTech 3050",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルテック3050",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "BattleTech 3050 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "56c7eb66",
+      "md5": "11ad0c7b260175c2c59a36669d251370",
+      "sha1": "82edc06f026abd169eb1f40d154e61f43fff3541",
+      "sha256": "27f76262faae35855626741d3dfe3e3fe3b314246e5636075f46ceb8262b24f0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "メックウォリアー3050は、スーパーファミコン向けにアクティビジョンが制作したバトルテックシリーズの二作目のゲームです。今回は、前作の一人称視点とは異なり、アイソメトリックビューで描かれています。また、ユニークな2人プレイモードも搭載されており、一人のプレイヤーがメックの下半身を操作してマップを移動させる一方で、もう一人のプレイヤーは独立して動く上半身を操作します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/BattleTech%203050%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/BattleTech%203050%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/BattleTech%203050%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

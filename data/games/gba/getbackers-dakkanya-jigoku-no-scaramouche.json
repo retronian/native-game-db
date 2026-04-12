@@ -1,0 +1,77 @@
+{
+  "id": "getbackers-dakkanya-jigoku-no-scaramouche",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GetBackers Dakkanya - Jigoku no Scaramouche",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GetBackers奪還屋 〜地獄のスカラムーシュ〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ゲットバッカーズ -奪還屋- 地獄のスカラムーシュ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GetBackers Dakkanya - Jigoku no Scaramouche (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGBJ",
+      "size": 4194304,
+      "crc32": "c0a0a979",
+      "md5": "34abc009c1c6fcc8588340c9bc04bd81",
+      "sha1": "522c336dd10985a8e903edf28c8153410c792cf6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49601
+  },
+  "descriptions": [
+    {
+      "text": "「GetBackers奪還屋 〜地獄のスカラムーシュ〜」では、漫画「GetBackers Retrievers」のキャラクターを操作し、街で情報を集めて依頼されたアイテムを奪還します。仲間との相性によって、彼らの戦闘能力が変化します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/GetBackers%20Dakkanya%20-%20Jigoku%20no%20Scaramouche%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/GetBackers%20Dakkanya%20-%20Jigoku%20no%20Scaramouche%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/GetBackers%20Dakkanya%20-%20Jigoku%20no%20Scaramouche%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

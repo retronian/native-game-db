@@ -1,0 +1,78 @@
+{
+  "id": "supapoon-dx",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Supapoon DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "すぱぽーんDX ディーエックス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "すぱぽーん DX",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Supapoon DX (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A3YJ",
+      "size": 1048576,
+      "crc32": "be52c486",
+      "md5": "31f7683b2dd7d79fb871134f39a50ff0",
+      "sha1": "c7a03fd692c144e781dc5a179e448b2e7b07df3c",
+      "sha256": "3f96a6551c438ae6b2124260715d40b84e53f088fa5b130880919e293a0b45b8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42418
+  },
+  "descriptions": [
+    {
+      "text": "すぱぽーんDXは、1995年のすぱぽーんの強化リメイクです。同じワールドマップを使用していますが、異なるレベルやパワーアップが特徴です。また、シングルプレイヤーゲーム用のイントロカットシーンが追加され、最も顕著な点として、対戦型の2プレイヤーモードが導入されています。2プレイヤーモードでは、各プレイヤーは自分専用のブロック画面を持ち、さまざまなパワーアップが相手にとってより挑戦的になるように設計されています。例えば、相手のブロックを1つ下に落とす矢印などがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-05-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Supapoon%20DX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Supapoon%20DX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Supapoon%20DX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

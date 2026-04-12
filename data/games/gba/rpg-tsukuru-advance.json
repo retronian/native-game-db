@@ -1,0 +1,58 @@
+{
+  "id": "rpg-tsukuru-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "RPG Tsukuru Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "RPGツクールアドバンス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "RPG Tsukuru Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A8TJ",
+      "size": 8388608,
+      "crc32": "e7fc81d0",
+      "md5": "2dd88e9133f723098c6e8107217ec0c4",
+      "sha1": "bb8781959c82e58963b40263061d4a3155f6e880",
+      "sha256": "ffaa9d256ea01cbd9b954066caf01d104527e62707a6b0f5e0786b82fccadcc2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/RPG%20Tsukuru%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/RPG%20Tsukuru%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/RPG%20Tsukuru%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

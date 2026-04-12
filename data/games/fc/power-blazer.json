@@ -1,0 +1,77 @@
+{
+  "id": "power-blazer",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Blazer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワー・ブレイザー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パワーブレイザー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Blazer (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "ba3d4b3c",
+      "md5": "cd1a68abbfbe90e021e3f307a1bf57cd",
+      "sha1": "69a688091193577953b02f57aa684193a94d4034",
+      "sha256": "58f357e8826e48f96ebc0f5b0c2d5d689ec3fb1e42a527affe1bbb7fee65554a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48568
+  },
+  "descriptions": [
+    {
+      "text": "パワー・ブレイザーは、タイトーによるアクション・プラットフォームゲームです。21世紀、世界は「ブレインマスター」と呼ばれるスーパーコンピュータによって管理されています。しかしある日、すべてのシステムが理由もなく一斉にシャットダウンを始めます。人類は証拠を受け入れなければなりません。ブレインマスターはかつて喜びに満ちていた地球を支配し、混沌に陥れたのです。プレイヤーは、敵の背後で孤独な任務に挑む高度に訓練された兵士スティーブ・トライバーを操作します。彼だけがブレインマスターをオフラインにし、世界を救うことができるのです。若き英雄は「パワー・ブレイザー」と呼ばれる強力な戦闘ブーメランを武器にしています。ステージはかなり広く、ほとんどのステージにはゴールへの異なるルートがあります。アメリカ（およびヨーロッパ）版のゲームは「パワー・ブレイド」と呼ばれ、日本版とは大きく異なります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Power%20Blazer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Power%20Blazer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Power%20Blazer%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

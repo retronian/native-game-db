@@ -1,0 +1,65 @@
+{
+  "id": "super-soukoban",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Soukoban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "倉庫番",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Soukoban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "a9f78e92",
+      "md5": "51c520d15881538d67398ba63f56e0ba",
+      "sha1": "4ac5ae614a32829cf323f02b3b43f837a982a1de",
+      "sha256": "5670ad514d086359e28f41d79a05ae93309b382d6d56d42a6a0e493e6107111b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーペンギン（または倉庫番）は、プレイヤーが迷路の中で箱を押して指定された保管エリアに運ぶパズルゲームです。プレイヤーは、箱を押して回収できない位置に置いてしまわないように注意しなければなりません。オリジナルのゲームは1982年にシンキングラビットによってホームコンピュータ向けに作られ、スーパーペンギンは同じ設計図に基づく初めてのスーパーファミコンゲームです。\n\nイントロでは、同名の倉庫番が十分な箱を押すパズルを解いて、夢の車を手に入れるための資金を稼がなければならないことが示されています。彼はその車で夢の女性を感心させたいのです。\n\nさらに各ステージには固定の移動制限があり、プレイヤーは箱を正しい順序で押すだけでなく、最大の効率で行う必要があります。このゲームは日本国外ではリリースされていません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Soukoban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

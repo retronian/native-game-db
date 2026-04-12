@@ -1,0 +1,60 @@
+{
+  "id": "fabstyle",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "FabStyle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファブスタイル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "FabStyle (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "THMJ",
+      "size": 268435456,
+      "crc32": "0e5c1a9a",
+      "md5": "a413bfb21691a7efdba6e89f8416da08",
+      "sha1": "aea593b674b8c463cf1506cce2b4ce122da60f8e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 185897
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/FabStyle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/FabStyle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/FabStyle%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

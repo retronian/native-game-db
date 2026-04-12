@@ -1,0 +1,48 @@
+{
+  "id": "reservoir-rat",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Reservoir Rat",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "22621803",
+      "md5": "15b3cbe9a6ffd5b7c5047764798ea911",
+      "sha1": "7ee86635f9d9735cc57673b08995be7003ff6082",
+      "sha256": "068f13f949df33704a54db8a2c7bd251468907c32631dedd6695d8b38b45639c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Reservoir%20Rat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Reservoir%20Rat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Reservoir%20Rat%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

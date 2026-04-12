@@ -1,0 +1,51 @@
+{
+  "id": "marble-madness",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marble Madness",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marble Madness (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "4ec78785",
+      "md5": "d2711ff066f40c4e6c471b79da0f08b7",
+      "sha1": "32c84b75b10bd00812589f3c8cfd537518f021c6",
+      "sha256": "c1df41a27743c2a7598fba6ee6a7e4dee954861c434d4c6316c19dcf2b4aff62"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281833
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Marble%20Madness%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

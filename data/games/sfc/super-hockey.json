@@ -1,0 +1,72 @@
+{
+  "id": "super-hockey",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Hockey (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "781514e4",
+      "md5": "0652e8e1c7712ced0d1e04825fdbfa5a",
+      "sha1": "00f91e952aec27cf799d50c6aaaca7454e32640b",
+      "sha256": "0d4c05f75c95d5b8c0fc00e61027ce3fda2dd288fcf6695656232176fce7843e"
+    },
+    {
+      "name": "Super Hockey (France) (En,Fr)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "c9cf2601",
+      "md5": "9a1d538f553bcbbeadf248ef1fde8646",
+      "sha1": "b6a8a554e405a7dcdd5aa7dca467ca5b8db58434",
+      "sha256": "2b097fb72be6aff2030a488df87a349667eb204c2281fb0a2bb7eeafca33d5ed"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Hockey%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Hockey%20%28France%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Hockey%20%28France%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Hockey%20%28France%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "daikaijuu-deburas",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daikaijuu Deburas",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大怪獣デブラス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daikaijuu Deburas (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "7fdf1bb3",
+      "md5": "13b8206c2e0dcc0532ac355a4a2ee5f8",
+      "sha1": "fa8f9a417161d1731e7f26bbd8ca13dd06963c4f",
+      "sha256": "fdfb8e051b0e2b8e5da04da58cdd63250172f3d3c307028847c96d4b6f84f9d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48313
+  },
+  "descriptions": [
+    {
+      "text": "科学者たちは海の中で巨大な卵を発見しますが、研究が始まる前に巨大怪獣（カイジュウ）が海から現れ、卵を破壊しようとします。あなたはその怪獣と戦い、損失を最小限に抑え、最終的に卵を救うことができるでしょうか？東京があなたにかかっています！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Daikaijuu%20Deburas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Daikaijuu%20Deburas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Daikaijuu%20Deburas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

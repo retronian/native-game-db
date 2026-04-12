@@ -1,0 +1,65 @@
+{
+  "id": "pokemon-card-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokemon Card GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケモンカードGB",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1926f570",
+      "md5": "1633bec4cabec857c0ec67c99d2f982b",
+      "sha1": "2287627c5b4d56bd9a01aab83408c301b9cf1a6c",
+      "sha256": "89eb164c0102792c5f340bc299c215c1a40376b8de7589ef0d86be1e3861cec1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "歴代最高のポケモンカードゲームプレイヤー、グランドマスターたちが、四枚の珍しい伝説のポケモンカードを受け継ぐにふさわしいプレイヤーを探しています！オートデッキマシンで新しいデッキを構築し、チャレンジマシンでスキルを磨き、チャレンジホールで自分の能力を試しましょう。カードコレクションを拡充し、8人のクラブマスターとのデュエルを勝ち抜いて、ポケモンドームでグランドマスターに挑戦する権利を手に入れましょう！影のある人物、賢い指導者、そして強力な対戦相手が、究極のトレーディングカードゲームアドベンチャーを待っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pokemon%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pokemon%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pokemon%20Card%20GB%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

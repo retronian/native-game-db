@@ -1,0 +1,67 @@
+{
+  "id": "tincan-escape",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "TINCan! Escape",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "TINCan! Escape (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTCE",
+      "size": 16777216,
+      "crc32": "f6aa7d21",
+      "md5": "9f8a495ebb6204a22eeba3335edee526",
+      "sha1": "c1d1f28dbc46f01de70c05fc9aba0725f06357a2"
+    },
+    {
+      "name": "TINCan! Escape (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTCP",
+      "size": 16777216,
+      "crc32": "7572bcca",
+      "md5": "2d1b1b145c69023ceadd6cf8ce6a07d8",
+      "sha1": "3d53e623edd26e39d5c3ab5cc2df9c9cedaf65bd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 85444
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TINCan%21%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TINCan%21%20Escape%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/TINCan%21%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/TINCan%21%20Escape%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

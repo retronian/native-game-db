@@ -1,0 +1,64 @@
+{
+  "id": "xia-xia",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Xia-Xia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Xia-Xia (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TAXP",
+      "size": 8388608,
+      "crc32": "c9f721b7",
+      "md5": "4bf07bddedc3bb61a11c9dd45df31d58",
+      "sha1": "9315d7ffaefed3207a69c206f68312b1374d9971"
+    },
+    {
+      "name": "Xia-Xia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TAXE",
+      "size": 8388608,
+      "crc32": "4d5844f7",
+      "md5": "cfdcbd5fedcf8d05a7c3a4d8b1e1cec6",
+      "sha1": "a442782a01e86dff27a9ad1af663eef923c53b03"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Xia-Xia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Xia-Xia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Xia-Xia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Xia-Xia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

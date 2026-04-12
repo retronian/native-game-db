@@ -1,0 +1,58 @@
+{
+  "id": "puyo-puyo-sun-64",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puyo Puyo Sun 64",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぷよぷよ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puyo Puyo Sun 64 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPYJ",
+      "size": 8388608,
+      "crc32": "355ff9de",
+      "md5": "faaa2094b04dca4c287af9334d22529d",
+      "sha1": "cf79ec32e7e78b2cad15b5b7dd763f578648b6c6",
+      "sha256": "198d2a83176784e3b4c457cef631eb2493f3def99f1fd922e9e4c4c9582c140b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Puyo%20Puyo%20Sun%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Puyo%20Puyo%20Sun%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Puyo%20Puyo%20Sun%2064%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

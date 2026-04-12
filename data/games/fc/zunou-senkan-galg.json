@@ -1,0 +1,88 @@
+{
+  "id": "zunou-senkan-galg",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zunou Senkan Galg",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "頭脳戦艦ガル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zunou Senkan Galg (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "8fc0fcc6",
+      "md5": "dbc9184b2610550caa134590667a461a",
+      "sha1": "d645319daf51c89a25abf69699fd75d8b9f3de81",
+      "sha256": "996510932abb21856add056158d101cd7701ba1d4f11efed8919c4f2356f1058"
+    },
+    {
+      "name": "Zunou Senkan Galg (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "40366d45",
+      "md5": "2b556b84deeb61b8c6485e9d42366f78",
+      "sha1": "5c5f3a8acdb3126a9c72f02cddc7403fdc02a567",
+      "sha256": "9fc08ba7941cf86d61b2ad629730903dd04eac64ef8953cf2ed46f136d813da5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48488
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zunou%20Senkan%20Galg%20%28Japan%29%20%28En%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

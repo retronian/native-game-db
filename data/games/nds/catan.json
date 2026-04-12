@@ -1,0 +1,51 @@
+{
+  "id": "catan",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Catan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Catan (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CN7P",
+      "size": 16777216,
+      "crc32": "6bfc6439",
+      "md5": "4c414101cee30b6efa95c02f13bc846c",
+      "sha1": "4fab9d29d424da45aa5267a115db21c0687e15ec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 248839
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Catan%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Catan%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Catan%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

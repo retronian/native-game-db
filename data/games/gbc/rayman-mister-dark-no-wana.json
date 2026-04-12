@@ -1,0 +1,64 @@
+{
+  "id": "rayman-mister-dark-no-wana",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rayman - Mister Dark no Wana",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "レイマン ミスター・ダークの罠",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rayman - Mister Dark no Wana (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "3fde5bac",
+      "md5": "df15cf120ba0db664adab8d52f0e4d57",
+      "sha1": "ef057156806dddcc3d0cc5776843c639c6c3cae4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "悪党ミスター・ダークが現れると、レイマンの世界にトラブルが訪れます。ミスター・ダークはトゥーンズを捕らえ、彼らは光の源でありレイマンの友達です。光が失われると、悪いクリーチャーたちが徘徊し始め、世界は誰にとっても危険な場所となります。あなたはレイマンとして、友達を救い、ミスター・ダークの邪悪な計画を終わらせる使命を担っています！\n\n「レイマン」は、主人公レイマンをフィーチャーした横スクロールプラットフォーマーです。レイマンは大きな鼻を持つ腕や脚のないキャラクターです。彼はジャンプしたり、髪を使って短時間ホバリングすることができます。また、拳を投げたり、力を溜めて強力なパンチを繰り出すことで攻撃することも可能です。時折、無限の飛行能力を与える特別なパワーアップを見つけることができ、難解な迷路を進む能力を得ることができます。\n\nゲームボーイカラー版の「レイマン」は、オリジナルゲームの精神を忠実に守りつつ、特にオリジナルの明るく鮮やかなグラフィックと比較していくつかの顕著な変更を加えています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Rayman%20-%20Mister%20Dark%20no%20Wana%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Rayman%20-%20Mister%20Dark%20no%20Wana%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Rayman%20-%20Mister%20Dark%20no%20Wana%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

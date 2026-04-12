@@ -1,0 +1,60 @@
+{
+  "id": "spiral-wave",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spiral Wave",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スパイラルウェーブ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spiral Wave (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "a5290dd0",
+      "md5": "b5640a4df96c2eacf782e1b91cc59add",
+      "sha1": "83ad9abe6469fa1a298e5cc059914ac0e92be209",
+      "sha256": "6f5f73004d989d58f8ccd47adcc02198abd576820702529a6d283145d8994482"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42045
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Spiral%20Wave%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Spiral%20Wave%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Spiral%20Wave%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

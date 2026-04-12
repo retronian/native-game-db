@@ -1,0 +1,61 @@
+{
+  "id": "youkai-douchuuki",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Youkai Douchuuki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "妖怪道中記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Youkai Douchuuki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "80c3f824",
+      "md5": "cd2c47eaeb842cbcfe2ebcbe5710bf61",
+      "sha1": "a258201c6258c8e108c7ce80a39c456ef9116260",
+      "sha256": "4dc80fe43008d28af00b82996b742d02403e704441c0ed432382a4f756324a3a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 205698
+  },
+  "first_release_date": "1988-02-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Youkai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Youkai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Youkai%20Douchuuki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

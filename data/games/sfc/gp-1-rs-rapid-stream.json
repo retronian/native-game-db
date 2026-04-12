@@ -1,0 +1,65 @@
+{
+  "id": "gp-1-rs-rapid-stream",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GP-1 RS - Rapid Stream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GP-1 RS ラピッドストリーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GP-1 RS - Rapid Stream (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "d4488768",
+      "md5": "85f1f77fc5b350f228370ff94419d8a9",
+      "sha1": "4470525022e561648fdbe917adc3a21d51d291e8",
+      "sha256": "60a27164d34a33259ac6b9177a60c15e205f15cab12d2b6df2e49dabb65389a0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "GP-1の続編である本作では、プレイヤーは再び14か国にわたる17の異なるトラックでバイクレースを楽しむことができます。プレイヤーは6種類のバイクから選ぶことができ、レースに勝利することでバイクをアップグレードし、ポイントを獲得することができます。十分なポイントを得ることで、より良いパーツを手に入れることが可能です。\n\nシーズンモード、別名グランプリモードに加え、練習モードとレースモードも用意されています。また、バトルモードでは、2人の友達が選んだトラックで対戦することができます。パスワード機能も搭載されており、プレイヤーは自分のペースでゲームを再開することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-11-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/GP-1%20RS%20-%20Rapid%20Stream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/GP-1%20RS%20-%20Rapid%20Stream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/GP-1%20RS%20-%20Rapid%20Stream%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

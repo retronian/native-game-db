@@ -1,0 +1,77 @@
+{
+  "id": "majesco-s-sports-pack",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Majesco's Sports Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Majesco's Sports Pack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3NP",
+      "size": 8388608,
+      "crc32": "99140705",
+      "md5": "8cad01d7436766cda2734af52189c056",
+      "sha1": "73583cebdc96398373b916f410531e88d97f87a1"
+    },
+    {
+      "name": "Majesco's Sports Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3NE",
+      "size": 8388608,
+      "crc32": "a91bec73",
+      "md5": "eedd67a815e798e19159237a4d151d1a",
+      "sha1": "82a01a4395146f01b235b1adcb266abc96fc26ea",
+      "sha256": "770278d2970ae989eef2161bfbf2151428e07fc9e78210cd4217c7f3db3fd799"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Majesco%27s%20Sports%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Majesco%27s%20Sports%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Majesco%27s%20Sports%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Majesco%27s%20Sports%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Majesco%27s%20Sports%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Majesco%27s%20Sports%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

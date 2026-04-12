@@ -1,0 +1,103 @@
+{
+  "id": "gekikame-ninja-den",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gekikame Ninja Den",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "激亀忍者伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gekikame Ninja Den (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9839ec93",
+      "md5": "596d216dca7493c0d599b86a51ab46dc",
+      "sha1": "c4413d0f878515957e8458a60002a8b3cc680a2f",
+      "sha256": "c19508560ea8ef3880f16eb383329adc3f936a8f832c4ed715f91994dd447939"
+    },
+    {
+      "name": "Gekikame Ninja Den (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "56702ca9",
+      "md5": "b6b642db46d669c4b080553962791d35",
+      "sha1": "b4a70c2b675b304f9d8fb3a69e00b1c57d9234e2",
+      "sha256": "468ed760e3ee2943ffbbd204cc14cba8cf1552f11d3af960d8f99c45307b22ac"
+    },
+    {
+      "name": "Gekikame Ninja Den (Japan) (The Cowabunga Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f51bcc5f",
+      "md5": "d12e7893eff489306c48efe0d55494ed",
+      "sha1": "07fb82bf3ac9711c7faff030d28ec338fa32d0c1",
+      "sha256": "e3b990f99fd805cef066b59f4ed6f64f63a840365f358b85ca2f2e2dc1a6f363"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「激亀忍者伝」は、NESでプレイできるアクションゲームで、著名な忍者タートルズ、ドナテロ、ミケランジェロ、レオナルド、ラファエロを操作します。各キャラクターの武器や特性を活かすために、いつでも切り替えて悪のシレッダーを倒しましょう。\n\nゲームプレイは二つの視点で展開されます。上からの視点では、建物や下水道などを探索しながら走り回ることができます。上からの視点で場所に入ると、横スクロールの視点に切り替わり、ほとんどのバトルが行われます。各タートルのメイン武器に加え、敵に使うためのサブ武器（手裏剣など）も入手可能ですが、使用回数には制限があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gekikame%20Ninja%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gekikame%20Ninja%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gekikame%20Ninja%20Den%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gekikame%20Ninja%20Den%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Gekikame%20Ninja%20Den%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Gekikame%20Ninja%20Den%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

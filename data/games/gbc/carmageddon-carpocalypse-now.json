@@ -1,0 +1,80 @@
+{
+  "id": "carmageddon-carpocalypse-now",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Carmageddon - Carpocalypse Now",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Carmageddon - Carpocalypse Now (Germany)",
+      "source": "no_intro",
+      "size": 2097152,
+      "crc32": "b447bc06",
+      "md5": "4a58b26ef9624192afe5542f790cdb01",
+      "sha1": "505b29e070ce034b179169d834abb3969e84c7e0",
+      "sha256": "683ca4682b4b0af29581bc4cddaa28846cda0ff5942db50087c58896e9b46953"
+    },
+    {
+      "name": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "bb482ed7",
+      "md5": "f73c5cc4935ede64f5b2d62754c90262",
+      "sha1": "df37636bbd57a426e23d21581376d7e3a87c7933"
+    },
+    {
+      "name": "Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "e9751f81",
+      "md5": "cca8749da97aae49def1132a6a72d047",
+      "sha1": "9f41f86214031dad6440206863bffc13c3e61fc4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Carmageddon%20-%20Carpocalypse%20Now%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Carmageddon%20-%20Carpocalypse%20Now%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Carmageddon%20-%20Carpocalypse%20Now%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Carmageddon%20-%20Carpocalypse%20Now%20%28USA%2C%20Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Carmageddon%20-%20Carpocalypse%20Now%20%28USA%2C%20Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Carmageddon%20-%20Carpocalypse%20Now%20%28USA%2C%20Europe%29%20%28En%2CFr%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

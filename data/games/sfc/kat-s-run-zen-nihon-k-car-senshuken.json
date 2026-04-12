@@ -1,0 +1,74 @@
+{
+  "id": "kat-s-run-zen-nihon-k-car-senshuken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kat's Run - Zen-Nihon K-Car Senshuken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キャッツ・ラン 全日本Kカー選手権",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "KAT'S RUN 全日本Kカー選手権",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kat's Run - Zen-Nihon K-Car Senshuken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2621440,
+      "crc32": "9dab5ab1",
+      "md5": "29ed8fe3043d0cde231d32cd22db4491",
+      "sha1": "0350f8e43b7b9eac8600239ad15dff202c2b75b3",
+      "sha256": "bdd279d459077573cf1a9a32f9a7f46e6f74b824ae4009b3b45b6d533a8e9677"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "キャッツ・ラン 全日本Kカー選手権は、スーパーファミコン用のモード7レーシングゲームで、軽自動車をフィーチャーしています。軽自動車は、日本の小型車の一種で、ミニバンやオープンカーが含まれます。シングルプレイヤーモードでは、10人の女性ドライバーの中から1人を選び、ストリートレーシングトーナメントで勝利を目指します。小さなウィンドウでは、ドライバーの表情を見ることができ、ターン時や相手を追い越したり追い越されたりする際に変化します。\n\nスーパーマリオカートに似たマルチプレイヤーモードでは、アイテムやジャンプ、落とし穴を含むユニークなコースが用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kat%27s%20Run%20-%20Zen-Nihon%20K-Car%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kat%27s%20Run%20-%20Zen-Nihon%20K-Car%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kat%27s%20Run%20-%20Zen-Nihon%20K-Car%20Senshuken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

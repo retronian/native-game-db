@@ -1,0 +1,56 @@
+{
+  "id": "tom-and-jerry-tales",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tom and Jerry Tales",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tom and Jerry Tales (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AJTE",
+      "size": 33554432,
+      "crc32": "a90631aa",
+      "md5": "da5af46588bbb96344ab6d3a1d7a96c6",
+      "sha1": "2cfea27055b6d8621b5d4f3a66b4f2eb82e3972b",
+      "sha256": "3d3ddf6e2d416988ef4e2e77c7f84a7f74660a1a2a664265d2ef2da747100163"
+    },
+    {
+      "name": "Tom and Jerry Tales (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AJTP",
+      "size": 33554432,
+      "crc32": "f6143c42",
+      "md5": "fec2b244fe121b1683127ac7cfbb797d",
+      "sha1": "5c28f571b0df3cbb20b82514d93414f9186c291b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8027
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Tom%20and%20Jerry%20Tales%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Tom%20and%20Jerry%20Tales%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

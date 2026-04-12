@@ -1,0 +1,69 @@
+{
+  "id": "chess",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chess",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "체스",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "チェス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chess (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 230115664,
+      "crc32": "4160e26e",
+      "md5": "9634029c600bd045737fe8a2819029a4",
+      "sha1": "98baa8d167d7ba4e05ecfdc387c1762be89102f2",
+      "sha256": "660eacf7200c64da6514a004e5849b3c2ab261730aa6f0cb23c22db3547681bd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 9165
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

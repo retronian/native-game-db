@@ -1,0 +1,87 @@
+{
+  "id": "disgaea-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Disgaea DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Makai Senki Disugaia Makai no Ouji to Akai Tsuki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Disgaea DS (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CDGE",
+      "size": 67108864,
+      "crc32": "5581aa4d",
+      "md5": "c611d7b4409c91ec0f38f86591ff3755",
+      "sha1": "2d70b695d7e0b88ae4f82d3ae3ee730ea467a238"
+    },
+    {
+      "name": "Disgaea DS (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CDGP",
+      "size": 67108864,
+      "crc32": "5d33eb3d",
+      "md5": "c4077bac0afacaad3592effbd3d3dc8e",
+      "sha1": "eefff897d2baf3ed78d0a0221f44ac7189cd8210"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21056
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Disgaea%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Disgaea%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Disgaea%20DS%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Disgaea%20DS%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Disgaea%20DS%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Disgaea%20DS%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

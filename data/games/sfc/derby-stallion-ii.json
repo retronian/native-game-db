@@ -1,0 +1,70 @@
+{
+  "id": "derby-stallion-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Derby Stallion II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダービースタリオンII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Derby Stallion II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "32e29079",
+      "md5": "76473356177e66568e4ef22c7088c441",
+      "sha1": "3e791c54797ac8a8733d310b7c98bf39bc5f4a0f",
+      "sha256": "3113244e2417281b198042bc2207731d3f693ab9b9ec34997b9c4c1d185f5b85"
+    },
+    {
+      "name": "Derby Stallion II (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "003764e5",
+      "md5": "fcd50f3c96881233422e68d244843658",
+      "sha1": "a65eedb72a751a311a846339422e059b72c4f9fe",
+      "sha256": "57563cd15f7a5a15254e60486f567d9647811d206af21ddb5ecf91e8f41cadd1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38136
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Derby%20Stallion%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Derby%20Stallion%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Derby%20Stallion%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

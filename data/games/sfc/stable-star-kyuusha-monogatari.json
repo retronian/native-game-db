@@ -1,0 +1,74 @@
+{
+  "id": "stable-star-kyuusha-monogatari",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Stable Star - Kyuusha Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実況競馬シミュレーション ステイブルスター Stable Star 厩舎物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "実況競馬シミュレーション ステイブルスター〜厩舎物語〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Stable Star - Kyuusha Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "1dc14e8b",
+      "md5": "96ae0999f774ba4f8c004705fffe3bf3",
+      "sha1": "4ae544954b122deb36ace85a6f7a6b579382f408",
+      "sha256": "35e87e6cf2218b3002e1c6e386f667e7d5a9b89827bbe9e365d8427839b38133"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "実況競馬シミュレーション ステイブルスターは、コナミが手掛ける競馬シミュレーションゲームで、プレイヤーは競走馬の厩舎を管理し、収益を上げるチャンピオンを育成することを目的としています。このゲームは、ダービースタリオンやクラシックロード、サラブレッドブリーダーなどの他の競馬シミュレーションシリーズに続くものです。\n\nプレイヤーは男性または女性のアバターを選び、馬を獲得してトレーニングを管理します。馬が準備が整ったらレースに出場させ、キャリア後には繁殖を行い、さらに速い馬を生み出します。レース中には実況が行われ、プレイヤーは自分の馬のパフォーマンスを他の馬と比較して知ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-03-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Stable%20Star%20-%20Kyuusha%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Stable%20Star%20-%20Kyuusha%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Stable%20Star%20-%20Kyuusha%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

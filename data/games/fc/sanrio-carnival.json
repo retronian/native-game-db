@@ -1,0 +1,68 @@
+{
+  "id": "sanrio-carnival",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Carnival",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオカーニバル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Carnival (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "29a6ecd9",
+      "md5": "e04532cc64ba5f9803e1398fee3603dd",
+      "sha1": "9ed2bb97085a284721f4bbf33ffebdc225c9a700",
+      "sha256": "970720f1e0126d3ce41a71ff1a391855ae3dc74b78947ec83c6a2d5cea2a5a38"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48638
+  },
+  "descriptions": [
+    {
+      "text": "このゲームのジャンルはパズルゲームです。プレイヤーは様々なサンリオキャラクターの顔が描かれたブロックを配置する必要があります。これらのキャラクターを3つ揃える（例えば、縦に）と消え、これが「ライン」としてカウントされます。さまざまなゲームモードがあり、ファミコン版のイントロダクションコース（プレイフィールドが小さく、サンリオキャラクターのアイコンが比較的大きく、唯一の目的はラインを作ること）や、「ハイスコアを目指せ」モード（プレイフィールドが大きく、アイコンが画面のかなりの部分を占めず、ラインを消す以外の目的は最も多くのポイントを獲得し、レベルをクリアすること）があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sanrio%20Carnival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sanrio%20Carnival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sanrio%20Carnival%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

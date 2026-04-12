@@ -1,0 +1,60 @@
+{
+  "id": "karaoke-studio-senyou-cassette-top-hit-20-vol-1",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Karaoke Studio Senyou Cassette - Top Hit 20 Vol. 1",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カラオケスタジオ専用カセット トップヒット20 Vol.1",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "カラオケスタジオ専用カセット トップヒット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Karaoke Studio Senyou Cassette - Top Hit 20 Vol. 1 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "98a660d6",
+      "md5": "6f1221a85642691a43d53f3332d118c1",
+      "sha1": "2ff6aa21cd76bc0f88d1bf21abeb7ea349e51468",
+      "sha256": "8f8ebabfc4a59da07b294d70b368076f8671557cbc1596a0166a3f92f82bfde3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Karaoke%20Studio%20Senyou%20Cassette%20-%20Top%20Hit%2020%20Vol.%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Karaoke%20Studio%20Senyou%20Cassette%20-%20Top%20Hit%2020%20Vol.%201%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

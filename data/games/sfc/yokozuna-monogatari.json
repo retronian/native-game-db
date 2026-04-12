@@ -1,0 +1,96 @@
+{
+  "id": "yokozuna-monogatari",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yokozuna Monogatari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "横綱物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yokozuna Monogatari (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "dda56921",
+      "md5": "d036603e5f9696bc4970e3bcb15c8b74",
+      "sha1": "8f746b8acda8fa29d85c7b90a4e64b58552176a9",
+      "sha256": "6c5ca7cd15ccf4dee495ea47720a1d2079af79b5a64b7466360ce0cc57311956"
+    },
+    {
+      "name": "Yokozuna Monogatari (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "b5084d76",
+      "md5": "c8927f39f090349439a35576b7e1be1b",
+      "sha1": "dda5b613f4dbc639719a99e35e6bb48e2fa24dfc",
+      "sha256": "4db7c361ae2bd7e156b9436640946599b733431011944b1bff5ba67957546165"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37756
+  },
+  "descriptions": [
+    {
+      "text": "横綱物語は、スーパーファミコン用の相撲マネジメントシミュレーションゲームです。相撲力士の育成や対戦の設定を通じて、ランキングを向上させる管理要素に焦点を当てています。相撲の試合でお金を稼ぐことで、プレイヤーはより強力な力士を雇うことができるようになりますが、彼らは当然、より多くの報酬を要求します。目標は、相撲力士を横綱（「大関」）のレベルに育て上げることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-08-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yokozuna%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yokozuna%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yokozuna%20Monogatari%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yokozuna%20Monogatari%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yokozuna%20Monogatari%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yokozuna%20Monogatari%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

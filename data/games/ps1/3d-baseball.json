@@ -38,11 +38,46 @@
       "form": "official",
       "source": "wikidata",
       "verified": false
+    },
+    {
+      "text": "3D ベースボール ザ・メジャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "3D Baseball: The Majors ",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
     }
   ],
   "first_release_date": "1996-10-31",
   "external_ids": {
     "wikidata": "Q2816477",
-    "mobygames": 38220
-  }
+    "mobygames": 38220,
+    "igdb": 45471
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/3D%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/3D%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/3D%20Baseball%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

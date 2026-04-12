@@ -1,0 +1,66 @@
+{
+  "id": "super-gomoku-shougi-jouseki-kenkyuu-hen",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Gomoku Shougi - Jouseki Kenkyuu Hen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー五目将棋 定跡研究編",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "五目・将棋 スーパーごもく・しょうぎ 定跡研究篇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Gomoku Shougi - Jouseki Kenkyuu Hen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "54833287",
+      "md5": "9bf64d1ecc0bf12b0ef141b8f0ccc42f",
+      "sha1": "351f293d1c58eb85534ab05896245475ff009cef",
+      "sha256": "79b247f6511eedf414b2eb630c30ae9aeb9bcacf2408a87a04d00ce9bc3a450c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Gomoku%20Shougi%20-%20Jouseki%20Kenkyuu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Gomoku%20Shougi%20-%20Jouseki%20Kenkyuu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Gomoku%20Shougi%20-%20Jouseki%20Kenkyuu%20Hen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

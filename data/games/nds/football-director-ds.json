@@ -1,0 +1,51 @@
+{
+  "id": "football-director-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Football Director DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Football Director DS (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CFFP",
+      "size": 8388608,
+      "crc32": "f2dbbdb2",
+      "md5": "0a22b01230fe545792dcc6d5e810da35",
+      "sha1": "edabecbe674bdb5a0afd4ed0823704ca87cd4a50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21474
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Football%20Director%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Football%20Director%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Football%20Director%20DS%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

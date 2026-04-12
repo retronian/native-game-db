@@ -1,0 +1,64 @@
+{
+  "id": "gensou-maden-saiyuuki-sabaku-no-shijin",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gensou Maden Saiyuuki - Sabaku no Shijin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "幻想魔伝最遊記 砂漠の四神",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gensou Maden Saiyuuki - Sabaku no Shijin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "918a40e7",
+      "md5": "09f75cc7dc00a7ae8ae4b586092fe045",
+      "sha1": "9226b76621495ae0fc893c0a835973605414638f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「幻想魔伝最遊記 砂漠の四神」は、J-Wingによって出版されたロールプレイングゲームで、2001年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gensou%20Maden%20Saiyuuki%20-%20Sabaku%20no%20Shijin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gensou%20Maden%20Saiyuuki%20-%20Sabaku%20no%20Shijin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gensou%20Maden%20Saiyuuki%20-%20Sabaku%20no%20Shijin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

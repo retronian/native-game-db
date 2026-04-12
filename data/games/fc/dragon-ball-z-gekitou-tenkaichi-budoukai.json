@@ -1,0 +1,81 @@
+{
+  "id": "dragon-ball-z-gekitou-tenkaichi-budoukai",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball Z - Gekitou Tenkaichi Budoukai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボールZ 激闘天下一武道会",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボール 激闘天下一武道会",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンボールZ激闘天下一武道会",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Gekitou Tenkaichi Budoukai (Japan) (Datach)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "5b76f2e4",
+      "md5": "137c1fab7d2f79ffbeebd15bcffff234",
+      "sha1": "bdba4eab75ce9dae3e9b5d6573187bfa59f7966b",
+      "sha256": "17fec54a27a7783c6e36739c00cc7ad1c9447d7788e6458486b169354e9a36fa"
+    },
+    {
+      "name": "Dragon Ball Z - Gekitou Tenkaichi Budoukai (Asia) (Ja) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "960444df",
+      "md5": "f349e8744e85bfffc1312d87d5da4eda",
+      "sha1": "fec1cf34d8ea295646585cd32d11d3533982bab1",
+      "sha256": "75a248cfe4292b2bec67778101906d1ae3d36944847be3fbe6e9ae9a32c359d1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 2578
+  },
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Ball%20Z%20-%20Gekitou%20Tenkaichi%20Budoukai%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Gekitou%20Tenkaichi%20Budoukai%20%28Japan%29%20%28Datach%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

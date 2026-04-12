@@ -1,0 +1,59 @@
+{
+  "id": "shikinjou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shikinjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "紫禁城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shikinjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-15053-00",
+      "size": 524288,
+      "crc32": "5ea0c97d",
+      "md5": "9aafd1b8a5eafa81a9d573cb80fb7500",
+      "sha1": "34add3f084636d671b48e77a771329f23f8083cd",
+      "sha256": "b978ed18896c7171c398b72a54798307d62cc5ad71f181a14298f4453120193c"
+    }
+  ],
+  "first_release_date": "1991-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Shikinjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "spirits-and-spells",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spirits & Spells",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Castleween",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "魔法のパンプキン アンとグレッグの大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spirits & Spells (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AWNE",
+      "size": 4194304,
+      "crc32": "2fa6db95",
+      "md5": "dce828e687f05511c1ad70e936b5ef25",
+      "sha1": "5b4764af4f7d0df24adf0df0ae486f33bd905dc7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 165201
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tricky",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tricky",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トリッキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tricky (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "3aea2f8f",
+      "md5": "afd88ae448d851e58bade33abe3a4a47",
+      "sha1": "009e0ea4203bab968cea3cd9428c633ce2c5c26e",
+      "sha256": "22bcc5f49d847344beb696b0adec681b00bccd03d30df1a317de0db6fb3a5269"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44319
+  },
+  "descriptions": [
+    {
+      "text": "トリッキーキックは、ターボグラフィックス16用のスライディングブロックパズルゲームです。\n\n同じアイテムを2つ揃えてキックすると、それらは消え、ボード上のピースをすべて消すまで続きます。道が塞がれていなければ、1つのアイテムを別のアイテムにぶつけることができます。\n\nまた、敵キャラクターがいて、彼らをバンパーにキックして破壊する必要があります。\n\nゲームには通常モードと特別モードがあり、それぞれ60のパズルが用意されています。多くのパズルは通常モードでもかなり難しいです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tricky%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tricky%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tricky%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

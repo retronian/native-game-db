@@ -1,0 +1,64 @@
+{
+  "id": "survival-kids-kotou-no-boukensha",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Survival Kids - Kotou no Boukensha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サバイバルキッズ 孤島の冒険者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "61fa675c",
+      "md5": "37938c96f34c9be568095f868ff71d1c",
+      "sha1": "f80abbeaa2cf0631c1cdf812c13f13f1fea41f18"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "10歳の誕生日に遊覧船に乗っていた少年は、激しい嵐によって船が壊滅し、孤島に漂流してしまいます。家族や友達もいない彼は、この奇妙で人が住んでいないように見える島で自分自身を守り、最終的には家に帰る方法を見つけなければなりません。\n\n「サバイバルキッズ」は、「リンクの目覚め」に似たオーバーヘッドアクションRPGスタイルで展開されます。プレイヤーは、毎日を生き延びるために、十分な休息を取り、定期的に食事をし、水を飲む必要があります。これはリスクを伴い、キノコのような特定の食べ物は麻痺や毒などさまざまな影響を及ぼすことがあり、他の食べ物は腐ってしまい、食べると体調を崩すこともあります。\n\nまた、ゲームにはユニークな「合成」システムがあり、2つのアイテムを組み合わせることでさまざまなアイテムを作成できます。たとえば、樹皮と棒を組み合わせると火種ができ、蔦と曲がった棒を使うと弓が作れます。必需品に加えて無駄なアイテムもたくさん作れるため、プレイヤーは生き残るために何が役立つかを考える必要があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-06-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Survival%20Kids%20-%20Kotou%20no%20Boukensha%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Survival%20Kids%20-%20Kotou%20no%20Boukensha%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Survival%20Kids%20-%20Kotou%20no%20Boukensha%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

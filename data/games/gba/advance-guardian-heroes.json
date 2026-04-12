@@ -1,0 +1,117 @@
+{
+  "id": "advance-guardian-heroes",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Advance Guardian Heroes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アドバンスガーディアンヒーローズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Advance Guardian Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BGCE",
+      "size": 8388608,
+      "crc32": "c501917f",
+      "md5": "a26c440065d89f56275644ffa34140ef",
+      "sha1": "d518d0a4818cc356ed79b29bc3c0e2264c0c2d07",
+      "sha256": "9b34f8aa61f9b3065bf5d2c5816f259c3ce348ba5a507c83aa9343690e0bdb4c"
+    },
+    {
+      "name": "Advance Guardian Heroes (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BAGJ",
+      "size": 8388608,
+      "crc32": "1527ca8c",
+      "md5": "53cf5670a528ef46d6d240e6c6c0c9e2",
+      "sha1": "8899dec74351fdf5e4a7d9eba4265bfb6cda0895"
+    },
+    {
+      "name": "Advance Guardian Heroes (Europe) (En,Fr)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BGCP",
+      "size": 8388608,
+      "crc32": "2487b85b",
+      "md5": "411574e9119177482dc07449962a904a",
+      "sha1": "4ab416ab90cdc6bad186c421d55c06603f2adaaf"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6300
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Advance%20Guardian%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Advance%20Guardian%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Advance%20Guardian%20Heroes%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Advance%20Guardian%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Advance%20Guardian%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Advance%20Guardian%20Heroes%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Advance%20Guardian%20Heroes%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Advance%20Guardian%20Heroes%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Advance%20Guardian%20Heroes%20%28Europe%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

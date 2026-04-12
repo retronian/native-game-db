@@ -1,0 +1,67 @@
+{
+  "id": "challenge-me-brain-puzzles",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Challenge Me - Brain Puzzles",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Challenge Me - Brain Puzzles (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ANQP",
+      "size": 8388608,
+      "crc32": "fd2fff26",
+      "md5": "21783e3325296a8120bc8e3da3aa5c81",
+      "sha1": "862e0f1020aeb625018d4dabe6a67dc8880d0e3d"
+    },
+    {
+      "name": "Challenge Me - Brain Puzzles (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ANQE",
+      "size": 8388608,
+      "crc32": "e7a121d4",
+      "md5": "1cd4463ec4c95e6cdbfd8cd7debc3f25",
+      "sha1": "a3a22cf1cb97952540a59fd1cc23c41f5d280f82"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21640
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Challenge%20Me%20-%20Brain%20Puzzles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Challenge%20Me%20-%20Brain%20Puzzles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Challenge%20Me%20-%20Brain%20Puzzles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Challenge%20Me%20-%20Brain%20Puzzles%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

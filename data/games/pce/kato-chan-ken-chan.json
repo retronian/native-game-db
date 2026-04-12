@@ -1,0 +1,65 @@
+{
+  "id": "kato-chan-ken-chan",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kato-chan Ken-chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カトちゃん&ケンちゃん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kato-chan Ken-chan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6069c5e7",
+      "md5": "23df0b354e83876a94e9c128a7a9eb80",
+      "sha1": "1381c15587891083f7cde3b1224fcc6df45bc914",
+      "sha256": "5a1194e44af50b6ebef8630e136d16574c11cdeb32c5fc413d379452f36bac35"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "加藤とケンの探偵事務所は、行方不明の裕福な男性を見つける任務を受けており、あなたは加藤かケンのどちらかを選んでミッションに挑むことができます。パートナーはこの任務を気に入っていないので、途中で厄介な行動をとることに決めます。アドベンチャーアイランドに似て、いくつかのレベルを進んでいく中で、野生動物を倒さなければなりませんが、ハンマーを使う代わりに、ジャンプしたりキックしたり、地面を歩いているときにガスを吹きかけたりする3つの方法があります。\n\nレベルを進むにつれて、あなたの体力は減少しますが、果物やジャンクフードを集めることで回復できます。旅の途中で、パートナーが公共の場でやってはいけないことをしているのに遭遇することもありますが、時にはあなたに物を投げて体力を減らすこともあります。彼に対処する唯一の方法は、痛いところを蹴ることです。\n\n道中、ドアに入ることができます。これを行うと、レベルに関するヒントが得られ、体力も増加します。また、街灯やゴミ箱、薄い空気などの特定のオブジェクトを蹴ることでコインを得たり、隠れたプラットフォームを出現させたりすることができます。コインは、特定のドアに入ったときに現れるスロットマシンで使用でき、追加の体力やライフ、コインなどを得ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-11-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Kato-chan%20Ken-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Kato-chan%20Ken-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Kato-chan%20Ken-chan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

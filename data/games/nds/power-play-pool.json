@@ -1,0 +1,79 @@
+{
+  "id": "power-play-pool",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Play Pool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Play Pool (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AOWP",
+      "size": 8388608,
+      "crc32": "b975f850",
+      "md5": "72ee14b9a887fcac5b2c5f23c8b478b9",
+      "sha1": "970746c3eae763294a4755cb554c5103dcea93d2"
+    },
+    {
+      "name": "Power Play Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOWE",
+      "size": 8388608,
+      "crc32": "718c4c80",
+      "md5": "30233517c4bc151ce4d9add87d588887",
+      "sha1": "678fed38b054625c1b24eae636e4fa940c5fe5a6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 78335
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Play%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Power%20Play%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Play%20Pool%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Power%20Play%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Power%20Play%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Power%20Play%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

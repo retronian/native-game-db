@@ -1,0 +1,66 @@
+{
+  "id": "poupeegirl-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Poupeegirl DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Poupeegirl DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B2PJ",
+      "size": 67108864,
+      "crc32": "3419c6d5",
+      "md5": "356a915c3ba6cbe4cbe22b6e519196b2",
+      "sha1": "8c4b22dba06eb6b267f64be2f7c2a388a5127ae0",
+      "sha256": "0995dc455d6cc8d3cdcbb5d6fabf849119c5b4821824f4aca4e312bf80aa9157"
+    },
+    {
+      "name": "Poupeegirl DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "B2PK",
+      "size": 67108864,
+      "crc32": "70450907",
+      "md5": "100677f2fd5689274b01be02d933df0b",
+      "sha1": "b197f5488779bf5dd101c4bffed27b006d34de02",
+      "sha256": "a88be377c1ffa148fccd4f5ee4c232a900dc18aba511585ed653388657cab12a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Poupeegirl%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Poupeegirl%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Poupeegirl%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Poupeegirl%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

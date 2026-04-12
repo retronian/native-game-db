@@ -1,0 +1,64 @@
+{
+  "id": "lemmings-vs",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lemmings VS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "VSレミングス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lemmings VS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "947d45ae",
+      "md5": "dfc1c1fa9731807aa8bb5aa7d4849984",
+      "sha1": "2ebb428a53acbcbc215f37bb263e44d94f547473"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたの任務は、120のレベルにわたるスピーディなパズルを通じてレミングスを救出することです。これらの生き物は、レベルの終わりにある安全な場所にたどり着くことを願って、無邪気に世界を歩き続けますが、残念ながらこれらのレベルには急な崖や地面の隙間、障害物、川などの危険が含まれています。\n\nあなたが操作するのは個々のレミングスではなく、レミングスの上を移動できる十字カーソルです。画面の下部には、登る、浮く、叩くなど、レミングスに割り当てることができる機能の選択肢があります。適切な機能を選択するためにクリックし、その後レミングスをクリックしてアクティブにします。各レベルには異なるスキルの範囲、異なる数のレミングス、進行するための異なるパーセンテージ目標があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-04-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Lemmings%20VS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Lemmings%20VS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Lemmings%20VS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

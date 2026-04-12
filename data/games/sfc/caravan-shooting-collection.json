@@ -1,0 +1,77 @@
+{
+  "id": "caravan-shooting-collection",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Caravan Shooting Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キャラバン Shooting Collection キャラバン シューティング コレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "キャラバンシューティングコレクション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Caravan Shooting Collection (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "8675b9df",
+      "md5": "fdae2214e02f47e0885db8f2a271e128",
+      "sha1": "13808eebec3727dd436444a5ea34c061f7b6b5d5",
+      "sha256": "be2bdb03549665136cc91173ac538b41b3085e0f1f6b02d6567d174b5b78e435"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42280
+  },
+  "descriptions": [
+    {
+      "text": "キャラバン シューティング コレクションは、1995年に発売されたスーパーファミコン用のクラシックシューティングゲームのコンピレーションで、1985年から1987年にかけてファミリーコンピュータでリリースされた作品が収録されています。収録タイトルには、1985年のファミコン版『スターフォース』（アーケード版はテクモが制作し、家庭用版はハドソンが開発）、1986年の『スタースoldier』、1987年の『ヘクター』（別名：スタースターシップ ヘクター）が含まれています。これらの3つのゲームは、ハドソンオールジャパンキャラバンフェスティバルの対象となっており、長年にわたり毎年新しいハドソンのシューティングゲームが発表され、各都道府県の競技者たちが最高得点を目指して日本中を巡るイベントが開催されていました。ゲームは競技の前後に販売され、その知名度を高める手助けとなっていました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-07-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Caravan%20Shooting%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Caravan%20Shooting%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Caravan%20Shooting%20Collection%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

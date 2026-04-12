@@ -1,0 +1,68 @@
+{
+  "id": "silva-saga",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Silva Saga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "シルヴァ・サーガ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Silva Saga (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "6819da63",
+      "md5": "5fb256cc3cba58cabb2ba49a39dd9fe4",
+      "sha1": "44337b32ab3452b3b6f0811e7de826f6df3bdc28",
+      "sha256": "05ead8c0b81ebce6c616a9352a778f661304e7f91efa026d517c62477e886c28"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48708
+  },
+  "descriptions": [
+    {
+      "text": "シルヴァ・サーガは、ゲームの見た目が非常にドラゴンクエストに似ていることで注目されていますが、デザイン哲学は非常に異なると感じられます。ミネルバトン・サーガ、シルヴァ・サーガ、シルヴァ・サーガII（この第3作はSNESでリリースされました）は、すべて同じシリーズの一部です。\n\nシルヴァ・サーガは、NESのドラゴンクエストゲームが好きでない人には退屈なゲームかもしれません。結局のところ、このゲームは基本的にドラゴンクエストであり、いくつかの簡単なメカニクスと異なるデザイン哲学を持っています。しかし、ドラゴンクエストゲームが好きな方には、グラインディングが少なく、素晴らしい音楽、心地よいグラフィック、そして探索する新しい世界が楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-07-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Silva%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Silva%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Silva%20Saga%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

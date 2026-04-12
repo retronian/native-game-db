@@ -1,0 +1,64 @@
+{
+  "id": "phantom-zona",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantom Zona",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "怪人ゾナー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantom Zona (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "3e43f25f",
+      "md5": "a20d6884a7d6bc5610ef4078a72ce460",
+      "sha1": "bf2162f970a9dbb658afbdd7354155768daa96b1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「怪人ゾナー」では、プレイヤーはパズルを解くことが最も人気のある娯楽である学校に招待されます。しかし、到着すると、プレイヤーは怪人ゾナーと出会い、この学校が実は謎を使って戦うギャングの秘密基地であることを明かされます。プレイヤーがバトルに入ると、謎が出題され、複数の選択肢が提示されます。正解すると相手にダメージを与え、間違えるとプレイヤーがダメージを受けます。ダメージが最も少ない方が勝利します。このゲームはゲームボーイカラーの赤外線ポートを利用しています。赤外線信号を発するものを使用することで、新しいパズルが生成されます。また、プレイヤーはゲームボーイリンクケーブルを使ってパズルを交換することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Phantom%20Zona%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Phantom%20Zona%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Phantom%20Zona%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

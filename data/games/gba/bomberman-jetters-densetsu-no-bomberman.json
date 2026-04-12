@@ -1,0 +1,65 @@
+{
+  "id": "bomberman-jetters-densetsu-no-bomberman",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Jetters - Densetsu no Bomberman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ボンバーマンジェッターズ 〜伝説のボンバーマン〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Jetters - Densetsu no Bomberman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJZJ",
+      "size": 8388608,
+      "crc32": "70c423b8",
+      "md5": "c86f84d68f584b666e5490f764fda27e",
+      "sha1": "7d0fbe2d8addba9d3c49da7bc0de792cf10b7268"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヒゲヒゲバンディッツが再び動き出し、人工世界ダークスターを衝突させてボンバープラネットを破壊しようとしています。ボンバーマンは、手遅れになる前にダークスターの四つの強力なエンジンを破壊しなければなりません。新たな冒険では、ボンバーマンとマックスの間で操作を切り替え、特別な能力を持つキャラボムを育てることができます。キャラボムは進化するにつれて強くなります。最大四人のプレイヤーが対戦できるマルチプレイヤーゲームや新しいミニゲームも楽しめます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-10-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bomberman%20Jetters%20-%20Densetsu%20no%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bomberman%20Jetters%20-%20Densetsu%20no%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bomberman%20Jetters%20-%20Densetsu%20no%20Bomberman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

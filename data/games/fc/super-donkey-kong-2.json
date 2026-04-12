@@ -1,0 +1,53 @@
+{
+  "id": "super-donkey-kong-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Donkey Kong 2",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 160305
+  },
+  "first_release_date": "1997-12-31",
+  "roms": [
+    {
+      "name": "Super Donkey Kong 2 (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 262160,
+      "crc32": "38a78c34",
+      "md5": "e35fbf1520805e156032dbb71eb56c59",
+      "sha1": "60bc8a30afee280efca9b33460dd4855efa2e349",
+      "sha256": "3f624cef50934a11850083f93875144ce256430ffb59c9e7cd1e7b0fe552e67b"
+    },
+    {
+      "name": "Super Donkey Kong 2 (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 393232,
+      "crc32": "4bee01e5",
+      "md5": "554cde0b6f45971db888183a3b4f7162",
+      "sha1": "7fe79ea2f89332ca3972124843bd561e8344add3",
+      "sha256": "5dd3c6ac42201f2bb45b94986229ec5397797dfc74432aa651d18465d25f40bb"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Donkey%20Kong%202%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Donkey%20Kong%202%20%28Asia%29%20%28En%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

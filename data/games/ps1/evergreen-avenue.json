@@ -1,0 +1,60 @@
+{
+  "id": "evergreen-avenue",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Evergreen Avenue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エバーグリーン・アベニュー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Evergreen Avenue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 332612848,
+      "crc32": "d450cf63",
+      "md5": "a37cdd2409a8298942d5804ab73b11f8",
+      "sha1": "b711c6aea83f7c098b208c8894426265282cf510",
+      "sha256": "ba4dedf25f308443c5938ad46bb4627f818439b1b7309fb3f9701c672e0b404c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 63578
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Evergreen%20Avenue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Evergreen%20Avenue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Evergreen%20Avenue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bakunetsu-dodge-ball-fighters",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakunetsu Dodge Ball Fighters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆熱ドッジボールファイターズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakunetsu Dodge Ball Fighters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ADFJ",
+      "size": 4194304,
+      "crc32": "9030515d",
+      "md5": "273b9e8c6760ba878e9c6310db5dce67",
+      "sha1": "73a9c1785a2c8b9f833c8842fdf99583c8b1d581"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーダッジボールアドバンスは、NESのクラシックを基にしたゲームで、近い未来を舞台にしています。そこで、子供たちのスポーツが王者のスポーツとなり、国の誇りはホームチームの勝利にかかっています。プレイヤーは国の代表チームを選び、トーナメント形式で他の8カ国と競い合います。さまざまな技を駆使して相手をノックアウトし、選手の属性を定義することでチームをカスタマイズし、別売りの通信ケーブルを使って友達のゲームボーイアドバンスと対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bakunetsu%20Dodge%20Ball%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bakunetsu%20Dodge%20Ball%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bakunetsu%20Dodge%20Ball%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

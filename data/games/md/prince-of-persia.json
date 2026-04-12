@@ -1,0 +1,112 @@
+{
+  "id": "prince-of-persia",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Prince of Persia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Prince of Persia (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-88076-00",
+      "size": 1048576,
+      "crc32": "61de6fe0",
+      "md5": "bb8dede1a266d8c48a8f2ea1e4d12e58",
+      "sha1": "6e645b791e6e2b84a206dca6cf47e8f955e60a72",
+      "sha256": "d4ab0b0a7b1ade490ed5329bb5508878cef9c0d9b60bb37a908dd3658a506bde"
+    },
+    {
+      "name": "Prince of Persia (Europe) (Beta 3)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-0000-00",
+      "size": 1048576,
+      "crc32": "505314b6",
+      "md5": "961d60986c98f6ccd4b19a75d85b8854",
+      "sha1": "addd33ce2f9c022433be1c3ea803371e7f6b694b",
+      "sha256": "559f2ae08b7abe18116cc7605483b4f153405fc907d8d9936eca01c8548a5048"
+    },
+    {
+      "name": "Prince of Persia (Europe) (Beta 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 262144,
+      "crc32": "425e6a87",
+      "md5": "fe2be04df0ce13ae11863eaae5dca9c5",
+      "sha1": "224516e54a4bac00089e61c8e0a4794eac92d8df",
+      "sha256": "a0f747e7cf6aec41d4af88250b2e44cbbffb96214e7446e9d3f5db4e7394e616"
+    },
+    {
+      "name": "Prince of Persia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-048286-00",
+      "size": 1048576,
+      "crc32": "13c181a4",
+      "md5": "a942e336b5d2e9f962b289fc08b890c6",
+      "sha1": "30080c7a8617ba3aaf67587970f32cd846234611",
+      "sha256": "42a28e7d88db6bb7fcfc4ddb63fab45328e7c328029da148d6ce653a7ecc0712"
+    },
+    {
+      "name": "Prince of Persia (Europe) (Beta 2) (Debug)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "294b7eb1",
+      "md5": "14752994a5a28148b1bc6fecadf6a34e",
+      "sha1": "088969bee4a41a8ecb20dfb03c597df169858ac4",
+      "sha256": "b270d960cbb379852e5cac08f9920d16a104991b87e468a22a282474d5627c15"
+    }
+  ],
+  "external_ids": {
+    "igdb": 284853
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

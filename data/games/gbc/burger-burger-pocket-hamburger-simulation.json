@@ -1,0 +1,67 @@
+{
+  "id": "burger-burger-pocket-hamburger-simulation",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Burger Burger Pocket - Hamburger Simulation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バーガーバーガーポケット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Burger Burger Pocket - Hamburger Simulation (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1abcedbe",
+      "md5": "a9a4d4db13b2c35f0e260bf067087055",
+      "sha1": "f4579d4bb3b39f572fdf033df01a84a925fb3f2e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65644
+  },
+  "descriptions": [
+    {
+      "text": "都市を巡り、食材を探し、自分だけのバーガーを作り、チェーンを拡大するボードゲームです。ゲームはバックギャモンのようなマップでプレイされ、各停留所でのイベントがあなたのレストランを成長させる手助けをします。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Burger%20Burger%20Pocket%20-%20Hamburger%20Simulation%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Burger%20Burger%20Pocket%20-%20Hamburger%20Simulation%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Burger%20Burger%20Pocket%20-%20Hamburger%20Simulation%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

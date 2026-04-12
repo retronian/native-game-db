@@ -1,0 +1,74 @@
+{
+  "id": "family-trainer-5-meiro-daisakusen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Trainer 5 - Meiro Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリートレーナー 5 迷路大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミリートレーナーシリーズ5 迷路大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Trainer 5 - Meiro Daisakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "4a215c52",
+      "md5": "6415d4fc07e68a3605dd37c2d72c59bf",
+      "sha1": "2ed7d9b26d159e14173913a75cc536097b741019",
+      "sha256": "4a6fd99d7c011da60da7bd1db9ea57cc66115a72456c6348e9c37ddd954c6332"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファミリートレーナー第5弾。パワーパッドで迷路を攻略する大作戦。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-04-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Trainer%205%20-%20Meiro%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20Trainer%205%20-%20Meiro%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Trainer%205%20-%20Meiro%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

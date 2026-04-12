@@ -1,0 +1,65 @@
+{
+  "id": "ultima-kyoufu-no-exodus",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultima - Kyoufu no Exodus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウルティマ 恐怖のエクソダス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultima - Kyoufu no Exodus (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6a97e33b",
+      "md5": "afa5db88ff714fcc70e769982c29fedf",
+      "sha1": "5b518260b75a7b178dced7f4753b9a532cfb26fe",
+      "sha256": "5f34b1bbec2173d8bf313c7571370ce54664ffc442bff583defd9a6f6db9a98d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ウルティマシリーズの第3作目である本作は、シリーズ初の冒険者パーティを特徴としたゲームです。大規模で詳細な町があり、多くの人々と会話することができるほか、パーティが複数のモンスターと戦うターン制のタイルベースの戦闘エンジンも搭載されています。\n\n物語は？邪悪な魔法使いモンダインとその愛人ミナックスが前作で敗北した後、ソルサリアの地に平和が戻りました。時が経つにつれ、地質的な混乱とモンスターの再出現が起こり、モンダインとミナックスが死の前に「エクソダス」という名の子をもうけていたことが明らかになります。今やその子は成長し、両親の死を復讐する力を持つ大人になりました。もちろん、あなたという英雄が彼を見つけて止める使命を担うことになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-10-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ultima%20-%20Kyoufu%20no%20Exodus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ultima%20-%20Kyoufu%20no%20Exodus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ultima%20-%20Kyoufu%20no%20Exodus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

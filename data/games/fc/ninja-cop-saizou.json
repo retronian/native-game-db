@@ -1,0 +1,77 @@
+{
+  "id": "ninja-cop-saizou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Cop Saizou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者Cop サイゾウ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "忍者 Cop サイゾウ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Cop Saizou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "62eeb523",
+      "md5": "9e6fe39e4e2c54c6bb20df2ebbe8565f",
+      "sha1": "503750c2accb50790767d2c82295940947afa49b",
+      "sha256": "090821ddd6526b307d4adc6fe5153535baf23c39ed5195160e1d67be02dca288"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215137
+  },
+  "descriptions": [
+    {
+      "text": "ビッグアップルは犯罪にまみれ、街の子供たちが神秘的に失踪しています。子供たちを救い、この背後にいる者を止めるのはブラックマンタの役目です。忍者のスキルに加えて、透明化やテレポーテーションなどの追加パワーを見つけて、数多くの武装した悪党たちに立ち向かうことができます。『ブラックマンタの怒り』は、5つの異なるレベルを持つ横スクロールアーケードスタイルのアクションゲームです。各レベルでは、次に行くべき場所を見つける手助けとなるさまざまな手がかりや隠された場所に導くものに出会うことがあります。また、出会う悪党の中には有用な情報を持っている者もおり、尋問することができます（ただし、先にあなたを殺さない限りですが！）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-11-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja%20Cop%20Saizou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja%20Cop%20Saizou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja%20Cop%20Saizou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

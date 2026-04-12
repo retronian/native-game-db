@@ -1,0 +1,67 @@
+{
+  "id": "garou-densetsu-shukumei-no-tatakai",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Garou Densetsu - Shukumei no Tatakai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "餓狼伝説 宿命の闘い",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "餓狼伝説 宿命の戦い",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Garou Densetsu - Shukumei no Tatakai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4100",
+      "size": 2097152,
+      "crc32": "7c594e1a",
+      "md5": "99f7a18100100d5a937342e9a7441517",
+      "sha1": "ffa5f831ac933052a44001c2cde97a3e0ac78ae0",
+      "sha256": "f4daa1a8c0fa0b1298515b05496a82266378f7f324c6edd1eb93ad061d8b703f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Garou%20Densetsu%20-%20Shukumei%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Garou%20Densetsu%20-%20Shukumei%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Garou%20Densetsu%20-%20Shukumei%20no%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

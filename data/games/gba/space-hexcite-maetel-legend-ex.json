@@ -1,0 +1,68 @@
+{
+  "id": "space-hexcite-maetel-legend-ex",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space Hexcite - Maetel Legend EX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スペースヘキサイト 〜メーテル・レジェンドEX〜",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Space Hexcite - Maetel Legend EX (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AJSJ",
+      "size": 4194304,
+      "crc32": "bd4e6008",
+      "md5": "39564bb823b7286ad977d6428a020e5f",
+      "sha1": "7154e2f38137ce6f51ffff4f1e25c94aabd1fbf5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49808
+  },
+  "descriptions": [
+    {
+      "text": "カラフルな六角形を基にした魅力的なパズルゲームで、伝説的なアーティスト松本零士（キャプテン・ハーロック、銀河鉄道999）によってデザインされたキャラクターが登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Space%20Hexcite%20-%20Maetel%20Legend%20EX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Space%20Hexcite%20-%20Maetel%20Legend%20EX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Space%20Hexcite%20-%20Maetel%20Legend%20EX%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

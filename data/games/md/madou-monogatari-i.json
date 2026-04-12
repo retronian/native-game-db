@@ -1,0 +1,78 @@
+{
+  "id": "madou-monogatari-i",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Madou Monogatari I",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔導物語",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "魔導物語I",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Madou Monogatari I (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-66023-00",
+      "size": 2097152,
+      "crc32": "dd82c401",
+      "md5": "41b8ba3569e3f4f98155dea64318d223",
+      "sha1": "143456600e44f543796cf6ade77830115a8f2f99",
+      "sha256": "61d1dec319afb1380dfbee0cdb42e6e64ab180941b0d533d8deed9efa502f83c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 73644
+  },
+  "descriptions": [
+    {
+      "text": "このゲームでは、若き見習い魔女のアールが主人公です。彼女は魔法学校で学び、最も重要な試験を受ける準備をしています。それは、サタンの塔に向かい、敵を倒し、魔法の力を使って道中のすべての障害を克服することです！\n\n「魔導物語 I」は、パズルとRPGが融合したゲームです。「ぷよぷよ」シリーズのキャラクターやパズルが登場し、3Dダンジョンを一人称視点で探索します。戦闘はプラットフォーム上で行われ、ターン制とリアルタイムスタイルが組み合わさっています。待っている間も敵は攻撃してきますが、行動を起こす時間はあります。ボタンを押し続けて方向キーを押すことで、さまざまな魔法を発動させることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-03-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Madou%20Monogatari%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Madou%20Monogatari%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Madou%20Monogatari%20I%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "drawn-to-life-collection",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Drawn to Life - Collection",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Drawn to Life - Collection (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BVPE",
+      "size": 134217728,
+      "crc32": "3bf7d9cb",
+      "md5": "338e2a7bdad13a27df0ef60d4a262d75",
+      "sha1": "5b8a124609c3bc9d5b7dd54601db1efab06110ee"
+    },
+    {
+      "name": "Drawn to Life - Collection (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BVPP",
+      "size": 134217728,
+      "crc32": "df7df65b",
+      "md5": "5b5c253d59f1102d4e3c13877cc626f0",
+      "sha1": "677bf99bffc69662feb4793dd953a9429dce91e0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47876
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drawn%20to%20Life%20-%20Collection%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Drawn%20to%20Life%20-%20Collection%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Drawn%20to%20Life%20-%20Collection%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

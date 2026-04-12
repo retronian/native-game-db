@@ -1,0 +1,46 @@
+{
+  "id": "syberia",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Syberia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Syberia (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CYBP",
+      "size": 67108864,
+      "crc32": "611e0d82",
+      "md5": "9b845331da583e5b4b2822dd30ce71db",
+      "sha1": "41b7d03888fec943d1a698cec96513c52ca83bf6",
+      "sha256": "84e2479b9b1ea064177a7f7e32fd345a3342e777a26d6fdc96c058248ecd2e38"
+    }
+  ],
+  "external_ids": {
+    "igdb": 272095
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Syberia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Syberia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

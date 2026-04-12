@@ -1,0 +1,45 @@
+{
+  "id": "slingo-quest",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Slingo Quest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Slingo Quest (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSLE",
+      "size": 8388608,
+      "crc32": "0fc9cb9a",
+      "md5": "a9419200a23935c241b0f111b32abca9",
+      "sha1": "e7890c90212116e885461665a914eca89cac5062"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47712
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Slingo%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Slingo%20Quest%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

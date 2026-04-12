@@ -1,0 +1,77 @@
+{
+  "id": "hirake-ponkikki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hirake! Ponkikki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ひらけ! ポンキッキ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プレスクールソフト ひらけ!ポンキッキ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hirake! Ponkikki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "285ba659",
+      "md5": "6aad386ae40c61f8a047e909bdef92b9",
+      "sha1": "aca8cf0b797904396abfdd540b7a26f89229be45",
+      "sha256": "a9c7caa88055c13ab6f145c4b51da954b7a4447beb21b029bc65961d1d692b0c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48472
+  },
+  "descriptions": [
+    {
+      "text": "ひらけ! ポンキッキは、セサミストリートに似た長寿の日本の子供向け番組で、このゲームでは番組の主要キャラクターである恐竜のガチャピンとイエティのムックがちょっとした友好的な競争を繰り広げます。5つのミニゲームが5つの島を通じて繰り返され、次の島に進む前に各島の5つのゲームをすべてクリアする必要があります。この設定は主に2人用で、1人のプレイヤーがガチャピンを、もう1人がムックを操作します。1人用モードでは、どちらのキャラクターも選択可能ですが、CPUはじゃんけん以外のゲームでは競争しません。プレイヤーは限られた数のライフでスタートし、敵にぶつかったりミニゲームでうまくいかなかったりするとライフを失います。また、各島の終わりには1つの追加ライフが与えられます。しかし、パスワードシステムもあり、どの島からでもゲームを再開することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Hirake%21%20Ponkikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Hirake%21%20Ponkikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Hirake%21%20Ponkikki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

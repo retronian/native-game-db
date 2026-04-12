@@ -1,0 +1,65 @@
+{
+  "id": "monster-pro-wres",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Pro Wres",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "モンスタープロレス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Pro Wres (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f2e46d25",
+      "md5": "ed3f985efd35dcc03ba0d93654a12b40",
+      "sha1": "b782344fad0efd1bcf6d3863e5f3ac9de45eee39",
+      "sha256": "57425f6a6a00e3def05d6bbb2104d38b14e426ca51a883dc3c175aee2316ecad"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "モンスタープロレスリングは、モンスターを選んで他のモンスターとターン制のバトルを繰り広げる日本のゲームです。このゲームは、画面に十数個の頭が現れたり、致命的な一撃でモンスターが文字通り引き裂かれたりするなど、ユーモラスで非現実的なバトルアニメーションが特徴です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Monster%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Monster%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Monster%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

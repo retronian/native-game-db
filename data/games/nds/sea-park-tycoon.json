@@ -1,0 +1,86 @@
+{
+  "id": "sea-park-tycoon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sea Park Tycoon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sea Park Tycoon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C6TE",
+      "size": 16777216,
+      "crc32": "5b3615b9",
+      "md5": "91f7ec5266f40243ecb3b2dfad81de4c",
+      "sha1": "74494ae2147b9c50875f916d02af94b07582d497"
+    },
+    {
+      "name": "Sea Park Tycoon (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6TP",
+      "size": 16777216,
+      "crc32": "32294f3b",
+      "md5": "80ff298b30ca925c2e4dfbdd9c99293d",
+      "sha1": "19970d0003bb4d1f537f7bca5f07ea8c07ff15e8"
+    },
+    {
+      "name": "Sea Park Tycoon (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "C6TP",
+      "size": 16777216,
+      "crc32": "796e8002",
+      "md5": "f3184359eb8d5e46c40b8c4d82390eb5",
+      "sha1": "37a31261876e6d96e90c279e74274ffa184ebcbc"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sea%20Park%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sea%20Park%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sea%20Park%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sea%20Park%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sea%20Park%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sea%20Park%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

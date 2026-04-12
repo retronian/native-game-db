@@ -1,0 +1,54 @@
+{
+  "id": "imagine-rock-star",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Imagine - Rock Star",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Imagine: Girl Band",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Imagine - Rock Star (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIRE",
+      "size": 67108864,
+      "crc32": "47960ec0",
+      "md5": "a5630cee2a3908c292f6c0b1eadf309d",
+      "sha1": "acd581a5296da20cdb624a6439d4105fc8344dfc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 7913
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Imagine%20-%20Rock%20Star%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Imagine%20-%20Rock%20Star%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

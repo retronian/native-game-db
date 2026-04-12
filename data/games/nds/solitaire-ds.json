@@ -1,0 +1,56 @@
+{
+  "id": "solitaire-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Solitaire DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Solitaire DS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YIOP",
+      "size": 8388608,
+      "crc32": "c0622418",
+      "md5": "81d8b0472c476ec823f2f2c1c7e4a87d",
+      "sha1": "4da8c8d67484c48f315ef7d4babd36a9f0dd7e44"
+    },
+    {
+      "name": "Solitaire DS (World) (Datel Games n' Music) (Unl)",
+      "source": "no_intro",
+      "size": 357952,
+      "crc32": "1df95fba",
+      "md5": "532b55851e24a64edfeaf9fcc18ee960",
+      "sha1": "ebf0e6cab1bd958482307f8e02a9d300d458a7c1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Solitaire%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Solitaire%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Solitaire%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

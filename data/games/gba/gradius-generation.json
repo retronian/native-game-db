@@ -1,0 +1,65 @@
+{
+  "id": "gradius-generation",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gradius Generation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グラディウス ジェネレーション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gradius Generation (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGAJ",
+      "size": 4194304,
+      "crc32": "6c20ea42",
+      "md5": "97fa8d3dec6cad0b75ea8063992be6a6",
+      "sha1": "b1db63dd449153b82b16abcadf1eeb7c7a100dbb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「グラディウス ジェネレーション」の横スクロールアクションは、アーケードシューティングゲームの初期の頃を思い起こさせます。新たに追加された8つのステージでは、波のように押し寄せる敵があなたを追い詰め、巨大なボスたちが画面いっぱいに重火力を展開します。速くて致命的な攻撃船「ビック・バイパー」の操縦桿をしっかりと握りしめましょう。ツインキャノン、フォトンミサイル、ビームレーザーなどの武器構成を選び、ゲームプレイ中にパワーアップを取得してそれらの武器を強化しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-01-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gradius%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gradius%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gradius%20Generation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

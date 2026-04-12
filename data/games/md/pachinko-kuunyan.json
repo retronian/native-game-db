@@ -1,0 +1,58 @@
+{
+  "id": "pachinko-kuunyan",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachinko Kuunyan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチンコ クーニャン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachinko Kuunyan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-73013-02",
+      "size": 1048576,
+      "crc32": "9d137e7f",
+      "md5": "b6eb8070b6f454eecfefc3663576eac5",
+      "sha1": "84c3395c6dc123737d9da94e0392f3f30be59182",
+      "sha256": "e941e8bab0cced6798bf139c83a10f14789fd8ddab262b928e93d608fcc2115d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pachinko%20Kuunyan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pachinko%20Kuunyan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pachinko%20Kuunyan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

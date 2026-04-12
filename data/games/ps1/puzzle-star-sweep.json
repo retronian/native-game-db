@@ -1,0 +1,49 @@
+{
+  "id": "puzzle-star-sweep",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle - Star Sweep",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スタースィープ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Starsweep",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle - Star Sweep (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 93848208,
+      "crc32": "f5af3e5d",
+      "md5": "c7ba7a860ae67ab58c3a673d3a098c48",
+      "sha1": "7923b2579a1e823a558a6a7d21cabc37e0246871",
+      "sha256": "ecb5c4afec2bdabfe1b1411d3f3c9aaff2e547499fa1bdb38cd71beca7237c42"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44744
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "dear-daniel-no-sweet-adventure-kitty-chan-o-sagashite",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ディアダニエルのスウィートアドベンチャー キティちゃんをさがして",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0fd34427",
+      "md5": "793c57f58d4e9c92088c333b129d1c7e",
+      "sha1": "8598594285f0342b3d93c447b475fadd4722c6cb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "目的はダニエルがキティに会うことです。敵を飛び越えながら、彼はコマンドを入力して動きを決定し、ポイントを獲得します。ミニゲームで手に入れたアイテムは、あなたの能力を変化させます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dear%20Daniel%20no%20Sweet%20Adventure%20-%20Kitty-chan%20o%20Sagashite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dear%20Daniel%20no%20Sweet%20Adventure%20-%20Kitty-chan%20o%20Sagashite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dear%20Daniel%20no%20Sweet%20Adventure%20-%20Kitty-chan%20o%20Sagashite%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

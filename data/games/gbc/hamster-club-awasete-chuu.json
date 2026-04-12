@@ -1,0 +1,64 @@
+{
+  "id": "hamster-club-awasete-chuu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Club - Awasete Chuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスター倶楽部 あわせてチュー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Club - Awasete Chuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d56d68ff",
+      "md5": "7d78cacd5eee9569ebc1b85ff9f05c90",
+      "sha1": "ad4148b716f8a379578e6d862b06d435396faccc"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気コミック「ハムスター倶楽部」のかわいいキャラクターたちが登場する落ち物パズルです。このゲームは、数字の書かれたブロックを並べて消せるブロックのチェーンを作るパズルです。特定のブロックが消えると、かわいいハムスターたちがプレイヤーを応援してくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Club%20-%20Awasete%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Club%20-%20Awasete%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Club%20-%20Awasete%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

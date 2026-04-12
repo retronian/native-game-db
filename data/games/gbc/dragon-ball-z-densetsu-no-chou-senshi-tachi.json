@@ -1,0 +1,82 @@
+{
+  "id": "dragon-ball-z-densetsu-no-chou-senshi-tachi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Ball Z - Densetsu no Chou Senshi-tachi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンボール 伝説の超戦士たち",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "7d28689a",
+      "md5": "a94a1c6268555926ca1a3b439a2fb65c",
+      "sha1": "b094ae04fe665371cf0f5cb6942a67a379e8e645"
+    },
+    {
+      "name": "Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta) (All Unlocked)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "fb942e08",
+      "md5": "cab48584e4caeb5ba3b1260f7d64c829",
+      "sha1": "075f4a1498d0b5f98f76984aca52ca1f03b1f85d"
+    },
+    {
+      "name": "Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "3f511f57",
+      "md5": "dbf74341f9d23fe32899ebc9f4bf20c8",
+      "sha1": "45f5a6fa7eff38b1bb8786472d0eeadf58f692a8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンボールZ: 伝説の超戦士たちは、ゲームボーイカラー用のカードゲームとターン制バトルゲームが融合した作品です。ゲームでは、攻撃、技、サポートアイテムのためのオリジナルのゲーム内カードを使用し、最初はトレードモードとストーリーモードの2つのモードのみが利用可能です。伝説の超戦士たちのストーリーは、サイヤ人編からブウ編の終わりまでをカバーしています。クリアするとバトルモードが解放され、プレイヤーはランダムな敵と対戦できるようになります。ゲームをクリアすると、フリーザ対セルのように、どのキャラクターでも任意のバトルで使用可能になります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Densetsu%20no%20Chou%20Senshi-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Dragon%20Ball%20Z%20-%20Densetsu%20no%20Chou%20Senshi-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Dragon%20Ball%20Z%20-%20Densetsu%20no%20Chou%20Senshi-tachi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

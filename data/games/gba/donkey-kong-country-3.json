@@ -1,0 +1,126 @@
+{
+  "id": "donkey-kong-country-3",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donkey Kong Country 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スーパードンキーコング 3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Super Donkey Kong 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong Country 3 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BDQP",
+      "size": 16777216,
+      "crc32": "708a6168",
+      "md5": "d7f41d490bcb72f0711b070de85a8c8b",
+      "sha1": "aa4eaf41d1339451ae42ef99d0c931fe624bd6fa"
+    },
+    {
+      "name": "Donkey Kong Country 3 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BDQE",
+      "size": 16777216,
+      "crc32": "fe03e5af",
+      "md5": "f577a97d679e669f8063910eb060e864",
+      "sha1": "c50982b4c26e25ba3538be97b585d95737d7ade7",
+      "sha256": "eef5120a58feaf194d3b47c67ba30e249217953e898cdcf5c3297f1c531ba24f"
+    },
+    {
+      "name": "Donkey Kong Country 3 (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A5NE",
+      "size": 16777216,
+      "crc32": "8dd750ef",
+      "md5": "132ac906d53969643a2a117425a7bcb5",
+      "sha1": "6e4855197b7deffd089dfde46875bebdc4739fa2",
+      "sha256": "6b3057e1289e3362614aec552c0d7fe5e3abcc3204833f43fb4e4592d9993e85"
+    }
+  ],
+  "external_ids": {
+    "igdb": 132723
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%203%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%203%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%203%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%203%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%203%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

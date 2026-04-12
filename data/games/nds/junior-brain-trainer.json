@@ -1,0 +1,89 @@
+{
+  "id": "junior-brain-trainer",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Junior Brain Trainer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Junior Brain Trainer (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CJWP",
+      "size": 8388608,
+      "crc32": "4c55f901",
+      "md5": "5a4d64e1b60b418a595f568687e2837a",
+      "sha1": "d1e67940470e208480fd91eb7d1fdae39b689f4b"
+    },
+    {
+      "name": "Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2EX",
+      "size": 8388608,
+      "crc32": "38d0a144",
+      "md5": "f7bf070f010d7709bcf2e7332700e8f0",
+      "sha1": "67d4a89ec14382baa8148e8c60bb2d5dc1598a95"
+    },
+    {
+      "name": "Junior Brain Trainer (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CJWE",
+      "size": 8388608,
+      "crc32": "435fcbb6",
+      "md5": "fc10ab38dce61bc3d7d6d6f3db99d04a",
+      "sha1": "091d07e8e891cc7532663960a48f03209f3859b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 23270
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Brain%20Trainer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Brain%20Trainer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Brain%20Trainer%20%28Europe%29%20%28Fr%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Brain%20Trainer%20%28Europe%29%20%28Fr%2CNl%2CSv%2CNo%2CDa%2CFi%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Brain%20Trainer%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Brain%20Trainer%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "donald-duck",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donald Duck",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドナルドダック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donald Duck (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "1af21649",
+      "md5": "0eb65236ec3b9ea01641461e28d6f30b",
+      "sha1": "fa15c69172b4332ed39c0f591003cf84e9b93971",
+      "sha256": "a2bd1702266279cc8c210dbd45d6bf933895a6ffbae98fed2c420684c8753a17"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215079
+  },
+  "descriptions": [
+    {
+      "text": "シリー・スポーツがイタリアの伝統的な場所で開催され、ピーナッツのコミックストリップからスヌーピーが参加したいと思っています。スヌーピーは自分の飛行機を詰め込み、対戦相手として親戚のスパイクを連れて行き、審判として小さな黄色い鳥ウッドストックも同行します。\n\nさあ、スヌーピーは1人または2人のプレイヤーで競うためのカスタムオリンピックに挑む準備が整いました。以下の「イベント」に参加します：\nサックレース：スヌーピーとスパイクが競争用のジャガイモ袋に入ってレースをします。\nブーツ投げ：ハンマー投げのようですが、古いブーツを使います。\nポゴ：ポゴスティックに乗って障害物を飛び越えます。\nオーバーボード：スヌーピーとスパイクが「ボートの王様」をプレイし、お互いを水に落とそうとします。\nピザの山：ピザをバランスを取りながらゴールに向かって歩きます。\nリバージャンプ：ポールを川に突き刺して川を越えます。\n\nこのゲームの日本版はスヌーピーのライセンスではなく、ドナルドダックのライセンスを使用しているため、上記のキャラクター名が多く変更されていますが、ゲームプレイは同じです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Donald%20Duck%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Donald%20Duck%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Donald%20Duck%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

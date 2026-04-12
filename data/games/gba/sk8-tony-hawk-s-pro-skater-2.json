@@ -1,0 +1,65 @@
+{
+  "id": "sk8-tony-hawk-s-pro-skater-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SK8 - Tony Hawk's Pro Skater 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SK8 TONY HAWK’S PRO SKATER2",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SK8 - Tony Hawk's Pro Skater 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATHJ",
+      "size": 8388608,
+      "crc32": "91f93500",
+      "md5": "e43c13764af931ec97e828eb15e2bc04",
+      "sha1": "1b90fb68a7fb15b5efa6bed5080639229c77977a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "トニー・ホークのスケートボードシリーズが、ゲームボーイアドバンスに登場します。これは第二作目のプロスケーターゲームのアダプテーションです。\n\nゲームプレイはオリジナルのコンソールゲームに似ています。レベルはコンソール版から二次元アイソメトリック視点に合わせて調整されており、1つのレベルはオリジナルのトニー・ホークのプロスケーターから取られています。\n\nキャリアモードでは、13人のプロスケーターの中から1人を選び、各レベルでアイテムを集めたり、特別なトリックを決めたり、トリックやコンボを決めてハイスコアを更新するなどのさまざまな目標を達成します。目標を達成することでお金を獲得し、新しいレベルをアンロックしたり、新しいボードやトリック、スケーターのステータスをアップグレードするために使うことができます。競技レベルでは、お金のために滑るのではなく、メダルを競います。\n\nフリースケートとシングルセッションモードでは、アンロックされたレベルを練習し、新しいハイスコアを樹立することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SK8%20-%20Tony%20Hawk%27s%20Pro%20Skater%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SK8%20-%20Tony%20Hawk%27s%20Pro%20Skater%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SK8%20-%20Tony%20Hawk%27s%20Pro%20Skater%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

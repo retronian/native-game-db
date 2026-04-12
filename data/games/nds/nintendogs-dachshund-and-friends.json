@@ -1,0 +1,51 @@
+{
+  "id": "nintendogs-dachshund-and-friends",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nintendogs - Dachshund & Friends",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ニンテンドッグス ダックス＆フレンズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nintendogs - Dachshund & Friends (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ADGE",
+      "size": 33554432,
+      "crc32": "370d3376",
+      "md5": "eda7d2a26b7418f4ec582e6a95dbb7ac",
+      "sha1": "6aa00c3bab4a0d8dcd38d3701b21b71f8a24d9cb"
+    },
+    {
+      "name": "Nintendogs - Dachshund & Friends (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ADGP",
+      "size": 67108864,
+      "crc32": "8e7faa00",
+      "md5": "c7577bb20662210570e66f62f0cb605f",
+      "sha1": "7f1b61a0328a514d1ba08e7d0c3c9ae71b96f604",
+      "sha256": "db076e8c9bca3dcaa5a28ab9955317327f32a2c1ba0a8f9b61c385e004913204"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47710
+  }
+}

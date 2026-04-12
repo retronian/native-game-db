@@ -1,0 +1,66 @@
+{
+  "id": "royal-blood",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Royal Blood",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロイヤルブラッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Royal Blood (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-76063-10",
+      "size": 1048576,
+      "crc32": "0e0107f1",
+      "md5": "69f4c1571e21499007fecf4de5d741e3",
+      "sha1": "914f684f085927257020ffaa1ca536ec057e1603",
+      "sha256": "ffdfa9ecb94ebb868aa0488fed5299e2dcf52d09b1e99d96c5914f22b84fadb4"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "コーエーはこのゲームで魔法のファンタジー世界に足を踏み入れました。\n\n六人の魔法使いは、それぞれ魔法の宝石に閉じ込められており、暴君イシュメリアの王エセルレッドの娘、ロビン姫によって王冠のジェムファイアから解放されます。彼らは島国を逃げ回り、エセルレッドを倒しイシュメリアに平和をもたらすため、最も偉大な貴族家から自らのチャンピオンとなる指導者を選びます。\n\nプレイヤーはこれらの貴族の中から一人を選び、戦争と外交を駆使して全ての州を自らの旗の下に統一することを目指します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Royal%20Blood%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Royal%20Blood%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Royal%20Blood%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

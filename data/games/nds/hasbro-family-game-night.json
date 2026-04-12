@@ -1,0 +1,76 @@
+{
+  "id": "hasbro-family-game-night",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hasbro Family Game Night",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "하스브로 패밀리 게임 나이트",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hasbro Family Game Night (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BHGP",
+      "size": 33554432,
+      "crc32": "f10d73f7",
+      "md5": "2eb8da27f52ec8ebe59f39f334a848bc",
+      "sha1": "2ca25a60b4d2833c2c34197ec52fcc779a8d5377"
+    },
+    {
+      "name": "Hasbro Family Game Night (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BHGE",
+      "size": 33554432,
+      "crc32": "1e81171a",
+      "md5": "2f2b61829730f33f955d921b3dbcca5f",
+      "sha1": "dcc71cceff45ac682f7f74a576d6a021a768d04b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4908
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hasbro%20Family%20Game%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hasbro%20Family%20Game%20Night%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hasbro%20Family%20Game%20Night%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hasbro%20Family%20Game%20Night%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

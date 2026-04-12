@@ -1,0 +1,58 @@
+{
+  "id": "sd-hiryuu-no-ken-densetsu",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Hiryuu no Ken Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD飛龍の拳伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Hiryuu no Ken Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NDCJ",
+      "size": 12582912,
+      "crc32": "cc083e34",
+      "md5": "637a7ea2a39f20c5b20834187230d89d",
+      "sha1": "79cfb5a29b2cbd4f35966f209385b389233cf8cf",
+      "sha256": "9f499647daa608266637d3a06446311a7fa9b23132df8d28eda613cc41d5a7b1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/SD%20Hiryuu%20no%20Ken%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/SD%20Hiryuu%20no%20Ken%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/SD%20Hiryuu%20no%20Ken%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

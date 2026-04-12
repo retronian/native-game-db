@@ -1,0 +1,127 @@
+{
+  "id": "world-class-rugby",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "World Class Rugby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドクラスラグビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ワールドクラス ラグビー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "World Class Rugby (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "d73d6c80",
+      "md5": "7c06413e99c43b0eeb10201c8f10b80c",
+      "sha1": "ccdb5ed88bc7fcaef9722229bb1bcfbdf0e4161f",
+      "sha256": "a4dfb151cf0b05eac684367616d53785b44772a571bae260e8c3b018a20bd757"
+    },
+    {
+      "name": "World Class Rugby (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "3bb679d9",
+      "md5": "16c7ed944a13cd0c4767a4b46103889d",
+      "sha1": "d4754759d3688119d2c959878a70e22de15f1538",
+      "sha256": "df3b793d37a9169c0d7768866e566a283af804b58c5a6e7a02880e293feb0db2"
+    },
+    {
+      "name": "World Class Rugby (Europe) (Beta) (1992-07-11)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "!none",
+      "size": 524288,
+      "crc32": "7e5db156",
+      "md5": "8dc1d214b792db9396fa9449b9b3c46a",
+      "sha1": "96214ad2e89298ba2685deab8f880ff1a578f195",
+      "sha256": "c6798afc75cad956791b8ef070c4c61ed6cf31e1c42d50dd9b00c984f4ff7752"
+    },
+    {
+      "name": "World Class Rugby (Japan) (En) (Beta) (1992-12-08)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "!none",
+      "size": 524288,
+      "crc32": "d49d0e10",
+      "md5": "37b9e3c28d29721bccc2c77b91354b5d",
+      "sha1": "faa1328dceacb68f692c55c9e1651ae29b774d43",
+      "sha256": "c4f6ad1854852a0b326535c7536afec8c5b6c9a8e3fd561de3650d9167a2494a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37253
+  },
+  "descriptions": [
+    {
+      "text": "16のトップチームがワールドカップを目指して競い合います。これは、ゲームの最高峰と対戦するあなたのスキルを試す究極のテストです。3D視点、サウンドエフェクト、そして雰囲気が、アクションの真髄へとあなたを引き込みます。ピッチの上で、スクラムでの激闘、ウィンガーへのタックル、ラインアウトでのボール争奪、トライを決めたときの勝利の感覚を体験します。シングルゲーム、ワールドカップ、リーグモードがあり、3人から8人のチームでプレイ可能です。1人または2人のプレイヤーオプションもあります。チーム名、選手名、スキル、身体的属性を変更するオプションも用意されています。即時アクションリプレイ機能も搭載。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Class%20Rugby%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/World%20Class%20Rugby%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/World%20Class%20Rugby%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/World%20Class%20Rugby%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/World%20Class%20Rugby%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/World%20Class%20Rugby%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

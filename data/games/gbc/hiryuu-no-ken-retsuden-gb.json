@@ -1,0 +1,67 @@
+{
+  "id": "hiryuu-no-ken-retsuden-gb",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hiryuu no Ken - Retsuden GB",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "飛龍の拳列伝GB",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hiryuu no Ken - Retsuden GB (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "bdae91e8",
+      "md5": "5165faa424c006a72ccacdd62bf61726",
+      "sha1": "75db7acdfa206e539c385b928da07c6b0c776308"
+    }
+  ],
+  "external_ids": {
+    "igdb": 186591
+  },
+  "descriptions": [
+    {
+      "text": "「飛龍の拳列伝GB」は、NES版「飛龍の拳 III」の続編です。リュウフェイは、過去に封印された大魔神の復活を阻止するために活躍します。ストーリーを進めながら様々なファイターと戦う「アクションモード」や、7人の中からお気に入りのファイターを選んで戦う「1対1モード」など、3つのモードを楽しむことができます。このシリーズには、相手の弱点や自分の防御位置を示す印を使用する「シンガンマーク」システムも搭載されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hiryuu%20no%20Ken%20-%20Retsuden%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hiryuu%20no%20Ken%20-%20Retsuden%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hiryuu%20no%20Ken%20-%20Retsuden%20GB%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

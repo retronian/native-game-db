@@ -1,0 +1,65 @@
+{
+  "id": "super-donkey-kong-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Donkey Kong 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパードンキーコング2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Donkey Kong 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B2DJ",
+      "size": 8388608,
+      "crc32": "27a1cc75",
+      "md5": "ec9fdbf2ec32b7d5af4fbebe9aa60a56",
+      "sha1": "cd2a45c2af945d5861684060f087db44024dfe59"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ドンキーコングシリーズ」がゲームボーイアドバンスに帰ってきました。今作ではディキシー・コングが登場します。彼女とディディー・コングは力を合わせて、悪のカプテン・ケー・ルールからドンキーコングを救出しなければなりません。あなたはディディーとディキシーの両方を操作し、それぞれの異なる攻撃をマスターします。ディディーズ・ダッシュでスキルを試し、時間内にクリアを目指すか、友達と競い合って誰が一番速いかを見てみましょう。ゲームはソロプレイでも楽しめますし、ファンキーのフライトやバグを捕まえろなどの新しいボーナスゲームで友達に挑戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-07-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Donkey%20Kong%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Donkey%20Kong%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Donkey%20Kong%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

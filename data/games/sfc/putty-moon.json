@@ -1,0 +1,65 @@
+{
+  "id": "putty-moon",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Putty Moon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パティームーン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Putty Moon (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "adfc4165",
+      "md5": "9fcb6fd1ac113c5038626b0dd20be0c6",
+      "sha1": "87ae4bd4e7c9322aeedc77e3323283d2e6ad5bc2",
+      "sha256": "903812d9c5e6afa409bbce90a92931f899986e2c717421c2e961344446e9a90d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「パティームーン」は、主人公が…パティーの塊であるプラットフォームゲームです。彼は、魔法使いダズルデイズとその助手ドゥイーズル・ザ・キャットによってパティームーンから追放されました。あなたの仕事は、彼の特別な能力を活かして、プラットフォームのレベルを進みながら救出や破壊を行うことです。\n\n移動する際、パティーは自然なバウンスを持ち、彼の目はゆるく取り付けられており、落下した後に体の動きに合わせて動きます（視覚効果として）。彼は多くの動きを持っており、プラットフォーム間の大きな隙間を渡るために自分を伸ばしたり（上下に移動したり）、長距離のパンチを繰り出したり、爆発して（スマートボムのように、画面上の敵を一掃します）、床に水たまりのように平らになって（彼の上を歩くものを吸収します）行動することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-07-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Putty%20Moon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Putty%20Moon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Putty%20Moon%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

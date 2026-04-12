@@ -1,0 +1,65 @@
+{
+  "id": "zen-nihon-pro-wres",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zen-Nihon Pro Wres",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全日本プロレス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zen-Nihon Pro Wres (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "e00fdc09",
+      "md5": "aa9f1998ddbdeaf0ffb2385d88ba17b6",
+      "sha1": "625831887786bf7ccf9b07285b5a167244eb4697",
+      "sha256": "f467125f8d3fa84396f606ea6dd66bdfebf2752e0abe3ef47342a0c3d4eb1756"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "全日本プロレスは、全日本プロレスリーグを基にしたレスリングゲームで、当時の最も有名なスターたちの姿が特徴です。\n\nこのジャンルのクラシックに基づいたテンプレートに従い、プレイヤーは16人のレスリングスターのいずれかを選び、リングに投げ出されて相手を叩きのめすまで戦います。各キャラクターに特有の複数の技で相手を攻撃し、他のレスラーに近づくことで「ロックオン」し、グラップルや投げ技を実行することができます。\n\nゲームは高いカメラアングルからの2Dグラフィックスを使用しており、シングルプレイヤーのチャンピオンシップやトーナメントモード（シングルまたはタッグバリエーションあり）、2人対戦、チームバトル、ゲームの基本を学べるトレーニングなど、多彩なゲームモードが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-07-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Zen-Nihon%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Zen-Nihon%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Zen-Nihon%20Pro%20Wres%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "moomin-dani-no-okurimono",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Moomin-dani no Okurimono",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Moomin-dani no Okurimono (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YW6J",
+      "size": 33554432,
+      "crc32": "af32cde0",
+      "md5": "5971508fb2ca81e9da39661f85178fde",
+      "sha1": "74579fdf347f4d4beb12526260c43b018cd090dc"
+    },
+    {
+      "name": "Moomin-dani no Okurimono (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YW6J",
+      "size": 33554432,
+      "crc32": "bbcbe350",
+      "md5": "ac74e78c46c47aee7a60c2ed39d18f42",
+      "sha1": "83319a84ad27f6c38049788247e30f9918667de7",
+      "sha256": "c8bbc5aaaf1f6fb53e5d9d506e05104c974a680baa0b23546deef82a35c2af19"
+    }
+  ],
+  "external_ids": {
+    "igdb": 97404
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Moomin-dani%20no%20Okurimono%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Moomin-dani%20no%20Okurimono%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

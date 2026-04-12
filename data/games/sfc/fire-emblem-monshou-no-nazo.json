@@ -1,0 +1,105 @@
+{
+  "id": "fire-emblem-monshou-no-nazo",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fire Emblem - Monshou no Nazo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイアーエムブレム 紋章の謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファイアーエムブレム Fire Emblem 紋章の謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fire Emblem - Monshou no Nazo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "25d214f4",
+      "md5": "2d674a5b82f7691cdb27702031d0f960",
+      "sha1": "3ee8cbe6638da64f1d91df9b81b1478498a5999f",
+      "sha256": "23e45b26dc5a73d88173c5cb7fa7fae682eab6e55d657a71b3b366dc95d603ca"
+    },
+    {
+      "name": "Fire Emblem - Monshou no Nazo (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "a427b7e6",
+      "md5": "0cb432dd9d5c1afa5048334b110fddc0",
+      "sha1": "b0b03831d9104e3c5df551d50ebc275a1692149e",
+      "sha256": "ccd5d8e3415d08ee949297d78adc05d68ec945c6cc1ff195f1975a47095a3f18"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1435
+  },
+  "descriptions": [
+    {
+      "text": "初代NES/Famicom版「ファイアーエムブレム」のリメイクおよび拡張作品である本作では、マルスがハーディンの裏切りと、かつて討ち果たしたと思っていた古の敵、ドラゴンキング・メデウスに立ち向かいます。\n\nゲームの第1部は、初代NES版のリメイクに相当します。第2部では同じキャラクターたちが引き続き物語を進めます。\n\n本作はシリーズを拡張しますが、「ファイアーエムブレム 外伝」で導入された探索可能な町やワールドマップの移動は省かれています。新機能として、騎乗ユニットが馬やペガサスから降りることができ、必要に応じて屋内で戦うことが可能になりました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fire%20Emblem%20-%20Monshou%20no%20Nazo%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

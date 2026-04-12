@@ -1,0 +1,48 @@
+{
+  "id": "mission-runway",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mission Runway",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mission Runway (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YNLE",
+      "size": 67108864,
+      "crc32": "901a62e1",
+      "md5": "739453c2531d98205e8cf1591f5cc790",
+      "sha1": "218350130c533b98cf25450a5dfa3d88c201d671"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mission%20Runway%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mission%20Runway%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mission%20Runway%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "xdr-x-dazedly-ray",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "XDR - X-Dazedly-Ray",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エックス ディー アール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "XDR",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "XDR - X-Dazedly-Ray (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-41013-00",
+      "size": 524288,
+      "crc32": "ab22d002",
+      "md5": "1d37d9209251feb175ffcf129eaa0131",
+      "sha1": "5c700cd69964645f80a852d308d0f0de22d88f83",
+      "sha256": "0c5b7fc963cd6fdb63e1ee59c4c17ba93c1e6e841c2a243872cfe5067534c714"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "エックス ディー アールは、グラディウスのスタイルを踏襲した横スクロールシューティングゲームで、武器のアップグレードが可能です。ゲームは曖昧なサイエンスフィクションのテーマを持ち、各ステージの最後にはボスが待ち受ける全六つのステージが用意されています。難易度は三つの設定から選べます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/XDR%20-%20X-Dazedly-Ray%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/XDR%20-%20X-Dazedly-Ray%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/XDR%20-%20X-Dazedly-Ray%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

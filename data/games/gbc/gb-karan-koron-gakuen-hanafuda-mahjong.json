@@ -1,0 +1,56 @@
+{
+  "id": "gb-karan-koron-gakuen-hanafuda-mahjong",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "GB Karan Koron Gakuen - Hanafuda Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "GB 華蘭虎龍学園 花札・麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "aaba1ea4",
+      "md5": "3513f4dbf6d283121c6a070f3b92f9df",
+      "sha1": "8e84f233279c543799663bd7c62b4f2fb84e5dff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/GB%20Karan%20Koron%20Gakuen%20-%20Hanafuda%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/GB%20Karan%20Koron%20Gakuen%20-%20Hanafuda%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/GB%20Karan%20Koron%20Gakuen%20-%20Hanafuda%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "nobunaga-no-yabou-ds-2",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nobunaga no Yabou DS 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "信長の野望 DS 2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nobunaga no Yabou DS 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CN2J",
+      "size": 67108864,
+      "crc32": "72c536ba",
+      "md5": "1f0b6ea4af487bdb8a56ba9468bf13b0",
+      "sha1": "bc8bbb91a8be0935a89bfb50ede9dab386bf8e4d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59379
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nobunaga%20no%20Yabou%20DS%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Nobunaga%20no%20Yabou%20DS%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nobunaga%20no%20Yabou%20DS%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

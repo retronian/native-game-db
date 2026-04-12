@@ -1,0 +1,79 @@
+{
+  "id": "stadium-games",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Stadium Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Stadium Games (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A9GP",
+      "size": 4194304,
+      "crc32": "db146cc3",
+      "md5": "9a8a6131e217cb00b270648ee1697a55",
+      "sha1": "7b95503131390683e179cd7740de244b9b3a9d6d"
+    },
+    {
+      "name": "Stadium Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A9GE",
+      "size": 4194304,
+      "crc32": "4bf6e9e8",
+      "md5": "47e02ac1a4cc0d5f7441426469015dd7",
+      "sha1": "71cb60817329ae94023fb1dcd5e70d379a4d3344"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49384
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Stadium%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Stadium%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Stadium%20Games%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Stadium%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Stadium%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Stadium%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

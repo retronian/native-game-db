@@ -1,0 +1,45 @@
+{
+  "id": "family-fortunes",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Fortunes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Fortunes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFTP",
+      "size": 16777216,
+      "crc32": "94b04903",
+      "md5": "ecbbab9b12fda43f937307425a65f296",
+      "sha1": "6f326618f014fdb564d4a466c4ba9831478af222"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67561
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Family%20Fortunes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Family%20Fortunes%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

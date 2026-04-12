@@ -1,0 +1,95 @@
+{
+  "id": "r-type-dx",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "R-Type DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "R-TYPE DX",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "R-Type DX (Japan) (En) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3623ebb6",
+      "md5": "f0568c53b8ec915dda258955a531f37b",
+      "sha1": "73c6b524136ef7e5318f526561b99dd0488cf36e"
+    },
+    {
+      "name": "R-Type DX (USA, Europe) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "fc1d4089",
+      "md5": "dae7b7625d41d8a06266b09924154bb2",
+      "sha1": "e6a5c632b616e520b10b8b7589207c87c0092047",
+      "sha256": "3d20b3fef48771f0d3ea2cdcf80812b02122a0a04dee0e8c8ae8e3e027f36741"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49829
+  },
+  "descriptions": [
+    {
+      "text": "ワールドガバメントはあなたの助けを必要としています。深宇宙探査機がバイド帝国の地球攻撃計画を暴露しました。全面的な攻撃部隊は帝国の長距離スキャナーに検知されてしまい、奇襲の可能性は失われてしまいます。私たちの唯一のチャンスは、孤独なパイロットが単機のRタイプファイターでバイドの防衛システムを突破し、攻撃を開始する前に邪悪な帝国を壊滅させることです。ファイアチェーン、スーパーレーザー、バブルビームで敵を撃ち抜きながら、バイドの防御を切り裂いてください。ゲームボーイカラーシステムで、2つの脈拍を高める連射モードで戦いを激化させましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/R-Type%20DX%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/R-Type%20DX%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/R-Type%20DX%20%28Japan%29%20%28En%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/R-Type%20DX%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/R-Type%20DX%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/R-Type%20DX%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

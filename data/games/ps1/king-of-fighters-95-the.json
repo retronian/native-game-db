@@ -1,0 +1,67 @@
+{
+  "id": "king-of-fighters-95-the",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "King of Fighters '95, The",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ザ・キング・オブ・ファイターズ'95",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "King of Fighters '95, The (Asia)",
+      "source": "no_intro",
+      "size": 87964032,
+      "crc32": "08fadbba",
+      "md5": "48aad1ad2145622c5c9ba3552b1b034b",
+      "sha1": "9101104001dedc7b4d9e7b116a53bf8bfcfd60fc"
+    },
+    {
+      "name": "King of Fighters '95, The (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 87988928,
+      "crc32": "4173808d",
+      "md5": "f5c0e7972d44c5690ef48815f387d91d",
+      "sha1": "0714f7efdb3aeee1ffae66c0d5711611193e4f59"
+    }
+  ],
+  "external_ids": {
+    "igdb": 15427
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/King%20of%20Fighters%20%2795%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/King%20of%20Fighters%20%2795%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/King%20of%20Fighters%20%2795%2C%20The%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "classic-nes-series-ice-climber",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Classic NES Series - Ice Climber",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Classic NES Series - Ice Climber (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "FICE",
+      "size": 1048576,
+      "crc32": "b265538d",
+      "md5": "bc62fa1f6a3f1421c802aba76f1f4732",
+      "sha1": "64e965d61b2d1be5dfadb0236fed83fea5995724",
+      "sha256": "2f68937c830fe1928a16f18e86927fcd1b40419c8b0f5a9d2917dc2a6191a4e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Classic%20NES%20Series%20-%20Ice%20Climber%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Classic%20NES%20Series%20-%20Ice%20Climber%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Classic%20NES%20Series%20-%20Ice%20Climber%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

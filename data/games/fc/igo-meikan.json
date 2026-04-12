@@ -1,0 +1,61 @@
+{
+  "id": "igo-meikan",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Igo Meikan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "囲碁名鑑",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Igo Meikan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "26994cdc",
+      "md5": "7772c9462caa6f10feae0de53ee2af25",
+      "sha1": "7667c4a07835cb04b33bd1d4c61098164bee265d",
+      "sha256": "f937d7d03f3aa4e7e88cb1b3198320102d13efd19c3f8ad1182d6c17b5df298a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 138706
+  },
+  "first_release_date": "1990-01-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Igo%20Meikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Igo%20Meikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Igo%20Meikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

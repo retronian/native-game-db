@@ -1,0 +1,78 @@
+{
+  "id": "xevious-the-avenger",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Xevious - The Avenger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Xevious",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "ゼビウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Xevious - The Avenger (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 40976,
+      "crc32": "bc12e525",
+      "md5": "018528396222bd6ab9d3ef35ecd6ca6d",
+      "sha1": "f2d2b32dc2d37db045ff3bf52a7318827e01a505",
+      "sha256": "46941d63cbe5d7038050f54d8527ce90f09e702effdc6f41d95dc9496930c749"
+    },
+    {
+      "name": "Xevious - The Avenger (World) (Evercade)",
+      "source": "no_intro",
+      "size": 40976,
+      "crc32": "a410aac1",
+      "md5": "1c402cd4d0e80cf7837e306250f005d8",
+      "sha1": "075c6d6f947abca2e1c14251f45d9d1e06913e9c",
+      "sha256": "863bbff77975b15d87a47dc4d43d03663eb5b5bb368c165049e27ce6dec2a849"
+    }
+  ],
+  "external_ids": {
+    "igdb": 288845
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Xevious%20-%20The%20Avenger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Xevious%20-%20The%20Avenger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Xevious%20-%20The%20Avenger%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

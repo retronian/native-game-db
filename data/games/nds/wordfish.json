@@ -1,0 +1,48 @@
+{
+  "id": "wordfish",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wordfish",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wordfish (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CYCE",
+      "size": 33554432,
+      "crc32": "c4fc1965",
+      "md5": "c3be994496f76230c4afae9433518ad6",
+      "sha1": "c7dd073b888de002f2942a4d40a17a2a064e925b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Wordfish%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Wordfish%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Wordfish%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

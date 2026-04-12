@@ -1,0 +1,79 @@
+{
+  "id": "simcity-creator",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SimCity - Creator",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "SimCity - Creator (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YC2E",
+      "size": 67108864,
+      "crc32": "0282b031",
+      "md5": "26b7d300f1cc4619c739d538a325d5f3",
+      "sha1": "2a594bc6286ecb0967c8bd8f53955d681b5697c1"
+    },
+    {
+      "name": "SimCity - Creator (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YC2P",
+      "size": 67108864,
+      "crc32": "5a9d9b5e",
+      "md5": "fec02e6ff37589793554a4a3cb9fc1d0",
+      "sha1": "cd50fc866f9b192a4816a49a852a40562bce2590",
+      "sha256": "7c567e572738dc9dc521a99dcbe54c6c616c34192e027ae8108205db9366a924"
+    },
+    {
+      "name": "SimCity - Creator (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "YC2K",
+      "size": 67108864,
+      "crc32": "ae8c472b",
+      "md5": "f4b2911e9b391a8ddc2c26be406dee10",
+      "sha1": "7af255b6fe903b372b1ae5f22151ed58e286a7fd",
+      "sha256": "ce403cadae9ada81eee8414b1615356234545a2c9d6f62596c78430d2d846cdd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 343813
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimCity%20-%20Creator%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimCity%20-%20Creator%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/SimCity%20-%20Creator%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/SimCity%20-%20Creator%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

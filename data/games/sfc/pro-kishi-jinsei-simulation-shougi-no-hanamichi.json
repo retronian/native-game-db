@@ -1,0 +1,58 @@
+{
+  "id": "pro-kishi-jinsei-simulation-shougi-no-hanamichi",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Kishi Jinsei Simulation - Shougi no Hanamichi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロ棋士人生シミュレーション 将棋の花道",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Kishi Jinsei Simulation - Shougi no Hanamichi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d10439d4",
+      "md5": "98d6266e21725bd13ac16d4b63e891ec",
+      "sha1": "21b2741f3f6967cb28ee2b8f4a02822fb48bc82f",
+      "sha256": "3c7f80a5d1173b858109c92d3ac36f1c578d95124a7077995f985b83eba14cb4"
+    }
+  ],
+  "first_release_date": "1996-02-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Kishi%20Jinsei%20Simulation%20-%20Shougi%20no%20Hanamichi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Kishi%20Jinsei%20Simulation%20-%20Shougi%20no%20Hanamichi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Kishi%20Jinsei%20Simulation%20-%20Shougi%20no%20Hanamichi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

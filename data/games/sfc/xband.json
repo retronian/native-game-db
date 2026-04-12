@@ -1,0 +1,92 @@
+{
+  "id": "xband",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "XBAND",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "XBAND エックスバンド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "XBAND (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "42d47034",
+      "md5": "4e725a5fa1f005f6ce71da0a0c7e0d4d",
+      "sha1": "0ea7c97f82debaef88f27c446a45de784efb145f",
+      "sha256": "cb804a832aa25aac23ceaee24b1c21c26948de2ae0c3407809c83aa8fb921017"
+    },
+    {
+      "name": "XBAND (USA) (v1.0.1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "a8b868a0",
+      "md5": "580b6f738cd9d3cfea514b20c4cbb440",
+      "sha1": "3f56b109a05097f09fd8859205ea635453d1cb45",
+      "sha256": "6bf730cc8c70d086fd09e34209e079ff817f04b90e4da6742b77d751aa1ff3d9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーファミコン用のオンラインサービスソフトです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/XBAND%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/XBAND%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/XBAND%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/XBAND%20%28USA%29%20%28v1.0.1%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/XBAND%20%28USA%29%20%28v1.0.1%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/XBAND%20%28USA%29%20%28v1.0.1%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

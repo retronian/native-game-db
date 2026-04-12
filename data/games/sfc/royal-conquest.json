@@ -1,0 +1,65 @@
+{
+  "id": "royal-conquest",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Royal Conquest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロイヤルコンクエスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Royal Conquest (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f60e933e",
+      "md5": "94dede46202711aeaf1408631193ee3d",
+      "sha1": "eadc7a5e84d57b3092814e339801bc086a63a976",
+      "sha256": "d833f326c648c82c49cb8ffc44105dc507664f663e096fb12e58c768c1f6db7d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これは2D横スクロール戦略ゲームです。あなたはアーサー王の役割を担い、悪に立ち向かうために軍を率いて戦います。暗黒の騎士、冥界のオーク、雲の巨人との戦いを含む多くの世界を旅します。スーパーファミコンマウスに対応した数少ないゲームの一つです。\n\n各レベルで一定数の部隊が与えられます。パスワードを使用してレベル間の進行状況を保存します。レベルには阻止すべき敵、避けるべき罠、獲得すべき金が存在します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Royal%20Conquest%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Royal%20Conquest%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Royal%20Conquest%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

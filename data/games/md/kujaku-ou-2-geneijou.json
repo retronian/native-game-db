@@ -1,0 +1,75 @@
+{
+  "id": "kujaku-ou-2-geneijou",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kujaku Ou 2 - Geneijou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "孔雀王2 幻影城",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "孔雀王2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kujaku Ou 2 - Geneijou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004017-00",
+      "size": 393216,
+      "crc32": "affd56bc",
+      "md5": "1a42a8226c2581ec4948505c3eef9879",
+      "sha1": "d48ed88269b4ea4c62a85f8607658f9ce566590c",
+      "sha256": "1a916692356ce7e4a06ea099a422f4d077558eb341b3f7e8039f27529c118d9f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ミスティックディフェンダー（日本語タイトル「孔雀王2 幻影城」に基づく）は、横スクロールのプラットフォームゲームです。これは、セガマスターシステム用の「スペルキャスター」の続編です。しかし、この続編ではRPG要素が省かれ、横スクロールのプラットフォームゲームプレイに重点が置かれています。\n\nこのゲームでは、ジョー・ヤマタ（孔雀）を操作し、悪党ザオからアレクサンドラを救うための冒険に挑みます。ザオは彼女の魂を使って、アズチ城で彼の主人ザレスを復活させようとしています。攻撃には4種類の魔法を使用でき、魔法の弾をチャージしたり、ゲーム中に魔法の種類を変更したりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Kujaku%20Ou%202%20-%20Geneijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Kujaku%20Ou%202%20-%20Geneijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Kujaku%20Ou%202%20-%20Geneijou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "final-fantasy-origins",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Fantasy Origins",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ファイナルファンタジーI・II プレミアムパッケージ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Final Fantasy I+II Premium Package",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Fantasy Origins (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 124051504,
+      "crc32": "e416fd79",
+      "md5": "8f242f82b07334e57cc2c1c2a9a51c94",
+      "sha1": "e8be47146dc3bc93296fe1625d8573b31936e2b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 417
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Final%20Fantasy%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Final%20Fantasy%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Final%20Fantasy%20Origins%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

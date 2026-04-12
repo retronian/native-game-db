@@ -1,0 +1,124 @@
+{
+  "id": "fire-emblem-rekka-no-ken",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fire Emblem - Rekka no Ken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイアーエムブレム - 烈火の剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファイアーエムブレム 烈火の剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fire Emblem - Rekka no Ken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AE7J",
+      "size": 16777216,
+      "crc32": "f0c10e72",
+      "md5": "9485f273f4e97e9e8f21966407f2e782",
+      "sha1": "037702b1febd5c9535262165bf030551d153de81",
+      "sha256": "7ec691a7411864ab51765028156c5b8a3c23a317d23c95fbf07ac201212e25c0"
+    },
+    {
+      "name": "Fire Emblem - Rekka no Ken (Japan) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFEJ",
+      "size": 16777216,
+      "crc32": "b40d6854",
+      "md5": "d9449bc62cc7cfffe5ca75de8beb27f4",
+      "sha1": "a408d29a9b80829a0864f531e04213f585192ced"
+    },
+    {
+      "name": "Fire Emblem - Rekka no Ken (Japan) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AFEJ",
+      "size": 16777216,
+      "crc32": "8146a270",
+      "md5": "7fee20a09c485433f51a97bfb468446c",
+      "sha1": "3b987bd15a3958901f38686c54a6250ab3398703"
+    },
+    {
+      "name": "Fire Emblem - Rekka no Ken (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AE7J",
+      "size": 16777216,
+      "crc32": "0ba2fd1f",
+      "md5": "dc3829497236a88a3595561440230354",
+      "sha1": "c03d67769a893ef2207fd9b6baf6e9e2d9290702",
+      "sha256": "381cfbd28cb2dc96c67f1b75ccbc8ea41c2b703c3fe8507d54b4401bf5c2c51b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "数世代の平和の後、燻る対立が世界を戦火で包み込もうとしています！ 戦の鼓動が響き、貴族たちは裏切りを企み、味方が敵に変わり、リキアが戦争の準備を整える中、影のような存在が帝国を自らの目的のために操っています。今、リン、エリウッド、ヘクトルは、故郷を滅ぼそうとする勢力に立ち向かうための強力な軍を集めなければなりません。戦術を駆使して、世界を灰にする前にその火種を消し止めましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-04-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Fire%20Emblem%20-%20Rekka%20no%20Ken%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

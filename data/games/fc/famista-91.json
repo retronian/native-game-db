@@ -1,0 +1,68 @@
+{
+  "id": "famista-91",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista '91",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ'91",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista '91 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "3c6e9923",
+      "md5": "46d221c7f552e074b0e09db522f841a7",
+      "sha1": "e854a24b280f83f4efec27408269c47675a80574",
+      "sha256": "cc90d70a9f9a378f6bc32e26ae47beff454a551e0e412d6f70c73a2cd059b859"
+    }
+  ],
+  "external_ids": {
+    "igdb": 218388
+  },
+  "descriptions": [
+    {
+      "text": "「ファミスタ'91」：ナムコ社が手掛けた最も一般的で標準的な野球シミュレーターで、1989年から1993年にかけて日本市場向けにファミコン専用で発売された6作品からなる同名シリーズの一部です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famista%20%2791%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famista%20%2791%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famista%20%2791%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

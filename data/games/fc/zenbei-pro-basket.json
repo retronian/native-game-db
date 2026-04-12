@@ -1,0 +1,57 @@
+{
+  "id": "zenbei-pro-basket",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zenbei Pro Basket",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "全米プロバスケット",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zenbei Pro Basket (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f3c6d400",
+      "md5": "fd3fd72a9dd55bf7e1b3738f1e17394c",
+      "sha1": "80414d9ddcd02404568fab998b7e69d2183e295a",
+      "sha256": "8572b722467e1f414550d24761bcf2a566e4a472dc2e439d62a61ba4e7733d1b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zenbei%20Pro%20Basket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zenbei%20Pro%20Basket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zenbei%20Pro%20Basket%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

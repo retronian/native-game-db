@@ -1,0 +1,89 @@
+{
+  "id": "pro-yakyuu-nettou-puzzle-stadium",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Yakyuu Nettou - Puzzle Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロ野球熱闘 パズルスタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プロ野球熱闘ぱずるスタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "プロ野球熱闘 ぱずるスタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Yakyuu Nettou - Puzzle Stadium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "81c8eb4f",
+      "md5": "8b646e75c3a49326435da52e769274b7",
+      "sha1": "9227f9c6e900b5f08eb14fc20cf9bd442522e599",
+      "sha256": "dbba3a1b813727b5a937e7ccbbbfb419caa6dfb5d7353abf0255d54dfa86deb3"
+    },
+    {
+      "name": "Pro Yakyuu Nettou - Puzzle Stadium (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "5ead3a51",
+      "md5": "cb9f42e6c125cd97ddee3306db899524",
+      "sha1": "98911baab01344577403394e7e484ad7fa047f09",
+      "sha256": "97ffc8294c1c6ab4dbd0c9f3fc65e3660ef52509d15e4e6903c57fb8bbd1723d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37873
+  },
+  "first_release_date": "1997-04-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Yakyuu%20Nettou%20-%20Puzzle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Yakyuu%20Nettou%20-%20Puzzle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Yakyuu%20Nettou%20-%20Puzzle%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

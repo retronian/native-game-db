@@ -1,0 +1,77 @@
+{
+  "id": "kickboxing",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kickboxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Simple 1500 シリーズ Vol.64 The キックボクシング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Kickboxing Knockout",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Simple 1500 Series Vol. 64: The Kickboxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kickboxing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 86445664,
+      "crc32": "d49e132f",
+      "md5": "ae6003d7b1c80a3af18f372aaa4180ee",
+      "sha1": "e1f90a2ee64b74f6631217769724283742817f7d",
+      "sha256": "56fd32914621416114d532b9e7dafa138dc3802b79fd1fbe537d1b3166d3aaea"
+    }
+  ],
+  "external_ids": {
+    "igdb": 76729
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Kickboxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Kickboxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Kickboxing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

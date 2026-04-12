@@ -1,0 +1,68 @@
+{
+  "id": "naxat-open",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Naxat Open",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナグザットオープン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Naxat Open (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "60ecae22",
+      "md5": "c1555a2d2ac2f92730630d4860cd0745",
+      "sha1": "65eb861b8f63a131ad9de611ae5f432b02c1a283",
+      "sha256": "a24ac72b99bbd347ac65c6ae2eb1c51bb16255f3a2954a6fc0f15c02b7b1d6d5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37707
+  },
+  "descriptions": [
+    {
+      "text": "Naxatのゴルフゲームへの初めての挑戦は、フル18ホールのコースと多くのトッププロの対戦相手を特徴としています。プレイを開始する前にクラブを選択し、ゲームは各ショットに最適だと感じるクラブを自動的に選びます。各ショットの前には、コースの上空からの映像やグリーンのクローズアップとその起伏を確認できます。ゲームのコースは上空からの視点で複数の方向にスクロールし、バンカー、木、水障害などが配置されています。ショットを打つ際には三回押しのコントロールシステムが使用され、グリーンに到達すると二回クリックに切り替わります（ドローやフェードは関係なくなります）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-05-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Naxat%20Open%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Naxat%20Open%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Naxat%20Open%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

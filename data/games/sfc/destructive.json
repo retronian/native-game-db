@@ -1,0 +1,74 @@
+{
+  "id": "destructive",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Destructive",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デストラクティブ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパースコープ デストラクティブ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Destructive (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "21b47e62",
+      "md5": "dad772810b232ccf10053cb24e13d850",
+      "sha1": "6ad488b27eea331cd3b710c708aa6ecb285c0d4f",
+      "sha256": "d029878c6f1a69e2c600db092461d20e2b6cf6a7e5846a9a58186b2f0e420f6f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "サイロンコーポレーションのロボット、XT7サイボーグコマンドファイティングマシンが制御を失い、都市を脅かしています。市民は危険にさらされており、彼らを止める唯一の方法は、破壊することです。\n\nバズーカブリッツクリーグは、スーパースコープライトガンを使用した一人称シューティングゲームです。プレイヤーはゲームをブリッツクリーグモードまたはブートキャンプ（各レベルのトレーニング）で開始します。ゲームが始まると、画面はゆっくりと左から右に移動します。プレイヤーは異なるロボットに向かって武器を発射し、彼らを破壊します。スコープの発射は通常の「マシンガン」射撃に加え、より強力なチャージショットもあります。全体で3つのレベルがあり、各レベルの最後には破壊しなければならないボスがいます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-08-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Destructive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Destructive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Destructive%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

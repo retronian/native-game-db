@@ -1,0 +1,65 @@
+{
+  "id": "zelda-no-densetsu-1-the-hyrule-fantasy",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zelda no Densetsu 1 - The Hyrule Fantasy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゼルダの伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "746e32ae",
+      "md5": "4e18c72436b5e284ddbd2989c8c8a52d",
+      "sha1": "d37328fc55f2e84b6c2d8208c94281c7c2c08f98",
+      "sha256": "94524acec59350a0581c151c04c64c3897cfd8025ba33333b0e14d2e4602e29b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ハイラル王国の最も暗い時代の一つで、リンクという名の若い尖った耳の少年が、断片化された知恵のトライフォースを復元し、悪の権力欲に取り憑かれたガノンからゼルダ姫を救うための壮大な冒険に挑みます。\n\n「ゼルダの伝説」は、人気の任天堂シリーズの最初のアクションアドベンチャータイトルです。プレイヤーは、オーバーワールドのさまざまな森、墓地、平原、砂漠を進みながら、壊れたトライフォースを組み立てるために8つのダンジョンの秘密の入り口を探さなければなりません。すべてのピースが揃うと、リンクはガノンの住処であり、ゼルダ姫の囚われの地であるデス・マウンテンに入ることができるようになります。\n\nこのゲームはトップダウン視点で描かれており、当時革新的だったいくつかの要素で知られています：自由に探索できる完全な世界、キャラクターの能力を永続的に強化するパワーアップ、進行状況を保持できるバッテリーバックアップセーブ機能などです。ゲームプレイは、頻繁なアクションシーケンスと発見、秘密、探索のバランスが取れています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

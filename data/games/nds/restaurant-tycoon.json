@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-tycoon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Restaurant Tycoon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Restaurant Tycoon (Europe) (En,Fr,De,Es,It,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTYP",
+      "size": 16777216,
+      "crc32": "62d2f259",
+      "md5": "530fb736f05421297b0d2ec9a2f80a41",
+      "sha1": "268e93b87913ba23a8870824d58cd793fcc225a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Restaurant%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Restaurant%20Tycoon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

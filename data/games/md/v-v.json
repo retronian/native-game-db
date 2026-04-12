@@ -1,0 +1,63 @@
+{
+  "id": "v-v",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "V-V",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヴイ ファイヴ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "V-V (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-48173-00",
+      "size": 1048576,
+      "crc32": "ad9d0ec0",
+      "md5": "af4bdc10f0eda16eda979d1353faa04b",
+      "sha1": "ca344521cb5015d142bdbce0eb44cea050b8e86b",
+      "sha256": "fa19bcc59ddbbfb4e592bdbbacfc0ff171857ca99351f55d423ee0bbc1d8331d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "グラインドストーマー / ヴイ ファイヴは、敵と弾幕が満載の高速縦スクロールシューティングゲームです。グラインドストーマーではパワーアップが即座に発動し、船は速いですが、ヴイ ファイヴではトークンを使ってグラディウススタイルのシステムでアップグレードを選択し、計画的にパワーアップを行う必要がある遅めの船となっています。難易度やライフを調整でき、コンティニュー後には4人のウィングマンを伴った特別なパワーアップを受け取ります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/V-V%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/V-V%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/V-V%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

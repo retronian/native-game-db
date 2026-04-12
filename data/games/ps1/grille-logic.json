@@ -1,0 +1,59 @@
+{
+  "id": "grille-logic",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Grille Logic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グリルロジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Grille Logic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 56511904,
+      "crc32": "0ffb7292",
+      "md5": "013a027ad38e3126d1c459ade6863700",
+      "sha1": "ece530b2295a3986367b8fd9ed1d31b0ea3d1c1c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 286580
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Grille%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Grille%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Grille%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

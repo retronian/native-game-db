@@ -1,0 +1,66 @@
+{
+  "id": "vegas-connection-casino-kara-ai-o-komete",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Vegas Connection - Casino kara Ai o Komete",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ベガスコネクション カジノから愛をこめて",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ベガスコネクション カジノより愛をこめて",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Vegas Connection - Casino kara Ai o Komete (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "18712834",
+      "md5": "c5b9588bf1d1914274644ef1e857421a",
+      "sha1": "a6cc86bcf8e1d7c024e0b93e9decd6875fbb66c9",
+      "sha256": "c030660ea7313b8b79d070f8c1cfb6df802d3309d79741f697a290fccea62c9c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Vegas%20Connection%20-%20Casino%20kara%20Ai%20o%20Komete%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Vegas%20Connection%20-%20Casino%20kara%20Ai%20o%20Komete%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Vegas%20Connection%20-%20Casino%20kara%20Ai%20o%20Komete%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "finger-flashing",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Finger Flashing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ふぃんがぁ ふらっしんぐ",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Finger Flashing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 17957040,
+      "crc32": "2fb04c17",
+      "md5": "48e427ef6b0698cc93b1ce15fb031e2c",
+      "sha1": "c15671a5385b5b5e778cb332c1895ab5b3a7c926"
+    }
+  ],
+  "external_ids": {
+    "igdb": 69870
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Finger%20Flashing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Finger%20Flashing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Finger%20Flashing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

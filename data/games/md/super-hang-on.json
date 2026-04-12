@@ -1,0 +1,112 @@
+{
+  "id": "super-hang-on",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Hang-On",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スーパーハングオン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Hang-On (Japan, USA) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004011-00",
+      "size": 524288,
+      "crc32": "cb2201a3",
+      "md5": "ff59ca57c4f2a6987042d4f53b5a20a4",
+      "sha1": "ecfd7b3bf4dcbee472ddf2f9cdbe968a05b814e0",
+      "sha256": "9a89a5ad222faf7a1a68f6ad60202f425e359107dd9541e3fcee639652fd1e2d"
+    },
+    {
+      "name": "Super Hang-On (Europe) (En,Ja) (Rev A)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "00004011-01",
+      "size": 524288,
+      "crc32": "3877d107",
+      "md5": "9b5d500a7ce1de56fba9c554bbf9a0b2",
+      "sha1": "e58a8e6c472a34d9ecf3b450137df8a63ec9c791",
+      "sha256": "005979c700e59409817dc042d31aa2f169bfe0f00ba802315cc55938e09b0169"
+    },
+    {
+      "name": "Super Hang-On (USA) (En,Ja) (Sega Smash Pack 2)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00004011-00",
+      "size": 524288,
+      "crc32": "7e892199",
+      "md5": "461c88b8dfde1469b8a5fee18d18a05b",
+      "sha1": "25250cd1c8b96ce9b41b4133243646bcdbdce083",
+      "sha256": "e4fdddf19df6cc68c96f81bb28268dd87e6818ddcaf271e618022ab588f634ef"
+    },
+    {
+      "name": "Super Hang-On (Japan, USA) (En,Ja) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00004011-00",
+      "size": 524288,
+      "crc32": "b6eae5c4",
+      "md5": "8128e0c411b702a907ff29a33d28b6a5",
+      "sha1": "9ec0f37f4bf15797466377bd073cfe50c3afcda3",
+      "sha256": "1b04861e04d6601faaa22a410e8b6f03d15a524529f8c1bb96565ca95dd3193c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6145
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Hang-On%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Hang-On%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Hang-On%20%28Japan%2C%20USA%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Super%20Hang-On%20%28Europe%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Super%20Hang-On%20%28Europe%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Super%20Hang-On%20%28Europe%29%20%28En%2CJa%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

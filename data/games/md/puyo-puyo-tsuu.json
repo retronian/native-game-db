@@ -1,0 +1,106 @@
+{
+  "id": "puyo-puyo-tsuu",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puyo Puyo Tsuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぷよぷよ通",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puyo Puyo Tsuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-66013-00",
+      "size": 2097152,
+      "crc32": "51ad7797",
+      "md5": "2aff4f06a67067aa2fa2bd5b2425594a",
+      "sha1": "b9fd6e14f446a16927b54de0234bcd981a86488f",
+      "sha256": "497bdb3357e6d6d560eee0bcd095cd9985b5f0bc553b136ee09f634f5ee2de4e"
+    },
+    {
+      "name": "Puyo Puyo Tsuu (Japan) (Rev A)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-66013-01",
+      "size": 2097152,
+      "crc32": "25b7b2aa",
+      "md5": "92c7414e216a3c63c50125349f67ddee",
+      "sha1": "d9c0edaadf66f215565a9dd4178313581fec811c",
+      "sha256": "00800108cea1052e5cb53f630d787191582073774141f7ca0f3a1b3a1058fdd0"
+    },
+    {
+      "name": "Puyo Puyo Tsuu (Japan) (Rev A) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-66013-01",
+      "size": 2097152,
+      "crc32": "eb6e1894",
+      "md5": "c277f181cb129d1c0f1ce741170b9bc4",
+      "sha1": "8bec632c90bf4ccee1d43f1cdd3bba963187ca5d",
+      "sha256": "78169afb25ab25867da32f1d740d7a8662da939553d5cc7e7601ac1b4b7edb20"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同じ色のブロックを4つ以上組み合わせて消すことが目的の落下ブロックゲームです。残ったブロックは下に落ち、コンボを生み出すことで、敵のフィールドに特別なブロック（隣接するブロックを消さないと破壊できない）を出現させることができます。\n\nこのゲームには、アーリィ（主人公）がコンピューターの敵と戦うストーリーモード、対戦プレイヤーモード、4人プレイヤーモード（SNES専用）、そしてエンドレスモード（SNES専用）が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Puyo%20Puyo%20Tsuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Puyo%20Puyo%20Tsuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Puyo%20Puyo%20Tsuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Puyo%20Puyo%20Tsuu%20%28Japan%29%20%28Rev%20A%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

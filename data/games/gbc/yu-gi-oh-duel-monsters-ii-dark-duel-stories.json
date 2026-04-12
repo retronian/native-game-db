@@ -1,0 +1,86 @@
+{
+  "id": "yu-gi-oh-duel-monsters-ii-dark-duel-stories",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "遊☆戯☆王デュエルモンスターズII 闇界決闘記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "遊戯王デュエルモンスターズＩＩ 闇界決闘記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AYKJ",
+      "size": 4194304,
+      "crc32": "ba7182c3",
+      "md5": "782b88b1bf9768a2b1b139177a0c1c33",
+      "sha1": "6a96c30c1f9ecc207f962ec156f6d22a652ae41d",
+      "sha256": "415d2c1008bb25ab4c11e5218266195232ac544b979e1234ddb8ca5b04b6ead7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56978
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーがカードで戦うゲームで、漫画「遊☆戯☆王」で人気があります。ゲームの遊び方は3つあり、「キャンペーン」ではペガサス・J・クロフォードを倒すことが目的です。「対戦」では友達と戦い、「トレード」ではカードを交換します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Yu-Gi-Oh%21%20Duel%20Monsters%20II%20-%20Dark%20Duel%20Stories%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Yu-Gi-Oh%21%20Duel%20Monsters%20II%20-%20Dark%20Duel%20Stories%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Yu-Gi-Oh%21%20Duel%20Monsters%20II%20-%20Dark%20Duel%20Stories%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

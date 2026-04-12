@@ -1,0 +1,59 @@
+{
+  "id": "looney-tunes-twouble",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Looney Tunes - Twouble!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Sylvester and Tweety: Breakfast on the Run",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "698d7be4",
+      "md5": "1d31fa1e431ec840e5f769fdd019405f",
+      "sha1": "f08bd36a0933ac56eeed2dd235d476d3b80a1f50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49996
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Looney%20Tunes%20-%20Twouble%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Looney%20Tunes%20-%20Twouble%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Looney%20Tunes%20-%20Twouble%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

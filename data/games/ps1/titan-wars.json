@@ -10,7 +10,7 @@
       "region": "jp",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Titan Wars",
@@ -19,7 +19,7 @@
       "region": "us",
       "form": "official",
       "source": "wikidata",
-      "verified": false
+      "verified": true
     },
     {
       "text": "Solar Eclipse",
@@ -52,6 +52,24 @@
   "first_release_date": "1996-04-19",
   "external_ids": {
     "wikidata": "Q7809781",
-    "mobygames": 8415
-  }
+    "mobygames": 8415,
+    "igdb": 9266
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Titan%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Titan%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Titan%20Wars%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
 }

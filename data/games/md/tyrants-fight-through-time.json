@@ -1,0 +1,75 @@
+{
+  "id": "tyrants-fight-through-time",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tyrants - Fight Through Time",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "メガロマニア 時空大戦略",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Mega lo Mania",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "MegaLoMania: Jikuu Daisenryaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tyrants - Fight Through Time (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70056-00",
+      "size": 1048576,
+      "crc32": "a744921e",
+      "md5": "b090d74241cd56820b568c319799412b",
+      "sha1": "99ae974fccebfbf6f5a4738e953ad55181144a99",
+      "sha256": "d2e20631f3353fcd6a9d2521e9e753546741e7aeeec76ec48114978ad01c9051"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12183
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20lo%20Mania%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

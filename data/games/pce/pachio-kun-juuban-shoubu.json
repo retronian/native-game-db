@@ -1,0 +1,77 @@
+{
+  "id": "pachio-kun-juuban-shoubu",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pachio-kun - Juuban Shoubu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パチ夫くん 十番勝負",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "パチ夫くん十番勝負",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pachio-kun - Juuban Shoubu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4148fd7c",
+      "md5": "10ded52993405fc37690214ca615008a",
+      "sha1": "67749fc1c067c16000223fd3b7555fd85c9f9ebd",
+      "sha256": "9130c74b45bc7b4b795625499092918908422e560263ec80c92e930c5350461d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46501
+  },
+  "descriptions": [
+    {
+      "text": "パチオくん：十番勝負は、一連のパチンコゲームを通じて展開されるロールプレイングアドベンチャーです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Pachio-kun%20-%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Pachio-kun%20-%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Pachio-kun%20-%20Juuban%20Shoubu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

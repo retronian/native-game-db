@@ -1,0 +1,48 @@
+{
+  "id": "bomberman-story",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bomberman Story",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bomberman Story (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ABSJ",
+      "size": 4194304,
+      "crc32": "f7f40189",
+      "md5": "34bc4830fdd1cff2e33b8ac7fd3a6cbe",
+      "sha1": "ba093c5ef2c2bb57d0f6f6735e82c536c7e9ec45"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Bomberman%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Bomberman%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Bomberman%20Story%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

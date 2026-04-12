@@ -1,0 +1,68 @@
+{
+  "id": "get-in-the-hole",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Get in the Hole",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゲットインザホール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Get in the Hole (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "7f0d601d",
+      "md5": "4919fd87326ead4ea059a8323c17d26a",
+      "sha1": "9f7572de6abbf8348c5e2421ef79d9c8fe006683",
+      "sha256": "db337a2e8cf6de653d092ba3489cabc658f91c63ec8a9db4e1866400aadf913f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59188
+  },
+  "descriptions": [
+    {
+      "text": "このユニットは「レーザーバーディ」または「ラザバーディ」としても知られています。これはスーパーファミコン用のインタラクティブなゴルフシミュレーションセットアップです。日本では3,500台のみの限定とされています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Get%20in%20the%20Hole%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Get%20in%20the%20Hole%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Get%20in%20the%20Hole%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

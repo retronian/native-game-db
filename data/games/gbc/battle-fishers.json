@@ -1,0 +1,64 @@
+{
+  "id": "battle-fishers",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle Fishers",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルフィッシャーズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle Fishers (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "c99cf3c5",
+      "md5": "2376c643827d665e9883ffd1b5ac5b37",
+      "sha1": "25d063b151c2d45a14d6952196490615b7e341c5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームの目的は、釣り大会で校長を倒して学校を卒業することです。ライバルとの釣り対決を行い、さまざまなイベントをクリアしてルアーを集めましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Battle%20Fishers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Battle%20Fishers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Battle%20Fishers%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

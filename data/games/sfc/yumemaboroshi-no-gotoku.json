@@ -1,0 +1,65 @@
+{
+  "id": "yumemaboroshi-no-gotoku",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yumemaboroshi no Gotoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "夢幻の如く",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yumemaboroshi no Gotoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "8f44fff9",
+      "md5": "0c7569c7858ab033a5120c47ea134ddb",
+      "sha1": "679aa3bdeedb9f68ecb8ab944bda817742d82688",
+      "sha256": "d8c6ba72d3d732992cd6261a8a6eee0e186d6498121874bc25b6d392d0401241"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "夢幻の如くは、戦国時代の日本を舞台にしたRPGです。ゲームプレイは標準的なJRPGと同様で、ファンタジースターやドラゴンクエストのように、画面中央に大きな敵スプライトを表示するターン制システムを採用しています。\n\nこのゲームは、インテックがスーパーファミコン向けに発売した二つのゲームのうちの一つです。彼らは通常、ターボCD/PCE-CDシステムでの開発を行っていました。このゲームは英語にローカライズされることもなく、日本国外では発売されませんでした。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yumemaboroshi%20no%20Gotoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yumemaboroshi%20no%20Gotoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yumemaboroshi%20no%20Gotoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

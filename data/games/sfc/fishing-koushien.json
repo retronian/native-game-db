@@ -1,0 +1,60 @@
+{
+  "id": "fishing-koushien",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fishing Koushien",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フィッシング甲子園",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fishing Koushien (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "dcfe0b6b",
+      "md5": "43b714dd30b5bc6a6aabf1991ad36835",
+      "sha1": "66b3aeb382187fb05dddc12e808412e5c9a3b7b3",
+      "sha256": "28855ffaf74be5ed1b9a6124c6d04dd9122db9080d0dbb3e40a15a099686be60"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42243
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Fishing%20Koushien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Fishing%20Koushien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Fishing%20Koushien%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

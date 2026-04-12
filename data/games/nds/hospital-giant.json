@@ -1,0 +1,45 @@
+{
+  "id": "hospital-giant",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hospital Giant",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hospital Giant (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCJP",
+      "size": 67108864,
+      "crc32": "3426d70c",
+      "md5": "26dae99953c693eed56645da39768468",
+      "sha1": "f38289e4281766d30121da390fb63bc58b082c00"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209887
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hospital%20Giant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hospital%20Giant%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

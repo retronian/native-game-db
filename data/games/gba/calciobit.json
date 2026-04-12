@@ -1,0 +1,60 @@
+{
+  "id": "calciobit",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Calciobit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "カルチヨビット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Calciobit (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BIXJ",
+      "size": 8388608,
+      "crc32": "498443da",
+      "md5": "5c1230403a28121a7235d3cda810e96a",
+      "sha1": "df835357ee70fc0b6c6eb606d9ff1dcc97eba9d3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49522
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Calciobit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Calciobit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Calciobit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

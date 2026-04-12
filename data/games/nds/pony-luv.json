@@ -1,0 +1,61 @@
+{
+  "id": "pony-luv",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pony Luv",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pony Luv (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YRQE",
+      "size": 33554432,
+      "crc32": "7cc20f7b",
+      "md5": "765774b1c05ae1e97cfd7d867a014370",
+      "sha1": "0bcab3fc4d7b0365343177e6d59e5cfc32aa9de5"
+    },
+    {
+      "name": "Pony Luv (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YRQP",
+      "size": 33554432,
+      "crc32": "76484147",
+      "md5": "6ba482dc8bc153216d85ecd6fa165525",
+      "sha1": "904cfcc6e8f0d976f8fd66ce2e17f7ab6397c41f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 72968
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pony%20Luv%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pony%20Luv%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pony%20Luv%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

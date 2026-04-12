@@ -1,0 +1,68 @@
+{
+  "id": "front-mission-1st",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Front Mission 1st",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "フロントミッション ザ・ファースト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Front Mission: The First",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Front Mission 1st (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 48652896,
+      "crc32": "d537c252",
+      "md5": "341025bf469db063e43ab7a2090adbc9",
+      "sha1": "87dead67d54225b551c84a8c6d4fc4043d1b444d",
+      "sha256": "246fc5ba39e6e08b8aaceb1aab2b16d92109fe136c9921fffc2271dfbab3782a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21541
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Front%20Mission%201st%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Front%20Mission%201st%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Front%20Mission%201st%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

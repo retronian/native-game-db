@@ -1,0 +1,42 @@
+{
+  "id": "vip-news",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "VIP News",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "VIP News (Europe) (En,De) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "VVNP",
+      "size": 33554432,
+      "crc32": "15e3067e",
+      "md5": "48d442acf3086a49b46e41e582483a4a",
+      "sha1": "12ec7202b29caa2154b144e1f7703cae4a791b8b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/VIP%20News%20%28Europe%29%20%28En%2CDe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/VIP%20News%20%28Europe%29%20%28En%2CDe%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "advance-gt2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Advance GT2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アドバンスGT2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Advance GT2 (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A2GJ",
+      "size": 8388608,
+      "crc32": "edcb7d46",
+      "md5": "b1ca40e6e5815da256890ecaab1b5d73",
+      "sha1": "c3988cda910f181ad989d3e157f4ebdc405ecda3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "世界最高のラリーカーのハンドルを握り、チャンピオンシップを目指して地球を駆け巡ろう。ナビゲーターの指示に耳を傾けながら、14の過酷なステージにわたる40以上のユニークなトラックを走破しよう。ジャンプを飛び越えたり、障害物をスリップしながら、ラリーレースサーキットの頂点を目指せ。GBAリンクケーブルを使って友達と接続し、素晴らしい対戦を楽しむことができるほか、リプレイモードでアクションを再度観賞することも可能だ。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Advance%20GT2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Advance%20GT2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Advance%20GT2%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

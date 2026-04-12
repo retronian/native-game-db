@@ -1,0 +1,80 @@
+{
+  "id": "micro-machines-64-turbo",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Micro Machines 64 Turbo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NV3P",
+      "size": 12582912,
+      "crc32": "10b9ff1f",
+      "md5": "9a8465e302263d635557a14aa197fe3c",
+      "sha1": "e5e2d6169af2663e5519795b28bec018934e86ee",
+      "sha256": "591ace6eb8ab7c8328a16de545b3baa38230fe31f4c388c88acc94996785feb6"
+    },
+    {
+      "name": "Micro Machines 64 Turbo (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NV3E",
+      "size": 12582912,
+      "crc32": "a62a2763",
+      "md5": "74eb415e16c333b252847a8e09432fd9",
+      "sha1": "9672fa010a06adf01074c9720ee46031f5d9e101"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8497
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Micro%20Machines%2064%20Turbo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Micro%20Machines%2064%20Turbo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Micro%20Machines%2064%20Turbo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Micro%20Machines%2064%20Turbo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Micro%20Machines%2064%20Turbo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Micro%20Machines%2064%20Turbo%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

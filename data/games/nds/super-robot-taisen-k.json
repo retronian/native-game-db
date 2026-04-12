@@ -1,0 +1,54 @@
+{
+  "id": "super-robot-taisen-k",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen K",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦 K",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen K (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YSDJ",
+      "size": 67108864,
+      "crc32": "5510236d",
+      "md5": "3a911c289be077cbc90fd3c4b0e4ef3a",
+      "sha1": "675a40dda8affeffcf502b385cf3d5b2e44a75bd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79340
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Robot%20Taisen%20K%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Robot%20Taisen%20K%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

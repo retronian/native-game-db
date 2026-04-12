@@ -1,0 +1,66 @@
+{
+  "id": "bastard-ankoku-no-hakaishin",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bastard!! - Ankoku no Hakaishin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "BASTARD!! 暗黒の破壊神",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "バスタード 暗黒の破壊神",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bastard!! - Ankoku no Hakaishin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "6742d51c",
+      "md5": "2d11339b1a2dd1fe166ab1aaac8aad7d",
+      "sha1": "5512a076116639e36e1bfde38ca86b126ca0d867",
+      "sha256": "2ffd09329c2c94413b4d456bfbb54b3bf9b24de30e980a94680cd24ebd823dad"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bastard%21%21%20-%20Ankoku%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bastard%21%21%20-%20Ankoku%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bastard%21%21%20-%20Ankoku%20no%20Hakaishin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

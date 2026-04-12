@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-to-kenja-no-ishi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Harry Potter to Kenja no Ishi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハリー・ポッターと賢者の石",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Harry Potter to Kenja no Ishi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "2da2686a",
+      "md5": "34d61c282c372f97b55f8dae1ef94fb7",
+      "sha1": "a4fb5a1f3cdebd989617a1964ada8df4ab491e36"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ゲームボーイカラー用の最初のハリー・ポッターゲームでは、ハリーのホグワーツ魔法魔術学校での初年度の物語が、伝統的なロールプレイングゲームの形式で語られます。\n\nプレイヤーはハリーとして、クエストを達成し、モンスターと戦い、経験値とレベルを獲得しながら、書籍や映画のストーリーを進めていきます。\n\n戦闘はターン制で、ハリーはさまざまなクリーチャーや敵に対して多様な呪文を使用することができます。さらに、「有名な魔女と魔法使いコレクターズカード」のカードの組み合わせを使用することで、強力な魔法効果を生み出すことができます。これらのカードは自由に探索できるホグワーツの至る所で見つけることができます。スタミナと魔法ポイントを回復するポーションは、ハリー自身が見つけたり、購入したり、適切な材料を使って調合することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Harry%20Potter%20to%20Kenja%20no%20Ishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Harry%20Potter%20to%20Kenja%20no%20Ishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Harry%20Potter%20to%20Kenja%20no%20Ishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

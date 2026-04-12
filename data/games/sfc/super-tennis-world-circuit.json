@@ -1,0 +1,65 @@
+{
+  "id": "super-tennis-world-circuit",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Tennis - World Circuit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーテニス ワールドサーキット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Tennis - World Circuit (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "57bf1d3e",
+      "md5": "626860305219bb5b9b94b6d9f9980922",
+      "sha1": "b6a079bc2e968bad25bdfb8a1ea8f30302767b07",
+      "sha256": "20aa452eed66319ceb25fce32930acdf5540de241a14313066691a39d48dfe0d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "テニスのワールドサーキットがあなたを待っています。20人の男性および女性プレイヤーから選び、それぞれのプレイスタイル（強みと弱み）に応じてシングルスやダブルスを、人間の対戦相手やCPU制御のプレイヤーと対戦し、全ての主要なサーフェス（クレー、グラス、ハードコート）でプレイしましょう。\n\nサーキットモードはゲームの本質です。ここでは、パスワードセーブシステムを使用して、世界中のさまざまなトーナメントに参加します。プレイして勝利するほど、より多くのポイントを獲得できます。これらのポイントは、ワールドツアーランキングでのあなたの順位に反映されます。実際の大会と同様に、4つの主要トーナメントと多くのマイナートーナメントがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Tennis%20-%20World%20Circuit%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Tennis%20-%20World%20Circuit%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Tennis%20-%20World%20Circuit%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

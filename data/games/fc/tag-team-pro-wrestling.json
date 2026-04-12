@@ -1,0 +1,99 @@
+{
+  "id": "tag-team-pro-wrestling",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tag Team Pro-Wrestling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タッグチームプロレスリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "タッグチーム プロレスリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tag Team Pro-Wrestling (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "513fcf6d",
+      "md5": "c88b966e5dbc29d50804e43685a91db6",
+      "sha1": "5fd48cde590453d96eafd06771d776b2c7dfa8e3",
+      "sha256": "03c7c9d54c25c26e9696f028747ae4cf2f6d4b2773e5ea992e2e534d408347f8"
+    },
+    {
+      "name": "Tag Team Pro-Wrestling (Brazil) (En) (Unl)",
+      "source": "no_intro",
+      "region": "br",
+      "size": 40976,
+      "crc32": "d3b6d933",
+      "md5": "b0c684cc7731b1a39763f5ed83ba0a24",
+      "sha1": "c00b00e2003976b604d551a365e6cdb2eaaf0f1c",
+      "sha256": "0875be56282daf2954f442e5186d39c1c46ed3bf5122eac23dfb3364b6d65865"
+    },
+    {
+      "name": "Tag Team Pro-Wrestling (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 40976,
+      "crc32": "b5574790",
+      "md5": "fc52e51b3cb53bdba5f611202c126ae3",
+      "sha1": "3e4bdb777ece71dab59662f90e25c12217167109",
+      "sha256": "2bbb3b8d284c0fff2019a5de51cdfe56cfd7917853dfe2fd0136990f64d461bc"
+    }
+  ],
+  "first_release_date": "1986-04-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tag%20Team%20Pro-Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tag%20Team%20Pro-Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tag%20Team%20Pro-Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tag%20Team%20Pro-Wrestling%20%28Brazil%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tag%20Team%20Pro-Wrestling%20%28Brazil%29%20%28En%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "br"
+    }
+  ]
+}

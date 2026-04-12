@@ -1,0 +1,87 @@
+{
+  "id": "power-monger",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Monger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "パワーモンガー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Monger (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106103-00",
+      "size": 1048576,
+      "crc32": "553289b3",
+      "md5": "4096d4e55de03b6999e1663a91b89b74",
+      "sha1": "f0a48f25d87f7a6d17ff76f5e29ea7be2d430ce4",
+      "sha256": "0c1515781a08f22debf9f2c8eee9a177fddfe075907f867d053a26dbc282f701"
+    },
+    {
+      "name": "Power Monger (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50426-00",
+      "size": 1048576,
+      "crc32": "fb599b86",
+      "md5": "72db40c6dd4046e02fa068ccce6f21b1",
+      "sha1": "f088e8cdb90c037b4ce1c5ae600a75f4e4219c87",
+      "sha256": "ca348fe616579f7fe186637b2a5df94d69e7ecd7f19a0b3dcf5ae984a217e4dd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Power%20Monger%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Power%20Monger%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Power%20Monger%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Power%20Monger%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Power%20Monger%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Power%20Monger%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

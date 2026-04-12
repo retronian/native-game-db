@@ -1,0 +1,73 @@
+{
+  "id": "wizardry-ii-llylgamyn-no-isan",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry II - Llylgamyn no Isan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィII リルガミンの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "組曲ウィザードリィ II リルガミンの遺産",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "dd727f1a",
+      "md5": "8d0a97cc2c5235656e722b0fb9627504",
+      "sha1": "2ebfcf6de50f1dea2b96730967b2351e5aa58be9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50047
+  },
+  "descriptions": [
+    {
+      "text": "ウィザードリィII リルガミンの遺産は、ASCIIエンタテインメントが発表したロールプレイングゲームで、2001年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wizardry%20II%20-%20Llylgamyn%20no%20Isan%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

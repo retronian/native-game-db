@@ -1,0 +1,65 @@
+{
+  "id": "petz-catz-clan",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Petz - Catz Clan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Petz: My Kitten Family",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Petz - Catz Clan (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CATE",
+      "size": 33554432,
+      "crc32": "b2e9c75e",
+      "md5": "56b51d6adc2a19cb8f7a95a4eb9063e6",
+      "sha1": "2d8e75c824f7a576ef987098bca13af032b85e3e"
+    },
+    {
+      "name": "Petz - Catz Clan (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CATE",
+      "size": 33554432,
+      "crc32": "01e7266d",
+      "md5": "be4b1bdb775125313a170f539aa982bb",
+      "sha1": "93e5bdec2b4c6a37cda13b3686d9080e7f9c0483",
+      "sha256": "3d2f5d2935b8f2d9848bc7fc73e2666a4349bc25f76c1b6effc134549d428755"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92104
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Petz%20-%20Catz%20Clan%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Petz%20-%20Catz%20Clan%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

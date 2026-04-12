@@ -1,0 +1,77 @@
+{
+  "id": "pro-tennis-world-court",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Tennis - World Court",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロテニス ワールド コート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プロテニス ワールドコート",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Tennis - World Court (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "11a36745",
+      "md5": "fb0e0ca7bdf2b7d8beed1d8c8a2af749",
+      "sha1": "1330fe108135e63acf8ff8938b38ca7b2b5f6af0",
+      "sha256": "e3143a2e1641d8f490847ebd2824314c28757ffefb6ae73277f8f3b53ad5f5e7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44320
+  },
+  "descriptions": [
+    {
+      "text": "ワールドコートテニスはひねりのあるテニスゲームです。ゲームの内容自体には大きな驚きはありませんが、プレイヤーはキャラクターを操作してスクロールするテニスコート上で相手のボールに対抗します。クロスショットやスマッシュ、ロブなどの典型的なテニスアクションを行うことができ、ヒットのパフォーマンスはタイミングに依存します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Pro%20Tennis%20-%20World%20Court%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Pro%20Tennis%20-%20World%20Court%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Pro%20Tennis%20-%20World%20Court%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

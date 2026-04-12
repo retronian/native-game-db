@@ -1,0 +1,42 @@
+{
+  "id": "junior-classic-books",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Junior Classic Books",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Junior Classic Books (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BBQP",
+      "size": 8388608,
+      "crc32": "c6a956da",
+      "md5": "4b4534c7f19c73c95e9dcf3418050692",
+      "sha1": "79c532442d72a18a87f88ae1319b63b9d583327d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Classic%20Books%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Classic%20Books%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "super-loopz",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Loopz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーループス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Loopz (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "49601821",
+      "md5": "3f8a4c4ac29a36a47b2c2cd8c5388a1c",
+      "sha1": "26ea349aefa5926dc94b493284ece8052a86b7a8",
+      "sha256": "36c143b6c9305c916e0f177dd3ca1faf10fc65f7d6b637a8cead90defb2a48ad"
+    },
+    {
+      "name": "Super Loopz (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "323a2a3d",
+      "md5": "a1f3a46b20c084f1dc688aabd3d605bf",
+      "sha1": "0f951e9ef6f98b3054c7a8fb1cf36b37f67e5687",
+      "sha256": "ea3291e067419c901bdb2227bc9080a2876638a623cead727ef685b4c2121129"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42357
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Loopz%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

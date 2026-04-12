@@ -1,0 +1,68 @@
+{
+  "id": "honoo-no-toukyuuji-dodge-danpei",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honoo no Toukyuuji - Dodge Danpei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "炎の闘球児ドッジ弾平",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b01ee703",
+      "md5": "c257e411cda69c988095166ba5223e4b",
+      "sha1": "76f8a7bb0c4854576a38a0b87fa923625ce1bc3e",
+      "sha256": "a68ba1a92f485de8a4f92a54016e8724b374e2875e0da3e1764590f8654f33ce"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42053
+  },
+  "descriptions": [
+    {
+      "text": "アニメスタイルのシーンが満載のドッジボールゲームで、RPGスタイルのストーリーモードもあります。同名のマンガを基にしています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Honoo%20no%20Toukyuuji%20-%20Dodge%20Danpei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

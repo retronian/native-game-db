@@ -1,0 +1,66 @@
+{
+  "id": "super-donkey-kong-3",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Donkey Kong 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパードンキーコング3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Donkey Kong 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BDQJ",
+      "size": 16777216,
+      "crc32": "4dcf6e20",
+      "md5": "69ce1adb9a8be5c49ca2044c97fa24cb",
+      "sha1": "4657c3070bd7ad8ce89f0491fc0f19a4f14ada88",
+      "sha256": "411d1cff539c188feb252da560499df0f342d959c3bc0ff0e56ff7b6d683268a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドンキーコングアイランドに再び訪れ、コングファミリーの最新の冒険に参加しよう。クレムリングたちはKAOSという謎の新リーダーのもと、いつものいたずらを繰り広げており、ドンキーコングとディディーコングを捕まえてしまった。今、ディクシーコングと新たなコングである巨大な赤ちゃんキディが、行方不明の二匹の猿を救うために立ち上がる。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Super%20Donkey%20Kong%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Super%20Donkey%20Kong%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Super%20Donkey%20Kong%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

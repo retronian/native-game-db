@@ -1,0 +1,71 @@
+{
+  "id": "p-47-the-freedom-fighter",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "P-47 - The Freedom Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "P-47 ザ・フリーダム・ファイター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "P-47",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "P-47 - The Freedom Fighter (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "7632db90",
+      "md5": "bfed2ef7677886467236dc92e09d63c3",
+      "sha1": "54face25e1bdd6c1b842b957bcce272797ba7f1c",
+      "sha256": "1c89c74bedf025b122c7a0b26351605b65f0c5de863addd67a09fa2a02b2d541"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "P-47は第二次世界大戦で使用された最も頑丈な飛行機の一つであり、この横スクロールのシューティングゲームでは、あなたがその操縦を担当し、ナチスの大群に立ち向かいます。16ビット版では、同時に2人でプレイできるモードがあり、難易度を最大4倍まで上げてゲームをクリアすることも可能です。\n\n最初は機関銃で武装していますが、適切な文字を拾うことで爆弾やミサイル、複数ミサイルを手に入れることもできます。各武器は同じタイプのトークンをさらに拾うことでアップグレード可能です。また、追加のライフやスピードアップを提供するトークンも用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-03-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/P-47%20-%20The%20Freedom%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/P-47%20-%20The%20Freedom%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/P-47%20-%20The%20Freedom%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "after-burner-ii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "After Burner II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アフターバーナー II",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "アフターバーナーII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "After Burner II (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "ca72a828",
+      "md5": "ac0cdee014e725e428fde5774751ff8d",
+      "sha1": "50b9d22fe5179aee5cb95022472714ef8483841f",
+      "sha256": "53416fb12207212b5206d359b951a41566725c9bd8b9151e08c0e74bc0e36c2f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 365119
+  },
+  "descriptions": [
+    {
+      "text": "前作と同様に、『アフターバーナーII』の基本的な premise は、F-14 トムキャットに乗り込み、次々と敵機を撃墜するミッションをこなしていくことです。武器としてはバルカン砲（基本的には機関銃）と限られた数のミサイルが用意されています。ゲームのバージョンによっては、銃が常に自動で発射されるものもあります。時折、友軍の補給機に出会うことがあり、接触することでミサイルを補充することができます。\n\nゲームは飛行機の後ろからの視点で進行し、次々と襲いかかる敵戦闘機と戦います。しかし、基本的には通常のシューティングゲームのメカニクスを提供しており、ほとんどの時間を避けたり撃ったりして過ごします。また、後ろから現れる敵に対処するために、スピードを上げたり下げたりすることもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/After%20Burner%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/After%20Burner%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/After%20Burner%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

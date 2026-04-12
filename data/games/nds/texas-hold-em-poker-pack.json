@@ -1,0 +1,64 @@
+{
+  "id": "texas-hold-em-poker-pack",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Texas Hold 'em Poker Pack",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Texas Hold 'em Poker Pack (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATXE",
+      "size": 16777216,
+      "crc32": "643df094",
+      "md5": "d24e1d0698f005c0e6fea57b4fbc7565",
+      "sha1": "15edddeeb982a41014e3f184f79d4384560f3ce0"
+    },
+    {
+      "name": "Texas Hold 'em Poker Pack (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ATXP",
+      "size": 16777216,
+      "crc32": "67d3c362",
+      "md5": "66e4939b3e200d140444dfbd2856bbdd",
+      "sha1": "4faf1185b860357d4d316ec3aba1a8a673288973"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20Pack%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Texas%20Hold%20%27em%20Poker%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Texas%20Hold%20%27em%20Poker%20Pack%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

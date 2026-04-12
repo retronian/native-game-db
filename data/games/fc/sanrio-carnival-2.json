@@ -1,0 +1,68 @@
+{
+  "id": "sanrio-carnival-2",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sanrio Carnival 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サンリオカーニバル2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sanrio Carnival 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "5c69f427",
+      "md5": "55846d03b532463464203b852e405d24",
+      "sha1": "7eb4107f2000d644c5dc107e9173a9512cd2049f",
+      "sha256": "9703e8e7791e1d9db77bb7c5f2086ca2ee9900c67332aea394e8137bc8d6ef2d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48637
+  },
+  "descriptions": [
+    {
+      "text": "このゲームのジャンルはパズルゲームで、オリジナルのサンリオカーニバルと同様です。ゲームには、キャラクターのミンナノタボが登場するステージなど、複数のステージを進んでいくモードがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sanrio%20Carnival%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

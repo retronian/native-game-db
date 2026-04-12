@@ -1,0 +1,43 @@
+{
+  "id": "suisui-physical-assessment-training-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Suisui Physical Assessment Training DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Suisui Physical Assessment Training DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BYQJ",
+      "size": 33554432,
+      "crc32": "496112a0",
+      "md5": "287ca0fef7e073bb884a3c2a49f0f909",
+      "sha1": "4ce29da9d25572beab688fdfa830bf5538c9d5c2",
+      "sha256": "356e96fd62fed01384d3f77a1f98fd1282801ec7b64aec56825f3750c5b7cb72"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Suisui%20Physical%20Assessment%20Training%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Suisui%20Physical%20Assessment%20Training%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

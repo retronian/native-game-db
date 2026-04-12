@@ -1,0 +1,109 @@
+{
+  "id": "wimbledon-championship-tennis",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wimbledon Championship Tennis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ウィンブルドン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wimbledon Championship Tennis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1224-00",
+      "size": 1048576,
+      "crc32": "f9142aee",
+      "md5": "7978bb18dc7c6269f6b5c2178b93b407",
+      "sha1": "db9083fd257d7cb718a010bdc525980f254e2c66",
+      "sha256": "817f94373b8be4c5a924ac43c719d2e2442ad09cb760cd7061674647ceb86c12"
+    },
+    {
+      "name": "Wimbledon Championship Tennis (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4110-00",
+      "size": 1048576,
+      "crc32": "3e0c9daf",
+      "md5": "dd43c4cfd5958baeb9b4ddd5619f7255",
+      "sha1": "73a6dad0bedc5552459e8a74a9b8ae242ad5a78e",
+      "sha256": "67e3fe80d342e30a8fef82a5f02164b8f3a9cbb3777b229b1b37ad45daf9a2fb"
+    },
+    {
+      "name": "Wimbledon Championship Tennis (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "MK-1224-00",
+      "size": 1048576,
+      "crc32": "9febc760",
+      "md5": "3ae5317fa28ff2b5aed7dd6e8d5eba2f",
+      "sha1": "402bdc507647d861ee7bb80599f528d3d5aeaf0f",
+      "sha256": "78a32401823744ea3eaf2062d9fcb8a5740252ee37c3550c9d92d04220b57a3a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47053
+  },
+  "descriptions": [
+    {
+      "text": "四大グランドスラムトーナメントの中で最も古い大会で、毎年7月にロンドンの芝生コートで開催される「ウィンブルドン」を基にしたテニスゲームです。ボールは芝生の表面から速く低く跳ね返り、このコートが提供する最もエキサイティングなテニスの評判を反映しています。視点は典型的な三人称で、独特の3D効果と影が表現されています。1人または2人の標準マッチをプレイすることも、準々決勝から始まるフルトーナメントを楽しむこともできます。標準的なショットに加え、ロブショットやドロップショットも使用でき、フルサービスルールが適用されます。キャラクターを選択し、ゲームが進むにつれてスキルを向上させることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-05-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wimbledon%20Championship%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wimbledon%20Championship%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wimbledon%20Championship%20Tennis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wimbledon%20Championship%20Tennis%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wimbledon%20Championship%20Tennis%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wimbledon%20Championship%20Tennis%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

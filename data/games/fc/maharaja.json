@@ -1,0 +1,68 @@
+{
+  "id": "maharaja",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maharaja",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マハラジャ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maharaja (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "e8950973",
+      "md5": "f671afa642a6e90388858169981a9547",
+      "sha1": "0343d1dc5312babf863dfb5ac372d5f504099e0b",
+      "sha256": "667d6816d8f9b92453a879086a38c32790d2a119da38d3f0be90ddb2a535a2b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64197
+  },
+  "descriptions": [
+    {
+      "text": "マハラジャは、サンソフトが出版し、クエストが開発したアドベンチャーゲームで、RPG要素を含んでいます。\n\n主人公は、ガンジス川からマハラジャの神秘的な宝箱を取り戻す若者です。彼はそのアイテムを回収したことで宴会で報酬を受けますが、同じ夜にプリンセスからマハラジャの寛大さは策略であり、彼は邪悪な魔法使いに操られていて、朝に英雄を殺す計画を立てていると警告されます。英雄は宮殿から逃げ出し、マハラジャを解放しプリンセスを救う方法を探し始め、途中で神々の助けを得ます。\n\nマハラジャは、プレイヤーキャラクターが見ているものを表示する小さなウィンドウと、プレイヤーキャラクターが試すことのできるコマンドのリストが横に表示されるアドベンチャーゲームのインターフェースを特徴としています。会話やその他の説明文は、画像ウィンドウの下に表示されます。また、プレイヤーは時折、当時の他のターン制RPGのように展開されるランダムバトルに巻き込まれることもあります。ゲームが進むにつれて、新しい装備を見つけて装備したり、新しい呪文を学んだりすることができます。\n\nこのゲームは公式に英語にローカライズされることはなく、日本国外でリリースされることもありませんでしたが、2009年にファン翻訳が作成されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Maharaja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Maharaja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Maharaja%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

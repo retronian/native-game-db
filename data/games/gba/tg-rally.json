@@ -1,0 +1,48 @@
+{
+  "id": "tg-rally",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "TG Rally",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "TG Rally (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTGP",
+      "size": 4194304,
+      "crc32": "be67d878",
+      "md5": "5b8eb6080ae3de50d9734daacd6b92fe",
+      "sha1": "051fd2b0d38d293583bf76a1dce7c4fa532f6ec5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/TG%20Rally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/TG%20Rally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/TG%20Rally%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

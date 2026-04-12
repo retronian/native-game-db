@@ -1,0 +1,46 @@
+{
+  "id": "nickelodeon-team-umizoomi",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nickelodeon Team - Umizoomi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nickelodeon Team - Umizoomi (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B55E",
+      "size": 8388608,
+      "crc32": "5d75d78f",
+      "md5": "08fa44d3dc2a651fe0c7b7d26033cfea",
+      "sha1": "657d031bb90f35a3dd8211c74842b05438517c8f"
+    },
+    {
+      "name": "Nickelodeon Team - Umizoomi (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B55P",
+      "size": 8388608,
+      "crc32": "e979aee9",
+      "md5": "ea46aa058b85cc483011c6d046aaee8b",
+      "sha1": "cef94a1c2339530284ee8efb9ad513dbbf266783"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nickelodeon%20Team%20-%20Umizoomi%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

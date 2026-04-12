@@ -1,0 +1,67 @@
+{
+  "id": "jagainu-kun",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jagainu-kun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "じゃがいぬくん",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jagainu-kun (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "aeb634c5",
+      "md5": "2c8f92ea472fb0dba87b45e9e580a84a",
+      "sha1": "c8cf0523c2cf562d2b2e79b2fe8845e6943a0be4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281588
+  },
+  "descriptions": [
+    {
+      "text": "人気キャラクター「ジャガイヌくん」をフィーチャーしたリズムアクションゲームです。ジャガイヌくんをリズミカルに操作して、モデルの動きに合わせてダンスしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jagainu-kun%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jagainu-kun%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jagainu-kun%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

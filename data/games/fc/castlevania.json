@@ -1,0 +1,213 @@
+{
+  "id": "castlevania",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Castlevania",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "悪魔城ドラキュラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Akumajou Dracula",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Castlevania (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "4d782455",
+      "md5": "7da16a9ec10426363df22ae3a0fbbc91",
+      "sha1": "d6f9935b272f4cf2c9c133526dbd6c25193d19de",
+      "sha256": "13c76943c2732a1d4855c166e6f8e162f1531b022cf23c05e599044580055402"
+    },
+    {
+      "name": "Castlevania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "ae0fa667",
+      "md5": "379de955af1c8f3ae231783831793b8a",
+      "sha1": "b0f32ce093de3d741a8a4de7d7ee04ac6756c6e8",
+      "sha256": "5df6631baa3c979720df938807af5fb9101f1df7174dbbfc0d73ba0a31a99f82"
+    },
+    {
+      "name": "Castlevania (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "12a6cb14",
+      "md5": "a1b849f232781d0e929435df447822b5",
+      "sha1": "4e3ef47de86a941c37359bb3acfa5542a0fa7876",
+      "sha256": "5e859d77bc0e3a9f30a7c14d2637b9c2aae6ce19f6520a7c9b252a86974f7800"
+    },
+    {
+      "name": "Castlevania (Europe) (Virtual Console)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 131088,
+      "crc32": "768703f8",
+      "md5": "84f1d702e52a9423953a7f63a42f0470",
+      "sha1": "e5ebb10ec76960d0a6016e828e9688fef716c451",
+      "sha256": "80d272f6d036e4f2eca73f9606a22d664768c64134e07f7a9dc1fc28cbaffbb4"
+    },
+    {
+      "name": "Castlevania (USA) (Rev 1) (Virtual Console)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "19973e04",
+      "md5": "0c49cbba0546e6a46ad8cd94473da06c",
+      "sha1": "59209873a562928fcaf545e0987f137893fdda6f",
+      "sha256": "4a3707ba7795b239a48bb2f05bf00a1283648746c9d4ec0dc932df86ea3023ef"
+    },
+    {
+      "name": "Castlevania (World) (Castlevania Anniversary Collection)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "d99835aa",
+      "md5": "1d51fa039ad92628d1f2ec9476559984",
+      "sha1": "edf64dc629007a438f683780b77019b45c060e0f",
+      "sha256": "be59b76c25cf3ded764ac00d13a96eaf7427665852925f90c0ab0f70894aa5e7"
+    },
+    {
+      "name": "Castlevania (World) (Konami Collector's Series)",
+      "source": "no_intro",
+      "size": 131088,
+      "crc32": "082269c6",
+      "md5": "a9be6ef3d95d2f208a3f684a5e1941bb",
+      "sha1": "126c75ce0dfd0f7965189a0834ae4f24f9df05c7",
+      "sha256": "c91f70729edab1efb8859e36e9c6fb4c9f3f4c92e2fb7c494c78d2980c81da01"
+    }
+  ],
+  "external_ids": {
+    "igdb": 1114
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28Europe%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28USA%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28USA%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28USA%29%20%28Rev%201%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20%28World%29%20%28Castlevania%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Castlevania%20%28World%29%20%28Castlevania%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Castlevania%20%28World%29%20%28Castlevania%20Anniversary%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

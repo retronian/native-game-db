@@ -1,0 +1,45 @@
+{
+  "id": "shadowhawk",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ShadowHawk",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 37885
+  },
+  "roms": [
+    {
+      "name": "Shadowhawk (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "eb3943bd",
+      "md5": "cac6a874fc72d1dd4504372c4b222338",
+      "sha1": "93e3692ffb1233833cfa3c0c4030dc60bc043376",
+      "sha256": "a4544dbc26d3fe309076e35f189c35cf7e8fe118c51c58bbf9d43d2d84e0c1d2"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shadowhawk%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shadowhawk%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

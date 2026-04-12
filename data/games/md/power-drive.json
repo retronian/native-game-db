@@ -1,0 +1,63 @@
+{
+  "id": "power-drive",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power Drive",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power Drive (Europe) (En,Fr,De,Es,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T7914650-00",
+      "size": 1048576,
+      "crc32": "8c00ad61",
+      "md5": "1932eab601f3b15f259dc0961e468bcc",
+      "sha1": "6ffaaac637fb41a2f94912c382385a9cb17639a9",
+      "sha256": "e0bc578d08c052e7c24d50184846e1cb2d82e30c8735509925c2dcb20cbb9a26"
+    },
+    {
+      "name": "Power Drive (USA) (En,Fr,De,Es,Pt) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T79146-00",
+      "size": 1048576,
+      "crc32": "9d134001",
+      "md5": "73011012d672b4529c02d2fce2f177a8",
+      "sha1": "dd12775c9a3632bc72746064daa3fffc7c869690",
+      "sha256": "70121dff1eecbfaa728b95b6451305890fff0f0385664da6be9c2455085600ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12720
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Power%20Drive%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "famicom-mini-05-zelda-no-densetsu-1-the-hyrule-fantasy",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ05 ゼルダの伝説1",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファミコンミニ05 ゼルダの伝説1 The Hyrule Fantasy",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FZLJ",
+      "size": 1048576,
+      "crc32": "712d76e8",
+      "md5": "9a5a3fb9c4b8e1b82f6584baa7962a2b",
+      "sha1": "8e398563478b079f5e6f34366c5d3fa5dfb5c594",
+      "sha256": "998968a26587100d8e72b5b882f4f03c5bab20a324872ce1c8a1c67ed842d37f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2005%20-%20Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2005%20-%20Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2005%20-%20Zelda%20no%20Densetsu%201%20-%20The%20Hyrule%20Fantasy%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

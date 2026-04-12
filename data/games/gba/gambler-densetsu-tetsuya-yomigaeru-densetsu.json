@@ -1,0 +1,68 @@
+{
+  "id": "gambler-densetsu-tetsuya-yomigaeru-densetsu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gambler Densetsu Tetsuya - Yomigaeru Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "勝負師伝説 哲也 〜甦る伝説〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATYJ",
+      "size": 8388608,
+      "crc32": "8a879018",
+      "md5": "0a0f0c3f73ca585c19f516c7e45fda74",
+      "sha1": "bf4664ec225ed66e72e98393b9b6ec10b3cc9b10"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49611
+  },
+  "descriptions": [
+    {
+      "text": "同名のマンガを基にしたゲームです。プレイヤーのプレイスタイルや捨てる牌の種類によって、テツヤの運が変動し、有利または不利になります。ストーリーモードに加えて、好きなキャラクターと対戦することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gambler%20Densetsu%20Tetsuya%20-%20Yomigaeru%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gambler%20Densetsu%20Tetsuya%20-%20Yomigaeru%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gambler%20Densetsu%20Tetsuya%20-%20Yomigaeru%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

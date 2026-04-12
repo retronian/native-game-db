@@ -1,0 +1,134 @@
+{
+  "id": "final-fantasy-vi-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Fantasy VI Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Fantasy VI Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZ6J",
+      "size": 8388608,
+      "crc32": "d67478fe",
+      "md5": "09daf6531ded19b7921367084e439b2f",
+      "sha1": "1850fedde7305c4baf42e0594aaabe17c549d7e2"
+    },
+    {
+      "name": "Final Fantasy VI Advance (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZ6E",
+      "size": 8388608,
+      "crc32": "d708f5ab",
+      "md5": "d1c3d1798a3f347fbab41f151c99dece",
+      "sha1": "e9a2a58bc56ace26cb56d0cf5cdad1a10aa5dedf"
+    },
+    {
+      "name": "Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZ6P",
+      "size": 16777216,
+      "crc32": "d15deba5",
+      "md5": "7f6bf3b4d84f113aa454136e5b53fd77",
+      "sha1": "c5b27ed0870ea64e6a001c5bc367f76571ace973",
+      "sha256": "0820ee1469f2ed588319fef0c0629891bffd937b95965c31faa3e67dec0c8530"
+    },
+    {
+      "name": "Final Fantasy VI Advance (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZ6J",
+      "size": 8388608,
+      "crc32": "c8d9aacb",
+      "md5": "1b19f74bc004de8267993711d304511b",
+      "sha1": "a9ab4db608b1a8dca239809fe87cfc4ecb2094e7",
+      "sha256": "82dfefe54f78e4542c461ffb4cfc08d2185369c769599217b5735154ddf6c4ea"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20VI%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20VI%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20VI%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20VI%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20VI%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20VI%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Final%20Fantasy%20VI%20Advance%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Final%20Fantasy%20VI%20Advance%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Final%20Fantasy%20VI%20Advance%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

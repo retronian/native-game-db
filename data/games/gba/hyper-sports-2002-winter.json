@@ -1,0 +1,65 @@
+{
+  "id": "hyper-sports-2002-winter",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hyper Sports 2002 Winter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハイパースポーツ 2002 WINTER",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hyper Sports 2002 Winter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AWIJ",
+      "size": 4194304,
+      "crc32": "1a8b6863",
+      "md5": "b1318e5c93aaef441fc5e596996df870",
+      "sha1": "928628f8486e9390bec5d039ed30751f56c40d58"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ハイパースポーツ 2002 WINTER」は、正式に冬季オリンピックに認定されているわけではありませんが、スキー、カーリング、ボブスレー、フィギュアスケートなどを含む10の競技が用意されており、これに基づいてモデル化されています。各競技のゲームプレイは異なりますが、プレイヤーがコントロールやスピードなどの指示に応じてボタンをタップする必要があるという共通の操作方法があります。プレイヤーが必要なボタンを成功裏に押し、タイミングが合うかどうかによって、これらの競技の結果が決まります。\n\nゲームモードは4つあり、チャンピオンシップモードではプレイヤーが一連の競技に参加して貴重な金メダルを目指します。また、ヘッド・トゥ・ヘッドモードでは2人のプレイヤーが互いに競い合うことができます。さらに、ESPNのライセンスを取得しており、テレビスタイルのプレゼンテーションやゲーム内の解説者による実況がリアリズムを高めています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hyper%20Sports%202002%20Winter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hyper%20Sports%202002%20Winter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hyper%20Sports%202002%20Winter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

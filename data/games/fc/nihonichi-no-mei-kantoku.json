@@ -1,0 +1,65 @@
+{
+  "id": "nihonichi-no-mei-kantoku",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nihonichi no Mei Kantoku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "日本一の名監督",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nihonichi no Mei Kantoku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "95f1973f",
+      "md5": "d39b3f8dfa80183ce0ccd8835c0b53c2",
+      "sha1": "e96699d7b11b45b39e8dc9c8dac9b4c02c1b8cdb",
+      "sha256": "a75c8862ef6a54214abdb270c2ad351c84670f02bc0555554e11e7d295e5781a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「日本一の名監督」は、野球のマネジメントゲームです。あなたはチームを指揮し、選手のトレーニングやチームのさまざまな側面を管理します。試合の進行を観戦しながら、ピッチャーの交代や外野手のポジション、打順の変更など、試合中に戦略を変更することができます。ゲームは、まずマネージャーを作成し、名前を入力するところから始まります。その後、4つの異なるカテゴリーに振り分けるためのランダムな属性ポイントが与えられます。次に、管理するチームを選び、対戦する5つの他のチームを選択します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Nihonichi%20no%20Mei%20Kantoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Nihonichi%20no%20Mei%20Kantoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Nihonichi%20no%20Mei%20Kantoku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

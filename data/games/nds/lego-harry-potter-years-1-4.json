@@ -1,0 +1,76 @@
+{
+  "id": "lego-harry-potter-years-1-4",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "LEGO Harry Potter - Years 1-4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLHP",
+      "size": 134217728,
+      "crc32": "c2622e34",
+      "md5": "0acb799e11436683ea82bc41987759c1",
+      "sha1": "16dc12ad62dbabb360ca56412a0c9d91c4d34ce2"
+    },
+    {
+      "name": "LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLHE",
+      "size": 134217728,
+      "crc32": "4591a35a",
+      "md5": "906d814da76970e3e54ecf531b1a09fe",
+      "sha1": "60451f20616ff67762c3c390d60a04f823b7484f",
+      "sha256": "c5b4f6c0a613caced975d0a182ca76a96cce0789d8705d76878e4da658ceec53"
+    },
+    {
+      "name": "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLHP",
+      "size": 134217728,
+      "crc32": "ce95285e",
+      "md5": "0c44de7cb900bb461ca74b3a438feb42",
+      "sha1": "3fd2c114e72fdbd81011f0e05d4ac599fc4ec8ad",
+      "sha256": "e03ea26f9e4ecf4c0b0481c2130a0f82accdee521397c7ec6c7c69e19bb1ca12"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Harry%20Potter%20-%20Years%201-4%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Harry%20Potter%20-%20Years%201-4%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/LEGO%20Harry%20Potter%20-%20Years%201-4%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/LEGO%20Harry%20Potter%20-%20Years%201-4%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

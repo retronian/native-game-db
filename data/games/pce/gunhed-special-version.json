@@ -1,0 +1,70 @@
+{
+  "id": "gunhed-special-version",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gunhed - Special Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ガンヘッド スペシャルバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ガンヘッド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gunhed - Special Version (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "57f183ae",
+      "md5": "cf91d85fa31a2baf459c65addaa4326e",
+      "sha1": "f21597e7d04506c515b156acea7fdb4c70a5c1c8",
+      "sha256": "c7b9ae3231b533e27e5ef5526696a1df6a63ea12fc5a991e8cb195ce8e1e8d2a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ガンヘッド スペシャルバージョンは、PCエンジン用の縦スクロールシューティングゲームの特別版です。オリジナル版に比べて難易度調整や追加要素が含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Gunhed%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Gunhed%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Gunhed%20-%20Special%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

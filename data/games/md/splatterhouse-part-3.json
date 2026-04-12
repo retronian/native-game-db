@@ -1,0 +1,45 @@
+{
+  "id": "splatterhouse-part-3",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Splatterhouse Part 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スプラッターハウス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Splatterhouse Part 3 (Japan, Korea) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14163-00",
+      "size": 2097152,
+      "crc32": "31b83d22",
+      "md5": "7277b3202363800a03e6790d3810f362",
+      "sha1": "1fcb8adfdb19cb772adabac14e78c560d4f2e718",
+      "sha256": "5711073c57dcbd999cb89a74fe1aee0662ba147f10d7db9b52656dfa2e822220"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Splatterhouse%20Part%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

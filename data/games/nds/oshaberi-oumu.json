@@ -1,0 +1,42 @@
+{
+  "id": "oshaberi-oumu",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oshaberi Oumu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oshaberi Oumu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C4BJ",
+      "size": 16777216,
+      "crc32": "e2c8fcd6",
+      "md5": "1f9485d38c77f504b9a5f6bce7a420e9",
+      "sha1": "e6abc24e5875b8bd7c6a7f0d3881922d95ac332c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Oshaberi%20Oumu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Oshaberi%20Oumu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

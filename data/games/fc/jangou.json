@@ -1,0 +1,68 @@
+{
+  "id": "jangou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jangou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀豪",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jangou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "46eb6d3c",
+      "md5": "8c5156eee1b3d7a0e6a96397e21af9f6",
+      "sha1": "e1de1fa7a7bbac0315f604beac74a6e296b89078",
+      "sha256": "30bfddf03f727124e2405620f34ae967a6185351a6e0b898fc73f2183627bfec"
+    }
+  ],
+  "external_ids": {
+    "igdb": 131433
+  },
+  "descriptions": [
+    {
+      "text": "ゲームの主な目的は、最も多くのポイントを獲得することです。プレイする前に、まず自分の誕生日と4桁のPIN番号を入力する必要があります。その後、名前を入力します。準備が整ったら、5人のプレイヤーの中から1人を選んでスタートします。セッションにはいくつかのゲームがあり、各セッションの後に、あなたと他の3人のプレイヤーからポイントが与えられます。\n\n「ジャンゴ」は、麻雀に似たゲームです。日本ではファミコンを含む多くのコンソールに移植されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jangou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jangou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jangou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

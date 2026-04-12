@@ -1,0 +1,107 @@
+{
+  "id": "lhx-attack-chopper",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "LHX Attack Chopper",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アタック・チョッパー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "LHXアタックチョッパー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "LHX Attack Chopper (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106153-00",
+      "size": 1048576,
+      "crc32": "224ff103",
+      "md5": "98522160b9f62470bf2597d98f5e6964",
+      "sha1": "4e98a59fbd25db9fa9a05c84ecfa79154dd49d12",
+      "sha256": "30b66cf7fc56898e6cb69ae26f4caab26e3c8952a1db2ff5d3891bdb7d6bd862"
+    },
+    {
+      "name": "LHX Attack Chopper (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50416-00",
+      "size": 1048576,
+      "crc32": "70c3428d",
+      "md5": "605cf449c578869cb229cd38c0499da5",
+      "sha1": "f23c6d0bc6daae11a3398d73961f621e508c9229",
+      "sha256": "bce8c6cf85d5abfce5734c52c6766afc2b74483957557f2bd52184daa4b8526a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 2166
+  },
+  "descriptions": [
+    {
+      "text": "LHX: アタック・チョッパーは、アーケード要素が強いヘリコプターシミュレーションゲームです。最初に飛ぶミッションや、特定のミッションで使用するヘリコプターを自由に選ぶことができます。登場するヘリコプターは合計で4機：アパッチ、ブラックホーク、オスプレイ、そしてLHXです。この素晴らしい死の機械の選択肢を駆使して、ゲームを通じてリビア、東ドイツ、ベトナムで数え切れない敵ターゲットと戦うことになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-06-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/LHX%20Attack%20Chopper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/LHX%20Attack%20Chopper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/LHX%20Attack%20Chopper%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/LHX%20Attack%20Chopper%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/LHX%20Attack%20Chopper%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/LHX%20Attack%20Chopper%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "dagedar",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "DaGeDar",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "DaGeDar (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6VE",
+      "size": 8388608,
+      "crc32": "aa71b599",
+      "md5": "1bef248228d86643923cec4372dd6c54",
+      "sha1": "9ca226ec03a6bbea3c1d5cdb70d5812fa97df9ce"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47924
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/DaGeDar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/DaGeDar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/DaGeDar%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

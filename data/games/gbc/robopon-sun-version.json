@@ -1,0 +1,68 @@
+{
+  "id": "robopon-sun-version",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Robopon - Sun Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Robot Ponkottsu: Sun Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "32caef11",
+      "md5": "398f7b60ea114b90b24503178f47e8d8",
+      "sha1": "399c928a38a3901b7a1093bd61f5a4d8c05b9771",
+      "sha256": "211362382e3637edece46d5ccd470061466a37cd7794777f140ec3f228166e5a"
+    },
+    {
+      "name": "Robopon - Sun Version (USA) (Beta) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "0b6985e4",
+      "md5": "4b62032c9cfecf52156ad0a2598444bd",
+      "sha1": "30f36f420bec76126171b1139538de4017ed75ac"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50007
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Robopon%20-%20Sun%20Version%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Robopon%20-%20Sun%20Version%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Robopon%20-%20Sun%20Version%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

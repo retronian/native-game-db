@@ -1,0 +1,42 @@
+{
+  "id": "peggle-dual-shot",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Peggle Dual Shot",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Peggle Dual Shot (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C7PE",
+      "size": 67108864,
+      "crc32": "f9fac140",
+      "md5": "836fba1c3245228d1d8b5a8fa62e256c",
+      "sha1": "e5b4810154a625af385c05e01d15fd325ab9d08b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Peggle%20Dual%20Shot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Peggle%20Dual%20Shot%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sega-game-toshokan",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sega Game Toshokan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "セガ ゲーム図書館",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sega Game Toshokan (Japan) (En) (Rev A) (Program)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 131072,
+      "crc32": "c185c819",
+      "md5": "63d1c64e1f3363171b63a75ce67b1f60",
+      "sha1": "9673b519c16883c146924c347ec6764281fa3a57",
+      "sha256": "81a30f887132792896796d0aebce628d7c092f3b2642b83bf2fc78f7c940ce34"
+    }
+  ]
+}

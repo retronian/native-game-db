@@ -1,0 +1,79 @@
+{
+  "id": "pogo-island",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pogo Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pogo Island (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AO3P",
+      "size": 33554432,
+      "crc32": "1c108c34",
+      "md5": "ac0f413299b7e1db95325040374cd989",
+      "sha1": "97b66c97bf303ebdfb1af9e0cc17eee2b8602efa"
+    },
+    {
+      "name": "Pogo Island (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AO3E",
+      "size": 33554432,
+      "crc32": "eae99ec4",
+      "md5": "2cd9bb0c0129c6b52a8d9dc0ee33f2e8",
+      "sha1": "6ca76cc5cb0bd958ed43005e9ebdc112955e8b2c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21401
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pogo%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pogo%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pogo%20Island%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pogo%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Pogo%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pogo%20Island%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

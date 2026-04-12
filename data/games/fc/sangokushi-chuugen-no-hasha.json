@@ -1,0 +1,74 @@
+{
+  "id": "sangokushi-chuugen-no-hasha",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sangokushi - Chuugen no Hasha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "三國志 中原の覇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "三国志 中原の覇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sangokushi - Chuugen no Hasha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8513c501",
+      "md5": "b6937cb23d3db29ab0d2817da61b4408",
+      "sha1": "e1ca2cf111b7a86880b056785c07e480d2486aaf",
+      "sha256": "051d81d5fa74b09a8df0015ec55f38fd74bfdcb9d8a3f17ea3dcaaabab582db2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「三國志」とは、中国の三国時代を描いた小説で、国が一時的に三つの戦国に分かれていた時代をテーマにしています。これは「三国志演義」とは異なり、こちらは戦争が終わったかなり後に書かれた主にフィクションの物語で、多くのビデオゲームにアダプテーションされています。その中でも特にコーエーの「三国志」シリーズや後の「真・三國無双」シリーズが有名です。\n\n戦略シミュレーションゲームとして、プレイヤーと選んだ勢力の目標は、中国全土を自らの支配下に取り戻すことです。プレイヤーは情報を集めたり、他の領土に侵攻したり、自軍の能力を向上させたり、武器や物資を購入したりすることができます。ゲームはターンごとにプレイヤーに一定数の行動を与え、その後CPUの対戦相手にターンを回します。\n\nこのゲームは「三国志演義」の後に作られましたが、実際にはこの対立を基にした最初のNESゲームです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-07-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sangokushi%20-%20Chuugen%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sangokushi%20-%20Chuugen%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sangokushi%20-%20Chuugen%20no%20Hasha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

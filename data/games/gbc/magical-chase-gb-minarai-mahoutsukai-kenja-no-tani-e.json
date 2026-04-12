@@ -1,0 +1,64 @@
+{
+  "id": "magical-chase-gb-minarai-mahoutsukai-kenja-no-tani-e",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マジカルチェイス 見習い魔法使い 賢者の谷へ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "15e5d499",
+      "md5": "f722b68c0f532ed567397a3e53909ccf",
+      "sha1": "3b13fc974d68a8b057ab8133a0ba7e3fbac23f11"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "マジカルチェイスは、クエストが開発したPCエンジンのオリジナルのスクロールシューティングゲームの移植版で、GBCに合わせて音声とビジュアルがダウングレードされています。\n\n主人公のリップルは、恐ろしい魔女の見習い魔法使いである若い学生です。リップルは魔女にした約束を破り、禁断の本を覗いてしまい、6体の悪魔を解放してしまいました。彼女がすべての悪魔を捕まえて本の中に戻さない限り、魔女はリップルをカエルに変えてしまいます。リップルは、エルフスターの友達である「スター・メイデン」たち、トプシーとターヴィと共に冒険に出発します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Magical%20Chase%20GB%20-%20Minarai%20Mahoutsukai%20Kenja%20no%20Tani%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Magical%20Chase%20GB%20-%20Minarai%20Mahoutsukai%20Kenja%20no%20Tani%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Magical%20Chase%20GB%20-%20Minarai%20Mahoutsukai%20Kenja%20no%20Tani%20e%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

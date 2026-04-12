@@ -1,0 +1,39 @@
+{
+  "id": "dolphin-trainer",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dolphin Trainer",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CUFP",
+      "size": 16777216,
+      "crc32": "1c04fad0",
+      "md5": "567b8b48c347582cd81e1c1a4f0681f2",
+      "sha1": "ee1ef43a208354dd75f77ce3234b91d3b921113f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 269739
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Dolphin%20Trainer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

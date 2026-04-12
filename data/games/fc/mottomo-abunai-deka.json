@@ -1,0 +1,68 @@
+{
+  "id": "mottomo-abunai-deka",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mottomo Abunai Deka",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "もっともあぶない刑事",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mottomo Abunai Deka (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "aca3b5f5",
+      "md5": "dd280bff6b0e50fff1b4a8ce92f256cf",
+      "sha1": "e9637724910b6799f07941d69a8f78e64a26ead5",
+      "sha256": "a14002b5e3dd47b4eb46a2d0df58f96354e0fbd0caf2a09e8233ea5d490d1b89"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48419
+  },
+  "descriptions": [
+    {
+      "text": "もっともあぶない刑事は、ファミリーコンピュータ用のアクションゲームです。このゲームは日本のテレビドラマを基にしています。\n\nゲームは2Dの1-2人用サイドスクロール型です。プレイヤーはタカまたはユウジ、あるいはこの2人のキャラクターを同時に操作します。プレイヤーはヤクザの敵「ザ・シルバースターズ」と対峙し、さらに警察内部の腐敗や最終ボスへと進んでいきます。ゲームを進める中で、シューティングギャラリー、スピード感あふれるカーライド、ボス敵との銃撃戦の3つのミニゲームにも出会います。\n\nこのゲームのサイドスクロール部分をプレイ中に武器を切り替えたい場合は、スタートボタンを押してからAボタンで選択をサイクルします。\n\nゲームの元の名前は「もっともあぶない刑事」で、現在は「ザ・モスト・デンジャラス・ディテクティブ」と改題されています。\n\nすべてのテキストは私の知識の範囲内で翻訳されています。テキストの主な問題は、スクロールの問題があり、現在できる限り解決されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mottomo%20Abunai%20Deka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mottomo%20Abunai%20Deka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mottomo%20Abunai%20Deka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

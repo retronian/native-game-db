@@ -1,0 +1,102 @@
+{
+  "id": "teitoku-no-ketsudan",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Teitoku no Ketsudan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "提督の決断 WWIIゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "提督の決断",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Teitoku no Ketsudan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "aa507855",
+      "md5": "9a8ccc5d0b280c01eb1d017160e5befd",
+      "sha1": "e7a92d3df0693187e905d88db05251152fb5a31b",
+      "sha256": "1b81836119f55da6a7d39c75ec8e8f2621c8c74b2c58a136bf4f0296ab48dc78"
+    },
+    {
+      "name": "Teitoku no Ketsudan (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "73aede7e",
+      "md5": "2eac4e0ce9851f4a9480bb7218aba880",
+      "sha1": "bba0793732842b59dc68337a62bca5c663ef14a8",
+      "sha256": "e632246fdea9b77b53852ba152be9616169211056ccc317268b5328ba3164ad9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "P.T.Oは、コーエーによる別の軍事シミュレーションゲームです。このゲームでは、日本または連合国のいずれかを選択できます。艦隊を管理し、新しい軍艦を発注することで、紛争のさまざまな側面を制御できます。（艦船の開発、基地防衛、艦隊編成、直接戦闘の指揮、経済的決定）P.T.Oには多くのプレイオプションがあり、数々の有名な戦闘のいずれかを選んでプレイすることも、キャンペーンを進めることもできます。一方の陣営または両方を制御することが可能です。また、勝利条件に関しても限られたコントロールがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-09-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Teitoku%20no%20Ketsudan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Teitoku%20no%20Ketsudan%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Teitoku%20no%20Ketsudan%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Teitoku%20no%20Ketsudan%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

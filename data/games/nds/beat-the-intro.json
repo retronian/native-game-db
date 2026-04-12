@@ -1,0 +1,51 @@
+{
+  "id": "beat-the-intro",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Beat the Intro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Beat the Intro (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BEIP",
+      "size": 16777216,
+      "crc32": "69d020ab",
+      "md5": "bdc075714c569584ae814cd6a21680cb",
+      "sha1": "fa2dc6070fd49997035fcb93daa6f1e0a51c6f67"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77119
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Beat%20the%20Intro%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Beat%20the%20Intro%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Beat%20the%20Intro%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

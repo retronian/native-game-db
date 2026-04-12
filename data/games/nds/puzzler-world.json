@@ -1,0 +1,71 @@
+{
+  "id": "puzzler-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzler World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzler World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPVE",
+      "size": 8388608,
+      "crc32": "4471ac61",
+      "md5": "295bdac29fcddd8c1834b94bb530c46e",
+      "sha1": "c8c5998c760be2927146a04afe949fa1691b5004"
+    },
+    {
+      "name": "Puzzler World (Europe) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPVP",
+      "size": 8388608,
+      "crc32": "f90e8c2f",
+      "md5": "97a47d8b164adc21e8112ba7414bed54",
+      "sha1": "813edb729eb5ac37672728e54364dfe4318376ee"
+    },
+    {
+      "name": "Puzzler World (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPVP",
+      "size": 8388608,
+      "crc32": "632be7b2",
+      "md5": "701320795000c8a5ae641bf12b8ff29c",
+      "sha1": "3948a56b1a0c2dd506f4ce811ed03135b19d2b0c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 308990
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzler%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzler%20World%20%28Europe%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzler%20World%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

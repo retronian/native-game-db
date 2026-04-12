@@ -1,0 +1,80 @@
+{
+  "id": "balls-of-fury",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Balls of Fury",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Balls of Fury (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBLE",
+      "size": 8388608,
+      "crc32": "c9d09ac6",
+      "md5": "fedc53cf96a51c3d254e5772d96f9d54",
+      "sha1": "aade1a30ee46807303bb7bdec70986fab75f3dff"
+    },
+    {
+      "name": "Balls of Fury (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YBLP",
+      "size": 8388608,
+      "crc32": "811c09a9",
+      "md5": "9f6de65f413e2a798d3c020e366904bc",
+      "sha1": "7f0ab107c906ffc73062e9b0b55f392a5f9ee602",
+      "sha256": "ba8869880581a2152a76be1be19c97116cf4e7a2417c5982f5813ad673f05116"
+    }
+  ],
+  "external_ids": {
+    "igdb": 6573
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Balls%20of%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Balls%20of%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Balls%20of%20Fury%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Balls%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Balls%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Balls%20of%20Fury%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

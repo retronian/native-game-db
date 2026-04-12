@@ -1,0 +1,91 @@
+{
+  "id": "chuck-rock",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chuck Rock",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chuck Rock (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-70036-00",
+      "size": 1048576,
+      "crc32": "7cd40bea",
+      "md5": "252f8da6fde4d425836a66c0fdc73bf2",
+      "sha1": "832a18eb028630e31b5bacd05f9694f4a827268b",
+      "sha256": "de57886745fefa69a1cb1dc099ded98404272062316b489dfa6418c01213c70b"
+    },
+    {
+      "name": "Chuck Rock (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-70036-00",
+      "size": 1048576,
+      "crc32": "f8ac454a",
+      "md5": "efd1546c7f4c8c76f36d6b3eeb9f5331",
+      "sha1": "f6177b4c9ac48325c53fa26531cdd9bbc673dda3",
+      "sha256": "d4cd7003c104f77bf9a9a78f43067f15a63f23925bc77746d0fdde419f594dc4"
+    },
+    {
+      "name": "Chuck Rock (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 1048576,
+      "crc32": "60a2ee79",
+      "md5": "b41513fae9589b14ec3688657c783b98",
+      "sha1": "ab273f303efcfad6c758ad58d73116a29d8d1d6d",
+      "sha256": "453a216d95358ec2b0e43c413f56652bc353223d36b12783092b7a5b3e7ff14e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4516
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chuck%20Rock%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chuck%20Rock%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chuck%20Rock%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Chuck%20Rock%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Chuck%20Rock%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Chuck%20Rock%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

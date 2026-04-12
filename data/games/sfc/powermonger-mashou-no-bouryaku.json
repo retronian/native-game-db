@@ -1,0 +1,65 @@
+{
+  "id": "powermonger-mashou-no-bouryaku",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PowerMonger - Mashou no Bouryaku",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーモンガー 魔将の謀略",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PowerMonger - Mashou no Bouryaku (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "3e14376b",
+      "md5": "82eae959ae51b041489f7c1c2a1fef11",
+      "sha1": "79ab6cb1a0cc37ba2bd1f5cf080b2e0489c8a05d",
+      "sha256": "ebd9ec8f595a4c7c1c80a89646953ea1d0703a762b7316f0bee5d61e3a7cd5eb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「パワーモンガー 魔将の謀略」は、Bullfrogの前作「ポピュラス」の基本デザインとコンセプトを取り入れ、戦争の文脈に置き換えたゲームです。プレイヤーは、世界征服を目指して195の領土を略奪しながら進む追放された戦国大名として登場します。他にも同じ目標を持つリーダーが存在します。\n\nゲームの世界はポリゴンで構成されており、視点を回転させたり移動させたりする自由度が「ポピュラス」よりも高くなっています。貿易、外交、発明、焦土作戦などが、プレイヤーの進行において重要な役割を果たします。コンピュータ版では、モデム接続を通じた2人対戦も可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-03-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/PowerMonger%20-%20Mashou%20no%20Bouryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/PowerMonger%20-%20Mashou%20no%20Bouryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/PowerMonger%20-%20Mashou%20no%20Bouryaku%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

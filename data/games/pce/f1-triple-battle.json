@@ -1,0 +1,58 @@
+{
+  "id": "f1-triple-battle",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F1 Triple Battle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "F1トリプルバトル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F1 Triple Battle (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "13bf0409",
+      "md5": "e6cfec9aa8d327b80c01ce40348101ab",
+      "sha1": "0a219b433529b3214f42734c2a144d238cb3c99c",
+      "sha256": "81ee45aad5e385e6ccd03a6f2ce09f03af2e7aa625185a256a20df537d166a70"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44332
+  },
+  "first_release_date": "1989-12-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/F1%20Triple%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/F1%20Triple%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/F1%20Triple%20Battle%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

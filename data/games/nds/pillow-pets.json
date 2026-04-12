@@ -1,0 +1,45 @@
+{
+  "id": "pillow-pets",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pillow Pets",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pillow Pets (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B5HE",
+      "size": 16777216,
+      "crc32": "40954854",
+      "md5": "bef52171779dfa2f8192a99cf4630e3f",
+      "sha1": "4af7de943e0b5b40c7c1fc1668c255e4a2e437a7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47941
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pillow%20Pets%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pillow%20Pets%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "totsugeki-papparatai",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Totsugeki! Papparatai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "突撃!パッパラ隊",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Totsugeki! Papparatai (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "0aeae8fb",
+      "md5": "d952041d1970551ee4bedbe341556e6f",
+      "sha1": "4c98beab325cd058445102c85d30b3724325f2ce"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気漫画「突撃!パッパラ隊」がミニゲームのコレクションとして登場。多彩なバリエーションのシューティングゲームをクリアして、ストーリーを進めよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Totsugeki%21%20Papparatai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Totsugeki%21%20Papparatai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Totsugeki%21%20Papparatai%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "it-s-a-world-rally",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "It's a World Rally",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ワールドラリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "It's a ワールドラリー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "It's a World Rally (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "39e34650",
+      "md5": "ec3ef08bb6d73b1b57958322d1085dad",
+      "sha1": "31a289823468285ac786afe7de38201235983e35"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "インターナショナルラリーは、20のコースと速度、加速、グリップが異なる14台の車両を備えたラリーゲームです。トーナメント中、プレイヤーは車両をアップグレードすることができ、例えばより良いエンジンやスピード向上を選択したり、次のレースの天候条件に応じてダンパーやタイヤを調整することができます。車両のコンポーネントの効果はトーナメントの進行に伴い徐々に低下します。その他のプレイモードとしては、シングルラリー、タイムレース、そして人間の対戦相手とのデュエルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-05-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/It%27s%20a%20World%20Rally%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/It%27s%20a%20World%20Rally%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/It%27s%20a%20World%20Rally%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

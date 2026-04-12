@@ -1,0 +1,68 @@
+{
+  "id": "super-power-league-4",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Power League 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーパワーリーグ4",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Power League 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "c07f099d",
+      "md5": "febca3a92d34ffa119891247d9b27d09",
+      "sha1": "632061ae4892ec6cd75616da66f7be5c75e8d7af",
+      "sha256": "0847c8f8021af9c7c139c98312e4974308650c2cbcb617161bb56c46626258bb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44431
+  },
+  "descriptions": [
+    {
+      "text": "スーパーパワーリーグ4は、ナウプロダクション（通称：ナウプロ）によって開発され、ハドソンソフトが日本国内向けにスーパーファミコン用に発売した野球ゲームです。本作はバッターの大きなスプライトを使用しており、アーケード風の他のゲームよりもリアリズムに少し重点を置いています。ホームランダービーモードやペナントレース、オールスターゲームも含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Power%20League%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

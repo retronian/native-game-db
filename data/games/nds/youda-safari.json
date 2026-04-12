@@ -1,0 +1,42 @@
+{
+  "id": "youda-safari",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Youda Safari",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Youda Safari (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BYUP",
+      "size": 8388608,
+      "crc32": "004d4dd9",
+      "md5": "43a71bc729bbcdcf009991b103e2b5e7",
+      "sha1": "5d529ff7dcf65a5b6abc82a9fb9e55007d21044d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Youda%20Safari%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Youda%20Safari%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

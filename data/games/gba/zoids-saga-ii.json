@@ -1,0 +1,76 @@
+{
+  "id": "zoids-saga-ii",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoids Saga II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ZOIDS SAGA II",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoids Saga II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AZ2J",
+      "size": 8388608,
+      "crc32": "0c039503",
+      "md5": "f7bdd0eb9cd94d4c3bf924654998c514",
+      "sha1": "6014ca7c7af931d62634be4baa992a2fe187413f"
+    },
+    {
+      "name": "Zoids Saga II (Japan) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AZ2J",
+      "size": 8388608,
+      "crc32": "515d9e38",
+      "md5": "14bc45c78e1d2325654c0cdac25873bb",
+      "sha1": "1b2caa037e4085554065dc1fc386296aabbcdd0e",
+      "sha256": "a9c427d2ce5fe80d21bb534e24fbcdad9f32d99a2fbf695a38e9342619596153"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "宇宙の彼方にある惑星Ziには、善と悪の住人が存在します。彼らは惑星の支配を得るために、ゾイドと呼ばれる機械化ロボットを使って世界の支配を巡って戦います。実験中に、異なる時代のゾイド戦士たち、カオティックセンチュリーとニューセンチュリーが衝突します。プレイヤーは、友人のヴァン、フィオナ、ビット・クラウドの助けを借りて混沌を取り戻したいゾイド戦士ゼルを操作します。選べるゾイドの種類はさまざまで、それぞれをアップグレードしたりカスタマイズしたりすることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zoids%20Saga%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zoids%20Saga%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zoids%20Saga%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

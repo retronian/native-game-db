@@ -1,0 +1,68 @@
+{
+  "id": "zero-one-sp",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zero One SP",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ZERO ONE SP",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zero One SP (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BZOJ",
+      "size": 16777216,
+      "crc32": "fd6ce886",
+      "md5": "267f45f19c0bd4cb4eec1879c2cbd7cf",
+      "sha1": "7ed2b25dff8783a924c5d6dfe2add95d766f32f0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 93952
+  },
+  "descriptions": [
+    {
+      "text": "ゼロワンSPは、2004年に日本のみでリリースされたテキストアドベンチャーゲームです。プレイヤーは、調査と対話を組み合わせたフェーズの中で、自身を取り巻く謎の鍵を発見しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-04-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Zero%20One%20SP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Zero%20One%20SP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Zero%20One%20SP%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

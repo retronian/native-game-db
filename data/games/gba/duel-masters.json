@@ -1,0 +1,62 @@
+{
+  "id": "duel-masters",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Duel Masters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デュエル・マスターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Duel Masters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AA9J",
+      "size": 8388608,
+      "crc32": "0c548021",
+      "md5": "8158ab44dd56ea9fe8f1f1a582467e74",
+      "sha1": "a0c274be856fadb3644fc65a85e4be813ba13313",
+      "sha256": "04cf1536570d5f208729c966da135fc85c4ad3972be58eab0691aafcbcc5d622"
+    }
+  ],
+  "external_ids": {
+    "igdb": 374543
+  },
+  "first_release_date": "2003-08-07",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duel%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duel%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duel%20Masters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

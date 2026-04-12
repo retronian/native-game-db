@@ -1,0 +1,72 @@
+{
+  "id": "tecmo-super-bowl-ii-special-edition",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tecmo Super Bowl II - Special Edition",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "テクモスーパーボウルII スペシャルエディション",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tecmo Super Bowl II - Special Edition (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-36043-00",
+      "size": 2097152,
+      "crc32": "32fb633d",
+      "md5": "9397e3b6ba68933c7450b269ca6ecca8",
+      "sha1": "cb9e8cc1651b719054f05e1e1a9e0fbbc3876ebd",
+      "sha256": "a4027ecd069bad745bbb2186c2f2f640d292025e656b5ed01af362312810c9ee"
+    },
+    {
+      "name": "Tecmo Super Bowl II - Special Edition (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-36056-00",
+      "size": 2097152,
+      "crc32": "0a0e67d8",
+      "md5": "b8e1a73da8e21b47049149ebb0b55de4",
+      "sha1": "5fadb2a0e780ec868671b0e888fad5d7c203f59f",
+      "sha256": "304bae033038151c55e274a0f4750aa0c826213e5e50efa7cc4429918fd1e52d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46598
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tecmo%20Super%20Bowl%20II%20-%20Special%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tecmo%20Super%20Bowl%20II%20-%20Special%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tecmo%20Super%20Bowl%20II%20-%20Special%20Edition%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

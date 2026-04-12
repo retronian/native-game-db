@@ -1,0 +1,57 @@
+{
+  "id": "faria-fuuin-no-tsurugi",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Faria - Fuuin no Tsurugi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファリア 封印の剣",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Faria - Fuuin no Tsurugi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "c4abceb2",
+      "md5": "428e7c83f126c449ad19410272aa74ef",
+      "sha1": "5812a436b142528f8ece66adb42c32ed9eacd0d8",
+      "sha256": "aebd819fdcac309f3bc220fd8973a422d6ebc4af23baa921b1a7cb44fe64ff99"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Faria%20-%20Fuuin%20no%20Tsurugi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Faria%20-%20Fuuin%20no%20Tsurugi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Faria%20-%20Fuuin%20no%20Tsurugi%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

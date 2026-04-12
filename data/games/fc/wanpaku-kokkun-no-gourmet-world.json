@@ -1,0 +1,68 @@
+{
+  "id": "wanpaku-kokkun-no-gourmet-world",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wanpaku Kokkun no Gourmet World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "わんぱくコックンのグルメワールド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wanpaku Kokkun no Gourmet World (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6ed1b405",
+      "md5": "ece980ea03b0c1c2b0e83dd611a832a2",
+      "sha1": "66f413d2e95c096ab9aa43f9f0559e3be27c58bf",
+      "sha256": "b5979d1142d52758aabf973fcd5f1666179e8be77ed353ef5339e5a5f0fa75a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215131
+  },
+  "descriptions": [
+    {
+      "text": "「わんぱくコックンのグルメワールド」は、横スクロールのプラットフォームゲームで、プレイヤーはシェフ・クッキーを操作します。ライバルのシェフ・オーダブが彼のレストランを乗っ取ってしまい、クッキーがそれを取り戻すために立ち上がります。\n\nゲームは基本的なプラットフォームゲームで、走ったりジャンプしたりしながら、周囲に配置された敵に立ち向かいます。ゲーム全体の背景や敵、ボスはすべて食べ物をテーマにしています。レストランを進む途中で、ソーセージや電子レンジ、玉ねぎ、ハンバーガーなどに出会います。敵を倒すために常にフライパンを持っており、スプーンや皿などのアイテムも見つけて敵に投げつけることができます。\n\nゲームは6つのステージで構成されており、それぞれキッチン、冷凍庫、地下など異なる場所に設定されています。各レベルの最後にはボスが待ち受けています。各レベルの間にはボーナスゲームがあり、スロットマシンをプレイして追加の体力やライフを獲得するチャンスがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-04-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wanpaku%20Kokkun%20no%20Gourmet%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wanpaku%20Kokkun%20no%20Gourmet%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wanpaku%20Kokkun%20no%20Gourmet%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

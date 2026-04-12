@@ -1,0 +1,60 @@
+{
+  "id": "soldiers-of-fortune",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soldiers of Fortune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "The Chaos Engine",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soldiers of Fortune (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "cf719a93",
+      "md5": "f6afe62ee85f004b35c36b8f92944cae",
+      "sha1": "90440d74aa01c4ae8a86c56d092263f6c9fa0d42",
+      "sha256": "6fe7c8d39fcfab7f0a18e837a7ee0dd162e0557d6989c6e0d10c81616d3a0b8b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4527
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Soldiers%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

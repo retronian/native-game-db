@@ -1,0 +1,45 @@
+{
+  "id": "pet-adoption-center",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pet Adoption Center",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pet Adoption Center (USA) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YR5E",
+      "size": 33554432,
+      "crc32": "68207f37",
+      "md5": "6575c77118d160bfdf2dc1f5813b7502",
+      "sha1": "56b5c7f153ffb88a89465f26ce0a8aaccd37ea4f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 122470
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Pet%20Adoption%20Center%20%28USA%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Pet%20Adoption%20Center%20%28USA%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

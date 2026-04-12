@@ -1,0 +1,65 @@
+{
+  "id": "metal-slader-glory-director-s-cut",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metal Slader Glory - Director's Cut",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メタルスレイダーグローリー ディレクターズカット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metal Slader Glory - Director's Cut (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "2cab2502",
+      "md5": "1f353927e2990450e870bc3182de84ad",
+      "sha1": "045e084c81bd84371e16ef770d29c1d11df98be2",
+      "sha256": "6bbb36ac6b0670729ef91dd3c19a1ea98fc10fef09ff07925d71467cd771b729"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "メタルスレイダーグローリーは、プレイヤーがメニュー形式のコマンドを通じて主人公の周囲と対話するグラフィックアドベンチャーゲームです。プレイヤーは新しい選択肢が現れるために、可能な限りすべてのオプションを探る必要があります。しかし、間違った選択をするとゲームは終了し、プレイヤーは前回の続きから再スタートしなければなりません。プレイヤーはゲームの任意の時点で終了し、パスワード機能を使って後で続けることができます。このゲームは、任天堂による公式のスーパーファミコンの最終リリースでもあります。スーパーファミコン版は、オリジナルのファミリーコンピュータ版に比べてグラフィックや音声が改善されており、ヨシミル星自身による再描画されたグラフィック、カートリッジの容量不足によりオリジナル版から除外された追加シーン、異なる背景音楽、エンディングに追加された新しいアートワークが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Slader%20Glory%20-%20Director%27s%20Cut%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Slader%20Glory%20-%20Director%27s%20Cut%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Slader%20Glory%20-%20Director%27s%20Cut%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

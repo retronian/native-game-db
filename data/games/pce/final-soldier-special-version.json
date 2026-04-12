@@ -1,0 +1,65 @@
+{
+  "id": "final-soldier-special-version",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Soldier - Special Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルソルジャー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Soldier - Special Version (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "02a578c5",
+      "md5": "838e1ae033f797bad4a122a593604a8f",
+      "sha1": "ba15992964c84d4c5998f5622ae78ad843cda5f0",
+      "sha256": "a467261e633acc49d26b28b258b6d92b066d88a9daf6cae1436656cda3933813"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "SFのトップダウンシューティングゲームで、スターソルジャーシリーズの続編です。再び、あなたの任務は信頼できるスターファイターを使って、異星人の侵略から銀河帝国を守ることです。\n\nゲームは複数のステージに分かれており、敵がいくつかの波で攻撃してきます。ステージボスに到達すると次のステージに進むことができます。ファイナルソルジャーでは、各ボタンにマッピングされた4つの異なるガンポッドが搭載されており、独立して発射することも、連携して発射することも可能です。各ポッドに何を装備するかはあなた次第です。レベル間で武器のロードアウトを選択できるだけでなく、ゲーム中に利用可能な武器タイプにサイクルするパワーアップを取得することもできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Final%20Soldier%20-%20Special%20Version%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Final%20Soldier%20-%20Special%20Version%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Final%20Soldier%20-%20Special%20Version%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

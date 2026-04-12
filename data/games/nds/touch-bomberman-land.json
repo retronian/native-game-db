@@ -1,0 +1,58 @@
+{
+  "id": "touch-bomberman-land",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Touch! Bomberman Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Touch! Bomberman Land (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "ABXK",
+      "size": 33554432,
+      "crc32": "e38a0183",
+      "md5": "a0be66e39b9500e4c5bc95e10d6b700f",
+      "sha1": "942e559016a43624bcb0d19723901bd26a8cfb59"
+    },
+    {
+      "name": "Touch! Bomberman Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ABXJ",
+      "size": 33554432,
+      "crc32": "3d2056ef",
+      "md5": "9027de15b58207c814470fa388090b1c",
+      "sha1": "0d30bdcc8231bf4e0dae117e0f3f7923a4795705"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Touch%21%20Bomberman%20Land%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Touch%21%20Bomberman%20Land%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Touch%21%20Bomberman%20Land%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

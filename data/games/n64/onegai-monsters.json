@@ -1,0 +1,69 @@
+{
+  "id": "onegai-monsters",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Onegai Monsters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おねがいモンスター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "Onegai Monster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Onegai Monsters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NOMJ",
+      "size": 16777216,
+      "crc32": "ac72a1c7",
+      "md5": "3796829f54958ce103dcf5e3e8eb80b4",
+      "sha1": "7592f4c16b8e040539b5dcc201fab2965a5e8c8d",
+      "sha256": "8de633b3c479269e8ba2df607c788b216277249a46d84583a3531393a7e1621d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44048
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Onegai%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Onegai%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Onegai%20Monsters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

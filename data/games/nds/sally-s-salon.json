@@ -1,0 +1,51 @@
+{
+  "id": "sally-s-salon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sally's Salon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sally's Salon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CSIE",
+      "size": 16777216,
+      "crc32": "3c51fa31",
+      "md5": "c3bfc1b7e55013612ed551bab133a677",
+      "sha1": "7c07864057cdb7c962b1320faf67f0a4f45867a7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 315369
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Sally%27s%20Salon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Sally%27s%20Salon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Sally%27s%20Salon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

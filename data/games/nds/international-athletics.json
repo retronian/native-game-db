@@ -1,0 +1,71 @@
+{
+  "id": "international-athletics",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "International Athletics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "인터내셔널 아틀레틱",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "International Athletics (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YA8P",
+      "size": 16777216,
+      "crc32": "2ce7a661",
+      "md5": "3f62ee6e04e2a2aa3a2b253e5a3d29d3",
+      "sha1": "23a2524eee993ece76d2b514e3f699d234078f11"
+    },
+    {
+      "name": "International Athletics (Europe) (En,Fr,De,Es,It) (Beta) (2008-11-04)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YA8P",
+      "size": 16777216,
+      "crc32": "763fb777",
+      "md5": "e3322e36b2097cb21cf69616339a7801",
+      "sha1": "66535851091ba590db8148d42974a91f945156b7",
+      "sha256": "c64623159e8c9aa530105627510e02396a34e310a0437f875c8cbe51328ca274"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20321
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/International%20Athletics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/International%20Athletics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/International%20Athletics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

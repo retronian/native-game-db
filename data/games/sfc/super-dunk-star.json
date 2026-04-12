@@ -1,0 +1,68 @@
+{
+  "id": "super-dunk-star",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Dunk Star",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー ダンクスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Dunk Star (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "2d391540",
+      "md5": "9e3134aa9182876854e4f40dcf23d08b",
+      "sha1": "2ed755825b9d40ebe74b43166e67f259ded7637b",
+      "sha256": "de8238bfb90eb38f435798427a0076fcff9552187024d0593fa76c52a6c06967"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42270
+  },
+  "descriptions": [
+    {
+      "text": "NBAに基づいたバスケットボールゲームですが、完全に架空のチームで構成されています。ゲームの大部分はNBA Jamスタイルで描かれており、コートの横からの視点と大きなスプライトのアスリートたちが特徴です。近距離からフィールドゴールを決めると（スラムダンクやその他の方法で）、カメラが一瞬バスケットのダイナミックなショットに切り替わります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Dunk%20Star%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Dunk%20Star%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Dunk%20Star%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

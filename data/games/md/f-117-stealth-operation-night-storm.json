@@ -1,0 +1,66 @@
+{
+  "id": "f-117-stealth-operation-night-storm",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F-117 Stealth - Operation - Night Storm",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "F-117 ステルス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F-117 Stealth - Operation - Night Storm (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-      -00",
+      "size": 2097152,
+      "crc32": "ea6e421a",
+      "md5": "d89c8068197892bf9e8abd5fa9d8c61b",
+      "sha1": "ded62d63676664c5b9e8a38e36ce1d2659d1c8d6",
+      "sha256": "e86289d26102848207dbee7331e6d1380fa8eca2f3a57944f0533b80fb82bb47"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームでは、プレイヤーがF-117A ステルス戦闘機を操縦することができます。ゲームはアーケードモードとキャンペーンモードの2つに分かれています。\n\nアーケードモードでは、プレイヤーは敵の空中および地上ユニットの数、環境、ミッションの長さ、難易度を選択できます。このモードでは、プレイヤーがキャンペーンモードに備えてスキルを磨くことができます。\n\nキャンペーンモードはゲームのメイン部分で、30のミッションが含まれています。このゲームには、ネバダ砂漠での訓練ミッションからパナマでの紛争、さらには湾岸戦争まで、9つの戦闘地域があります。各ミッションには、次のミッションに進むために破壊しなければならない主要な目標があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-05-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-117%20Stealth%20-%20Operation%20-%20Night%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-117%20Stealth%20-%20Operation%20-%20Night%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-117%20Stealth%20-%20Operation%20-%20Night%20Storm%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

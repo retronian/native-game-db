@@ -1,0 +1,66 @@
+{
+  "id": "general-chaos-daikonsen",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "General Chaos Daikonsen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大混戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "General Chaos Daikonsen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106253-00",
+      "size": 1048576,
+      "crc32": "05cc7369",
+      "md5": "9ff0afe64a5765a1e2bc1f40bcd2e554",
+      "sha1": "9f205fc916df523ec84e0defbd0f1400a495cf8a",
+      "sha256": "b875b4b90b95d38638e9fb1265efcd62caf3286d49ba8667cddeaf3c1b5983e6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「大混戦」は、アーケードスタイルの部隊リアルタイムストラテジーゲームで、プレイヤーは限られた戦場で5人の兵士のチームを操作します。クラシックな赤（ハボック将軍、ビセリアに本部）対青（カオス将軍、モロニカ）の全面戦争が繰り広げられます。ゲームの目的は、個々の戦闘に勝利し、敵の本部に前線を押し上げ、最終的に彼らの首都を制圧することです。\n\n兵士は5種類あり、それぞれ異なる武器と攻撃範囲を持っています：ガンナー（機関銃、中距離で広い弾道）、ローンチャー（ロケットランチャー、長距離）、チャッカー（バリケードを越えて投げられる手榴弾）、スコーチャー（火炎放射器、近接戦闘）、ブラスター（ダイナマイト、近距離）。各戦闘の前に、プレイヤーはアサルトチーム、ブルートフォース、コマンドos（異なる操作を持つ2人の兵士のチーム）、デモリッションの4つの選択肢からチームの構成を選ぶことができます。\n\nゲームプレイはシンプルで、Aボタンで最も近い敵を攻撃し、Bボタンでポインターの位置に移動し、Cボタンで兵士を切り替えます。コマンドosチームを使用すると操作が変わり、方向パッドで兵士を直接操作し、Bボタンで近くの別の兵士を呼び出します。基本的なコマンドは簡単ですが、プレイヤーはターゲットとの距離や攻撃角度などを考慮する必要があります。\n\n戦闘中に2人の敵兵士が対峙すると、格闘が始まります（ほこりの雲で示されます）。その際、戦闘は停止し、プレイヤーは兵士を直接操作します：Aでパンチ、Bでキック、Cでブロックします。ダウンした兵士は、戦闘の結果に応じて得られる十分な医療班がいれば救出可能です。\n\n最大4人のプレイヤーが協力プレイまたは対戦で楽しむことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/General%20Chaos%20Daikonsen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/General%20Chaos%20Daikonsen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/General%20Chaos%20Daikonsen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

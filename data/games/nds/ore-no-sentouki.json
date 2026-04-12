@@ -1,0 +1,48 @@
+{
+  "id": "ore-no-sentouki",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ore no Sentouki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ore no Sentouki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AGWJ",
+      "size": 16777216,
+      "crc32": "d3ad00b7",
+      "md5": "7cea6a1dfe0d57e3dfb9a84be20e3071",
+      "sha1": "bbb5604e635d1d8c6183cc5648ef8071618d88e5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ore%20no%20Sentouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ore%20no%20Sentouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ore%20no%20Sentouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

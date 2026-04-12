@@ -1,0 +1,40 @@
+{
+  "id": "outrun",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "OutRun",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アウトラン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "OutRun (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "e203f223",
+      "md5": "6dbeaf201713b8a2ffd0f2104fde1dfc",
+      "sha1": "4db6d354171a6e5f81d17d11e1aca7278a1fa95e",
+      "sha256": "f9aea093f9a2de9fe1de1f2cde35f7615a7856c43958131aebe026b54d226ed1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 307927
+  }
+}

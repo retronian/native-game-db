@@ -1,0 +1,67 @@
+{
+  "id": "k-o-the-pro-boxing",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "K.O. - The Pro Boxing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "K.O. -ザ・プロボクシング-",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "K.O. - The Pro Boxing (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "69f08c89",
+      "md5": "ae29aed4e24109e18ffe893da6b77fee",
+      "sha1": "6fca09dabfcf087156263f656b80ff57065bcbfe"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281596
+  },
+  "descriptions": [
+    {
+      "text": "プロボクサーを育成し、世界チャンピオンを目指すシミュレーションゲームです。トレーニングによって、パワーファイターやアウトボクサーなど、さまざまなタイプのファイターを作成できます。試合はアクションゲームで、プレイヤーがファイターを直接操作し、プレイヤーのスキルが試されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/K.O.%20-%20The%20Pro%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/K.O.%20-%20The%20Pro%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/K.O.%20-%20The%20Pro%20Boxing%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

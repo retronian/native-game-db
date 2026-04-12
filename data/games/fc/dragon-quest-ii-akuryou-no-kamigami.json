@@ -1,0 +1,64 @@
+{
+  "id": "dragon-quest-ii-akuryou-no-kamigami",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Quest II - Akuryou no Kamigami",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンクエストII 悪霊の神々",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Quest II - Akuryou no Kamigami (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "ecfa97e3",
+      "md5": "604ebaf033b95464c1db931844f48aa9",
+      "sha1": "aed5ea59ceb93d0bc7ef6acdaa0a223145e3f81f",
+      "sha256": "e646a9e682468f4fd5a33979a917fd7f60864f7b5cc6ad2f4e751b1127f35254"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ドラゴンクエストの続編。3人パーティで冒険するシステムが追加。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon%20Quest%20II%20-%20Akuryou%20no%20Kamigami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dragon%20Quest%20II%20-%20Akuryou%20no%20Kamigami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dragon%20Quest%20II%20-%20Akuryou%20no%20Kamigami%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

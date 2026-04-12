@@ -1,0 +1,72 @@
+{
+  "id": "finalset",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Finalset",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナルセット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Finalset (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e06fae58",
+      "md5": "e7983ce819f5a5976b0bd6e9ec20b9ba",
+      "sha1": "06f411f3aa45a052bac998be421082e21fc6b389",
+      "sha256": "80852b43c60b997ea75d7ae816cb94f01e1f1c4b32f3599fd7b0b4e39203ebbe"
+    },
+    {
+      "name": "Finalset (Japan) (En) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "191de0be",
+      "md5": "081b7732af4ebf84061f9066cfc6c005",
+      "sha1": "b2f3d9ba233c42156b12bbfe8fa6e111de00521f",
+      "sha256": "c14487952d49d10924f297cfc860b7748384a22e60fb9519ce908824c0a38758"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ファイナルセットは、オープンシステムとフォーラムによって制作されたスーパーファミコン用のテニスゲームです。このデュオは、スーパーファミコン向けのもう一つのゲーム「スーパーニンディーチャンプ」も手掛けました。ファイナルセットでは、実際の人物の写真を使用したさまざまなプレイ可能なテニスキャラクターと、デジタル化された俳優たちがアスリートとして登場します。\n\nゲームにはシングルスとダブルスのオプションがあり、ダブルスモードでは最大4人の人間プレイヤーが参加できます。また、ワールドモードではプレイヤーが自分自身のテニス選手を作成し、世界中の他のテニス選手を倒すことでステータスを向上させることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-09-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Finalset%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Finalset%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Finalset%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

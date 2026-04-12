@@ -1,0 +1,60 @@
+{
+  "id": "gradius-galaxies",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gradius Galaxies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Gradius Advance",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gradius Galaxies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AGAE",
+      "size": 4194304,
+      "crc32": "8103428d",
+      "md5": "6f16195283a6f16fc73c95c69f131b68",
+      "sha1": "dc0f3c4b71c7f543d1693d2a0c356f10f39d16d9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 77990
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Gradius%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Gradius%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Gradius%20Galaxies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

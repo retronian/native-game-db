@@ -1,0 +1,76 @@
+{
+  "id": "tiger-woods-pga-tour-golf",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tiger Woods PGA Tour Golf",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tiger Woods PGA Tour Golf (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AT5E",
+      "size": 8388608,
+      "crc32": "f3f26acc",
+      "md5": "1040f372f0d2ed64f01e582dffa6d89b",
+      "sha1": "88b204b7b51995e41459b532580b3956d7db55ad"
+    },
+    {
+      "name": "Tiger Woods PGA Tour Golf (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AT5X",
+      "size": 8388608,
+      "crc32": "38934732",
+      "md5": "41a75032e074d588cd043cdd73bd9019",
+      "sha1": "9d77f693c141d97a9e659997744c50087bf1fe4f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tiger%20Woods%20PGA%20Tour%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tiger%20Woods%20PGA%20Tour%20Golf%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Tiger%20Woods%20PGA%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Tiger%20Woods%20PGA%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Tiger%20Woods%20PGA%20Tour%20Golf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

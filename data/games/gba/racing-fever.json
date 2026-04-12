@@ -1,0 +1,84 @@
+{
+  "id": "racing-fever",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Racing Fever",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Racing Fever (France)",
+      "source": "no_intro",
+      "serial": "BRWF",
+      "size": 4194304,
+      "crc32": "4f61dedb",
+      "md5": "edfdf49642c0cc0458e0584792f869c5",
+      "sha1": "67eb3051c7527692cfd7515ea367796fab3a1362"
+    },
+    {
+      "name": "Racing Fever (World) (En,De,Es,It) (Evercade)",
+      "source": "no_intro",
+      "size": 4194304,
+      "crc32": "dbd09923",
+      "md5": "eccb480acab19463fa92940c3f573caf",
+      "sha1": "b10861c12a08826c58dffdbd3071ff72f753b76e",
+      "sha256": "76462c48a4e584c25435038687f3a240eaa9f88df1a9a79ce76a52b0c2941e4e"
+    },
+    {
+      "name": "Racing Fever (Europe) (En,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BRWP",
+      "size": 4194304,
+      "crc32": "e40ec737",
+      "md5": "f1040f25e06dd1f4b5fa2967a2996ffc",
+      "sha1": "9bb5c036bca8f0d2e06013cac7ea6148a4f7f512"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49352
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Racing%20Fever%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Racing%20Fever%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Racing%20Fever%20%28France%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Racing%20Fever%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Racing%20Fever%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Racing%20Fever%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

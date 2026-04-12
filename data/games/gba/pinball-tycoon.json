@@ -1,0 +1,79 @@
+{
+  "id": "pinball-tycoon",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pinball Tycoon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pinball Tycoon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "A2TP",
+      "size": 4194304,
+      "crc32": "5d52be1e",
+      "md5": "4fb2b65a3388a137a681530ec11494e7",
+      "sha1": "7fe9334b8fa8930393e70732be8187d00bb95236"
+    },
+    {
+      "name": "Pinball Tycoon (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2TE",
+      "size": 4194304,
+      "crc32": "1c4d3fdf",
+      "md5": "e0adff6ebe33cd13b57a7041f14599d8",
+      "sha1": "fac76a646d112a775f9877b53f1386716d968a79"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64477
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pinball%20Tycoon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pinball%20Tycoon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pinball%20Tycoon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pinball%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pinball%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pinball%20Tycoon%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

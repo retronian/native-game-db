@@ -1,0 +1,110 @@
+{
+  "id": "exo-squad",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Exo Squad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Exo Squad (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-132026-00",
+      "size": 1048576,
+      "crc32": "b599b9f9",
+      "md5": "d3b8d025b4273f7c9e8b81c11d5bcd93",
+      "sha1": "672c12b9cdfb2c7d8e0b1c389627c02a7c970cb3",
+      "sha256": "95f193bd8fffe93ab8e5876b93013029dbdf758fdb626574591dde8d26324d31"
+    },
+    {
+      "name": "Exo Squad (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-132026-00",
+      "size": 1048576,
+      "crc32": "10ec03f3",
+      "md5": "3297aed1b8bb83cca67bc2e24f84414a",
+      "sha1": "d958c3f2365162cb2ffa37fcea36695a1d4ab287",
+      "sha256": "855f0886c2f80f4c1f6752b72af78fc8756437271c7adfa295b5c5f7b41b3a1d"
+    },
+    {
+      "name": "Exo Squad (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-132026-00",
+      "size": 1048576,
+      "crc32": "70edf964",
+      "md5": "4a0b235e1dae98939698ccf7d5dd6876",
+      "sha1": "d165e0057a5d290ae02ff6cae9f99c2ebc8a3f7c",
+      "sha256": "174f760af2e713a3b84ca617931a232cbf9fc36c100a76b3a46436c35c976be4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45631
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Exo%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Exo%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Exo%20Squad%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Exo%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Exo%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Exo%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Exo%20Squad%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Exo%20Squad%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Exo%20Squad%20%28USA%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

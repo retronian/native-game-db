@@ -1,0 +1,70 @@
+{
+  "id": "kiwi-kraze-a-bird-brained-adventure",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kiwi Kraze - A Bird-Brained Adventure!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "The NewZealand Story",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kiwi Kraze - A Bird-Brained Adventure! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "ed85cefa",
+      "md5": "55a055b36291e944e6d7414b9836126f",
+      "sha1": "21c458b9a7192e0ca7b99778ab398cc02cd88a75",
+      "sha256": "8cfec9fe408039b68ac8a598197d4670ca74deecd09f70be892989102e429cf0"
+    },
+    {
+      "name": "Kiwi Kraze - A Bird-Brained Adventure! (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262160,
+      "crc32": "c583e730",
+      "md5": "2340b76fa3dc9090a66ebe523200a812",
+      "sha1": "9baa449f1240fdb236a19e7d3685018d9ba3258b",
+      "sha256": "c8ab47e543ccf54110e81382a94ac1cdfcabb9eda3eb37ca3477734df07d74aa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48147
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kiwi%20Kraze%20-%20A%20Bird-Brained%20Adventure%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kiwi%20Kraze%20-%20A%20Bird-Brained%20Adventure%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kiwi%20Kraze%20-%20A%20Bird-Brained%20Adventure%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

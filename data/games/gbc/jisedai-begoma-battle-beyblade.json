@@ -1,0 +1,68 @@
+{
+  "id": "jisedai-begoma-battle-beyblade",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jisedai Begoma Battle Beyblade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "次世代ベーゴマバトル ベイブレード",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jisedai Begoma Battle Beyblade (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "9c56977e",
+      "md5": "e1836b1ec913a6bfa1e02fc250727fa9",
+      "sha1": "fc2af4ebd10ca20158d231089a8378f6c4641329",
+      "sha256": "007e8ac021d0896e05496b871e8b006d7115cd7b904a2cc648cbd8649051afd3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 65708
+  },
+  "descriptions": [
+    {
+      "text": "このゲームは「ベーゴマ」を基にしたRPGで、各ベーゴマには石や電気などの属性があり、その属性に特有のスペシャルムーブを使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-07-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jisedai%20Begoma%20Battle%20Beyblade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jisedai%20Begoma%20Battle%20Beyblade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jisedai%20Begoma%20Battle%20Beyblade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

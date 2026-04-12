@@ -1,0 +1,77 @@
+{
+  "id": "haja-no-fuuin",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Haja no Fuuin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "覇邪の封印",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ミネルバトンサーガ ラゴンの復活",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Haja no Fuuin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "62af1437",
+      "md5": "5317ac4e874e0cc3de798e361ca38865",
+      "sha1": "4bbcc6134edb00a92292542f3627af05daa9e257",
+      "sha256": "ea38ae6a4767166d402b43f9d5ffce8c1723fe0e4c75094304f98f2d15d65ce0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48477
+  },
+  "descriptions": [
+    {
+      "text": "ダークロード・テラリンの封印が破られ、テラリンが再び世界に解き放たれました。彼女はゴールデンシールを奪い、パンドラの箱を開けて悪のクリーチャーを世界に解き放ちました。若き英雄は王からテラリンを止めるよう命じられます。彼はかつてテラリンを誤って解き放ち、再びダークロードを封印するために戦った羊飼いイアソンの足跡を辿らなければなりません。英雄は、戦士ガイ、アマゾネスのメディ、海賊トレオ（マニュアルではトゥロと呼ばれています）の三人の仲間の助けを借り、テラリンの巣窟への三つの鍵を見つけなければなりません。ダークロードに立ち向かうために、彼らは古の神秘的な武器と鎧を見つけ、テラリンを打ち倒し、ダークロードを世界から封印しなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-10-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Haja%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Haja%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Haja%20no%20Fuuin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

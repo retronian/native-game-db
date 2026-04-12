@@ -1,0 +1,52 @@
+{
+  "id": "gunship",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gunship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gunship (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-79086-50",
+      "size": 1048576,
+      "crc32": "da1440c9",
+      "md5": "b4fe88cb2842314c9b9169d2f393d514",
+      "sha1": "3820eac00b888b17c02f271fab5fd08af99d5ef9",
+      "sha256": "b008d46d7337d6bc2fa97e8392c0aff446ded8e158108d23450c62521eb0cb6c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 133964
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Gunship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Gunship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Gunship%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

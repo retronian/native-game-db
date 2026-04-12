@@ -1,0 +1,86 @@
+{
+  "id": "fire-pro-wrestling-3-legend-bout",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fire Pro Wrestling 3 - Legend Bout",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイヤープロレスリング3 レジェンドバウト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ファイヤープロレスリング3 Legend Bout",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ファイヤープロレスリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fire Pro Wrestling 3 - Legend Bout (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "534e8808",
+      "md5": "4977af10c5295122b48252d0d7f0b5d9",
+      "sha1": "77a3a3a69ef847f4b84c1b510934fe73db9fa442",
+      "sha256": "ce112859d15ef05784fe66ac9487fe9c2971e475efe2aad951b9a01619b2ff6f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42071
+  },
+  "descriptions": [
+    {
+      "text": "ファイアプロレスリング3: レジェンドバウトは、長寿シリーズであるファイアプロレスリングの第3作目です。このゲームは、最初の2作と非常に似ていますが、レスラーの数が大幅に増加しており、レスラー編集モードや「隠しモード」といった新しいモードもいくつか追加されています。通常のレスラーは28人、隠しレスラーは4人います。いつものように架空のキャラクターですが、ハルク・ホーガンなどの実在のレスラーを基にしています。これはPCエンジン用のスタンドアロンコンソールとしてのシリーズ最後の作品で、アーケードCD-ROM²アドオン用にもう1作がリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-11-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Fire%20Pro%20Wrestling%203%20-%20Legend%20Bout%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Fire%20Pro%20Wrestling%203%20-%20Legend%20Bout%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Fire%20Pro%20Wrestling%203%20-%20Legend%20Bout%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

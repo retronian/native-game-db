@@ -1,0 +1,107 @@
+{
+  "id": "resident-evil-2",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Resident Evil 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    },
+    {
+      "text": "레지던트 이블 2",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "バイオハザード2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Biohazard 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Resident Evil 2 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 798025552,
+      "crc32": "93cc2726",
+      "md5": "9a4c06ad48aaf93a5ff8e289c8d33c88",
+      "sha1": "264cbb19ad69ae023e2eea5811b498df8e7cd675"
+    },
+    {
+      "name": "Resident Evil 2 (Germany)",
+      "source": "no_intro",
+      "size": 798026832,
+      "crc32": "09263a70",
+      "md5": "dce321e8cb09e4deff4a7db4b2a7855e",
+      "sha1": "0b40604f7ecb1795bf0f7ad7767a630d8c9451c2"
+    },
+    {
+      "name": "Resident Evil 2 (France)",
+      "source": "no_intro",
+      "size": 798026064,
+      "crc32": "7f9ac245",
+      "md5": "9122a3bf0848b53d8d58a53b2952ab81",
+      "sha1": "9e1b7bdd4faf0460aa671ca88590d27f40fef153"
+    },
+    {
+      "name": "Resident Evil 2 (Italy)",
+      "source": "no_intro",
+      "size": 798025632,
+      "crc32": "5d7b4733",
+      "md5": "bc7049450a643a6f249f1d5982dea5a9",
+      "sha1": "173ca36e89d03ca37aa7fea2dffbc7b9c08d8d96"
+    }
+  ],
+  "external_ids": {
+    "igdb": 880
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%202%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Resident%20Evil%202%20%28USA%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Biohazard%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

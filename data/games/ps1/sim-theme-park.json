@@ -1,0 +1,65 @@
+{
+  "id": "sim-theme-park",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sim Theme Park",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "テーマパークワールド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Theme Park World",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sim Theme Park (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 296186224,
+      "crc32": "826bb9dd",
+      "md5": "88e1dad7c83e15e7b5376b589e13e316",
+      "sha1": "4b3b7277f03cbb7a98c678e1ac31cc58017147d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12484
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Theme%20Park%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Theme%20Park%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Theme%20Park%20World%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

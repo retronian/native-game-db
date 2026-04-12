@@ -1,0 +1,68 @@
+{
+  "id": "chibi-maruko-chan-uki-uki-shopping",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chibi Maruko-chan - Uki Uki Shopping",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ちびまる子ちゃん うきうきショッピング",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chibi Maruko-chan - Uki Uki Shopping (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "b0af0bbe",
+      "md5": "1c4a0bab012e3421067ed8c9638b52a1",
+      "sha1": "4e41d31c00e0336b0a9b8902100792f42ea88d03",
+      "sha256": "e2f29095f6fe63af1d9b1f9450d044e9fb4c91634fd4ffd3ba459b148b354d50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48719
+  },
+  "descriptions": [
+    {
+      "text": "ちびまる子ちゃん うきうきショッピングは、ファミコン向けのシンプルなボードゲームで、子供向けに作られています。プレイヤーは地図を移動し、他のプレイヤーよりも先に特定のランドマークに到達することを目指します。その途中で、各地の土産物を購入することができます。ゲームには特に複雑な要素はなく、結果は保存されず新しい地図に引き継がれることもありません。現在のゲームに勝つことが全てです。ゲームプレイと基本的なコンセプトはシンプルで、他のプレイヤーや自分に影響を与える特別なカードを受け取ることができます。さらに、円を獲得するだけでなく、土産物を購入して家に送ることで得られるハピネスポイントも獲得できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chibi%20Maruko-chan%20-%20Uki%20Uki%20Shopping%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chibi%20Maruko-chan%20-%20Uki%20Uki%20Shopping%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chibi%20Maruko-chan%20-%20Uki%20Uki%20Shopping%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

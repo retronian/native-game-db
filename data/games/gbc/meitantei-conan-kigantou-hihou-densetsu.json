@@ -1,0 +1,64 @@
+{
+  "id": "meitantei-conan-kigantou-hihou-densetsu",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Meitantei Conan - Kigantou Hihou Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "名探偵コナン Detective Conan 奇岩島秘宝伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e620fae2",
+      "md5": "f5325eaf1ecbf7cd6e1e561a3b5d77f7",
+      "sha1": "cd3f8015e5b708f1eb14c374042a1701eeaafc4f"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "奇岩島秘宝伝説（英語名：The Legend of Treasure on a Strange Rock Island）は、名探偵コナンシリーズのトップダウンアドベンチャーゲームで、主人公の江戸川コナン（本名：工藤新一）が奇岩島の謎を解くための事件に挑みます。しかし、ゲーム内ではコナンだけでなく、工藤の彼女である蘭や、コナンのおかげで名探偵となった蘭の父・小五郎、蘭の高校の親友・園子、そしてコナンのクラスメートである光彦、歩、美々といったキャラクターも操作可能です。操作するキャラクターによって、特定のエリアへのアクセスが可能または不可能になり、他のキャラクターとの対話や反応も異なる場合があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Meitantei%20Conan%20-%20Kigantou%20Hihou%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Meitantei%20Conan%20-%20Kigantou%20Hihou%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Meitantei%20Conan%20-%20Kigantou%20Hihou%20Densetsu%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

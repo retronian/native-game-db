@@ -1,0 +1,45 @@
+{
+  "id": "squishy-tank",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Squishy Tank",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Squishy Tank (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CYWE",
+      "size": 16777216,
+      "crc32": "9324ad2d",
+      "md5": "781a86870dd22171fdd746e5d065f6f0",
+      "sha1": "37fd97e688fd95707e737458d4f84e8b4d138a8e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68088
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Squishy%20Tank%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Squishy%20Tank%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

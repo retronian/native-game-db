@@ -1,0 +1,48 @@
+{
+  "id": "eggheads",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Eggheads",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Eggheads (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B4OP",
+      "size": 8388608,
+      "crc32": "3526a341",
+      "md5": "5e1ef27aec1e288484397193c481b159",
+      "sha1": "2c4d59a574195c381363e991a40a435746024fe9"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eggheads%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eggheads%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eggheads%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

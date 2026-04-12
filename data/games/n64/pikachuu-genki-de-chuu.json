@@ -1,0 +1,68 @@
+{
+  "id": "pikachuu-genki-de-chuu",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pikachuu Genki de Chuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピカチュウげんきでちゅう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pikachuu Genki de Chuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NPGJ",
+      "size": 16777216,
+      "crc32": "3f6245ae",
+      "md5": "e0bcb2758edf0ac6ab7db36d98e1e57c",
+      "sha1": "a28c689e58f58b4a2a672d3d010436661d247476",
+      "sha256": "99eb713ed5cea0c86652f813b4e313e3080dd063722a1338bc453366bf46819b"
+    },
+    {
+      "name": "Pikachuu Genki de Chuu (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 16777216,
+      "crc32": "bb313242",
+      "md5": "e0901d23a7e24e938fa62975856bd7f0",
+      "sha1": "a6b2845c2c6e34b34ea2e039b4a3131abd752ba8",
+      "sha256": "863ebec5ec450b2936bb81df8abf85d3abda5b81a93457a1f25adc0b5eba67d1"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Pikachuu%20Genki%20de%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Pikachuu%20Genki%20de%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Pikachuu%20Genki%20de%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

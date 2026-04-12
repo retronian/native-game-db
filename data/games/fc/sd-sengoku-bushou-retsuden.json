@@ -1,0 +1,65 @@
+{
+  "id": "sd-sengoku-bushou-retsuden",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Sengoku Bushou Retsuden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD戦国武将列伝 烈火のごとく天下を盗れ!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Sengoku Bushou Retsuden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f628c3d5",
+      "md5": "a35c2054e64f86d7c282d55147ef6d38",
+      "sha1": "f2a77d9c6effb43d61e1bdcefbe7c89dccc53ab9",
+      "sha256": "250a7582c0616b2381b9c0956bcf51c3690ff1cab7daaff48203984e4fc5f22c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "SDグラフィックと簡略化されたメカニクスを活用した戦国スタイルの戦略ゲーム。大名を選び、土地を征服しよう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Sengoku%20Bushou%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SD%20Sengoku%20Bushou%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Sengoku%20Bushou%20Retsuden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

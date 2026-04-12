@@ -1,0 +1,68 @@
+{
+  "id": "fushigi-no-umi-no-nadia",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fushigi no Umi no Nadia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ふしぎの海のナディア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fushigi no Umi no Nadia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7e48832d",
+      "md5": "5607cf2af4d0327bf39adaa664436937",
+      "sha1": "b530a44b9b72eb4c5b0d686dc9c359081f52fe45",
+      "sha256": "5dc44812222c2591663dc8751472d3d2ff850994d5d1f2920cce96ef0adefec4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48490
+  },
+  "descriptions": [
+    {
+      "text": "アニメ「ふしぎの海のナディア」を基にしたゲームです。プレイヤーは1ターンごとに1キャラクターを使用し、50種類の異なるバトルフィールドで戦います。キャラクターは移動するか、スキルやアイテムを使用するか、RPGのようなターン制の近接戦闘に入ることができます。敵を倒すことでキャラクターは経験値を獲得し、レベルアップします。このレベルは次回のセッションでも保持されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-03-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Fushigi%20no%20Umi%20no%20Nadia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Fushigi%20no%20Umi%20no%20Nadia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Fushigi%20no%20Umi%20no%20Nadia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "super-robot-taisen-f",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen F",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦 F",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen F (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 366478848,
+      "crc32": "6edcedbf",
+      "md5": "d97771b2b3b09973ae71462df912f8ac",
+      "sha1": "4827ac3826c7c80d1966eb08a18cb39a5efb2804"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46667
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Super%20Robot%20Taisen%20F%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Super%20Robot%20Taisen%20F%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Super%20Robot%20Taisen%20F%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "shinzui-taikyoku-igo-go-sennin",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shinzui Taikyoku Igo - Go Sennin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "真髄対局囲碁 碁仙人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "真髄 対局 囲碁 碁 仙人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shinzui Taikyoku Igo - Go Sennin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "13fcc999",
+      "md5": "4181788e2f5563d59bc51be4aca6ef3b",
+      "sha1": "ed61e7df9675dbe93c77540c97ce51b5c3f60998",
+      "sha256": "1b1575b5aff461414be856499f53a91c3a3eb9c0ec374a8c2af51bd0febb5aac"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42318
+  },
+  "first_release_date": "1995-06-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Shinzui%20Taikyoku%20Igo%20-%20Go%20Sennin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Shinzui%20Taikyoku%20Igo%20-%20Go%20Sennin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Shinzui%20Taikyoku%20Igo%20-%20Go%20Sennin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

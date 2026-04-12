@@ -1,0 +1,65 @@
+{
+  "id": "metal-flame-psy-buster",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metal Flame - Psy Buster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メタルフレーム サイバスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metal Flame - Psy Buster (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "430adaac",
+      "md5": "f730b8dd49c6944763a4868c2a943ea4",
+      "sha1": "a5966b534821d9f930477f22a791d8b48b6589db",
+      "sha256": "091eacff60deda68461345d3d6aefafee6af077cfa59fcf60a2ee4ed560fd437"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "あなたは「メタルフレーム サイバスター」のメタルメック車両のパイロットを操作します（ロボコップのED-209に似た外見です）。画面上を左右に移動でき、メックに乗っている時もいない時も、真下以外の方向に攻撃することができます。メックは装甲が厚いですが、ターゲットが大きく、梯子を登るには大きすぎるため、外にいることも多くなります。あなたの目標は、ランダムに生成される敵が満ちた各レベルをクリアし、次のレベルに到達することです。パワーアップはさまざまなコンテナや場所に隠されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Metal%20Flame%20-%20Psy%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Metal%20Flame%20-%20Psy%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Metal%20Flame%20-%20Psy%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

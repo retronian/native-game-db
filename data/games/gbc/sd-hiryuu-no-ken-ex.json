@@ -1,0 +1,64 @@
+{
+  "id": "sd-hiryuu-no-ken-ex",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Hiryuu no Ken EX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD飛龍の拳EX",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "365bf43f",
+      "md5": "919c330030214de201278fc6a232a661",
+      "sha1": "bed7b913a395ae4b62eac39ff8d6b3093529ed45"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "デフォルメされた「飛龍の拳」キャラクターたちが激しい戦闘を繰り広げます。ピンチの時に発動できる秘技のシステムは健在です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/SD%20Hiryuu%20no%20Ken%20EX%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/SD%20Hiryuu%20no%20Ken%20EX%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/SD%20Hiryuu%20no%20Ken%20EX%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

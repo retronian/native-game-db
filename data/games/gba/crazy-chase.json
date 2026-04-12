@@ -1,0 +1,118 @@
+{
+  "id": "crazy-chase",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crazy Chase",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crazy Chase (Europe) (En,Fr,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ACCP",
+      "size": 4194304,
+      "crc32": "313f4ffc",
+      "md5": "0a9938a6bb7b657a1fb2588b91900122",
+      "sha1": "4b711c4514e10f89aab6ea69cbafd64ac5e2f52b"
+    },
+    {
+      "name": "Crazy Chase (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ACCE",
+      "size": 4194304,
+      "crc32": "caba1db9",
+      "md5": "44a36f758c4328aa0ffc91ec118cf28d",
+      "sha1": "c84759eba2683a44f49f3cf52ad7c82d6a85ca74",
+      "sha256": "663c9549c4de6c167e4bd62726d5a2b17e32cb96ba51f70d368143501f3ae2e4"
+    },
+    {
+      "name": "Crazy Chase (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APXJ",
+      "size": 4194304,
+      "crc32": "ff7e2e9b",
+      "md5": "7fc96f1c2565f244c7dd561b6cbe43bf",
+      "sha1": "55805ec4d5dfa28d628c2c9e3df509a8763929eb"
+    },
+    {
+      "name": "Crazy Chase (Europe) (En,Fr,De) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "APXJ",
+      "size": 4194304,
+      "crc32": "5f331132",
+      "md5": "2670653630214cf574b16ed8a7c9ea9e",
+      "sha1": "39530e28dd22a710f2cc414b377c638078aa54b7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49157
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crazy%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crazy%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crazy%20Chase%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Crazy%20Chase%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

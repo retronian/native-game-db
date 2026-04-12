@@ -1,0 +1,45 @@
+{
+  "id": "powerbike",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Powerbike",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Powerbike (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "C2BE",
+      "size": 33554432,
+      "crc32": "81221d32",
+      "md5": "5272835ae519e23509a1e72ab76c741f",
+      "sha1": "4d09fecea1b9e04884e3b8bc97a506800806bb36"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91712
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Powerbike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Powerbike%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

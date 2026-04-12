@@ -1,0 +1,66 @@
+{
+  "id": "ninja-ryuuken-den-iii-yomi-no-hakobune",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja Ryuuken Den III - Yomi no Hakobune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者龍剣伝III 黄泉の方舟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "忍者龍剣伝III　黄泉の方船",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja Ryuuken Den III - Yomi no Hakobune (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "9497d2cd",
+      "md5": "a8d77743df2299776bd5d4662a0c5a66",
+      "sha1": "3b3fe080fde5c35a1fc53756b66eef1a9103d0a1",
+      "sha256": "a3d0ba6ba4d28dcf882978136ad14ae6ba4edc1a6a03c8c8614d803d283e74e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja%20Ryuuken%20Den%20III%20-%20Yomi%20no%20Hakobune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja%20Ryuuken%20Den%20III%20-%20Yomi%20no%20Hakobune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja%20Ryuuken%20Den%20III%20-%20Yomi%20no%20Hakobune%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "banana",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Banana",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バナナ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Banana (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "ef2bdc7d",
+      "md5": "a04ac6195ecbbb4cd2922666cc6b4757",
+      "sha1": "c9963cc5c5ea830a691ff77be3a0b9bcecade540",
+      "sha256": "bb954de13559aa5ba4acec3f961cc55ae939d5e75c2cc232f2ea7cdc05c634c5"
+    },
+    {
+      "name": "Banana (Japan) (En) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "a6c3ecb9",
+      "md5": "f41e0e6608fb036101b51e1cdeb56ec9",
+      "sha1": "1f942255d81f02b8a8564a5beb431a06a1f2540e",
+      "sha256": "bb9259fb0fa61d5597b29bb82880137e0be2d1e667c0584cdf26679cfae10d95"
+    },
+    {
+      "name": "Banana (Japan) (En) (Beta 2) (1986-06-30)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "15c5a46d",
+      "md5": "7ad39f1f19b1f1ae8e86a3aa24c24374",
+      "sha1": "14b72821c7c2ba2522ab8da1fe01b4fba0502124",
+      "sha256": "2abd4d193fd07ff88ac8f28985df3324fcf2813f222392ed9f468373fd4a69d6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 95469
+  },
+  "descriptions": [
+    {
+      "text": "シンプルなアクションパズルゲーム。バナナをテーマにした軽快な内容。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-07-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Banana%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Banana%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Banana%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

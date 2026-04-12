@@ -1,0 +1,67 @@
+{
+  "id": "superstar-pro-wrestling",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Superstar Pro Wrestling",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパースタープロレスリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "プロレスリング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Superstar Pro Wrestling (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "cbe235f9",
+      "md5": "ac543e46aa5447788c7aafe949fc3cd9",
+      "sha1": "41f1ae544164f93a0323925df68ee8242ef7f958",
+      "sha256": "6ab76e77c1e9fc80a28e37f3e586126c496fc841f644e8dc3a30214855ce1ea3"
+    }
+  ],
+  "first_release_date": "1989-12-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Superstar%20Pro%20Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Superstar%20Pro%20Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Superstar%20Pro%20Wrestling%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

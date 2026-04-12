@@ -1,0 +1,56 @@
+{
+  "id": "matchstick",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Matchstick",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Matchstick Puzzle by DS",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Unou Kaiten: Match-Bou Puzzle DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Matchstick (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YIIE",
+      "size": 8388608,
+      "crc32": "6efaf1e9",
+      "md5": "b42024dee45af684ddb58aed5ad8b243",
+      "sha1": "0ef7262e7beb07ea90050c54c1362dadbed4af3e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 91700
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Matchstick%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

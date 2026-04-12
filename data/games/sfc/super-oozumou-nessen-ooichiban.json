@@ -1,0 +1,81 @@
+{
+  "id": "super-oozumou-nessen-ooichiban",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Oozumou - Nessen Ooichiban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー大相撲 熱戦大一番",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Oozumou - Nessen Ooichiban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "091617bb",
+      "md5": "a991d10fc03b355a4a16a13b1f0828f3",
+      "sha1": "077e9a7a04bc88f39157e08806ae6e048fcf2cd2",
+      "sha256": "2952e215d77fe22cf7f0a4a8ce68cf98015b42912525f159064cf75cc729520b"
+    },
+    {
+      "name": "Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7b78b9d6",
+      "md5": "929f0407b69e39fa0988ea7423b6a62a",
+      "sha1": "9c9a38d8e7f9775313076605889577625c269cb1",
+      "sha256": "a5537ea316d5e57e0d0949cfeec81fb3af2959a6d3e1b3711a1fbcb1dae7c506"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパー大相撲 熱戦大一番は、ナムコが制作した相撲ゲームで、2人の人間プレイヤー、2人のCPUプレイヤー、またはその両方が対戦できるようになっています。このゲームは、武道としての相撲の技術的な側面を再現しようとしています。力士たちは組み合い、相手を圧倒しようとしながら、保持を変えたり力を蓄えたりして、相手を土俵の外に押し出そうとします。\n\nこのゲームはナムコの短命なコンソールゲーム制作部門であるナムコットによって開発・発売されました。日本国内のスーパーファミコン専用にリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Oozumou%20-%20Nessen%20Ooichiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Oozumou%20-%20Nessen%20Ooichiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Oozumou%20-%20Nessen%20Ooichiban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Oozumou%20-%20Nessen%20Ooichiban%20%28Japan%29%20%28Beta%29%20%281992-10-10%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

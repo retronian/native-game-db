@@ -1,0 +1,68 @@
+{
+  "id": "toy-robo-force",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Toy Robo Force",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トイロボフォース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Toy Robo Force (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ATRJ",
+      "size": 4194304,
+      "crc32": "227fc16b",
+      "md5": "8e5b4bb736b5030cf13052634d01ef69",
+      "sha1": "6ef30145099d09cf1a1f2b3bc6618a985dabdaae"
+    }
+  ],
+  "external_ids": {
+    "igdb": 54896
+  },
+  "descriptions": [
+    {
+      "text": "未来の世界では、ロボットが建設作業や人間には危険すぎる、または興味がないと見なされる仕事に使われています。しかし、ある日、彼らのAIが反乱を起こし、人々を殺し始めることで急速に脅威となりました。反乱を止め、平和を取り戻すために、警察ロボットにさまざまな装備を整えましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-06-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Toy%20Robo%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Toy%20Robo%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Toy%20Robo%20Force%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

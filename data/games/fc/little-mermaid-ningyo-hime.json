@@ -1,0 +1,102 @@
+{
+  "id": "little-mermaid-ningyo-hime",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Mermaid - Ningyo Hime",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リトル・マーメイド 人魚姫",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "リトル・マーメイド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Mermaid - Ningyo Hime (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "c00ef6d3",
+      "md5": "37f953efe66f3853e6cff65338bb4394",
+      "sha1": "b80684d223289bdc9920a0b5b13c577215fd14f7",
+      "sha256": "c964567bba155dc199c77fd76ca72838c2ce998c6e7e7e17426f3044a2cc9c7c"
+    },
+    {
+      "name": "Little Mermaid - Ningyo Hime (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "4f7bea8e",
+      "md5": "0448e9e15d18a670878c251aeb2ac65c",
+      "sha1": "c2a57b5b6275b9aed9599aedf27de58457379c99",
+      "sha256": "4eab3570c103db9622806ef74507143fd2495092aff6e94102fde841e11788e9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このディズニーの「リトル・マーメイド」では、プレイヤーは人魚のアリエルを操作します。\n\nアリエルはすでにエリックと出会い、結婚を計画していますが、海の魔女アースラが海を支配してしまいました！そこでアリエルは（エリックに状況を説明した後）再び人魚になり、海を救うために旅立ちます。\n\nゲームは横視点で進行し、アリエルは主に泳ぎながら時折陸を跳ね回ることができます。彼女は泡を発射して敵を捕らえ、その泡を互いに投げつけることができます。また、砂を掘って宝物を見つけたり、貝殻を拾って宝箱を開ける手助けをすることもできます。\n\n砂の中で見つける宝物は通常ボーナスポイントですが、宝箱の中で見つける宝物はアリエルの泡の力と射程を増加させます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-07-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Mermaid%20-%20Ningyo%20Hime%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

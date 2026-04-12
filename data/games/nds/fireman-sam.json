@@ -1,0 +1,45 @@
+{
+  "id": "fireman-sam",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fireman Sam",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fireman Sam (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3FP",
+      "size": 8388608,
+      "crc32": "00ea7a54",
+      "md5": "80f82f1eb9e5b4b0a6d1d86126891943",
+      "sha1": "6da0b4a1d61fcac18b2e366a0a6c5a045241a652"
+    }
+  ],
+  "external_ids": {
+    "igdb": 287373
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fireman%20Sam%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fireman%20Sam%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

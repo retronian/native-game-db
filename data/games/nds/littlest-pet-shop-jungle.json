@@ -1,0 +1,77 @@
+{
+  "id": "littlest-pet-shop-jungle",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Jungle",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Littlest Pet Shop: Jungle",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Jungle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl,Cs)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CPJP",
+      "size": 67108864,
+      "crc32": "208e5d68",
+      "md5": "61f2159d083ec046ec8c74c246fcd7bd",
+      "sha1": "0aea4e22d6e2189e491580bb738ca8b51a23a727",
+      "sha256": "366233f9e6098b4aced72646003984a43b350a2cf3eb59776c692afcc096cb60"
+    },
+    {
+      "name": "Littlest Pet Shop - Jungle (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CPJE",
+      "size": 67108864,
+      "crc32": "999cd993",
+      "md5": "a0c25ec4925e08ac9459a073a9dbb0c6",
+      "sha1": "603e6ddff97a21b2e8110c7421f4ebe10935b556"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48019
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Jungle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Jungle%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Jungle%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Jungle%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

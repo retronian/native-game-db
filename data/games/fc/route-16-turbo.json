@@ -1,0 +1,65 @@
+{
+  "id": "route-16-turbo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Route-16 Turbo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ルート16ターボ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Route-16 Turbo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "114e118f",
+      "md5": "d6b632dd54713077ccbd28150feda8d4",
+      "sha1": "94a57b4d3d7033bacfa0ac9b0b0adaf03bdfd5ea",
+      "sha256": "20cb0d8e549a629bc853b6fb22b83cf78bc75d38e9b327455394d3538e60548b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ルート16ターボは、テクカン（後のテクモ）とサンソフトが共同開発した古いアーケードゲーム「ルート16」のアップデート版です（ナムコのワープマンがワープ＆ワープのアップデート版であるのと同様の方法です）。ルート16ターボは、ルート16で確立されたコンセプトを引き継ぎ、グラフィックの品質を向上させつつ、ゲームの目的はそのままにしています。ゲームプレイは、ラリーXとベンチャーのほぼ完璧な組み合わせです。プレイヤーは車を運転し、拡大されたブロックの中でお金の袋やその他のアイテムを集め、縮小された世界のビューを通じてブロック間を移動します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1985-10-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Route-16%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Route-16%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Route-16%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

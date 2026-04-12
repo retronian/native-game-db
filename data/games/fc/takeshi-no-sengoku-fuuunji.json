@@ -1,0 +1,85 @@
+{
+  "id": "takeshi-no-sengoku-fuuunji",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Takeshi no Sengoku Fuuunji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "たけしの戦国風雲児",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Takeshi no Sengoku Fuuunji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "cdaa4e0a",
+      "md5": "a74121b959741aefdb1a2b222c2f3c82",
+      "sha1": "ba2eda7f8843b0c16a8b6f637a7c72694b9991e9",
+      "sha256": "e52d7964ecbf1ec72ef0ed2bab9ba12cc4c3632541357e8b9b4ca46c79512f59"
+    },
+    {
+      "name": "Takeshi no Sengoku Fuuunji (Japan) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "285e03f5",
+      "md5": "deb664b2815a6f2f915083e55c93e556",
+      "sha1": "8202dd4bab6e0f799606cdae10cd2f95bf9cc253",
+      "sha256": "d881a7d3824af3f8fb7ed4aeaf30486bbac4ddd9d78f61108ebf00381fd44c09"
+    },
+    {
+      "name": "Takeshi no Sengoku Fuuunji (Japan) (Beta 1) (1988-06-04)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "0626f063",
+      "md5": "81f85aa27081f199c4925f946ca397f7",
+      "sha1": "919b2cb7ad1fc64eaaaf2791b6cae10499b1ac7f",
+      "sha256": "8b48ca9038df77708d45f8d963970178925f1410be04fa6824861063398c62de"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「たけしの戦国風雲児」は、タイトーがファミコン向けに開発し、1988年の終わりにリリースされたボードゲームシミュレーションです。日本のコメディアンから俳優に転身した「ビート」たけしこと北野武が主演しており、彼はパロディゲーム「たけしの挑戦状」でファミコンに初登場しました。プレイヤーは「人生ゲーム」のようにボード上を移動し、お金を稼いだり、時折ミニゲームなどのイベントに遭遇します。ミニゲームに成功すれば富を増やすことができる一方、ペナルティもあります。ゲーム全体には戦国時代のテーマが流れており、侍キャラクターや、プレイヤーがそのターンにボード上を移動できるマス数を決定するためにサイコロを振る入れ墨のギャンブラーが登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-11-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takeshi%20no%20Sengoku%20Fuuunji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takeshi%20no%20Sengoku%20Fuuunji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takeshi%20no%20Sengoku%20Fuuunji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

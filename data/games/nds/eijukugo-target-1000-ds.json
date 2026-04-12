@@ -1,0 +1,60 @@
+{
+  "id": "eijukugo-target-1000-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Eijukugo Target 1000 DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "英熟語ターゲット1000DS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Eijukugo Target 1000 DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YEOJ",
+      "size": 67108864,
+      "crc32": "1fb98617",
+      "md5": "b91849ceb3f6e5aeec642a6fd14fd63d",
+      "sha1": "c9f5cfd58955c41481d897efa0167677da0dcbcb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 317397
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Eijukugo%20Target%201000%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Eijukugo%20Target%201000%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Eijukugo%20Target%201000%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "final-knockout",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Final Knockout",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファイナル ノックアウト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Final Knockout (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cc1dbc9b",
+      "md5": "4a3f54a6c7db5d2205d1f4818e1f2166",
+      "sha1": "09de40bbf3ace05465da2b7abb65e7433deb5b8d",
+      "sha256": "02698f1182981c6bbdae55c62e5d37013771c8e0821dfa64d82dfb17a8c356e8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ボクシング レジェンズ オブ ザ リング」では、ロベルト・デュラン、ジェイク・ラモッタ、シュガー・レイ・レナード、マーヴィン・ハグラー、ジェームス・トーニーを含む8人のミドル級レジェンドとリングに立ちます。エキシビションマッチで戦ったり、キャリアモードでランクを上げて史上最高のボクサーを目指したりできます。ジャブ、フック、アッパーカット、さらには時折の違法なローキックを駆使して相手を疲弊させましょう。ノックダウンを決めるごとにスーパーパンチを獲得します。これは、当たれば試合を終わらせることができる強力な一撃ですが、外せば失われてしまいます。アクションを追跡するために、グローブ型のヒットメーターと、時間とともに選手の顔が打撲や出血を示すダメージ表示の2つのインジケーターがあります。面白い仕掛けとして、カメラはラウンドごとに切り替わり、あなたの視点と相手の肩越しの視点を交互に映し出し、より映画的な体験を提供します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-11-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Knockout%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Final%20Knockout%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Final%20Knockout%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

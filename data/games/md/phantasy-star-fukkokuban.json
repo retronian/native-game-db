@@ -1,0 +1,65 @@
+{
+  "id": "phantasy-star-fukkokuban",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star Fukkokuban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタシースター 復刻版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star Fukkokuban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "07301f83",
+      "md5": "14c59604768b33175362cc592cb75ead",
+      "sha1": "b3ae447dc739256616b44cbd77cb903c9f19e980",
+      "sha256": "55ba15a1ea5c7db883a7a4c850bea2b1024185605964916ddd04a645d7ddd2b6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1994年、セガはセガメガドライブ用の「ファンタシースター 復刻版」を発売しました。このバージョンは、マスターシステム版をメガドライブのカートリッジ基板に移植したもので、マスターシステムモードを適切に切り替えるためのコネクターピンが設けられています（これがパススルーデバイスであるパワーベースコンバーターの動作原理です）。このリリースの背景は不明ですが、最も有力な噂はコンテストの景品だったというものです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20Fukkokuban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20Fukkokuban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20Fukkokuban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mega-games-i",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mega Games I",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mega Games I (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "00000000-00",
+      "size": 1048576,
+      "crc32": "db753224",
+      "md5": "6d581c3457366bfe9eadc3d83c270e78",
+      "sha1": "076df34a01094ce0893f32600e24323567e2a23b",
+      "sha256": "275032eabf4ff16ce5c32e941d88f3246260793ed49f0447e83e14101b24cc77"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mega%20Games%20I%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mega%20Games%20I%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mega%20Games%20I%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

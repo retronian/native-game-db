@@ -1,0 +1,68 @@
+{
+  "id": "crossroad-crisis",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Crossroad Crisis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "SuperLite 1500 シリーズ チキチキちきん",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "SuperLite 1500 Series: Chitty Chitty Chicken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Crossroad Crisis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8454640,
+      "crc32": "50893a1c",
+      "md5": "930baff18668be0ca762e5503d045e89",
+      "sha1": "00cf3e951f5ffb9dd25f16ea0af26a6569023253",
+      "sha256": "a91ead7904c1987ed80dcde3f9aed1aca636969828ce03c6011e92739a6bd809"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43739
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Crossroad%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Crossroad%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Crossroad%20Crisis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

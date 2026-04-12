@@ -1,0 +1,69 @@
+{
+  "id": "super-pinball-ii-the-amazing-odyssey",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Pinball II - The Amazing Odyssey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーピンボールII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スーパーピンボールII ザ・アメイジング・オデッセイ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Pinball II - The Amazing Odyssey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "b5117ecf",
+      "md5": "6b840c23b83c4675f25618acbaf2cb43",
+      "sha1": "20bc32b7bd9e4c985d4cf62fa36d83f0074ddeb7",
+      "sha256": "ee06cfd2aeff2852f57920b7ae21bfc1f3ef79c6da15b919f08143a8a89c6485"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38272
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Pinball%20II%20-%20The%20Amazing%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Pinball%20II%20-%20The%20Amazing%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Pinball%20II%20-%20The%20Amazing%20Odyssey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "100-classic-books",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "100 Classic Books",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "100 Classic Books (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YBNE",
+      "size": 67108864,
+      "crc32": "ee869beb",
+      "md5": "734b2bc6b6439a9cc940ec6ce3071eae",
+      "sha1": "51c358e9e24149f38a6006b008df560029a45e61"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/100%20Classic%20Books%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/100%20Classic%20Books%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/100%20Classic%20Books%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

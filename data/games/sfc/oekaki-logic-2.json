@@ -1,0 +1,68 @@
+{
+  "id": "oekaki-logic-2",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Oekaki Logic 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "お絵かきロジック2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Oekaki Logic 2 (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "4b32c8aa",
+      "md5": "500f024b10b8af520bd2229c3add874e",
+      "sha1": "08b98ecf75f36accf3dc3b213b1d6f87f9cb306e",
+      "sha256": "3e7db8d0e375f32d54cb77136742eca99864aebeb66f986d1e636ac644388bb5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44387
+  },
+  "descriptions": [
+    {
+      "text": "お絵かきロジック2は、人気のパズルゲームお絵かきロジックの続編で、より多くのレベルと各パズルの難易度が上がっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Oekaki%20Logic%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Oekaki%20Logic%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Oekaki%20Logic%202%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

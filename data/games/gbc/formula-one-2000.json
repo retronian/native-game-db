@@ -1,0 +1,60 @@
+{
+  "id": "formula-one-2000",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Formula One 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Formula One 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "703c057f",
+      "md5": "3e7736b358b7750bb451d505816d8b11",
+      "sha1": "7a38195842e536581fdcea42e4ebe50967581736"
+    },
+    {
+      "name": "Formula One 2000 (Europe) (En,Fr,De,Es,It) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "e689bf16",
+      "md5": "5dda88b002742dc16fd232ad569dc4c8",
+      "sha1": "7aa7073b7b494522f7cfcd268aa066b7fe52c671",
+      "sha256": "221988d59e27c790d42ee6d43cdf3e754c93b9e19def70943bb2ff947cd2351c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 204232
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Formula%20One%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Formula%20One%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Formula%20One%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "polar-rampage",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Polar Rampage",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Polar Rampage (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRGP",
+      "size": 16777216,
+      "crc32": "70651073",
+      "md5": "a77316672eb5e2f5efa2a6ef20b751ba",
+      "sha1": "0195fddcb17b3e6c52c3eebaaa48ff2b35a42c82"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Polar%20Rampage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Polar%20Rampage%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

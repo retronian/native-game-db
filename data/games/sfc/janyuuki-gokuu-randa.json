@@ -1,0 +1,65 @@
+{
+  "id": "janyuuki-gokuu-randa",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Janyuuki - Gokuu Randa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "雀遊記 悟空乱打",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Janyuuki - Gokuu Randa (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "10978b2d",
+      "md5": "48fa5b2a15bd6b2fab765dc78dbafb23",
+      "sha1": "4bb2685bda75714c5ab8da641c0a11ed034ac68f",
+      "sha256": "b0a0a986faacca3dddb693113061b64f7c4a0dd59cdd9f824e0355ea383eaf8e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「雀遊記 悟空乱打」は、1995年にバージンインタラクティブによって制作された、 西遊記をテーマにした麻雀ゲームです。\n\n概要\n\n「雀遊記 悟空乱打」は、1995年に発売されたスーパーファミコン用の麻雀ゲームで、中国の小説「西遊記」に基づいています。 孫悟空や仲間たちは、様々な悪魔や他の対戦相手と麻雀ゲームを競い合いながら、世界を旅します。ゲームには、特定の対戦相手との試合が行われるストーリーモードと、プレイヤーが事前に対戦相手を選べるフリープレイモードがあります。\n\nこのゲームは、バージンインタラクティブエンターテインメントの日本支部によって出版されました。開発者は不明ですが、音楽がソルに関連付けられています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Janyuuki%20-%20Gokuu%20Randa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Janyuuki%20-%20Gokuu%20Randa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Janyuuki%20-%20Gokuu%20Randa%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

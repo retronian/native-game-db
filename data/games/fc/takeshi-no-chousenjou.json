@@ -1,0 +1,96 @@
+{
+  "id": "takeshi-no-chousenjou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Takeshi no Chousenjou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "たけしの挑戦状",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Takeshi no Chousenjou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "7fd76c80",
+      "md5": "985bd941ff509e724daba62c966032c8",
+      "sha1": "39feaebb6bbbedb4011d9cd6baccd40bfae4bfa3",
+      "sha256": "ce3b7b0528d098bf0873f8c3f89699845c5b3abb3b442faf6a68cc3191120d45"
+    },
+    {
+      "name": "Takeshi no Chousenjou (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "6f19d5bd",
+      "md5": "8cd81afa5fb3531b605bd6fe6e1d9c2a",
+      "sha1": "73f5db110091887be10d42577cf8f42778f7b35f",
+      "sha256": "b34182f201b6a19feba429bb392fdde008271aa4645521997cc9ab60cac928d0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8531
+  },
+  "descriptions": [
+    {
+      "text": "たけしの挑戦状。ビートたけし監修の異色ゲーム。理不尽さで有名。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takeshi%20no%20Chousenjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takeshi%20no%20Chousenjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takeshi%20no%20Chousenjou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Takeshi%20no%20Chousenjou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Takeshi%20no%20Chousenjou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Takeshi%20no%20Chousenjou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

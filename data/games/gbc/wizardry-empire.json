@@ -1,0 +1,94 @@
+{
+  "id": "wizardry-empire",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry Empire",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィ エンパイア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry Empire (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "7adc90e1",
+      "md5": "ccb604ca00f176ae6ca40f4fc33d8c1a",
+      "sha1": "041c125115c83c6fef1b888761ba0b2b1f9bd291"
+    },
+    {
+      "name": "Wizardry Empire (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "fa82620f",
+      "md5": "fcf910e4d2f27bab40244eb7bf4aa2d3",
+      "sha1": "f5f4e8bead0fe45075141133a530a0eb116ea78c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50048
+  },
+  "descriptions": [
+    {
+      "text": "さまざまな職業の冒険者6人までをパーティーに編成し、ダンジョンに挑戦しましょう。ダンジョン内には合計170種類のモンスターが存在し、バトルに勝利すると200種類以上の経験値や勝利アイテムを獲得できます。経験値が蓄積されることでキャラクターは強化され、より深いダンジョンに挑むことが可能になります。ダンジョンは16x16のサイズで、20階層まで存在し、一度クリアするとさらにボーナスダンジョンが出現します。ユニークな要素として隠れ職業も用意されています。職業特有の能力（バリアント、アベンジャー、サモナーなど）を駆使して、さらなる楽しみを体験してください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wizardry%20Empire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wizardry%20Empire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wizardry%20Empire%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wizardry%20Empire%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wizardry%20Empire%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wizardry%20Empire%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "lobo",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lobo",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 86130
+  },
+  "roms": [
+    {
+      "name": "Lobo (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 3145728,
+      "crc32": "890dc31c",
+      "md5": "a3705f0c8e23167994c72e6a411d75dd",
+      "sha1": "ccb6324c6e8dc43ced93a2cba5970757affec755",
+      "sha256": "c9262cbb70df842da9a2c14f7761bf7ce903f6039d8b3b0d54a21218c8851d1f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Lobo%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

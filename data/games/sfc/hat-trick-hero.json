@@ -1,0 +1,65 @@
+{
+  "id": "hat-trick-hero",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hat Trick Hero",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハットトリックヒーロー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hat Trick Hero (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "fce8a74d",
+      "md5": "8cdb19821e71ed3b979f8390e8fea68e",
+      "sha1": "0b6c5c4f7484ae643dce60f760b600e3fa310448",
+      "sha256": "0a0ea360fb587073d2d5690830b1cc900cfbebe6165ab33aa9943b96d5d8fcb2"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このタイトーのアーケードゲームの移植版は、1992年の欧州選手権に合わせてリリースされました。ゲームはわずかに傾いた横スクロールで進行し、プレイヤーが得点した際のコインオペのクローズアップズーム効果を再現しています。画面にはピッチの小さなエリアしか表示されませんが、全体を表示するスキャナーがあります。\n\nゲームには審判がいますが、彼はしばしば注意を逸らし、その瞬間に相手選手をファウルしたり、パンチをしたり、サイドスワイプするチャンスが生まれます。1人用と2人用のオプションが用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-03-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hat%20Trick%20Hero%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hat%20Trick%20Hero%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hat%20Trick%20Hero%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

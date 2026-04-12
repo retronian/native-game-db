@@ -1,0 +1,79 @@
+{
+  "id": "my-farm-around-the-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Farm Around the World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Farm Around the World (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CF4E",
+      "size": 8388608,
+      "crc32": "05e2314d",
+      "md5": "bf20cde8da00bace0acf72770056e5ce",
+      "sha1": "5d1c1db9e5b0438036039fd7ba343972a155b413"
+    },
+    {
+      "name": "My Farm Around the World (Europe) (En,Fr,De,Es,It,Pt)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CF4P",
+      "size": 8388608,
+      "crc32": "67d64cd5",
+      "md5": "a1d8fb75d271d7d893e4da7e9f721c39",
+      "sha1": "18f7ee5e99b42f9571e08ccfea521330fc5d1477"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68400
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Farm%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Farm%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Farm%20Around%20the%20World%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Farm%20Around%20the%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Farm%20Around%20the%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Farm%20Around%20the%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

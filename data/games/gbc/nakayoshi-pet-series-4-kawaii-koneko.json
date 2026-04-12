@@ -1,0 +1,69 @@
+{
+  "id": "nakayoshi-pet-series-4-kawaii-koneko",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nakayoshi Pet Series 4 - Kawaii Koneko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "なかよしペットシリーズ④ かわいい子猫",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nakayoshi Pet Series 4 - Kawaii Koneko (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "B7NJ",
+      "size": 1048576,
+      "crc32": "1a382367",
+      "md5": "24590d82da1c0d40b5d4f8e03e4cca94",
+      "sha1": "e5d5f1092e991a7538b9d24a12de35da21e23edd",
+      "sha256": "7957aa8941368bb1cd8c08ef2d36fe8b22aeccb07cac0383b0261d069c296a74"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130614
+  },
+  "descriptions": [
+    {
+      "text": "目標は、子猫たちとコミュニケーションを取りながら育てることです。「お世話ポイント」を使って子猫たちの世話をし、より親しくなることができます。利用可能な子猫の種類は全部で5種類です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-02-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Nakayoshi%20Pet%20Series%204%20-%20Kawaii%20Koneko%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Nakayoshi%20Pet%20Series%204%20-%20Kawaii%20Koneko%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Nakayoshi%20Pet%20Series%204%20-%20Kawaii%20Koneko%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

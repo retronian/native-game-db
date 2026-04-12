@@ -1,0 +1,65 @@
+{
+  "id": "lord-of-the-rings-the-ou-no-kikan",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lord of the Rings, The - Ou no Kikan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロード・オブ・ザ・リング／王の帰還",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lord of the Rings, The - Ou no Kikan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BLRJ",
+      "size": 16777216,
+      "crc32": "465f2753",
+      "md5": "555821a2c6e7e91a712eacbe92922ff5",
+      "sha1": "aca8e3ddce987ee072b54d06a3c563e3c84f9964"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "映画「ロード・オブ・ザ・リング」三部作の壮大な最終章に基づいたゲームで、中つ国に戻ろう。映画と同じデジタル資産を使用して開発された「王の帰還」は、指輪の戦争の最終イベントを驚くほど詳細に再現している。亡者の道を進み、ミナス・ティリスを守り、友達と協力プレイをしながら、モルドールの侵入不可能な黒の門に立ち向かう英雄となり、中つ国の運命を決定しよう。中つ国の運命はあなたの手の中にある。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-01-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Lord%20of%20the%20Rings%2C%20The%20-%20Ou%20no%20Kikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Lord%20of%20the%20Rings%2C%20The%20-%20Ou%20no%20Kikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Lord%20of%20the%20Rings%2C%20The%20-%20Ou%20no%20Kikan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

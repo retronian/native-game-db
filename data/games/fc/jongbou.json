@@ -1,0 +1,61 @@
+{
+  "id": "jongbou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jongbou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジャンボウ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jongbou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "f152bdae",
+      "md5": "f4fde8dce1b086c9edeaf076c6a6b226",
+      "sha1": "9f79007edb6a1713ea1155a8fdd9a9b986ba3c10",
+      "sha256": "ecb39bdb8681d0b30db73dcbda9d6f1fdac577fa5f578873492583f416d3e96a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92298
+  },
+  "first_release_date": "1987-07-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Jongbou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Jongbou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Jongbou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

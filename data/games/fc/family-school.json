@@ -1,0 +1,67 @@
+{
+  "id": "family-school",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family School",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリースクール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family School (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7a47e189",
+      "md5": "353ccc481d3bd847525d1ba3fb6b8f7f",
+      "sha1": "62ac07bf4d490fee3839ad67087be5155ae0a1ed",
+      "sha256": "e4719770512143191f934493c5d79dd40d134ddfaf65d09b6453948b6fc91d4c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48767
+  },
+  "descriptions": [
+    {
+      "text": "ファミリースクールは、アクション輸送パズルゲームです。あなたの任務は、ある種の庭で植物に水をやり、果物を育てることです。果物が育ったら、プレイフィールドの端にある適切なバスケットに正しい果物を押し込む必要があります。あなたを害しようとする動物に注意してください。このゲームは、少なくとも2人のプレイヤーが同時にプレイできます。ゲームは、保険会社「ダイイチライフ」がポリシーを購入した人々に無料で贈られたようです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20School%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20School%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20School%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

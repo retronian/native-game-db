@@ -1,0 +1,68 @@
+{
+  "id": "nfl-pro-football-94",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NFL Pro Football '94",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "NFLフットボール'94",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "プロフットボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "NFL Pro Football '94 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106263-00",
+      "size": 2097152,
+      "crc32": "96c947f3",
+      "md5": "5b161b01095522b24dd6f9fdb4b97752",
+      "sha1": "62f14b3dd4183352a4d26fc59ce43378f3bd2a71",
+      "sha256": "ba272ab5726f738c12129def22c4ccaaea9a1d478015bbfd0ca003ad1d157c80"
+    }
+  ],
+  "first_release_date": "1994-02-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/NFL%20Pro%20Football%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/NFL%20Pro%20Football%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/NFL%20Pro%20Football%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

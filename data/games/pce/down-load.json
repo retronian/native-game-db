@@ -1,0 +1,40 @@
+{
+  "id": "down-load",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Down Load",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダウンロード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Down Load (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "85101c20",
+      "md5": "10de08141486e768e6743d9a1c2c57f4",
+      "sha1": "847bd22cccdf929def8fc348b973faee2688e648",
+      "sha256": "b9c96a94a5999abe6d37121483927167ceb269da32a9384e07c743a788651e5b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37716
+  }
+}

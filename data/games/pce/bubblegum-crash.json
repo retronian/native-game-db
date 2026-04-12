@@ -1,0 +1,40 @@
+{
+  "id": "bubblegum-crash",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bubblegum Crash!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バブルガムクラッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bubblegum Crash! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0d766139",
+      "md5": "8aa27a2cdc063b278e063166a168a307",
+      "sha1": "03d0638f27d35b28b7e5e7db16f823de0726c2c5",
+      "sha256": "e96600058f35178c78a88eb9596678c973e0095ae8bd9cb060668065197f8895"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43201
+  }
+}

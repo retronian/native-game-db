@@ -1,0 +1,66 @@
+{
+  "id": "devil-crash-md",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Devil Crash MD",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デビルクラッシュMD",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Devil Crash MD (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-18053-00",
+      "size": 524288,
+      "crc32": "4c4caad8",
+      "md5": "f93c0545385edce6ccef288ac767c670",
+      "sha1": "58d447ecd6a6af9845cdd90ac3df0b5503535117",
+      "sha256": "9e9734a2904d61d27585496edad830e329dd6bfe4e5859c11535532046d07262"
+    },
+    {
+      "name": "Devil Crash MD (China) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 524288,
+      "crc32": "535d0a69",
+      "md5": "a55444a282775edbcdcbc6b6171abbc8",
+      "sha1": "5d2c257a53ea6a6e32acac843d722aa08ceb2f4b",
+      "sha256": "34f4bcf62e7036f08fcbe48adcac57063233a194588702638eab248e93829f1e"
+    }
+  ],
+  "first_release_date": "1991-10-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Devil%20Crash%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Devil%20Crash%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Devil%20Crash%20MD%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

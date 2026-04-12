@@ -1,0 +1,68 @@
+{
+  "id": "ryuukyuu",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ryuukyuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "琉球",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ryuukyuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "91e6896f",
+      "md5": "9cd3662c5386b6f45a9744be79c7fcc5",
+      "sha1": "2c9451619acb491eff2ed20bffe389b9261ba651",
+      "sha256": "9a243dfc18a350a9c550c0a18d530f0f02775dcd6033c69f33ff451ad97e0e5f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43197
+  },
+  "descriptions": [
+    {
+      "text": "ソリティアポーカー。確かに奇妙な組み合わせですが、まさにその通りです。さらに興味深いのは、そこにビンゴの要素も含まれていることです。あなたの目的は、4つの異なる山から裏向きのカードを引き、これらのカードを伝統的なポーカーの価値でスコアが付けられる5つの異なる「ハンド」に分けることです。ただし、ハンドはゲームボード上で縦、横、または斜めのいずれかの組み合わせでスコアを付けることができます…（これがビンゴの要素が関わるところです）。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Ryuukyuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Ryuukyuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Ryuukyuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

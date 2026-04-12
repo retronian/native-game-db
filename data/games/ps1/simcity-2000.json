@@ -1,0 +1,85 @@
+{
+  "id": "simcity-2000",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SimCity 2000",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "シムシティー2000",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SimCity 2000 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 36880464,
+      "crc32": "7e8f974a",
+      "md5": "7792826b230b0e68c5941359ee3fb741",
+      "sha1": "7720c65f15cbd28b539a58cf5634cf8fd346f648"
+    },
+    {
+      "name": "SimCity 2000 (Germany)",
+      "source": "no_intro",
+      "size": 33165728,
+      "crc32": "8bcc4d0d",
+      "md5": "409be6dba315dc72b3de48fdc3385cb9",
+      "sha1": "849ade636b71ce84efe8a796c5061529949b4c77"
+    },
+    {
+      "name": "SimCity 2000 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 33112416,
+      "crc32": "6f47566f",
+      "md5": "86e6031da43631e5224870a1a5b018fd",
+      "sha1": "e3b8a0423853806a8c97f5bd3f0d594d4bafb30f",
+      "sha256": "95cabdc91353ad59e3a8267f54a8ad8e55c15b08a900b5941108288fc44b2246"
+    },
+    {
+      "name": "SimCity 2000 (Italy)",
+      "source": "no_intro",
+      "size": 33165792,
+      "crc32": "f822bba1",
+      "md5": "a853a099686330e39ac24996d5ec5846",
+      "sha1": "b2122aca44e8357c495b0eb7e4751a17c3756101"
+    }
+  ],
+  "external_ids": {
+    "igdb": 330
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/SimCity%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/SimCity%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/SimCity%202000%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

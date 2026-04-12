@@ -1,0 +1,76 @@
+{
+  "id": "seme-com-dungeon-drururuaga",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Seme COM Dungeon - Drururuaga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "攻めCOMダンジョン ドルルルアーガ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "攻めCom ダンジョン ドルルルアーガ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Seme COM Dungeon - Drururuaga (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0b1b928c",
+      "md5": "90dfd51f7a508a4fac1608fb7a44317f",
+      "sha1": "24b9bea003a5653ff592d3d63f5ac116c1de2d60"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59876
+  },
+  "descriptions": [
+    {
+      "text": "目的は、カードを使って敵のダンジョンに侵入し、「ジュエル」を盗むことです。自分のダンジョンを守るためにクリーチャーを配置し、敵のジュエルを奪うことが目標です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Seme%20COM%20Dungeon%20-%20Drururuaga%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Seme%20COM%20Dungeon%20-%20Drururuaga%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Seme%20COM%20Dungeon%20-%20Drururuaga%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

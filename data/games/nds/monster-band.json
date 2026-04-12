@@ -1,0 +1,45 @@
+{
+  "id": "monster-band",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Monster Band",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Monster Band (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CM4E",
+      "size": 16777216,
+      "crc32": "aa57d471",
+      "md5": "c143d1fd0a05dc5d9ce48386d03a2b00",
+      "sha1": "c3049659841e789c30fb85d21f200445ebc17e54"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47915
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Monster%20Band%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Monster%20Band%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

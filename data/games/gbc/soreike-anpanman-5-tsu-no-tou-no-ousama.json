@@ -1,0 +1,64 @@
+{
+  "id": "soreike-anpanman-5-tsu-no-tou-no-ousama",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Soreike! Anpanman - 5-tsu no Tou no Ousama",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "それいけ!アンパンマン 〜5つの塔の王様〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c9a25b0c",
+      "md5": "f09214d17150911af6aacbe5d89bc00f",
+      "sha1": "e3e4d1e2d1fe6d0683db9d17356080542e1a6905"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アンパンマンになって、5つの塔の頂上にいる王様に会いましょう。空を飛び、アンパンチを使って、バイキンマンが仕掛けたさまざまな罠や障害を乗り越えなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-11-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Soreike%21%20Anpanman%20-%205-tsu%20no%20Tou%20no%20Ousama%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Soreike%21%20Anpanman%20-%205-tsu%20no%20Tou%20no%20Ousama%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Soreike%21%20Anpanman%20-%205-tsu%20no%20Tou%20no%20Ousama%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

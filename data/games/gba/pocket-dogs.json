@@ -1,0 +1,51 @@
+{
+  "id": "pocket-dogs",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket Dogs",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket Dogs (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BTDE",
+      "size": 8388608,
+      "crc32": "beddc67f",
+      "md5": "480117b99ff0ce0934d5f4e3b5a952b4",
+      "sha1": "79a90b119ea84c5812575d20ba6107be7edbfee7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49357
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pocket%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Pocket%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Pocket%20Dogs%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "yogi-bear",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yogi Bear",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ヨギーベア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yogi Bear (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1a6f48a5",
+      "md5": "3c7b0221c42ff4cfef14ee12828715eb",
+      "sha1": "bec43433ee8de72adc168a2169195a8bae703740",
+      "sha256": "363c60f924257bf6465efc32093c7749a0e69ea7234e47ebd4f070e7b0e7035d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ヨギーベアは、ジェリーストーンパークを化学工場に変える計画を知り、それを阻止するためのミッションに出発します。すべての年齢層に適したこの横スクロールアクション/アドベンチャーゲームでヨギーを操作しましょう。5つのパークエリアを進みながら、「ピクニック」バスケットを跳ねて集めていきます。多くの場合、バスケットの上を跳ねることで、普通のクマでは行けない高い場所へと上昇します。イタチやスカンクなど、さまざまな敵が登場します。また、鉱山のカートに乗ったり、「ビーバーサーフィン」をしたりするアクションパートもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yogi%20Bear%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yogi%20Bear%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yogi%20Bear%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

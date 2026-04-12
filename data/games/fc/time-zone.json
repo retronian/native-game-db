@@ -1,0 +1,68 @@
+{
+  "id": "time-zone",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Time Zone",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "たいむゾーン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Time Zone (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "58bcc214",
+      "md5": "5b3b928816948eda2e1b15e62c14143c",
+      "sha1": "9b9a3b45700d891a62cb7859c5027e4c3f4d81e0",
+      "sha256": "88bb796506d09c7b8d6f115a5f64e35b8d5c585e35a34875cc8f181722ee288d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 86000
+  },
+  "descriptions": [
+    {
+      "text": "ああ、どうしよう！彼女のハルカに会いに行く途中、勇敢な小さなヒーローが悪名高い時間旅行の悪党、プロフェッサー・タイムに襲われてしまいました。今こそ、彼と一緒に時間と空間を超えて、彼女をその悪の手から救い出す時です。\n\nこのラン＆ジャンプアクションゲームでは、あなたは先史時代から遠い未来まで、そして再び戻ってくる様々な時代に飛ばされ、恐竜や侍、エイリアンなどを倒しながら彼女を取り戻すことになります。\n\nあなたの主な武器は、頑丈な野球帽です。帽子を前に投げると、自然に戻ってきたり、戻ってくる際にジャンプして周りを飛び回らせることができます。そして、運良く十分なチャイムを集めることができれば、スケートボードの素晴らしい破壊力と無敵の力を目の当たりにすることができます。\n\nプラットフォーマーにありがちな危険な障害物がたくさんある中で、プロフェッサー・タイムに立ち向かうのはなかなか大変です。彼を追い詰め、帽子で叩いて、ヒーローとハルカが幸せに暮らせるようにしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-10-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Time%20Zone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Time%20Zone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Time%20Zone%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

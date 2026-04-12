@@ -1,0 +1,68 @@
+{
+  "id": "kawaii-pet-game-gallery",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kawaii Pet Game Gallery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "絶体絶命でんぢゃらすじーさん 〜史上最強の土下座〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kawaii Pet Game Gallery (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKGJ",
+      "size": 8388608,
+      "crc32": "bc5abd75",
+      "md5": "521f9ba996123f0ab3c4eef83754f48e",
+      "sha1": "779f97c29c1003df73bbcf7d0042c3972fd398f2"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49649
+  },
+  "descriptions": [
+    {
+      "text": "文化ブレインの作品に登場するかわいい動物たちが主役のバラエティゲーム集です。このコレクションには、いつでもどこでも簡単に楽しめるいくつかのパズルゲームが含まれており、その中には「クルクルポン！」という、プレイヤーがパネルを回転させて同じ色のパネルを消す競争型ゲームもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2003-09-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Kawaii%20Pet%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Kawaii%20Pet%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Kawaii%20Pet%20Game%20Gallery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

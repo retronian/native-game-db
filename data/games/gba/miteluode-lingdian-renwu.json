@@ -1,0 +1,57 @@
+{
+  "id": "miteluode-lingdian-renwu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Miteluode - Lingdian Renwu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "密特罗德 零点任务",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Miteluode - Lingdian Renwu (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "BMXC",
+      "size": 8388608,
+      "crc32": "e951865c",
+      "md5": "7c1ac3a3b9f0948bbcc6d5b2afac860c",
+      "sha1": "4703576c63f4c279520a1cc527937a37097a2fe6",
+      "sha256": "ad8e6ead0494162ba5802bba587205dc2d333c45767f81f229f884155696171f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Miteluode%20-%20Lingdian%20Renwu%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Miteluode%20-%20Lingdian%20Renwu%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Miteluode%20-%20Lingdian%20Renwu%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

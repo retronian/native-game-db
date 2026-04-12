@@ -1,0 +1,65 @@
+{
+  "id": "all-star-power-league",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "All Star Power League",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オールスター パワーリーグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "All Star Power League (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "04a85769",
+      "md5": "e5e1031c335221d57ad025fe9e61e698",
+      "sha1": "3b66b7273e7b04cdb16d6e333e764f9462dd8f26",
+      "sha256": "c9fe63c48b24c99e0f59ea5f62b541797a3e7bb0022ad984bee746a33743fc1d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ワールドクラスベースボールは野球ゲームです。プレイヤーは投手と野手を操作します（野球の伝統に従い、自動システムを通じてボールに最も近い選手を操作します）；バッターは操作しません。バッターと投手の対決中、1つまたは2つの小さなウィンドウでランナーの状況が表示されます。ボールが打たれると、視点は鳥瞰図に切り替わり、アクションが行われているゲームフィールドの広い部分が表示され、画面の右下には全選手の位置を示す小さなフィールドの画像が常に表示されます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-06-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/All%20Star%20Power%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/All%20Star%20Power%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/All%20Star%20Power%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

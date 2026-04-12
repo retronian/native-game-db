@@ -1,0 +1,90 @@
+{
+  "id": "zhu-zhu-pets",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zhu Zhu Pets",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zhu Zhu Pets (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZZE",
+      "size": 8388608,
+      "crc32": "1abc7938",
+      "md5": "41cafac281d6e158d20825ac1317a1ea",
+      "sha1": "f8cab775a74e919be81124c93b0add1e1739fb84"
+    },
+    {
+      "name": "Zhu Zhu Pets (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZZP",
+      "size": 8388608,
+      "crc32": "82e2c308",
+      "md5": "8c55d3b2659e68ab75df6abc697c3778",
+      "sha1": "f8e71c8ce26d7f88d04450bbb5968bf5fb499cde"
+    },
+    {
+      "name": "Zhu Zhu Pets (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZZP",
+      "size": 16777216,
+      "crc32": "bbca5354",
+      "md5": "8fed1aa6208385983cfcfed6e9d83dad",
+      "sha1": "036c9ff2e9816098bd8e8c8e115cbf1114fb3856",
+      "sha256": "b3b93eeb735c54c1389f3f09a253b049d28345d22cb11fb98b0c32949320283b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 9168
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zhu%20Zhu%20Pets%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zhu%20Zhu%20Pets%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zhu%20Zhu%20Pets%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zhu%20Zhu%20Pets%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zhu%20Zhu%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zhu%20Zhu%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

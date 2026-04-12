@@ -1,0 +1,68 @@
+{
+  "id": "musashi-no-bouken",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Musashi no Bouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ムサシの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Musashi no Bouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "4cd86d34",
+      "md5": "661c3ab77d5e8445f950976c6ad6be48",
+      "sha1": "e0cd904fa7cad0f93c9086f5c1dd4914b8a386b2",
+      "sha256": "191fa411d3d653a22fa04903e96a1e3e99c54af051faed123e6086bbc80ddf91"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48688
+  },
+  "descriptions": [
+    {
+      "text": "プレイヤーは、アリマ村に住む若い少年ムサシを操作します。彼は有名な剣士宮本武蔵の息子であり、自身も優れた戦士です。ある日、彼は父の宿敵である邪悪な魔法使いコジロウが再び姿を現したという噂を耳にします！コジロウの悪魔たちが土地を侵略し、死と破壊をもたらす脅威となっています。「俺がコジロウを倒してやる！」とムサシは言います。「もしかしたら、女の子とも遊べるかもしれない…」\n\n『ムサシの冒険』は、封建時代の日本を舞台にした『ドラゴンウォリアー』に例えられます。ここに示される独特の日本的な雰囲気に加え、ゲームの内容は非常に似ています。ムサシはワールドマップを旅し、町を訪れ、武器や防具を購入し、ダンジョンに降りて、第一人称視点でのターン制バトルで敵と戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Musashi%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Musashi%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Musashi%20no%20Bouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

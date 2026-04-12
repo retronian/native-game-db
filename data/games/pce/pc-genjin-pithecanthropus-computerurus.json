@@ -1,0 +1,102 @@
+{
+  "id": "pc-genjin-pithecanthropus-computerurus",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "PC Genjin - Pithecanthropus Computerurus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "PC原人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "サイドアーム・スペシャル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "PC Genjin - Pithecanthropus Computerurus (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "2cb5cd55",
+      "md5": "0e997fd6e47e9212a90b0a137d65283d",
+      "sha1": "40fab9ea76d94d5569a977b1eb5a1dfb54978485",
+      "sha256": "cf32b2e31228adab7ce2cddc7d839e549eec0f069ce7397846aa76652a396cb1"
+    },
+    {
+      "name": "PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "9c1f39db",
+      "md5": "b4535afdce61f812b3718e1966899068",
+      "sha1": "958356f471522243b8ee6ff5d83d43350e2fc142",
+      "sha256": "ebf7d8bc4ff56f66c83da28b910b7715f52bcad5e6cf6a5e571be4efe16be176"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "昔ながらの横スクロールアクションゲームです。ゲームプレイはシンプルで、各ステージを進む際に敵に頭突きをするだけです！敵に攻撃されたり、危険なものに触れたりするとダメージを受けます。ボンクがライフを失わないように注意しましょう。道中で見つけた肉を食べると、ボンクのレベルが2上がります。ボンクが変身した後に地面に頭突きをすると、強力な爆発を引き起こします—地面が揺れ、敵はスタンします！これがボンクの力です！彼の強力で硬い頭の力です！ゲームにはボーナスゲームや隠しステージが満載で、素晴らしいアクションゲームには欠かせない大ボス戦もあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/PC%20Genjin%20-%20Pithecanthropus%20Computerurus%20%28Japan%29%20%28Wii%20U%20Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

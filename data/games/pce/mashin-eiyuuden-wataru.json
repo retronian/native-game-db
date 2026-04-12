@@ -1,0 +1,68 @@
+{
+  "id": "mashin-eiyuuden-wataru",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mashin Eiyuuden Wataru",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔神英雄伝ワタル",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mashin Eiyuuden Wataru (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "2f8935aa",
+      "md5": "4c0b699a7d751886801b983fa638e8f8",
+      "sha1": "59db3e9d69cf34f76b6cb599d6c4fe6999162532",
+      "sha256": "f77c9f0ee7dc25f643e34894a484aca56f75a5fda086941091f0d39dd7004b5c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 280846
+  },
+  "descriptions": [
+    {
+      "text": "N.I.C.E.（地球の国際市民のための国連）の一員であるキース・カレッジは、B.A.D.（悪いエイリアンたち）との戦いに挑む、横スクロールアクションプラットフォームゲームです。ゲームは全7レベルで構成されています。\n\nキース・カレッジはさまざまなゾーンを進みながら、敵を攻撃してコインを獲得します。獲得したコインはショップでさまざまなパワーアップや装備、その他の役立つアイテムと交換できます。\n\n各レベルの特定の地点に到達すると、キース・カレッジはノヴァスーツにアクセスできるようになります。このアーマー付きのスーツには強力な剣が装備されており、アンダーワールドの各レベルのボスを倒すために使用されます。キース・カレッジがボスを倒すと、アーマーを脱いでオーバーワールドに戻り、次の挑戦に臨むことになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mashin%20Eiyuuden%20Wataru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mashin%20Eiyuuden%20Wataru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mashin%20Eiyuuden%20Wataru%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

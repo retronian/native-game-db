@@ -1,0 +1,78 @@
+{
+  "id": "sparkster",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sparkster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sparkster (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-95166-00",
+      "size": 1048576,
+      "crc32": "d63e9f2d",
+      "md5": "1d68100365d9c73bb6c162b9165b5147",
+      "sha1": "91057f22c5cea9bf08edf62862c56b939d570770",
+      "sha256": "26a070561645e7c7e08bbf5819f5670e7e2fe2bc0de858a25f88a12e14c250cd"
+    },
+    {
+      "name": "Sparkster (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-95166-00",
+      "size": 1048576,
+      "crc32": "6bdb14ed",
+      "md5": "d3ddbc9a45653aa790bb922c7b68ce44",
+      "sha1": "d6e2f4aa87633aeea2ec1c05a6100b8905549095",
+      "sha256": "294a86923ca3aaeabcd8edcf27e428b7ace30d6774937e6db83563d80932b654"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sparkster%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sparkster%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

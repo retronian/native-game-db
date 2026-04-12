@@ -1,0 +1,68 @@
+{
+  "id": "magnetica",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magnetica",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Actionloop",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Shunkan Puzzloop",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magnetica (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "APLE",
+      "size": 8388608,
+      "crc32": "ad5c0dd2",
+      "md5": "300bf913e676dc0ddcb97449c6ad495c",
+      "sha1": "3fbdf50203a0862462cd499dfc8439510c2f169b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20526
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Magnetica%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Magnetica%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Magnetica%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

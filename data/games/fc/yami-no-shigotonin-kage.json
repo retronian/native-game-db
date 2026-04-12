@@ -1,0 +1,87 @@
+{
+  "id": "yami-no-shigotonin-kage",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yami no Shigotonin Kage",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "闇の仕事人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yami no Shigotonin Kage (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "232e97ab",
+      "md5": "00329e6e52fdf973cee893ab2178f967",
+      "sha1": "49015e62cf5234a61c9a4654ff0ed7213427fe6d",
+      "sha256": "883372fc105e0d605eb960ad4ce0b27e9752e6a3b1b9e86498a6e5d2ba541738"
+    },
+    {
+      "name": "Yami no Shigotonin Kage (Japan) (Sample)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "2095b955",
+      "md5": "c26e753a3ce64adcb1c3425b2435bf4f",
+      "sha1": "02cfbf3604616809055dffdec743988160b2b0e8",
+      "sha256": "2010a68a45b1763ef00d922ac35a77e20c51aae5981beabd3d52d36cc6874afb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "21世紀、悪の皇帝ガルーダがニューヨークの街を支配し、多くの住民を殺害しました。あなたは、ガルーダの支配から街を解放しようとする二人の忍者、ハヤテまたはカエデのいずれかを操作します。\n\n「闇の仕事人」は、典型的な横スクロールアクションゲームで、5つのレベルから成り、それぞれに4つのサブステージがあり、多種多様な敵が登場し、最後にはボス敵が待ち受けています。\n\nカエデとハヤテは、ジャンプするだけでなく、忍者としてプラットフォームにぶら下がったり、フロア間を素早く宙返りすることもできます。時折、パワーアップを含むカンテラを見つけることができます。典型的なパワーアップは、デフォルトの剣の射程を延ばしたり、手裏剣や大きなグラップリングフックのような忍者武器などの追加武器を提供します。\n\nこのゲームは、コントラシリーズ以外のアクションゲームでは珍しい、2人協力プレイが可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yami%20no%20Shigotonin%20Kage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Yami%20no%20Shigotonin%20Kage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Yami%20no%20Shigotonin%20Kage%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Yami%20no%20Shigotonin%20Kage%20%28Japan%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Yami%20no%20Shigotonin%20Kage%20%28Japan%29%20%28Sample%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "diary-girl",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Diary Girl",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Diary Girl (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGDE",
+      "size": 8388608,
+      "crc32": "c14616ab",
+      "md5": "684aa4e56190a256a654db64a4411b68",
+      "sha1": "4df33f92ca6ff716ad16c0278641abad6553211d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67992
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Diary%20Girl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Diary%20Girl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Diary%20Girl%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

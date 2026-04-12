@@ -1,0 +1,96 @@
+{
+  "id": "family-circuit",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Family Circuit",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミリーサーキット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Family Circuit (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "111be233",
+      "md5": "b881365401e79815c559a3c85ccad4ea",
+      "sha1": "981d2e078b3a82e0975d281b98eab118591ea97f",
+      "sha256": "4dfbb8ecda1e2b758cf470252a53a8fbd4990e0d433ca5b0a5aec2df777ec2c2"
+    },
+    {
+      "name": "Family Circuit (Japan) (Namcot Collection)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "f19faf44",
+      "md5": "14401489a795fc796f131bac0531c1df",
+      "sha1": "d7937ad3cd606b7dfac18bb9ce88bd34b929b649",
+      "sha256": "4b034f661dc6bb2e484385e56fc3777d29b815a9950ad7bd472056495cff9139"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48498
+  },
+  "descriptions": [
+    {
+      "text": "「ファミリーサーキット」は、ファミリーコンピュータ用のレーシングゲームで、当時のアーケード志向のタイトルとは一線を画すリアルな特徴が際立っています。車両はカスタマイズ可能で、タイヤ、ウイング、サスペンション、詳細なエンジン設定が含まれています。レースモードは、フリードライビング、さまざまなクラスのスプリントレース、長距離レース、そして観戦モードの4種類があります。対戦相手との衝突は不可能ですが、障害物によるダメージはパーツ修理のためにピットストップが必要です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-01-06",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Circuit%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Family%20Circuit%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Family%20Circuit%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Family%20Circuit%20%28Japan%29%20%28Namcot%20Collection%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

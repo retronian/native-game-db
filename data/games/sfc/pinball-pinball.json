@@ -1,0 +1,65 @@
+{
+  "id": "pinball-pinball",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pinball Pinball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピンボール・ピンボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pinball Pinball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "9bf79a7d",
+      "md5": "8aa7370f7d849f37efde838e2393c4c9",
+      "sha1": "482208c624cb797e6c37fe5577ffd400f81bfd37",
+      "sha256": "7ca68e795a35977976314c3b0550cfd7bd37583870c09a1ee95a7ab45ab16788"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "21世紀とデジタルイリュージョンズによるピンボールゲームのシリーズの第一作で、スチールホイールのワイルドウェスト、イグニッションの宇宙ロケット、ナイトメアの幽霊の墓場、ビートボックスのポップミュージックといったテーマを持つ4つのテーブルが用意されています。\n\nゲームボーイとゲームギアのポータブル版には、オリジナルの4つのテーブルのうちビートボックスが削除され、3つのテーブルのみが収録されています。\n\niPhone版には、更新されたグラフィック（オプション）と、ポートレートおよびランドスケープの両方のオリエンテーションでのゲームプレイが含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-08-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Pinball%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Pinball%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Pinball%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

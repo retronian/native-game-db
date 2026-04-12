@@ -1,0 +1,86 @@
+{
+  "id": "yuuyu-no-quiz-de-go-go",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Yuuyu no Quiz de Go! Go!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゆうゆのクイズで",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ゆうゆのクイズでGO!GO!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "ゆうゆのクイズでGo! Go!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Yuuyu no Quiz de Go! Go! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d7e68d2e",
+      "md5": "a88b23fed024f6b7312b4e317b81d23f",
+      "sha1": "a9fd8dd63ca6488f24aceceb482a13631122bd6d",
+      "sha256": "8aafec911dffec6e8fc62b165c147d042ad65240d83db54304626aaabfd203ab"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37750
+  },
+  "descriptions": [
+    {
+      "text": "タイトーがアーケード（1990年）とスーパーファミコン（1992年）向けにリリースしたクイズゲームです。このゲームには、ティーンアイドルのイワイ ユキコ（名を冠したユウユ）が登場し、ゲーム内やパッケージにも彼女の姿が見られます。\n\n「ユウユのクイズでゴー！ゴー！」は、タイトーが制作したクイズゲームで、ティーンアイドルのイワイ ユキコ「ユウユ」の肖像を使用しています。プレイヤーはアニメから政治まで様々なトピックの質問に答えてポイントを獲得し、間違った回答を多くしないように注意します。成功はクオータではなくパーセンテージに基づいており、60の要求をクリアするためには、5問中3問以上正解する必要があります（それ以上でも可）。\n\nユウユは、1980年代後半に日本で非常に人気のあったアイドルグループ「おニャン子クラブ」のメンバーでした。彼女はゲーム内のクイズショーをデジタル化された写真と音声サンプルを通じて進行し、多くのラウンドを紹介しながら「ゴー！ゴー！」と頻繁に叫びます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-07-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Yuuyu%20no%20Quiz%20de%20Go%21%20Go%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Yuuyu%20no%20Quiz%20de%20Go%21%20Go%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Yuuyu%20no%20Quiz%20de%20Go%21%20Go%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

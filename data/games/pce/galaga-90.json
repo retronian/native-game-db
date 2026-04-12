@@ -1,0 +1,60 @@
+{
+  "id": "galaga-90",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Galaga '90",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Galaga '90 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "2909dec6",
+      "md5": "94814db23e163dbfc7d7505170e145c2",
+      "sha1": "ff73a144eb2da537d0e1a3c8c56ef197fd6ce1ce",
+      "sha256": "3082d86586ed868e19c948b27b9271a694fc0fb30206bcc88e5c14e369dc961b"
+    },
+    {
+      "name": "Galaga '90 (Hong Kong) (En) (Unl)",
+      "source": "no_intro",
+      "size": 262144,
+      "crc32": "ec42622e",
+      "md5": "f9f2e2a22b62014e7dd59ebb6e41839b",
+      "sha1": "79f0b0f04f5fc25d7c4ddc2245ccd5decc9afade",
+      "sha256": "a9755768bf11a06c0a9388661f72bd4885fb8f9e49e282b897077d3945f0ad0f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42123
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Galaga%20%2790%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Galaga%20%2790%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Galaga%20%2790%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

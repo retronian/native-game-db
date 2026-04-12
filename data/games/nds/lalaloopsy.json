@@ -1,0 +1,65 @@
+{
+  "id": "lalaloopsy",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lalaloopsy",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lalaloopsy (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B52P",
+      "size": 16777216,
+      "crc32": "ef3e6142",
+      "md5": "2dc335aba0e4ca4ff20479117c7ee2b3",
+      "sha1": "13743d740d97b14424c3861034aa12d30b87f250",
+      "sha256": "fe0c7ae561b3e134f0720533d150f63148031a92771e93e68087a2b94a90e53e"
+    },
+    {
+      "name": "Lalaloopsy (USA) (En,Fr)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B52E",
+      "size": 16777216,
+      "crc32": "574239b8",
+      "md5": "507a7140f7c3eaf92aa6710beff07a74",
+      "sha1": "1adba48c0262165f12acf6110c6bc84720e13e85"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lalaloopsy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lalaloopsy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Lalaloopsy%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Lalaloopsy%20%28USA%29%20%28En%2CFr%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

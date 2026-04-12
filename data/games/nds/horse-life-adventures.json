@@ -1,0 +1,60 @@
+{
+  "id": "horse-life-adventures",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Horse Life - Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Ellen Whitaker's Horse Life",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Horse Life - Adventures (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CHFE",
+      "size": 33554432,
+      "crc32": "f6107ec4",
+      "md5": "5814ab68f71c270171dd201c2a28c630",
+      "sha1": "9f0c99f438fe73e54fffdb3bc355160478d51c1c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59536
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Horse%20Life%20-%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Horse%20Life%20-%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Horse%20Life%20-%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

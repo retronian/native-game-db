@@ -1,0 +1,65 @@
+{
+  "id": "nazo-no-mascarade",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nazo no Mascarade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "円陣探偵社捜査日記・龍之介と5人の仲間たち 謎のマスカレード 伝説洋館連続殺人事件",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nazo no Mascarade (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "0441d85a",
+      "md5": "744455d7dcaa4ae0b6b9aa53aade20a3",
+      "sha1": "a449aee2f786f981539315565fe1cf4daab6eef9",
+      "sha256": "2690aedba3abc4b3e39d4e32c9e76e2918fe3b620613738a64a671d3e7f431c0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1921年の邸宅を舞台にしたアドベンチャーゲーム。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-03-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Nazo%20no%20Mascarade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Nazo%20no%20Mascarade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Nazo%20no%20Mascarade%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

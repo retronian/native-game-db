@@ -1,0 +1,111 @@
+{
+  "id": "f1-world-grand-prix-ii-for-game-boy-color",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F1 World Grand Prix II for Game Boy Color",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "エフワン ワールドグランプリ II for ゲームボーイカラー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "eef4a20b",
+      "md5": "5428271d0c9c5eb3dbf28078fafe2031",
+      "sha1": "ce114896da10c8a0a14164cd9958922523491a59",
+      "sha256": "c460c746e8ebeb1633e484c131bedf4597493076d14a80531c70517199370566"
+    },
+    {
+      "name": "F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "28453467",
+      "md5": "bceeb4182da245db9402dd55eedba53f",
+      "sha1": "b4d5e42c10c2bcd9204d282e9d91312f34ff768a"
+    },
+    {
+      "name": "F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "482e10c5",
+      "md5": "69a6ebc942c7d0ecef2e514989debde6",
+      "sha1": "c39e33fd9d5f06bc8f0f74eafb45fa0c254f9c84"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28Japan%29%20%28En%2CJa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

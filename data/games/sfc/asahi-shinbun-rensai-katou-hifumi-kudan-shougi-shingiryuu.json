@@ -1,0 +1,66 @@
+{
+  "id": "asahi-shinbun-rensai-katou-hifumi-kudan-shougi-shingiryuu",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "朝日新聞連載 加藤一二三九段将棋 新鬼流",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "朝日新聞連載 加藤一二三 九段将棋 心技流",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "506a8f77",
+      "md5": "3d3c735ad372dbbbb7cafb809c60678b",
+      "sha1": "eb1f8139d1490c268eb2c2cca3634bf1676e1c48",
+      "sha256": "80b8e1423d1765c9e1a35bcc92dfb2263f7fad6ab626777d9302cdf3edbf0b24"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Asahi%20Shinbun%20Rensai%20-%20Katou%20Hifumi%20Kudan%20Shougi%20-%20Shingiryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Asahi%20Shinbun%20Rensai%20-%20Katou%20Hifumi%20Kudan%20Shougi%20-%20Shingiryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Asahi%20Shinbun%20Rensai%20-%20Katou%20Hifumi%20Kudan%20Shougi%20-%20Shingiryuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hebereke-no-oishii-puzzle-wa-irimasenka",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hebereke no Oishii Puzzle wa Irimasenka",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "へべれけ Hebereke のおいしいパズルはいりませんか",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "へべれけのおいしいパズルはいりませんか",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hebereke no Oishii Puzzle wa Irimasenka (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "0b94ccd4",
+      "md5": "4c001cfc562003f8b9ec93326b10a2fe",
+      "sha1": "6b9dbe40ef560d71f28b932def655073f5d78ddc",
+      "sha256": "7356b0b01ac2c5e2bff163449810b6a953703d0c7a946d1924d921360ce3faf0"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "プレイヤーがボードの終わりまで進むためにミニゲームをクリアしなければならないマルチプレイヤーパーティーゲームです。これらのミニゲームには、クロスワードの完成、クローンの海の中から特定のキャラクターのバリエーション（例えば、トゲのある耳や異なる色合い）を見つけること、2つの似た画像の違いを見つけること、ジグソーパズルの完成などが含まれます。シングルプレイヤーモードでは、プレイヤーは制限時間内にこれらのパズルを成功裏にクリアしなければならず、そうでないとライフを失います。このゲームには、NESゲーム「ユーフォリア：ザ・サーガ」で初めて紹介されたSunSoftのへべれけマスコットキャラクターたちが登場します。そのゲームの4人のキャラクター、へべれけ（ボップ・ルイ）、おちゃん（フリオン・レオン）、すけざえもん（シェイズ）、そしてジェニファー（ギル）は、マルチプレイヤーモードで人間の友達と共に登場します。他のへべれけキャラクターもミニゲームにカメオ出演します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-08-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Hebereke%20no%20Oishii%20Puzzle%20wa%20Irimasenka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Hebereke%20no%20Oishii%20Puzzle%20wa%20Irimasenka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Hebereke%20no%20Oishii%20Puzzle%20wa%20Irimasenka%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

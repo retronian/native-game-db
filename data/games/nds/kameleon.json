@@ -1,0 +1,48 @@
+{
+  "id": "kameleon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kameleon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kameleon (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ABKP",
+      "size": 8388608,
+      "crc32": "e4268230",
+      "md5": "2b86b62d10f0b6008a32ea3868ee48dc",
+      "sha1": "17b56d272ad3e753ed07b7c4d6c6f18baf41bfe3"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kameleon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Kameleon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kameleon%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

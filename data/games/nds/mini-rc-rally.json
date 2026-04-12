@@ -1,0 +1,51 @@
+{
+  "id": "mini-rc-rally",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini RC Rally",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini RC Rally (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARCE",
+      "size": 33554432,
+      "crc32": "ca8c7752",
+      "md5": "4cad522104dcdb55248e9c1a73d0af87",
+      "sha1": "5962b973d956207735d369f4612cef72148028d9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 84634
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Mini%20RC%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Mini%20RC%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Mini%20RC%20Rally%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

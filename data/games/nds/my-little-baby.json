@@ -1,0 +1,70 @@
+{
+  "id": "my-little-baby",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Little Baby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Little Baby (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJLP",
+      "size": 16777216,
+      "crc32": "212d72fc",
+      "md5": "959c959f9b24b8da07c47b105410a1de",
+      "sha1": "e1b28d093e51e4314d79df005435cfa35e7b81c8"
+    },
+    {
+      "name": "My Little Baby (Europe) (En,Fr,De,Es,It,Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJLY",
+      "size": 16777216,
+      "crc32": "9851e518",
+      "md5": "8066cbbbdba199f64fc6769d951aa9de",
+      "sha1": "4d0c1d8ffd24afff807f9550d5510a0c169c6d37",
+      "sha256": "a78efd20d9a15070938dcc20cda9f26bcf8b38286203ffb17d8b3b992404ad79"
+    },
+    {
+      "name": "My Little Baby (Europe) (En,Fr,De,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJLX",
+      "size": 16777216,
+      "crc32": "1341e763",
+      "md5": "d42e00630b6c5f242a2f7368819ec155",
+      "sha1": "4753b4a009fd9ccb9a759420edaecde2d23675f0",
+      "sha256": "8ac6c8badd9137d58977a4bf7eba4b0d41e4d7b3e68257b85c7d105bab3eec17"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Little%20Baby%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/My%20Little%20Baby%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Little%20Baby%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "cyber-dodge",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cyber Dodge",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サイバードッジ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cyber Dodge (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b5326b16",
+      "md5": "cbc880d19c5a996d58d8a8d9c468d31b",
+      "sha1": "fd6e6ed4f8124a6db42dcddd34d08beacbb6dd52",
+      "sha256": "1fd07d528b1db4869b44dbdd8ceb50fdab748e28be8bbe48273a7a1a395cb25c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42054
+  },
+  "descriptions": [
+    {
+      "text": "未来的なドッジボールゲームで、幻想的なチーム（中には有名な映画に似たものもある）を選ぶことができ、さまざまなテーマのコートが用意されています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Cyber%20Dodge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Cyber%20Dodge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Cyber%20Dodge%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

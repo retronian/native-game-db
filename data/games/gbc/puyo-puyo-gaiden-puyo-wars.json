@@ -1,0 +1,67 @@
+{
+  "id": "puyo-puyo-gaiden-puyo-wars",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puyo Puyo Gaiden - Puyo Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぷよぷよ外伝 ぷよウォーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "67350bc9",
+      "md5": "ec0985bdad4b519c492f07f2d01f1613",
+      "sha1": "b1802797e892d09e4da53304d096bdf35bac1118"
+    }
+  ],
+  "external_ids": {
+    "igdb": 64088
+  },
+  "descriptions": [
+    {
+      "text": "このシミュレーションRPGでは、人気パズルゲーム「ぷよぷよ」でおなじみのぷよたちが、「テクター」と呼ばれる戦闘機の中で活躍します。ぷよの力を借りて敵と戦います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-08-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Puyo%20Puyo%20Gaiden%20-%20Puyo%20Wars%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Puyo%20Puyo%20Gaiden%20-%20Puyo%20Wars%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Puyo%20Puyo%20Gaiden%20-%20Puyo%20Wars%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

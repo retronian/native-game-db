@@ -1,0 +1,78 @@
+{
+  "id": "brandish-2-the-planet-buster",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Brandish 2 - The Planet Buster",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ブランディッシュ2 ザ・プラネットバスター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ブランディッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ブランディッシュ 2: The Planet Buster",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Brandish 2 - The Planet Buster (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "bb89e67e",
+      "md5": "16647a6edc60975425d52c255c4c8523",
+      "sha1": "a091a0c109a4ebd7c2e8a39397d9837712bd7c22",
+      "sha256": "a5c447af9d229892816a59f8ac1fa0dd3d7e8989b7b08e9cb496922350109edb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42212
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Brandish%202%20-%20The%20Planet%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Brandish%202%20-%20The%20Planet%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Brandish%202%20-%20The%20Planet%20Buster%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "popstars",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Popstars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Popstars (Germany) (NDSi Enhanced)",
+      "source": "no_intro",
+      "serial": "VPOD",
+      "size": 33554432,
+      "crc32": "835b9220",
+      "md5": "44a3c3113c39d7cf48193b49db7d1b89",
+      "sha1": "4a093236c0cab4dc178cf665ca080d027982aa48"
+    }
+  ],
+  "external_ids": {
+    "igdb": 268384
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Popstars%20%28Germany%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Popstars%20%28Germany%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

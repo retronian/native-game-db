@@ -1,0 +1,95 @@
+{
+  "id": "battle-network-rockman-exe",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Battle Network - Rockman EXE",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バトルネットワーク ロックマンエグゼ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Battle Network - Rockman EXE (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AREJ",
+      "size": 8388608,
+      "crc32": "d9516e50",
+      "md5": "1e35207a805af5bafde2361df6721c60",
+      "sha1": "6e42dbd5cdee25851fb55dba060b28e28e4f4e5f",
+      "sha256": "5a453d04c8928d0e9426dd1643c3a18d1313ca38a5d2a8babbde8a5acc0c5a45"
+    },
+    {
+      "name": "Battle Network - Rockman EXE (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AREJ",
+      "size": 8388608,
+      "crc32": "109f133b",
+      "md5": "2c473ca8fb6b7a76777029d1eee066fc",
+      "sha1": "7872a276d0059ff0bcff86fd3f843cace3cc8840",
+      "sha256": "73b74911e1ff4d7613af999dadc8534e33bae4138012fe82967332afb1e56529"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "未来、若きネットバトラーのランは、「パーソナル情報端末」（PET）を起動し、ネットワークに侵入してネット犯罪と戦う準備をします。ランのPETは普通のネットナビゲーターではありません。それはメガマン.EXE、サイバーアイデンティティであり、犯罪が蔓延するネットワークに infiltrate して破壊的なコンピュータウイルスと戦います。リアルタイムでウイルスを倒し、貴重な武器データや重要なシステム情報を含むバトルチッププログラムデータを収集しましょう。175種類以上のバトルチップを集めて、ネットとメガマン.EXEが平和と秩序を取り戻す手助けをしましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Battle%20Network%20-%20Rockman%20EXE%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

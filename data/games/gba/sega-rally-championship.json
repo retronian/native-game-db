@@ -1,0 +1,81 @@
+{
+  "id": "sega-rally-championship",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SEGA Rally Championship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "SEGA Rally Championship (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AYLJ",
+      "size": 8388608,
+      "crc32": "e57c16f7",
+      "md5": "bf1d31e4558e574c751e9886daa5c23d",
+      "sha1": "3f65a322f562d5b2d74a608fde0d068b90c63b67"
+    },
+    {
+      "name": "SEGA Rally Championship (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AYLE",
+      "size": 8388608,
+      "crc32": "1ae3eb16",
+      "md5": "f4326bde4b5e9f53f5fc58ce24d7b137",
+      "sha1": "5ec86056ccef168b57be8e609aada2b1da11f733"
+    },
+    {
+      "name": "SEGA Rally Championship (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AYLP",
+      "size": 8388608,
+      "crc32": "d125a6bb",
+      "md5": "8c40604a9a39f081408cbe3991ac0626",
+      "sha1": "bfbf823e2979e122b984ac04a9ea7fa996afae28"
+    },
+    {
+      "name": "SEGA Rally Championship (Europe) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 8388608,
+      "crc32": "d9f19d76",
+      "md5": "2553ec818abcbaf0e925805918635f0f",
+      "sha1": "c40196e7532c5629e1c12206ddc536d206f70af3",
+      "sha256": "3ab7d4f4923fb3732eabd7bfeb1ed2d472217162d024e033a5f10c46c94feff0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 229864
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/SEGA%20Rally%20Championship%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/SEGA%20Rally%20Championship%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/SEGA%20Rally%20Championship%20%28Europe%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

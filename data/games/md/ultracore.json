@@ -1,0 +1,108 @@
+{
+  "id": "ultracore",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ultracore",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スターブレード",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウルトラコア",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ultracore (Europe) (Strictly Limited Games)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "T-SNAKE-MOD",
+      "size": 1048576,
+      "crc32": "77d3d240",
+      "md5": "d3d42b4291066b9aadd4a363fc324235",
+      "sha1": "ccf9ea27dc7a3e7aa88e56f1902dd0629dc866cf",
+      "sha256": "652b7020219b7d451300b259a12625bfa244819785a73ef031f6433c14f72da2"
+    },
+    {
+      "name": "Ultracore (Japan) (En) (Columbus Circle)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-SNAKE-MOD",
+      "size": 2097152,
+      "crc32": "ae7fda5a",
+      "md5": "42781a2d30441e259cec4b4a4ee10097",
+      "sha1": "a7ecac360c0588cb8d4866d2593ca0c94bd6cd00",
+      "sha256": "e8770aa6558be8af8820b672fed324adaf46ad9adfb1c9d45e08e0168405c8cc"
+    },
+    {
+      "name": "Ultracore (USA, Europe) (Switch, PS Vita)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-113066",
+      "size": 1048576,
+      "crc32": "b270c265",
+      "md5": "9cfa000f071866f439c7acdcf0149fea",
+      "sha1": "4d9b2f48cabfa2cc2d5dd518b650eeea0b608ff9",
+      "sha256": "bc17252f059892e907bcf5e8302236a39a5e8311827c395918b665fe5e804c08"
+    },
+    {
+      "name": "Ultracore (USA) (Strictly Limited Games)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-SNAKE-MOD",
+      "size": 1048576,
+      "crc32": "4852c1c0",
+      "md5": "fa1039ffa11bbe351ec33f6f8453bfd5",
+      "sha1": "228c14c1e1a6b8de7dd9bf103851910eec8ae5bc",
+      "sha256": "be4e1f88c4d2ce0dbfda7f78de7c6c91f46a85db07ff32e8e68c979d73d695fb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 107188
+  },
+  "descriptions": [
+    {
+      "text": "ハードコアを基にしたアフターマーケットリリースで、かつてセガによってリリースのライセンスが取得されていたが、元のパブリッシャーであるサイグノシスによって未発売となった。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2019-03-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Ultracore%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Ultracore%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Ultracore%20%28Europe%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

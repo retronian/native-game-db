@@ -1,0 +1,59 @@
+{
+  "id": "irem-arcade-classics",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Irem Arcade Classics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アイレム アーケードクラシックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Irem Arcade Classics (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 95493760,
+      "crc32": "a272f96a",
+      "md5": "8e454539a65aa91e77efef56b48df706",
+      "sha1": "1a1899097f8afe0199865b4eedd5aa9ff874775e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92368
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Irem%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Irem%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Irem%20Arcade%20Classics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

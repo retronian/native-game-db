@@ -1,0 +1,80 @@
+{
+  "id": "prism-light-the-way",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Prism - Light the Way",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Prism - Light the Way (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AL4P",
+      "size": 8388608,
+      "crc32": "2d8673b9",
+      "md5": "328e8ad488a948197317f1c48f375f4a",
+      "sha1": "326682e7a999957c703a4a3929b7b4e0a837432b"
+    },
+    {
+      "name": "Prism - Light the Way (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AL4E",
+      "size": 8388608,
+      "crc32": "01ed467a",
+      "md5": "aeb3a459f4be4a02cee3d279ebe050e0",
+      "sha1": "2063ef9af18706968eb80f7d5a78757219b87d42",
+      "sha256": "e6c5e39f681982aafbaab70043a6e084a83ad3f8b98d8c97590c964656782049"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20765
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prism%20-%20Light%20the%20Way%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prism%20-%20Light%20the%20Way%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prism%20-%20Light%20the%20Way%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Prism%20-%20Light%20the%20Way%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Prism%20-%20Light%20the%20Way%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Prism%20-%20Light%20the%20Way%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

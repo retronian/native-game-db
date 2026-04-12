@@ -1,0 +1,65 @@
+{
+  "id": "screw-breaker-goushin-dorirurero",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Screw Breaker - Goushin DoriRureRo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スクリューブレイカー 轟振どりるれろ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Screw Breaker - Goushin DoriRureRo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "V49J",
+      "size": 8388608,
+      "crc32": "b17532ee",
+      "md5": "1455d99497a4d004aa0edc0e50bd2530",
+      "sha1": "84afa7108e4d604e7b1a6d105df5760869a247fa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スカルカーギャングが、亡き母が残した大切なレッドダイヤモンドを盗んでしまいました。あなたはドリルドーザーを使い、仲間の泥棒たち「レッドドーザー」と共にレッドダイヤモンドを取り戻す冒険に出なければなりません。\n\nゲームプレイは、ドリルドーザーというロボットを使って、敵や壁、そしてあなたの行く手を阻むあらゆるものを貫通しながら、いくつかのエリアを移動することから成り立っています。ドリルドーザー自体は多機能な機械で、水中での作業や飛行も可能です。また、ドリルを高いギアに切り替えて、最も頑丈な障害物をも破壊する能力も備えています。冒険の途中で、ギアやアドオンを使ってドリルドーザーをアップグレードし、クエストを進める手助けをしてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2005-09-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Screw%20Breaker%20-%20Goushin%20DoriRureRo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Screw%20Breaker%20-%20Goushin%20DoriRureRo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Screw%20Breaker%20-%20Goushin%20DoriRureRo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "mahjong-gakuen-touma-soushirou-toujou",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Gakuen - Touma Soushirou Toujou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀学園 東間宗四郎登場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Gakuen - Touma Soushirou Toujou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f5b90d55",
+      "md5": "cf8c62e6b9301a01aa4b61b4136c4fcd",
+      "sha1": "ce7f528302d77fd2c1cfa1a22cdfd4e399b57c87",
+      "sha256": "a59e418d4b1e5fc9344a572b15acb78bf5e177ead9137ba030ac89b3445141bc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 59429
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mahjong%20Gakuen%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mahjong%20Gakuen%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mahjong%20Gakuen%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

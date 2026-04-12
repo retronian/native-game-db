@@ -1,0 +1,48 @@
+{
+  "id": "ecolis",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ecolis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ecolis (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AERJ",
+      "size": 16777216,
+      "crc32": "4deecbcc",
+      "md5": "34ca49147d279a6842edacef3c41a87b",
+      "sha1": "b83968a31da270ee4e50017fc5b5af0e1d2f6bd7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ecolis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Ecolis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Ecolis%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

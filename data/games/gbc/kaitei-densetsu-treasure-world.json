@@ -1,0 +1,64 @@
+{
+  "id": "kaitei-densetsu-treasure-world",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaitei Densetsu!! Treasure World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "海底伝説!! トレジャー ワールド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaitei Densetsu!! Treasure World (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "4c7258d9",
+      "md5": "59fed43cd1489169d3c51b87988e7abe",
+      "sha1": "fe1cba586c0ff61628e52890b5ac40d1b7c4cbee"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "潜水艦やバルーンを使って海に沈んだ宝物を引き上げ、古代文明が眠る「ワールドトレジャー」を目指そう。調査しているエリアでは、ライバルと戦うこともあるかもしれません。\n＊カクレンボバトルモンスタータクティクス\nダンジョン内のモンスターを倒して競争に勝利しよう。「モンタク」はモンスターを倒した証であり、戦闘で使用するためのさまざまなスキルを取得するのに使われます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kaitei%20Densetsu%21%21%20Treasure%20World%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kaitei%20Densetsu%21%21%20Treasure%20World%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kaitei%20Densetsu%21%21%20Treasure%20World%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

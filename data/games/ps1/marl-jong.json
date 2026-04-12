@@ -1,0 +1,59 @@
+{
+  "id": "marl-jong",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Marl Jong!!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マールじゃん!!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Marl Jong!! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 122028272,
+      "crc32": "4ad5a860",
+      "md5": "725cbfa9ad07a10af7aae60c39f4f9f9",
+      "sha1": "e975b3e430b80ee2f4aa93b5b119588694aa12a0"
+    }
+  ],
+  "external_ids": {
+    "igdb": 165594
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Marl%20Jong%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Marl%20Jong%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Marl%20Jong%21%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

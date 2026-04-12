@@ -1,0 +1,62 @@
+{
+  "id": "buggy-popper",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Buggy Popper",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "バギー・ポッパー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Buggy Popper (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "681b1b0e",
+      "md5": "f953d3395125693cce4075a1c6ca85f9",
+      "sha1": "c89d22a88b7eca46996442edf90b2ecb47adee9f",
+      "sha256": "6c88a4f12808185c4207170afe2ffedef2fba01558b7fae88187358eac369bf6"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "バギーカーを操縦するアクションゲーム。昆虫のような敵を倒しながら進む。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Buggy%20Popper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Buggy%20Popper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Buggy%20Popper%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

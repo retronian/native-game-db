@@ -1,0 +1,68 @@
+{
+  "id": "metalgun-slinger",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Metalgun Slinger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メタルガン・スリンガー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Metalgun Slinger (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AAPJ",
+      "size": 8388608,
+      "crc32": "8dfb7a2f",
+      "md5": "8b7a8c1e315ccf6132afb5bcd7aa4136",
+      "sha1": "dbf9e8515d9993c6fbab921af65cbbdeabd4aa93"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49689
+  },
+  "descriptions": [
+    {
+      "text": "物語は、信頼できるメタルガンを使って寄生型エイリアンの脅威と戦わなければならないカウボーイ、ビリー・マクドリーンの冒険を追います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-09-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Metalgun%20Slinger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Metalgun%20Slinger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Metalgun%20Slinger%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

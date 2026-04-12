@@ -1,0 +1,61 @@
+{
+  "id": "bit-generations-dialhex",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "bit Generations - Dialhex",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビットジェネレーションズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "bit Generations - Dialhex (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BVBJ",
+      "size": 16777216,
+      "crc32": "812ef3a9",
+      "md5": "a4fe285e6e4c0248d9d2fd9ae22590cd",
+      "sha1": "6c6f74a7012f5bca0397c34b404a4d9e4b79c933",
+      "sha256": "82b75fe95d951e9ee63651351ea9315ef992c40c72232e7c606dbab6f41ef8c6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 251173
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/bit%20Generations%20-%20Dialhex%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/bit%20Generations%20-%20Dialhex%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/bit%20Generations%20-%20Dialhex%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "choujikuu-yousai-macross",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Choujikuu Yousai - Macross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "超時空要塞マクロス",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Choujikuu Yousai - Macross (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 24592,
+      "crc32": "ef90cb84",
+      "md5": "d9b540419aac4127aa591978350827b4",
+      "sha1": "f56820e3dd7d97eabdb226249227205765886b0b",
+      "sha256": "0ae245fdb0eeec7aadcc382757a54d7653bac51fff0d2672f430be43f7fe4cd1"
+    },
+    {
+      "name": "Choujikuu Yousai - Macross (Taiwan) (En) (Pirate)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 24592,
+      "crc32": "7173914e",
+      "md5": "69ea942f2451b521aead9afc49e71455",
+      "sha1": "cdeea4a6d222563b52b529d79659881fc9086a0f",
+      "sha256": "4e80f9d2ad5bc7c39f91368a8c197d2c7b9746d2138e17599bc5cc01c7f13f17"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48673
+  },
+  "descriptions": [
+    {
+      "text": "この横スクロールシューティングゲームでは、プレイヤーはVF-1バルキリーを操作し、ゼントラーディの軍勢と戦います。主な目標は、ゼントラーディの艦船に侵入し、その反応炉を破壊することです。\n\nプレイヤーのバルキリーは、ファイター、ゲルウォーク、バトロイドの3つの形態を切り替えることで、外見や能力を変えることができます。ファイター形態は最も速いですが、自動砲がありません。ゲルウォーク形態は自動砲を持っていますが、ファイター形態よりも遅くなります。そしてバトロイド形態は自動砲を備え、自分の後ろを撃つこともできますが、他の2つの形態よりも動きが遅くなります。すべての形態には、使用できるホーミングミサイルの限られた供給があります。\n\nゲーム中には、収集できるパワーアップアイコンが登場します。パワーアップは、失ったエネルギーの回復、ミサイルの補充、ボーナスポイントの獲得、さらには追加のライフを与えるなど、プレイヤーを助けることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1985-12-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Choujikuu%20Yousai%20-%20Macross%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Choujikuu%20Yousai%20-%20Macross%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Choujikuu%20Yousai%20-%20Macross%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

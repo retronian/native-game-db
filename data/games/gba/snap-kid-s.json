@@ -1,0 +1,59 @@
+{
+  "id": "snap-kid-s",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Snap Kid's",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スナップキッズ",
+      "lang": "en",
+      "script": "Kana",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Snap Kid's (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AEAJ",
+      "size": 16777216,
+      "crc32": "41e35c6a",
+      "md5": "a9c50293ac1c9c2fc59308f0ec1ba892",
+      "sha1": "3e1d536762344d46e6948cc4d9c18b00d5284164"
+    }
+  ],
+  "external_ids": {
+    "igdb": 262396
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Snap%20Kid%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Snap%20Kid%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Snap%20Kid%27s%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

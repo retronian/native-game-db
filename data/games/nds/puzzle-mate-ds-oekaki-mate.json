@@ -1,0 +1,60 @@
+{
+  "id": "puzzle-mate-ds-oekaki-mate",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle Mate DS - Oekaki Mate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パズルメイトDS お絵かきメイト",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle Mate DS - Oekaki Mate (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YX9J",
+      "size": 16777216,
+      "crc32": "2e6c453c",
+      "md5": "188adefea261f5fe29e9d497d24e1cbd",
+      "sha1": "ca537d38c86afe2ff435995ade3a1fd4f9cce320"
+    }
+  ],
+  "external_ids": {
+    "igdb": 306448
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Puzzle%20Mate%20DS%20-%20Oekaki%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Puzzle%20Mate%20DS%20-%20Oekaki%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Puzzle%20Mate%20DS%20-%20Oekaki%20Mate%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

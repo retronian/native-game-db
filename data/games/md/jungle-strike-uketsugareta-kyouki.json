@@ -1,0 +1,66 @@
+{
+  "id": "jungle-strike-uketsugareta-kyouki",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jungle Strike - Uketsugareta Kyouki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ジャングルストライク 受け継がれた狂気 デザートストライク パート II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jungle Strike - Uketsugareta Kyouki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-106203-00",
+      "size": 2097152,
+      "crc32": "ba7a870b",
+      "md5": "88beb2a76ca723a42fecdf586d90b9c8",
+      "sha1": "e35c554c52ce31de837c0e73bf2014720657f4d5",
+      "sha256": "75599b0bc0bf174587f5219839abccd2724677d541e7639a9e1ea88f780c58fe"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「ジャングルストライク」はメガドライブ用のゲームで、1993年にリリースされた「デザートストライク」の続編です。カルババは、前作でアメリカ人に殺された父の復讐を果たすため、南米のカルロス・オルテガと手を組み、アメリカ合衆国を攻撃します。あなたは様々なタイプの戦闘機械を操作し、南米のジャングルを移動して彼らの計画を阻止します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Jungle%20Strike%20-%20Uketsugareta%20Kyouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Jungle%20Strike%20-%20Uketsugareta%20Kyouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Jungle%20Strike%20-%20Uketsugareta%20Kyouki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-densetsu-gaiden",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Densetsu Gaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎伝説外伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Densetsu Gaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "851b3400",
+      "md5": "566efa33b2d7167b20d5f2b900e52a37",
+      "sha1": "4f03aab8e5d585f30d9516a35bea82efa2f916af",
+      "sha256": "40044321cc8d9d4eb57eef1c02a7cb775240d3d7ef8ba289df54cac1b83b20d9"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、日本の有名な民話に基づいています。桃太郎は、大きな桃の中で見つかった少年で（そのため彼の名前は「桃の男」）、成長すると鬼の島に向かい、鬼と戦い、彼らの宝を奪い、村に平和を取り戻します。このゲームでは、桃太郎の物語を直接プレイするのではなく、日本の民話からの他の3人の人気キャラクターを操作し、3つの異なる物語を体験します。地獄の王エンマの娘、ヤシャヒメとして；人々からお金を奪うために嫌われている貧乏神、ビンボウガミとして；そして、かつて亀を救い、ドラゴン族と友達になった伝説の漁師、ウラシマとしてです。元の物語は互いにほとんど関係がないか、桃太郎の物語とは無関係ですが、ゲームは桃太郎をすべての物語に登場させることで、物語を結びつけています。\n\n主に子供向けのゲームであるにもかかわらず（物語はおとぎ話のように語られます）、これはレベル、パーティ管理、ワールドマップの移動、ダンジョン、町、武器や防具、ランダムに現れる敵とのターン制バトルを含む本格的なコンソールスタイルのRPGです。視点は一人称で描かれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Momotarou%20Densetsu%20Gaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

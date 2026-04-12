@@ -1,0 +1,49 @@
+{
+  "id": "tecmo-world-cup",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tecmo World Cup",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tecmo World Cup (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-44016",
+      "size": 262144,
+      "crc32": "caf8eb2c",
+      "md5": "246a2c8520d29afa798522fdb332e9fb",
+      "sha1": "53e47c40ac550c334147482610b3465fe9f6a535",
+      "sha256": "6952313c8db17fcc4f71011e18d4cddf4493277f217c568f76db016407d4d62a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Tecmo%20World%20Cup%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Tecmo%20World%20Cup%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Tecmo%20World%20Cup%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

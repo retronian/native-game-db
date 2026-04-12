@@ -1,0 +1,59 @@
+{
+  "id": "my-garden",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Garden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マイガーデン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Garden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 174982208,
+      "crc32": "7dfba3fd",
+      "md5": "9e98b286b711b151b312a72e3bd84118",
+      "sha1": "0e0c91286139ba9d7ba521642d23ef6e7d51dead"
+    }
+  ],
+  "external_ids": {
+    "igdb": 139119
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/My%20Garden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/My%20Garden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/My%20Garden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

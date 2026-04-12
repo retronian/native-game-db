@@ -1,0 +1,67 @@
+{
+  "id": "margot-s-word-brain",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Margot's Word Brain",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Margot's Word Brain (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CMIE",
+      "size": 8388608,
+      "crc32": "3a06bf2e",
+      "md5": "b1c65bc861608e0981affe8d4431678d",
+      "sha1": "29068559632e795317436a089387c449504856ac"
+    },
+    {
+      "name": "Margot's Word Brain (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CMIP",
+      "size": 8388608,
+      "crc32": "5562c361",
+      "md5": "8ce98dec4b5b0000f289d47d2ccb7d75",
+      "sha1": "6d22847816e4ce5ed647f1b027ce08fe2a2769b4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47961
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Margot%27s%20Word%20Brain%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Margot%27s%20Word%20Brain%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Margot%27s%20Word%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Margot%27s%20Word%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

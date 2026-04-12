@@ -1,0 +1,36 @@
+{
+  "id": "my-pet-beauty-salon",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Pet Beauty Salon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Pet Beauty Salon (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CRHP",
+      "size": 33554432,
+      "crc32": "8fe51bf5",
+      "md5": "4d6410bf2ae2bd8d5030f1952847a7c1",
+      "sha1": "926c908b85d4111b5ee3f0bd640a64f142ea0828"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Pet%20Beauty%20Salon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

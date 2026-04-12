@@ -1,0 +1,65 @@
+{
+  "id": "mini-moni-onegai-ohoshi-sama",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mini Moni. - Onegai Ohoshi-sama!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ミニモニ。おねがい☆お星さま！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mini Moni. - Onegai Ohoshi-sama! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AOHJ",
+      "size": 8388608,
+      "crc32": "f11c35cc",
+      "md5": "02d54c3ed3daf9976f355c16fe8303fc",
+      "sha1": "d34795cf3679c6f259177db52a138c0d6e9fcdfd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "こんにちは！ハロー！プロジェクトのユニット、ミニモニ。がGBAゲームに登場しました！GBA版限定の「スターゲット」モードは、挑戦に満ちたフィールドを駆け回り、「星」を素早く集めることが目的のゲームです。チャンスルーレットなどのさまざまなミニゲームがイベントとして登場します。「ミニゲーム」モードには、シンプルでクリア、楽しい30種類のゲームが含まれています。両方のモードでは、通信ケーブルを使って二人のプレイヤーが対戦することができます。さらに、4人のミニモニ。メンバーが4種類の占いを行う「占い」モードもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-12-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Mini%20Moni.%20-%20Onegai%20Ohoshi-sama%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Mini%20Moni.%20-%20Onegai%20Ohoshi-sama%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Mini%20Moni.%20-%20Onegai%20Ohoshi-sama%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tsuppari-oozumou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsuppari Oozumou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "つっぱり大相撲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsuppari Oozumou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "f110f69f",
+      "md5": "8203754c9e1844deca3445003784e5ab",
+      "sha1": "185bc5fb11c65db3d1f5d4c9cce5b0388cb4bd92",
+      "sha256": "98ed9d4dc17b33d9d3d193ae632dceadce811f1d0112950663271da13f124e57"
+    },
+    {
+      "name": "Tsuppari Oozumou (Japan) (Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "ae488f52",
+      "md5": "cc0c170d57b3e455a4a31f48572a7d40",
+      "sha1": "5965dde0bc5f964d77d63a7adbb0f7e0caeeccdf",
+      "sha256": "c9e94b75a354ae24001f621f94a11fedc0294cdfd517e224e9ad979ed0b2d8f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79226
+  },
+  "descriptions": [
+    {
+      "text": "つっぱり大相撲は、相撲のゲームです。目的は、相手をリングの外に押し出すことです。ゲームが進むにつれて、対戦相手は徐々に強くなります。ボタンと方向キーの組み合わせによって、さまざまな技を繰り出すことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-09-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tsuppari%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tsuppari%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tsuppari%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tsuppari%20Oozumou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tsuppari%20Oozumou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tsuppari%20Oozumou%20%28Japan%29%20%28Virtual%20Console%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

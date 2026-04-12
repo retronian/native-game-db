@@ -1,0 +1,67 @@
+{
+  "id": "gonta-no-okiraku-daibouken",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gonta no Okiraku Daibouken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゴン太のおきらく大冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gonta no Okiraku Daibouken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "e45e99d2",
+      "md5": "52e260e54d59fd16cd5cc588123d3e48",
+      "sha1": "49e4156716a47d46006ad287ec46c28c573a74a5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 98292
+  },
+  "descriptions": [
+    {
+      "text": "「ゴン太のおきらく大冒険」は、Lay-Upによって発表されたアドベンチャーゲームで、2000年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gonta%20no%20Okiraku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gonta%20no%20Okiraku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gonta%20no%20Okiraku%20Daibouken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

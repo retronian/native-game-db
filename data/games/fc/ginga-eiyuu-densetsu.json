@@ -1,0 +1,77 @@
+{
+  "id": "ginga-eiyuu-densetsu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ginga Eiyuu Densetsu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "銀河英雄伝説 わが征くは星の大海",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "銀河英雄伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ginga Eiyuu Densetsu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "de874be1",
+      "md5": "d53dc94a88e0162a9efb3b0fdaca7537",
+      "sha1": "9f99e2a1edff7b9ee71ffa9335043614c52abe7a",
+      "sha256": "37fa4c0db9fbfabcf95b18120585ff5f36b27722efc5ab0c237324dbdcc3297f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48502
+  },
+  "descriptions": [
+    {
+      "text": "「銀河英雄伝説 わが征くは星の大海」は、プレイヤーが宇宙艦隊を指揮するSFテーマの戦略ゲームです。このゲームは、同名の長寿スペースオペラ小説シリーズに基づいており、漫画やアニメなどさまざまなメディアに適応されています。この初期のNES版は、このフランチャイズの多くのビデオゲーム版の一つであり、すべて同じ名前を持っています。ゲームの目的は、プレイヤーキャラクターの艦隊のさまざまな指揮官に特定の命令を与えて指揮することです。最終的には、プレイヤーは自分の艦隊と敵帝国との間で大規模な戦闘を指揮する必要があります。ラヴェルのクラシック音楽「ボレロ」のNESミディバージョンが流れ、ゲームにオペラ的な雰囲気を与えています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-12-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ginga%20Eiyuu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ginga%20Eiyuu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ginga%20Eiyuu%20Densetsu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

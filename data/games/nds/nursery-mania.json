@@ -1,0 +1,42 @@
+{
+  "id": "nursery-mania",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nursery Mania",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nursery Mania (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNSE",
+      "size": 16777216,
+      "crc32": "f2ac1390",
+      "md5": "926ce3c56d9d18b8cfd94946dc676b71",
+      "sha1": "f631364e55a4d178871514778810607c1f97ead0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nursery%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nursery%20Mania%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

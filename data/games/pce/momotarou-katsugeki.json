@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-katsugeki",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Katsugeki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎活劇",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Katsugeki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "345f43e9",
+      "md5": "ec7358edb3672a8aa8850623eec72a71",
+      "sha1": "b63aa8ae29b4d06dea7f5b795c4192285fc3c43b",
+      "sha256": "548f41efee5b0b5dfed041766cd83aa54ba68f573b82733c81979d50ea65c1ad"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎活劇は、ハドソンが制作した横スクロールアクションプラットフォーマーで、桃太郎電鉄や桃太郎伝説シリーズの主人公として知られる桃太郎キャラクターを使用しています。これはPCエンジン専用のゲームで、国際的なリリースはありませんでした。\n\n桃太郎活劇は、Westoneの「ワンダーボーイ モンスターランド」やその続編に影響を受けているようで、プレイスタイルも似ています。目的は一連の2Dステージを進むことで、プレイヤーはNPCと話をしてヒントを得たり、見つけたお金でより良い装備を購入したりできます。また、さまざまなステージをつなぐワールドマップも存在します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-09-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Momotarou%20Katsugeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Momotarou%20Katsugeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Momotarou%20Katsugeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

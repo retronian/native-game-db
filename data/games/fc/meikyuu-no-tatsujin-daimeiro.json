@@ -1,0 +1,67 @@
+{
+  "id": "meikyuu-no-tatsujin-daimeiro",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Meikyuu no Tatsujin - Daimeiro",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大迷路 迷宮の達人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "迷宮の達人 大迷路",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Meikyuu no Tatsujin - Daimeiro (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "bdc79a8f",
+      "md5": "5ee5b166d63b8e152bf75d60b4978348",
+      "sha1": "fa49aed818753b06985dd552f10b61f70af6f514",
+      "sha256": "fbd23f1fb5c35c5da8df9023be47b0a8fbee40f09a6e5464f53f81cf5b9aee1b"
+    }
+  ],
+  "first_release_date": "1990-11-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Meikyuu%20no%20Tatsujin%20-%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Meikyuu%20no%20Tatsujin%20-%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Meikyuu%20no%20Tatsujin%20-%20Daimeiro%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

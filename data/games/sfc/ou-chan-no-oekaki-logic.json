@@ -1,0 +1,65 @@
+{
+  "id": "ou-chan-no-oekaki-logic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ou-chan no Oekaki Logic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "おーちゃんのお絵かきロジック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ou-chan no Oekaki Logic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9a5f2955",
+      "md5": "d193b7ee202b26c11eaa0ecbce03ba38",
+      "sha1": "87d4aa8b1e049d1a81296b6b3b0382ed9ebfc007",
+      "sha256": "dc8582b6bef85c8abbe05fe225ba7cf8c39433fc852ebefd739937a404294c8c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "おーちゃんのお絵かきロジックは、クラシックな日本の新聞パズル「ノノグラム」をデジタル化し、アニメのマスコットキャラクターを取り入れたゲームです。ノノグラムは、正方形または長方形のグリッド上で隠された絵を明らかにすることを目的としたパズルです。各行と列には、どのくらいのマスがその行やグリッドで塗られるかを示す数字や数字の組み合わせがあります。例えば、「5 9 4」は、グリッド内に五つ、九つ、四つの塗られたマスのセットが、その順番で存在し、間に少なくとも一つの空白があることを意味します。\n\nおーちゃんのお絵かきロジックにはストーリーモードが追加されており、プレイヤーを代表するおーちゃんが、他のブロビーなアニメキャラクターたちと競い合いながら、ノノグラムのグリッド内に隠された画像を見つけ出します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Ou-chan%20no%20Oekaki%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Ou-chan%20no%20Oekaki%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Ou-chan%20no%20Oekaki%20Logic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

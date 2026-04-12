@@ -1,0 +1,43 @@
+{
+  "id": "zhuzhu-princess",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "ZhuZhu Princess",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "ZhuZhu Princess (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BZHP",
+      "size": 16777216,
+      "crc32": "bc259df7",
+      "md5": "e448b3d00fb22b4ac86d8bae0bad116a",
+      "sha1": "5af877141c1abb4317996831dfd0251550207b6c",
+      "sha256": "3cdfbd3c419f5ca4d15c48990ddbb0be2939cd74a325ddb62b2315e40d4faf79"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/ZhuZhu%20Princess%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/ZhuZhu%20Princess%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

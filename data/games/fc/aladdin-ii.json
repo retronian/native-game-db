@@ -1,0 +1,53 @@
+{
+  "id": "aladdin-ii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Aladdin II",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 242085
+  },
+  "first_release_date": "1995-12-31",
+  "roms": [
+    {
+      "name": "Aladdin II (China) (En) (Taijing Dadong) (Pirate)",
+      "source": "no_intro",
+      "region": "cn",
+      "size": 393232,
+      "crc32": "7c38ae11",
+      "md5": "dbf1360190cca9bfe9f9dcf987bf2e3e",
+      "sha1": "68542398cc6ed0f08e9b8dedec6aec422ec80782",
+      "sha256": "57a9acb227832c5476b35888e00963ff616fabb05e7e58c62feffde384b273f0"
+    },
+    {
+      "name": "Aladdin II (Asia) (En) (Hummer Team) (Pirate)",
+      "source": "no_intro",
+      "size": 524304,
+      "crc32": "525c5a5a",
+      "md5": "d1ef63b2d772d34dac2ed6564fe293b5",
+      "sha1": "6c0bd2877387b7cd85b8bd0bfe908847c668bb0a",
+      "sha256": "915e47dfc7bba5b45e2bb3688d67225b07ec5836dc030adcc9d90170e0ce2a11"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Aladdin%20II%20%28Asia%29%20%28En%29%20%28Hummer%20Team%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Aladdin%20II%20%28Asia%29%20%28En%29%20%28Hummer%20Team%29%20%28Pirate%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

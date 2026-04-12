@@ -1,0 +1,68 @@
+{
+  "id": "famista-94",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famista '94",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミスタ'94",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famista '94 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "edbd4f5e",
+      "md5": "04a36ca5634451ba1bb741d17ec54dc5",
+      "sha1": "b575c8a83cc2766f2cc841d21f5677e557ea9c48",
+      "sha256": "db52a53cf55b901d04811060359170fc240a99d166b4124f93a4711d8147dc40"
+    }
+  ],
+  "external_ids": {
+    "igdb": 218392
+  },
+  "descriptions": [
+    {
+      "text": "まったく普通の野球シミュレーターです。ほとんどのゲームと同様に、投球時は背後からの視点で打撃を行い、ボールをキャッチする際は上空からの視点になります。いくつかのチームから選択できる機能があります。計画や設定は最小限です。このゲームのスタイルは、安定感を持ち続けており（時にはイライラさせることも？）、楽しませてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Famista%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Famista%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Famista%20%2794%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

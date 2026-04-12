@@ -1,0 +1,102 @@
+{
+  "id": "super-jinsei-game-3",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Jinsei Game 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパー人生ゲーム3",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "人生ゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Jinsei Game 3 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "688382b6",
+      "md5": "b12a279063604fed8ab7db5d8a427b9e",
+      "sha1": "861aaed1a8179d65c6bec306098b7502219a203d",
+      "sha256": "057d347dfedd3f05d96ac001c84abcdcf04602d2ccba8db740021234818e3ccc"
+    },
+    {
+      "name": "Super Jinsei Game 3 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "61b947e2",
+      "md5": "32582ab5d74eb5b4f7a2d3dc34107fce",
+      "sha1": "99780e28af77452f00108e5c33966e7a372fe6b0",
+      "sha256": "bc8f256486fc83415a4f7e6bd5d7f0d6b0e726765711720438eaca2378e9e23c"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパージンセイゲーム3は、タカラのボードゲーム「人生ゲーム」を基にしたスーパーファミコン用にリリースされた3つのゲームのうちの第3作です。このゲームは、実際にはミルトン・ブラッドリーの「ザ・ゲーム・オブ・ライフ」の翻訳版です。\n\nプレイヤーはアバターを選択し名前を付け、スピナーを使ってボード上を移動し、さまざまなランダムな人生イベントに遭遇します。これらのイベントは、プレイヤーの地位にプラスまたはマイナスの変化をもたらすことがあります。プレイヤーは、最大3人の他のプレイヤーとパス＆プレイ方式で遊ぶことも、3人のCPU対戦相手と対戦することも、またその両方の組み合わせで遊ぶこともできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-11-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Jinsei%20Game%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Jinsei%20Game%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Jinsei%20Game%203%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Jinsei%20Game%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Jinsei%20Game%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Jinsei%20Game%203%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

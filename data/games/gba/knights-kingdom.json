@@ -1,0 +1,76 @@
+{
+  "id": "knights-kingdom",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Knights' Kingdom",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Knights' Kingdom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKNE",
+      "size": 4194304,
+      "crc32": "88fe3f31",
+      "md5": "5ad0ed7f2bbda3dab28d29b59f01cade",
+      "sha1": "5f6e9fada285dd4795d4103e5f97b8e714ab9099"
+    },
+    {
+      "name": "Knights' Kingdom (Europe) (En,De)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKNP",
+      "size": 4194304,
+      "crc32": "f027e89f",
+      "md5": "8eabc44961b0e153f9e3da94ca011847",
+      "sha1": "e9754e69eaefb7912f230826d13b743a71293600"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Knights%27%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Knights%27%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Knights%27%20Kingdom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Knights%27%20Kingdom%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Knights%27%20Kingdom%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Knights%27%20Kingdom%20%28Europe%29%20%28En%2CDe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

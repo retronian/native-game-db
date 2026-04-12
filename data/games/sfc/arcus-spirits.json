@@ -1,0 +1,93 @@
+{
+  "id": "arcus-spirits",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arcus Spirits",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アークス・スピリッツ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arcus Spirits (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1310720,
+      "crc32": "c9067671",
+      "md5": "1a4017d552b041f254e2e15bb6156450",
+      "sha1": "d9b029a4d22c75113a051c7eb7bf6ea0ecdcba8d",
+      "sha256": "73b27022be53d24492fc4eaa78c60deaa1ce2bd1d3d8a8c576fbe31c29b66261"
+    },
+    {
+      "name": "Arcus Spirits (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1572864,
+      "crc32": "184ef398",
+      "md5": "db313d0c844cf97d18075317ec9f7756",
+      "sha1": "1748c5df2cbcf2e1cc3720b6cb1206c0e966ec95",
+      "sha256": "7b5271a3c6063cf097e154f6a3ed1890fded898c280bb1c93ac39fe55afd1e78"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "昔々、邪悪な魔女カストミラが世界を征服しようと決意しました。しかし、善良な王女が彼女に反抗し、壮絶な戦いの末に魔女を打ち倒しました。しかし、魔女の力を完全に封じるためには、王女が魔法の剣を作らなければなりませんでした。この剣は長い間、アルクスの市民たちの平和を守ってきました。しかし今、カストミラの信者たちがそれを盗み、世界は大きな危機に直面しています…\n\nこれはガントレットのようなゲームです：アクションと魔法が満載で、アイテムを集めたり、モンスターからダンジョンを解放したりします。ゲームはこのジャンルに典型的なアイソメトリック視点で表示されます。4人のキャラクターの中から1人を選び、ダンジョンや城を戦い抜くか、2人プレイモードで友達と一緒に遊びましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-10-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arcus%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arcus%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arcus%20Spirits%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Arcus%20Spirits%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Arcus%20Spirits%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Arcus%20Spirits%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

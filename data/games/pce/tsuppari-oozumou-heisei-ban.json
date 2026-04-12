@@ -1,0 +1,65 @@
+{
+  "id": "tsuppari-oozumou-heisei-ban",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsuppari Oozumou - Heisei Ban",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "つっぱり大相撲 平成版",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsuppari Oozumou - Heisei Ban (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "61a6e210",
+      "md5": "6c75e08df27d78da7e6607782374576d",
+      "sha1": "24df2dfec320b5dd04cf3d01cc586954bd33f72d",
+      "sha256": "8723c11ec54b2c52cedd5619c4852ce4632d30285433d23cf14c6819b3610c31"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "つっぱり大相撲は基本的に「押し相撲」を意味し、つっぱりは相撲力士が相手を土俵の外に押し出すために行う技です。このゲームは他のトーナメント型格闘ゲームと同様に進行します。プレイヤーキャラクターは、次第に難易度が上がる一連の対戦相手と戦い、最終的に頂点に達して横綱と宣言されることを目指します。横綱は相撲の最高位です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tsuppari%20Oozumou%20-%20Heisei%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tsuppari%20Oozumou%20-%20Heisei%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tsuppari%20Oozumou%20-%20Heisei%20Ban%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

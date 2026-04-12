@@ -1,0 +1,70 @@
+{
+  "id": "tv-sports-hockey",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "TV Sports Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": ": TVスポーツ・アイスホッケー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "TV Sports Hockey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 393216,
+      "crc32": "97fe5bcf",
+      "md5": "85b530cc0513f23f1bcced8be7f7e503",
+      "sha1": "f5cde3af4fac59e402a9c96c4adbbc9e55ce5936",
+      "sha256": "866b93e455a2ebe5afff9386b517e02d1feb03e72c276ad8e7e3423e48c9a061"
+    },
+    {
+      "name": "TV Sports Hockey (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "e7529890",
+      "md5": "94d50a7e9871935c32a97c11e27de39a",
+      "sha1": "7ef8bc6e42c4bf023802a659c7856670dae02449",
+      "sha256": "0c4605a3c5fe9c035dda9478cbe06bf92884198dac112e2060435c9469d0b5b1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 8675
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/TV%20Sports%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/TV%20Sports%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/TV%20Sports%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

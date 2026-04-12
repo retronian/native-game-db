@@ -1,0 +1,144 @@
+{
+  "id": "prince-of-persia",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Prince of Persia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "プリンス・オブ・ペルシャ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "プリンス オブ ペルシャ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "プリンスオブペルシャ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Prince of Persia (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "320562c3",
+      "md5": "ae497494baf8a03069b8415846dc1ab7",
+      "sha1": "d2e9ba4c7e75a178a551fc13d5fa05a2ce55d509",
+      "sha256": "2e09c1ab9a8894f2ede38ad80a1fe7269afe8e4c55cdee7cd9cccf6cdb7badd4"
+    },
+    {
+      "name": "Prince of Persia (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "cfc71e89",
+      "md5": "6f49df735cd2cf9d351d549f1cbfdaa9",
+      "sha1": "de1d327f90ee57c8b20e2489109638b8632f18f5",
+      "sha256": "d4207d0eaab7a1a894837eef9d49ec0cd90661e38eff70f6509148999c7c77f4"
+    },
+    {
+      "name": "Prince of Persia (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "891bb2bb",
+      "md5": "8ffc8d34bc75bc049122894b4292eb85",
+      "sha1": "29ce1e32cf57d8284d0670949045c0d9128c3e1b",
+      "sha256": "494190cd6d7fd68882cbe255a6e237d9c4bdaf3988615ede0297a5e285ad5dd9"
+    },
+    {
+      "name": "Prince of Persia (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b09ce083",
+      "md5": "7f595b5c675f8a626049dccc0a215f9b",
+      "sha1": "26957f4fb29f80f7146a603085c96e4c81bf2b0a",
+      "sha256": "095bf227df1355fb9d8cb5bc60ba6c121fcad0ff1083cc802d3fcd58c6efa538"
+    }
+  ],
+  "external_ids": {
+    "igdb": 204643
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prince%20of%20Persia%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Prince%20of%20Persia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prince%20of%20Persia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prince%20of%20Persia%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prince%20of%20Persia%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "kishin-douji-zenki-battle-raiden",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kishin Douji Zenki - Battle Raiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "鬼神童子Zenki ゼンキ 烈闘雷伝 バトルライデン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "鬼神童子ゼンキバトルライデン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kishin Douji Zenki - Battle Raiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0becfc92",
+      "md5": "2152cca035b8e3080d9eddb5bea8d94d",
+      "sha1": "7706caf2c6b6f36ff7cad5cbdde0a1b6ec03cae0",
+      "sha256": "8dc64fd3d1e2ef318a3926ea3044a916daa1f6b60cf3fce667bf90dbb3e6c7a8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67613
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kishin%20Douji%20Zenki%20-%20Battle%20Raiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kishin%20Douji%20Zenki%20-%20Battle%20Raiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kishin%20Douji%20Zenki%20-%20Battle%20Raiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "jikkyou-j-league-perfect-striker",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jikkyou J.League Perfect Striker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実況 J.League パーフェクトストライカー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "実況 Jリーグ パーフェクトストライカー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jikkyou J.League Perfect Striker (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NJPJ",
+      "size": 8388608,
+      "crc32": "8ed60dea",
+      "md5": "58153ac5c4030d1bfd3c15cf57fb02e7",
+      "sha1": "e1185922648a6b9dec1c820f43a292e480e396cc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 185992
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Jikkyou%20J.League%20Perfect%20Striker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Jikkyou%20J.League%20Perfect%20Striker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Jikkyou%20J.League%20Perfect%20Striker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

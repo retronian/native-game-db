@@ -1,0 +1,64 @@
+{
+  "id": "mizuki-shigeru-no-shin-youkaiden",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mizuki Shigeru no Shin Youkaiden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "水木しげるの新・妖怪伝",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mizuki Shigeru no Shin Youkaiden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "fc1f100f",
+      "md5": "600c8c4d9fcc759dae5055297b0ebb5f",
+      "sha1": "ab12770558fb95434bba0da0d3b8a91e2d9179fb"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "同名のカードゲームを基にした作品です。スペクターの世界で繰り返し戦い、最強のデッキを作り上げましょう。通信ケーブルを使えば、カードの交換や対戦が可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Mizuki%20Shigeru%20no%20Shin%20Youkaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Mizuki%20Shigeru%20no%20Shin%20Youkaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Mizuki%20Shigeru%20no%20Shin%20Youkaiden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "chip-to-dale-no-daisakusen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chip to Dale no Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チップとデールの大作戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chip to Dale no Daisakusen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "25ba20dd",
+      "md5": "a97bdcf2dfd53ace46ff94315efd597c",
+      "sha1": "d488c43131d494a3302f8d468037629072c4c1a5",
+      "sha256": "d1baf0c5dc52e2cf396d1bd7591829409adad177e008ed3ba67e01bf5e6c12d3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "レスキュー・レンジャーは小さな英雄たちです。2匹のリス、2匹のネズミ、そして1匹のハエから成る彼らは、小さな存在ですが、解決できない事件はありません。このゲームは、小さな子猫を救出するというシンプルなミッションから始まりますが、すぐに物語は広がり、レスキュー・レンジャーは宿敵である猫のボス、ファット・キャットと対峙することになります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-06-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Chip%20to%20Dale%20no%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Chip%20to%20Dale%20no%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Chip%20to%20Dale%20no%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

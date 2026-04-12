@@ -1,0 +1,65 @@
+{
+  "id": "ginga-no-sannin",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ginga no Sannin",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "銀河の三人",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ginga no Sannin (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "2ef88bac",
+      "md5": "e2486d2f635d473d50e60079b27adac0",
+      "sha1": "c2ffe139e9be5cda99c16a56df56e74c6ec67795",
+      "sha256": "8ab41331f89612819f65099ad9a971ce967b8b78e0d822aa1bfd934ca737ac38"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "NEC PC-8801で最初に発表された「地球の戦士レイエザックス」の公式移植版です。2300年、人類は地球連邦政府を創設し、周辺の惑星を植民地化するために宇宙へと進出しました。しかし、遠い宇宙から来た異星人種が人類の軍隊を攻撃し始め、人類の生存そのものが危機に瀕しています。地球が敵の圧倒的な力に屈するのは時間の問題でしたが、地球の軍司令官は植民地化された惑星に散らばっていた部隊を地球に戻すよう命令を出しました。プレイヤーは、火星に駐留していたレイエザ部隊の若い兵士の役割を担い、仲間たちと共に地球への帰還の旅を始めます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ginga%20no%20Sannin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ginga%20no%20Sannin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ginga%20no%20Sannin%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

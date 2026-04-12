@@ -1,0 +1,106 @@
+{
+  "id": "catz",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Catz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キャッツ (ゲーム)",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    },
+    {
+      "text": "なかよしペットアドバンスシリーズ３ かわいい子猫",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Nakayoshi Pet Advance Series 3: Kawaii Koneko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Catz (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AN3E",
+      "size": 4194304,
+      "crc32": "ce418ed1",
+      "md5": "1851c34d41025d541b6ad76b9146cc6b",
+      "sha1": "8783f76311a8e23173eb4dadabc5176246b1b7b1",
+      "sha256": "3e1b7c2bb3d7ab5d223ab9944c5b7bff8558c35ebd42e948ecd109293e257b20"
+    },
+    {
+      "name": "Catz (Europe) (En,Fr,De,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AN3X",
+      "size": 8388608,
+      "crc32": "c3aa382d",
+      "md5": "bd3938f9273373f99967ff831f9c86d6",
+      "sha1": "0dab5140ebc541e03dd00a8ce87cce4f0326b0e6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 144796
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Catz%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Catz%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Catz%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Catz%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

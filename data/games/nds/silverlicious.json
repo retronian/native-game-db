@@ -1,0 +1,45 @@
+{
+  "id": "silverlicious",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Silverlicious",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Silverlicious (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TASE",
+      "size": 16777216,
+      "crc32": "0c7cec15",
+      "md5": "656482e3a899b09ed0ce184ccb4cfd16",
+      "sha1": "ab1490d33fd69ceb8e4293ad676c2525363b76b5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 9748
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Silverlicious%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Silverlicious%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "sansuu-1-nen-keisan-game",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sansuu 1 Nen - Keisan Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "けいさんゲーム さんすう1年",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sansuu 1 Nen - Keisan Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "681b7700",
+      "md5": "5df859cc8c1b86d7d5868f61eefd54d0",
+      "sha1": "381ce9a693c946a400f9539a5a3f715d29734411",
+      "sha256": "64981dc51f7d52df79ce26e468ed1525ebf4ce77791dfc434604c929ad88cc6a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "4つの異なるミニゲームで構成された教育ゲームです。含まれているミニゲームは以下の通りです：足し算1 - プレイヤーは車を操作し、数学の問題に答えるために正しい数字に車を運転しなければなりません。他の車に衝突したり、問題に間違った答えを出すと、",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-04-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Sansuu%201%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Sansuu%201%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Sansuu%201%20Nen%20-%20Keisan%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

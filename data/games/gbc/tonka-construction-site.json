@@ -1,0 +1,60 @@
+{
+  "id": "tonka-construction-site",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tonka Construction Site",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tonka Construction Site (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "8142a3e8",
+      "md5": "87422721dd67b96736861358c71d5a8b",
+      "sha1": "19e6fb8b61ec20025061b2703079db926be93c96"
+    },
+    {
+      "name": "Tonka Construction Site (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "901faa34",
+      "md5": "2adf26f87be3d5e56261d173e74ec4f5",
+      "sha1": "16fc094ef9a0af8376fedd6b7e6179d33c4f78bf",
+      "sha256": "5b2f597311143c8536953550ed61fb55e7befcb90b2cec5ccb862ad8d90fe1cd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49992
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Tonka%20Construction%20Site%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Tonka%20Construction%20Site%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Tonka%20Construction%20Site%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

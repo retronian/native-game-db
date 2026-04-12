@@ -1,0 +1,83 @@
+{
+  "id": "darius-alpha",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Darius Alpha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダライアス・アルファ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ダライアス アルファ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Daraiasu Arufa",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Darius Alpha (Japan) (En) (SG Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "b0ba689f",
+      "md5": "c87135a6af3344c9316fe06fccbcfd97",
+      "sha1": "f59c538fa632f687c356af70659fb07b37933f78",
+      "sha256": "d1548a17e4a4fc8552cf9d8fd5626e98936ff92033d94df5b6d8b80d2f42ab8f"
+    },
+    {
+      "name": "Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)",
+      "source": "no_intro",
+      "size": 393216,
+      "crc32": "eb2466f9",
+      "md5": "f98df7740f72fbab06e9252a0160a807",
+      "sha1": "a31340575de9aaad33338a807baa5fca33d18767",
+      "sha256": "a60381029ddf764de751aae63c518f2e6a9a28efc60f265ba2c096a49771b258"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38075
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Darius%20Alpha%20%28World%29%20%28SG%20Enhanced%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Darius%20Alpha%20%28World%29%20%28SG%20Enhanced%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Darius%20Alpha%20%28World%29%20%28SG%20Enhanced%29%20%28Darius%20Cozmic%20Collection%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

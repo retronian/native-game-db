@@ -1,0 +1,61 @@
+{
+  "id": "mahjong-taikai",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Taikai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀大会",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Taikai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "f99a7771",
+      "md5": "6a619ceb31985bddae2f1fe6f018c776",
+      "sha1": "899e85df933ee2d9764b77aaabc3af0bd4da42d9",
+      "sha256": "0d095920c47ed3b743ea5354d460e6a83de4aaf1d4ca0b9f0c9c24d14beea80e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48788
+  },
+  "first_release_date": "1989-10-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mahjong%20Taikai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mahjong%20Taikai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mahjong%20Taikai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

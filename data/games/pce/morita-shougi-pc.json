@@ -1,0 +1,58 @@
+{
+  "id": "morita-shougi-pc",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Morita Shougi PC",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "森田将棋PC",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Morita Shougi PC (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "2546efe0",
+      "md5": "92bb585243a43ec7f881eafc578a2cc3",
+      "sha1": "77490668bd4beea8e46e1f2676095d8d6ef1c3cd",
+      "sha256": "ad18d44b31e7affbda81d328e431f683f6981d98f1728afa0f309e2470e04f72"
+    }
+  ],
+  "first_release_date": "1991-09-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Morita%20Shougi%20PC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Morita%20Shougi%20PC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Morita%20Shougi%20PC%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

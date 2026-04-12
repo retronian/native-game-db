@@ -1,0 +1,96 @@
+{
+  "id": "dogz-fashion",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dogz - Fashion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "おしゃれワンコ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Oshare Wanko",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dogz - Fashion (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BFEE",
+      "size": 8388608,
+      "crc32": "63bd3463",
+      "md5": "6c4adc19a909f934c7c01c4f889a12d9",
+      "sha1": "2db620fbc629e957e8b73dd169bf83950814fd51"
+    },
+    {
+      "name": "Dogz - Fashion (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BFEP",
+      "size": 8388608,
+      "crc32": "5236473d",
+      "md5": "c3ad9a91e86b6195451fa0fcf695fb79",
+      "sha1": "729099dd230581d86bdf86e91359d74b79fe862c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49403
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dogz%20-%20Fashion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dogz%20-%20Fashion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dogz%20-%20Fashion%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Dogz%20-%20Fashion%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Dogz%20-%20Fashion%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Dogz%20-%20Fashion%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

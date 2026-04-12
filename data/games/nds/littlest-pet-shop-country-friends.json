@@ -1,0 +1,55 @@
+{
+  "id": "littlest-pet-shop-country-friends",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Country Friends",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Country Friends (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BLDP",
+      "size": 67108864,
+      "crc32": "f6abcf2c",
+      "md5": "1b65b96c15f56cec2ed964719313d2b2",
+      "sha1": "776e6d379271cf637c83e30b46f7969932b82997"
+    },
+    {
+      "name": "Littlest Pet Shop - Country Friends (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BLDE",
+      "size": 67108864,
+      "crc32": "b8dbbdc3",
+      "md5": "1da0b1161dfd3fd573e10eb1468163d9",
+      "sha1": "889928395ec114ab0218c0f54b19083bb7e1919e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48021
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Country%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Country%20Friends%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

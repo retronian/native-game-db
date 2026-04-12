@@ -1,0 +1,45 @@
+{
+  "id": "learn-math",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Learn Math",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Learn Math (USA) (En,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CLGE",
+      "size": 67108864,
+      "crc32": "e3d8ccae",
+      "md5": "1b90069cd7da966d7f7ae34c559375f8",
+      "sha1": "113a0a9b9f86bf300078e7773df9e2862bbccdc4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 92664
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Learn%20Math%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Learn%20Math%20%28USA%29%20%28En%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

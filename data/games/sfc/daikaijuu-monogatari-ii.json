@@ -1,0 +1,68 @@
+{
+  "id": "daikaijuu-monogatari-ii",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daikaijuu Monogatari II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大貝獣物語II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daikaijuu Monogatari II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 5242880,
+      "crc32": "a6c98ffe",
+      "md5": "a356461694f781eb64ee75a29aa984ff",
+      "sha1": "673c48a373b7da7e0e934c55f7182587e07bb9ab",
+      "sha256": "b8f31f3292609890e6321e6d925d60266c93e91f1a0e5999f7473adc7bb265f3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44414
+  },
+  "descriptions": [
+    {
+      "text": "「大貝獣物語」シリーズは、その類似性から過去に「ドラゴンクエスト」のクローンと表現されたことがあります。しかし、「大貝獣物語」は「ドラゴンクエスト」よりも明らかにユーモラスで、奇妙なストーリーが特徴です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-02",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Daikaijuu%20Monogatari%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Daikaijuu%20Monogatari%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Daikaijuu%20Monogatari%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "galaxy-robo",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Galaxy Robo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ギャラクシーロボ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Galaxy Robo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "bee62812",
+      "md5": "52c34e40808950a2c985c1c3962c30d9",
+      "sha1": "91413a589922350c761c2b46abc1237e1b43ece4",
+      "sha256": "a89ff0ed5675597061626a7d3e135619d4d94cc9c8672098772e2250103a3a50"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42276
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Galaxy%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Galaxy%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Galaxy%20Robo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

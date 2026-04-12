@@ -1,0 +1,65 @@
+{
+  "id": "super-snakey",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Snakey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スネーキー スーパー・スネーキー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Snakey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "5ec69fad",
+      "md5": "6c2be2a57cf82e0f904eb88214f0a6fd",
+      "sha1": "9c35ea0f3bd22b3018a1bc6447f0630c8026aa1a",
+      "sha256": "757940e9f788b6c1062f14b4e270eb4d0878aca2f554b01831bc5785122f4547"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ワイルドスネークは、プレイヤーが狭い空間で落ちてくるヘビを管理し、ヘビが空間の上部に達しないようにするパズルゲームです。ヘビは落ちてきて、空間の床にある休息地点に到達するまで這い続けます。ヘビは、降下中に頭で触れた同じ色と模様の他のヘビを破壊します。このことは、ヘビの山を緩める連鎖効果を引き起こし、すべてのヘビが新しい位置に這い、さらなるヘビを排除する可能性があります。\n\nゲームは、砂漠、森林、水辺、草原などの背景を選んでプレイします。また、標準のグリッド（縦長の長方形）、X、プラス、フラスコ、ダイアボロ（砂時計の形）、T字型、障害物（いくつかの中間ブロックを含む）を含む7種類のゲームグリッドがあります。\n\nプレイヤーはひな鳥としてスタートし、ヘビをクリアするごとに、ガータースネーク、水ヘビ、ボア、マンボ、パイソン、キングコブラなど、ヘビの世界からのより高い称号を獲得します。また、レベルが上がるにつれて、扱うべきヘビのパターンの種類も増えます。時には、最初に触れたヘビを排除する点滅する赤いヘビが現れることがあります。さらに、時折、空間の底に向かって突進し、その道にいるすべてのヘビを排除する止まらないヘビも出現します。\n\nゲームは1人または2人で、イージー、ノーマル、ハードのモードでプレイできます。シングルプレイヤーモードでは、次のヘビを表示するプレビューを表示するかどうかを選択できます。2人プレイヤーモードでは、常にプレビューウィンドウがあります。実際、2人のプレイヤーのスペースの間には3匹のヘビのキューがあり、次のヘビがそこから引かれます。競技中のボーナスとして、1人のプレイヤーによる複数のヘビの排除が、対戦相手の空間に障害物を出現させる結果となります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-12-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Snakey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Snakey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Snakey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

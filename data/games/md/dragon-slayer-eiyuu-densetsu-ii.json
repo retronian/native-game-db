@@ -1,0 +1,75 @@
+{
+  "id": "dragon-slayer-eiyuu-densetsu-ii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Slayer - Eiyuu Densetsu II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンスレイヤー英雄伝説II",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ドラゴンスレイヤー 英雄伝説",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Slayer - Eiyuu Densetsu II (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-5544-00",
+      "size": 2097152,
+      "crc32": "46924dc3",
+      "md5": "4c1a1583bd29071300fd1488aa7d0cc1",
+      "sha1": "79b6201301acb5d9e9c56dcf65a9bcf9d9a931ab",
+      "sha256": "4161976a4e13246130a345d0649d89b86bf6d0f47221ef712c9477b6511a3898"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "数年が経ち、初代ゲームの英雄セリオス王子が最終決戦で悪魔神アグニジャを倒してから、イセリュハサの地に平和が戻りました。セリオスは恋人ディナと結婚し、アトラスという名の子を授かりました。15歳になったアトラスは、師ロウェルの教えのおかげで既に強い戦士となっていました。国は平和に見えましたが、首都近くで二人の戦士が奇妙な生物を目撃しました。それは…宇宙服を着た人間でした！もちろん、戦士たちはそれを知る由もなく、彼らをモンスターだと思い込んでいました。神秘的な異邦人たちは平和的な意図を持っているのか、それとも王国に対する新たな脅威なのでしょうか？",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-01-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Dragon%20Slayer%20-%20Eiyuu%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Dragon%20Slayer%20-%20Eiyuu%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Dragon%20Slayer%20-%20Eiyuu%20Densetsu%20II%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

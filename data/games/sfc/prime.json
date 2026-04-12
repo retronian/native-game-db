@@ -1,0 +1,45 @@
+{
+  "id": "prime",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Prime",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 214977
+  },
+  "roms": [
+    {
+      "name": "Prime (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 2097152,
+      "crc32": "62abcc5c",
+      "md5": "893c87db5ecbf8e90f734a610f1247e5",
+      "sha1": "6d07079727b1be1ffe1532accd37a2c01b1a12df",
+      "sha256": "c91364a4ab6fcc704599d8f074789521c098801f629bead9ae63ccec35f5da47"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Prime%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Prime%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

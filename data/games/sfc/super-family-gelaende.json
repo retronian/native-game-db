@@ -1,0 +1,65 @@
+{
+  "id": "super-family-gelaende",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Family Gelaende",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーファミリーゲレンデ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Family Gelaende (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "ca99dfcf",
+      "md5": "bbed957b8556b3963fbf06b6b1d7684b",
+      "sha1": "5b4b730288db1be39e2d164cc5865daa56ef83ba",
+      "sha256": "a381bca463f6eb30b8548e7a0bad85eedda5f81f9d005e8131a1788a6da26748"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "スーパーファミリーゲレンデは、日本専用のスキーゲームで、1995年にスーパーファミコン用として販売される予定でしたが、1998年に日本のNintendo Powerダウンロードゲームサービスの一部として販売されました。\n\nこのゲームは、2008年にリリースされたナムコの『ウィー・スキー』の精神的な2Dの先祖です。日本各地から集められた8つのスロープとタイムトライアルが用意されています。物語は、スキーをするために人間になりたいと願うキツネ（または女性キャラクターを選ぶとウサギ）から始まります。ストーリーモードでは、プレイヤーは各章ごとに異なるタスクに挑戦します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1998-02-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Family%20Gelaende%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Family%20Gelaende%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Family%20Gelaende%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

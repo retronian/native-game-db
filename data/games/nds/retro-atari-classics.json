@@ -1,0 +1,51 @@
+{
+  "id": "retro-atari-classics",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Retro Atari Classics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Retro Atari Classics (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ATAE",
+      "size": 16777216,
+      "crc32": "d8594849",
+      "md5": "b3363d1740236660f1019f154cc020ef",
+      "sha1": "503d77b33c8cc7a8b79d6d84d19e6d07a4240377"
+    }
+  ],
+  "external_ids": {
+    "igdb": 18402
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Retro%20Atari%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Retro%20Atari%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Retro%20Atari%20Classics%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

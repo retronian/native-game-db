@@ -1,0 +1,109 @@
+{
+  "id": "let-s-draw",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Let's Draw!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Let's Draw! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YJZE",
+      "size": 67108864,
+      "crc32": "3da02385",
+      "md5": "afedbeb31c453c940c7ac869473a7897",
+      "sha1": "55f580dcf17e6fcffdb62086d753e2b2b6972b93"
+    },
+    {
+      "name": "Let's Draw! (Europe) (En,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJZP",
+      "size": 67108864,
+      "crc32": "c2995bef",
+      "md5": "96b95f9550675d2604df211055deef33",
+      "sha1": "9672bc0635b9e4fccffec0b5b811917732c05cea"
+    },
+    {
+      "name": "Let's Draw! (Europe) (Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJZX",
+      "size": 67108864,
+      "crc32": "e0b0c0af",
+      "md5": "2d9cd5c13b61d3bf292d5f37eba184ae",
+      "sha1": "0169c80ef1c75fef4f8d1c89575d6ac8af8df977"
+    },
+    {
+      "name": "Let's Draw! (Europe) (Sv,No,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YJZY",
+      "size": 67108864,
+      "crc32": "725be83a",
+      "md5": "9568f51eaf956ed7649528a93f403533",
+      "sha1": "9a8fd63fdc9de40d03d3fe317a43f858d509625c",
+      "sha256": "645dc31156814505ecc6abbc8e2e71c67ef3c3d71bf8fb632785231ed21d25b8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Draw%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Draw%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Draw%21%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Draw%21%20%28Europe%29%20%28En%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Draw%21%20%28Europe%29%20%28Fr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Draw%21%20%28Europe%29%20%28Fr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Let%27s%20Draw%21%20%28Europe%29%20%28Sv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Let%27s%20Draw%21%20%28Europe%29%20%28Sv%2CNo%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

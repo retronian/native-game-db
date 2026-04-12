@@ -1,0 +1,69 @@
+{
+  "id": "bit-generations-coloris",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "bit Generations - Coloris",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "bit Generations　COLORIS",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "bit Generations - Coloris (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BVAJ",
+      "size": 16777216,
+      "crc32": "a04be1ed",
+      "md5": "facea584a4c4465bcb9e028c7b36a481",
+      "sha1": "91bce8cfab330e6645da105bb145516642c1ca20",
+      "sha256": "c19ad6c97f3a43c2238dd210a685d624d8c1ed6fb2f4dadb9e1ae58cfc9fce99"
+    }
+  ],
+  "external_ids": {
+    "igdb": 79016
+  },
+  "descriptions": [
+    {
+      "text": "bit Generations: COLORISは、日本でのみ発売されたゲームボーイアドバンス用のビデオゲームです。これはbit Generationsビデオゲームの第2シリーズの一部であり、基本的なパズルゲームです。ゲームでは、同じ色のタイルを3つ隣接させて消す必要があります。しかし、このゲームは一般的なものとは異なり、タイルを入れ替えるのではなく、カーソルでタイルを押すことでその色を変えていきます。\n\nゲームの各ステップで、カーソルはプレイ中の3つの色のいずれかになります。赤、青、紫のタイルがある場合、赤いカーソルで青いタイルをクリックしても自動的にその色にはならず、代わりに紫になります。しかし、赤いカーソルでそのタイルを押し続けることで、最終的には赤いタイルに変わります。ゲームが進むにつれて、3つ以上の異なる色が登場し、難易度が上がっていきます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2006-07-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/bit%20Generations%20-%20Coloris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/bit%20Generations%20-%20Coloris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/bit%20Generations%20-%20Coloris%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

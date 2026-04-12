@@ -1,0 +1,65 @@
+{
+  "id": "shoukoushi-ceddie",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shoukoushi Ceddie",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "小公子セディ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shoukoushi Ceddie (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "8c9404e1",
+      "md5": "3ebdb7adb3cd2d540c295bda8682a870",
+      "sha1": "998ce022dd4895daf6c7cc560b80baf58f233030",
+      "sha256": "06bbff6dddba577cac960a3df75d6c9ad3d0862073067ede0cb8f64a6ab849f1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "小公子セディは、1886年にフランシス・ホジソン・バーネットが著した小説「小公子ファウンテローイ」の日本語タイトルです。この物語は、ニューヨーク出身の地に足のついた少年が、イギリスの伯爵家の相続人としての自分のルーツを発見し、相続した邸宅に移り住み、貴族としての生き方を学ぶ様子を描いています。フジテレビは1988年にこの小説を基にした43話のアニメシリーズを制作し、このビデオゲームはそのテレビ番組を元にしています。フジテレビは、アメリカやヨーロッパのスーパーマリオブラザーズ2の元となった「ドキドキパニック」や、ゲームセンターCX（またはレトロゲームマスター）を放送したことで、特に西洋のゲーム界で知られています。このゲームは、通常のファミコンアドベンチャーゲームのようにプレイされます。プレイヤーは歩き回り、人と話し、アイテムを見つけてパズルを解決します。しかし、目的地をメニューから選ぶのではなく、プレイヤーはトップダウン視点を使って手動で異なる場所を歩き回ります。また、邸宅を出る際には、ランダムな通行人を避けるアクションシーケンスもあります。NPCと衝突したり、間違ったドアに入ったりすると、家庭教師に叱られ、トリビアの質問に答えさせられます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-12-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Shoukoushi%20Ceddie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Shoukoushi%20Ceddie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Shoukoushi%20Ceddie%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

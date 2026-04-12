@@ -1,0 +1,60 @@
+{
+  "id": "hamster-monogatari-3-gba",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Monogatari 3 GBA",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスター物語 3 GBA",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Monogatari 3 GBA (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A83J",
+      "size": 8388608,
+      "crc32": "c99d3787",
+      "md5": "9afd02f295a96e5e918c2a67621ad79c",
+      "sha1": "500483016098601c9e6e8edb1d7b2042cab4f091"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49590
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hamster%20Monogatari%203%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hamster%20Monogatari%203%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hamster%20Monogatari%203%20GBA%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

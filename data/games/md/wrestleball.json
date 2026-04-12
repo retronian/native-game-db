@@ -1,0 +1,56 @@
+{
+  "id": "wrestleball",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wrestleball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "レッスルボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wrestleball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-14043-00",
+      "size": 524288,
+      "crc32": "d563e07f",
+      "md5": "96ed17f1ecdb413c319d06ee58e3be8d",
+      "sha1": "bb6e6cd4f80ad69265b8c0d16b7581c629fd1770",
+      "sha256": "831abb445950455f768d7aa30baa8d17ae65f0ca6103acc5013f1e579123405e"
+    }
+  ],
+  "first_release_date": "1991-02-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Wrestleball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Wrestleball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Wrestleball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

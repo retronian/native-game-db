@@ -1,0 +1,68 @@
+{
+  "id": "zombie-hunter",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zombie Hunter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ゾンビハンター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zombie Hunter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "6806820f",
+      "md5": "26934541d95f88eb4c153495d896e38f",
+      "sha1": "98513a9fc9d34240b887ea0a48421c14bffec54d",
+      "sha256": "ac51b2275fae2867b8511478192f9d8312f5b16f46fd5335ab72e9a273ea32c8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48623
+  },
+  "descriptions": [
+    {
+      "text": "パルマの街は、常に四つの元素の精霊によって守られてきました。しかし、地の精霊ドルゴが反乱を起こし、世界の生命エネルギーを操るライフシーカーを地下の隠れ家に連れ去ってしまいます。その結果、パルマの人々は自らの魂を失い始めます。空の精霊は、ドルゴの手からライフシーカーを取り戻すためのチャンピオンを見つけるよう命じました。あなたがそのチャンピオンです。\n\n「ゾンビハンター」はアクションRPGで、サイドスクロールバトルが特徴の「ゼルダの伝説II」に似ています。敵を倒すことで経験値を得ることができ、装備や武器を揃えたインベントリも持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-07-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Zombie%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Zombie%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Zombie%20Hunter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

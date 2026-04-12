@@ -1,0 +1,40 @@
+{
+  "id": "dinosaur-planet",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dinosaur Planet",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 134251
+  },
+  "roms": [
+    {
+      "name": "Dinosaur Planet (USA) (Proto) (2000-12-01)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NDPE",
+      "size": 67108864,
+      "crc32": "a7daf9fa",
+      "md5": "49f7bb346ade39d1915c22e090ffd748",
+      "sha1": "cb9760b49198f7b754593a01c8ed642211caacde",
+      "sha256": "22830780902f51aea442825c574b88d404ccf30d726219e4b000edc64bcc60a6"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Dinosaur%20Planet%20%28USA%29%20%28Proto%29%20%282000-12-01%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

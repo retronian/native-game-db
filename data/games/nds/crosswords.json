@@ -1,0 +1,65 @@
+{
+  "id": "crosswords",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "CrossworDS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "CrossworDS (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YWXP",
+      "size": 16777216,
+      "crc32": "53b8a591",
+      "md5": "2b44f0bc39edc0378c0bb5eed500b35e",
+      "sha1": "832de603790745441516c89c7ccb1b645625c416"
+    },
+    {
+      "name": "CrossworDS (USA, Australia)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YCUE",
+      "size": 33554432,
+      "crc32": "26d104cd",
+      "md5": "46ecbdb3b9cc7aece74de7a43c9278a0",
+      "sha1": "e1f8a0a88cd4bfe50cd4ac7d4a79f2d70df47f42",
+      "sha256": "53c952d33b50bc9f47eb1d22e3de880a6709407783a7ae2406a7736056679da7"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/CrossworDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/CrossworDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/CrossworDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/CrossworDS%20%28USA%2C%20Australia%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

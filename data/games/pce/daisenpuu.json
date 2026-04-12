@@ -1,0 +1,62 @@
+{
+  "id": "daisenpuu",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Daisenpuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "大旋風",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Daisenpuu (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9107bcc8",
+      "md5": "677302bdec15a9c56ef6b7aade125fad",
+      "sha1": "81f8c8f01530bb3d22e2dd463202d0e26e7faf24",
+      "sha256": "dc430f55e43624bafdd6ea6b5fe3bd97cb3cf208613bcf5ef40cd27da098d0c5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "縦スクロールのシューティングゲームで、グラフィックは雷電を彷彿とさせる第二次世界大戦を舞台にしています。さまざまな敵の風景を越えて、飛行機、戦車、船を破壊していきます。パワーアップを取得すると武器のダメージが増加し、援護に来る戦闘機の小隊という特別な武器も持っています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Daisenpuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Daisenpuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Daisenpuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

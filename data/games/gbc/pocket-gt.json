@@ -1,0 +1,74 @@
+{
+  "id": "pocket-gt",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pocket GT",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ポケットジーティー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pocket GT (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "2ac77c5a",
+      "md5": "0ee28078d6270df663647e8a3e3feaf6",
+      "sha1": "035e2284654751491fafb9d752740eefc2aa80cd"
+    },
+    {
+      "name": "Pocket GT (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "9e120d94",
+      "md5": "70a1de16d9a6b88f5ad6883eb658f285",
+      "sha1": "c48f302009c405aa379ebf048bc46a284a74c84c",
+      "sha256": "e4774a9eb4191ebe13e635753c5dcae494495d8a7c65a60b779a97207e2ebbdf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ポケットレーシング：ゲームボーイカラーの決定版レーシングゲーム。\n\n- 4つのエリアにわたる32コースで、超スムーズなリアルタイム3Dレーシングが楽しめます。何時間でも楽しめること間違いなし！\n- 進行に応じてカスタマイズ可能な32台の車。車の色を変更することもできます！\n- 3つのゲームモード：GT、タイムアタック、2人プレイヤーのリンクアップ。\n- 各車が異なる反応を示すため、最大限のゲームプレイ価値があります。車の微調整を行うことで、ハンドリング性能がさらに向上します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-10-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Pocket%20GT%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Pocket%20GT%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Pocket%20GT%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

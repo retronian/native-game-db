@@ -1,0 +1,74 @@
+{
+  "id": "top-gun-dual-fighters",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Top Gun - Dual Fighters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トップガン Dual Fighters デュアル ファイターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "トップガン2 デュアルファイターズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Top Gun - Dual Fighters (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "712f4f34",
+      "md5": "1012cd7faf8afaef8c0ec96c4c4931d9",
+      "sha1": "b1ad5f40f63620c4dbafcfd37c780599763b5643",
+      "sha256": "e7ec21ef1621527e76375ec5cfabb49e657da12e1248a85fdd511da36fff38cf"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「トップガン デュアル ファイターズ」では、前作と同様にF-14 トムキャットを操縦し、ソビエト装備を持つ敵と戦いますが、ソビエト連邦への直接的な言及はありません。このゲームの唯一のストーリーは、各レベルの最後に着陸しなければならない航空母艦を除いて、目に見えるすべてを破壊することです。\n\n基本的なゲームモードには、対艦、地上攻撃、宇宙戦闘のレベルがあり、前作と似ていますが、第二のミッションでは2つの追加モードが加わります。最初の追加モードでは、MiG-25 フォックスバットを操縦する敵エースと1対1で戦うことができます。2つ目の追加モードは、分割画面での2人プレイで、友達と共にトムキャットを操縦しながら戦うことができます。\n\n巨大なTu-160 ブラックジャック爆撃機、Mi-24 ヒンド攻撃ヘリコプター、武装したスペースシャトルなど、興味深いレベルボスと戦うことになります。\n\nゲームのもう一つの興味深い点は、航空機や地上の敵と戦う合間に、巨大な木（はい、正しく読みました！）、雷、レーザー攻撃を避けなければならないことです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-12-15",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gun%20-%20Dual%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Top%20Gun%20-%20Dual%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Top%20Gun%20-%20Dual%20Fighters%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

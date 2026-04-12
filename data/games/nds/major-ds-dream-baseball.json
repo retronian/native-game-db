@@ -1,0 +1,61 @@
+{
+  "id": "major-ds-dream-baseball",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Major DS - Dream Baseball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メジャーDS ドリームベースボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Major DS - Dream Baseball (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "YM3J",
+      "size": 33554432,
+      "crc32": "f1fc6fa2",
+      "md5": "cf48fd9910ce45ef41a06f0d2dbee1c2",
+      "sha1": "153b0071fed17c4102eb05c7a70547ad2e2366eb",
+      "sha256": "f84b40d2720631262eda47ee7935d17382b654322ad82b7fbb8a68be37f50d7a"
+    }
+  ],
+  "external_ids": {
+    "igdb": 61413
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Major%20DS%20-%20Dream%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Major%20DS%20-%20Dream%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Major%20DS%20-%20Dream%20Baseball%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "esper-dream-2-aratanaru-tatakai",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Esper Dream 2 - Aratanaru Tatakai",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エスパードリーム2 新たなる戦い",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Esper Dream 2 - Aratanaru Tatakai (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393232,
+      "crc32": "91165972",
+      "md5": "ba7b0a34a460f5846a1537fb12a91a07",
+      "sha1": "dc527dce96af9f19ba26cb3038f28217ce67e942",
+      "sha256": "efa09f5498fa77b5e1f598920c9e7ecba7fdcc302e927244f433fa36a4d9e732"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "私たちの世界を超えた先に、あなたが読む本の中に存在する世界があります。しかし、ブックワールドの5つのエリアは深刻な危機に瀕しています！ESPを持つ読書好きのマモルとして、魔法の妖精や他の仲間たちの助けを借りて、5つの特別なリングを手に入れ、ブックワールドを数々の危険から救うために進まなければなりません。\n\n「エスパードリーム」の続編である本作では、マモルとして4つのエリアを神秘的に旅します（そのうちの1つは、オリジナルの「エスパードリーム」の世界で、すでにクリア済みです）。各エリアには解決すべき問題があります。前作同様、バトルは動く足跡のペアにぶつかることで始まりますが、今回はマモルが自分にとって厳しすぎるバトルからは単に逃げることができたり、閉じられたフィールドではテレポートの呪文を使うことができます。（バトル外でこの呪文を使うと、その世界の拠点町に戻されます。）さらに、マモルは友達を連れて行くことができ（各世界につき1人、CPUが操作）、バトル中に彼を助けたり、次に行くべき場所についてのヒントを与えてくれます。また、マモルは回復アイテムを持ち歩くことができ、エネルギーが不足しているときに素早く回復できます。\n\nゲームはマモルのHPが0になるか、ブックワールドを救った時に終了します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-06-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Esper%20Dream%202%20-%20Aratanaru%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Esper%20Dream%202%20-%20Aratanaru%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Esper%20Dream%202%20-%20Aratanaru%20Tatakai%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

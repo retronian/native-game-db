@@ -1,0 +1,65 @@
+{
+  "id": "maerchen-maze",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Maerchen Maze",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メルヘンメイズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Maerchen Maze (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "a15a1f37",
+      "md5": "887b9fa8296ff3c98839e11cc7039763",
+      "sha1": "04175b93e52653fa61111210538a5582ba152180",
+      "sha256": "f82c2ef0f4820dc9f753d1539c9a5c11fcad930bb7dc608df181adabdeaad4ce"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "『メルヘンメイズ』は、ナムコの1988年のアーケードゲームを基にしたプラットフォーム/シューティングゲームです。ゲームプレイはほぼそのままで、プレイヤーはアリスを操作し、敵に泡を撃ち込んでプラットフォームから落とさなければなりません。アーケード版がアイソメトリック視点だったのに対し、PCエンジン版の『メルヘンメイズ』は上からの視点でプレイします。このバージョンはアーケードゲームとは異なるステージが用意されており、時間制限がないため、多くのステージがより広大になっています。レベルの最後にあるチェック柄のプラットフォームは動かず、そこに飛び乗ると自動的にボス戦に移行します。また、死亡時にチェックポイントから再スタートするのではなく、アリスのライフは風船で表現されています。アリスが落下すると、その場で再出現します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Maerchen%20Maze%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Maerchen%20Maze%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Maerchen%20Maze%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

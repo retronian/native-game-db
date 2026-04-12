@@ -1,0 +1,59 @@
+{
+  "id": "magical-dice-kids",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Magical Dice Kids",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マジカルダイスキッズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Magical Dice Kids (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 104350176,
+      "crc32": "0ab3a15f",
+      "md5": "1f4a25130d1022759795faa8cfd4cb42",
+      "sha1": "8915062ad92da3f051a1bb69e53853d66355a998"
+    }
+  ],
+  "external_ids": {
+    "igdb": 130337
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Magical%20Dice%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Magical%20Dice%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Magical%20Dice%20Kids%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

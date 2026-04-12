@@ -1,0 +1,45 @@
+{
+  "id": "i-love-puppies",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "I Love Puppies",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "I Love Puppies (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BIIE",
+      "size": 8388608,
+      "crc32": "958e7c94",
+      "md5": "eaac0f6fda9c03885b638a5676d02bad",
+      "sha1": "f7d3eba0ca101fe86a56dd3cf029a724db1099b3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 70274
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/I%20Love%20Puppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/I%20Love%20Puppies%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

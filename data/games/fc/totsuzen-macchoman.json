@@ -1,0 +1,94 @@
+{
+  "id": "totsuzen-macchoman",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Totsuzen! Macchoman",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "突然!マッチョマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "突然! マッチョマン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Totsuzen! Macchoman (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "4683ffbb",
+      "md5": "02648931d5a014302131b758108ca655",
+      "sha1": "5e7543547012c062ffe9637d81481af7462837e9",
+      "sha256": "20b0148f8ea726cce3ad76f7cdcf3103ccae4377dadac95a9e4b09da3350c9a2"
+    },
+    {
+      "name": "Totsuzen! Macchoman (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "5f1303f3",
+      "md5": "74580bcfaedf30d1b4e96bc916ac246e",
+      "sha1": "e42aa19e442078a819bdc78352b14d578c64780c",
+      "sha256": "931c85af3bd70fbcd758461418e8df6e083b9a648300b9cccff4ff65f6a022e4"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Totsuzen%21%20Macchoman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Totsuzen%21%20Macchoman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Totsuzen%21%20Macchoman%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Totsuzen%21%20Macchoman%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Totsuzen%21%20Macchoman%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Totsuzen%21%20Macchoman%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

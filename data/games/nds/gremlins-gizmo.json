@@ -1,0 +1,56 @@
+{
+  "id": "gremlins-gizmo",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gremlins - Gizmo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gremlins - Gizmo (USA) (En,Fr,Es,Pt)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6AE",
+      "size": 67108864,
+      "crc32": "979910d3",
+      "md5": "0013b87b84eb1bbf2de934b9009c2f89",
+      "sha1": "543d4a859dfc5340001d552d76108e34532f6325"
+    },
+    {
+      "name": "Gremlins - Gizmo (USA) (En,Fr,Es,Pt) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B6AE",
+      "size": 67108864,
+      "crc32": "11d2f5dd",
+      "md5": "cce97c3dfddf6ed29db5086a8927e3b3",
+      "sha1": "38da4d1f3879cdadb483c0a3b4e14f7b29b3b4af",
+      "sha256": "97ae8b5c9c4241343be5f3d364271dbe947e2e5cc020ecb9999aee2b1fdc586b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50623
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gremlins%20-%20Gizmo%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gremlins%20-%20Gizmo%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

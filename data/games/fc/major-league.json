@@ -1,0 +1,68 @@
+{
+  "id": "major-league",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Major League",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "メジャーリーグ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Major League (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f1998a7a",
+      "md5": "302fe86f91678dcd76292b9d4c5238c5",
+      "sha1": "940ac20c70c597ba3aba9151b114fe10d612ae4c",
+      "sha256": "ffe905a65cc8d128518722524caf79cd76ab58b07cdb266f366db7d46ac985dc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 58739
+  },
+  "descriptions": [
+    {
+      "text": "最高のコメディ野球映画がファミリーコンピュータゲームとして登場！アメリカのメジャーリーグと日本のリーグからの14チームによる熱い戦い！多くの合成ICが、まるで本当にスタジアムにいるかのような感覚を与えてくれます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-10-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Major%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Major%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Major%20League%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

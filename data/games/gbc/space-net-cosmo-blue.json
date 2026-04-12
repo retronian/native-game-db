@@ -1,0 +1,67 @@
+{
+  "id": "space-net-cosmo-blue",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Space-Net - Cosmo Blue",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スペースネット コスモブルー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Space-Net - Cosmo Blue (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "f606d369",
+      "md5": "062bfa5e5b52b5a4ace5b59c364fe2ff",
+      "sha1": "9d662a4b95f8b562406eb89fad8cade1edaca954"
+    }
+  ],
+  "external_ids": {
+    "igdb": 267500
+  },
+  "descriptions": [
+    {
+      "text": "このRPGでは、探索マシンに乗って七つの惑星のさまざまな謎を解き明かし、バトルでは「モードチェンジ」を使用して三ターンの間パラメータを強化します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Space-Net%20-%20Cosmo%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Space-Net%20-%20Cosmo%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Space-Net%20-%20Cosmo%20Blue%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

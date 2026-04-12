@@ -1,0 +1,67 @@
+{
+  "id": "littlest-pet-shop-winter",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Littlest Pet Shop - Winter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Littlest Pet Shop - Winter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl,Cs)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CPWP",
+      "size": 67108864,
+      "crc32": "7d63cf3f",
+      "md5": "48ce471468001b6fd70dacbc20422c71",
+      "sha1": "5638eb827e3b8a401ed63167121d729a4baf5c9c"
+    },
+    {
+      "name": "Littlest Pet Shop - Winter (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CPWE",
+      "size": 67108864,
+      "crc32": "0921a879",
+      "md5": "f849ee3328973162625b943acf0af6f5",
+      "sha1": "b6736d0a53409ad849f976664fc03769b65b2dc1"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47908
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Winter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Winter%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CPl%2CCs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Littlest%20Pet%20Shop%20-%20Winter%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Littlest%20Pet%20Shop%20-%20Winter%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

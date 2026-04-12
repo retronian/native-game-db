@@ -1,0 +1,68 @@
+{
+  "id": "power-league-iii",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Power League III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "パワーリーグIII",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Power League III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "8aa4b220",
+      "md5": "0c042e30ff15e4608e49f364b5be2233",
+      "sha1": "e6526db07c2de857ccf9b997e18ccfab73087133",
+      "sha256": "a9562ec55d09097d6ab7ad57b0a6ff2f24dcb0aa84065f4aadd9732ca91d457c"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42096
+  },
+  "descriptions": [
+    {
+      "text": "素晴らしい「パワーリーグIII」は、全ての野球体験が詰まった驚くべきタイトルです。チームを選び、オーバルでバッティング、ピッチング、フィールディングを駆使して世界のトップチームに勝利することで、本物の野球スーパースターになりましょう！ゲームに完全に没入し、選手の動きを感じながらボールをスタジアムの外へ打ち出しましょう！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Power%20League%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Power%20League%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Power%20League%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

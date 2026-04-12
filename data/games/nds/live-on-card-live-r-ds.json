@@ -1,0 +1,41 @@
+{
+  "id": "live-on-card-live-r-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Live-On Card Live-R DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Live-On Card Live-R DS (Korea)",
+      "source": "no_intro",
+      "region": "kr",
+      "serial": "BCDK",
+      "size": 33554432,
+      "crc32": "3efa9683",
+      "md5": "88ca498469cc0a96c54ca7195521f2e1",
+      "sha1": "dc4257a69d771e9ab9ec3694b10e51b81233c957"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Live-On%20Card%20Live-R%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Live-On%20Card%20Live-R%20DS%20%28Korea%29.png",
+      "source": "libretro_thumbnails",
+      "region": "kr"
+    }
+  ]
+}

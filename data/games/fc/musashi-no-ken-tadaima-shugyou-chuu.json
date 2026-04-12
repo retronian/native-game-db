@@ -1,0 +1,68 @@
+{
+  "id": "musashi-no-ken-tadaima-shugyou-chuu",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Musashi no Ken - Tadaima Shugyou Chuu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "六三四の剣 ただいま修行中",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Musashi no Ken - Tadaima Shugyou Chuu (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 65552,
+      "crc32": "fcc8c184",
+      "md5": "aad28c98db32a3f1b5e94e738f7f993a",
+      "sha1": "06c42bcd976e3b15d4fdc8873c71adcb7c94c635",
+      "sha256": "23475666c538c13f2748d081e56646cbb3cef3287f9a378e89aa6a71cf8580b5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48417
+  },
+  "descriptions": [
+    {
+      "text": "六三四の剣ただいま修行中。剣道漫画を原作とするスポーツアクション。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1986-10-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Musashi%20no%20Ken%20-%20Tadaima%20Shugyou%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Musashi%20no%20Ken%20-%20Tadaima%20Shugyou%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Musashi%20no%20Ken%20-%20Tadaima%20Shugyou%20Chuu%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

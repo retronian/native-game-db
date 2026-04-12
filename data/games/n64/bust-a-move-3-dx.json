@@ -1,0 +1,60 @@
+{
+  "id": "bust-a-move-3-dx",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bust-A-Move 3 DX",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bust-A-Move 3 DX (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NB3P",
+      "size": 8388608,
+      "crc32": "95595889",
+      "md5": "3ea21256ddc4157c3231ae5cc9c4652a",
+      "sha1": "2bd376c3db3080d0a2328ef4052e59c3df71797e",
+      "sha256": "b8847b703aff8ff887d58b482067fc8dece91856503685b20249c25066c4657c"
+    },
+    {
+      "name": "Bust-A-Move 3 DX (USA) (Beta) (1998-08-28)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NB3E",
+      "size": 8388608,
+      "crc32": "0ee608d2",
+      "md5": "d74f0b8738eb1b46248ff286df7615d3",
+      "sha1": "a0f53d92c8ab70aae0d8605c1cf8f2092a81d720",
+      "sha256": "253edfb7b9ae7b5de846669978dc949ab2b239982b66792df02d50e86e4897e0"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bust-A-Move%203%20DX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bust-A-Move%203%20DX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bust-A-Move%203%20DX%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

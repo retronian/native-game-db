@@ -1,0 +1,59 @@
+{
+  "id": "minna-no-mahjong-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Minna no Mahjong DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Minna no Mahjong DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMMJ",
+      "size": 8388608,
+      "crc32": "9bbec1c3",
+      "md5": "914a3d3853e4084ff085e3d8babb8fce",
+      "sha1": "4d1e9593ec50498d1501ef65e2fbefa642b6ca31",
+      "sha256": "27d409b35e1398129c508ac094f53a92d0e3d459d0f1af48794516e5147fbf27"
+    },
+    {
+      "name": "Minna no Mahjong DS (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AMMJ",
+      "size": 8388608,
+      "crc32": "4c532b0b",
+      "md5": "6c36e7131e26716ab27f0e618654de30",
+      "sha1": "ec230f3e4a94f3d079e9e9e603d51ce5d698bc22"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Minna%20no%20Mahjong%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Minna%20no%20Mahjong%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Minna%20no%20Mahjong%20DS%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

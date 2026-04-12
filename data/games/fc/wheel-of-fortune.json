@@ -1,0 +1,79 @@
+{
+  "id": "wheel-of-fortune",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wheel of Fortune",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wheel of Fortune (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "6afd3dac",
+      "md5": "cd7ae36b41cdf1ae6274c4172d782374",
+      "sha1": "62b659203d3f08f91ec3c69634ed27f437423ab3",
+      "sha256": "9d861e03be1f19a16adecdc72213a135e4d3e5742fe052c1e4551908a5d0595a"
+    },
+    {
+      "name": "Wheel of Fortune (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 131088,
+      "crc32": "a26d6dd2",
+      "md5": "817c30978f72db7cc7fe981e6feaf7a8",
+      "sha1": "64d3d6334f38c8b10e819fcfb874ca9dce13b5d3",
+      "sha256": "62961a3e62115b4a9d1006c442566025599d3dc944504f6164cedb6975c14256"
+    }
+  ],
+  "external_ids": {
+    "igdb": 116957
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wheel%20of%20Fortune%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Wheel%20of%20Fortune%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Wheel%20of%20Fortune%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Wheel%20of%20Fortune%20%28USA%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "honke-sankyo-fever-2-jikki-simulation",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Honke Sankyo Fever 2 - Jikki Simulation",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "本家三共フィーバー2 実機シミュレーション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "本家 Sankyo Fever 2 実機シミュレーション",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Honke Sankyo Fever 2 - Jikki Simulation (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1572864,
+      "crc32": "57ff6d4c",
+      "md5": "e23d1a091d347915bdc34c2ed4e321ac",
+      "sha1": "5b924f80102485325f7840e7b431e2dd71427821",
+      "sha256": "cb599f6dc9b8da2734d619f019053e7ddd519f4c8890e32aa2661e4c42136aa5"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Honke%20Sankyo%20Fever%202%20-%20Jikki%20Simulation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Honke%20Sankyo%20Fever%202%20-%20Jikki%20Simulation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Honke%20Sankyo%20Fever%202%20-%20Jikki%20Simulation%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

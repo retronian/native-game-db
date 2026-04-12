@@ -1,0 +1,65 @@
+{
+  "id": "korokoro-kirby",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Korokoro Kirby",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コロコロカービィ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Korokoro Kirby (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "c0face3d",
+      "md5": "6ae02bf9fc6765129b06734ac13e4da4",
+      "sha1": "8dd46f6d34c831c910c4574f252fa47ce6f67261",
+      "sha256": "04e394c7913be317cc0be27ba8ba84ffafb4e83cd531cc66c5e2a678efe5cef3"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "デデデ大王が再び悪さをして、今度は空からすべての星を奪ってしまいました。夢の国のために、カービィが再び邪悪な大王を止めるために戻ってきました。しかし、今回はこれまで以上にあなたの助けが必要です。\n\nカービィはボールに変身してしまいました。あなたはゲームテーブルを傾けたり回したりして、カービィが敵を避けてゴールにたどり着けるように導かなければなりません。そのためには、カートリッジに内蔵されたモーションセンサーのおかげで、実際にゲームボーイカラー/アドバンスのコンソールを傾ける必要があります。あなたの動きが、小さなピンクのボールの進む方向を決定します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Korokoro%20Kirby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Korokoro%20Kirby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Korokoro%20Kirby%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "super-nova",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Nova",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ダライアスフォース",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Daraiasu Fousu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Nova (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "460def25",
+      "md5": "46fe82f2b73b4cfbc517cde1bd367693",
+      "sha1": "465bd5a08bdbcfb8154522e7f516d3a74e608caf",
+      "sha256": "a8acbbd6f8afbf289a6b837da6cd8bd109a00cd38625c956ab8ff739732d9e4f"
+    },
+    {
+      "name": "Super Nova (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "87aeb5b9",
+      "md5": "ab2513c8d1388d2fd9fe07496ed24d3a",
+      "sha1": "9819b3d97993ea562e5ad0a5377b1bd86f42555e",
+      "sha256": "9a0477b1f34293ced5160a3b061c23f105068ece12956a67a3c5be9889baaee5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42446
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Nova%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Super%20Nova%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Nova%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

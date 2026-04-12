@@ -1,0 +1,74 @@
+{
+  "id": "kamen-rider-club",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kamen Rider Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "仮面ライダー倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "仮面ライダー倶楽部 激突ショッカーランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kamen Rider Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "68711cc5",
+      "md5": "baa6bb21807718438e3a18dbd46d5098",
+      "sha1": "0c253b3cf4bbd42c4453c7154ba66901341ecc8f",
+      "sha256": "879e65b15cdaeca860a578bba290d910a46b6db0bc4e3326f30f224c2d09ab1b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "仮面ライダー倶楽部：激突ショッカーランドは、ファミコン用に開発され、1988年2月3日にバンダイによって日本で発売されたアクションアドベンチャーゲームです。このゲームは、バンダイの仮面ライダーシリーズに基づいており、週刊少年マガジンで発表された日本の漫画家石ノ森章太郎によるSFストーリーであり、テレビでも放送されていました。物語は、ショッカーという謎のテロリスト組織によって荒廃した世界を舞台にしています。ショッカーは世界征服の計画を進めるために、誘拐を通じてエージェントを勧誘し、犠牲者を変異サイボーグに変え、最終的には洗脳していきました。しかし、たった一人の犠牲者である本郷猛は、最終的な洗脳の直前に脱出しました。彼は正気と道徳的良心を保ったまま、バッタをテーマにした改造人間ヒーロー、仮面ライダーとしてショッカーの手下と戦いました。ショッカーの別の犠牲者であるフリーランスの写真家一文字隼人もサイボーグのインプラントを受けていましたが、仮面ライダーによって洗脳プロセスから救われ、仮面ライダー2号となりました。バイクレースチームのマネージャーである立花藤兵衛とFBIエージェントの滝和也の助けを借りて、仮面ライダーたちはショッカーとその後継組織ゲルショッカーに対して、単独およびパートナーによるミッションで戦いました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-02-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Kamen%20Rider%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Kamen%20Rider%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Kamen%20Rider%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

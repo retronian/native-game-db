@@ -1,0 +1,58 @@
+{
+  "id": "famicom-mini-12-clu-clu-land",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 12 - Clu Clu Land",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ12 クルクルランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 12 - Clu Clu Land (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FCLJ",
+      "size": 1048576,
+      "crc32": "8b3219fe",
+      "md5": "3ef47e1b3a85631ffdc60483950a35dc",
+      "sha1": "2f47308ef84f0d4a895a2e02616268d9a43db348",
+      "sha256": "34851731cb778606c35aac1c49b08e54b17263b991ad21857afd4f75f4e74838"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2012%20-%20Clu%20Clu%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2012%20-%20Clu%20Clu%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2012%20-%20Clu%20Clu%20Land%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

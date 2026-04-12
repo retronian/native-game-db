@@ -1,0 +1,72 @@
+{
+  "id": "devil-crash-naxat-pinball",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Devil Crash - Naxat Pinball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デビルクラッシュ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Devil Crash - Naxat Pinball (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "4ec81a80",
+      "md5": "f677b6d9475fca8a07b66068ead12c24",
+      "sha1": "808638c33e110285d0d9415bc046b94a84b02c6a",
+      "sha256": "91475d2e7c993045cd5738fd43c9193399b251135e4b10276bf1309dc6aeaf09"
+    },
+    {
+      "name": "Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "38bbb515",
+      "md5": "f376674ece7932ca729b2c60b7b1d682",
+      "sha1": "04787bc1dcadf4b104d1e09a5f14cb64320f1b31",
+      "sha256": "71c4d130b57005dcf834224f0534dc2d2ac1541e2156987e25af0dbf408a01ed"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "冒険ゲームがピンボールの形式で展開されると想像してみてください。それが「ドラゴンズ・フューリー」です。あなたのヒーローは小さな銀のボールで、戦場は三層のピンボールマシンです。ボールを使ってモンスターを倒し、ポイントを獲得し、ボーナスステージに入ることができます。十分なスキルでプレイすれば、さまざまなポイント獲得ボーナスを発動させることができます。10億ポイントを獲得すると、最終ボスと戦い、ゲームのエンディングを見ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Devil%20Crash%20-%20Naxat%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Devil%20Crash%20-%20Naxat%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Devil%20Crash%20-%20Naxat%20Pinball%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

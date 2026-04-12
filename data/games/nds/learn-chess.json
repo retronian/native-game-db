@@ -1,0 +1,51 @@
+{
+  "id": "learn-chess",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Learn Chess",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Learn Chess (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YSCE",
+      "size": 16777216,
+      "crc32": "15291ded",
+      "md5": "16ca4f2876d819ccfc2e00e153c1f38e",
+      "sha1": "4d30c225d64fa8da1f87d2d58710096aa91cb30d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 240066
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Learn%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Learn%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Learn%20Chess%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

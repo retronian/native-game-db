@@ -1,0 +1,68 @@
+{
+  "id": "dynamaite-the-las-vegas",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dynamaite - The Las Vegas",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダイナマイト・ザ・ラスベガス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dynamaite - The Las Vegas (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1b644433",
+      "md5": "b4377bce46a521b566e2f0df5aaa9009",
+      "sha1": "8754049ac9b5b883f09686ef1c32d49ef2d0f3f2",
+      "sha256": "12991c7192db4851b46ec23dbd754e4390ba9a1dc73c571d2665bf49a03ff600"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44441
+  },
+  "descriptions": [
+    {
+      "text": "ダイナマイト・ザ・ラスベガスは、1994年に発売されたスーパーファミコン用のギャンブルゲームで、ラスベガスを舞台にさまざまなギャンブルの場が用意されています。ルーレット、ポーカー、スロットマシン、ブラックジャックといったおなじみのゲームから、ダイショウやティンティロといったあまり知られていないゲームまで多彩な選択肢があります。\n\nゲームの緩やかなストーリーは、主人公のミスター・ダイナマイトが地区内のすべてのカジノを巡り、VIPステータスを達成するために十分なお金を稼ぐというものです。マップ上のすべてのカジノを制覇すると、最後のカジノが開放され、それはドラゴンが所有しています。プレイヤーはネバダの蛇のような独裁者を彼自身のカジノゲームで打ち負かさなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dynamaite%20-%20The%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Dynamaite%20-%20The%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Dynamaite%20-%20The%20Las%20Vegas%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "super-auto-salon-custom-car-contest",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Auto Salon - Custom Car Contest",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーオートサロン カスタムカーコンテスト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Auto Salon - Custom Car Contest (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CQNJ",
+      "size": 33554432,
+      "crc32": "ff76837d",
+      "md5": "9fa99013a45cc1e35ee5e3a9c67d23e0",
+      "sha1": "80c4a4e104286d84cfa2139e06c47b16d35d1b07"
+    }
+  ],
+  "external_ids": {
+    "igdb": 133782
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Auto%20Salon%20-%20Custom%20Car%20Contest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Auto%20Salon%20-%20Custom%20Car%20Contest%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

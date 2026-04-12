@@ -1,0 +1,59 @@
+{
+  "id": "toys-dream",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Toys Dream",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "トイズドリーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Toys Dream (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 83141184,
+      "crc32": "23f6876e",
+      "md5": "e8ea6a8888b4530a4714b1c0e2dcb788",
+      "sha1": "f48403b2d348d0cf7e1999f93bfc407339c34aa3"
+    }
+  ],
+  "external_ids": {
+    "igdb": 82822
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Toys%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Toys%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Toys%20Dream%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

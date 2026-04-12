@@ -1,0 +1,64 @@
+{
+  "id": "argos-no-senshi-hachamecha-daishingeki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Argos no Senshi - Hachamecha Daishingeki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アルゴスの戦士 はちゃめちゃ大進撃",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Argos no Senshi - Hachamecha Daishingeki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "457c6c32",
+      "md5": "ee332e76d1ab78fc0bb60fc639ad21cf",
+      "sha1": "5e1a2bc557eda5f5341e27d734b4e857ab6b6f1c",
+      "sha256": "a23ec66eed774218611a5fa02b94c6d443696521a17c0d86df86c6cc6e199811"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アルゴスの戦士。テクモの名作アクションゲーム。ヨーヨー武器が特徴的。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Argos%20no%20Senshi%20-%20Hachamecha%20Daishingeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Argos%20no%20Senshi%20-%20Hachamecha%20Daishingeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Argos%20no%20Senshi%20-%20Hachamecha%20Daishingeki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gifty",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gifty",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gifty (Germany) (En)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "b97a8cb8",
+      "md5": "d1b2c36def4b361645eae44f6a0c53ea",
+      "sha1": "f92997128f6bce74f5e5c0787f98fa3d2b6c3133"
+    },
+    {
+      "name": "Gifty (Germany) (En) (Rev 1) (Proto)",
+      "source": "no_intro",
+      "size": 1048576,
+      "crc32": "96b929e8",
+      "md5": "1bf7c941e9d9fb2d34b51e142f3db5e4",
+      "sha1": "b0c9eb2ad7a41f17d8621c40a5c0ae3e53166253",
+      "sha256": "4dc9c69bc466ecbbcb9505973ad87355764e1627be71b246c0b612d1dd1ab736"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gifty%20%28Germany%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gifty%20%28Germany%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "mahjong-shikaku-retsuden-mahjong-wars",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Shikaku Retsuden - Mahjong Wars",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀刺客列伝 麻雀ウォーズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "6c34aaea",
+      "md5": "1fd10aab85dc9ad19cfd491684138db6",
+      "sha1": "75dd345155ffc062553eb3fe6cac3596e1ab8edd",
+      "sha256": "b77b6811d67103feb18ff73d6308576d13150bae05a66229fb656e0ce9c4531b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37676
+  },
+  "first_release_date": "1990-02-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mahjong%20Shikaku%20Retsuden%20-%20Mahjong%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mahjong%20Shikaku%20Retsuden%20-%20Mahjong%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mahjong%20Shikaku%20Retsuden%20-%20Mahjong%20Wars%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

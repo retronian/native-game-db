@@ -1,0 +1,65 @@
+{
+  "id": "sd-gundam-gachapon-senshi-5-battle-of-universal-century",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Gundam - Gachapon Senshi 5 - Battle of Universal Century",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SDガンダム ガチャポン戦士5 Battle of Universal Century バトル オブ ユニバーサルセンチュリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Gundam - Gachapon Senshi 5 - Battle of Universal Century (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "179a3466",
+      "md5": "f8c8247001daaec6570dcfefd9ecb67f",
+      "sha1": "f696fa3df3ca999b9166520cab07460c403847b6",
+      "sha256": "4fc5ceec21a8dbb4d2508d34749892067e4f4ab3466a743876b90b15e4e1d416"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "これはファミコンでリリースされるSDガンダムワールドシリーズの最終作です。ゲームの目的は、地球と宇宙の両方を征服することで、ライバル軍団との戦闘に自軍を導くことです。ゲームには10のプリセットシナリオがあり、それぞれに指定されたチーム数と目標達成のための制限時間があります。（プレイヤーはフリーシナリオを選ぶこともできます。）シナリオが選択され、ゲーム設定が整うと（フリーシナリオモードではすべての設定を変更可能）、プレイヤーとコンピュータは一連のメニューを通じてユニットを移動させ、地域を占拠するための十分な戦力を得ることを目指します。地域が占拠されると、その地域を制圧したプレイヤーはユニットを強化するために使えるお金を得ます。21のエリアすべてを最初に占拠したプレイヤー（または時間切れの際に進んでいるプレイヤー）がシナリオに勝利します。バッテリー内蔵メモリにより、プレイヤーは進行状況を保存し、後でゲームに戻ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Gundam%20-%20Gachapon%20Senshi%205%20-%20Battle%20of%20Universal%20Century%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SD%20Gundam%20-%20Gachapon%20Senshi%205%20-%20Battle%20of%20Universal%20Century%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Gundam%20-%20Gachapon%20Senshi%205%20-%20Battle%20of%20Universal%20Century%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

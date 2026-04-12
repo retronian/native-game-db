@@ -1,0 +1,54 @@
+{
+  "id": "saru-saru-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saru Saru DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サルさるDS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saru Saru DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "C3RJ",
+      "size": 67108864,
+      "crc32": "86e91cca",
+      "md5": "f7a04668177d2cf97da3a3b0e99d52a6",
+      "sha1": "eaae9639d771ace5207e83f323d8f046b1da3efd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 70520
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Saru%20Saru%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Saru%20Saru%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

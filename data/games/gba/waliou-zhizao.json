@@ -1,0 +1,57 @@
+{
+  "id": "waliou-zhizao",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Waliou Zhizao",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "瓦力欧制造",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Waliou Zhizao (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "AZWC",
+      "size": 8388608,
+      "crc32": "78a4d2d4",
+      "md5": "5a2e10190ca3f9cb1d3a954185a031ed",
+      "sha1": "4367c8e3053c56cbbd76eed7539d55a83bc52057",
+      "sha256": "d40004ebf1f34de7787a353f45b711f0e01cb4e41f9b2f48871a394d6870e72c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Waliou%20Zhizao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Waliou%20Zhizao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Waliou%20Zhizao%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

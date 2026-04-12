@@ -1,0 +1,65 @@
+{
+  "id": "arctic",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arctic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アークティック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arctic (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "4b445f62",
+      "md5": "09c110c7d4ce009d4285bcd9f2b64dfd",
+      "sha1": "5cf6916efc814b444e0a665ef7669c26469f0b20",
+      "sha256": "60ced578410cc7e1948d7bc795272b79de74cf7549e78fd85890f31e18409570"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56479
+  },
+  "descriptions": [
+    {
+      "text": "アークティックは「アクティブレールプレイ」と自称するアクションパズルゲームです。20以上のステージは、さまざまな配置のレールで構成されており、しばしば互いにループしたり、さまざまな方向に分岐したりしています。各ステージには、対応するスロットに配置されたカラーボールがいくつかあり、それらを発射した後、ボールを同じ色のスロットに戻すことが目標です。プレイヤーがボードとインタラクトできるのは、2つの分岐セットを切り替えることだけです。黄色と青の分岐があり、これを通過するボールの進行方向を変えますが、プレイヤーは一度にすべての同じ色をまとめて回転させることができます。また、多くのステージにはボールの速度や方向に影響を与えるバンパーやゲートも含まれています。パズルをクリアするためには、ステージの特徴を戦略的に活用してボールを正しい道にバウンドさせることが求められます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Arctic%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Arctic%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Arctic%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "bishi-bashi-special",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bishi Bashi Special",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビシバシチャンプ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bishi Bashi Special (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 158064432,
+      "crc32": "e5e77fd6",
+      "md5": "2f2ce754520165336d68565d2d9d49cf",
+      "sha1": "4482f172d4e17266efebf37fd08ee1596b36cdfc",
+      "sha256": "1618534d20cac8c0e0a5be00684207d66d66a37e955a1714d4eee6717e95e56a"
+    },
+    {
+      "name": "Bishi Bashi Special (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 137502672,
+      "crc32": "1fa7240b",
+      "md5": "6cf01e3427dc92c57d30f17e26adc451",
+      "sha1": "15fcd750774d823563bfab236dc796a0f4ed3fc6",
+      "sha256": "25813e1e6817eec837e6adaf1f5f98d7bb1ec9a2981870bd498bf07fcfb04732"
+    },
+    {
+      "name": "Bishi Bashi Special (France)",
+      "source": "no_intro",
+      "size": 137516304,
+      "crc32": "b6fcaaf7",
+      "md5": "62e997eb07f582435bdcd6c42b72c074",
+      "sha1": "eabf8296109e93e642d1733a029ee829cad87cfd"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45047
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bishi%20Bashi%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bishi%20Bashi%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bishi%20Bashi%20Special%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Bishi%20Bashi%20Special%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Bishi%20Bashi%20Special%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Bishi%20Bashi%20Special%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

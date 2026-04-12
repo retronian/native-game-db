@@ -1,0 +1,67 @@
+{
+  "id": "muteki-ou-tri-zenon",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Muteki Ou Tri-Zenon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "無敵王トライゼノン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Muteki Ou Tri-Zenon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "0bab7a61",
+      "md5": "77c35992b64ab7f2642873a5f266ab79",
+      "sha1": "2a7f422bf9af9aff126e47ede8b5ceec0630eb08"
+    }
+  ],
+  "external_ids": {
+    "igdb": 251309
+  },
+  "descriptions": [
+    {
+      "text": "同名のTVアニメを基にした本作では、3人の主要キャラクターが合体ロボット「トライゼノン」を操り、地球侵略を企むゼノバレスが送り込むロボットたちと戦います。「トライゼノン」は水陸空の機体が合体したもので、それぞれに特性があるため、タケザキ川に応じて組み合わせたり分離したりすることが鍵となります。また、「ガイアゼノン」や他のロボットも仲間として登場します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-03-09",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Muteki%20Ou%20Tri-Zenon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Muteki%20Ou%20Tri-Zenon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Muteki%20Ou%20Tri-Zenon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

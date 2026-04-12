@@ -1,0 +1,57 @@
+{
+  "id": "first-queen-ornic-senki",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "First Queen - Ornic Senki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファーストクイーン オルニック戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "First Queen - Ornic Senki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "be3de834",
+      "md5": "bf5650713edcd27821149162ff9acb91",
+      "sha1": "db7407f394badc1fc0978ce31073fc7a1a35599f",
+      "sha256": "7db4a73a343d233dc45d9db328b461288028e0bae70e629c068cf487ded07698"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/First%20Queen%20-%20Ornic%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/First%20Queen%20-%20Ornic%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/First%20Queen%20-%20Ornic%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

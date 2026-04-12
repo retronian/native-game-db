@@ -1,0 +1,76 @@
+{
+  "id": "animal-breeder-4",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Animal Breeder 4",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "あにまるぶりーだー4",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "あにまるぶりーだー 4",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Animal Breeder 4 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "83d838c3",
+      "md5": "22d11b8d9670fb9b4ca84368f0f50cee",
+      "sha1": "2f7854cfc227ecc395551ea4c0b62256f0757514"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49973
+  },
+  "descriptions": [
+    {
+      "text": "「あにまるぶりーだー4」は、J-Wingによって開発・発売されたRPG/ブリーディングゲームで、ゲームボーイカラー向けにリリースされました。「あにまるぶりーだー4」は日本のみで発売されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Animal%20Breeder%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Animal%20Breeder%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Animal%20Breeder%204%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

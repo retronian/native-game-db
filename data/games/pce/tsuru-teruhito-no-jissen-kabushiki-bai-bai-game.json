@@ -1,0 +1,74 @@
+{
+  "id": "tsuru-teruhito-no-jissen-kabushiki-bai-bai-game",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "都留照人の実戦株式倍バイゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "都留照人の実践株式倍バイゲーム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "f70112e5",
+      "md5": "191df80c4ead5f5acdb24c7ec2c93331",
+      "sha1": "b07b7365f07607b5d528cd82bdcfeab40fb1afc4",
+      "sha256": "2342573c3e5999db0f0914a2ea0488cfdc6eb1e696660143c1416d21bb21d1e7"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "鶴照人の実践株式ビジネスゲーム（またはバイゲーム、またはバイゲーム）は、TOSEとインテックによるPCエンジン向けの株式取引シミュレーションゲームです。プレイヤーは株価の変動や市場価格に注意を払いながら株を見て取引を行います。株の売買を行う際には、プレイヤーの運によって変わる秘書に指示を出し、選んだ株を買ったり売ったりします。\n\nこのタイプの多くのゲームと同様に、英語版はリリースされておらず、大量の日本語のテキストが含まれているため、非日本語話者には理解が難しいです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-11-03",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Tsuru%20Teruhito%20no%20Jissen%20Kabushiki%20Bai%20Bai%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Tsuru%20Teruhito%20no%20Jissen%20Kabushiki%20Bai%20Bai%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Tsuru%20Teruhito%20no%20Jissen%20Kabushiki%20Bai%20Bai%20Game%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

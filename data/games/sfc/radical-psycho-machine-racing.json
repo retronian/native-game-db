@@ -1,0 +1,67 @@
+{
+  "id": "radical-psycho-machine-racing",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Radical Psycho Machine Racing",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "R.P.M.レーシング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Radical Psycho Machine Racing (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "f7933734",
+      "md5": "cb802f27cab677a9b5c1c7fa4258e259",
+      "sha1": "0a8e35a4ebd4308fb37850f4d0ce64b60f639cfc",
+      "sha256": "edf990e502c646a2fe83fcd1d359ca0ed5003ace06cb4c3de5a51a0c56d6ec54"
+    },
+    {
+      "name": "Radical Psycho Machine Racing (USA) (Beta) (1991-08-14)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c739d55d",
+      "md5": "ef2ab465a8fe68bea17128d42246906e",
+      "sha1": "b0771c2e3c19869f29677f356c4f0592cdf427d6",
+      "sha256": "3e491ecddf1dce9d0363fe6a079c58245abc4cbdc0746f288fc75b2f235f0d43"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Radical%20Psycho%20Machine%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Radical%20Psycho%20Machine%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Radical%20Psycho%20Machine%20Racing%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

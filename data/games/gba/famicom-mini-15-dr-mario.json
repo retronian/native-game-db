@@ -1,0 +1,58 @@
+{
+  "id": "famicom-mini-15-dr-mario",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Famicom Mini 15 - Dr. Mario",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファミコンミニ15 Dr.マリオ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Famicom Mini 15 - Dr. Mario (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "FDMJ",
+      "size": 1048576,
+      "crc32": "c836f2e2",
+      "md5": "2b32199a5cee65f93714a686376e50ca",
+      "sha1": "4fb22ff059833d5206421277409ece0cdd5d5b46",
+      "sha256": "5b68373e5b7f6ea74e1f2add794bd722e32fb80b274bc6eaa38e7c9d8fc2254f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Famicom%20Mini%2015%20-%20Dr.%20Mario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Famicom%20Mini%2015%20-%20Dr.%20Mario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Famicom%20Mini%2015%20-%20Dr.%20Mario%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

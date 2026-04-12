@@ -1,0 +1,65 @@
+{
+  "id": "adventure-island",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Adventure Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "アドベンチャーアイランド",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Adventure Island (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "8e71d4f3",
+      "md5": "65ea7bebc2ecaeda8cee373ff2a83534",
+      "sha1": "01ad5bbd7316740409e01917c19494cb26173ff5",
+      "sha256": "fbe3f6347639a50e84de61fa23b126e3a2fb11c21cd7a735fad99de2b2227fac"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "かわいそうなヒューマン！彼は以前の自分ではありません。悪のドラゴン・メカから逃げようとした結果、恐ろしいトカゲ男に変身してしまいました！本気でドラゴンの尻尾を蹴飛ばす準備をしてください。なぜなら、あなたを阻止しようと待ち構えているドラゴンがさらに5匹いるからです。それぞれが前のドラゴンよりも凶悪です。そして、各ドラゴンはヒューマンを異なる種類の気持ち悪い姿に変えてしまいます！彼らを切り裂き、焼き払い、吹き飛ばしましょう！そして、サラマンダー・クロスを捕まえてドラゴンの呪いを解きましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-04-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Adventure%20Island%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Adventure%20Island%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Adventure%20Island%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

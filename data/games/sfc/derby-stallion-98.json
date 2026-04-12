@@ -1,0 +1,70 @@
+{
+  "id": "derby-stallion-98",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Derby Stallion 98",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ダービースタリオン98",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ダービースタリオン 98",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Derby Stallion 98 (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "525ffb26",
+      "md5": "56d1bc2dfd68032aa3e7ffc50d187700",
+      "sha1": "35876222114f49cd335a375c6ac99123fb652694",
+      "sha256": "4dcd8a6b6cf947d201f04e7778c383e2368e3d8f5cfaa25a1039d76fa8faa4d4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38237
+  },
+  "first_release_date": "1998-08-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Derby%20Stallion%2098%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Derby%20Stallion%2098%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Derby%20Stallion%2098%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

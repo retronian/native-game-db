@@ -1,0 +1,97 @@
+{
+  "id": "watashi-no-restaurant",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Watashi no Restaurant",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "わたしのレストラン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Watashi no Restaurant (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "395003ef",
+      "md5": "c9156b49032e63498df93e132b0307b3",
+      "sha1": "d66f728006aaa37c2776b6ade7d1c8cdc2101a57"
+    },
+    {
+      "name": "Watashi no Restaurant (Japan) (Beta 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "5ff6b852",
+      "md5": "1de3aa6275844a8957c88d75dcc5ad09",
+      "sha1": "384f1f68e7331f992f1d311f1433ea9f205eddcb",
+      "sha256": "6dabe27e44c330022d4f262e8ea0ae3bf510c71cef09555ec0686a8a467663d0"
+    },
+    {
+      "name": "Watashi no Restaurant (Japan) (Beta 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "8571099f",
+      "md5": "cae6f72a359b1088efe6c641cbae2f97",
+      "sha1": "98ff6b68b7c79229100f58311ee41e3fec4802e0",
+      "sha256": "a6ffc97ef027567427c94a50b5c065a2382f1b7887fa118871c369d2e016d2b1"
+    },
+    {
+      "name": "Watashi no Restaurant (Japan) (Beta 3)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a0ed2859",
+      "md5": "d2731c794aaa3fb4700c83727d8583e2",
+      "sha1": "343bf8ebb6fa3ce89501f7c4c219fb7e864c38a3",
+      "sha256": "1624362547db9f204c28005177be5ac1c881c02fa7a935d24a150827696e4fe5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 282768
+  },
+  "descriptions": [
+    {
+      "text": "ユメミになり、さまざまな料理を作りましょう。レシピに従ってスーパーで食材を購入し、料理の先生からの指示に従ってください。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-04-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Watashi%20no%20Restaurant%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Watashi%20no%20Restaurant%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Watashi%20no%20Restaurant%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

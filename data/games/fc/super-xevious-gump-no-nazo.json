@@ -1,0 +1,86 @@
+{
+  "id": "super-xevious-gump-no-nazo",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Xevious - Gump no Nazo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "スーパーゼビウス ガンプの謎",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Xevious - Gump no Nazo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 163856,
+      "crc32": "319198bf",
+      "md5": "1a1a70bbf7ce3725ca36cdb753217e5f",
+      "sha1": "6758bc7e8ae987bfa57bb45f3899f2d714073d2d",
+      "sha256": "6fff9e82a223330e68dfb631227d016d2ece2d237916ef10a592ba09a10379fb"
+    },
+    {
+      "name": "Super Xevious - Gump no Nazo (USA, Europe) (Namco Museum Archives Vol 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 163856,
+      "crc32": "5053c67b",
+      "md5": "28337b992129db431098ec8df1234fe3",
+      "sha1": "852fe13956648a948d3ad7de3c05e39af02a4526",
+      "sha256": "9bfea55dec32db4a2f9dfb659bfd7d824acff4624c87be3fa51f0f4192845a66"
+    }
+  ],
+  "first_release_date": "1986-09-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Super%20Xevious%20-%20Gump%20no%20Nazo%20%28USA%2C%20Europe%29%20%28Namco%20Museum%20Archives%20Vol%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

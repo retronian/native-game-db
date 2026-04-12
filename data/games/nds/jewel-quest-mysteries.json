@@ -1,0 +1,52 @@
+{
+  "id": "jewel-quest-mysteries",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jewel Quest - Mysteries",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jewel Quest - Mysteries (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BQYE",
+      "size": 67108864,
+      "crc32": "a651d841",
+      "md5": "56b75c3349d65ea3be809af109d5d4ba",
+      "sha1": "97d18d782bad404107c405eaf83b5a80d144c91c"
+    },
+    {
+      "name": "Jewel Quest - Mysteries (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJYX",
+      "size": 67108864,
+      "crc32": "1694a961",
+      "md5": "d6c521791ac712db74c453d89b934f50",
+      "sha1": "6181749ee3e0e91d6111d16679411a53c9b6f940"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Quest%20-%20Mysteries%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Jewel%20Quest%20-%20Mysteries%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

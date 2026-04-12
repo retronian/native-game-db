@@ -1,0 +1,48 @@
+{
+  "id": "kuruma-de-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kuruma de DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "クルマでDS",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kuruma de DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "UZCJ",
+      "size": 134217728,
+      "crc32": "70e0be36",
+      "md5": "8245c114f88645d6e26630e6a3df9baf",
+      "sha1": "c8cadcb1018932f96a78474198bb7edfdefac5fb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 302675
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kuruma%20de%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

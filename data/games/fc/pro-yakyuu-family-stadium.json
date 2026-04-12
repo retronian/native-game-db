@@ -1,0 +1,69 @@
+{
+  "id": "pro-yakyuu-family-stadium",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pro Yakyuu - Family Stadium",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プロ野球ファミリースタジア",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "プロ野球ファミリースタジアム",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pro Yakyuu - Family Stadium (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 98320,
+      "crc32": "bf04353c",
+      "md5": "44136ec9b9f08271413ac2194a855129",
+      "sha1": "5a5eb70fa5eb303e999a5b05b036cffb4b6c9941",
+      "sha256": "628a9144d2d33e59d3301168d1608d53bf07b6e716ae6888a3fd3a972496463f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 218385
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Pro%20Yakyuu%20-%20Family%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Pro%20Yakyuu%20-%20Family%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Pro%20Yakyuu%20-%20Family%20Stadium%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

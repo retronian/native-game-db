@@ -1,0 +1,91 @@
+{
+  "id": "jissen-ni-yakudatsu-tsumego",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Jissen ni Yakudatsu Tsumego",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "実戦に役立つ詰碁",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "55efa05e",
+      "md5": "d315dc5767c97e99d3d2aec84d6ea226",
+      "sha1": "5ff7f6f2a1911e97eb71a3b3788a89745cfa5d31"
+    },
+    {
+      "name": "Jissen ni Yakudatsu Tsumego (Japan) (Possible Proto)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262144,
+      "crc32": "69c6dbef",
+      "md5": "145a22d327cc23d0c7f85c62fc46de77",
+      "sha1": "f7ed6cdce7637a11d7fa7f5cb59b8f8ce131f9d1"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "日本棋院の基金が提供する、厳選された100問の詰碁ソフトウェアです。「実戦に役立つ」という名前が示すように、ユーザーが正しい手以外の手を指しても、コンピュータは全力で応じます。これにより、ユーザーは実際のゲーム形式で正しい手と間違った手を学ぶことができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-08-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Jissen%20ni%20Yakudatsu%20Tsumego%20%28Japan%29%20%28Possible%20Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

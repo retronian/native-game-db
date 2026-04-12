@@ -1,0 +1,80 @@
+{
+  "id": "valis",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Valis",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Valis (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49196-00",
+      "size": 1048576,
+      "crc32": "13bc5b72",
+      "md5": "da1638baec999b2203ac5e5fec31c744",
+      "sha1": "fed29e779aa0d75645a59608f9f3a13f39d43888",
+      "sha256": "2d462dd72668de2de826c5da2c04ae3e932258e182652d4ded43a2df5ad679dc"
+    },
+    {
+      "name": "Valis (World) (Retro-Bit)",
+      "source": "no_intro",
+      "serial": "T-49196 -00",
+      "size": 1048576,
+      "crc32": "fc962cfc",
+      "md5": "1db6f1a1b94152d261dd7867e223f64d",
+      "sha1": "2f32a2aa9784348b175c3ef6bb8524d70b7b03c3",
+      "sha256": "8de9da2ae5d100b1c753a77082f0dcb1d887510e645eb3ec14d1ddf534823669"
+    },
+    {
+      "name": "Valis (World) (Evercade)",
+      "source": "no_intro",
+      "serial": "T-49196-00",
+      "size": 1048576,
+      "crc32": "f4169404",
+      "md5": "7cc909c9353d0234457d8a7dbc07696b",
+      "sha1": "3d63313963500b100316b40ecf130b6dbcffde90",
+      "sha256": "65d3b87714732ceb27f5439b2c9dfa0eb3d606d953ffd3b41054e3e4a9436f8b"
+    },
+    {
+      "name": "Valis (USA) (Beta) (Sega Channel)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-49196-00",
+      "size": 1048576,
+      "crc32": "74a133a8",
+      "md5": "bf2aaf867d3201355a1168637a9ba475",
+      "sha1": "4e5e7d119af77d000f02e7013afffe4fb31939c7",
+      "sha256": "f1ce9a602b0e185cf7fbfc6327bb0db95ee325ff97c2e6983b19fa1674e80105"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Valis%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

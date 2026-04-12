@@ -1,0 +1,45 @@
+{
+  "id": "learn-science",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Learn Science",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Learn Science (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSSE",
+      "size": 16777216,
+      "crc32": "741b330b",
+      "md5": "2a0b7f9db2adbca2ef7bc95f2d8c7106",
+      "sha1": "187d389e4f5258223b4495c71057b57618ee377e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209895
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Learn%20Science%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Learn%20Science%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

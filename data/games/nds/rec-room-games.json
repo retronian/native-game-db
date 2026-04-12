@@ -1,0 +1,42 @@
+{
+  "id": "rec-room-games",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rec Room Games",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rec Room Games (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BZRE",
+      "size": 8388608,
+      "crc32": "1fab9c34",
+      "md5": "f15872f24bfd39aabe2a9abdb16388a7",
+      "sha1": "3e5d7d95b76c1ebaf5fab59b99172a19a07f199f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Rec%20Room%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Rec%20Room%20Games%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "shuwa-no-mori",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Shuwa no Mori",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "手話の森",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Shuwa no Mori (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "CWCJ",
+      "size": 33554432,
+      "crc32": "d48b7da0",
+      "md5": "315ca4dfb48a860b8fbb5c678aab3b83",
+      "sha1": "a6500e445d79b81f38fa92c56c8aa8bd29d7ae83"
+    }
+  ],
+  "external_ids": {
+    "igdb": 254483
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Shuwa%20no%20Mori%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Shuwa%20no%20Mori%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

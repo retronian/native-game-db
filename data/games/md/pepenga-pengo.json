@@ -1,0 +1,75 @@
+{
+  "id": "pepenga-pengo",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pepenga Pengo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ぺぺんがペンゴ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ぺぺんが Pengo ペンゴ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Pepenga Pengo (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4133-00",
+      "size": 1048576,
+      "crc32": "d1e2324b",
+      "md5": "6f8cddb3775b588b49d13e7c62d08e86",
+      "sha1": "c88c30d9e1fb6fb3a8aadde047158a3683bb6b1a",
+      "sha256": "ac5f347d5a0b25c0945b7e80dfdb834d3fce57ffc275b419fade7e1b06e21753"
+    }
+  ],
+  "external_ids": {
+    "igdb": 4503
+  },
+  "descriptions": [
+    {
+      "text": "スノービーたちが帰ってきた！南極のある日、隕石がペンギンたちを守るクリスタルに衝突し、それを粉々に砕いてしまい、氷の中に閉じ込められていたスノービーたちが解放されてしまった。青いペンギンは、彼の仲間を救うために（2人プレイモードではピンクのペンギンと共に）、スノービーたちを追い、失われたクリスタルの欠片を取り戻す。ゲームは1982年のオリジナルの基本テンプレートを引き継ぎつつ、敵の種類や様々な環境の危険、パワーアップを増やし、もちろん更新された16ビットのグラフィックとサウンドを提供している。目標は依然としてブロックを押して敵を潰すことだ。敵は今や発生装置から現れ、それを破壊しない限り新しい敵が出現し続けるため、すべての敵を排除して各ステージをクリアする必要がある。\n\nメインストーリーモードに加えて、最大4人までの競争バトルモードや、オリジナルのアーケードゲームの移植も収録されている。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Pepenga%20Pengo%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Pepenga%20Pengo%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Pepenga%20Pengo%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

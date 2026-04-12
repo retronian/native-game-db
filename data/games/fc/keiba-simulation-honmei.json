@@ -1,0 +1,70 @@
+{
+  "id": "keiba-simulation-honmei",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Keiba Simulation - Honmei",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "KEIBA simulation 本命",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "本命",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Keiba Simulation - Honmei (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "281e3056",
+      "md5": "d414528b17f7343da58c94e2a2cb8346",
+      "sha1": "ed8083043518cc7a4bf98e9e8160c405c3767d53",
+      "sha256": "8e4899854485c81e5710a78a4c494561b9e42c3e4039d2d6b6e774d8be999c53"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48747
+  },
+  "first_release_date": "1989-04-28",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Keiba%20Simulation%20-%20Honmei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Keiba%20Simulation%20-%20Honmei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Keiba%20Simulation%20-%20Honmei%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

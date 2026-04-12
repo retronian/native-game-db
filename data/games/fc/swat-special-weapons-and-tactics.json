@@ -1,0 +1,68 @@
+{
+  "id": "swat-special-weapons-and-tactics",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SWAT - Special Weapons and Tactics",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SWAT",
+      "lang": "ja",
+      "script": "Latn",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SWAT - Special Weapons and Tactics (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "d8f3224b",
+      "md5": "39663cce41a5d2cac8c05bc48627fca1",
+      "sha1": "7dca524e58be3a4eacd9b943d837ea63b0418302",
+      "sha256": "761e349877c4bd4972a92518b3641eacabbefb629fb700182ae57b2043f43613"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48392
+  },
+  "descriptions": [
+    {
+      "text": "SWAT: スペシャルウェポンズ アンド タクティクスは、ショウエイによって開発され、東映アニメーションによって出版されたロールプレイングゲームです。このゲームはファミコン用に日本でのみリリースされ、元の日本語から翻訳されることはありませんでした。\n\nプレイヤーは、特殊な対テロリストエージェントからなる5人のチームを操作し、人質事件が発生している建物に突入します。彼らの目標は、悪党を排除し、人質を解放することです。銃撃戦は、従来のRPGスタイルのターン制バトルで行われます。プレイヤーは、生存しているチームメンバーそれぞれの行動を指示し、攻撃する武器や攻撃対象を選択します。バトル中でないときは、プレイヤーは従来の3Dダンジョン視点で建物を見渡し、廊下を移動し、調査する部屋を選び、罠を解除し、限られた時間内にゲームの終わりに進む方法を決定します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1987-09-11",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SWAT%20-%20Special%20Weapons%20and%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SWAT%20-%20Special%20Weapons%20and%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SWAT%20-%20Special%20Weapons%20and%20Tactics%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "adventure-island-classic",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Adventure Island Classic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Adventure Island Classic (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 65552,
+      "crc32": "cb55d991",
+      "md5": "9eea171fb0bf0e01e0b5ca4d754cf39d",
+      "sha1": "0a1a38f6c6a0f487f2c0541085a550ac08c5eaff",
+      "sha256": "8b25fa8283a926647baad1048a47967821b797873903731177ec507002d93a42"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Adventure%20Island%20Classic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Adventure%20Island%20Classic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Adventure%20Island%20Classic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

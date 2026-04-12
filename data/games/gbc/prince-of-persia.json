@@ -1,0 +1,59 @@
+{
+  "id": "prince-of-persia",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Prince of Persia",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "e6bec6d1",
+      "md5": "afeec69d5ba3afa3ce2279fcda944576",
+      "sha1": "ef2f6402e8ef367273200e3b07f310ebd80ccdc2"
+    },
+    {
+      "name": "Prince of Persia (Japan) (En,Ja) (Proto) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d7dbbe1e",
+      "md5": "18e83737127010b90aa8ea4d3982b461",
+      "sha1": "6fd97e1f75570e7568b3dc4ab28834813afb4484"
+    }
+  ],
+  "external_ids": {
+    "igdb": 229862
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Prince%20of%20Persia%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Prince%20of%20Persia%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Prince%20of%20Persia%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

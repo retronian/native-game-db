@@ -1,0 +1,80 @@
+{
+  "id": "di-gata-defenders",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Di-Gata Defenders",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Di-Gata Defenders (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "YGTP",
+      "size": 33554432,
+      "crc32": "7ec41bf4",
+      "md5": "42e5b3d492556b02ea2aa0f55a935670",
+      "sha1": "9f4f4aba5bdf0f81fbede029afb32fafa1d79400",
+      "sha256": "690663597df2507b365d1e0c5798f53580e452b6518bc3267de5100b5896f19a"
+    },
+    {
+      "name": "Di-Gata Defenders (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "YGTE",
+      "size": 33554432,
+      "crc32": "4e690f75",
+      "md5": "33be007fb143cac33448672a9cbd0d49",
+      "sha1": "f8169ae9502edd797e46af883e58533e1b14f172"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47956
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Di-Gata%20Defenders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Di-Gata%20Defenders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Di-Gata%20Defenders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Di-Gata%20Defenders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Di-Gata%20Defenders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Di-Gata%20Defenders%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

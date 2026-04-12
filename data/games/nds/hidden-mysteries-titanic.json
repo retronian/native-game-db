@@ -1,0 +1,86 @@
+{
+  "id": "hidden-mysteries-titanic",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hidden Mysteries - Titanic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hidden Mysteries - Titanic (Germany)",
+      "source": "no_intro",
+      "serial": "BTZD",
+      "size": 33554432,
+      "crc32": "11e1d6ad",
+      "md5": "3715414a9356ce49a6ab1187e27f2128",
+      "sha1": "05ed7e9fbb31a72c9a6c3c51bdbd25c5a2c414b2"
+    },
+    {
+      "name": "Hidden Mysteries - Titanic (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTZP",
+      "size": 33554432,
+      "crc32": "5f787682",
+      "md5": "a11c7ed0295c2012854b9cbbe47e46dd",
+      "sha1": "5ecb4502e17c4f9a74864782ea0324c110c41b45"
+    },
+    {
+      "name": "Hidden Mysteries - Titanic (Europe) (En,Fr,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BTZX",
+      "size": 67108864,
+      "crc32": "58210da7",
+      "md5": "6af232ad040a273157829ca5fd81d855",
+      "sha1": "bbe69101f2e222bed655edc067984fe13f124cf8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 35257
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hidden%20Mysteries%20-%20Titanic%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hidden%20Mysteries%20-%20Titanic%20%28Germany%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hidden%20Mysteries%20-%20Titanic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hidden%20Mysteries%20-%20Titanic%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hidden%20Mysteries%20-%20Titanic%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hidden%20Mysteries%20-%20Titanic%20%28Europe%29%20%28En%2CFr%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

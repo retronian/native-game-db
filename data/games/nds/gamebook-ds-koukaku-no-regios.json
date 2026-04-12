@@ -1,0 +1,59 @@
+{
+  "id": "gamebook-ds-koukaku-no-regios",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gamebook DS - Koukaku no Regios",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gamebook DS - Koukaku no Regios (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BGRJ",
+      "size": 33554432,
+      "crc32": "5e461fb8",
+      "md5": "df6906dc7333d77939f4e13da6a54442",
+      "sha1": "23cd28ed1aceeedd581571b2cebb240105b02843"
+    },
+    {
+      "name": "Gamebook DS - Koukaku no Regios (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BGRJ",
+      "size": 33554432,
+      "crc32": "e4362d6d",
+      "md5": "9764ae43ab09b5f739aa8502f827a654",
+      "sha1": "7e20cb12eee901fcb9325a7f9542c8eeea148225",
+      "sha256": "22cb22ed6145799825ce9a0b6fc6a86f76cb8fc33b726578021eb435917caf57"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Gamebook%20DS%20-%20Koukaku%20no%20Regios%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Gamebook%20DS%20-%20Koukaku%20no%20Regios%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Gamebook%20DS%20-%20Koukaku%20no%20Regios%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

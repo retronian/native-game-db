@@ -1,0 +1,52 @@
+{
+  "id": "squeeballs-party",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Squeeballs Party",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Squeeballs Party (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BSVE",
+      "size": 33554432,
+      "crc32": "f8eda754",
+      "md5": "b958e77324a8acc867df147ede772c26",
+      "sha1": "4ca7b0a4b9b64e0e1da6eabdf9400cb3b00b4dbe"
+    },
+    {
+      "name": "Squeeballs Party (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BSVP",
+      "size": 33554432,
+      "crc32": "8f045421",
+      "md5": "071cbd5938fa3f6f9370c7065f8af7b1",
+      "sha1": "84eb58fc3af39e605a6eaffc8887b820b4eca65a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Squeeballs%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Squeeballs%20Party%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

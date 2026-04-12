@@ -1,0 +1,61 @@
+{
+  "id": "64-oozumou",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "64 Oozumou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "64大相撲",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "64 Oozumou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NOSJ",
+      "size": 16777216,
+      "crc32": "742e31fb",
+      "md5": "2cf9edb51ada9de2ae7ad9fd5acc5580",
+      "sha1": "e77fe9f2c32870eb7acbcf6a13d26dd022bafe5d",
+      "sha256": "661420aa5a7b5c0f86aad0dad813a0c876b99267d9d92fed0f4507e8e2a37240"
+    }
+  ],
+  "external_ids": {
+    "igdb": 3433
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/64%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/64%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/64%20Oozumou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

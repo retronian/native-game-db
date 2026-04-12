@@ -1,0 +1,59 @@
+{
+  "id": "building-crush",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Building Crush!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ビルクラッシュ！",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Building Crush! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 39858352,
+      "crc32": "8412c8d5",
+      "md5": "6b59169bbf4e2a04923fd585b117c7a9",
+      "sha1": "152fcd716014660cd98d7129f899e4a3ef39f38d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 112183
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Building%20Crush%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Building%20Crush%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Building%20Crush%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "olivia-no-mystery",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Olivia no Mystery",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "オリビアのミステリー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Olivia no Mystery (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "0dfde2aa",
+      "md5": "fd5996240dd8a2ec6565f6d269153c02",
+      "sha1": "df542ffbfa614fa640b5425aa05ac7ceecb723dd",
+      "sha256": "454e92a17bddf77714a66d6044bde197cb1a08a3d9ad38f7cfa481712e5dd369"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「オリビアのミステリー」はパズルゲームです。スクロールするテキストで語られるストーリーが特徴で、時折ゲームのパズルに切り替わります。\n\nゲームのパズルは通常のジグソーパズルに似ています。プレイヤーは複数のピースを取り、しばしば縦や横にひっくり返しながら、グリッド上の正しい位置に配置する必要があります。難しい点は、画像が常にループしてアニメーションしていることです。このアニメーションは、ピースの正しい向きを示すヒントになることもあります（例えば、キャラクターが壁を登っている場合、すべての壁のピースは下にスクロールするべきです）が、ゲームによって混乱を招くために使われることもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-04",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Olivia%20no%20Mystery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Olivia%20no%20Mystery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Olivia%20no%20Mystery%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

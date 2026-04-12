@@ -1,0 +1,48 @@
+{
+  "id": "smart-boy-s-gameroom",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Smart Boy's Gameroom",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Smart Boy's Gameroom (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "A2HE",
+      "size": 16777216,
+      "crc32": "12a62c39",
+      "md5": "e95ea8c26c1c0824cd48bf15a846fab3",
+      "sha1": "f6c11dff8c2602f36555b23e3a076d9e86a20bca"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Smart%20Boy%27s%20Gameroom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Smart%20Boy%27s%20Gameroom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Smart%20Boy%27s%20Gameroom%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

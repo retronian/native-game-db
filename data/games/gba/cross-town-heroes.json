@@ -1,0 +1,38 @@
+{
+  "id": "cross-town-heroes",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Cross Town Heroes",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Cross Town Heroes (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "ARQE",
+      "size": 4194304,
+      "crc32": "0fffb458",
+      "md5": "5d8477952ac38e7dfea3a56f7544809b",
+      "sha1": "6baa6bfe76b077f365bedffa52346b94689b61d7"
+    },
+    {
+      "name": "Cross Town Heroes (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "ARQP",
+      "size": 4194304,
+      "crc32": "c9ea02f5",
+      "md5": "753971af89a797d2c0bad3198d56963c",
+      "sha1": "13310b7f25a0332a8e09e722587ec79aee11c373"
+    }
+  ]
+}

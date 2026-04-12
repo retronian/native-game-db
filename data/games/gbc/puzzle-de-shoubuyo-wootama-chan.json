@@ -1,0 +1,64 @@
+{
+  "id": "puzzle-de-shoubuyo-wootama-chan",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Puzzle de Shoubuyo! - Wootama-chan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "エレベーターアクションEX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Puzzle de Shoubuyo! - Wootama-chan (Japan) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "73ed3042",
+      "md5": "5daf6da4a471c6b9517413ef25e498a5",
+      "sha1": "2c8630324767675e7f3da67e3a3071c73174a47d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "画面上の「タマリン」を動かして、同じ種類のものを4つ四角形に並べると消すことができます。制限時間内にすべてのタマリンを消すことを目的としたモードや、2人のプレイヤーが対戦できるモードもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-09-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Puzzle%20de%20Shoubuyo%21%20-%20Wootama-chan%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Puzzle%20de%20Shoubuyo%21%20-%20Wootama-chan%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Puzzle%20de%20Shoubuyo%21%20-%20Wootama-chan%20%28Japan%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

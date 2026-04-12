@@ -1,0 +1,83 @@
+{
+  "id": "mazin-saga",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mazin Saga",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マジンサーガ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mazin Saga (Asia) (En)",
+      "source": "no_intro",
+      "serial": "G-4078-00",
+      "size": 1048576,
+      "crc32": "36459b59",
+      "md5": "a9979ae2dd33c6db2c2bd87a28d5ebde",
+      "sha1": "3509fdf8bd0a589c216a5032eef0c09a51c7a578",
+      "sha256": "4f51781102a17530b2c955c6f82f489c253cbd7a539acbdb85fd8008c92e3f50"
+    },
+    {
+      "name": "Mazin Saga (Japan, Korea) (Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "G-4078-00",
+      "size": 1048576,
+      "crc32": "45b3a34b",
+      "md5": "f3ae6147d9ad2d40e781a49c7263f746",
+      "sha1": "bcaf2820f22d4a7bcf6324f288698192996875bd",
+      "sha256": "0bbf1e79f2b46852b85f87ad1bd00825638a316cb04555a5d9d3a18c111c0e33"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mazin%20Saga%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mazin%20Saga%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mazin%20Saga%20%28Asia%29%20%28En%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Mazin%20Saga%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Mazin%20Saga%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Mazin%20Saga%20%28Japan%2C%20Korea%29%20%28Ja%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

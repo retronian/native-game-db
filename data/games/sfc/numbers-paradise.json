@@ -1,0 +1,96 @@
+{
+  "id": "numbers-paradise",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Numbers Paradise",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ナンバーズパラダイス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Numbers Paradise (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "612a07f9",
+      "md5": "1606f031d9b1da1fc8c38d8d7efcf890",
+      "sha1": "d358cdca75f67a5b932b13aef8136c35fadaaf49",
+      "sha256": "3f768f1c962e5b8aebbdbf6e89179ff93f977b074c9cffc5801df9f6a6358f37"
+    },
+    {
+      "name": "Numbers Paradise (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "b06b9bf5",
+      "md5": "62117e19532e9a561d17c90c4e60cf8b",
+      "sha1": "4d980cd222d664623369a4cb118bce80b89a8a92",
+      "sha256": "f2f0ea0dc23743d690d49705f094c731718a28338da8193e27b86f07aff6b4fb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 44399
+  },
+  "descriptions": [
+    {
+      "text": "ナンバーズパラダイスは、ISCOとアクレイムジャパンによるベッティングシミュレーションゲームです。このゲームの目的は、日本の宝くじシステムを再現し、三桁および四桁の形式でプレイヤーが当選番号を見つける練習をすることです。ゲームには他にもいくつかのモードがあります。\n\nこのゲームは、日本の他のギャンブルシミュレーターシリーズの一部であり、その多くはパチンコ、パチスロ、競馬、モーターボートレースに関連しています。ナンバーズパラダイスは、これらの中でも最も抽象的な作品です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-08-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Numbers%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Numbers%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Numbers%20Paradise%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Numbers%20Paradise%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Numbers%20Paradise%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Numbers%20Paradise%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

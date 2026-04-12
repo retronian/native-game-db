@@ -1,0 +1,63 @@
+{
+  "id": "junior-mystery-stories",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Junior Mystery Stories",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Junior Mystery Stories (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJRX",
+      "size": 16777216,
+      "crc32": "b02ae68c",
+      "md5": "3a296e277e282972a0c0529eba150c1a",
+      "sha1": "b12b8e6e514b7fd91b7969bb9846888843fdfd21",
+      "sha256": "f3dc9e1d1f79f5303c36843e58c4272e2f3cf638c5cd77e82e30f40c393affb9"
+    },
+    {
+      "name": "Junior Mystery Stories (Europe) (En)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJRP",
+      "size": 16777216,
+      "crc32": "b32f6d49",
+      "md5": "d0c55a77f7dfc809245f4f9324291829",
+      "sha1": "0523b64c1de14990aebc4e8efa93fa1c2d7a6783"
+    },
+    {
+      "name": "Junior Mystery Stories (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BJRX",
+      "size": 16777216,
+      "crc32": "78dbb065",
+      "md5": "adced76be7ca38ef95be198d88a0e631",
+      "sha1": "b67d04ee313c090ae85d4b485e3e7dbdc8ccfdfe"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Junior%20Mystery%20Stories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Junior%20Mystery%20Stories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

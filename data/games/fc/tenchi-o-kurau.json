@@ -1,0 +1,93 @@
+{
+  "id": "tenchi-o-kurau",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tenchi o Kurau",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "天地を喰らう",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tenchi o Kurau (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "555f9b9d",
+      "md5": "836b172d1bb2ee6fad82affd17865ca8",
+      "sha1": "edfc348a244a94c99853b7578ccdd06bf4de2d9a",
+      "sha256": "5ef6a6dc083a604fc9d44c18c1936591496d49a6e6e172f9829d9e7669115912"
+    },
+    {
+      "name": "Tenchi o Kurau (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "2ce2e0e3",
+      "md5": "9a555abc2a68c1e3bdcbf2493d5e4341",
+      "sha1": "a2da4abdd24344a23901eff294cacd054bc791fe",
+      "sha256": "40f19e179b84a4a2576d678dd97d9d1dc0925ea848841e6b030ffecfa73a8367"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「天地を喰らう」は、あらゆるプラットフォームで展開された「三国志」の神話を舞台にしたNES用のロールプレイングゲームです。プレイヤーは、巨大なプールから最大5人の武将を選んでパーティを編成しますが、多くの武将は賄賂を渡したり、戦闘で打ち負かすことでのみ仲間になります。武将はそれぞれ一定数の兵士を持ち、これは実質的にヒットポイントとして機能します（例えば、司馬懿は4万人を率いており、張宝に攻撃されると5000人を失い、残りの兵力は3万5000人になります）。異なる勢力間の大規模な戦闘をシミュレートしようとしたNES初期のゲームの一つですが、当然ながら非常に限られた形での表現となっています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-05-19",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tenchi%20o%20Kurau%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tenchi%20o%20Kurau%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tenchi%20o%20Kurau%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tenchi%20o%20Kurau%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

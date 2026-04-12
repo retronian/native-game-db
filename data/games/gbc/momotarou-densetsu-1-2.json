@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-densetsu-1-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Densetsu 1-2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎伝説1→2 から",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Densetsu 1-2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "da7fb08f",
+      "md5": "88938327f7a5a8d11470d14d17f412b3",
+      "sha1": "acffa3417c85be574aa28432e29e1d40f28a565b",
+      "sha256": "7d0d8bdb9c52e381862277271e3e0fe474af69cf9ea92053147cdfb1de32785b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「桃太郎伝説」と「桃太郎伝説II」の二つの物語を楽しむことができます。「I」の蓋の開いた井戸に道具を入れると、「II」の冒険中にそれらを取り出して使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Momotarou%20Densetsu%201-2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Momotarou%20Densetsu%201-2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Momotarou%20Densetsu%201-2%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "livly-garden",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Livly Garden",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Livly Garden (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BLIJ",
+      "size": 67108864,
+      "crc32": "8d162a3d",
+      "md5": "d5608b7860525c34b1b7425072eebefd",
+      "sha1": "b503ca7b6922c9d88c7bf97b85d1daeebd5ed430"
+    }
+  ],
+  "external_ids": {
+    "igdb": 67735
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Livly%20Garden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Livly%20Garden%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

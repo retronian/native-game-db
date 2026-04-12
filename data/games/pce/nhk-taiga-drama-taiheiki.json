@@ -1,0 +1,68 @@
+{
+  "id": "nhk-taiga-drama-taiheiki",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "NHK Taiga Drama - Taiheiki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "NHK大河ドラマ 太平記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "NHK Taiga Drama - Taiheiki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "a32430d5",
+      "md5": "de11f469adcb4465b49743fd2f1e3250",
+      "sha1": "b7f407dc377a32f8b0d22dd3444405bc2e674741",
+      "sha256": "56b7c54ac2a262191467d54ac758ea00ad2303fd4e901628f9e9faea1826ecfb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37667
+  },
+  "descriptions": [
+    {
+      "text": "NHK大河ドラマ：太平記は、NHKのゲーム部門が出版したPCエンジン専用の戦略ゲームです。彼らは前年に、システム向けにテレビ番組「にこにこぷん」をアダプトした実績があります。\n\nこのゲームは、NHKの年に一度放送される1時間の歴史フィクションテレビ番組「大河ドラマ」の一つに基づいており、特に1991年のエピソード「太平記」に基づいています。この小説は14世紀に書かれ、1319年から1367年の間に起こった、吉野の後醍醐天皇の南朝と京都の足利尊氏の北朝との戦争を描いています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-01-31",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/NHK%20Taiga%20Drama%20-%20Taiheiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/NHK%20Taiga%20Drama%20-%20Taiheiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/NHK%20Taiga%20Drama%20-%20Taiheiki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

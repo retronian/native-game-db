@@ -1,0 +1,49 @@
+{
+  "id": "sonic-3",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sonic 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sonic 3 (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "MK-1079-00",
+      "size": 2097152,
+      "crc32": "6a632503",
+      "md5": "ab74fc7f42ce9b4a8f760d12cae69a2a",
+      "sha1": "2ff45bb056ede0f745e52f8d02c54b4ca724ca4c",
+      "sha256": "9a2a9a93cdb906628a9dafe6e0e16b2f5505498be12de46b43e69a60d291fc69"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Sonic%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Sonic%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Sonic%203%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "stick-hunter-exciting-ice-hockey",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Stick Hunter - Exciting Ice Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スティックハンター エキサイティングアイスホッケー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "スティックハンター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Stick Hunter - Exciting Ice Hockey (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "f08e8df4",
+      "md5": "0d50d49ee0ce8f29b87cf113e62ee582",
+      "sha1": "5bf609712874caf152481af19e86e8a68bedcce2",
+      "sha256": "93f5dae555fc1f5b14d919c7133258d7893ac7f6d2a228e2ca86bc8642ad9fed"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48618
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Stick%20Hunter%20-%20Exciting%20Ice%20Hockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Stick%20Hunter%20-%20Exciting%20Ice%20Hockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Stick%20Hunter%20-%20Exciting%20Ice%20Hockey%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "nanda-s-island",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Nanda's Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Nanda's Island (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BNDE",
+      "size": 33554432,
+      "crc32": "a909c2c1",
+      "md5": "8c8a7ab96e07c960cd11bf126944da25",
+      "sha1": "13584a763c2c41f05a387f4400fdc4e4fd3115ef"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48048
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Nanda%27s%20Island%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Nanda%27s%20Island%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

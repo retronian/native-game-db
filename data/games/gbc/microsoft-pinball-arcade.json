@@ -1,0 +1,77 @@
+{
+  "id": "microsoft-pinball-arcade",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Microsoft Pinball Arcade",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Microsoft Pinball Arcade (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "504f55c5",
+      "md5": "31f7a606b52e8d10fc010b4efe9fb514",
+      "sha1": "da4593edb37be892374e00d0174e45ff6301c907"
+    },
+    {
+      "name": "Microsoft Pinball Arcade (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "4eb7db14",
+      "md5": "49bc624c902fcb2e4892e5c823c987d0",
+      "sha1": "f2874f0f3023d96edbdb94e5c0dc181d8baa3efb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249159
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Microsoft%20Pinball%20Arcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Microsoft%20Pinball%20Arcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Microsoft%20Pinball%20Arcade%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Microsoft%20Pinball%20Arcade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Microsoft%20Pinball%20Arcade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Microsoft%20Pinball%20Arcade%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

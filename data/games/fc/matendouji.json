@@ -1,0 +1,68 @@
+{
+  "id": "matendouji",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Matendouji",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "魔天童子",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Matendouji (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "49e0a14e",
+      "md5": "c09acc30d011d453ebda3be2ffa47284",
+      "sha1": "bb29d7aa3873c49e2f0dc4c9aaf9302a5b2ae828",
+      "sha256": "2d257666936b6ca25c4f6c26f1a12719f996b428a507943e7437ed5b32a0ec4f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 215140
+  },
+  "descriptions": [
+    {
+      "text": "昔々、クリスタルパレスは繁栄した王国でしたが、ある日悪の戦霊ザラスが現れ、土地に破壊をもたらしました！クリスタルパレスの人々はザラスとその手下たちが支配するようになり、王国は多くの危険が潜む迷路に変わってしまいました。あなたは物語の主人公ファロンを操作し、クリスタルパレスに入り、悪党たちを倒して平和を取り戻す必要があります。このゲームは横スクロールと縦スクロールのアクションプラットフォームゲームです。5つのステージそれぞれで、さまざまな敵と戦い、多様な地形を進んでいき、最後にはボスを倒さなければなりません。最初はシンプルな剣しか持っていませんが、追加の武器を見つけたり購入したりすることで助けを得ることができます。もし困ったことがあれば、犬のザップを画面に呼び出すこともできます。彼はジャンプして敵にダメージを与え、あなたに逃げるチャンスを与えてくれます。また、旅の途中でキムのショップに出会うこともあるでしょう。ここでは、追加のライフや健康の回復、より強力な武器、その他の便利なアイテムを購入することができます。アイテムを購入するには、戦闘で敵を倒した後に集めたお金が必要です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Matendouji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Matendouji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Matendouji%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

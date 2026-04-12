@@ -1,0 +1,65 @@
+{
+  "id": "greatest-nine",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Greatest Nine",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "グレイテストナイン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Greatest Nine (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AG9J",
+      "size": 8388608,
+      "crc32": "379e64d7",
+      "md5": "83c4994b6edb5ace03864f96ddeb54af",
+      "sha1": "3dcae687a828663429b424cd54aa5a776cddabe5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "セガとTHQがタッグを組み、GBAに野球をお届けします。シーズン、オールスター、プレイオフ、エキシビションモードを搭載し、メジャーリーグベースボールの現行チームと選手から選ぶことができます。また、フェンウェイパーク、セーフコフィールド、ウィンリーフィールド、パシフィックベルパークの4つの球場から選択可能です。\n\nゲームのバッティングとピッチング要素は、バッターの背後からの3人称視点カメラで表示されます。一方、フィールディングは上からの視点でプレイされ、フィールドをはっきりと見ることができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2002-08-08",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Greatest%20Nine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Greatest%20Nine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Greatest%20Nine%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

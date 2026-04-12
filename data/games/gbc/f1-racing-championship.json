@@ -1,0 +1,70 @@
+{
+  "id": "f1-racing-championship",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F1 Racing Championship",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "93a9789f",
+      "md5": "c38509b681a7f16ad7831ba1f2fa6e31",
+      "sha1": "ea844051c0b5c6f9a6a8c472f4f67ee6b9b3d8e7",
+      "sha256": "4ab779981c8f0c5a7025a485b46804561df614214e698ee362f6a3b769649720"
+    },
+    {
+      "name": "F1 Racing Championship (USA) (En,Fr,De,Es,It) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 4194304,
+      "crc32": "9ec98cab",
+      "md5": "54df933576a8b8ca991b3ac9b6a1ad61",
+      "sha1": "83f1791b5fc7d7e589c105d87a14abb8087edaed",
+      "sha256": "d52b98487bcd314b8ea94622ed770062b02a2c687107594788aa63e9d17f84ce"
+    },
+    {
+      "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 4194304,
+      "crc32": "e115ddb1",
+      "md5": "a7d2695b3ddc268389e36f916815f96d",
+      "sha1": "e9616a53ab9474c0bb85451ff19b62bed9e7f1a4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 249118
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/F1%20Racing%20Championship%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

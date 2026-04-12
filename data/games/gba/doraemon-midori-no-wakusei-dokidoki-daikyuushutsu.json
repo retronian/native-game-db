@@ -1,0 +1,66 @@
+{
+  "id": "doraemon-midori-no-wakusei-dokidoki-daikyuushutsu",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doraemon - Midori no Wakusei Dokidoki Daikyuushutsu!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラえもん 緑の惑星 ドキドキ大救出！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doraemon - Midori no Wakusei Dokidoki Daikyuushutsu! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ADRJ",
+      "size": 8388608,
+      "crc32": "95565762",
+      "md5": "8734c1f1bb86042c40696786825181eb",
+      "sha1": "5a466592df316a1d37432dedcf456098d18bccaa",
+      "sha256": "06ae24d11a9b69e64231619df64f9c00e709b33d47ef2d635cb7fae818cf9002"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "異なる能力を持つ5人のキャラクター（ドラえもんやのび太など）を交代で操作し、全6ステージをクリアしよう。4人のプレイヤーが通信ケーブルを使って協力プレイが可能だ。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-04-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Doraemon%20-%20Midori%20no%20Wakusei%20Dokidoki%20Daikyuushutsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Doraemon%20-%20Midori%20no%20Wakusei%20Dokidoki%20Daikyuushutsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Doraemon%20-%20Midori%20no%20Wakusei%20Dokidoki%20Daikyuushutsu%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "my-baby-first-steps",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "My Baby - First Steps",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "My Baby 2: My Baby Grew Up",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "My Baby - First Steps (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BB2E",
+      "size": 67108864,
+      "crc32": "7373f434",
+      "md5": "e267770bd8ca0a420ff28b130fe01cd5",
+      "sha1": "96fe60ffa4144497aeeabdaeaa2a2958e3cf45ca"
+    }
+  ],
+  "external_ids": {
+    "igdb": 144073
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/My%20Baby%20-%20First%20Steps%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/My%20Baby%20-%20First%20Steps%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

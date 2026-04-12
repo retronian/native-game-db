@@ -1,0 +1,78 @@
+{
+  "id": "duel-masters-2-invincible-advance",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Duel Masters 2 - Invincible Advance",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デュエル・マスターズ2 〜インビンシブル・アドバンス〜",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "Duel Masters 2 インビンシブル・アドバンス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Duel Masters 2 - Invincible Advance (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BD2J",
+      "size": 8388608,
+      "crc32": "4a7de98e",
+      "md5": "1f739df174644981268f67efbca5dab8",
+      "sha1": "916c978dff1306e474758bf3cf070efd617dc825",
+      "sha256": "915fada793849b6b4365ef19420a3d5a4417bea193913364e4247ef5b5b2d721"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49584
+  },
+  "descriptions": [
+    {
+      "text": "シリーズの第2作。カードからクリーチャーを召喚して戦います。このタイトルには約500枚のカードが含まれています。通信ケーブルを使用すれば、対戦やカードの交換が可能です。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2004-03-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Duel%20Masters%202%20-%20Invincible%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Duel%20Masters%202%20-%20Invincible%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Duel%20Masters%202%20-%20Invincible%20Advance%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

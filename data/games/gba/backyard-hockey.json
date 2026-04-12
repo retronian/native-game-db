@@ -1,0 +1,51 @@
+{
+  "id": "backyard-hockey",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backyard Hockey",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backyard Hockey (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BYHE",
+      "size": 4194304,
+      "crc32": "3a8e31af",
+      "md5": "ce57edc0645572af5244e3e24b586133",
+      "sha1": "4829aa329e21d9c4822c3df66426b59a7690baa4"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49244
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Backyard%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Backyard%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Backyard%20Hockey%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

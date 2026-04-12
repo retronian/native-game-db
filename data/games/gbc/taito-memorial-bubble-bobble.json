@@ -1,0 +1,64 @@
+{
+  "id": "taito-memorial-bubble-bobble",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Taito Memorial - Bubble Bobble",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "タイトーメモリアル Bubble Bobble バブルボブル",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Taito Memorial - Bubble Bobble (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "388c6760",
+      "md5": "b59fa772b15a07f44110d5b7aa24b424",
+      "sha1": "6a30d328417e085dcd10588d0a5af90ff4bfa40d"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "ブルー・ダイノが病気になってしまい、グリーン・ダイノが治療法を見つけることになりました。基本的にはクラシックなアーケードタイトルのリメイクですが、2人プレイの機能はありません。\n\nゲームの目的は、ダイノのバブル能力を使って悪者を捕まえて弾けさせ、彼らの攻撃を避けながらレベルをクリアすることです。その途中でボーナスアイテムを集めます。敵を弾けさせると、ボーナスポイントのために果物に変わります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-05-26",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Taito%20Memorial%20-%20Bubble%20Bobble%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Taito%20Memorial%20-%20Bubble%20Bobble%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Taito%20Memorial%20-%20Bubble%20Bobble%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

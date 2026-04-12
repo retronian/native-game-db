@@ -1,0 +1,69 @@
+{
+  "id": "majaventure-mahjong-senki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Majaventure - Mahjong Senki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀アドベンチャー 麻雀戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "まじゃべんちゃー 麻雀戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Majaventure - Mahjong Senki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "79a80ae0",
+      "md5": "da73b9d4cfe7df545e2ca8d883a3262d",
+      "sha1": "5458efbcb56e5a20545c87627df55bbe59cb85e1",
+      "sha256": "50acec919df2d616cab5d8d43a4c95c41287d576426c9a70f6df9ac492234a7f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48785
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Majaventure%20-%20Mahjong%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Majaventure%20-%20Mahjong%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Majaventure%20-%20Mahjong%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

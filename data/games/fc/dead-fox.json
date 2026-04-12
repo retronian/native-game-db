@@ -1,0 +1,75 @@
+{
+  "id": "dead-fox",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dead Fox",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "デッドフォックス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dead Fox (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "95a79de2",
+      "md5": "745f81e6fdc5b23c6284120ce5f6f49e",
+      "sha1": "4469cb270017d6f6319385e0a1fc5abcad2c69d1",
+      "sha256": "e7cae059c8c72dce1f5b7aa30368b319162606bcc612c74a9a74341ca00dbf90"
+    },
+    {
+      "name": "Dead Fox (Japan) (Sample)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "7b5fca19",
+      "md5": "a0d85ac51e27dca738a57cdb12f4301c",
+      "sha1": "daba46412d43471e8e1492c5438ea629439a34c5",
+      "sha256": "72f382de9ae773a9ea3c2b73ff1cf5c7e4c1626b90614f74ffb52e0d5c71c30e"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "1980年代後半から1990年代初頭の麻薬戦争を背景にした「コードネーム：バイパー」は、南アメリカにある麻薬カルテルの拠点に直接立ち向かいます。あなたはアメリカの秘密エージェントとなり、カルテルの麻薬基地や豪邸に潜入し、人質や情報提供者を救出し、首謀者が誰であるかの手がかりを集め、最終的には彼を倒すことが求められます。ゲームが進むにつれて、標準的なNESの横スクロール形式で、ますます強力な武器を装備していきましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dead%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dead%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dead%20Fox%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

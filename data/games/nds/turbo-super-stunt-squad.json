@@ -1,0 +1,64 @@
+{
+  "id": "turbo-super-stunt-squad",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Turbo - Super Stunt Squad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Turbo - Super Stunt Squad (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "TLSE",
+      "size": 16777216,
+      "crc32": "0631170f",
+      "md5": "4c61fd3a8a4e69bdc57ba8e66fc71b17",
+      "sha1": "24b47dbc49b72ad989abc70ab75861a6f4342ee1"
+    },
+    {
+      "name": "Turbo - Super Stunt Squad (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "TLSP",
+      "size": 33554432,
+      "crc32": "28330a4f",
+      "md5": "ade28f1d725f794fb470f6a9781994e0",
+      "sha1": "7d94feeeace0b4ac586672c8bfcfcafa9a4a584c"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Turbo%20-%20Super%20Stunt%20Squad%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Turbo%20-%20Super%20Stunt%20Squad%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

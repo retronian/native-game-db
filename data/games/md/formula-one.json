@@ -1,0 +1,61 @@
+{
+  "id": "formula-one",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Formula One",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "F1",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Formula One (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-088066-00",
+      "size": 1048576,
+      "crc32": "ccd73738",
+      "md5": "7247829ab401477e4141e5f5b3077f0c",
+      "sha1": "8f8edd8e6846cbba1b46f8eb9015b195ccc4acf9",
+      "sha256": "b71858f50eb126d96fc702cc48c1f9f7ae1b2404a61a7e8960fe3fcb5b58fc63"
+    }
+  ],
+  "external_ids": {
+    "igdb": 12082
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Formula%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Formula%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Formula%20One%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

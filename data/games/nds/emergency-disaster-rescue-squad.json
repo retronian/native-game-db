@@ -1,0 +1,60 @@
+{
+  "id": "emergency-disaster-rescue-squad",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Emergency! - Disaster Rescue Squad",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Emergency",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Emergency! - Disaster Rescue Squad (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CIQE",
+      "size": 33554432,
+      "crc32": "a208af83",
+      "md5": "dd90cb9ec3355de1226707e7c8c4548c",
+      "sha1": "e84886c7c2d48d3e266e11fc5a795f993ac146b9"
+    }
+  ],
+  "external_ids": {
+    "igdb": 339374
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Emergency%21%20-%20Disaster%20Rescue%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Emergency%21%20-%20Disaster%20Rescue%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Emergency%21%20-%20Disaster%20Rescue%20Squad%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

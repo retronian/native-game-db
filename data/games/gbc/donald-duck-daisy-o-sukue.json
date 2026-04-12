@@ -1,0 +1,64 @@
+{
+  "id": "donald-duck-daisy-o-sukue",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donald Duck - Daisy o Sukue!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドナルドダック デイジーを救え!",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donald Duck - Daisy o Sukue! (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 4194304,
+      "crc32": "333c124c",
+      "md5": "cd4ca93b289aa0d7ef6a26b848e5e06a",
+      "sha1": "46ecfe890cb225563bcd45f8607962840b5fd587"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "この3Dプラットフォームアクションゲームでは、ドナルドを操作します。ドナルドのガールフレンドであるデイジーは、ダックバーグのテレビ局のリポーターです。恐ろしい魔法使いマーリックの秘密の寺院に関するストーリーを取材中、デイジーが誘拐されてしまいます。今、デイジーを取り戻すのはドナルドの役目です。途中で、彼は甥のヒューイ、デューイ、ルーイや発明家のジャイロ・ギアロースから助けを受けます。また、デイジーを救おうとするグラッドストーン・ギャンダーとの競争もあります。\n\nゲームプレイは、横スクロールのランニングとジャンプ、そして3Dのランニングとジャンプが交互に展開されます。横スクロールのレベルは、『スーパーマリオブラザーズ』シリーズに似たプレイ感覚です。3Dのレベルは、『クラッシュ・バンディクー』シリーズに近いものとなっています。全体で、さまざまなエリアに広がる20のレベルがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-12-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Donald%20Duck%20-%20Daisy%20o%20Sukue%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Donald%20Duck%20-%20Daisy%20o%20Sukue%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Donald%20Duck%20-%20Daisy%20o%20Sukue%21%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

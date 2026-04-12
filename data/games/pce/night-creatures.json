@@ -1,0 +1,51 @@
+{
+  "id": "night-creatures",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Night Creatures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Night Creatures (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 524288,
+      "crc32": "c159761b",
+      "md5": "e658e63f886560e9c388e2a9ee2eb349",
+      "sha1": "16c4b43f92f5bc6c99fe84f71daff76cf1c0d0a6",
+      "sha256": "77f63df136c60517bef370e352bb30b0ec0a0385cdae629ef9a74e2958e922fa"
+    }
+  ],
+  "external_ids": {
+    "igdb": 42103
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Night%20Creatures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Night%20Creatures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Night%20Creatures%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

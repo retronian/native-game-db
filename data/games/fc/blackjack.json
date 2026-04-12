@@ -1,0 +1,52 @@
+{
+  "id": "blackjack",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Blackjack",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 131076
+  },
+  "first_release_date": "2005-12-31",
+  "roms": [
+    {
+      "name": "Blackjack (USA) (Unl)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 65552,
+      "crc32": "724a99d3",
+      "md5": "fcc77168f688b8b7a6d3d641d6dbe224",
+      "sha1": "5ad4c1e2ce95ea44a1919d6a11e96227f74eaf0a",
+      "sha256": "de0d08a054f06fc0a43709ee0b652aa99af06b566b53ff14ba897839dc33f65b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Blackjack%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Blackjack%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Blackjack%20%28USA%29%20%28Unl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

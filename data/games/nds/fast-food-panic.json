@@ -1,0 +1,84 @@
+{
+  "id": "fast-food-panic",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Fast Food Panic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "匠レストランは大繁盛！",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Takumi Restaurant wa Daihanjou!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Fast Food Panic (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CFJP",
+      "size": 33554432,
+      "crc32": "4beefb6a",
+      "md5": "e5721364a3f81d7ee06e3ddbb6ca6926",
+      "sha1": "fd3592a294ea4ffd49a20a788bbfeb3d587ccaf8"
+    },
+    {
+      "name": "Fast Food Panic (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CFJE",
+      "size": 33554432,
+      "crc32": "99dcc9b3",
+      "md5": "903a6bbd67d23150aff0b4b7170bfcdf",
+      "sha1": "8b7cd86b496989e9baf419f790c83ed19f36d284"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50631
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fast%20Food%20Panic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fast%20Food%20Panic%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Fast%20Food%20Panic%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Fast%20Food%20Panic%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "picross-np-vol-3",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Picross NP Vol. 3",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピクロスNP Vol.3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ピクロス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    },
+    {
+      "text": "ピクロス NP Vol.3",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Picross NP Vol. 3 (Japan) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "23fc2bfc",
+      "md5": "054ecba340b1e525bf276031c46f5421",
+      "sha1": "45c5ea60180d3ae6d550c16192af15a872a57623",
+      "sha256": "3451017eb3efe41aa8f0d54fbabb711a0c131c8f5513c7730491d9b04a930fa1"
+    },
+    {
+      "name": "Picross NP Vol. 3 (Japan) (Rev 1) (NP)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "717243e7",
+      "md5": "8c03f2bb64627ed688036d6c31e4f609",
+      "sha1": "456d8a187edd2f35731f58656b94fcaf65daae40",
+      "sha256": "9a2e302aedcd186011ea24f70c2a5f4d77d1ea186cf2a5b136fbd71e72f75648"
+    }
+  ],
+  "external_ids": {
+    "igdb": 148428
+  },
+  "descriptions": [
+    {
+      "text": "スーパーファミコンの「マリオのスーパーピクロス」の成功を受けて、任天堂はそのゲームの基本エンジンを再利用し、日本のサテラビューシステムで配信するための任天堂パワーブランドのピクロスシリーズを開発することに決めました。このシリーズは、1999年4月から2000年6月までの間に隔月で合計8巻がリリースされました。各巻には、さまざまなサイズと難易度のパズルが多数含まれています。これらのパズルの多くは後に「ピクロスDS」のダウンロードコンテンツとして再リリースされました。タイトルのパズル解決のゲームプレイは、前作「マリオのスーパーピクロス」とほぼ同じですが、プレゼンテーションに若干の変更があります。特に、マリオとワリオはゲームモードのガイドとしては登場せず、以前のタイトルにあった石を彫る考古学者のモチーフは、シンプルなペンと紙のスタイルに変更されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-08-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%203%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%203%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%203%20%28Japan%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Picross%20NP%20Vol.%203%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Picross%20NP%20Vol.%203%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Picross%20NP%20Vol.%203%20%28Japan%29%20%28Rev%201%29%20%28NP%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

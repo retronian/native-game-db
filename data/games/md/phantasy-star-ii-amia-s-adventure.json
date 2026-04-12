@@ -1,0 +1,77 @@
+{
+  "id": "phantasy-star-ii-amia-s-adventure",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Phantasy Star II - Amia's Adventure",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ファンタシースターII テキストアドベンチャー アーミアの冒険",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 175510,
+      "crc32": "b1e01b9f",
+      "md5": "7ab695a46f2f70b19101b0f58141b93c",
+      "sha1": "d18975c74b5095c9f8c5255fd73ff652a6bac8d9",
+      "sha256": "a526630aff5cb0b37b5fa12be3c0a632079eac19bfecad11382e8ed273e2bd7c"
+    },
+    {
+      "name": "Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "00054503-00",
+      "size": 262144,
+      "crc32": "a3a724aa",
+      "md5": "76cb3b2ec8b827ec9288d28bc8d0cd3b",
+      "sha1": "08c6beab6f02ad533fb814a8a877849da67fc1a4",
+      "sha256": "747e3662e3bacc03755ea1defde2734066b4a9db5e13f9645f0ce5b4255afddd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは、「ファンタシースターII」の物語が続く前のキャラクターたちの生活を描いた8つのテキストアドベンチャーの1つです。この特定のゲームでは、カウンターハンターであるアンナ・ジルスキーが主人公です。カウンターハンターは、犯罪者となったハンターを追跡し逮捕します。アンナは、モタビアンの町にひきこもっている犯罪者を捕まえる任務を負っています。これらの犯罪者は、地域の食料生産を妨害するためにマザーブレインに不正アクセスしたとして告発されています。アンナは、これらのハッカーを阻止しなければなりません。\n\nゲームプレイは、さまざまな場所を探索し、他のキャラクターと会話をして手がかりを得るために周囲を見回し、問題を解決するために使用するアイテムを探すことから成り立っています。 \n\n拾えるアイテムの中には、戦闘中に武器として使用できるものもあります。戦闘中は、プレイヤーの武器の攻撃力がランダムなサイコロの出目によって掛け算され、攻撃の強さが決まります。同じルールが敵の攻撃にも適用されます。戦闘の目的は、敵のHPをすべて削り取ることです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-01-01",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Phantasy%20Star%20II%20-%20Amia%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Phantasy%20Star%20II%20-%20Amia%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Phantasy%20Star%20II%20-%20Amia%27s%20Adventure%20%28Japan%29%20%28Game%20no%20Kanzume%20Vol.%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

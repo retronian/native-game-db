@@ -1,0 +1,68 @@
+{
+  "id": "peepar-time",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Peepar Time",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ピーパータイム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Peepar Time (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 49168,
+      "crc32": "f82b6105",
+      "md5": "9e3fae30370ad0c93d9613393fceb17e",
+      "sha1": "37f4be04d885c4483ba202d73306ac5c2dcc3498",
+      "sha256": "4b340e02d00016f80d8da6b101fd4dd87c8caf3f52caa184fce8e902c3326e08"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48831
+  },
+  "descriptions": [
+    {
+      "text": "ピーパータイムは、ゲームボーイのゲーム「ブロディア」に似ています。あなたは、4方向、3方向、または2方向のタイルを走り回る奇妙な跳ねる機械を操作します。タイルから水に落ちると負けです。行き止まりにぶつかると跳ね返ります。敵にぶつかると負けです。あなたのキャラクターは、60マスを移動するのに十分な油の缶を持っています。それを油で充電したり、ポイントのために金を見つけたりできます。最終的な目標は、鍵を見つけてレベルの終わりにあるテントに到達することです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-08-10",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Peepar%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Peepar%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Peepar%20Time%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

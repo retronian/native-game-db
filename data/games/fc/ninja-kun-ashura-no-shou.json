@@ -1,0 +1,68 @@
+{
+  "id": "ninja-kun-ashura-no-shou",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Ninja-kun - Ashura no Shou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "忍者くん 阿修羅ノ章",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Ninja-kun - Ashura no Shou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "8553f657",
+      "md5": "97a5cf2b0756602028069ddcec6299c3",
+      "sha1": "ec8c841b374c30600e1cb4923a5d701310d286ec",
+      "sha256": "ad037315548420ed463d271ae08225fa8b04f1861d8070201d1e4cc5def103e5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 230290
+  },
+  "descriptions": [
+    {
+      "text": "「阿修羅ノ章」は、忍者くんの基本的なゲームプレイを拡張し、新しい探索の概念を導入しています。プレイヤーは、分岐するレベルや大きな敵、ボスバトルを含む31のアクションステージをクリアする挑戦に挑むことになります。このゲームはMSXに移植され、HAL研究所から発売されました。また、1988年にはファミコンにも移植されました。NES向けに「ニンジャタロウ」という名前でのアメリカでのリリースが計画されましたが、最終的にキャンセルされました。ファミコン版は2009年に日本のWiiバーチャルコンソールでリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1988-05-27",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Ninja-kun%20-%20Ashura%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Ninja-kun%20-%20Ashura%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Ninja-kun%20-%20Ashura%20no%20Shou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

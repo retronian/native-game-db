@@ -1,0 +1,59 @@
+{
+  "id": "saikyou-ginsei-mahjong",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saikyou Ginsei Mahjong",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "最強銀星麻雀",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saikyou Ginsei Mahjong (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 32806928,
+      "crc32": "3132083e",
+      "md5": "96e305c32dc418697b99ab71bc86711e",
+      "sha1": "c6e49034772b5b44c6d189fd3c849b77f1243f88"
+    }
+  ],
+  "external_ids": {
+    "igdb": 83473
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Saikyou%20Ginsei%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Saikyou%20Ginsei%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Saikyou%20Ginsei%20Mahjong%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

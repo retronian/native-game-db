@@ -1,0 +1,89 @@
+{
+  "id": "kung-zhu",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kung Zhu",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kung Zhu (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3KP",
+      "size": 16777216,
+      "crc32": "eb95a3c4",
+      "md5": "bfe79037322eab77aa0b8fb5bad5b58a",
+      "sha1": "28d46eab39016f6a255a4fe849836c300c5572f8"
+    },
+    {
+      "name": "Kung Zhu (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B3KE",
+      "size": 16777216,
+      "crc32": "8c2905ab",
+      "md5": "ba450ecaefffb7e799f7f7f924544523",
+      "sha1": "3d397485460309c94456df5043c0f74ede40a757"
+    },
+    {
+      "name": "Kung Zhu (Europe) (En,Fr,De,Es,It) (Rev 1)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B3KP",
+      "size": 16777216,
+      "crc32": "0f7ec15a",
+      "md5": "2396fd7f9be8476587f95ad29fb4b7d7",
+      "sha1": "22486be0269d67e838615d4ed138372bf0cbf35d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47782
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Zhu%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Zhu%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Zhu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Zhu%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Kung%20Zhu%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Kung%20Zhu%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "gekisou-dangun-racer-onsoku-buster-dangun-dan",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Gekisou Dangun Racer - Onsoku Buster Dangun Dan",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "激走 ダンガンレーサー 音速バスターDangun弾",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "激走!ダンガンレーサー 音速バスターDANGUN弾",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Gekisou Dangun Racer - Onsoku Buster Dangun Dan (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "06fccefc",
+      "md5": "19dfb14a0d31742f02bfa101d5054169",
+      "sha1": "0b9c99a614d31cc0cb4047deeee6de76b64a5f8b"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このゲームは人気の「ダンガンレーサー」ホビーを基にしています。マシンやパーツを購入し、カスタマイズして、チャンピオンシップで勝利を目指しましょう。ゲームボーイ版にはオリジナルパーツもあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-10-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Gekisou%20Dangun%20Racer%20-%20Onsoku%20Buster%20Dangun%20Dan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Gekisou%20Dangun%20Racer%20-%20Onsoku%20Buster%20Dangun%20Dan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Gekisou%20Dangun%20Racer%20-%20Onsoku%20Buster%20Dangun%20Dan%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "backstreet-billiards",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Backstreet Billiards",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "キャロムショット2",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Carom Shot 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Kyaromu Shotto 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Backstreet Billiards (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 342688800,
+      "crc32": "4fe50863",
+      "md5": "f7bbb5e5cb949e1b71197cfb98d252cf",
+      "sha1": "9a14cc1bef13995d282bc623b409b73a9fb3562f",
+      "sha256": "a8b2781c5f195b00b3414f4d8b0d9caccbbfdc85aec2434cfa621b7ff80e0d4d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 94359
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Backstreet%20Billiards%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Backstreet%20Billiards%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Backstreet%20Billiards%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

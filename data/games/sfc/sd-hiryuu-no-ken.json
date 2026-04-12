@@ -1,0 +1,60 @@
+{
+  "id": "sd-hiryuu-no-ken",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Hiryuu no Ken",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SD飛龍の拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Hiryuu no Ken (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "323438eb",
+      "md5": "7eaae4829e2d938d34f8c1032ed6bd4b",
+      "sha1": "164aeaabc62910736f58449b58fe1ba231b63ccf",
+      "sha256": "743a2b818952fd291153579b77c963cf73027b3e193f25c6cc2a655ef6664140"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38322
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Hiryuu%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/SD%20Hiryuu%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Hiryuu%20no%20Ken%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

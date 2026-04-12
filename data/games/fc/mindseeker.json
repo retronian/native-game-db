@@ -1,0 +1,68 @@
+{
+  "id": "mindseeker",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mindseeker",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "マインドシーカー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mindseeker (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "a4a96b38",
+      "md5": "346a0b847a7ace70a7f443198ab7abfa",
+      "sha1": "9701830b9827b7fccaa7888452c27fdea43b38ed",
+      "sha256": "877719708a73026ecc4c801be740e1464c3dd9202af8aa0186fbb1ceb219202b"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48427
+  },
+  "descriptions": [
+    {
+      "text": "マインドシーカーは、ナムコが制作したアドベンチャーゲームで、プレイヤーの超感覚的知覚と潜在的な超能力を試します。日本のテレビの超能力者、キヨタ マスアキが登場し、彼はイスラエルの超能力者ウリ・ゲラーに似たスプーン曲げのパフォーマンスで母国で知られています。\n\nプレイヤーは「フィール」と「エグジット」の2つのコマンドを使って世界を探索します。エグジットはプレイヤーキャラクターを新しいエリアに移動させるだけですが、フィールはプレイヤーが世界のさまざまな物体や人々と相互作用する方法です。ゲームの目的上、「フィール」という用語は「感知する」と同義です。また、プレイヤーはゲーム開始時に自分の名前を入力することもできます。アドベンチャーゲームの要素に加えて、ゲームの多くはプレイヤーの超能力を試すために設計されたミニゲームをプレイすることに関わっています。例えば、プレイヤーが次にどのシンボルが現れるかを推測するカードゲームなどがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1989-04-18",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mindseeker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mindseeker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mindseeker%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

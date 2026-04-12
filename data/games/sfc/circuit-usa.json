@@ -1,0 +1,77 @@
+{
+  "id": "circuit-usa",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Circuit USA",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "サーキット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "サーキットUSA",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Circuit USA (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "5a13366c",
+      "md5": "8de0dafb21a7b1b92d13e956bfcab124",
+      "sha1": "af6fa1e5ee95df9353ece8c5a90735785de88b99",
+      "sha256": "9b77d494d6c43953f4fd0c8bb7769cf0ecee0179a586730383632d4dd91751c8"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281556
+  },
+  "descriptions": [
+    {
+      "text": "カイル・ペティの「ノー・フィア・レーシング」では、プレイヤーは28種類のストックカー・トラックでレースを楽しむことができ、各車両には独自の外観、強み、弱みを持つカスタマイズ可能な車が豊富に用意されています。プレイモードは3種類あります。シングルレースでは、プレイヤーが車とトラックを選び、コンピューターの対戦相手と一度だけレースを行います。シーズンモードでは、全トラックでのシーズンを通じて競い合い、賞金を獲得して車のパーツを購入し、アップグレードすることができます。パーツを変更して性能を最大化したり、ギア比、スポイラーの高さ、タイヤの圧力などを調整することも可能です。\n\nまた、スプリットスクリーンを利用した2人対戦のオプションも用意されています。\n\nさらに、トラックエディターが搭載されており、プレイヤーは自分の理想のトラックを作成し、コンピューターの対戦相手や友人とレースを楽しむことができます。\n\nゲームは見た目やスタイルにおいてNASCARを意識していますが、NASCARの正式ライセンスは取得していません。しかし、NASCARドライバーのカイル・ペティ（NASCARの伝説的存在リチャード・ペティの息子であり、NASCARの先駆者リー・ペティの孫）の肖像と承認は含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1995-06-30",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Circuit%20USA%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Circuit%20USA%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Circuit%20USA%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

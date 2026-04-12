@@ -1,0 +1,58 @@
+{
+  "id": "spartan-x",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Spartan X",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スパルタンX",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Spartan X (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 40976,
+      "crc32": "1a32121d",
+      "md5": "417d9efa6be9bd3c27ec355f249921cd",
+      "sha1": "314fa92d251096f02c2d8488b56d9620e7bb58f4",
+      "sha256": "856a43809432c8229989f31eed5658021bbc2213b47a1473796248628c903b9f"
+    }
+  ],
+  "external_ids": {
+    "igdb": 214467
+  },
+  "first_release_date": "1985-06-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Spartan%20X%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

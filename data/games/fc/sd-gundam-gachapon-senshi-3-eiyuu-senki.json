@@ -1,0 +1,65 @@
+{
+  "id": "sd-gundam-gachapon-senshi-3-eiyuu-senki",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "SD Gundam - Gachapon Senshi 3 - Eiyuu Senki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "SDガンダム ガチャポン戦士3 英雄戦記",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "SD Gundam - Gachapon Senshi 3 - Eiyuu Senki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "6b688852",
+      "md5": "7de34ee40cb4230f88d551e4fc496523",
+      "sha1": "6f8104ff33ff68abac77ccade56485021920f6cb",
+      "sha256": "ec0e9c57a927177861c42721afe93d851eb805d289c186803892916ebe664c29"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "アニメ「機動戦士ガンダム」を基にしたシリーズのビデオゲームで、スーパーデフォルメガンダムが登場します。これは全5作のうちの第3作目です。\n\nゲームモードは主に2つ、シミュレーションモードとバトルモードがあります。\nシミュレーションモードではユニットを生産し、移動させ、ゾーンを占拠することができます。\nバトルモードでは、ユニットを敵ユニットに攻撃するために発進させることができます。\n\nユニットは4種類あり、それぞれ地上、宇宙、戦国伝、外伝のステージに対応しています。各ステージには10のシナリオがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-12-22",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/SD%20Gundam%20-%20Gachapon%20Senshi%203%20-%20Eiyuu%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/SD%20Gundam%20-%20Gachapon%20Senshi%203%20-%20Eiyuu%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/SD%20Gundam%20-%20Gachapon%20Senshi%203%20-%20Eiyuu%20Senki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

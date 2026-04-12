@@ -1,0 +1,58 @@
+{
+  "id": "bakuretsu-muteki-bangaioh",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bakuretsu Muteki Bangaioh",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "爆裂無敵 バンガイオー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bakuretsu Muteki Bangaioh (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "NBNJ",
+      "size": 12582912,
+      "crc32": "6ab7fec6",
+      "md5": "8107825ac2a522057422463ed81e276b",
+      "sha1": "2dbfe78f97b8d6e1a33b73d244be831d18b0491e",
+      "sha256": "60f0117bd8e48f8049a72f5b8bd0957f08282f2b687f0a1fea71f4597dfd4c4a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Bakuretsu%20Muteki%20Bangaioh%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Bakuretsu%20Muteki%20Bangaioh%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Bakuretsu%20Muteki%20Bangaioh%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

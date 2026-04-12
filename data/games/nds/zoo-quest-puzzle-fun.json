@@ -1,0 +1,58 @@
+{
+  "id": "zoo-quest-puzzle-fun",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zoo Quest - Puzzle Fun!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zoo Quest - Puzzle Fun! (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CCZE",
+      "size": 8388608,
+      "crc32": "99feb035",
+      "md5": "cbd4eaa812d045a085c6dbe1a906a6a7",
+      "sha1": "28a4b0d21dec0409f46f427f87f58f8a61b047f9"
+    },
+    {
+      "name": "Zoo Quest - Puzzle Fun! (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Hu)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CCZP",
+      "size": 8388608,
+      "crc32": "1568c88f",
+      "md5": "05ab7100848136eb2a77086bc21858a3",
+      "sha1": "c08cee3bc5f185a50215db1a6b64dbc36b31d83a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Quest%20-%20Puzzle%20Fun%21%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zoo%20Quest%20-%20Puzzle%20Fun%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CHu%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zoo%20Quest%20-%20Puzzle%20Fun%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%2CHu%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

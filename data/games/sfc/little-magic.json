@@ -1,0 +1,124 @@
+{
+  "id": "little-magic",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Little Magic",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "リトル・マジック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Little Magic (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "9654194d",
+      "md5": "0c0fe140c1851b2d80148118f1de9b02",
+      "sha1": "60794dfdebaf4a3f2295b388f02ce605e7de8231",
+      "sha256": "52dbfdaca87debdf181b87d55192b0f8dd07e8aeb43afa4b04df16d44ec998e5"
+    },
+    {
+      "name": "Little Magic (Europe) (Proto)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 524288,
+      "crc32": "59059d83",
+      "md5": "781258044fde962357232be69e845e34",
+      "sha1": "7ced82ff061dd5a7ee9e35b67fba068b78754120",
+      "sha256": "8a32bc560923f1d9718912cbefe4a42f37f326ceff58d7ba4fcb9a0e16eef807"
+    },
+    {
+      "name": "Little Magic (Japan) (Beta)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "0e201e8f",
+      "md5": "fd2f923abb68e32350694ec5ae159289",
+      "sha1": "8b607f785e9ab15dddb3bb572d494bd79b15cce0",
+      "sha256": "7b6f120274268978bc5319a972596063915a94573b1a58693b5459bc9104fa49"
+    }
+  ],
+  "external_ids": {
+    "igdb": 38383
+  },
+  "descriptions": [
+    {
+      "text": "メイは魔法学校の見習い魔法使いで、最終試験に合格しなければなりません。\n\n上から見下ろす視点でプレイするパズルゲームです。各レベルの目標は、魔法の石を指定された場所に押して出口を開くことです。メイは自分自身を動かさずに、1マス先の物体を押すこともできます。これは、メイが渡れない水の上に石を移動させるために使われることがよくあります。メイのもう一つの能力は、魔法のバブルを作ることです。彼女は3つの異なるサイズのバブルを作ることができ、バブルはサイズに応じて一定の時間が経過すると弾けます。バブルが石や別のバブルの隣で弾けると、石やバブルは1マス移動します。メイは同時にいくつかのバブルを作ることができるため、石を望ましい位置に移動させるために連鎖反応を作ることが可能であり、しばしば必要です。\n\nゲームが進むにつれて、レベルはますます難しくなり、新しい危険や敵が登場します。敵は一定の動きのパターンに従い、時には止めることができますが、魔法のバブルで破壊することはできません。後のレベルでは、メイの動きを遅くする草、メイと魔法の石が滑る氷、押すと石を破壊するトゲ、1回しか歩けない崩れるタイル、メイが魔法のバブルを作れないルーンタイル、テレポーターなど、さまざまな種類のタイルによって複雑さが増します。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-12-24",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Magic%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Magic%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Little%20Magic%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Magic%20%28Europe%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Little%20Magic%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Little%20Magic%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Little%20Magic%20%28Japan%29%20%28Beta%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

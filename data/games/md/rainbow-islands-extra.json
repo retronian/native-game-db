@@ -1,0 +1,84 @@
+{
+  "id": "rainbow-islands-extra",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Rainbow Islands Extra",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "レインボー・アイランド・エキストラ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "レインボーアイランドエキストラ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "レインボーアイランド エキストラ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Rainbow Islands Extra (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-11073-00",
+      "size": 524288,
+      "crc32": "c74dcb35",
+      "md5": "30682a233a4afba0b0065d0e98b5c6cc",
+      "sha1": "e35fcc88e37d1691cd2572967e1ae193fcd303eb",
+      "sha256": "da764729a95bc31f2e580d8f4222aeec9d7d0e2accece10e02405a02a581d302"
+    }
+  ],
+  "external_ids": {
+    "igdb": 45749
+  },
+  "descriptions": [
+    {
+      "text": "レインボー・アイランド・エキストラは、クラシックなタイトーのコインオペレーションゲーム「レインボー・アイランド」の移植版です。このカートリッジには、オリジナルゲームと再構成された「エキストラバージョン」の両方が収録されており、ステージやボスがより挑戦的になるように再配置されています。他のバージョンと同様に、ゲームはタイトルにもなっているレインボー・アイランドを舞台にしており、二人の少年バブとボブ（「バブルボブル」の小さなドラゴンではなくなっています）が、邪悪なモンスターたちに占拠された島々を、虹の魔法の力を使って解放しなければなりません！オリジナルモードとエキストラモードに加えて、ゲームには三つの難易度レベルも含まれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-10-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Rainbow%20Islands%20Extra%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Rainbow%20Islands%20Extra%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Rainbow%20Islands%20Extra%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

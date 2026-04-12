@@ -1,0 +1,81 @@
+{
+  "id": "quake",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Quake",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Quake (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "NQKP",
+      "size": 12582912,
+      "crc32": "28c10844",
+      "md5": "592ce7718efdd1ff2f077c9b2b5275fb",
+      "sha1": "c1b4fc22a1699be0bc8cea170ac4f8b6bf8f41d1",
+      "sha256": "b6f02382d292f06f3730b8bbe6d308bf9423780e9369a65b4df3cd0a46680f7b"
+    },
+    {
+      "name": "Quake (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NQKE",
+      "size": 12582912,
+      "crc32": "761f39d1",
+      "md5": "097605021951024c3ecb2d502c0c2a9f",
+      "sha1": "25a7fe0342490d3c23328040bb34f8748995537a",
+      "sha256": "ce43bcb4c11975f0e1720d7617c05bf23f420b1f76ab115ff52ba7344594a4bc"
+    }
+  ],
+  "external_ids": {
+    "igdb": 209418
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Quake%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Quake%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Quake%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Quake%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/Quake%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/Quake%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

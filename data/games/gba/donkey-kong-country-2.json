@@ -1,0 +1,88 @@
+{
+  "id": "donkey-kong-country-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Donkey Kong Country 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Super Donkey Kong 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Donkey Kong Country 2 (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B2DP",
+      "size": 8388608,
+      "crc32": "aef11223",
+      "md5": "86a1c5aae8afe04acaf1ae475249e9ba",
+      "sha1": "2243e9b8c299744e351bdd9e28bc2212f0840782"
+    },
+    {
+      "name": "Donkey Kong Country 2 (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "B2DE",
+      "size": 8388608,
+      "crc32": "11417fc1",
+      "md5": "a1f160ee30ed36edea341a6f1c6a4efc",
+      "sha1": "b0a4d59447c8d7c321bea4dc7253b0f581129ede",
+      "sha256": "02d0756f7e95308aec4f44598433e93a9a66bf5eabbf0cec7fd8d5f31a06a2f5"
+    }
+  ],
+  "external_ids": {
+    "igdb": 178237
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Donkey%20Kong%20Country%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Donkey%20Kong%20Country%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Donkey%20Kong%20Country%202%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

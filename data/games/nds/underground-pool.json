@@ -1,0 +1,51 @@
+{
+  "id": "underground-pool",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Underground Pool",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Underground Pool (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AOPE",
+      "size": 8388608,
+      "crc32": "044af3c0",
+      "md5": "c88f1a04afcfdadafac011b142320165",
+      "sha1": "9326034fd25b02cd7f9fd55ae36227099682d694"
+    }
+  ],
+  "external_ids": {
+    "igdb": 56893
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Underground%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Underground%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Underground%20Pool%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "virtual-piano",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Virtual Piano",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Virtual Piano (USA) (Proto 2)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "9bdddccd",
+      "md5": "385add2fe409f4a8cdd9aedc0abeb7ad",
+      "sha1": "f84af47e8a996d19695d4a8d814cc9b1678a2cdf",
+      "sha256": "5399b96b59b60556e02571014d3600111d06a3762902f47b7090ccec0e932a9f"
+    },
+    {
+      "name": "Virtual Piano (USA) (Proto 1)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 8388608,
+      "crc32": "d2d78bbf",
+      "md5": "6f8c292f5bdaa208f1428a1c51c7b577",
+      "sha1": "1df5f1db631bc7f03df9f6cf5d78394f15105a0b",
+      "sha256": "74dd56a6dfc14c25b730b7c98a93c1fd76559bb394831d4a901ac5786f348d4f"
+    }
+  ]
+}

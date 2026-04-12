@@ -1,0 +1,65 @@
+{
+  "id": "robot-poncots-2-cross-version",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Robot Poncots 2 - Cross Version",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ロボットポンコッツ2 クロスバージョン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Robot Poncots 2 - Cross Version (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "ACVJ",
+      "size": 8388608,
+      "crc32": "0c6f2b1b",
+      "md5": "3cf63f7903dc07cc6b0aff9efab0886a",
+      "sha1": "cbb35559b4a9d79efee38f3ac3cf827281ef16b8"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "オリジナルゲームでポロンボ島のレジェンド1になったコーディは、新たな土地と新たなトーナメントに旅立ちます。しかし、暴風雨がコーディのボートを壊し、彼を海に漂流させてしまいます。目を覚ますと、マジコの土地にある小屋の中でしたが、状況は良くありません。近くの土地がマスクマンとその手下たちに脅かされていることを知ります。事態を正すために、コーディは20年前の過去に旅し、再び戻らなければなりません。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-09-13",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Robot%20Poncots%202%20-%20Cross%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Robot%20Poncots%202%20-%20Cross%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Robot%20Poncots%202%20-%20Cross%20Version%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

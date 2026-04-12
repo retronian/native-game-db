@@ -1,0 +1,42 @@
+{
+  "id": "hakuouki-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hakuouki DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hakuouki DS (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BH9J",
+      "size": 536870912,
+      "crc32": "8cc0ca3b",
+      "md5": "d4e647abe33de498c8c76430e367ccf3",
+      "sha1": "380c845b8e476e6afc7c5afa7a293434f641cf4b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hakuouki%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hakuouki%20DS%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

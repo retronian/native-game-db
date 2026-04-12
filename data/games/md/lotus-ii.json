@@ -1,0 +1,63 @@
+{
+  "id": "lotus-ii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lotus II",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lotus II (USA, Europe)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50746-00",
+      "size": 1048576,
+      "crc32": "1d8ee010",
+      "md5": "eb825f40e664c4b948e13b3025aa855d",
+      "sha1": "5a00e8aaae8d987ee0f18fc4604230265aea699e",
+      "sha256": "7bf533fda1dd620c4233ade95bbcabbe53627d2a378f5b14e13719049c9d0f08"
+    },
+    {
+      "name": "Lotus II (USA, Europe) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "?-?????-??",
+      "size": 1048576,
+      "crc32": "2997b7d4",
+      "md5": "8496a55f720e45811f0c815c2d499640",
+      "sha1": "e108d612735dcc768bed68a58d6fd45d71de565d",
+      "sha256": "80d8f5936edbd9b602bdaff27cabb07eff301c678beba21c1dd2cb9d07795386"
+    }
+  ],
+  "external_ids": {
+    "igdb": 46272
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Lotus%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Lotus%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Lotus%20II%20%28USA%2C%20Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

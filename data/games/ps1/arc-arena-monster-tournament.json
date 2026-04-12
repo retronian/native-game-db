@@ -1,0 +1,48 @@
+{
+  "id": "arc-arena-monster-tournament",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Arc Arena - Monster Tournament",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "アークザラッド・モンスターゲーム ウィズ カジノゲーム",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Arc Arena - Monster Tournament (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 70698400,
+      "crc32": "2787dbbb",
+      "md5": "1ae8086fff8f1b7052daa1b2057e4ff0",
+      "sha1": "17a0acf374bbe7180a4ceba96e7eb8c8b22ba21a"
+    },
+    {
+      "name": "Arc Arena - Monster Tournament (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 78281872,
+      "crc32": "86c55b60",
+      "md5": "ffae262a8c367a4b0ed0f0ae62931401",
+      "sha1": "f5c3fe17c3a83142a0f2e16cac700d3c62a2c668"
+    }
+  ],
+  "external_ids": {
+    "igdb": 66015
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "super-volleyball",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Volleyball",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Volleyball (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "245040b3",
+      "md5": "2b31c6c01d779eec5bb19863e3c5af9b",
+      "sha1": "de71722255d0136b47f63e93bedb2ed8b3d0d4f0",
+      "sha256": "9e083426ffa62a9f7577a6540a48b7f07de3f8f17e701c2b9a87fc6e3c8ad05f"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Super%20Volleyball%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

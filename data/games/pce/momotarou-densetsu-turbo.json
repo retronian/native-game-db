@@ -1,0 +1,65 @@
+{
+  "id": "momotarou-densetsu-turbo",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Momotarou Densetsu Turbo",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "桃太郎伝説ターボ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Momotarou Densetsu Turbo (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "625221a6",
+      "md5": "d2ea89603d76856603c85cb4ce7045ff",
+      "sha1": "e6c5bd57f34d3c6b07818e351086cf63cd338f26",
+      "sha256": "4546f0f08f399ec3760faef899322f993d8237ed7a4deb003cbec7210ff9b1dd"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "桃太郎伝説ターボは、桃太郎伝説シリーズの第2作目ですが、実質的にはファミコン用にリリースされた最初のゲームのリメイクです。このゲームでは、優しい夫婦が川を流れている巨大な桃から生まれた赤ん坊としての桃太郎の起源が描かれ、彼が動物の仲間たちと出会い、鬼たちと戦った様子が描かれています。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-07-20",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Momotarou%20Densetsu%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Momotarou%20Densetsu%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Momotarou%20Densetsu%20Turbo%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

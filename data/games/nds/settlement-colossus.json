@@ -1,0 +1,42 @@
+{
+  "id": "settlement-colossus",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Settlement Colossus",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "eu"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Settlement Colossus (Europe) (En,Fr,De,Nl)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "B8YP",
+      "size": 33554432,
+      "crc32": "d50b865d",
+      "md5": "48d2ae1f4826ca09d42152b7ea6a4212",
+      "sha1": "3891a20cc0b73fa3404b2105ec5ce2c389fa5e53"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Settlement%20Colossus%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Settlement%20Colossus%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

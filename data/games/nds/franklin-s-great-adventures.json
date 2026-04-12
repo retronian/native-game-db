@@ -1,0 +1,79 @@
+{
+  "id": "franklin-s-great-adventures",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Franklin's Great Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Franklin's Great Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "AFKP",
+      "size": 8388608,
+      "crc32": "d6bf0873",
+      "md5": "4396db20edea9c254bafc01ca44e09f2",
+      "sha1": "b938a1bdb0951dd07c10b56964d1ea746e244206"
+    },
+    {
+      "name": "Franklin's Great Adventures (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "AFLE",
+      "size": 8388608,
+      "crc32": "07c80bde",
+      "md5": "0117e062a003c9d39f6168a48c20564f",
+      "sha1": "2d3efeaf47aadd8fcf805d9a610eae6bf6cee75e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48044
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Franklin%27s%20Great%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Franklin%27s%20Great%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Franklin%27s%20Great%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CDa%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Franklin%27s%20Great%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Franklin%27s%20Great%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Franklin%27s%20Great%20Adventures%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

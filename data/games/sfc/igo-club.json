@@ -1,0 +1,88 @@
+{
+  "id": "igo-club",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Igo Club",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "囲碁倶楽部",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Igo Club (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1e23f3d6",
+      "md5": "2fa9cbc875138eebec96880e7964742b",
+      "sha1": "3c9cac3b14945d92ddd3524f056719023737ea13",
+      "sha256": "360391a7f5f9f69181cb362e39f95f46144619ddc3c9ae66514282cfbde8e332"
+    },
+    {
+      "name": "Igo Club (Japan) (Rev 2)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d6b2606d",
+      "md5": "7fcdaa1f04c85fa2b93c5100536914b7",
+      "sha1": "b893e6a2df4c10bad51c3528de15dfc8c1221968",
+      "sha256": "e2d6017d68826ed596c0f52d031682e81ccaf790768013172c91ddfad58d4d4d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 37980
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Igo%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Igo%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Igo%20Club%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Igo%20Club%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Igo%20Club%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Igo%20Club%20%28Japan%29%20%28Rev%202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

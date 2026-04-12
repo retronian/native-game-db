@@ -1,0 +1,66 @@
+{
+  "id": "mahjong-rpg-dora-dora-dora",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong RPG Dora Dora Dora",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀RPGドラドラドラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "麻雀を呼ぶゲーム　ドラドラドラ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong RPG Dora Dora Dora (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "f502472c",
+      "md5": "f340ef581b149c62d73148147c2dc3e4",
+      "sha1": "cfcaccfd23baaa76a31d0ee07378dba33d864cd6",
+      "sha256": "f970a52d5db335ecc8f4c4f685ef7fd281c64e2684ef7ada2ef7a8d96fb940cd"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Mahjong%20RPG%20Dora%20Dora%20Dora%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Mahjong%20RPG%20Dora%20Dora%20Dora%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Mahjong%20RPG%20Dora%20Dora%20Dora%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

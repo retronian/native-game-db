@@ -1,0 +1,64 @@
+{
+  "id": "checkmate",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Checkmate",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "チェックメイト",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Checkmate (Japan) (En,Ja) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1aab415d",
+      "md5": "628804db7252b7bb5a51f6aaea4b7077",
+      "sha1": "84e6c93daf1ab6c59bd23c0358a0704a663556b5"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "最高の思考ルーチンを持つコンピュータと対戦できる究極の戦略ゲーム「チェス」を楽しむことができます。分かりやすい日本語と英語の2種類の表示から選ぶことができ、本格的な雰囲気を楽しめます。駒の色を自由に設定して楽しむことも可能です。初心者からプロフェッショナルまで、16のゲームレベルがあります。小さなパーツに分けられたレベル設定に応じて、相手のプレイ力が変わります。「勝利の戦い」モードでは15人の挑戦者と順番に対戦でき、「フリーバトル」モードでは16人の中から好きな相手を選んで対戦できます。また、ゲームを保存することもできるので、いつでも続けてプレイできます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-04-16",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Checkmate%20%28Japan%29%20%28En%2CJa%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Checkmate%20%28Japan%29%20%28En%2CJa%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Checkmate%20%28Japan%29%20%28En%2CJa%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

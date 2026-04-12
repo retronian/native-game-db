@@ -1,0 +1,105 @@
+{
+  "id": "hamster-paradise-2",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hamster Paradise 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ハムスターパラダイス2 ちゅー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ハムスターパラダイス2（ちゅー）",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hamster Paradise 2 (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BHMJ",
+      "size": 2097152,
+      "crc32": "542c78b6",
+      "md5": "a290f281cde7d00059e0e567bffb0d3b",
+      "sha1": "cf19fd582d8881779e7e34e1d6cd8fd5b7129f53",
+      "sha256": "aa00671d2803d3ef56533577f1d4609572da3cd0c52061ff7262baeb3a060fb1"
+    },
+    {
+      "name": "Hamster Paradise 2 (Japan) (Rev 1)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 2097152,
+      "crc32": "b9e1f3b0",
+      "md5": "deef0140c464bff3435061b90e01b70d",
+      "sha1": "140100d96d165ee399f5cd18f5aec962fde714b6"
+    }
+  ],
+  "external_ids": {
+    "igdb": 281544
+  },
+  "descriptions": [
+    {
+      "text": "まず最初に、ハムセンターのハムゾウ博士からハムスターをもらいました。\nもらったハムスターにかわいい名前を付けましょう。基本的にはお世話をします！\n\n愛情を持って育てると、ハムスターはどんどん大きくなります。\n餌を与えたり散歩をしたりして、丁寧に育てましょう。\nハムスターと一緒に散歩をすると、さまざまなイベントが発生します。\n\nミニゲームをクリアすることでお金を得ることができます。\nこのお金を使って、ハムスターのために食べ物やおもちゃ、バードハウスを買いましょう。\n\nハムスターは成長すると結婚することができます。\nハムスターを上手に育てると、新しい種類が誕生するかもしれません。\nこのゲームは、実際のハムスター以上に反応するので、よりかわいく感じられます！",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2000-03-17",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Paradise%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Paradise%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Paradise%202%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Hamster%20Paradise%202%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Hamster%20Paradise%202%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Hamster%20Paradise%202%20%28Japan%29%20%28Rev%201%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

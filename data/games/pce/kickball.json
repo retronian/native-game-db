@@ -1,0 +1,68 @@
+{
+  "id": "kickball",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "KickBall",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "キックボール",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "KickBall (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 393216,
+      "crc32": "7e3c367b",
+      "md5": "42d164b0ae86ae4dab3fdb7ca9f3bdb2",
+      "sha1": "f2e59db46aa6bd70f0eec64566e113b53d56eb58",
+      "sha256": "2eb3f97ac925485fe1c43209f2c8ae883c5ac733e1038a7a93111f44ec3ad226"
+    }
+  ],
+  "external_ids": {
+    "igdb": 58961
+  },
+  "descriptions": [
+    {
+      "text": "キックボールは、デュアルが開発し、マサヤが日本のPCエンジン専用に発売したコメディスポーツゲームです。野球に似ており、ベースが配置されたダイヤモンドがありますが、「バッティング」するプレイヤーは実際にはボールを蹴っています。ゲームの残りの部分は、通常の野球のラウンドのように進行します。\n\nこのゲームには7人のキャラクターが登場し、それぞれが同じアスリートのチームを代表しており、各キャラクターには独自の特別なピッチやキックの技があります。これらのキャラクターには、改造超人シュビビンマンシリーズの2人の主人公、タスケとキャピコ（ショックマンではアーノルドとソニアとして知られています）も含まれています。また、各チームにはテーマに合わせた専用のスタジアムがあり、たとえばアシカチームには氷のような床のスタジアムがあります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-11-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/KickBall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/KickBall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/KickBall%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

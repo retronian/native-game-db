@@ -1,0 +1,66 @@
+{
+  "id": "tanigawa-kouji-no-shougi-shinan-iii",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Tanigawa Kouji no Shougi Shinan III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "谷川浩司の将棋指南III",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "谷川浩司の将棋指南",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Tanigawa Kouji no Shougi Shinan III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 131088,
+      "crc32": "e8b31c01",
+      "md5": "77034daa068b266002ddc713eb8cdc19",
+      "sha1": "55f434887db5d83e0940265c8bcd65136edf6e0d",
+      "sha256": "3c9476a4d3fbd93a4422457df7a3720b2f70996e5377fdb220e71cbfdc56980e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Tanigawa%20Kouji%20no%20Shougi%20Shinan%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Tanigawa%20Kouji%20no%20Shougi%20Shinan%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Tanigawa%20Kouji%20no%20Shougi%20Shinan%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

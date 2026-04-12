@@ -1,0 +1,59 @@
+{
+  "id": "zelda-no-densetsu-daichi-no-kiteki",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zelda no Densetsu - Daichi no Kiteki",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "BKIJ",
+      "size": 134217728,
+      "crc32": "1821e161",
+      "md5": "3d44e36da46af0e96ba573f92b4046db",
+      "sha1": "eaee3602b8a2235211b2e20cdcd4cb357956a264",
+      "sha256": "329b8a0ce37a7ac4e74c610a059e12fe601848b17fe6f35515ab3ca2abbc256a"
+    },
+    {
+      "name": "Zelda no Densetsu - Daichi no Kiteki (Japan) (Wii U Virtual Console)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "WUP-N-DARJ",
+      "size": 134217728,
+      "crc32": "853ebd0d",
+      "md5": "34cc03de474d5f3626c4af073d708916",
+      "sha1": "f45fc9da160d57cc94682230ed677ab16f52273e"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Zelda%20no%20Densetsu%20-%20Daichi%20no%20Kiteki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Zelda%20no%20Densetsu%20-%20Daichi%20no%20Kiteki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Zelda%20no%20Densetsu%20-%20Daichi%20no%20Kiteki%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "sutobasu-yarou-show",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Sutobasu Yarou Show",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ストバスヤロウ将",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Sutobasu Yarou Show (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "a953a1de",
+      "md5": "b3612a5c6e4c7798f45bbf5b37857f20",
+      "sha1": "0391adeffd8fb1b1c34621868195541391f81657",
+      "sha256": "822a3cd571d58c8bceaabf0ee89ca041d54000d5a42adb3da8ab7cacb18d5aaa"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "人気の漫画アンソロジー誌「週刊少年ジャンプ」に連載されていた同名のスポーツ漫画を基にした3対3のストリートバスケットボールゲームです。プレイヤーのチームは「ジャンプス」と名付けられ、キドウ タロウ、ナガオカ キョウスケ、アカシ ショウの3人で構成されています。彼らは漫画に登場する他のストリートバスケットボールトリオと競い合います。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1994-02-25",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Sutobasu%20Yarou%20Show%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Sutobasu%20Yarou%20Show%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Sutobasu%20Yarou%20Show%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

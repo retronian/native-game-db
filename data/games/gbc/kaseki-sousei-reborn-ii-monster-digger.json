@@ -1,0 +1,77 @@
+{
+  "id": "kaseki-sousei-reborn-ii-monster-digger",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kaseki Sousei Reborn II - Monster Digger",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "化石創世リボーンII モンスターティガー",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "化石創世リボーン2 〜モンスターティガー〜",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "bf80c897",
+      "md5": "216cb5875de8fc71d04f7378592bf782",
+      "sha1": "857fb62dc310268e0b92e9383c6b6fd61aa33fa0",
+      "sha256": "dc54a6fce7a4fcdf7e5129d6ec6a34968dabd4db6b569afb2d4b75a9245d446d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 228579
+  },
+  "descriptions": [
+    {
+      "text": "化石の断片を集め、さまざまな生き物を復活させるRPGです。ゲームの進行に影響を与える友情レベルの設定が追加され、モンスターは通信ケーブルを通じて交換できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-02-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Kaseki%20Sousei%20Reborn%20II%20-%20Monster%20Digger%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Kaseki%20Sousei%20Reborn%20II%20-%20Monster%20Digger%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Kaseki%20Sousei%20Reborn%20II%20-%20Monster%20Digger%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

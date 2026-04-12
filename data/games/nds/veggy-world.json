@@ -1,0 +1,42 @@
+{
+  "id": "veggy-world",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Veggy World",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Veggy World (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BV4E",
+      "size": 16777216,
+      "crc32": "ca29fe72",
+      "md5": "84cc08d57d21a7b518ec4e3328aed3b8",
+      "sha1": "120d0e71c4fec297ac10641a90aee0a251480f8d"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Veggy%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Veggy%20World%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "columns-gb-tezuka-osamu-characters",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Columns GB - Tezuka Osamu Characters",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "コラムス 手塚治虫キャラクターズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Columns GB - Tezuka Osamu Characters (Japan) (SGB Enhanced) (GB Compatible)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "fbe5de37",
+      "md5": "59dbf67358b671e2c8dcd9f89ebaf378",
+      "sha1": "a8d9a6631f1d203d99be38fb90135c10e5f0c880"
+    }
+  ],
+  "external_ids": {
+    "igdb": 72044
+  },
+  "descriptions": [
+    {
+      "text": "「コラムス 手塚治虫キャラクターズ」は、ゲームギアにおける「テトリス」のような存在です。ゲームギアの生産が終了した数年後、ゲームボーイに移植されました。ゲームにはいくつかのモードが追加され、特に手塚治虫が創造した人気マンガキャラクターのライセンスが与えられています。アストロボーイやジャングル大帝、ブラック・ジャックなどの有名キャラクターを操作できます。\n\nメインのコラムスモードに加えて、このエディションには「謎ぷよ」シリーズのようなパズルモードがあり、あらかじめ設置されたピースを、あらかじめ定義された落下ピースを使って取り除く必要があります。また、友達と対戦するためのリンクアップモードもあります。\n\n手塚キャラクターはゲーム内で大きな役割を果たさず、プレイフィールドの右側にあるウィンドウに表示され、ゲームの進行に応じて表情が変わります。選べるキャラクターは6人おり、3つのセーブスロットに保存できます。セーブスロットを使うことで、次回のセッションに向けてスコアを保持できます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1999-11-05",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Columns%20GB%20-%20Tezuka%20Osamu%20Characters%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Columns%20GB%20-%20Tezuka%20Osamu%20Characters%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Columns%20GB%20-%20Tezuka%20Osamu%20Characters%20%28Japan%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "xs-moto",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "XS Moto",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "XS Moto (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BXME",
+      "size": 4194304,
+      "crc32": "6dbbc17c",
+      "md5": "986ff7d285a6c161ccfd2eaef4f8cb18",
+      "sha1": "2a800d077cfb8320ac5780d840976a47d9595728"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49350
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/XS%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/XS%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/XS%20Moto%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

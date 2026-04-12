@@ -1,0 +1,68 @@
+{
+  "id": "hello-kitty-birthday-adventures",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hello Kitty - Birthday Adventures",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BKEE",
+      "size": 67108864,
+      "crc32": "85cdfbdc",
+      "md5": "dbde40dabd554bcad70a9486fe7e714a",
+      "sha1": "8658a9ed6220758aa3d06731ece2583367e64f9d"
+    },
+    {
+      "name": "Hello Kitty - Birthday Adventures (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BKEP",
+      "size": 67108864,
+      "crc32": "5ac11ece",
+      "md5": "3ba43f60084efe3c0548df098dbd890d",
+      "sha1": "63b5f50e3e5fcacfed6038f7f0ac08977763b26d",
+      "sha256": "669bf2f7bc136d28d4f673ac7edf8c0ee381e15b01452540e8fa94ae1634ca49"
+    }
+  ],
+  "external_ids": {
+    "igdb": 25192
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hello%20Kitty%20-%20Birthday%20Adventures%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hello%20Kitty%20-%20Birthday%20Adventures%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Hello%20Kitty%20-%20Birthday%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Hello%20Kitty%20-%20Birthday%20Adventures%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "dai-2-ji-super-robot-taisen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dai-2-ji Super Robot Taisen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "第2次 スーパーロボット大戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "ウルトラマン倶楽部3 またまた出撃!!ウルトラ兄弟",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    },
+    {
+      "text": "第2次スーパーロボット大戦",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dai-2-ji Super Robot Taisen (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524304,
+      "crc32": "3c9483f4",
+      "md5": "15a37e93ae47a4743b22ec06066804d2",
+      "sha1": "56af25096d5270900a379c60dbb6c9901cf1fc20",
+      "sha256": "f82518acfba7856e3772c5016e2a99e975f65cc2cfd452827445b8605d0c4893"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48636
+  },
+  "descriptions": [
+    {
+      "text": "第2次スーパーロボット大戦は、シリーズの残りの部分に向けて物語とシステムの基本的な基盤が設定される最初の公式エピソードです。\n\n物語は、偉大な科学者が地球が脅威にさらされていることを発見し、その脅威に立ち向かうために世界最強のロボットを作ることを決意するところから始まります。彼の計画を支援するために、彼は「ディバインクルセイダーズ（D.C.）」という秘密組織を設立し、地球全体の征服に乗り出します。D.C.の前に立ちはだかるのは、人気のアニメテレビシリーズからの数人の英雄的なロボットパイロットだけです。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1991-12-29",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dai-2-ji%20Super%20Robot%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Dai-2-ji%20Super%20Robot%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Dai-2-ji%20Super%20Robot%20Taisen%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

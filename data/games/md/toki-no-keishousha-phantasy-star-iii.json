@@ -1,0 +1,75 @@
+{
+  "id": "toki-no-keishousha-phantasy-star-iii",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Toki no Keishousha - Phantasy Star III",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "時の継承者 Phantasy Star III ファンタシースター",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "時の継承者 ファンタシースターIII",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Toki no Keishousha - Phantasy Star III (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "5503-00",
+      "size": 786432,
+      "crc32": "6c48c06f",
+      "md5": "359958755d967864711bb503a125ccc7",
+      "sha1": "68b0f8e73dea5dca1b6ac8c0e12bc1d9761edf32",
+      "sha256": "6ee4b1a5fc6c7fb21670caefdee7f1a323a79c254af93dde4bc84cc15f16388a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "遥か昔、オラキオとラヤの間で大戦争が勃発し、惑星は荒廃しました。1000年後、若きオラキアンの王子リースは、心に決めた美しいマヤと結婚することを決意します。しかし、結婚式の最中に奇妙な生き物が現れ、新婦をさらってしまいます。それは伝説のラヤ人が王女を誘拐したのでしょうか？答えが何であれ、リースは自らその真相を探り出さなければなりません。彼は愛する者を見つけ出さなければならないのです…\n\nこのゲームは中世の設定に私たちを誘います。バトルシステムは前作「ファンタシースターII」と似ており、ターン制の戦闘でランダムに敵が出現します。シンプルな攻撃や、TP（テクニックポイント）を必要とする特殊技を使用することができます。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1990-04-21",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/Toki%20no%20Keishousha%20-%20Phantasy%20Star%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Toki%20no%20Keishousha%20-%20Phantasy%20Star%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Toki%20no%20Keishousha%20-%20Phantasy%20Star%20III%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "mahjong-gakuen-mild-touma-soushirou-toujou",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Mahjong Gakuen Mild - Touma Soushirou Toujou",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "麻雀学園 Mild マイルド 東間宗四郎登場",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 524288,
+      "crc32": "f4148600",
+      "md5": "ea0659c4607948ea54bd5d61799ac1a1",
+      "sha1": "66d9a1b80cdbf88d7f8be4c2c37901e9df4195dc",
+      "sha256": "d5058da2fb76306bd649e1a2796930cf95871a30bdfff2fd1628660d7689b9c8"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Mahjong%20Gakuen%20Mild%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Mahjong%20Gakuen%20Mild%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Mahjong%20Gakuen%20Mild%20-%20Touma%20Soushirou%20Toujou%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

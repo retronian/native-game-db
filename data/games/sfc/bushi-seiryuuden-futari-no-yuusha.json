@@ -1,0 +1,66 @@
+{
+  "id": "bushi-seiryuuden-futari-no-yuusha",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Bushi Seiryuuden - Futari no Yuusha",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "武士聖龍伝 ふたりの勇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "青龍伝 二人の勇者",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Bushi Seiryuuden - Futari no Yuusha (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 3145728,
+      "crc32": "62d31295",
+      "md5": "672d15e2200a5ca176233fcb10139e92",
+      "sha1": "62e5f9cea8d4be0fff01e44afbcd3ed3fe7d608d",
+      "sha256": "ff71fd80150415652e693c6d696d786eb9cd1ba301e9b6b5558de9bda104a87b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Bushi%20Seiryuuden%20-%20Futari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Bushi%20Seiryuuden%20-%20Futari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Bushi%20Seiryuuden%20-%20Futari%20no%20Yuusha%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "charm-girls-club-my-fashion-mall",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Charm Girls Club - My Fashion Mall",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "チャームガールズクラブ わたしのファッションモール",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "Charm Girls Club: Watashi no Fashion Mall",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Charm Girls Club - My Fashion Mall (Europe) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BCGX",
+      "size": 67108864,
+      "crc32": "fa404498",
+      "md5": "152ba4bb024e281da2ed426515326f3a",
+      "sha1": "6cdfe0e91e60f280a3cdc64711119baf6f79d0c9"
+    },
+    {
+      "name": "Charm Girls Club - My Fashion Mall (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BCGE",
+      "size": 67108864,
+      "crc32": "cbb4fd0c",
+      "md5": "1dc4ab4d90703da0a854a2468d4ec6d6",
+      "sha1": "3534f79858061c9e56212bb6bd5650e6933c91e7"
+    }
+  ],
+  "external_ids": {
+    "igdb": 68084
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28Europe%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

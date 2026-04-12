@@ -1,0 +1,60 @@
+{
+  "id": "planet-message-quiz",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Planet Message Quiz",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "プラネットメッセージクイズ",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Planet Message Quiz (Japan) (Sega Channel)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-19402J-00",
+      "size": 1048576,
+      "crc32": "f466eedd",
+      "md5": "8eb7dcb7253d204eb9949cac72cc5d4d",
+      "sha1": "70788e794dfe38ae2fc3839bcc83f23c0a625776",
+      "sha256": "606d5eeadc76775da970238da0fc01c25733d3d887e99b6050085caf5553473a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "「プラネットメッセージクイズ」は、1995年にセガメガドライブ向けに日本で発売されました。このパズルゲームの公式小売版は店舗には出回らず、「プラネットメッセージクイズ」はセガチャンネルサービスを通じてのみ配信されました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1996-01-01",
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Planet%20Message%20Quiz%20%28Japan%29%20%28Sega%20Channel%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Planet%20Message%20Quiz%20%28Japan%29%20%28Sega%20Channel%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

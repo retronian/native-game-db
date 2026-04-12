@@ -1,0 +1,65 @@
+{
+  "id": "kidou-soukou-dion",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Kidou Soukou Dion",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "機動装甲ダイオン",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Kidou Soukou Dion (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "1e54f2c6",
+      "md5": "eaace143d3dcf51b9848419ef07120ec",
+      "sha1": "e98065e1dfc3e8ab1fc00f16ee90d4ea5a46d1bf",
+      "sha256": "a1c04fc26c65a6ae3c3a496410290e7f437d19ac24a930286521ce04c887212a"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "西暦2027年、遠い惑星では、高度な技術を持つロボットが機械化された生物のクラスを奴隷にしています。これらの奴隷ロボットは地下抵抗運動を形成し、高度なロボットに対する勝利の鍵を握るかもしれないボディアーマーを開発しました。これらのロボットを抑制している唯一の要因は、そのボディアーマーが人間にしか装着できないことです。プレイヤーはその人間を操作します。\n\nこのゲームは縦スクロールシューティングです。プレイヤーは1つのライフと、そのライフに対して5つのエネルギーユニットからスタートします。また、プレイヤーはバルカン武器と限られた数のミサイルを持っており、使用すると画面上のすべてに命中します。特定の敵を倒すことでアイコンを集めると、追加のミサイルを得ることができます。プレイヤーが敵を撃ち落とすごとに経験値が得られ、一定の経験値に達すると、ウェーブやレーザーなどの新しい武器が報酬として与えられます。\n\nこのゲームには3つの難易度があります。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1992-12-14",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Kidou%20Soukou%20Dion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/Kidou%20Soukou%20Dion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/Kidou%20Soukou%20Dion%20%28Japan%29%20%28En%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

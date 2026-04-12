@@ -1,0 +1,64 @@
+{
+  "id": "wizardry-iii-diamond-no-kishi",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Wizardry III - Diamond no Kishi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ウィザードリィIII ダイヤモンドの騎士",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Wizardry III - Diamond no Kishi (Japan) (En,Ja)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 1048576,
+      "crc32": "d44d3596",
+      "md5": "e81e4977a1380a6a0bac49bfd9e04671",
+      "sha1": "f850ddbbfc8a77d53948de805819b4457380b390"
+    }
+  ],
+  "external_ids": {
+    "igdb": 50046
+  },
+  "descriptions": [
+    {
+      "text": "ウィザードリィIII ダイヤモンドの騎士は、ASCIIエンタテインメントが発表したロールプレイングゲームで、2001年に日本でリリースされました。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "2001-02-23",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Boxarts/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Titles/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color/master/Named_Snaps/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

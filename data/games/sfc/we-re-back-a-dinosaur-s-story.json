@@ -1,0 +1,98 @@
+{
+  "id": "we-re-back-a-dinosaur-s-story",
+  "platform": "sfc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "We're Back! - A Dinosaur's Story",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "ウィーアーバック",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "We're Back! - A Dinosaur's Story (Europe)",
+      "source": "no_intro",
+      "region": "eu",
+      "size": 1048576,
+      "crc32": "33fbcd2d",
+      "md5": "923e065eee6bec22f923f9d524ff9894",
+      "sha1": "c81dad063c65caedf40db1adb2ed2d03cec8caa7",
+      "sha256": "a4c88b4d2ba5b12d4d95f91f092d8cbedec629b0edde56284da4026ef5b271ef"
+    },
+    {
+      "name": "We're Back! - A Dinosaur's Story (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "3f654414",
+      "md5": "8a693a871eb6034c00a4dbf752d55289",
+      "sha1": "5dfed05ffbdf6565cbfc56becc0a2d432f1a027a",
+      "sha256": "e931c3c08f20f78e3a43ad92d16eb472be619abaa17c2d8e2b0fcd5d05dbd74d"
+    },
+    {
+      "name": "We're Back! - A Dinosaur's Story (USA) (Beta)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1048576,
+      "crc32": "b3925716",
+      "md5": "b1cf44cac54fd4ec14b040d10d20a544",
+      "sha1": "f918aa709c685e2d278447f712030a8260f1cdc9",
+      "sha256": "488fbbad052d46a3ecc91867c050b1e20831e9dcc8bb567324d1ae57b0494c6d"
+    }
+  ],
+  "external_ids": {
+    "igdb": 19685
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28Europe%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Titles/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Snaps/We%27re%20Back%21%20-%20A%20Dinosaur%27s%20Story%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

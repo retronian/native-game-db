@@ -1,0 +1,60 @@
+{
+  "id": "super-robot-taisen-w",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Super Robot Taisen W",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "スーパーロボット大戦 W",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Super Robot Taisen W (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AS6J",
+      "size": 67108864,
+      "crc32": "be1058ad",
+      "md5": "dde962ed219c403151c7dd2cf1cb1fbb",
+      "sha1": "921e94125a7b6b19784376bb42d88d9b56060345"
+    }
+  ],
+  "external_ids": {
+    "igdb": 21405
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Super%20Robot%20Taisen%20W%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Titles/Super%20Robot%20Taisen%20W%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Super%20Robot%20Taisen%20W%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

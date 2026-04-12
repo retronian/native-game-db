@@ -1,0 +1,66 @@
+{
+  "id": "doki-doki-yuuenchi-crazy-land-daisakusen",
+  "platform": "fc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドキ! ドキ! 遊園地 クレイジーランド",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Japan) (En)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 262160,
+      "crc32": "06e9100a",
+      "md5": "f849e6c16861dda6094ee2dfa9ceb3e7",
+      "sha1": "4920c28991f6b3f343de4a501fbd1b6bf6ba0e0b",
+      "sha256": "1234d9e7ff74fa9d0efb4fd732fc28bbf344bfa1b48595b7616bbda322c807f8"
+    },
+    {
+      "name": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Asia) (En) (Pirate)",
+      "source": "no_intro",
+      "size": 262160,
+      "crc32": "a6d62ba4",
+      "md5": "f566f2dde72419f4d1399f0a51191060",
+      "sha1": "134f387de48fa3c77de02fedec18e052584ab23a",
+      "sha256": "eb013ff03282eac879b09b8305d9a548ec3375047d4e178f6bbffe9d16e31eba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 48663
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Doki%21%20Doki%21%20Yuuenchi%20-%20Crazy%20Land%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Titles/Doki%21%20Doki%21%20Yuuenchi%20-%20Crazy%20Land%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Snaps/Doki%21%20Doki%21%20Yuuenchi%20-%20Crazy%20Land%20Daisakusen%20%28Japan%29.png",
+      "source": "libretro_thumbnails"
+    }
+  ]
+}

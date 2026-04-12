@@ -1,0 +1,37 @@
+{
+  "id": "anone-ds",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Anone DS",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Anone DS (Japan) (NDSi Enhanced)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "VANJ",
+      "size": 33554432,
+      "crc32": "0b36f0dc",
+      "md5": "6340727e22fd46d78695d49a8170fafd",
+      "sha1": "9ecb4e698849dcad4a55fe0edceea7dda8736df9",
+      "sha256": "1df54d59e79571310b16a5d487b3937a6e6526a2b6677c67766f2cf900325c9b"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Anone%20DS%20%28Japan%29%20%28NDSi%20Enhanced%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

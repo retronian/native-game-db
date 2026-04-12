@@ -1,0 +1,42 @@
+{
+  "id": "pokemon-diamond",
+  "platform": "gbc",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Pokémon Diamond",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 163099
+  },
+  "first_release_date": "2000-12-31",
+  "roms": [
+    {
+      "name": "Pokemon Diamond (Taiwan) (Zh) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524288,
+      "crc32": "7309551a",
+      "md5": "a8ee3ff6fbce24d27334cf532a000206",
+      "sha1": "3fb38a7f49e13f5bfce0cd1983d9006b30f68930",
+      "sha256": "6cf9782a6f1cdc768213cc058e93a860b210314d289007a8811c8b1c09f37c9e"
+    },
+    {
+      "name": "Pokemon Diamond (Taiwan) (En) (Unl)",
+      "source": "no_intro",
+      "region": "tw",
+      "size": 524288,
+      "crc32": "1b5bef4b",
+      "md5": "417b0d90e313a7e2ff10b73925158f46",
+      "sha1": "433e7991b706baedf59af8b91bc142ba2f72112f",
+      "sha256": "7aefd42da1fdb1230cf8319b9e06eaaaabdffa34de3bc4c3b15e1feb2adb722c"
+    }
+  ]
+}

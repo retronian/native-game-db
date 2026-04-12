@@ -1,0 +1,59 @@
+{
+  "id": "dragon-money",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon Money",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "ドラゴンマネー",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon Money (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 92947280,
+      "crc32": "df466edf",
+      "md5": "da0023e92e1fac4382ddb4d35f8b2feb",
+      "sha1": "2cd6b82312bcf664975a8c2f5e1345fd1d58bf2e"
+    }
+  ],
+  "external_ids": {
+    "igdb": 246247
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Dragon%20Money%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Dragon%20Money%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Dragon%20Money%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

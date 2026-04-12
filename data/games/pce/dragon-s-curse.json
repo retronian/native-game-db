@@ -1,0 +1,59 @@
+{
+  "id": "dragon-s-curse",
+  "platform": "pce",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Dragon's Curse",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Adventure Island",
+      "lang": "en",
+      "script": "Latn",
+      "form": "romaji_transliteration",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Dragon's Curse (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 262144,
+      "crc32": "7d2c4b09",
+      "md5": "55153240fe1d0076c4f759b82f2d7e3e",
+      "sha1": "39b382725e38d6303ae2b19f1cabbd96ca661b07",
+      "sha256": "549741dedb9a78a1d093f32449f0e51a6fcc2c40e99baddd1b626f6fac46ea17"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210526
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Boxarts/Dragon%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Titles/Dragon%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16/master/Named_Snaps/Dragon%27s%20Curse%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

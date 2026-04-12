@@ -1,0 +1,69 @@
+{
+  "id": "lucifer-ring",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Lucifer Ring",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "루시퍼 링",
+      "lang": "ko",
+      "script": "Hang",
+      "region": "kr",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    },
+    {
+      "text": "ルシファー・リング",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Lucifer Ring (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 75498272,
+      "crc32": "f2caf808",
+      "md5": "9c32cd0459184f47bcc2ee408b5f5974",
+      "sha1": "72e36a2d1238e01b34fb043f5a12676995fc642d",
+      "sha256": "9fae0c5d0669553017059298d4f8bcfb59a97f6d10b0463ab920a32bf43e2a61"
+    }
+  ],
+  "external_ids": {
+    "igdb": 43873
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Lucifer%20Ring%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Titles/Lucifer%20Ring%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Snaps/Lucifer%20Ring%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

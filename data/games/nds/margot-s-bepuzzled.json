@@ -1,0 +1,67 @@
+{
+  "id": "margot-s-bepuzzled",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Margot's Bepuzzled!",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "Margot's Bepuzzled! (USA) (En,Fr,Es)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "BPZE",
+      "size": 8388608,
+      "crc32": "66d9f455",
+      "md5": "d1b9a7916debfd26b56e7a1b07cb23f1",
+      "sha1": "62b41d243f3cbdc50a57a1e1dce548c97ea5fb38"
+    },
+    {
+      "name": "Margot's Bepuzzled! (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "BPZP",
+      "size": 8388608,
+      "crc32": "83082ed9",
+      "md5": "6ae4e40102ff9bbbf2c2c6ee732c078c",
+      "sha1": "d776673b58e633bd8a77760fdc7a1f3099b1ef47"
+    }
+  ],
+  "external_ids": {
+    "igdb": 210042
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Margot%27s%20Bepuzzled%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Margot%27s%20Bepuzzled%21%20%28USA%29%20%28En%2CFr%2CEs%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Margot%27s%20Bepuzzled%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/Margot%27s%20Bepuzzled%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    }
+  ]
+}

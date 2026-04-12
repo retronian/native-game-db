@@ -1,0 +1,115 @@
+{
+  "id": "f-22-interceptor-advanced-tactical-fighter",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "F-22 Interceptor - Advanced Tactical Fighter",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "F22 インターセプター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "romu",
+      "verified": true
+    },
+    {
+      "text": "F22インターセプター",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "skyscraper_ja",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "F-22 Interceptor - Advanced Tactical Fighter (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "T-50276-00",
+      "size": 786432,
+      "crc32": "fb55c785",
+      "md5": "b89f6bc7f4983ab197d90b24fdcec4dc",
+      "sha1": "a6d0cf179d40ab7844d2a9f8a412a320a0639eec",
+      "sha256": "0e27015d49dd9f207bf3a65cb0757990b6fcb2255354f2b760981a837c93df1a"
+    },
+    {
+      "name": "F-22 Interceptor - Advanced Tactical Fighter (USA) (Rev 1)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50276-00",
+      "size": 1048576,
+      "crc32": "98fae0e1",
+      "md5": "e9833cd1b7d9c1373b187871834c368e",
+      "sha1": "17c88439d9e589e1277d54a24590f6bbf1655b54",
+      "sha256": "3fda7cceddc8cedeecfcc9a745e770816a8a19ad3e37d7e35244e9739d8535de"
+    },
+    {
+      "name": "F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "T-50276-00",
+      "size": 786432,
+      "crc32": "9cf552c2",
+      "md5": "be69f522d81e1ce89ba7842d4216be76",
+      "sha1": "a8fbd68686abcec9b765f47de7704ffbed4ec008",
+      "sha256": "5e8a00e79a8d11e0bf4d7f4808e1f433033b8cffd3729c52d544664ece102384"
+    }
+  ],
+  "descriptions": [
+    {
+      "text": "このシミュレーションでは、F-22のコックピットに座ることができます。3つの難易度設定から選択し、アメリカ、イラク、韓国、ロシアの4つの戦場で難易度が上がるストライクミッションを飛行します。各戦場のエースに挑戦したり、カスタムミッションを作成することも可能です。ミッションを完了するためには、地上構造物に加えて、いくつかのミグタイプ、ヘリコプター、戦車などの地上および空中目標を破壊する必要があります。サイドワインダーやマーベリックミサイルなどのリアルな武器を使用しましょう。",
+      "lang": "ja",
+      "source": "romu"
+    }
+  ],
+  "first_release_date": "1993-02-12",
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Boxarts/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28USA%2C%20Europe%29%20%28F-202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28USA%2C%20Europe%29%20%28F-202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/F-22%20Interceptor%20-%20Advanced%20Tactical%20Fighter%20%28USA%2C%20Europe%29%20%28F-202%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

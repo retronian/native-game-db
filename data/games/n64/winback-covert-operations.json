@@ -1,0 +1,60 @@
+{
+  "id": "winback-covert-operations",
+  "platform": "n64",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "WinBack - Covert Operations",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    },
+    {
+      "text": "Operation: WinBack",
+      "lang": "en",
+      "script": "Latn",
+      "region": "eu",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "WinBack - Covert Operations (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "NWDE",
+      "size": 16777216,
+      "crc32": "64c817c5",
+      "md5": "48da6cdcab838153caa2ecc3dd592a65",
+      "sha1": "fa04477b321a95e1f7a2edcac5c09bfa6ef72041"
+    }
+  ],
+  "external_ids": {
+    "igdb": 47680
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/WinBack%20-%20Covert%20Operations%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Titles/WinBack%20-%20Covert%20Operations%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Snaps/WinBack%20-%20Covert%20Operations%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

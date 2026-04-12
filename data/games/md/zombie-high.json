@@ -1,0 +1,45 @@
+{
+  "id": "zombie-high",
+  "platform": "md",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Zombie High",
+      "lang": "en",
+      "script": "Latn",
+      "region": "us",
+      "form": "official",
+      "source": "igdb",
+      "verified": false
+    }
+  ],
+  "external_ids": {
+    "igdb": 45686
+  },
+  "roms": [
+    {
+      "name": "Zombie High (USA) (Proto)",
+      "source": "no_intro",
+      "region": "us",
+      "size": 1024239,
+      "crc32": "7bea6194",
+      "md5": "9937c7698d62672f7ab46d3fc09f0f2b",
+      "sha1": "56f1a0b616e178315bdb9f2e43ddc942dcf3780e",
+      "sha256": "183a9b38e8fba1fade37c5f1b856437e57c77a50f6b49f65ea79f96a08e41dff"
+    }
+  ],
+  "media": [
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Titles/Zombie%20High%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis/master/Named_Snaps/Zombie%20High%20%28USA%29%20%28Proto%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

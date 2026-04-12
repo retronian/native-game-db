@@ -1,0 +1,39 @@
+{
+  "id": "saikyou-todai-shogi",
+  "platform": "ps1",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Saikyou Todai Shogi",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "最強 東大将棋",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Saikyou Todai Shogi (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "size": 150002432,
+      "crc32": "a628a32d",
+      "md5": "0d55b58ab6b809557be603f94eeab812",
+      "sha1": "63fc8c45f0478ae8338d2e658519e747f5586808"
+    }
+  ],
+  "external_ids": {
+    "igdb": 203548
+  }
+}

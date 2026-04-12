@@ -1,0 +1,49 @@
+{
+  "id": "e-reader",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "e-Reader",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "e-Reader (USA)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "PSAE",
+      "size": 8388608,
+      "crc32": "8b27cd67",
+      "md5": "7b17e51d5a61780f9823203c6254ed8f",
+      "sha1": "4b7005e81ee9ffee333b3f6095c3611800b56588",
+      "sha256": "72bf37f887e896add1342bf95a7cfe3494a689199f878e5e1aa3072639b1b948"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/e-Reader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/e-Reader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/e-Reader%20%28USA%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

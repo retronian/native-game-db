@@ -1,0 +1,60 @@
+{
+  "id": "v-master-cross",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "V-Master Cross",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "jp"
+    },
+    {
+      "text": "Ｖマスタークロス",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "V-Master Cross (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "AVMJ",
+      "size": 16777216,
+      "crc32": "251b2503",
+      "md5": "287921d222d6c6caae129ab6418d5c7c",
+      "sha1": "7d4b7aa4593d7f495b5e7802ba1fe88b5d5c2cba"
+    }
+  ],
+  "external_ids": {
+    "igdb": 240903
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/V-Master%20Cross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/V-Master%20Cross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/V-Master%20Cross%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}

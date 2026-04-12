@@ -1,0 +1,57 @@
+{
+  "id": "chaoji-maliou-2",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Chaoji Maliou 2",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false
+    },
+    {
+      "text": "超级马力欧2",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "gamelist_ja",
+      "verified": false
+    }
+  ],
+  "roms": [
+    {
+      "name": "Chaoji Maliou 2 (China)",
+      "source": "no_intro",
+      "region": "cn",
+      "serial": "AMAC",
+      "size": 4194304,
+      "crc32": "14a87b75",
+      "md5": "a2589a40c3f92a539969124cecc9b828",
+      "sha1": "4fc77a2397086408554c50f9bf06327abe04066e",
+      "sha256": "a39d80233a5a5a2ee69116f6c1739c2d7ad5a68a362b0f99b9b4eb0b1ad2363a"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Chaoji%20Maliou%202%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Chaoji%20Maliou%202%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Chaoji%20Maliou%202%20%28China%29.png",
+      "source": "libretro_thumbnails",
+      "region": "cn"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "history-great-empires-rome",
+  "platform": "nds",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "History - Great Empires - Rome",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": false,
+      "region": "us"
+    }
+  ],
+  "roms": [
+    {
+      "name": "History - Great Empires - Rome (Europe) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "eu",
+      "serial": "CHXP",
+      "size": 33554432,
+      "crc32": "f3089b32",
+      "md5": "09403aa996e35309a774b78d6c0726a5",
+      "sha1": "b95000273705f1be3a517b1caf3688b3a861f091"
+    },
+    {
+      "name": "History - Great Empires - Rome (USA) (En,Fr,De,Es,It)",
+      "source": "no_intro",
+      "region": "us",
+      "serial": "CHXE",
+      "size": 33554432,
+      "crc32": "a53aa23c",
+      "md5": "876d1fa6f91b04bd9ff6356fe4dfac65",
+      "sha1": "8b4ec19f3f9b6189970d441282ec9d4c9bd67171"
+    }
+  ],
+  "external_ids": {
+    "igdb": 20694
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/History%20-%20Great%20Empires%20-%20Rome%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "eu"
+    },
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/History%20-%20Great%20Empires%20-%20Rome%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Snaps/History%20-%20Great%20Empires%20-%20Rome%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
+      "source": "libretro_thumbnails",
+      "region": "us"
+    }
+  ]
+}

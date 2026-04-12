@@ -1,0 +1,60 @@
+{
+  "id": "hachiemon",
+  "platform": "gba",
+  "category": "main_game",
+  "titles": [
+    {
+      "text": "Hachiemon",
+      "lang": "en",
+      "script": "Latn",
+      "form": "official",
+      "source": "no_intro",
+      "verified": true,
+      "region": "jp"
+    },
+    {
+      "text": "ハチエモン",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "igdb",
+      "verified": true
+    }
+  ],
+  "roms": [
+    {
+      "name": "Hachiemon (Japan)",
+      "source": "no_intro",
+      "region": "jp",
+      "serial": "A8EJ",
+      "size": 4194304,
+      "crc32": "47c45b41",
+      "md5": "6c8460b00a7dcade834b0579116771db",
+      "sha1": "10c16950388599846c2a61cacc315ba81a752deb"
+    }
+  ],
+  "external_ids": {
+    "igdb": 49595
+  },
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Hachiemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Titles/Hachiemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Snaps/Hachiemon%20%28Japan%29.png",
+      "source": "libretro_thumbnails",
+      "region": "jp"
+    }
+  ]
+}
