@@ -49,6 +49,35 @@ PLATFORMS = {
   'ms'  => 'Sega Master System'
 }.freeze
 
+# Expected Japanese release count per platform, used for the coverage
+# progress bars. Loaded lazily so a missing file just disables the bars.
+def platform_targets
+  @platform_targets ||= begin
+    path = File.join(ROOT, 'data', 'platform_targets.json')
+    return {} unless File.exist?(path)
+    JSON.parse(File.read(path)).dig('targets') || {}
+  end
+end
+
+# A game counts as "released in Japan" when we have a No-Intro ROM
+# tagged region=jp. That's the only evidence source that reliably maps
+# one-to-one with a real Japanese cartridge release — Wikidata and IGDB
+# labels will happily assign a ja tag to games that never shipped in
+# Japan (localized Wikipedia article titles etc).
+def japanese_release?(game)
+  (game['roms'] || []).any? { |r| r['region'] == 'jp' }
+end
+
+# Does the entry carry at least one Japanese-script title? This is the
+# "we have native-script metadata" signal. Latin script ja entries
+# (romaji transliterations) don't count — those are ASCII reverts of
+# the real Japanese name and are already covered by the No-Intro name.
+def has_native_japanese_title?(game)
+  game['titles'].any? do |t|
+    t['lang'] == 'ja' && %w[Jpan Hira Kana].include?(t['script'])
+  end
+end
+
 # ---------------------------------------------------------------------------
 # Loaders / writers
 
@@ -170,6 +199,33 @@ CSS = <<~CSS
   .game-list-item .thumb { flex: 0 0 80px; }
   .game-list-item .thumb img { width: 80px; height: auto; border-radius: 3px; }
   .game-list-item .info { flex: 1; min-width: 0; }
+  .progress {
+    position: relative;
+    background: var(--code-bg);
+    border-radius: 4px;
+    height: 20px;
+    overflow: hidden;
+    margin: 1em 0;
+    border: 1px solid var(--line);
+  }
+  .progress-bar {
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    background: linear-gradient(90deg, #22c55e 0%, #16a34a 100%);
+    transition: width 0.4s ease;
+  }
+  .progress-label {
+    position: relative;
+    z-index: 1;
+    font-size: 0.82em;
+    color: #111;
+    text-align: center;
+    line-height: 20px;
+    text-shadow: 0 0 2px rgba(255,255,255,0.6);
+  }
+  .progress-sm { height: 14px; margin: 0.4em 0 0; }
+  .progress-sm .progress-label { line-height: 14px; font-size: 0.72em; }
+  .target-note { color: var(--muted); font-size: 0.85em; margin-top: -0.5em; }
   * { box-sizing: border-box; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
@@ -276,10 +332,12 @@ CSS
 
 def render_landing(stats, platforms_meta)
   rows = platforms_meta.map { |p|
+    bar = render_progress_bar(p['jp_named'], p['jp_released'], p['jp_percent'], size: :sm)
     <<~LI
       <li>
         <a href="platforms/#{p['id']}/"><strong>#{h(p['name'])}</strong></a>
         <div class="count">#{p['count']} games &middot; <code>#{p['id']}</code></div>
+        #{bar}
       </li>
     LI
   }.join
@@ -292,10 +350,28 @@ def render_landing(stats, platforms_meta)
     "<tr><th><code>#{h(k)}</code></th><td>#{v}</td></tr>"
   }.join
 
+  tracked = platforms_meta.select { |p| p['jp_released']&.positive? }
+  overall_progress = if tracked.any?
+                       total_named    = tracked.sum { |p| p['jp_named'] }
+                       total_released = tracked.sum { |p| p['jp_released'] }
+                       pct = (total_named * 100.0 / total_released).round(1)
+                       width = pct.clamp(0, 100)
+                       %(
+                         <div class="progress">
+                           <div class="progress-bar" style="width: #{width}%"></div>
+                           <div class="progress-label"><strong>#{total_named}</strong> / #{total_released} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong></div>
+                         </div>
+                         <p class="target-note">Help us reach 100% — every missing entry is a real retro game whose Japanese title is not in the database yet.</p>
+                       ).strip
+                     else
+                       ''
+                     end
+
   body = <<~HTML
     <h1>Native Game DB</h1>
     <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in Japanese, Korean, Chinese, and other non-Latin writing systems.</p>
     <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
+    #{overall_progress}
 
     <h2>Browse by platform</h2>
     <ul class="platform-grid">#{rows}</ul>
@@ -323,7 +399,22 @@ def render_landing(stats, platforms_meta)
   layout(title: 'Native Game DB', body: body, root_rel: '')
 end
 
-def render_platform_page(platform_id, name, games)
+def render_progress_bar(named, released, pct, size: :lg)
+  return '' unless released && released.positive?
+  width = pct.clamp(0, 100)
+  klass = size == :sm ? 'progress progress-sm' : 'progress'
+  label = size == :sm ?
+    %(<strong>#{named}</strong>&thinsp;/&thinsp;#{released} &middot; #{pct}%) :
+    %(<strong>#{named}</strong> / #{released} Japanese releases have a native-script title &middot; <strong>#{pct}%</strong>)
+  %(
+    <div class="#{klass}" title="#{named} named out of #{released} Japanese releases">
+      <div class="progress-bar" style="width: #{width}%"></div>
+      <div class="progress-label">#{label}</div>
+    </div>
+  ).strip
+end
+
+def render_platform_page(platform_id, name, games, progress = nil, target = nil)
   rows = games.map { |g|
     title    = display_title(g)
     ja       = primary_title(g, 'ja')
@@ -348,9 +439,23 @@ def render_platform_page(platform_id, name, games)
     LI
   }.join
 
+  progress_html = if progress && progress['jp_released']&.positive?
+                    render_progress_bar(progress['jp_named'], progress['jp_released'], progress['jp_percent'])
+                  else
+                    ''
+                  end
+
+  official_note = if progress && progress['official_total']
+                    %(<p class="target-note">Official count: <strong>#{progress['official_total']}</strong> Japanese releases#{target && target['source_url'] ? %( (<a href="#{h(target['source_url'])}">source</a>)) : ''}.</p>)
+                  else
+                    ''
+                  end
+
   body = <<~HTML
     <h1>#{h(name)}</h1>
-    <p class="lead">#{games.size} games &middot; <a href="../../api/v1/#{platform_id}.json">JSON API</a></p>
+    <p class="lead">#{games.size} games in the database &middot; <a href="../../api/v1/#{platform_id}.json">JSON API</a></p>
+    #{progress_html}
+    #{official_note}
     <ul class="game-list">#{rows}</ul>
   HTML
 
@@ -696,15 +801,28 @@ def main
       end
     end
 
-    write_html(File.join(DIST, 'platforms', platform_id, 'index.html'),
-               render_platform_page(platform_id, name, games))
+    jp_released = games.count { |g| japanese_release?(g) }
+    jp_named    = games.count { |g| japanese_release?(g) && has_native_japanese_title?(g) }
+    target      = platform_targets[platform_id]
+    official    = target && target['jp_total']
 
-    platforms_meta << {
+    progress = {
+      'jp_released' => jp_released,
+      'jp_named'    => jp_named,
+      'jp_percent'  => jp_released.positive? ? (jp_named * 100.0 / jp_released).round(1) : nil
+    }
+    progress['official_total'] = official if official
+
+    write_html(File.join(DIST, 'platforms', platform_id, 'index.html'),
+               render_platform_page(platform_id, name, games, progress, target))
+
+    pmeta = {
       'id'    => platform_id,
       'name'  => name,
       'count' => games.size,
       'url'   => "/api/#{API_VERSION}/#{platform_id}.json"
-    }
+    }.merge(progress)
+    platforms_meta << pmeta
 
     all_games.concat(games)
   end

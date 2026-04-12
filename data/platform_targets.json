@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "description": "Expected total number of titles released in Japan per platform. Used to show a coverage percentage on the site so visitors can see how close the DB is to 100 percent.",
+    "field_meaning": "Number of titles officially released in Japan (the native-script market)"
+  },
+  "targets": {
+    "gb": {
+      "jp_total": 781,
+      "source": "Nintendo 発売ソフトタイトル数推移表 (Japan monochrome GB only). Confirmed by ja.wikipedia 'ゲームボーイのゲームタイトル一覧' which cites the same figure.",
+      "source_url": "https://ja.wikipedia.org/wiki/ゲームボーイのゲームタイトル一覧"
+    }
+  }
+}
