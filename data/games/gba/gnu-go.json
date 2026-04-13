@@ -100,6 +100,41 @@
       "text": "GNU Go is a free software program by the Free Software Foundation that plays Go. Its source code is quite portable, and can be easily compiled for Linux, as well as other Unix-like systems, Microsoft Windows and macOS; ports exist for other platforms.\nThe program plays Go against the user, at about 5 to 7 kyu strength on the 9×9 board. Multiple board sizes are supported, from 5×5 to 19×19.",
       "lang": "en",
       "source": "wikipedia_en"
+    },
+    {
+      "text": "GNU Go（グヌー・ゴ）は、フリーソフトウェア財団によって開発された、コンピュータが人間と囲碁の対局（コンピュータ囲碁）を行うための自由ソフトウェア。GNU Goのソースコードは可搬性が高く、Linuxおよび他のUNIX形式のシステム、Windows、macOSなどで簡単にコンパイルできる。その他のプラットフォームへの移植版も存在する。\nGNU Goの棋力はlevel 10においておよそ5級とされる。碁盤サイズは5×5から19×19までをサポートしている。\nGNU Go自身はASCIIベースではあるが、Go Modem ProtocolおよびGo Text Protocolという2つのプロトコルをサポートしており、これらを使ったGUIフロントエンドが別途実装されている。",
+      "lang": "ja",
+      "source": "wikipedia_ja"
+    },
+    {
+      "text": "GNU Go는 자유 소프트웨어 재단의 자유 소프트웨어 프로그램으로 바둑을 둔다. 소스 코드는 이식성이 뛰어나 리눅스와 다른 유닉스 계열 시스템, 마이크로소프트 윈도우 및 macOS용으로 쉽게 컴파일할 수 있으며, 다른 플랫폼을 위한 이식 버전도 존재한다.\n이 프로그램은 사용자와 바둑을 두며, 9×9 바둑판에서 약 5단에서 7급 정도의 실력을 보여준다. 5×5에서 19×19까지 다양한 바둑판 크기를 지원한다.",
+      "lang": "ko",
+      "source": "wikipedia_ko"
+    },
+    {
+      "text": "GNU Go是自由軟体基金會所研發的圍棋軟體。它的原始碼具有可移植性，能夠輕易的編譯成GNU/Linux的軟件，也可移植到類 Unix 系統或Microsoft Windows和Mac OS X上運行。",
+      "lang": "zh",
+      "source": "wikipedia_zh"
+    },
+    {
+      "text": "GNU Go est un logiciel libre qui joue au go. Son code source est en  C portable et peut être compilé simplement sous GNU/Linux, aussi bien que sous d'autres Unix, Windows et Mac OS X ; les portages existent pour d'autres plates-formes. Il est distribué selon les termes de la licence GNU GPL.",
+      "lang": "fr",
+      "source": "wikipedia_fr"
+    },
+    {
+      "text": "GNU Go es una aplicación libre de inteligencia artificial que juega al Go. Dado que el objetivo de los desarrolladores es crear un buen programa que juegue al Go, GNU Go tiene una interfaz gráfica muy elemental basada en ASCII. Sin embargo, hay otras aplicaciones que pueden usarse para dar una interfaz más amigable al usuario.\nEn las últimas versiones GNUGo juega bastante bien, llegando al nivel 9 kyu. Al ser software libre se ha portado a multitud de sistemas (Linux, Windows, MacOS, QNX, PDA...) incluso una versión no oficial para la consola Game Boy Advance.",
+      "lang": "es",
+      "source": "wikipedia_es"
+    },
+    {
+      "text": "GNU Go ist eine von der Free Software Foundation herausgegebene freie Software, die Go spielen kann. Sie steht unter der GNU General Public License.\nDas Programm unterstützt verschiedene Brettgrößen von 5 × 5 bis 19 × 19 Feldern. Die Spielstärke entspricht etwa dem 5. Kyū, damit bleibt es deutlich hinter dem Niveau zurück, das durch die besten Programme auf einigermaßen schneller Hardware erreicht wird. Dieser Abstand zu den besten Programmen hat sich allerdings erst vor relativ kurzer Zeit (seit etwa 2006) durch große Fortschritte in der Entwicklung von Programmen mit grundsätzlich anderer Funktionsweise als GnuGo ergeben.\nGNU Go hat keine grafische Benutzeroberfläche, es existiert lediglich eine Art ASCII-Art-Interface für die Kommandozeile. Um es als Computerspiel einsetzen zu können, sollte ein zweites Programm, das als Client des GNU-Go-Servers fungiert, verwendet werden. Zur Kommunikation mit Clients unterstützt GNU Go zwei Protokolle: das Go Modem Protokoll und das Go Text Protokoll. Beide basieren auf ASCII.",
+      "lang": "de",
+      "source": "wikipedia_de"
+    },
+    {
+      "text": "GNU Go — свободная программа от Фонда свободного программного обеспечения, которая играет в го. Благодаря отказу от графического интерфейса, GNU Go может компилироваться для широкого спектра платформ: Linux, других UNIX-подобных систем, Microsoft Windows, Mac OS X и так далее.\nПрограмма играет на уровне 8—12 кю и поддерживает размеры досок от 5×5 до 19×19.\nGNU Go не имеет встроенного графического интерфейса, но поддерживает два протокола — Go Modem Protocol и Go Text Protocol (GTP) — для «общения» с другими программами. Это позволяет выбрать одну из множества существующих программ-интерфейсов для игры. GTP также используется разработчиками как внутренний протокол, на котором можно формулировать задачи для GNU Go.\nПрограмма участвовала во многих соревнованиях по компьютерному го и неоднократно занимала призовые места: так, например, GNU Go завоевала золотую медаль на 8-й и 11-й Компьютерных олимпиадах.\nТекущей стабильной версией является GNU Go 3.8, выпущенная 19 февраля 2009 года.\nТакже существует альтернативная версия GNU Go 3.9.1, выпущенная 21 декабря 2010 года.",
+      "lang": "ru",
+      "source": "wikipedia_ru"
     }
   ]
 }

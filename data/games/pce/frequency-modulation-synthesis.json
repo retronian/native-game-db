@@ -45,6 +45,51 @@
       "text": "Frequency modulation synthesis (or FM synthesis) is a form of sound synthesis whereby the frequency of a waveform is changed by modulating its frequency with a modulator. The (instantaneous) frequency of an oscillator is altered in accordance with the amplitude of a modulating signal.\nFM synthesis can create both harmonic and inharmonic sounds. To synthesize harmonic sounds, the modulating signal must have a harmonic relationship to the original carrier signal. As the amount of frequency modulation increases, the sound grows progressively complex. Through the use of modulators with frequencies that are non-integer multiples of the carrier signal (i.e. inharmonic), inharmonic bell-like and percussive spectra can be created.\nFM synthesis using analog oscillators may result in pitch instability. However, FM synthesis can also be implemented digitally, which is more stable and became standard practice.",
       "lang": "en",
       "source": "wikipedia_en"
+    },
+    {
+      "text": "FM音源（エフエムおんげん）は、周波数変調（frequency modulation, FM）を応用する音色合成方式を用いた音源。ジョン・チャウニングを中心としてスタンフォード大学のCCRMA（Center for Computer Research in Music and Acoustics）で開発されたものを、1973年に日本楽器製造（現・ヤマハ）がライセンスに関して独占契約を結んで実用化した。\n基本波形の発振・変調をおこなう合成器（オペレータと呼ばれる）を複数組み合わせて音色を合成する。数学的には発振機構が二重振り子のような非線形演算に基づいているため、演奏に合わせて波形生成のパラメーターを変化させることにより倍音成分が大きく変化し、音色を劇的に変化させることが可能である。しかし、その挙動はカオスであるため、パラメータの変動による倍音変化は予測し難い。\nそれまでの減算方式のアナログシンセサイザーにはなかった複雑な倍音成分を持つ音色、特にエレクトリックピアノやブラスのほか、非整数次倍音を含むベル系の金属的な音色の再現が特長とされる。FM音源が奏でるきらびやかで金属的な響きは1980年代のポピュラー音楽に多く取り入れられ、当時を象徴するサウンドとも評されている。\nFM音源の音色の定義に要するパラメーターはせいぜい数十バイト程度であり、メモリーの使用量を筆頭として要求される計算資源が比較的少なく、パーソナルコンピュータ、家庭用ゲーム機、携帯電話などに広く利用されていた（詳しくは後述）。",
+      "lang": "ja",
+      "source": "wikipedia_ja"
+    },
+    {
+      "text": "FM 음원은 주파수 변조(Frequency Modulation)를 이용하는 소리를 합성하는 방식을 말한다.\n오실레이터가 여러 개의 사인(sine)파를 발생시켜 다시 이를 변형시키는 과정을 통해 소리를 만들어 낸다. 이때 이러한 변형 과정을 수행하는 장치를 오퍼레이터라고 부른다. 이 오퍼레이터는 여러 가지 형태의 파형들을 합성해 새로운 형태의 파형들을 합성해 새로운 형태의 파형을 만드는 역할을 한다.\n이 기술은 1967~1968년 미국 스탠퍼드 대학교의 John Chowning가 발견해 1975년 특허를 취득했으며 나중에 야마하에서 라이선스를 받는다. FM 음원은 80년대 야마하의 초기 디지털 신시사이저의 기초가 되었으며 1983년 발매한 DX7 신서사이저가 그 대표이다. 또 야먀하의 FM 음원 칩은 게임기나 사운드 카드, 휴대전화 등에 널리 쓰여 상업적으로도 성공하였다.\nFM 음원이 만들어 내는 소리에 대해서 현악기나 관악기 재생력은 좋은 반면 타악기는 음질이 떨어진다는 의견이 있지만 실제 악기들의 소리를 기준으로 했을 때의 이야기로 테크노나 전자 음악처럼 개성있는 소리를 표현하기에는 적합한 음원이라 할 수 있다.\n1995년 스탠퍼드 대학교의 FM 특허 시효가 종료되었다.",
+      "lang": "ko",
+      "source": "wikipedia_ko"
+    },
+    {
+      "text": "调频合成（Frequency Modulation Synthesis，简称FM合成）是一种声音合成技术，其原理是通过一个调制器来调制一个波形的频率，从而改变该波形的频率。具体来说，振荡器的（瞬时）频率会根据调制信号的振幅发生变化。\nFM合成能够生成谐波和非谐波两类声音。若要合成谐波声音，调制信号的频率必须与原始载波信号的频率呈谐波关系。随着调频程度的增加，合成出的声音会变得越来越复杂。如果使用的调制器频率与载波信号频率之间是非整数倍关系（即非谐波关系），则可以生成具有钟声或敲击乐器特性的非谐波频谱。\n采用模拟振荡器的FM合成可能会导致音高不稳定。FM合成也可以通过数字方式实现，这种方式更为稳定，并已成为标准做法。",
+      "lang": "zh",
+      "source": "wikipedia_zh"
+    },
+    {
+      "text": "La synthèse FM est un procédé de synthèse sonore algorithmique qui utilise la modulation de fréquence (FM pour frequency modulation). Le procédé est breveté par l'ingénieur John Chowning en 1973 au CCRMA de Stanford, puis le brevet a été racheté par Yamaha qui l'a mis en application pour concevoir le synthétiseur numérique à programmation algorithmique DX7 et bien d'autres synthétiseurs de la série DX. L'atout principal de la synthèse FM est qu'à partir de seulement deux oscillateurs produisant chacun des formes d'ondes sinusoïdales il est possible de générer un son très riche en harmoniques. La synthèse FM a donc été popularisée et largement exploitée par Yamaha avant que le brevet tombe dans le domaine public. Cette synthèse a depuis été utilisée par d'autres constructeurs tels que l'italien Elka dès les années 1980 (synthétiseur EK44), le suédois Clavia (synthétiseur Nord Modular), ou encore le français Kodamo (synthétiseur EssenceFM).",
+      "lang": "fr",
+      "source": "wikipedia_fr"
+    },
+    {
+      "text": "La modulación de frecuencia es una de las formas de hacer síntesis de sonido, y consiste en variar la frecuencia de una señal (denominada portadora) con respecto a una segunda (denominada moduladora), generando finalmente una “onda modulada en frecuencia (FM)”.\nLa síntesis por modulación usa generalmente de dos a seis osciladores, mientras que la síntesis aditiva requiere de un oscilador para cada armónico, o la síntesis substractiva requieren de un filtro para generar variaciones en el contenido armónico de la señal.  Esto quiere decir que la síntesis por modulación de frecuencia es más efectiva, aunque menos controlable en términos del espectro generado. La FM  puede generar salidas de señal complejas que contengan múltiples frecuencias con sólo dos osciladores. Este método de síntesis se hizo famoso dentro del ámbito académico gracias al compositor John Chowning y posteriormente en el mundo gracias a “Yamaha” pues compró los derechos de la FM y realizó grandes series de sintetizadores basados en este proceso.\nLa diferencia entre FM y AM (Modulación de amplitud) es que en vez de simplemente sumar o restar bandas laterales (sidebands), la modulación de Frecuencias de dos ondas sin",
+      "lang": "es",
+      "source": "wikipedia_es"
+    },
+    {
+      "text": "Die FM-Synthese bzw. Frequenzmodulationssynthese bezeichnet ein technisches Modulationsverfahren, das auf der Frequenzmodulation basiert. Dabei wird im einfachsten Fall mittels zweier Oszillatoren die erste Frequenz direkt von der Amplitude des zweiten Oszillators frequenzmoduliert.\nIm Unterschied zu der in der Radio- und Nachrichtentechnik als Übertragungssystem verwendeten Frequenzmodulation liegen die beiden Frequenzen bei der FM-Synthese spektral nahe beieinander. Die Motivation ist die Gewinnung komplexer Signalverläufe, die mit einzelnen Oszillatoren nicht zu gewinnen sind. Die einzelnen Grundfrequenzen bewegen sich für Anwendungen aus dem Bereich der elektronischen Musik und der Tontechnik im für den Menschen hörbaren Frequenzbereich.",
+      "lang": "de",
+      "source": "wikipedia_de"
+    },
+    {
+      "text": "In musica e nella riproduzione audio la sintesi a modulazione di frequenza, o sintesi FM è una tecnica di sintesi sonora dove il timbro di una forma d'onda semplice viene modificato modulando la sua frequenza con una frequenza di modulazione, ottenendo una forma d'onda più complessa ed un tono con un suono differente.\nNella sintesi di suoni armonici il segnale di modulazione deve avere una relazione armonica con il segnale portante originale. Al crescere della modulazione della frequenza aumenta anche la complessità del suono ottenuto. La creazione di suoni simili a quelli prodotti da strumenti a percussione o campane si può ottenere attraverso l'uso di modulatori con frequenze che non sono multipli interi del segnale portante (ossia non sono armonici).",
+      "lang": "it",
+      "source": "wikipedia_it"
+    },
+    {
+      "text": "Em síntese de áudio, modulação em freqüência (ou síntese FM) é uma forma de síntese onde o timbre de uma onda simples é alterado modulando sua frequência com uma freqüência de modulação que esteja na faixa audível, resultando em uma forma de onda mais complexa e uma sonoridade diferente. A freqüência de um oscilador é alterada ou distorcida “de acordo com a amplitude de um sinal modulado.” (Dodge e Jerse 1997, p. 115)\nPara sintetizar sons harmônicos, o sinal de modulação deve ter uma relação harmônica com o sinal de portador original. Conforme se aumenta a modulação em freqüência, o som torna-se mais complexo. Através do uso de moduladores com freqüências que são múltiplos não-inteiros do sinal de portadora (ou seja, freqüências não harmônicas), sons dissonantes e percussivos podem ser facilmente criados.",
+      "lang": "pt",
+      "source": "wikipedia_pt"
+    },
+    {
+      "text": "FM-синтез (англ. Frequency Modulation, FM - частотно-модуляционный), операторный синтез — способ синтеза звуковых волн, основанный на частотной модуляции колебания простой (например, синусоидальной) формы. Результатом является звуковая волна с переменным периодом, отличная по тону звучания от исходного колебания. Варьируя такие параметры, как отношение частоты модулирующего колебания к частоте модулируемого колебания и индекс модуляции, можно изменять тембр в широких пределах, получая как гармонические, так и негармонические (например, подобные звучанию колокола или ударных инструментов) звуки.\nМетод был предложен в 1967 году Джоном Чоунингом. Наиболее известной моделью синтезатора, использующего FM-синтез, является Yamaha DX7, производившаяся с 1983 по 1986 год.",
+      "lang": "ru",
+      "source": "wikipedia_ru"
     }
   ]
 }

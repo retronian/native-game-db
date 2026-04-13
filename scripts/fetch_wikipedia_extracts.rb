@@ -36,16 +36,18 @@ SPARQL_BATCH  = 500
 EXTRACT_BATCH = 20   # MediaWiki extracts API hard limit
 EXTRACT_CHARS = 1200 # how much of the intro to keep
 
-# ---------- SPARQL: QID -> en article title ----------
+LANG_LIST = %w[en ja ko zh fr es de it pt ru].freeze
 
-def sparql_qid_to_enwiki(qids)
+# ---------- SPARQL: QID -> {lang}.wikipedia article title ----------
+
+def sparql_qid_to_article(qids, lang)
   return {} if qids.empty?
   values = qids.map { |q| "wd:#{q}" }.join(' ')
   query = <<~SPARQL
     SELECT ?item ?articleName WHERE {
       VALUES ?item { #{values} }
       ?article schema:about ?item ;
-               schema:isPartOf <https://en.wikipedia.org/> ;
+               schema:isPartOf <https://#{lang}.wikipedia.org/> ;
                schema:name ?articleName .
     }
   SPARQL
@@ -63,7 +65,7 @@ def sparql_qid_to_enwiki(qids)
     begin
       data = JSON.parse(out)
     rescue JSON::ParserError
-      warn '    sparql returned non-JSON, skipping batch'
+      warn "    sparql[#{lang}] returned non-JSON, skipping batch"
       return {}
     end
     map = {}
@@ -78,12 +80,12 @@ end
 
 # ---------- MediaWiki extracts API ----------
 
-def fetch_extracts(article_titles)
+def fetch_extracts(article_titles, lang)
   return {} if article_titles.empty?
   args = ['curl', '-sL', '-G',
           '--max-time', '45',
           '-H', "User-Agent: #{USER_AGENT}",
-          'https://en.wikipedia.org/w/api.php',
+          "https://#{lang}.wikipedia.org/w/api.php",
           '--data-urlencode', 'action=query',
           '--data-urlencode', 'prop=extracts',
           '--data-urlencode', 'exintro=1',
@@ -96,7 +98,7 @@ def fetch_extracts(article_titles)
   begin
     data = JSON.parse(out)
   rescue JSON::ParserError
-    warn '    extracts returned non-JSON, skipping batch'
+    warn "    extracts[#{lang}] returned non-JSON, skipping batch"
     return {}
   end
 
@@ -108,12 +110,10 @@ def fetch_extracts(article_titles)
     next unless p['title']
     ex = p['extract']
     next if ex.nil? || ex.strip.empty?
-    # Trim to roughly EXTRACT_CHARS
     text = ex.strip[0, EXTRACT_CHARS]
     by_title[p['title']] = text
   end
 
-  # Map back from requested title (pre-redirect) to final extract.
   map = {}
   article_titles.each do |req|
     final = redirects[req] || req
@@ -131,101 +131,106 @@ def each_platform_game(platform_id)
   end
 end
 
-def already_has_extract?(game)
-  (game['descriptions'] || []).any? { |d| d['source'] == 'wikipedia_en' }
+def already_has_extract?(game, lang)
+  src = "wikipedia_#{lang}"
+  (game['descriptions'] || []).any? { |d| d['source'] == src }
 end
 
-def first_en_title(game)
-  game['titles'].find { |t| t['lang'] == 'en' && t['script'] == 'Latn' }&.dig('text')
+def title_for_lang(game, lang)
+  # Prefer a ja title for ja.wiki lookups (and so on), fall back to en.
+  pref = game['titles'].find { |t| t['lang'] == lang && t['script'] != 'Latn' }
+  pref ||= game['titles'].find { |t| t['lang'] == lang }
+  pref ||= game['titles'].find { |t| t['lang'] == 'en' && t['script'] == 'Latn' }
+  pref&.dig('text')
+end
+
+def process_platform(pf, lang, by_title:, dry_run:, limit:)
+  entries = []
+  each_platform_game(pf) do |path, game|
+    next if already_has_extract?(game, lang)
+    if by_title
+      title = title_for_lang(game, lang)
+      next if title.nil? || title.empty?
+      entries << { path: path, game: game, title: title }
+    else
+      qid = game.dig('external_ids', 'wikidata')
+      next unless qid
+      entries << { path: path, game: game, qid: qid }
+    end
+  end
+  entries = entries.first(limit) if limit
+  puts "  #{pf}/#{lang}: #{entries.size} candidate entries"
+  return if entries.empty?
+
+  totals = Hash.new(0)
+  entry_to_article = {}
+
+  if by_title
+    entries.each { |e| entry_to_article[e] = e[:title] }
+    articles_to_fetch = entries.map { |e| e[:title] }.uniq
+  else
+    qid_to_article = {}
+    entries.each_slice(SPARQL_BATCH).with_index do |batch, i|
+      qids = batch.map { |e| e[:qid] }
+      got = sparql_qid_to_article(qids, lang)
+      qid_to_article.merge!(got)
+      puts "    sparql[#{lang}] batch #{i + 1}: #{qids.size} -> #{got.size} articles"
+      sleep 0.4
+    end
+    entries.each { |e| entry_to_article[e] = qid_to_article[e[:qid]] }
+    articles_to_fetch = qid_to_article.values.uniq
+  end
+
+  article_to_extract = {}
+  articles_to_fetch.each_slice(EXTRACT_BATCH).with_index do |batch, i|
+    got = fetch_extracts(batch, lang)
+    article_to_extract.merge!(got)
+    if ((i + 1) % 20).zero?
+      puts "    extracts[#{lang}] batch #{i + 1}/#{(articles_to_fetch.size / EXTRACT_BATCH.to_f).ceil}: running total #{article_to_extract.size}"
+    end
+    sleep 0.3
+  end
+  puts "    #{lang} intros: #{article_to_extract.size}"
+
+  entries.each do |entry|
+    article = entry_to_article[entry]
+    unless article
+      totals[:no_article] += 1
+      next
+    end
+    extract = article_to_extract[article]
+    unless extract
+      totals[:no_extract] += 1
+      next
+    end
+
+    descs = entry[:game]['descriptions'] ||= []
+    descs << { 'text' => extract, 'lang' => lang, 'source' => "wikipedia_#{lang}" }
+    totals[:added] += 1
+    File.write(entry[:path], JSON.pretty_generate(entry[:game]) + "\n") unless dry_run
+  end
+
+  puts "    totals[#{lang}]: #{totals}"
 end
 
 def main
-  options = { dry_run: false, platform: nil, limit: nil, by_title: false, skip_qid: false }
+  options = { dry_run: false, platform: nil, limit: nil, by_title: false, langs: %w[en] }
   OptionParser.new do |opts|
-    opts.banner = 'Usage: ruby scripts/fetch_wikipedia_extracts.rb [--platform ID] [--dry-run] [--by-title]'
+    opts.banner = 'Usage: ruby scripts/fetch_wikipedia_extracts.rb [--platform ID] [--lang en,ja,...] [--dry-run]'
     opts.on('--dry-run') { options[:dry_run] = true }
     opts.on('--platform ID') { |p| options[:platform] = p }
     opts.on('--limit N', Integer) { |n| options[:limit] = n }
-    opts.on('--by-title', 'skip QID phase, look up en.wiki by English title') { options[:by_title] = true }
-    opts.on('--skip-qid', 'alias for --by-title') { options[:by_title] = true }
+    opts.on('--by-title', 'skip QID phase, look up by title from game entry') { options[:by_title] = true }
+    opts.on('--lang LIST', 'comma-separated language codes, or "all"') { |l| options[:langs] = l == 'all' ? LANG_LIST : l.split(',') }
   end.parse!
 
   platforms = options[:platform] ? [options[:platform]] : PLATFORMS
-  puts "=== fetch_wikipedia_extracts#{options[:by_title] ? ' (by title)' : ''} ==="
+  puts "=== fetch_wikipedia_extracts (langs=#{options[:langs].join(',')}#{options[:by_title] ? ', by-title' : ''}) ==="
 
-  platforms.each do |pf|
-    entries = []
-    each_platform_game(pf) do |path, game|
-      next if already_has_extract?(game)
-      if options[:by_title]
-        title = first_en_title(game)
-        next if title.nil? || title.empty?
-        entries << { path: path, game: game, en_title: title }
-      else
-        qid = game.dig('external_ids', 'wikidata')
-        next unless qid
-        entries << { path: path, game: game, qid: qid }
-      end
+  options[:langs].each do |lang|
+    platforms.each do |pf|
+      process_platform(pf, lang, by_title: options[:by_title], dry_run: options[:dry_run], limit: options[:limit])
     end
-    entries = entries.first(options[:limit]) if options[:limit]
-    puts "  #{pf}: #{entries.size} candidate entries"
-    next if entries.empty?
-
-    totals = Hash.new(0)
-
-    articles_to_fetch = nil
-    entry_to_article = {}
-
-    if options[:by_title]
-      # Use the entry's English title directly as the Wikipedia page title.
-      entries.each { |e| entry_to_article[e] = e[:en_title] }
-      articles_to_fetch = entries.map { |e| e[:en_title] }.uniq
-    else
-      # Phase 1: QID -> en article title (via SPARQL sitelink)
-      qid_to_article = {}
-      entries.each_slice(SPARQL_BATCH).with_index do |batch, i|
-        qids = batch.map { |e| e[:qid] }
-        got = sparql_qid_to_enwiki(qids)
-        qid_to_article.merge!(got)
-        puts "    sparql batch #{i + 1}: #{qids.size} -> #{got.size} articles"
-        sleep 0.4
-      end
-      entries.each { |e| entry_to_article[e] = qid_to_article[e[:qid]] }
-      articles_to_fetch = qid_to_article.values.uniq
-    end
-
-    # Phase 2: article title -> extract
-    article_to_extract = {}
-    articles_to_fetch.each_slice(EXTRACT_BATCH).with_index do |batch, i|
-      got = fetch_extracts(batch)
-      article_to_extract.merge!(got)
-      if ((i + 1) % 20).zero?
-        puts "    extracts batch #{i + 1}/#{(articles_to_fetch.size / EXTRACT_BATCH.to_f).ceil}: running total #{article_to_extract.size}"
-      end
-      sleep 0.3
-    end
-    puts "    extracted intros: #{article_to_extract.size}"
-
-    # Phase 3: write back
-    entries.each do |entry|
-      article = entry_to_article[entry]
-      unless article
-        totals[:no_article] += 1
-        next
-      end
-      extract = article_to_extract[article]
-      unless extract
-        totals[:no_extract] += 1
-        next
-      end
-
-      descs = entry[:game]['descriptions'] ||= []
-      descs << { 'text' => extract, 'lang' => 'en', 'source' => 'wikipedia_en' }
-      totals[:added] += 1
-      File.write(entry[:path], JSON.pretty_generate(entry[:game]) + "\n") unless options[:dry_run]
-    end
-
-    puts "    totals: #{totals}"
   end
 end
 
