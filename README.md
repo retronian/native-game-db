@@ -104,10 +104,43 @@ The schema borrows the strongest ideas from existing game DBs and avoids their f
 - [komagata/skyscraper-ja](https://github.com/komagata/skyscraper-ja) — Japanese title import for Skyscraper cache (predecessor)
 - [retronian/OneOS](https://github.com/retronian/OneOS) — MinUI fork with Japanese support (data consumer)
 
+## Scope
+
+Native Game DB indexes **commercially released** retro games. Prototypes,
+betas, unlicensed dumps, pirate carts, samples, demos, hacks, aftermarket
+releases and homebrew are intentionally excluded. The decision is policed
+by the No-Intro region and revision tags in `roms[]`: an entry only stays
+in the database if at least one of its ROMs is a retail dump.
+
+## Data sources
+
+Every field on every entry carries a `source` tag so the provenance is
+auditable. The full set of upstream sources is:
+
+| Source | License | Used for |
+|---|---|---|
+| [Wikidata](https://www.wikidata.org/) | CC0 | titles, descriptions, external IDs |
+| [Wikipedia](https://www.wikipedia.org/) (en/ja/ko/zh/fr/es/de/it/pt/ru) | CC BY-SA 4.0 | titles, intro paragraph descriptions |
+| [No-Intro DAT](https://datomatic.no-intro.org/) | factual ROM metadata | `roms[]` (hashes, serials, sizes) |
+| [libretro-thumbnails](https://github.com/libretro-thumbnails/) | per-repo | `media[]` URLs |
+| [retronian/romu](https://github.com/retronian/romu), [komagata/gamelist-ja](https://github.com/komagata/gamelist-ja), [komagata/skyscraper-ja](https://github.com/komagata/skyscraper-ja) | MIT (sister projects) | hand-curated Japanese titles + descriptions |
+
+We deliberately **do not** ingest IGDB, MobyGames or GameFAQs: their
+terms of service forbid bulk redistribution of API payloads.
+
 ## Contributing
 
 Issue templates and the automated PR pipeline are coming in Phase 4. For now, please open a regular issue or pull request.
 
 ## License
 
-To be decided (likely CC0 or MIT).
+This repository is dual-licensed:
+
+- **Code** (`scripts/`, `.github/`, `schema/`) — [MIT License](LICENSE)
+- **Data** (`data/games/`, the published JSON API and HTML pages) —
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+The data is CC BY-SA 4.0 because it incorporates content from Wikipedia,
+which is itself published under CC BY-SA 4.0. Every derivative work that
+contains Wikipedia text must be released under the same or a compatible
+license.

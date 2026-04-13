@@ -1,0 +1,108 @@
+Native Game DB is dual-licensed.
+
+────────────────────────────────────────────────────────────────────────
+1. CODE  ─  scripts/, .github/, schema/  ─  MIT License
+────────────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 Masaki Komagata and the Native Game DB contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+────────────────────────────────────────────────────────────────────────
+2. DATA  ─  data/games/, dist/api/, dist/games/, dist/search-index/
+        ─  Creative Commons Attribution-ShareAlike 4.0 International
+           (CC BY-SA 4.0)
+────────────────────────────────────────────────────────────────────────
+
+The game data in this repository is published under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made.
+  - ShareAlike — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license as
+    the original.
+
+The CC BY-SA license is required because the data set incorporates
+content from Wikipedia, which is itself published under CC BY-SA 4.0.
+Per Wikipedia's ShareAlike clause, every derivative work that contains
+Wikipedia text must be released under the same or a compatible license.
+
+
+────────────────────────────────────────────────────────────────────────
+3. UPSTREAM ATTRIBUTIONS
+────────────────────────────────────────────────────────────────────────
+
+This database is built by combining the following freely available
+sources. The corresponding fields on each entry carry a `source` tag so
+the provenance is auditable.
+
+  Wikidata           https://www.wikidata.org/
+                     CC0 1.0 Universal (Public Domain Dedication)
+                     Used for: external_ids.wikidata, titles, descriptions
+
+  Wikipedia          https://www.wikipedia.org/
+                     Multilingual: en, ja, ko, zh, fr, es, de, it, pt, ru
+                     CC BY-SA 4.0
+                     Used for: titles, descriptions (intro paragraphs)
+
+  No-Intro DAT       https://datomatic.no-intro.org/
+                     ROM checksums and canonical filenames are factual
+                     metadata. Redistributed here under fair use; not
+                     copyrightable as a database in most jurisdictions.
+                     Used for: roms[]
+
+  libretro-thumbnails https://github.com/libretro-thumbnails/
+                      Thumbnail images are stored as URLs only; the
+                      actual bytes remain on libretro's GitHub. Each
+                      submodule keeps its own copyright statement.
+                      Used for: media[].url
+
+  romu                https://github.com/retronian/romu
+  gamelist-ja         https://github.com/komagata/gamelist-ja
+  skyscraper-ja       https://github.com/komagata/skyscraper-ja
+                      MIT-licensed sister projects by the same author,
+                      hand-curated Japanese metadata pulled in via the
+                      merge_* scripts.
+
+
+────────────────────────────────────────────────────────────────────────
+4. SOURCES NOT USED
+────────────────────────────────────────────────────────────────────────
+
+The following sources were intentionally excluded because their terms
+of service or commercial licensing forbid bulk redistribution of the
+returned data:
+
+  - IGDB (Twitch Developer Services Agreement)
+  - MobyGames (proprietary terms, requires a commercial agreement)
+  - GameFAQs (no API, scraping disallowed)
+
+If you contribute data to this project, please make sure it does not
+originate from one of these sources.
