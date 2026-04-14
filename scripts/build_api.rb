@@ -151,24 +151,24 @@ def layout(title:, body:, root_rel: '')
       <title>#{h(title)} &middot; Native Game DB</title>
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Noto+Sans+JP:wght@400;700&display=swap">
       <link rel="stylesheet" href="#{root_rel}assets/style.css">
     </head>
     <body>
       <header class="site-header">
-        <a class="brand" href="#{root_rel}">Native Game DB</a>
+        <a class="brand" href="#{root_rel}">NATIVE GAME DB</a>
         <nav>
-          <a href="#{root_rel}">Browse</a>
-          <a href="#{root_rel}docs/schema.html">Schema</a>
-          <a href="#{root_rel}docs/contributing.html">Contributing</a>
-          <a href="https://github.com/retronian/native-game-db">GitHub</a>
+          <a href="#{root_rel}">BROWSE</a>
+          <a href="#{root_rel}docs/schema.html">SCHEMA</a>
+          <a href="#{root_rel}docs/contributing.html">CONTRIB</a>
+          <a href="https://github.com/retronian/native-game-db">GITHUB</a>
         </nav>
       </header>
       <main>
         #{body}
       </main>
       <footer class="site-footer">
-        <p><a href="https://github.com/retronian/native-game-db">retronian/native-game-db</a> &middot; CC&nbsp;BY-SA&nbsp;4.0 / MIT</p>
+        <p>&gt;&gt; <a href="https://github.com/retronian/native-game-db">retronian/native-game-db</a> &nbsp; * &nbsp; CC&nbsp;BY-SA&nbsp;4.0 / MIT &nbsp; * &nbsp; PRESS START &lt;&lt;</p>
       </footer>
     </body>
     </html>
@@ -177,23 +177,34 @@ end
 
 CSS = <<~CSS
   /* ================================================================
-   * Native Game DB — archive aesthetic
-   * Dense, monospace-led, hard 1px borders, single accent color.
-   * Designed for fast scanning of large catalogue data.
+   * Native Game DB — Cathode Ray Cartridge
+   *
+   * 80s/90s arcade + CRT terminal vibe. Black phosphor background,
+   * green readout, magenta + amber accents, scanline overlay,
+   * pixel font for chrome (Press Start 2P), VT323 for body.
    * ================================================================ */
 
   :root {
-    --bg:        #fbfaf6;
-    --bg-panel:  #ffffff;
-    --fg:        #14110f;
-    --fg-muted:  #6b6660;
-    --line:      #14110f;
-    --line-soft: #d6d2cb;
-    --code-bg:   #efeae0;
-    --accent:    #c83e1f;
+    --bg:        #07090a;
+    --bg-panel:  #0e1411;
+    --bg-panel2: #131a16;
+    --fg:        #c8f0d4;
+    --fg-dim:    #7da08a;
+    --fg-muted:  #4d6356;
+    --line:      #2a3a30;
+    --line-hard: #4a6a55;
+    --accent:    #ff3366;
+    --accent2:   #ffcc00;
+    --cyan:      #4ee0ff;
 
-    --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, "Cascadia Mono", Consolas, monospace;
-    --font-sans: ui-sans-serif, system-ui, -apple-system, "Helvetica Neue", "Hiragino Sans", "Noto Sans CJK JP", "BIZ UDPGothic", sans-serif;
+    --glow-fg:     0 0 6px rgba(120, 220, 150, 0.5);
+    --glow-strong: 0 0 8px rgba(120, 220, 150, 0.8), 0 0 16px rgba(120, 220, 150, 0.4);
+    --glow-pink:   0 0 6px rgba(255, 51, 102, 0.7), 0 0 14px rgba(255, 51, 102, 0.35);
+    --glow-amber:  0 0 6px rgba(255, 204, 0, 0.7), 0 0 14px rgba(255, 204, 0, 0.3);
+
+    --font-pixel: "Press Start 2P", "Courier New", monospace;
+    --font-term:  "VT323", "Courier New", "Noto Sans JP", monospace;
+    --font-body:  "VT323", "Courier New", "Noto Sans JP", monospace;
   }
 
   * { box-sizing: border-box; }
@@ -203,165 +214,189 @@ CSS = <<~CSS
     padding: 0;
     background: var(--bg);
     color: var(--fg);
-    font-family: var(--font-sans);
-    font-size: 16px;
-    line-height: 1.6;
+    font-family: var(--font-body);
+    font-size: 20px;
+    line-height: 1.45;
+    text-shadow: var(--glow-fg);
     -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
   }
 
-  /* Fine paper-like grain */
+  /* CRT scanlines overlay */
   body::before {
     content: "";
     position: fixed;
     inset: 0;
     pointer-events: none;
     z-index: 1000;
-    background-image: radial-gradient(rgba(20,17,15,0.025) 1px, transparent 1px);
-    background-size: 3px 3px;
-    mix-blend-mode: multiply;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.18) 0px,
+      rgba(0, 0, 0, 0.18) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+  }
+
+  /* CRT vignette + subtle phosphor cast */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 999;
+    background:
+      radial-gradient(ellipse at center, transparent 45%, rgba(0, 0, 0, 0.55) 100%),
+      radial-gradient(ellipse at top, rgba(120, 220, 150, 0.04) 0%, transparent 60%);
   }
 
   a {
     color: var(--accent);
     text-decoration: none;
-    border-bottom: 1px solid currentColor;
-    transition: background 0.12s, color 0.12s;
+    text-shadow: var(--glow-pink);
+    transition: text-shadow 0.12s;
   }
   a:hover {
-    background: var(--accent);
-    color: var(--bg);
+    color: var(--accent2);
+    text-shadow: var(--glow-amber);
   }
+  a::before { content: "["; opacity: 0.45; margin-right: 0.1em; }
+  a::after  { content: "]"; opacity: 0.45; margin-left: 0.1em; }
+  a.bare::before, a.bare::after { content: none; }
 
   /* ----- header / footer ----- */
 
   .site-header {
     max-width: 960px;
     margin: 0 auto;
-    padding: 1.4rem 1.6rem 1.2rem;
+    padding: 1.6rem 1.6rem 1.2rem;
     display: flex;
-    align-items: baseline;
+    align-items: center;
     gap: 1.6rem;
-    border-bottom: 2px solid var(--line);
+    border-bottom: 2px solid var(--line-hard);
     flex-wrap: wrap;
   }
   .site-header .brand {
-    font-family: var(--font-mono);
-    font-weight: 700;
-    font-size: 1.05rem;
-    color: var(--fg);
-    letter-spacing: -0.02em;
-    border-bottom: none;
-    margin-right: auto;
-    text-transform: lowercase;
-  }
-  .site-header .brand::before {
-    content: "▲ ";
+    font-family: var(--font-pixel);
+    font-size: 0.78rem;
     color: var(--accent);
+    text-shadow: var(--glow-pink);
+    margin-right: auto;
+    letter-spacing: 0.05em;
+    line-height: 1;
   }
+  .site-header .brand::before { content: none; }
+  .site-header .brand::after  { content: none; }
   .site-header .brand:hover {
-    background: var(--fg);
-    color: var(--bg);
+    color: var(--accent2);
+    text-shadow: var(--glow-amber);
   }
   .site-header nav {
     display: flex;
-    gap: 1.4rem;
-    font-family: var(--font-mono);
-    font-size: 0.78rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
+    gap: 1rem;
+    font-family: var(--font-pixel);
+    font-size: 0.55rem;
+    line-height: 1;
   }
   .site-header nav a {
-    color: var(--fg);
-    border-bottom: none;
+    color: var(--fg-dim);
+    text-shadow: 0 0 4px rgba(120, 220, 150, 0.3);
   }
+  .site-header nav a::before { content: none; }
+  .site-header nav a::after  { content: none; }
   .site-header nav a:hover {
-    background: var(--fg);
-    color: var(--bg);
+    color: var(--cyan);
+    text-shadow: 0 0 6px rgba(78, 224, 255, 0.7), 0 0 14px rgba(78, 224, 255, 0.35);
   }
 
   .site-footer {
     max-width: 960px;
-    margin: 4rem auto 0;
-    padding: 1.6rem 1.6rem 2.4rem;
-    border-top: 2px solid var(--line);
+    margin: 5rem auto 0;
+    padding: 1.6rem 1.6rem 2.6rem;
+    border-top: 2px solid var(--line-hard);
     text-align: center;
-    font-family: var(--font-mono);
-    font-size: 0.74rem;
+    font-family: var(--font-term);
+    font-size: 1rem;
     color: var(--fg-muted);
-    text-transform: uppercase;
     letter-spacing: 0.08em;
   }
-  .site-footer a { color: var(--fg-muted); border-bottom-color: var(--line-soft); }
-  .site-footer a:hover { background: var(--fg-muted); color: var(--bg); }
+  .site-footer a {
+    color: var(--fg-dim);
+    text-shadow: 0 0 4px rgba(120, 220, 150, 0.3);
+  }
+  .site-footer a::before { content: none; }
+  .site-footer a::after  { content: none; }
 
   /* ----- main column ----- */
 
   main {
     max-width: 960px;
     margin: 0 auto;
-    padding: 2.4rem 1.6rem 1rem;
+    padding: 2.6rem 1.6rem 1rem;
   }
 
   /* ----- typography ----- */
 
   h1 {
-    font-family: var(--font-mono);
-    font-weight: 700;
-    font-size: 2.2rem;
-    line-height: 1.05;
-    margin: 0 0 1.2rem;
-    letter-spacing: -0.035em;
+    font-family: var(--font-pixel);
+    font-size: 1.4rem;
+    line-height: 1.4;
+    margin: 0 0 1.6rem;
+    color: var(--accent2);
+    text-shadow: var(--glow-amber);
+    letter-spacing: 0.02em;
   }
   h2 {
-    font-family: var(--font-mono);
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    margin: 3.2rem 0 1rem;
-    padding-bottom: 0.45rem;
-    border-bottom: 1px solid var(--fg);
+    font-family: var(--font-pixel);
+    font-size: 0.7rem;
+    margin: 3.5rem 0 1.2rem;
+    padding-bottom: 0.6rem;
+    color: var(--accent);
+    text-shadow: var(--glow-pink);
+    border-bottom: 2px solid var(--line-hard);
+    letter-spacing: 0.04em;
+    line-height: 1.4;
   }
   h2::before {
-    content: "§ ";
-    color: var(--accent);
-    font-weight: 400;
+    content: ">> ";
+    color: var(--cyan);
+    text-shadow: 0 0 6px rgba(78, 224, 255, 0.7);
   }
   h3 {
-    font-family: var(--font-mono);
-    font-weight: 500;
-    font-size: 0.78rem;
-    text-transform: uppercase;
-    letter-spacing: 0.07em;
-    margin: 2rem 0 0.6rem;
+    font-family: var(--font-pixel);
+    font-size: 0.6rem;
+    margin: 2rem 0 0.8rem;
+    color: var(--cyan);
+    text-shadow: 0 0 6px rgba(78, 224, 255, 0.6);
+    line-height: 1.4;
   }
 
   p { margin: 0 0 1rem; }
   .lead {
-    font-size: 1.02rem;
-    color: var(--fg-muted);
+    font-size: 1.15rem;
+    color: var(--fg);
     max-width: 60ch;
-    margin: 0 0 1.4rem;
+    margin: 0 0 1.6rem;
+    line-height: 1.5;
   }
 
   /* ----- code ----- */
 
   code, pre {
-    font-family: var(--font-mono);
-    font-size: 0.84em;
-    background: var(--code-bg);
+    font-family: var(--font-term);
+    background: var(--bg-panel);
+    color: var(--cyan);
+    text-shadow: 0 0 4px rgba(78, 224, 255, 0.4);
   }
   code {
-    padding: 0.05em 0.4em;
-    border: 1px solid var(--line-soft);
+    padding: 0 0.35em;
+    border: 1px solid var(--line);
+    font-size: 0.95em;
   }
   pre {
     padding: 1rem 1.2rem;
     overflow-x: auto;
-    border: 1px solid var(--line);
-    background: var(--bg-panel);
-    line-height: 1.55;
+    border: 1px solid var(--line-hard);
+    line-height: 1.45;
     margin: 1rem 0 1.5rem;
   }
   pre code { background: none; border: none; padding: 0; font-size: inherit; }
@@ -371,91 +406,121 @@ CSS = <<~CSS
   table {
     width: 100%;
     border-collapse: collapse;
-    margin: 0.4rem 0 1.4rem;
-    font-size: 0.92rem;
+    margin: 0.6rem 0 1.6rem;
+    font-size: 1rem;
+    border: 1px solid var(--line-hard);
+    background: var(--bg-panel);
   }
   th, td {
     text-align: left;
-    padding: 0.55rem 0.7rem;
-    border-bottom: 1px solid var(--line-soft);
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--line);
     vertical-align: top;
   }
   th {
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-weight: 500;
-    color: var(--fg);
-    background: var(--code-bg);
-    border-bottom: 1px solid var(--line);
+    font-family: var(--font-pixel);
+    font-size: 0.55rem;
+    color: var(--accent2);
+    background: var(--bg-panel2);
+    text-shadow: var(--glow-amber);
+    border-bottom: 2px solid var(--line-hard);
+    line-height: 1.6;
+    letter-spacing: 0.03em;
   }
-  table thead tr { border-bottom: 2px solid var(--line); }
-  .stats-table th { width: 28%; }
-  .stats-table td { width: 72%; }
+  td { color: var(--fg); }
+  .stats-table th { width: 18%; }
+  .stats-table td { width: 82%; }
 
-  /* ----- platform grid ----- */
+  /* ----- platform grid (cartridge cards) ----- */
 
   .platform-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 0;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 0.8rem;
     list-style: none;
     padding: 0;
-    margin: 0.6rem 0 0;
-    border-top: 1px solid var(--line);
-    border-left: 1px solid var(--line);
+    margin: 0.8rem 0 0;
   }
   .platform-grid li {
-    border-right: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-    padding: 1rem 1.1rem 0.85rem;
+    border: 2px solid var(--line-hard);
     background: var(--bg-panel);
-    transition: background 0.12s;
+    padding: 1rem 1.1rem 0.9rem;
+    transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+    position: relative;
   }
-  .platform-grid li:hover { background: var(--code-bg); }
+  .platform-grid li::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 30%;
+    height: 4px;
+    background: var(--accent);
+    box-shadow: 0 0 8px rgba(255, 51, 102, 0.6);
+  }
+  .platform-grid li:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 12px rgba(255, 51, 102, 0.35), inset 0 0 12px rgba(255, 51, 102, 0.1);
+    transform: translateY(-1px);
+  }
+  .platform-grid li:hover::before {
+    width: 100%;
+    transition: width 0.25s ease-out;
+  }
   .platform-grid a {
-    font-family: var(--font-mono);
-    font-weight: 700;
-    font-size: 0.95rem;
+    font-family: var(--font-pixel);
+    font-size: 0.65rem;
     color: var(--fg);
-    border-bottom: none;
-    letter-spacing: -0.01em;
+    line-height: 1.45;
+    text-shadow: var(--glow-fg);
   }
-  .platform-grid a:hover { background: none; color: var(--accent); }
-  .platform-grid strong { font-weight: 700; }
+  .platform-grid a::before { content: none; }
+  .platform-grid a::after  { content: none; }
+  .platform-grid a:hover {
+    color: var(--accent2);
+    text-shadow: var(--glow-amber);
+  }
+  .platform-grid strong { font-weight: normal; }
   .platform-grid .count {
     display: block;
-    margin-top: 0.25rem;
-    font-family: var(--font-mono);
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--fg-muted);
+    margin-top: 0.6rem;
+    font-family: var(--font-term);
+    font-size: 0.95rem;
+    color: var(--fg-dim);
+    letter-spacing: 0.04em;
   }
   .platform-grid code {
     background: none;
     border: none;
     padding: 0;
-    color: var(--accent);
+    color: var(--cyan);
+    font-size: inherit;
   }
 
-  /* ----- progress bars ----- */
+  /* ----- progress bars (LCD readout) ----- */
 
   .progress {
     position: relative;
-    background: var(--bg-panel);
-    border: 1px solid var(--line);
-    height: 28px;
-    margin: 0.7rem 0 0.4rem;
+    background: var(--bg-panel2);
+    border: 2px solid var(--line-hard);
+    height: 30px;
+    margin: 0.8rem 0 0.5rem;
     overflow: hidden;
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.6);
   }
   .progress-bar {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
-    background: var(--accent);
+    background:
+      repeating-linear-gradient(
+        90deg,
+        var(--accent) 0px,
+        var(--accent) 6px,
+        rgba(255, 51, 102, 0.6) 6px,
+        rgba(255, 51, 102, 0.6) 7px
+      );
+    box-shadow: 0 0 12px rgba(255, 51, 102, 0.6), inset 0 0 12px rgba(255, 200, 200, 0.25);
   }
   .progress-label {
     position: absolute;
@@ -463,48 +528,52 @@ CSS = <<~CSS
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: var(--font-mono);
-    font-size: 0.78rem;
+    font-family: var(--font-term);
+    font-size: 1rem;
     color: var(--fg);
-    font-weight: 500;
     text-shadow:
-      0 0 3px var(--bg),
-      0 0 3px var(--bg),
-      0 0 3px var(--bg),
-      0 0 3px var(--bg);
+      0 0 4px var(--bg),
+      0 0 4px var(--bg),
+      0 0 4px var(--bg),
+      var(--glow-fg);
     pointer-events: none;
+    letter-spacing: 0.05em;
   }
-  .progress-sm { height: 18px; margin-top: 0.5rem; }
-  .progress-sm .progress-label { font-size: 0.7rem; }
+  .progress-sm { height: 20px; margin-top: 0.6rem; }
+  .progress-sm .progress-label { font-size: 0.85rem; }
 
   .target-note {
-    font-family: var(--font-mono);
-    font-size: 0.74rem;
-    color: var(--fg-muted);
-    margin: 0.4rem 0 1rem;
-    text-transform: uppercase;
+    font-family: var(--font-term);
+    font-size: 0.95rem;
+    color: var(--fg-dim);
+    margin: 0.5rem 0 1.2rem;
     letter-spacing: 0.04em;
   }
+  .target-note::before { content: "// "; color: var(--accent2); }
 
   /* ----- game list ----- */
 
   .game-list {
     list-style: none;
     padding: 0;
-    margin: 0.4rem 0 0;
-    border-top: 1px solid var(--line-soft);
+    margin: 0.6rem 0 0;
+    border-top: 1px solid var(--line);
   }
   .game-list-item {
     display: flex;
     gap: 1rem;
-    padding: 0.7rem 0;
-    border-bottom: 1px solid var(--line-soft);
+    padding: 0.7rem 0.4rem;
+    border-bottom: 1px solid var(--line);
     align-items: flex-start;
+    transition: background 0.1s;
+  }
+  .game-list-item:hover {
+    background: rgba(255, 51, 102, 0.06);
   }
   .game-list-item .thumb {
     flex: 0 0 56px;
-    background: var(--code-bg);
-    border: 1px solid var(--line-soft);
+    background: var(--bg-panel);
+    border: 1px solid var(--line-hard);
   }
   .game-list-item .thumb img {
     width: 100%;
@@ -514,36 +583,37 @@ CSS = <<~CSS
   }
   .game-list-item .info { flex: 1; min-width: 0; }
   .game-list-item a {
-    font-weight: 600;
-    font-size: 0.98rem;
+    font-size: 1.15rem;
     color: var(--fg);
-    border-bottom: none;
+    text-shadow: var(--glow-fg);
   }
+  .game-list-item a::before { content: none; }
+  .game-list-item a::after  { content: none; }
   .game-list-item a:hover {
-    background: none;
     color: var(--accent);
-    border-bottom: 1px solid var(--accent);
+    text-shadow: var(--glow-pink);
   }
   .game-list-item .meta {
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    color: var(--fg-muted);
-    margin-top: 0.25rem;
+    font-family: var(--font-term);
+    font-size: 0.95rem;
+    color: var(--fg-dim);
+    margin-top: 0.2rem;
     line-height: 1.5;
   }
   .badge {
     display: inline-block;
-    background: var(--fg);
-    color: var(--bg);
-    padding: 0.05rem 0.4rem;
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    text-transform: uppercase;
+    background: transparent;
+    color: var(--cyan);
+    padding: 0 0.4rem;
+    border: 1px solid var(--cyan);
+    font-family: var(--font-pixel);
+    font-size: 0.5rem;
+    line-height: 1.6;
     letter-spacing: 0.05em;
-    font-weight: 500;
+    text-shadow: 0 0 4px rgba(78, 224, 255, 0.5);
   }
 
-  .verified-yes { color: var(--accent); font-weight: 500; }
+  .verified-yes { color: var(--accent); text-shadow: var(--glow-pink); }
   .verified-no  { color: var(--fg-muted); }
 
   /* ----- media grid ----- */
@@ -551,14 +621,19 @@ CSS = <<~CSS
   .media-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 0.6rem;
+    gap: 0.7rem;
     margin: 1rem 0 1.5rem;
   }
   .media-grid figure {
     margin: 0;
-    border: 1px solid var(--line);
+    border: 2px solid var(--line-hard);
     background: var(--bg-panel);
     padding: 0.4rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .media-grid figure:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 12px rgba(255, 51, 102, 0.4);
   }
   .media-grid img {
     width: 100%;
@@ -567,19 +642,20 @@ CSS = <<~CSS
     image-rendering: pixelated;
   }
   .media-grid figcaption {
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--fg-muted);
-    margin-top: 0.35rem;
+    font-family: var(--font-pixel);
+    font-size: 0.5rem;
+    color: var(--cyan);
+    text-shadow: 0 0 4px rgba(78, 224, 255, 0.4);
+    margin-top: 0.4rem;
     text-align: center;
+    line-height: 1.4;
+    letter-spacing: 0.04em;
   }
 
   /* ----- description tabs (CSS-only) ----- */
 
   .desc-tabs {
-    border: 1px solid var(--line);
+    border: 2px solid var(--line-hard);
     margin: 1rem 0 1.5rem;
     background: var(--bg-panel);
   }
@@ -587,59 +663,65 @@ CSS = <<~CSS
   .desc-tabs .tab-labels {
     display: flex;
     flex-wrap: wrap;
-    border-bottom: 1px solid var(--line);
-    background: var(--code-bg);
+    border-bottom: 2px solid var(--line-hard);
+    background: var(--bg-panel2);
   }
   .desc-tabs .tab-labels label {
-    padding: 0.6rem 1rem;
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    padding: 0.7rem 1rem;
+    font-family: var(--font-pixel);
+    font-size: 0.55rem;
     cursor: pointer;
     color: var(--fg-muted);
-    border-right: 1px solid var(--line-soft);
+    border-right: 1px solid var(--line);
     user-select: none;
-    transition: background 0.1s, color 0.1s;
+    transition: color 0.1s, text-shadow 0.1s;
+    line-height: 1.4;
   }
   .desc-tabs .tab-labels label:hover {
-    background: var(--bg-panel);
-    color: var(--fg);
+    color: var(--cyan);
+    text-shadow: 0 0 6px rgba(78, 224, 255, 0.6);
   }
   .desc-tabs .tab-labels label code {
     background: none;
     border: none;
     padding: 0;
     color: inherit;
-    font-weight: 700;
-    margin-left: 0.2rem;
+    margin-left: 0.3rem;
+    font-family: inherit;
+    font-size: inherit;
+    text-shadow: inherit;
   }
   .desc-tabs .tab-panels {
     padding: 1.3rem 1.5rem;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
   }
   .desc-tabs .tab-panel { display: none; }
   .desc-tabs .tab-panel p {
     margin: 0 0 1.1rem;
-    line-height: 1.7;
+    line-height: 1.55;
   }
   .desc-tabs .tab-panel p:last-child { margin-bottom: 0; }
   .desc-tabs .tab-panel .src {
     display: block;
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--fg-muted);
-    margin-bottom: 0.35rem;
+    font-family: var(--font-pixel);
+    font-size: 0.45rem;
+    color: var(--accent2);
+    text-shadow: var(--glow-amber);
+    margin-bottom: 0.4rem;
+    letter-spacing: 0.04em;
   }
 
   /* ----- responsive ----- */
 
   @media (max-width: 640px) {
+    body { font-size: 18px; }
     main { padding: 1.6rem 1.1rem 0.5rem; }
-    .site-header { padding: 1rem 1.1rem 0.9rem; }
-    h1 { font-size: 1.7rem; }
+    .site-header { padding: 1.1rem 1.1rem 0.9rem; }
+    h1 { font-size: 1.05rem; }
+    h2 { font-size: 0.62rem; }
     .platform-grid { grid-template-columns: 1fr; }
+    .platform-grid a { font-size: 0.58rem; }
   }
 CSS
 
