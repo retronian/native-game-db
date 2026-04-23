@@ -61,9 +61,9 @@ NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|
 # the ISO 15924 scripts that count as "native" (i.e. not a romanized
 # fallback).
 NATIVE_LANGS = {
-  'ja' => { name: '日本語', regions: %w[jp],       scripts: %w[Jpan Hira Kana] },
-  'ko' => { name: '한국어',  regions: %w[kr],       scripts: %w[Hang] },
-  'zh' => { name: '中文',    regions: %w[cn tw hk], scripts: %w[Hans Hant] }
+  'ja' => { name: 'Japanese', regions: %w[jp],       scripts: %w[Jpan Hira Kana] },
+  'ko' => { name: 'Korean',   regions: %w[kr],       scripts: %w[Hang] },
+  'zh' => { name: 'Chinese',  regions: %w[cn tw hk], scripts: %w[Hans Hant] }
 }.freeze
 
 def bios_entry?(game)
@@ -854,11 +854,11 @@ def render_landing(stats, platforms_meta)
 
   body = <<~HTML
     <h1>Native Game DB</h1>
-    <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in every non-Latin writing system (日本語, 한국어, 中文, …).</p>
+    <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in every non-Latin writing system.</p>
     <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
     <h2>Coverage by language</h2>
     #{overall_progress}
-    <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for 日本語, kr for 한국어, cn/tw/hk for 中文). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
+    <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for Japanese, kr for Korean, cn/tw/hk for Chinese). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
 
     <h2>Browse by platform</h2>
     <ul class="platform-grid">#{rows}</ul>
@@ -1074,10 +1074,10 @@ end
 # each game page has a single tab group we embed the game id into
 # every element id to keep radio names unique across the whole site.
 LANG_LABEL = {
-  'en' => 'English', 'ja' => '日本語', 'ko' => '한국어',
-  'zh' => '中文',     'fr' => 'Français', 'es' => 'Español',
-  'de' => 'Deutsch',  'it' => 'Italiano', 'pt' => 'Português',
-  'ru' => 'Русский'
+  'en' => 'English',   'ja' => 'Japanese', 'ko' => 'Korean',
+  'zh' => 'Chinese',   'fr' => 'French',   'es' => 'Spanish',
+  'de' => 'German',    'it' => 'Italian',  'pt' => 'Portuguese',
+  'ru' => 'Russian'
 }.freeze
 LANG_ORDER = %w[en ja ko zh fr es de it pt ru].freeze
 
@@ -1158,8 +1158,7 @@ def render_contribute_section(game)
       <li>
         <a class="contribute-cta" href="#{url}">
           <span class="icon">🈂️</span>
-          <strong lang="#{lang}">#{spec[:name]} (#{lang})</strong>
-          ネイティブ表記を追加 / Add native-script title
+          Add a #{spec[:name]} (<code>#{lang}</code>) native-script title
         </a>
       </li>
     LI
@@ -1175,8 +1174,7 @@ def render_contribute_section(game)
       <li>
         <a class="contribute-cta" href="#{url}">
           <span class="icon">🖼</span>
-          <strong>#{region.upcase}</strong>
-          版 boxart を追加 / Add #{region.upcase} boxart
+          Add <strong>#{region.upcase}</strong> boxart
         </a>
       </li>
     LI
@@ -1186,13 +1184,8 @@ def render_contribute_section(game)
 
   %(
     <section class="contribute">
-      <h2>⚡ Help complete this entry / この項目の欠けている情報を追加</h2>
-      <p class="contribute-note">
-        下記のリンクをクリックすると、必要項目が事前入力された GitHub Issue
-        フォームが開きます。
-        <br>
-        Click any of the links below to open a pre-filled GitHub issue form.
-      </p>
+      <h2>⚡ Help complete this entry</h2>
+      <p class="contribute-note">Click a link below to open a pre-filled GitHub issue. Attach the image or fill in the title text and the receiver will ingest it into the data.</p>
       <ul class="contribute-list">#{items.join}</ul>
     </section>
   ).strip
