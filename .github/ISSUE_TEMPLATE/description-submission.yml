@@ -1,0 +1,91 @@
+name: "📝  Add a description (summary / overview) for a game"
+description: "Contribute a per-language description that appears on the game page."
+title: "[description] "
+labels: ["description"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to add a description — a short summary, plot
+        overview, or gameplay blurb — for a game in any language.
+
+        **Length.** A paragraph or two is ideal (roughly 100–500
+        words). Longer is fine if the game is complex.
+
+        **Licensing.** Only submit text you wrote yourself, or text you
+        have the right to redistribute under CC BY-SA 4.0 (Wikipedia is
+        CC BY-SA and is fine as long as you cite the article). Do not
+        paste copyrighted walkthroughs, publisher marketing text, or
+        MobyGames / IGDB descriptions.
+
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: |
+        One of `fc`, `sfc`, `gb`, `gbc`, `gba`, `md`, `pce`, `n64`, `nds`, `ps1`.
+      placeholder: fc
+    validations:
+      required: true
+
+  - type: input
+    id: game_id
+    attributes:
+      label: Game ID
+      description: The slug as seen on the site URL (e.g. `hoshi-no-kirby`).
+      placeholder: hoshi-no-kirby
+    validations:
+      required: true
+
+  - type: dropdown
+    id: lang
+    attributes:
+      label: Language
+      description: ISO 639-1 language code of the description text.
+      options:
+        - ja
+        - en
+        - ko
+        - zh
+        - fr
+        - es
+        - de
+        - it
+        - pt
+        - ru
+    validations:
+      required: true
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Description text
+      description: |
+        The summary / overview text. Plain text is fine — no markdown
+        needed.
+      placeholder: |
+        The original 1992 Game Boy release of Kirby by HAL Laboratory...
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: |
+        Where is this text from?
+
+        - "Wrote it myself"
+        - "https://ja.wikipedia.org/wiki/..." (Wikipedia article)
+        - "Publisher page: <URL>" (only if they explicitly licence it)
+      placeholder: Wrote it myself.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This text may be redistributed under CC BY-SA 4.0.
+          required: true

@@ -264,14 +264,21 @@ CSS = <<~CSS
     color: var(--accent);
     text-decoration: none;
     text-shadow: var(--glow-pink);
-    transition: text-shadow 0.12s;
+    cursor: pointer;
+    border-bottom: 1px dotted var(--accent);
+    transition: all 0.12s;
   }
   a:hover {
     color: var(--accent2);
     text-shadow: var(--glow-amber);
+    border-bottom-color: var(--accent2);
+    border-bottom-style: solid;
   }
   a::before { content: "["; opacity: 0.45; margin-right: 0.1em; }
   a::after  { content: "]"; opacity: 0.45; margin-left: 0.1em; }
+  a:hover::before, a:hover::after { opacity: 0.95; }
+  a.bare,
+  a.bare:hover { border-bottom: none; }
   a.bare::before, a.bare::after { content: none; }
 
   /* ----- header / footer ----- */
@@ -592,25 +599,42 @@ CSS = <<~CSS
     gap: 0.4rem;
   }
   .contribute-cta {
-    display: inline-flex;
+    display: flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.45rem 0.8rem;
+    gap: 0.6rem;
+    padding: 0.55rem 0.9rem;
     background: var(--bg);
     border: 1px solid var(--accent2);
     border-radius: 4px;
     color: var(--fg);
     text-decoration: none;
-    font-size: 0.9rem;
+    text-shadow: none;
+    font-size: 0.95rem;
+    box-shadow: 2px 2px 0 rgba(255, 51, 102, 0.35);
     transition: all 0.15s;
   }
   .contribute-cta:hover {
     background: var(--accent2);
     color: var(--bg);
+    transform: translate(-1px, -1px);
+    box-shadow: 3px 3px 0 rgba(255, 51, 102, 0.6);
+  }
+  .contribute-cta:active {
+    transform: translate(1px, 1px);
+    box-shadow: 0 0 0 rgba(255, 51, 102, 0);
+  }
+  .contribute-cta::before, .contribute-cta::after { content: none; }
+  .contribute-cta .icon { font-size: 1.15rem; }
+  .contribute-cta .cta-label { flex: 1; letter-spacing: 0.02em; }
+  .contribute-cta .cta-arrow {
+    font-size: 1.1rem;
+    opacity: 0.5;
+    transition: all 0.15s;
+  }
+  .contribute-cta:hover .cta-arrow {
+    opacity: 1;
     transform: translateX(2px);
   }
-  .contribute-cta .icon { font-size: 1.1rem; }
-  .contribute-cta strong { letter-spacing: 0.02em; }
 
   /* ----- game list ----- */
 
@@ -627,9 +651,11 @@ CSS = <<~CSS
     border-bottom: 1px solid var(--line);
     align-items: flex-start;
     transition: background 0.1s;
+    cursor: pointer;
   }
   .game-list-item:hover {
-    background: rgba(255, 51, 102, 0.06);
+    background: rgba(255, 51, 102, 0.08);
+    border-bottom-color: var(--accent2);
   }
   .game-list-item .thumb {
     flex: 0 0 56px;
@@ -1134,6 +1160,8 @@ REPO_BASE_URL = 'https://github.com/retronian/native-game-db'
 # can identify for this game (missing JP/KR/CN boxart, missing native
 # title in a regional language) and attaches a one-click link to a
 # pre-filled GitHub issue form.
+DESC_LANG_ORDER = %w[en ja ko zh].freeze
+
 def render_contribute_section(game)
   platform_id = game['platform']
   id = game['id']
@@ -1141,6 +1169,7 @@ def render_contribute_section(game)
   roms = game['roms'] || []
   media = game['media'] || []
   titles = game['titles'] || []
+  descriptions = game['descriptions'] || []
 
   items = []
 
@@ -1151,17 +1180,9 @@ def render_contribute_section(game)
     has_native = titles.any? { |t| t['lang'] == lang && spec[:scripts].include?(t['script']) }
     next if has_native
 
-    # Use the primary region for this language (first match)
     region = spec[:regions].find { |r| released_in_region?(game, r) }
     url = contribute_title_url(platform_id, id, lang, region)
-    items << <<~LI
-      <li>
-        <a class="contribute-cta" href="#{url}">
-          <span class="icon">🈂️</span>
-          Add a #{spec[:name]} (<code>#{lang}</code>) native-script title
-        </a>
-      </li>
-    LI
+    items << render_cta('🈂️', "Add a #{spec[:name]} (#{lang}) title", url)
   end
 
   # Missing boxart per region the game shipped in.
@@ -1170,14 +1191,24 @@ def render_contribute_section(game)
   shipped_regions.each do |region|
     next if media.any? { |m| m['kind'] == 'boxart' && m['region'] == region }
     url = contribute_media_url(platform_id, id, 'boxart', region)
-    items << <<~LI
-      <li>
-        <a class="contribute-cta" href="#{url}">
-          <span class="icon">🖼</span>
-          Add <strong>#{region.upcase}</strong> boxart
-        </a>
-      </li>
-    LI
+    items << render_cta('🖼', "Add #{region.upcase} boxart", url)
+  end
+
+  # Missing descriptions. Always show English; show ja/ko/zh only when
+  # the game had a corresponding regional release, to keep the list
+  # focused.
+  DESC_LANG_ORDER.each do |lang|
+    next if descriptions.any? { |d| d['lang'] == lang && !d['text'].to_s.strip.empty? }
+    case lang
+    when 'en'
+      # always offer
+    when 'ja', 'ko', 'zh'
+      spec = NATIVE_LANGS[lang]
+      next unless spec && spec[:regions].any? { |r| released_in_region?(game, r) }
+    end
+    lang_label = LANG_LABEL[lang] || lang
+    url = contribute_description_url(platform_id, id, lang)
+    items << render_cta('📝', "Add #{lang_label} (#{lang}) description", url)
   end
 
   return '' if items.empty?
@@ -1185,10 +1216,22 @@ def render_contribute_section(game)
   %(
     <section class="contribute">
       <h2>⚡ Help complete this entry</h2>
-      <p class="contribute-note">Click a link below to open a pre-filled GitHub issue. Attach the image or fill in the title text and the receiver will ingest it into the data.</p>
+      <p class="contribute-note">Click a link below to open a pre-filled GitHub issue. Attach the image, paste the title, or write the description — the receiver will ingest it into the data on the next build.</p>
       <ul class="contribute-list">#{items.join}</ul>
     </section>
   ).strip
+end
+
+def render_cta(icon, label, url)
+  <<~LI
+    <li>
+      <a class="contribute-cta" href="#{url}">
+        <span class="icon">#{icon}</span>
+        <span class="cta-label">#{label}</span>
+        <span class="cta-arrow" aria-hidden="true">→</span>
+      </a>
+    </li>
+  LI
 end
 
 def contribute_media_url(platform_id, id, kind, region)
@@ -1211,6 +1254,17 @@ def contribute_title_url(platform_id, id, lang, region)
     'game_id' => id,
     lang: lang,
     region: region
+  )
+  "#{REPO_BASE_URL}/issues/new?#{q}"
+end
+
+def contribute_description_url(platform_id, id, lang)
+  q = URI.encode_www_form(
+    template: 'description-submission.yml',
+    title: "[description] #{platform_id}/#{id} #{lang}",
+    platform: platform_id,
+    'game_id' => id,
+    lang: lang
   )
   "#{REPO_BASE_URL}/issues/new?#{q}"
 end

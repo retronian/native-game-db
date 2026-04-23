@@ -177,6 +177,38 @@ def handle_title_issue(fields, dry_run:)
   File.write(game_path, JSON.pretty_generate(game) + "\n") unless dry_run
 end
 
+def handle_description_issue(fields, dry_run:)
+  platform = find_field(fields, 'Platform')&.strip
+  game_id  = find_field(fields, 'Game ID')&.strip
+  lang     = find_field(fields, 'Language')&.strip
+  text     = find_field(fields, 'Description text')&.strip
+  source   = find_field(fields, 'Source')&.strip || 'community'
+  abort "Missing platform/game_id/lang/text" unless platform && game_id && lang && text
+
+  game_path = File.join(SRC, platform, "#{game_id}.json")
+  abort "Game not found: #{game_path}" unless File.exist?(game_path)
+  game = JSON.parse(File.read(game_path))
+
+  game['descriptions'] ||= []
+  source_key = if source =~ /wikipedia\.org/i then 'wikipedia_' + lang
+               elsif source =~ /wikidata/i   then 'wikidata'
+               else 'community'
+               end
+
+  # Remove leading boilerplate that Wikipedia API sometimes prepends.
+  text = text.strip
+
+  if game['descriptions'].any? { |d| d['lang'] == lang && d['text'].to_s.strip == text }
+    puts "  description already present, skipping"
+    return
+  end
+
+  entry = { 'text' => text, 'lang' => lang, 'source' => source_key }
+  game['descriptions'] << entry
+  puts "  + #{platform}/#{game_id} description (#{lang}, #{text.length} chars)"
+  File.write(game_path, JSON.pretty_generate(game) + "\n") unless dry_run
+end
+
 def main
   options = { dry_run: false }
   OptionParser.new do |o|
@@ -201,8 +233,10 @@ def main
     handle_media_issue(fields, dry_run: options[:dry_run])
   elsif labels.include?('title')
     handle_title_issue(fields, dry_run: options[:dry_run])
+  elsif labels.include?('description')
+    handle_description_issue(fields, dry_run: options[:dry_run])
   else
-    abort "Unknown issue type (no 'media' or 'title' label)"
+    abort "Unknown issue type (no 'media', 'title', or 'description' label)"
   end
 
   puts ''
