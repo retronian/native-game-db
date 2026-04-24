@@ -196,22 +196,25 @@ CSS = <<~CSS
    * ================================================================ */
 
   :root {
-    --bg:        #07090a;
-    --bg-panel:  #0e1411;
-    --bg-panel2: #131a16;
-    --fg:        #c8f0d4;
-    --fg-dim:    #7da08a;
-    --fg-muted:  #4d6356;
-    --line:      #2a3a30;
-    --line-hard: #4a6a55;
-    --accent:    #ff3366;
-    --accent2:   #ffcc00;
-    --cyan:      #4ee0ff;
+    /* Light paper base, dark ink. Keeps the retro manual feel without
+       the low-readability CRT green-on-black. */
+    --bg:        #f7f3e8;  /* cream / warm off-white */
+    --bg-panel:  #ffffff;  /* pure white for cards */
+    --bg-panel2: #efeadb;  /* slightly darker paper */
+    --fg:        #1b2230;  /* near-black navy ink */
+    --fg-dim:    #5a6473;
+    --fg-muted:  #8b8878;
+    --line:      #d7d1bf;  /* warm gray */
+    --line-hard: #a49c85;  /* darker warm gray */
+    --accent:    #c82a4e;  /* deeper pink, AA vs cream */
+    --accent2:   #b87200;  /* warm amber, AA vs cream */
+    --cyan:      #0e6388;
 
-    --glow-fg:     0 0 6px rgba(120, 220, 150, 0.5);
-    --glow-strong: 0 0 8px rgba(120, 220, 150, 0.8), 0 0 16px rgba(120, 220, 150, 0.4);
-    --glow-pink:   0 0 6px rgba(255, 51, 102, 0.7), 0 0 14px rgba(255, 51, 102, 0.35);
-    --glow-amber:  0 0 6px rgba(255, 204, 0, 0.7), 0 0 14px rgba(255, 204, 0, 0.3);
+    /* Soft halos instead of CRT glow — subtle, readable on light bg. */
+    --glow-fg:     none;
+    --glow-pink:   0 1px 0 rgba(200, 42, 78, 0.15);
+    --glow-amber:  0 1px 0 rgba(184, 114, 0, 0.18);
+    --shadow-card: 2px 2px 0 rgba(200, 42, 78, 0.35);
 
     --font-pixel: "Press Start 2P", "Courier New", monospace;
     --font-term:  "VT323", "Courier New", "Noto Sans JP", monospace;
@@ -227,58 +230,42 @@ CSS = <<~CSS
     color: var(--fg);
     font-family: var(--font-body);
     font-size: 20px;
-    line-height: 1.45;
-    text-shadow: var(--glow-fg);
+    line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
 
-  /* CRT scanlines overlay */
+  /* Very subtle dot-grid paper texture — retains a retro manual feel
+     without muddying readability. */
   body::before {
     content: "";
     position: fixed;
     inset: 0;
     pointer-events: none;
     z-index: 1000;
-    background: repeating-linear-gradient(
-      0deg,
-      rgba(0, 0, 0, 0.18) 0px,
-      rgba(0, 0, 0, 0.18) 1px,
-      transparent 1px,
-      transparent 3px
-    );
-  }
-
-  /* CRT vignette + subtle phosphor cast */
-  body::after {
-    content: "";
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    z-index: 999;
-    background:
-      radial-gradient(ellipse at center, transparent 45%, rgba(0, 0, 0, 0.55) 100%),
-      radial-gradient(ellipse at top, rgba(120, 220, 150, 0.04) 0%, transparent 60%);
+    background-image:
+      radial-gradient(rgba(164, 156, 133, 0.18) 1px, transparent 1px);
+    background-size: 4px 4px;
+    opacity: 0.35;
   }
 
   a {
     color: var(--accent);
     text-decoration: none;
-    text-shadow: var(--glow-pink);
     cursor: pointer;
     border-bottom: 1px dotted var(--accent);
     transition: all 0.12s;
   }
   a:hover {
     color: var(--accent2);
-    text-shadow: var(--glow-amber);
     border-bottom-color: var(--accent2);
     border-bottom-style: solid;
+    background: rgba(184, 114, 0, 0.08);
   }
   a::before { content: "["; opacity: 0.45; margin-right: 0.1em; }
   a::after  { content: "]"; opacity: 0.45; margin-left: 0.1em; }
   a:hover::before, a:hover::after { opacity: 0.95; }
   a.bare,
-  a.bare:hover { border-bottom: none; }
+  a.bare:hover { border-bottom: none; background: transparent; }
   a.bare::before, a.bare::after { content: none; }
 
   /* ----- header / footer ----- */
@@ -297,7 +284,6 @@ CSS = <<~CSS
     font-family: var(--font-pixel);
     font-size: 0.78rem;
     color: var(--accent);
-    text-shadow: var(--glow-pink);
     margin-right: auto;
     letter-spacing: 0.05em;
     line-height: 1;
@@ -306,7 +292,7 @@ CSS = <<~CSS
   .site-header .brand::after  { content: none; }
   .site-header .brand:hover {
     color: var(--accent2);
-    text-shadow: var(--glow-amber);
+    background: transparent;
   }
   .site-header nav {
     display: flex;
@@ -317,13 +303,13 @@ CSS = <<~CSS
   }
   .site-header nav a {
     color: var(--fg-dim);
-    text-shadow: 0 0 4px rgba(120, 220, 150, 0.3);
+    border-bottom: none;
   }
   .site-header nav a::before { content: none; }
   .site-header nav a::after  { content: none; }
   .site-header nav a:hover {
     color: var(--cyan);
-    text-shadow: 0 0 6px rgba(78, 224, 255, 0.7), 0 0 14px rgba(78, 224, 255, 0.35);
+    background: transparent;
   }
 
   .site-footer {
@@ -339,7 +325,7 @@ CSS = <<~CSS
   }
   .site-footer a {
     color: var(--fg-dim);
-    text-shadow: 0 0 4px rgba(120, 220, 150, 0.3);
+    border-bottom: none;
   }
   .site-footer a::before { content: none; }
   .site-footer a::after  { content: none; }
@@ -360,7 +346,6 @@ CSS = <<~CSS
     line-height: 1.4;
     margin: 0 0 1.6rem;
     color: var(--accent2);
-    text-shadow: var(--glow-amber);
     letter-spacing: 0.02em;
   }
   h2 {
@@ -369,7 +354,6 @@ CSS = <<~CSS
     margin: 3.5rem 0 1.2rem;
     padding-bottom: 0.6rem;
     color: var(--accent);
-    text-shadow: var(--glow-pink);
     border-bottom: 2px solid var(--line-hard);
     letter-spacing: 0.04em;
     line-height: 1.4;
@@ -377,14 +361,12 @@ CSS = <<~CSS
   h2::before {
     content: ">> ";
     color: var(--cyan);
-    text-shadow: 0 0 6px rgba(78, 224, 255, 0.7);
   }
   h3 {
     font-family: var(--font-pixel);
     font-size: 0.6rem;
     margin: 2rem 0 0.8rem;
     color: var(--cyan);
-    text-shadow: 0 0 6px rgba(78, 224, 255, 0.6);
     line-height: 1.4;
   }
 
@@ -403,7 +385,6 @@ CSS = <<~CSS
     font-family: var(--font-term);
     background: var(--bg-panel);
     color: var(--cyan);
-    text-shadow: 0 0 4px rgba(78, 224, 255, 0.4);
   }
   code {
     padding: 0 0.35em;
@@ -440,7 +421,6 @@ CSS = <<~CSS
     font-size: 0.55rem;
     color: var(--accent2);
     background: var(--bg-panel2);
-    text-shadow: var(--glow-amber);
     border-bottom: 2px solid var(--line-hard);
     line-height: 1.6;
     letter-spacing: 0.03em;
@@ -473,12 +453,11 @@ CSS = <<~CSS
     width: 30%;
     height: 4px;
     background: var(--accent);
-    box-shadow: 0 0 8px rgba(255, 51, 102, 0.6);
   }
   .platform-grid li:hover {
     border-color: var(--accent);
-    box-shadow: 0 0 12px rgba(255, 51, 102, 0.35), inset 0 0 12px rgba(255, 51, 102, 0.1);
-    transform: translateY(-1px);
+    box-shadow: 3px 3px 0 rgba(200, 42, 78, 0.35);
+    transform: translate(-1px, -1px);
   }
   .platform-grid li:hover::before {
     width: 100%;
@@ -489,13 +468,13 @@ CSS = <<~CSS
     font-size: 0.65rem;
     color: var(--fg);
     line-height: 1.45;
-    text-shadow: var(--glow-fg);
+    border-bottom: none;
   }
   .platform-grid a::before { content: none; }
   .platform-grid a::after  { content: none; }
   .platform-grid a:hover {
     color: var(--accent2);
-    text-shadow: var(--glow-amber);
+    background: transparent;
   }
   .platform-grid strong { font-weight: normal; }
   .platform-grid .count {
@@ -523,7 +502,7 @@ CSS = <<~CSS
     height: 30px;
     margin: 0.8rem 0 0.5rem;
     overflow: hidden;
-    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.6);
+    box-shadow: inset 0 1px 3px rgba(91, 77, 47, 0.15);
   }
   .progress-bar {
     position: absolute;
@@ -535,10 +514,9 @@ CSS = <<~CSS
         90deg,
         var(--accent) 0px,
         var(--accent) 6px,
-        rgba(255, 51, 102, 0.6) 6px,
-        rgba(255, 51, 102, 0.6) 7px
+        rgba(200, 42, 78, 0.75) 6px,
+        rgba(200, 42, 78, 0.75) 7px
       );
-    box-shadow: 0 0 12px rgba(255, 51, 102, 0.6), inset 0 0 12px rgba(255, 200, 200, 0.25);
   }
   .progress-label {
     position: absolute;
@@ -550,10 +528,9 @@ CSS = <<~CSS
     font-size: 1rem;
     color: var(--fg);
     text-shadow:
-      0 0 4px var(--bg),
-      0 0 4px var(--bg),
-      0 0 4px var(--bg),
-      var(--glow-fg);
+      0 0 4px var(--bg-panel),
+      0 0 4px var(--bg-panel),
+      0 0 4px var(--bg-panel);
     pointer-events: none;
     letter-spacing: 0.05em;
   }
@@ -572,7 +549,7 @@ CSS = <<~CSS
   /* ----- contribute call-to-action ----- */
 
   .contribute {
-    background: rgba(255, 51, 102, 0.06);
+    background: var(--bg-panel);
     border: 1px dashed var(--accent2);
     border-left: 4px solid var(--accent2);
     padding: 1rem 1.1rem;
@@ -603,25 +580,25 @@ CSS = <<~CSS
     align-items: center;
     gap: 0.6rem;
     padding: 0.55rem 0.9rem;
-    background: var(--bg);
+    background: var(--bg-panel);
     border: 1px solid var(--accent2);
     border-radius: 4px;
     color: var(--fg);
     text-decoration: none;
-    text-shadow: none;
     font-size: 0.95rem;
-    box-shadow: 2px 2px 0 rgba(255, 51, 102, 0.35);
+    box-shadow: var(--shadow-card);
     transition: all 0.15s;
   }
   .contribute-cta:hover {
     background: var(--accent2);
-    color: var(--bg);
+    color: var(--bg-panel);
+    border-color: var(--accent2);
     transform: translate(-1px, -1px);
-    box-shadow: 3px 3px 0 rgba(255, 51, 102, 0.6);
+    box-shadow: 3px 3px 0 rgba(200, 42, 78, 0.55);
   }
   .contribute-cta:active {
     transform: translate(1px, 1px);
-    box-shadow: 0 0 0 rgba(255, 51, 102, 0);
+    box-shadow: 0 0 0 rgba(200, 42, 78, 0);
   }
   .contribute-cta::before, .contribute-cta::after { content: none; }
   .contribute-cta .icon { font-size: 1.15rem; }
@@ -641,8 +618,8 @@ CSS = <<~CSS
   .call-to-contribute {
     background:
       linear-gradient(180deg,
-        rgba(255, 200, 80, 0.08) 0%,
-        rgba(255, 51, 102, 0.05) 100%);
+        rgba(184, 114, 0, 0.07) 0%,
+        rgba(200, 42, 78, 0.05) 100%);
     border: 1px solid var(--accent2);
     border-left: 4px solid var(--accent2);
     padding: 1.2rem 1.3rem 1.1rem;
@@ -681,7 +658,7 @@ CSS = <<~CSS
     padding: 0.3rem 0 0.3rem 1.2rem;
     position: relative;
     line-height: 1.55;
-    border-bottom: 1px dotted rgba(255, 255, 255, 0.06);
+    border-bottom: 1px dotted rgba(27, 34, 48, 0.08);
   }
   .call-to-contribute .cta-why li:last-child { border-bottom: none; }
   .call-to-contribute .cta-why li::before {
@@ -715,7 +692,7 @@ CSS = <<~CSS
     cursor: pointer;
   }
   .game-list-item:hover {
-    background: rgba(255, 51, 102, 0.08);
+    background: rgba(200, 42, 78, 0.06);
     border-bottom-color: var(--accent2);
   }
   .game-list-item .thumb {
@@ -733,13 +710,13 @@ CSS = <<~CSS
   .game-list-item a {
     font-size: 1.15rem;
     color: var(--fg);
-    text-shadow: var(--glow-fg);
+    border-bottom: none;
   }
   .game-list-item a::before { content: none; }
   .game-list-item a::after  { content: none; }
   .game-list-item a:hover {
     color: var(--accent);
-    text-shadow: var(--glow-pink);
+    background: transparent;
   }
   .game-list-item .meta {
     font-family: var(--font-term);
@@ -758,10 +735,9 @@ CSS = <<~CSS
     font-size: 0.5rem;
     line-height: 1.6;
     letter-spacing: 0.05em;
-    text-shadow: 0 0 4px rgba(78, 224, 255, 0.5);
   }
 
-  .verified-yes { color: var(--accent); text-shadow: var(--glow-pink); }
+  .verified-yes { color: var(--accent); }
   .verified-no  { color: var(--fg-muted); }
 
   /* ----- media grid ----- */
@@ -793,7 +769,6 @@ CSS = <<~CSS
     font-family: var(--font-pixel);
     font-size: 0.5rem;
     color: var(--cyan);
-    text-shadow: 0 0 4px rgba(78, 224, 255, 0.4);
     margin-top: 0.4rem;
     text-align: center;
     line-height: 1.4;
@@ -827,7 +802,6 @@ CSS = <<~CSS
   }
   .desc-tabs .tab-labels label:hover {
     color: var(--cyan);
-    text-shadow: 0 0 6px rgba(78, 224, 255, 0.6);
   }
   .desc-tabs .tab-labels label code {
     background: none;
