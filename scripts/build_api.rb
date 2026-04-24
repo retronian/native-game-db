@@ -809,10 +809,10 @@ def render_landing(stats, platforms_meta)
     <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for Japanese, kr for Korean, cn/tw/hk for Chinese). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
 
     <section class="call-to-contribute">
-      <h2>🇰🇷 🇨🇳 Korean &amp; Chinese speakers — we need you</h2>
-      <p>Japanese coverage is strong. Korean and Chinese are wide open. If you can read 한글 or 中文, <strong>one minute on any game page fixes an entry forever.</strong></p>
+      <h2>🇯🇵 🇰🇷 🇨🇳 Japanese, Korean &amp; Chinese speakers — we need you</h2>
+      <p>If you can read 日本語, 한글, or 中文, <strong>one minute on any game page fixes an entry forever.</strong> Every native-script title and every local description makes the DB more useful than the romaji-only alternatives.</p>
       <ul class="cta-why">
-        <li>Every other retro game DB (ScreenScraper, TheGamesDB, IGDB) still serves romaji even for Korea-released titles. This one doesn't have to.</li>
+        <li>Every other retro game DB (ScreenScraper, TheGamesDB, IGDB) still serves romaji even for Japan-, Korea-, or China-released titles. This one doesn't have to.</li>
         <li>Contributions are CC BY-SA 4.0 — ROM managers, emulators, and scrapers can reuse them the moment they land.</li>
         <li>No account friction: every game page has a pre-filled issue form for titles, descriptions, and box art. Attach or type, submit, done.</li>
         <li>Fan transliterations are welcome too: leave the "verified" box unchecked if it's your own reading, not from the official package.</li>
