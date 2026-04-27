@@ -28,6 +28,10 @@ def zip_source_to_rom_name(source)
   File.basename(source.to_s).sub(/\.zip\z/i, '')
 end
 
+def filename_key(name)
+  File.basename(name.to_s).sub(/\.[^.]+\z/, '')
+end
+
 def add_match(index, key, match)
   return if key.nil? || key.empty?
   index[key] ||= []
@@ -36,6 +40,7 @@ end
 
 def build_indexes(games)
   exact = {}
+  filename = {}
   base = {}
 
   games.each do |game|
@@ -49,11 +54,12 @@ def build_indexes(games)
 
       name = rom['name'].to_s
       add_match(exact, name, match)
+      add_match(filename, filename_key(name), match)
       add_match(base, Slug.slugify(Slug.strip_no_intro_suffixes(name)), match)
     end
   end
 
-  { exact: exact, base: base }
+  { exact: exact, filename: filename, base: base }
 end
 
 def classify(row, indexes_by_platform)
@@ -64,13 +70,18 @@ def classify(row, indexes_by_platform)
 
   exact_matches = indexes[:exact][rom_name] || []
   unless exact_matches.empty?
-    return ['known_name_hash_mismatch', exact_matches, 'Exact ROM name exists in GameDB; observed hash did not match stored hashes.']
+    return ['filename_exact_hash_mismatch_processable', exact_matches, 'Exact ROM filename exists in GameDB; process by filename and flag the hash mismatch for review.']
+  end
+
+  filename_matches = indexes[:filename][filename_key(source)] || []
+  unless filename_matches.empty?
+    return ['filename_exact_hash_mismatch_processable', filename_matches, 'Exact ROM filename exists in GameDB; process by filename and flag the hash mismatch for review.']
   end
 
   base_key = Slug.slugify(Slug.strip_no_intro_suffixes(rom_name))
   base_matches = indexes[:base][base_key] || []
   unless base_matches.empty?
-    return ['known_base_name_low_confidence', base_matches, 'Base ROM name matches after stripping No-Intro suffixes; review region/revision/hash.']
+    return ['filename_base_hash_mismatch_review', base_matches, 'Base ROM filename matches after stripping No-Intro suffixes; process as low confidence and review region/revision/hash.']
   end
 
   ['missing_or_wrong_platform', [], 'No ROM name match in this platform.']

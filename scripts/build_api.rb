@@ -137,13 +137,24 @@ def add_index_value(index, key, value)
   index[key] << value unless index[key].include?(value)
 end
 
+def filename_key(name)
+  File.basename(name.to_s).sub(/\.[^.]+\z/, '')
+end
+
 def rom_match_index(games)
   index = {
+    'match_policy' => [
+      { 'kind' => 'hash_exact', 'confidence' => 'verified', 'processable' => true },
+      { 'kind' => 'filename_exact_hash_mismatch', 'confidence' => 'name_exact', 'processable' => true },
+      { 'kind' => 'filename_base_hash_mismatch', 'confidence' => 'low', 'processable' => true, 'review_required' => true },
+      { 'kind' => 'unknown', 'confidence' => 'none', 'processable' => false }
+    ],
     'by_crc32' => {},
     'by_md5' => {},
     'by_sha1' => {},
     'by_sha256' => {},
     'by_name_exact' => {},
+    'by_filename' => {},
     'by_name_base' => {}
   }
 
@@ -157,6 +168,7 @@ def rom_match_index(games)
 
       name = rom['name'].to_s
       add_index_value(index['by_name_exact'], name, entry)
+      add_index_value(index['by_filename'], filename_key(name), entry)
 
       base = Slug.slugify(Slug.strip_no_intro_suffixes(name))
       add_index_value(index['by_name_base'], base, entry)
@@ -1523,7 +1535,7 @@ def render_schema_doc
       <li><code>/api/v1/stats.json</code> &mdash; aggregate statistics</li>
       <li><code>/api/v1/{platform}.json</code> &mdash; all games on a platform, as a JSON array</li>
       <li><code>/api/v1/games/{platform}/{id}.json</code> &mdash; a single game entry</li>
-      <li><code>/api/v1/rom-index/{platform}.json</code> &mdash; ROM lookup indexes by hash, exact No-Intro name, and stripped base name</li>
+      <li><code>/api/v1/rom-index/{platform}.json</code> &mdash; ROM lookup indexes by hash, exact filename, exact No-Intro name, and stripped base name. The included match policy marks exact filename matches as processable even when hashes differ.</li>
       <li><code>/search-index/all.json</code> &mdash; minimal index for client-side search</li>
     </ul>
     <p>Everything is cache-friendly static JSON. There is no rate limiting and no authentication.</p>
