@@ -33,6 +33,7 @@ $stdout.sync = true
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
 USER_AGENT = 'retronian-gamedb/0.1 (https://gamedb.retronian.com)'
+NON_TITLE_DISPLAYS = ['同名映画'].freeze
 
 PLATFORM_PAGES = {
   'fc'  => 'ファミリーコンピュータのゲームタイトル一覧',
@@ -177,6 +178,7 @@ def extract_wikilinks(wikitext)
       display_text = (display || target).strip
       # Discard short display texts that are almost certainly not game titles
       next if display_text.empty?
+      next if NON_TITLE_DISPLAYS.include?(display_text)
       next if display_text.length > 120
       pairs << [display_text, target.strip]
     end
