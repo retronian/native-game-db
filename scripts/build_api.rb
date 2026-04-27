@@ -14,6 +14,7 @@
 #   dist/api/v1/stats.json                       aggregate statistics
 #   dist/api/v1/{platform}.json                  all games for a platform
 #   dist/api/v1/games/{platform}/{id}.json       individual game JSON
+#   dist/api/v1/rom-index/{platform}.json        ROM hash/name lookup index
 #   dist/search-index/all.json                   client-side search index
 #
 # Usage:
@@ -24,6 +25,7 @@ require 'fileutils'
 require 'time'
 require 'cgi'
 require 'uri'
+require_relative 'lib/slug'
 
 ROOT = File.expand_path('..', __dir__)
 SRC  = File.join(ROOT, 'data', 'games')
@@ -118,6 +120,50 @@ end
 def write_html(path, body)
   FileUtils.mkdir_p(File.dirname(path))
   File.write(path, body)
+end
+
+def compact_rom_match(game, rom)
+  {
+    'game_id' => game['id'],
+    'rom_name' => rom['name'],
+    'region' => rom['region'],
+    'source' => rom['source']
+  }.compact
+end
+
+def add_index_value(index, key, value)
+  return if key.nil? || key.empty?
+  index[key] ||= []
+  index[key] << value unless index[key].include?(value)
+end
+
+def rom_match_index(games)
+  index = {
+    'by_crc32' => {},
+    'by_md5' => {},
+    'by_sha1' => {},
+    'by_sha256' => {},
+    'by_name_exact' => {},
+    'by_name_base' => {}
+  }
+
+  games.each do |game|
+    (game['roms'] || []).each do |rom|
+      entry = compact_rom_match(game, rom)
+
+      %w[crc32 md5 sha1 sha256].each do |field|
+        add_index_value(index["by_#{field}"], rom[field].to_s.downcase, entry)
+      end
+
+      name = rom['name'].to_s
+      add_index_value(index['by_name_exact'], name, entry)
+
+      base = Slug.slugify(Slug.strip_no_intro_suffixes(name))
+      add_index_value(index['by_name_base'], base, entry)
+    end
+  end
+
+  index
 end
 
 def h(text)
@@ -867,6 +913,7 @@ def render_landing(stats, platforms_meta)
       <li><a href="api/v1/stats.json"><code>/api/v1/stats.json</code></a></li>
       <li><code>/api/v1/{platform}.json</code></li>
       <li><code>/api/v1/games/{platform}/{id}.json</code></li>
+      <li><code>/api/v1/rom-index/{platform}.json</code></li>
       <li><a href="search-index/all.json"><code>/search-index/all.json</code></a></li>
     </ul>
 
@@ -1476,6 +1523,7 @@ def render_schema_doc
       <li><code>/api/v1/stats.json</code> &mdash; aggregate statistics</li>
       <li><code>/api/v1/{platform}.json</code> &mdash; all games on a platform, as a JSON array</li>
       <li><code>/api/v1/games/{platform}/{id}.json</code> &mdash; a single game entry</li>
+      <li><code>/api/v1/rom-index/{platform}.json</code> &mdash; ROM lookup indexes by hash, exact No-Intro name, and stripped base name</li>
       <li><code>/search-index/all.json</code> &mdash; minimal index for client-side search</li>
     </ul>
     <p>Everything is cache-friendly static JSON. There is no rate limiting and no authentication.</p>
@@ -1505,6 +1553,7 @@ def main
     puts "  #{platform_id.ljust(4)} #{games.size.to_s.rjust(5)} games"
 
     write_json(File.join(API, "#{platform_id}.json"), games)
+    write_json(File.join(API, 'rom-index', "#{platform_id}.json"), rom_match_index(games))
 
     games.each do |g|
       write_json(File.join(API, 'games', platform_id, "#{g['id']}.json"), g)
