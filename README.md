@@ -1,6 +1,6 @@
 # Retronian GameDB
 
-A retro game database with first-class support for **native scripts** — the original written form of game titles in Japanese (hiragana, katakana, kanji), Korean (hangul), Chinese (hanzi), and other non-Latin writing systems.
+A retro game database for English titles and **native-script Japanese titles** — hiragana, katakana, and kanji in their original written form.
 
 ## Why this exists
 
@@ -8,7 +8,7 @@ Major retro game databases (ScreenScraper.fr, TheGamesDB, IGDB, MobyGames, etc.)
 
 Retronian GameDB provides:
 
-- **Structured multi-language, multi-script title metadata**
+- **Focused English and Japanese public API / website**
 - **Distinction between hiragana / katakana / kanji-mixed Japanese** (via ISO 15924)
 - **ROM-aware metadata** with hash/name indexes for scraper and ROM manager integration
 - **Fully serverless distribution** (static JSON over GitHub Pages)
@@ -31,6 +31,10 @@ The language tag `ja` alone cannot express the difference between "katakana only
 ## Data layout
 
 One game = one JSON file (`data/games/{platform}/{id}.json`).
+
+Canonical source files may retain additional language records for future use.
+The published website and JSON API expose only English (`en`) and Japanese
+(`ja`); games with neither language are omitted from the distribution build.
 
 ```json
 {

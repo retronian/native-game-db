@@ -34,6 +34,7 @@ API  = File.join(DIST, 'api', 'v1')
 INDEX_DIR = File.join(DIST, 'search-index')
 API_VERSION = 'v1'
 CNAME = 'gamedb.retronian.com'
+PUBLIC_LANGS = %w[en ja].freeze
 
 PLATFORMS = {
   'fc'  => 'Famicom / NES',
@@ -73,9 +74,7 @@ NON_RETAIL_ROM_RE = /\((?:Proto|Possible Proto|Beta|Unl|Pirate|Sample|Demo|Hack|
 # the ISO 15924 scripts that count as "native" (i.e. not a romanized
 # fallback).
 NATIVE_LANGS = {
-  'ja' => { name: 'Japanese', regions: %w[jp],       scripts: %w[Jpan Hira Kana] },
-  'ko' => { name: 'Korean',   regions: %w[kr],       scripts: %w[Hang] },
-  'zh' => { name: 'Chinese',  regions: %w[cn tw hk], scripts: %w[Hans Hant] }
+  'ja' => { name: 'Japanese', regions: %w[jp], scripts: %w[Jpan Hira Kana] }
 }.freeze
 
 def bios_entry?(game)
@@ -117,6 +116,9 @@ def load_games(platform_id)
   Dir.glob(File.join(dir, '*.json')).sort.map do |f|
     game = JSON.parse(File.read(f))
     next if bios_entry?(game)
+    game['titles'].select! { |title| PUBLIC_LANGS.include?(title['lang']) }
+    next if game['titles'].empty?
+    game['descriptions']&.select! { |description| PUBLIC_LANGS.include?(description['lang']) }
 
     game
   end.compact
@@ -901,15 +903,15 @@ def render_landing(stats, platforms_meta)
 
   body = <<~HTML
     <h1>Retronian GameDB</h1>
-    <p class="lead">A retro game database with first-class support for native scripts &mdash; the original written form of game titles in every non-Latin writing system.</p>
+    <p class="lead">A retro game database for English titles and native-script Japanese titles.</p>
     <p><strong>#{stats['total_games']} games</strong> across #{stats['platforms'].size} platforms.</p>
     <h2>Coverage by language</h2>
     #{overall_progress}
-    <p class="target-note">Denominator for each language = retail ROMs in that language's home region (jp for Japanese, kr for Korean, cn/tw/hk for Chinese). Numerator = entries carrying at least one title in that language, native script or Latin transliteration.</p>
+    <p class="target-note">Japanese coverage uses retail releases for Japan as the denominator and entries carrying a Japanese title as the numerator.</p>
 
     <section class="call-to-contribute">
-      <h2>🇯🇵 🇰🇷 🇨🇳 Japanese, Korean &amp; Chinese speakers — we need you</h2>
-      <p>If you can read 日本語, 한글, or 中文, <strong>one minute on any game page fixes an entry forever.</strong> Every native-script title and every local description makes the DB more useful than the romaji-only alternatives.</p>
+      <h2>🇯🇵 Japanese speakers — we need you</h2>
+      <p>If you can read 日本語, <strong>one minute on any game page fixes an entry forever.</strong> Every native-script title and Japanese description makes the DB more useful than the romaji-only alternatives.</p>
       <ul class="cta-why">
         <li>Every other retro game DB (ScreenScraper, TheGamesDB, IGDB) still serves romaji even for Japan-, Korea-, or China-released titles. This one doesn't have to.</li>
         <li>Contributions are CC BY-SA 4.0 — ROM managers, emulators, and scrapers can reuse them the moment they land.</li>
@@ -1197,7 +1199,7 @@ REPO_BASE_URL = 'https://github.com/retronian/retronian-gamedb'
 # can identify for this game (missing JP/KR/CN boxart, missing native
 # title in a regional language) and attaches a one-click link to a
 # pre-filled GitHub issue form.
-DESC_LANG_ORDER = %w[en ja ko zh].freeze
+DESC_LANG_ORDER = PUBLIC_LANGS
 
 def render_contribute_section(game)
   platform_id = game['platform']
@@ -1417,7 +1419,7 @@ def render_contributing
       <li>One game per file. Do not pack multiple entries into a single file.</li>
       <li>The <code>id</code> field must equal the file name without the <code>.json</code> extension.</li>
       <li>Prefer the English (or romaji) form of the title for the slug. Use the Wikidata QID as a last resort.</li>
-      <li>Add the <code>script</code> field to every <code>titles[]</code> entry. Use ISO 15924 codes (<code>Jpan</code>, <code>Hira</code>, <code>Kana</code>, <code>Hans</code>, <code>Hant</code>, <code>Hang</code>, <code>Latn</code>, etc.).</li>
+      <li>Add the <code>script</code> field to every <code>titles[]</code> entry. Public titles use <code>Jpan</code>, <code>Hira</code>, <code>Kana</code>, or <code>Latn</code>.</li>
       <li>Do not invent new <code>source</code> values. Stick to the enum defined in the schema.</li>
     </ul>
 
@@ -1451,7 +1453,7 @@ def render_schema_doc
         <tr><td><code>category</code></td><td>string (enum)</td><td>no</td><td><code>main_game</code> (default), <code>dlc</code>, <code>expansion</code>, <code>bundle</code>, <code>remake</code>, <code>remaster</code>, <code>port</code>, <code>compilation</code>.</td></tr>
         <tr><td><code>first_release_date</code></td><td>string</td><td>no</td><td>ISO 8601 date or partial date (<code>YYYY</code>, <code>YYYY-MM</code>, <code>YYYY-MM-DD</code>).</td></tr>
         <tr><td><code>titles</code></td><td>array</td><td>yes</td><td>At least one entry. See below.</td></tr>
-        <tr><td><code>descriptions</code></td><td>array</td><td>no</td><td>Multilingual descriptions, see below.</td></tr>
+        <tr><td><code>descriptions</code></td><td>array</td><td>no</td><td>English and Japanese descriptions, see below.</td></tr>
         <tr><td><code>developers</code></td><td>string[]</td><td>no</td><td>Developer slugs.</td></tr>
         <tr><td><code>publishers</code></td><td>string[]</td><td>no</td><td>Publisher slugs.</td></tr>
         <tr><td><code>genres</code></td><td>string[]</td><td>no</td><td>Genre slugs.</td></tr>
@@ -1465,7 +1467,7 @@ def render_schema_doc
       <thead><tr><th>Field</th><th>Type</th><th>Required</th><th>Description</th></tr></thead>
       <tbody>
         <tr><td><code>text</code></td><td>string</td><td>yes</td><td>The title as it appears.</td></tr>
-        <tr><td><code>lang</code></td><td>string</td><td>yes</td><td>ISO 639-1 language code: <code>ja</code>, <code>en</code>, <code>ko</code>, <code>zh</code>, <code>es</code>, <code>fr</code>, <code>de</code>, <code>it</code>, etc.</td></tr>
+        <tr><td><code>lang</code></td><td>string</td><td>yes</td><td>Public API language: <code>en</code> or <code>ja</code>.</td></tr>
         <tr><td><code>script</code></td><td>string (enum)</td><td>yes</td><td><strong>ISO 15924 script code.</strong> See the table below.</td></tr>
         <tr><td><code>region</code></td><td>string</td><td>no</td><td>ISO 3166-1 alpha-2 country code, lowercase.</td></tr>
         <tr><td><code>form</code></td><td>string (enum)</td><td>no</td><td><code>official</code>, <code>boxart</code>, <code>ingame_logo</code>, <code>manual</code>, <code>romaji_transliteration</code>, <code>alternate</code>.</td></tr>
@@ -1482,18 +1484,13 @@ def render_schema_doc
         <tr><td><code>Jpan</code></td><td>Japanese with kanji and kana mixed</td><td>星のカービィ</td></tr>
         <tr><td><code>Hira</code></td><td>Japanese, hiragana only</td><td>くにおくん</td></tr>
         <tr><td><code>Kana</code></td><td>Japanese, katakana only</td><td>スーパーマリオブラザーズ</td></tr>
-        <tr><td><code>Hang</code></td><td>Korean hangul</td><td>별의 커비</td></tr>
-        <tr><td><code>Hans</code></td><td>Chinese, simplified</td><td>星之卡比</td></tr>
-        <tr><td><code>Hant</code></td><td>Chinese, traditional</td><td>星之卡比</td></tr>
         <tr><td><code>Latn</code></td><td>Latin script</td><td>Kirby's Dream Land</td></tr>
-        <tr><td><code>Cyrl</code></td><td>Cyrillic</td><td>Кирби</td></tr>
-        <tr><td><code>Arab</code>, <code>Hebr</code>, <code>Thai</code></td><td>Arabic, Hebrew, Thai</td><td>&mdash;</td></tr>
         <tr><td><code>Zyyy</code></td><td>Undetermined</td><td>Use as last resort.</td></tr>
       </tbody>
     </table>
 
     <h2>Description objects</h2>
-    <p>Each entry in <code>descriptions[]</code> has <code>text</code> (string), <code>lang</code> (ISO 639-1), and an optional <code>source</code> (same enum as titles).</p>
+    <p>Each public <code>descriptions[]</code> entry has <code>text</code>, <code>lang</code> (<code>en</code> or <code>ja</code>), and an optional <code>source</code>.</p>
 
     <h2>External IDs</h2>
     <p><code>external_ids</code> is an object mapping a source name to its identifier. Recognized keys:</p>
@@ -1610,7 +1607,7 @@ def main
     # count how many games on this platform have at least one
     # descriptions[] entry in that language.
     desc_total = games.size
-    desc_langs = %w[en ja ko zh fr es de it]
+    desc_langs = PUBLIC_LANGS
     desc_by_lang = desc_langs.to_h do |lang|
       hit = games.count { |g| (g['descriptions'] || []).any? { |d| d['lang'] == lang && !d['text'].to_s.strip.empty? } }
       [lang, hit]
