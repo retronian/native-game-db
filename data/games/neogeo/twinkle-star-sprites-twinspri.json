@@ -2,6 +2,33 @@
   "id": "twinkle-star-sprites-twinspri",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-11-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1997-01-31",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1997-02-21",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1996-11-25",
   "titles": [
     {
       "text": "ティンクルスタースプライツ",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Twinkle Star Sprites",
@@ -25,6 +52,24 @@
     {
       "name": "twinspri.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Twinkle%20Star%20Sprites.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Twinkle%20Star%20Sprites.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Twinkle%20Star%20Sprites.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

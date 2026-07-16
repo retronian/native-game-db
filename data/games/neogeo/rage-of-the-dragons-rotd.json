@@ -2,6 +2,27 @@
   "id": "rage-of-the-dragons-rotd",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2002-06-06",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2002-09-26",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "evoga-entertainment"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "2002-06-06",
   "titles": [
     {
       "text": "レイジ・オブ・ザ・ドラゴンズ",
@@ -9,8 +30,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Rage of the Dragons",

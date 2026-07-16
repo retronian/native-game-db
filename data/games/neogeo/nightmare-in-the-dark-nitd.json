@@ -2,6 +2,22 @@
   "id": "nightmare-in-the-dark-nitd",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2001",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "gavaking"
+  ],
+  "genres": [
+    "action",
+    "horror"
+  ],
+  "first_release_date": "2001",
   "titles": [
     {
       "text": "ナイトメア・イン・ザ・ダーク",
@@ -9,8 +25,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Nightmare in the Dark",
@@ -25,6 +41,24 @@
     {
       "name": "nitd.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Nightmare%20in%20the%20Dark.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Nightmare%20in%20the%20Dark.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Nightmare%20in%20the%20Dark.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

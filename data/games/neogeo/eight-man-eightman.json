@@ -2,6 +2,21 @@
   "id": "eight-man-eightman",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "aes",
+      "date": "1991-11-20",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1991-11-20",
   "titles": [
     {
       "text": "エイトマン",
@@ -9,8 +24,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Eight Man",

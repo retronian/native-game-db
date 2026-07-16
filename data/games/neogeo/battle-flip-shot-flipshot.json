@@ -2,6 +2,21 @@
   "id": "battle-flip-shot-flipshot",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1998-12-08",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "visco"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1998-12-08",
   "titles": [
     {
       "text": "Battle Flip Shot",
@@ -10,12 +25,39 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "フリップショット",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [
     {
       "name": "flipshot.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Battle%20Flip%20Shot.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Battle%20Flip%20Shot.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Battle%20Flip%20Shot.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

@@ -2,6 +2,22 @@
   "id": "metal-slug-5-mslug5",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "aes",
+      "date": "2004-02-19",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk-playmore"
+  ],
+  "genres": [
+    "action",
+    "shooter"
+  ],
+  "first_release_date": "2003-11-14",
   "titles": [
     {
       "text": "メタルスラッグ5",
@@ -9,8 +25,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Metal Slug 5",

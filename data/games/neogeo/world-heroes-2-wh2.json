@@ -2,6 +2,33 @@
   "id": "world-heroes-2-wh2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1993-04-26",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1993-06-04",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-04-14",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1993-04-26",
   "titles": [
     {
       "text": "ワールドヒーローズ2",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "World Heroes 2",

@@ -2,6 +2,33 @@
   "id": "fatal-fury-special-garou-densetsu-special-fatfursp",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1993-09-16",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1993-12-22",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-09-09",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1993-09-16",
   "titles": [
     {
       "text": "餓狼伝説スペシャル",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Fatal Fury Special / Garou Densetsu Special",

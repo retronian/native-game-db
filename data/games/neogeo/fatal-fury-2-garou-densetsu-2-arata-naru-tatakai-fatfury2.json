@@ -2,6 +2,33 @@
   "id": "fatal-fury-2-garou-densetsu-2-arata-naru-tatakai-fatfury2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1992-12-10",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1993-03-05",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-09-09",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1992-12-10",
   "titles": [
     {
       "text": "餓狼伝説2 新たなる闘い",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Fatal Fury 2 / Garou Densetsu 2 - Arata-naru Tatakai",

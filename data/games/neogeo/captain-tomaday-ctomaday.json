@@ -2,6 +2,21 @@
   "id": "captain-tomaday-ctomaday",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1999-05-27",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "visco"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1999-05-27",
   "titles": [
     {
       "text": "キャプテン・トマディ",
@@ -9,8 +24,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Captain Tomaday",
@@ -25,6 +40,24 @@
     {
       "name": "ctomaday.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Captain%20Tomaday.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Captain%20Tomaday.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Captain%20Tomaday.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

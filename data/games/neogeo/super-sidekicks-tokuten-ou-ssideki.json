@@ -2,6 +2,33 @@
   "id": "super-sidekicks-tokuten-ou-ssideki",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1992-12-14",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1993-02-19",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-03-31",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1992-12-14",
   "titles": [
     {
       "text": "得点王",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Super Sidekicks / Tokuten Ou",

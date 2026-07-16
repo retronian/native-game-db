@@ -2,6 +2,33 @@
   "id": "real-bout-fatal-fury-special-real-bout-garou-densetsu-special-rbffspec",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1997-01-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1997-02-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1997-03-03",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1997-01-28",
   "titles": [
     {
       "text": "リアルバウト餓狼伝説スペシャル",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",

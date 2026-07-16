@@ -2,6 +2,33 @@
   "id": "alpha-mission-ii-aso-ii-last-guardian-alpham2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1991-03-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-07-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-09-09",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1991-03-25",
   "titles": [
     {
       "text": "ASO II ラストガーディアン",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Alpha Mission II / ASO II - Last Guardian",

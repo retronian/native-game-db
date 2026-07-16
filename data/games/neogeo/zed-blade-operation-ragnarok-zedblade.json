@@ -2,6 +2,21 @@
   "id": "zed-blade-operation-ragnarok-zedblade",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1994-09-13",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "nmk"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1994-09-13",
   "titles": [
     {
       "text": "作戦名ラグナロク",
@@ -9,8 +24,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Zed Blade / Operation Ragnarok",

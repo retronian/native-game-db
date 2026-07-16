@@ -2,6 +2,27 @@
   "id": "waku-waku-7-wakuwak7",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-11-21",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-12-27",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "sunsoft"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1996-11-21",
   "titles": [
     {
       "text": "わくわく7",
@@ -9,8 +30,8 @@
       "script": "Hira",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Waku Waku 7",
@@ -25,6 +46,24 @@
     {
       "name": "wakuwak7.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Waku%20Waku%207.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Waku%20Waku%207.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Waku%20Waku%207.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

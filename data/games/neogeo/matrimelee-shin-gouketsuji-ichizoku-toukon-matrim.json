@@ -2,6 +2,28 @@
   "id": "matrimelee-shin-gouketsuji-ichizoku-toukon-matrim",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2003-03-20",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2003-05-29",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "atlus",
+    "noise-factory"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "2003-03-20",
   "titles": [
     {
       "text": "新豪血寺一族 闘婚",
@@ -19,6 +41,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "新豪血寺一族 闘婚-Matrimelee-",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

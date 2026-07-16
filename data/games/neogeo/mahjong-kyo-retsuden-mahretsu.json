@@ -2,6 +2,33 @@
   "id": "mahjong-kyo-retsuden-mahretsu",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1990-04-26",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-07-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-09-09",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "mahjong"
+  ],
+  "first_release_date": "1990-04-26",
   "titles": [
     {
       "text": "麻雀狂列伝",
@@ -19,6 +46,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "麻雀狂列伝　－西日本編－",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

@@ -2,6 +2,33 @@
   "id": "stakes-winner-stakes-winner-gi-kinzen-seiha-e-no-michi-stakwin",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-09-27",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-10-27",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-03-22",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "saurus"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1995-09-27",
   "titles": [
     {
       "text": "ステークスウィナー",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Stakes Winner / Stakes Winner - GI Kinzen Seiha e no Michi",

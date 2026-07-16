@@ -2,6 +2,27 @@
   "id": "the-king-of-fighters-2001-kof2001",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2001-11-15",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2002-03-14",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk-playmore"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "2001-11-15",
   "titles": [
     {
       "text": "ザ・キング・オブ・ファイターズ2001",
@@ -9,8 +30,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "The King of Fighters 2001",

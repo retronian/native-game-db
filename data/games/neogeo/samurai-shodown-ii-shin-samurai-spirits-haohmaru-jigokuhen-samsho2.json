@@ -2,6 +2,33 @@
   "id": "samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-samsho2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1994-10-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1994-12-02",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-12-15",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1994-10-28",
   "titles": [
     {
       "text": "真サムライスピリッツ 覇王丸地獄変",
@@ -19,6 +46,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "真サムライスピリッツ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

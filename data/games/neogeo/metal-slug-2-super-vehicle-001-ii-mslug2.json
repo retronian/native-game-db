@@ -2,6 +2,33 @@
   "id": "metal-slug-2-super-vehicle-001-ii-mslug2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1998-02-23",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1998-04-02",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1998-06-25",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1998-02-23",
   "titles": [
     {
       "text": "メタルスラッグ2",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Metal Slug 2 - Super Vehicle-001/II",

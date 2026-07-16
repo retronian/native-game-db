@@ -2,6 +2,27 @@
   "id": "janshin-densetsu-quest-of-jongmaster-janshin",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1994-06-29",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-03-31",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "eicom"
+  ],
+  "genres": [
+    "mahjong"
+  ],
+  "first_release_date": "1994-06-29",
   "titles": [
     {
       "text": "雀神伝説",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Janshin Densetsu - Quest of Jongmaster",

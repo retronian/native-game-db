@@ -2,6 +2,27 @@
   "id": "neo-geo-cup-98-the-road-to-the-victory-neocup98",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1998-05-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1998-07-30",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1998-05-28",
   "titles": [
     {
       "text": "ネオジオカップ'98",
@@ -19,12 +40,39 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "ネオジオカップ'98 THE ROAD TO THE VICTORY",
+      "lang": "ja",
+      "script": "Kana",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [
     {
       "name": "neocup98.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Neo-Geo%20Cup%20%2798%20-%20The%20Road%20to%20the%20Victory.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Neo-Geo%20Cup%20%2798%20-%20The%20Road%20to%20the%20Victory.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Neo-Geo%20Cup%20%2798%20-%20The%20Road%20to%20the%20Victory.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

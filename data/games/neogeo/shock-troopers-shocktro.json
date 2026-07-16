@@ -2,6 +2,21 @@
   "id": "shock-troopers-shocktro",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1997-11-11",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "saurus"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1997-11-11",
   "titles": [
     {
       "text": "ショックトルーパーズ",
@@ -9,8 +24,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Shock Troopers",

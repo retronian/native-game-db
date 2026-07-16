@@ -2,6 +2,33 @@
   "id": "aero-fighters-3-sonic-wings-3-sonicwi3",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-10-12",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-11-17",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-12-08",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "video-system"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1995-10-12",
   "titles": [
     {
       "text": "ソニックウィングス3",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Aero Fighters 3 / Sonic Wings 3",

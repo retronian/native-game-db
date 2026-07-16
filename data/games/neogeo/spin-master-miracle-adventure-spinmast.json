@@ -2,6 +2,27 @@
   "id": "spin-master-miracle-adventure-spinmast",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1993-12-16",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1994-02-18",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "data-east"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1993-12-16",
   "titles": [
     {
       "text": "ミラクルアドベンチャー",
@@ -9,8 +30,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Spin Master / Miracle Adventure",

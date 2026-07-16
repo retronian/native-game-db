@@ -2,6 +2,33 @@
   "id": "ninja-commando-ncommand",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1992-04-30",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1992-05-29",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-10-31",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "shooter"
+  ],
+  "first_release_date": "1992-04-30",
   "titles": [
     {
       "text": "ニンジャコマンドー",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Ninja Commando",
@@ -25,6 +52,24 @@
     {
       "name": "ncommand.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Ninja%20Commando.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Ninja%20Commando.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Ninja%20Commando.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

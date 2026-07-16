@@ -2,6 +2,21 @@
   "id": "zintrick-oshidashi-zentrix-zintrckb",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "neogeo_cd",
+      "date": "1996-03-22",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "puzzle"
+  ],
+  "first_release_date": "1996-03-22",
   "titles": [
     {
       "text": "Zintrick / Oshidashi Zentrix",
@@ -10,6 +25,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "押し出しジントリック",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

@@ -2,6 +2,27 @@
   "id": "magical-drop-iii-magdrop3",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1997-02-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1997-04-25",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "data-east"
+  ],
+  "genres": [
+    "puzzle"
+  ],
+  "first_release_date": "1997-02-25",
   "titles": [
     {
       "text": "マジカルドロップ3",
@@ -9,8 +30,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Magical Drop III",
@@ -25,6 +46,24 @@
     {
       "name": "magdrop3.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Magical%20Drop%20III.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Magical%20Drop%20III.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Magical%20Drop%20III.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

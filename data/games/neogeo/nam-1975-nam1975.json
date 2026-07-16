@@ -2,6 +2,33 @@
   "id": "nam-1975-nam1975",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1990-04-26",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-07-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-09-09",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1990-04-26",
   "titles": [
     {
       "text": "NAM-1975",
@@ -9,8 +36,8 @@
       "script": "Latn",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "NAM-1975",

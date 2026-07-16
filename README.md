@@ -61,7 +61,7 @@ See [`schema/game.schema.json`](schema/game.schema.json) for the full schema.
 - `script` — **ISO 15924 script code** (`Jpan` / `Hira` / `Kana` / `Hans` / `Hant` / `Latn` / ...)
 - `region` — ISO 3166-1 country code, lowercase (`jp` / `us` / `eu` / `kr` / ...)
 - `form` — `official` / `boxart` / `ingame_logo` / `manual` / `romaji_transliteration` / `alternate`
-- `source` — `wikidata` / `igdb` / `mobygames` / `screenscraper` / `no_intro` / `libretro_dats` / `community` / `manual`
+- `source` — `wikidata` / `igdb` / `mobygames` / `screenscraper` / `no_intro` / `libretro_dats` / `fbneo` / `snk` / `community` / `manual`
 - `verified` — whether the entry has been confirmed against a primary source (title screen, original packaging)
 
 ## Static API
@@ -92,7 +92,7 @@ The database is published as static JSON over GitHub Pages: **https://gamedb.ret
 | `wsc` | WonderSwan Color | 92 |
 | `arcade` | Arcade | 20 |
 | `cps3` | CP System III | 6 |
-| `neogeo` | Neo Geo | 153 |
+| `neogeo` | Neo Geo | 146 |
 | `saturn` | Sega Saturn | 4 |
 | `n64` | Nintendo 64 | 597 |
 | `nds` | Nintendo DS | 5,779 |
@@ -148,6 +148,7 @@ auditable. The full set of upstream sources is:
 | [No-Intro DAT](https://datomatic.no-intro.org/) | factual ROM metadata | `roms[]` (hashes, serials, sizes) |
 | [libretro-database](https://github.com/libretro/libretro-database) | per-repo | additional DAT-derived `roms[]` mappings |
 | [libretro-thumbnails](https://github.com/libretro-thumbnails/) | per-repo | `media[]` URLs |
+| [SNK NEOGEO MUSEUM](https://neogeomuseum.snk-corp.co.jp/catalogue/index.php) | official factual metadata | Neo Geo titles, release dates, publishers, genres |
 | [retronian/romu](https://github.com/retronian/romu), [komagata/gamelist-ja](https://github.com/komagata/gamelist-ja), [komagata/skyscraper-ja](https://github.com/komagata/skyscraper-ja) | MIT (sister projects) | hand-curated Japanese titles + descriptions |
 
 We deliberately **do not** ingest IGDB, MobyGames or GameFAQs: their
@@ -162,6 +163,22 @@ Maintainers ingest accepted issues with:
 ```bash
 ruby scripts/ingest_issue.rb <issue#>
 ```
+
+Neo Geo entries can be audited against SNK's official NEOGEO MUSEUM
+catalogue without changing canonical data:
+
+```bash
+ruby scripts/audit_neogeo_catalogue.rb
+ruby scripts/merge_neogeo_catalogue.rb --dry-run
+ruby scripts/merge_neogeo_catalogue.rb
+```
+
+The TSV report separates exact title matches from local-only and
+official-only review candidates. An unmatched entry is not automatically
+treated as unreleased because punctuation and regional title variants differ.
+The merge command adds only missing `first_release_date`, `publishers[]` and
+`genres[]` values from exact or curated-alias SNK matches and vetted FBNeo
+entries. It never overwrites an existing value.
 
 Regular pull requests that edit `data/games/{platform}/{id}.json` directly are also welcome.
 

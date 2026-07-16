@@ -2,6 +2,33 @@
   "id": "samurai-shodown-iv-amakusa-s-revenge-samurai-spirits-amakusa-kourin-samsho4",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-10-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-11-29",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-12-27",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1996-10-25",
   "titles": [
     {
       "text": "サムライスピリッツ 天草降臨",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin",

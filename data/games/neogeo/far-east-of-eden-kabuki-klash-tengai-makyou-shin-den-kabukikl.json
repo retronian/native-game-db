@@ -2,6 +2,33 @@
   "id": "far-east-of-eden-kabuki-klash-tengai-makyou-shin-den-kabukikl",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-06-20",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-07-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-11-24",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "hudson-soft"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1995-06-20",
   "titles": [
     {
       "text": "天外魔境 真伝",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",

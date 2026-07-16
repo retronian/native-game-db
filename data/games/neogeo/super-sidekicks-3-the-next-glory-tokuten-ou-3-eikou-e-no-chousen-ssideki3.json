@@ -2,6 +2,33 @@
   "id": "super-sidekicks-3-the-next-glory-tokuten-ou-3-eikou-e-no-chousen-ssideki3",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-03-07",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-04-07",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-06-23",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1995-03-07",
   "titles": [
     {
       "text": "得点王3",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - Eikou e no Chousen",

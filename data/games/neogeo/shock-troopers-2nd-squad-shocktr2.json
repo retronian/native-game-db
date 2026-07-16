@@ -2,6 +2,28 @@
   "id": "shock-troopers-2nd-squad-shocktr2",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1998-11-06",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1999-06-24",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "saurus"
+  ],
+  "genres": [
+    "action",
+    "shooter"
+  ],
+  "first_release_date": "1998-11-06",
   "titles": [
     {
       "text": "ショックトルーパーズ セカンドスカッド",
@@ -9,8 +31,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Shock Troopers - 2nd Squad",
@@ -25,6 +47,24 @@
     {
       "name": "shocktr2.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Shock%20Troopers%20-%202nd%20Squad.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Shock%20Troopers%20-%202nd%20Squad.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Shock%20Troopers%20-%202nd%20Squad.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

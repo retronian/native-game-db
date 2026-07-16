@@ -2,6 +2,33 @@
   "id": "metal-slug-super-vehicle-001-mslug",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-04-19",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-05-24",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-07-05",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "nazca"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1996-04-19",
   "titles": [
     {
       "text": "メタルスラッグ",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Metal Slug - Super Vehicle-001",
@@ -25,6 +52,24 @@
     {
       "name": "mslug.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

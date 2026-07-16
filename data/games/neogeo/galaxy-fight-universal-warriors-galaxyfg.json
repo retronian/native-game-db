@@ -2,6 +2,33 @@
   "id": "galaxy-fight-universal-warriors-galaxyfg",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-01-24",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-02-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-04-21",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "sunsoft"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1995-01-24",
   "titles": [
     {
       "text": "ギャラクシーファイト",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Galaxy Fight - Universal Warriors",
@@ -25,6 +52,24 @@
     {
       "name": "galaxyfg.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Galaxy%20Fight%20-%20Universal%20Warriors.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Galaxy%20Fight%20-%20Universal%20Warriors.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Galaxy%20Fight%20-%20Universal%20Warriors.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

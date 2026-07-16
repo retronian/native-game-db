@@ -2,6 +2,33 @@
   "id": "ninja-combat-ncombat",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1990-07-24",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-07-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1994-10-31",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1990-07-24",
   "titles": [
     {
       "text": "ニンジャコンバット",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Ninja Combat",

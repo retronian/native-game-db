@@ -2,6 +2,33 @@
   "id": "the-king-of-fighters-98-the-slugfest-king-of-fighters-98-dream-match-never-ends-kof98",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1998-07-23",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1998-09-23",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1998-12-23",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1998-07-23",
   "titles": [
     {
       "text": "ザ・キング・オブ・ファイターズ'98",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends",

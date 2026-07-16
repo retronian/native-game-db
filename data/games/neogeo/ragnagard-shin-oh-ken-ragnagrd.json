@@ -2,6 +2,33 @@
   "id": "ragnagard-shin-oh-ken-ragnagrd",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-06-13",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-07-26",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-08-23",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "saurus"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1996-06-13",
   "titles": [
     {
       "text": "神凰拳",
@@ -19,6 +46,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "神鳳拳",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

@@ -2,6 +2,27 @@
   "id": "garou-mark-of-the-wolves-garou",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1999-11-26",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2000-02-25",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1999-11-26",
   "titles": [
     {
       "text": "餓狼 MARK OF THE WOLVES",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Garou - Mark of the Wolves",

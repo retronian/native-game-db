@@ -2,6 +2,27 @@
   "id": "the-king-of-fighters-2002-kof2002",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2002-10-10",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2002-12-19",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk-playmore"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "2002-10-10",
   "titles": [
     {
       "text": "ザ・キング・オブ・ファイターズ2002",
@@ -9,8 +30,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "The King of Fighters 2002",

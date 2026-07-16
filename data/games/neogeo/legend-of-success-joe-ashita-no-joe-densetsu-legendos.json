@@ -2,6 +2,27 @@
   "id": "legend-of-success-joe-ashita-no-joe-densetsu-legendos",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1991-07",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-08-30",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "wave"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "1991-07",
   "titles": [
     {
       "text": "あしたのジョー伝説",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Legend of Success Joe / Ashita no Joe Densetsu",

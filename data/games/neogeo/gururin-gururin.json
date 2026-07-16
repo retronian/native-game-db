@@ -2,6 +2,21 @@
   "id": "gururin-gururin",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1994-05-25",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "face"
+  ],
+  "genres": [
+    "puzzle"
+  ],
+  "first_release_date": "1994-05-25",
   "titles": [
     {
       "text": "ぐるりん",
@@ -9,8 +24,8 @@
       "script": "Hira",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Gururin",
@@ -25,6 +40,24 @@
     {
       "name": "gururin.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Gururin.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Gururin.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Gururin.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

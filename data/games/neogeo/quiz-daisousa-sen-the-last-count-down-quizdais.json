@@ -2,6 +2,27 @@
   "id": "quiz-daisousa-sen-the-last-count-down-quizdais",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1991-07",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-08-30",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "quiz"
+  ],
+  "first_release_date": "1991-07",
   "titles": [
     {
       "text": "クイズ大捜査線",
@@ -19,6 +40,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "クイズ大捜査線 THE LAST COUNT DOWN",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

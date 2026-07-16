@@ -2,6 +2,27 @@
   "id": "minasan-no-okagesamadesu-dai-sugoroku-taikai-minasan",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1991-07-25",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-07-21",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "monolith"
+  ],
+  "genres": [
+    "tabletop"
+  ],
+  "first_release_date": "1991-07-21",
   "titles": [
     {
       "text": "みなさんのおかげさまです! 大スゴロク大会",
@@ -19,6 +40,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "みなさんのおかげさまです",
+      "lang": "ja",
+      "script": "Hira",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

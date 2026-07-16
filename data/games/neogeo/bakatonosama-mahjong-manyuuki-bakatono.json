@@ -2,6 +2,27 @@
   "id": "bakatonosama-mahjong-manyuuki-bakatono",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1991-11",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1991-12-13",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "monolith"
+  ],
+  "genres": [
+    "mahjong"
+  ],
+  "first_release_date": "1991-11",
   "titles": [
     {
       "text": "バカ殿様麻雀漫遊記",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Bakatonosama Mahjong Manyuuki",

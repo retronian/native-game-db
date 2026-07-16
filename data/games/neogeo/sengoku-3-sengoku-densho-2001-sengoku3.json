@@ -2,6 +2,27 @@
   "id": "sengoku-3-sengoku-densho-2001-sengoku3",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2001-07-18",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2001-10-25",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk-playmore"
+  ],
+  "genres": [
+    "action"
+  ],
+  "first_release_date": "2001-07-18",
   "titles": [
     {
       "text": "戦国伝承2001",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Sengoku 3 / Sengoku Densho 2001",

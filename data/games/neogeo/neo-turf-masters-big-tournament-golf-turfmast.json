@@ -2,6 +2,33 @@
   "id": "neo-turf-masters-big-tournament-golf-turfmast",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-01-29",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-03-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-05-03",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "nazca"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1996-01-29",
   "titles": [
     {
       "text": "ビッグトーナメントゴルフ",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Neo Turf Masters / Big Tournament Golf",

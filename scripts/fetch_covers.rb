@@ -96,7 +96,14 @@ def url_for(repo, branch, repo_path)
 end
 
 def add_media_if_new(media, incoming)
-  return :duplicate if media.any? { |m| m['url'] == incoming['url'] }
+  existing = media.find { |m| m['url'] == incoming['url'] }
+  if existing
+    missing = incoming.reject { |key, _| existing.key?(key) }
+    return :duplicate if missing.empty?
+
+    existing.merge!(missing)
+    return :updated
+  end
   media << incoming
   :added
 end
@@ -154,9 +161,10 @@ def process_platform(platform_id, dry_run:)
         next unless hit
         url = url_for(hit[:repo], hit[:branch], hit[:repo_path])
         incoming = { 'kind' => kind, 'url' => url, 'source' => 'libretro_thumbnails' }
+        incoming['system'] = 'aes' if platform_id == 'neogeo' && kind == 'boxart'
         incoming['region'] = rom['region'] if rom['region']
         r = add_media_if_new(game['media'], incoming)
-        touched = true if r == :added
+        touched = true unless r == :duplicate
         per[r] += 1
       end
     end
@@ -183,10 +191,11 @@ def process_platform(platform_id, dry_run:)
             next unless hit
             url = url_for(hit[:repo], hit[:branch], hit[:repo_path])
             incoming = { 'kind' => kind, 'url' => url, 'source' => 'libretro_thumbnails' }
+            incoming['system'] = 'aes' if platform_id == 'neogeo' && kind == 'boxart'
             region = suffix_to_region[suffix]
             incoming['region'] = region if region
             r = add_media_if_new(game['media'], incoming)
-            touched = true if r == :added
+            touched = true unless r == :duplicate
             per[r] += 1
           end
         end

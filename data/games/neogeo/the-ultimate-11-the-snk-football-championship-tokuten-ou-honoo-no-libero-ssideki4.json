@@ -2,6 +2,27 @@
   "id": "the-ultimate-11-the-snk-football-championship-tokuten-ou-honoo-no-libero-ssideki4",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-10-16",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-12-20",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1996-10-16",
   "titles": [
     {
       "text": "得点王 炎のリベロ",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",

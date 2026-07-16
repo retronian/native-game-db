@@ -2,6 +2,28 @@
   "id": "samurai-shodown-v-special-samurai-spirits-zero-special-samsh5sp",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2004-04-22",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "2004-07-15",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk-playmore",
+    "yuki-enterprise"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "2004-04-22",
   "titles": [
     {
       "text": "サムライスピリッツ零スペシャル",
@@ -9,8 +31,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Samurai Shodown V Special / Samurai Spirits Zero Special",

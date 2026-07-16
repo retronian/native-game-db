@@ -2,6 +2,33 @@
   "id": "ninja-master-s-haoh-ninpo-cho-ninjamas",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-05-27",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-06-28",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1996-09-27",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1996-05-27",
   "titles": [
     {
       "text": "ニンジャマスターズ 覇王忍法帖",
@@ -19,6 +46,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "NINJA MASTER'S ～霸王忍法帖～",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

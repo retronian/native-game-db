@@ -2,6 +2,27 @@
   "id": "chibi-maruko-chan-maruko-deluxe-quiz-marukodq",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-11-27",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-01-26",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "takara"
+  ],
+  "genres": [
+    "variety"
+  ],
+  "first_release_date": "1995-11-27",
   "titles": [
     {
       "text": "ちびまる子ちゃん まる子デラックスクイズ",
@@ -19,6 +40,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "まる子デラックスクイズ",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

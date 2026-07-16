@@ -2,6 +2,33 @@
   "id": "street-hoop-street-slam-dunk-dream-strhoop",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1994-12-08",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1994-12-09",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-01-20",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "data-east"
+  ],
+  "genres": [
+    "sports"
+  ],
+  "first_release_date": "1994-12-08",
   "titles": [
     {
       "text": "ダンクドリーム",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Street Hoop / Street Slam / Dunk Dream",

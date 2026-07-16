@@ -2,6 +2,27 @@
   "id": "kizuna-encounter-super-tag-battle-fu-un-super-tag-battle-kizuna",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1996-09-20",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1996-11-08",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "snk"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1996-09-20",
   "titles": [
     {
       "text": "風雲スーパータッグバトル",
@@ -9,8 +30,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",

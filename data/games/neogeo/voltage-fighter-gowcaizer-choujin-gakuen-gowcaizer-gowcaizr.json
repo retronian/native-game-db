@@ -2,6 +2,33 @@
   "id": "voltage-fighter-gowcaizer-choujin-gakuen-gowcaizer-gowcaizr",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-09-18",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-10-20",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-11-24",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "technos-japan"
+  ],
+  "genres": [
+    "fighting"
+  ],
+  "first_release_date": "1995-09-18",
   "titles": [
     {
       "text": "超人学園ゴウカイザー",
@@ -9,8 +36,8 @@
       "script": "Jpan",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",

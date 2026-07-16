@@ -2,6 +2,21 @@
   "id": "bang-bead-bangbead",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2000",
+      "region": "jp",
+      "source": "fbneo"
+    }
+  ],
+  "first_release_date": "2000",
+  "publishers": [
+    "visco"
+  ],
+  "genres": [
+    "puzzle"
+  ],
   "titles": [
     {
       "text": "Bang Bead",
@@ -16,6 +31,24 @@
     {
       "name": "bangbead.zip",
       "source": "fbneo"
+    }
+  ],
+  "media": [
+    {
+      "kind": "boxart",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Bang%20Bead.png",
+      "source": "libretro_thumbnails",
+      "system": "aes"
+    },
+    {
+      "kind": "titlescreen",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Titles/Bang%20Bead.png",
+      "source": "libretro_thumbnails"
+    },
+    {
+      "kind": "screenshot",
+      "url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Snaps/Bang%20Bead.png",
+      "source": "libretro_thumbnails"
     }
   ]
 }

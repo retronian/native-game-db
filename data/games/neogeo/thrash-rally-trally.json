@@ -2,6 +2,21 @@
   "id": "thrash-rally-trally",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "aes",
+      "date": "1991-12-20",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "adk"
+  ],
+  "genres": [
+    "racing"
+  ],
+  "first_release_date": "1991-12-20",
   "titles": [
     {
       "text": "スラッシュラリー",
@@ -9,8 +24,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Thrash Rally",

@@ -2,6 +2,33 @@
   "id": "quiz-king-of-fighters-quizkof",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "1995-02-01",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "aes",
+      "date": "1995-03-10",
+      "region": "jp",
+      "source": "snk"
+    },
+    {
+      "system": "neogeo_cd",
+      "date": "1995-04-07",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "saurus"
+  ],
+  "genres": [
+    "quiz"
+  ],
+  "first_release_date": "1995-02-01",
   "titles": [
     {
       "text": "クイズ キング・オブ・ファイターズ",
@@ -9,8 +36,8 @@
       "script": "Kana",
       "region": "jp",
       "form": "official",
-      "source": "manual",
-      "verified": false
+      "source": "snk",
+      "verified": true
     },
     {
       "text": "Quiz King of Fighters",

@@ -2,6 +2,21 @@
   "id": "pochi-and-nyaa-pnyaa",
   "platform": "neogeo",
   "category": "main_game",
+  "releases": [
+    {
+      "system": "mvs",
+      "date": "2003-12-24",
+      "region": "jp",
+      "source": "snk"
+    }
+  ],
+  "publishers": [
+    "aiky"
+  ],
+  "genres": [
+    "puzzle"
+  ],
+  "first_release_date": "2003-12-24",
   "titles": [
     {
       "text": "ぽちとにゃ〜",
@@ -19,6 +34,15 @@
       "form": "official",
       "source": "fbneo",
       "verified": false
+    },
+    {
+      "text": "ポチッとにゃ～",
+      "lang": "ja",
+      "script": "Jpan",
+      "region": "jp",
+      "form": "official",
+      "source": "snk",
+      "verified": true
     }
   ],
   "roms": [

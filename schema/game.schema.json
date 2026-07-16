@@ -28,6 +28,21 @@
       "description": "最初のリリース日（ISO 8601、部分指定可）",
       "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
     },
+    "releases": {
+      "type": "array",
+      "description": "プラットフォーム内の発売形態別リリース情報",
+      "items": {
+        "type": "object",
+        "required": ["system", "date", "region", "source"],
+        "additionalProperties": false,
+        "properties": {
+          "system": { "type": "string", "enum": ["mvs", "aes", "neogeo_cd"] },
+          "date": { "type": "string", "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$" },
+          "region": { "type": "string", "pattern": "^[a-z]{2}$" },
+          "source": { "type": "string", "enum": ["snk", "fbneo", "manual"] }
+        }
+      }
+    },
     "titles": {
       "type": "array",
       "description": "ゲームタイトルの多言語・多スクリプト表記",
@@ -86,7 +101,7 @@
           "source": {
             "type": "string",
             "description": "データの出典",
-            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "libretro_dats", "fbneo", "mame", "gamelist_ja", "skyscraper_ja", "community", "manual"]
+            "enum": ["wikidata", "igdb", "mobygames", "screenscraper", "no_intro", "libretro_dats", "fbneo", "mame", "snk", "gamelist_ja", "skyscraper_ja", "community", "manual"]
           },
           "verified": {
             "type": "boolean",
@@ -232,6 +247,11 @@
           "region": {
             "type": "string",
             "description": "ISO 3166-1 alpha-2 国コード（版別パッケージ等）"
+          },
+          "system": {
+            "type": "string",
+            "description": "同一プラットフォーム内の発売形態",
+            "enum": ["mvs", "aes", "neogeo_cd"]
           },
           "source": {
             "type": "string",
