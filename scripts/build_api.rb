@@ -850,14 +850,6 @@ def render_landing(stats, platforms_meta)
     LI
   }.join
 
-  scripts_rows = stats['scripts'].map { |k, v|
-    "<tr><th><code>#{h(k)}</code></th><td>#{v}</td></tr>"
-  }.join
-
-  langs_rows = stats['languages'].map { |k, v|
-    "<tr><th><code>#{h(k)}</code></th><td>#{v}</td></tr>"
-  }.join
-
   # Aggregate coverage per native-language across all platforms.
   overall_by_lang = NATIVE_LANGS.keys.each_with_object({}) do |lang, acc|
     rows_for_lang = platforms_meta.map { |p| p.dig('by_lang', lang) }.compact
@@ -928,12 +920,6 @@ def render_landing(stats, platforms_meta)
     <ul class="platform-grid">#{rows}</ul>
 
     #{desc_table}
-
-    <h2>Title languages</h2>
-    <table class="stats-table">#{langs_rows}</table>
-
-    <h2>Title scripts (ISO 15924)</h2>
-    <table class="stats-table">#{scripts_rows}</table>
 
     <h2>API</h2>
     <p>Every page on this site has a JSON counterpart under <code>/api/#{API_VERSION}/</code>. See the <a href="docs/schema.html">schema specification</a> for details.</p>
